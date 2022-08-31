@@ -12,3 +12,4 @@
 {"name":"better_term","vers":"1.3.2","deps":[],"cksum":"2263abbc53ea0da968af13d2ccc6513da653dd57bd4ba9ae56008e1a61925aa7","features":{"input":[],"default":["input"]},"yanked":false,"links":null}
 {"name":"better_term","vers":"1.3.3","deps":[],"cksum":"67602f1ab23cddc48c83e50e920e80f14f449b61e568d6c54c84874cd56c538e","features":{"default":["input","output"],"input":[],"output":[]},"yanked":false,"links":null}
 {"name":"better_term","vers":"1.3.4","deps":[],"cksum":"1f17d0448ffae433ea63b60fb0785a189b44aeabd6b3ca911c596841d8ab2ba5","features":{"default":["input","output"],"input":[],"output":[]},"yanked":false,"links":null}
+{"name":"better_term","vers":"1.3.5","deps":[],"cksum":"4b960f07f7f072ff6e3c30489a16eefeccdd082cb0cf60dd86bcac39b4efa4fc","features":{"default":["input","output"],"input":[],"output":[]},"yanked":false,"links":null}
