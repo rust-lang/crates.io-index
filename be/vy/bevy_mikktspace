@@ -1,0 +1,2 @@
+{"name":"bevy_mikktspace","vers":"0.8.0","deps":[{"name":"glam","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40b299a61175a6f7e7398f83cd5b50920fd8bad4df674e614ad94f25f8426509","features":{},"yanked":false,"links":null}
+{"name":"bevy_mikktspace","vers":"0.8.1","deps":[{"name":"glam","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"941e7d3d4e1dbb735f040e4cdc1558be1d3c38d43f1d9fdbb039c39a7849a00b","features":{},"yanked":false,"links":null}

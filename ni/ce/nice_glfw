@@ -1,0 +1,1 @@
+{"name":"nice_glfw","vers":"1.0.1","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glfw","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5c06ee9f9e53521fffff56811b4846268c0a855c9617dff456066328f798fc5","features":{},"yanked":false}

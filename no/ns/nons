@@ -1,0 +1,1 @@
+{"name":"nons","vers":"0.1.0","deps":[{"name":"rust-htslib","req":"0.12.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bio","req":"0.14.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49b5bd8eb6241af4f644bd70e9b95db2c2e5b8e631d0388cae67070580250126","features":{},"yanked":false}

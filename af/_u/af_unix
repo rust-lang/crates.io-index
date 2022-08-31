@@ -1,0 +1,1 @@
+{"name":"af_unix","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"errno","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0c37e918a80caeb4fe96fd3ec3de97f181af438af4ca5198bcc0a8f910ecc7e","features":{},"yanked":false}

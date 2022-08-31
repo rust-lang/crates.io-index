@@ -1,0 +1,3 @@
+{"name":"semver-trick","vers":"0.2.0","deps":[],"cksum":"cda1b1555363b392489507b6cb4b1433781687c88103b51c5fcc70bfee7f7c41","features":{},"yanked":false}
+{"name":"semver-trick","vers":"0.3.0","deps":[],"cksum":"778a6d5765e69ee2a5bfd07b480000ba47a5190aadd082aa82eaeaeaff9b3e67","features":{},"yanked":false}
+{"name":"semver-trick","vers":"0.2.1","deps":[{"name":"semver-trick","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60432a62e094d2ec68b92a344a84d063b4d2de8cdb3634c10a1fd2e2cfd387a5","features":{},"yanked":false}

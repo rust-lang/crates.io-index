@@ -1,0 +1,2 @@
+{"name":"url-crawl","vers":"0.0.0","deps":[],"cksum":"466fb3b1484fcfbbf6dc5d56e44235764692aae8ffabde7868b7e9bc6962e319","features":{},"yanked":false,"links":null}
+{"name":"url-crawl","vers":"0.1.0","deps":[{"name":"select","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"531509e7a6fc8e4d95d9d3fa98dd327607ba5bd66df996a51175c59f33e83f0e","features":{},"yanked":false,"links":null}

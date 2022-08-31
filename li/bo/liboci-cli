@@ -1,0 +1,1 @@
+{"name":"liboci-cli","vers":"0.0.3","deps":[{"name":"clap","req":"^3.1.7","features":["std","suggestions","derive","cargo"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c25aa929b6575121059b01bfd7289dedf25a988534b6550d3472ccd5064be8ce","features":{},"yanked":false,"links":null}

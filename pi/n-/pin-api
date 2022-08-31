@@ -1,0 +1,6 @@
+{"name":"pin-api","vers":"0.1.0","deps":[],"cksum":"806c195096cb6819b6b166572e5c79a8ff8b5a1c8c238820b77bd86a9944bcd0","features":{"std":[],"default-features":["std"]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.1.1","deps":[],"cksum":"fd268ff56a2b1e7f0f2e4bbb963bd3f9173e4eaac4deec238c6e29dc4cad8c52","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.1.2","deps":[],"cksum":"c02185918706b2f8fe6021395d46c42cd640d7c2a5a138c44580353bfa528dfd","features":{"std":[],"nightly":[],"default":["std","nightly"]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.1.3","deps":[],"cksum":"f8ede9061a87cf9393d581087a23b2afbc0618933c7ba29a349e306055c1a999","features":{"default":["std","nightly"],"nightly":[],"std":[]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.2.0","deps":[],"cksum":"0c9df83a4550d135b154105eb06df9c5d2b3345ecc27e243418f03582b543a83","features":{"std":[],"nightly":[],"default":["std","nightly"]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.2.1","deps":[],"cksum":"4806efe6dbda279bde1fe6e07de93e0a022487f290b5dee3e465793e1c34f7ad","features":{"default":["std","nightly"],"std":[],"nightly":[]},"yanked":false,"links":null}

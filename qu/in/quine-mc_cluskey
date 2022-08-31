@@ -1,0 +1,7 @@
+{"name":"quine-mc_cluskey","vers":"0.1.0","deps":[],"cksum":"945b2aad588f91b09a2763f77d40eee4688888b78393b45f4e8d5758e2efea4b","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.1.1","deps":[],"cksum":"af7d6a64ed4acf6fcc0fde890bc3e8a2deb7b885b7f623b7802c37a5065aa22b","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.2.0","deps":[],"cksum":"e1c509a8fb546d6ce8364c9f7996ee5370fb3b4d9465a945985b5a4d3bda85c6","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.2.1","deps":[],"cksum":"10e1c02d404f96d72503746b96f8653baf2cb09557c828f1bfe606092b094030","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.2.2","deps":[],"cksum":"a6683b0e23d80813b1a535841f0048c1537d3f86d63c999e8373b39a9b0eb74a","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.2.3","deps":[{"name":"quickcheck","req":"^0.3.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8f9a75e9319beed349f32bb252bcd7cafe4cce6c57a9ddcc9a8ffd3c49c3659","features":{},"yanked":false}
+{"name":"quine-mc_cluskey","vers":"0.2.4","deps":[{"name":"quickcheck","req":"^0.3.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07589615d719a60c8dd8a4622e7946465dfef20d1a428f969e3443e7386d5f45","features":{},"yanked":false}

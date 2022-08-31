@@ -1,0 +1,14 @@
+{"name":"extended-rational","vers":"1.0.0","deps":[],"cksum":"9579a878f80952fe07d9dbd62cb179c44150a205c10b90dd8d44e1ad52acfa48","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.0.1","deps":[],"cksum":"6129a56f9e2e91e5e0d563372ac5c978a25a598882ecb87d2fbe06f4fd8ab518","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.0.2","deps":[],"cksum":"ee613bd9e23540c39e5ef6ced49deccce6fa4dd221b3be6bd656f0f68fa78904","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.0.3","deps":[],"cksum":"115bf0f10d37c48fb26d15d0d0935d8c450a20c978402177256408c23cb7a2e0","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.0.4","deps":[],"cksum":"40c9e3fd53761d4008f54c167bf495a5ae4a96daa6de1b48cf818cf38f07133e","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.1.0","deps":[],"cksum":"d37db29914e5e0078ae98be865fe21dd2b1190a03fbbe562c0ca70de83c3eee4","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.1.1","deps":[],"cksum":"ba543156136c83d134fe82458dd44fcfb7590a386c72c33b18987a14c6d5937b","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.1.2","deps":[],"cksum":"32ca0d0315498633548843949ff105b242708df08406a41816b23ab9b66b4af9","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.2.0","deps":[],"cksum":"42b5badae11b6787c6b62667bc8d3bf8324080f427bd33401bc47fea7ab09b08","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.2.1","deps":[],"cksum":"1332d660c3ff584640440a599a8f74dfae29bcb1a41a720c3a1364c0d68bd3b8","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.3.0","deps":[],"cksum":"83f3b1cf7d6ed1c89a6399dcc8bccb29aec3a16a7f63db96f5c99c2c72c56cc3","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.3.1","deps":[],"cksum":"9cf857eed116c82e6b24a0d884137ba845eb0a8f3a8bdb227d963a5741f88cfb","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.3.2","deps":[],"cksum":"ec79b046fe0cd975c7e7f34856a00e9480552762d176999cbe3d7b6dd7ef5d36","features":{},"yanked":false}
+{"name":"extended-rational","vers":"1.3.3","deps":[{"name":"bit_manager","req":"^0.5.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"bit_manager_derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a32c8a977189e50e91da030b2bd3dfc950178d5d9a263fde57c61fe642b5ea8b","features":{"bit_manager_enabled":["bit_manager","bit_manager_derive"],"default":[]},"yanked":false}

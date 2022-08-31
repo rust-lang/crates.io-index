@@ -1,0 +1,3 @@
+{"name":"actix-web-extract","vers":"0.1.0","deps":[],"cksum":"7e57b4457ef9f68f9201c76a75c71fc4cbc8f8edc6e107f8750b5ff5fc07f779","features":{},"yanked":true,"links":null}
+{"name":"actix-web-extract","vers":"0.0.1-beta1","deps":[{"name":"actix-web","req":"^4.0.0-rc.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d10348653e9bc9e254ca7a59027f8ba97afdeffbc0ed7549e5dacd1af3e41a3c","features":{},"yanked":true,"links":null}
+{"name":"actix-web-extract","vers":"0.0.1-beta2","deps":[{"name":"actix-web","req":"^4.0.0-rc.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb3f6a50906acd77f647b37062abc58e96c08f83424240d03ac43363ce1edae9","features":{},"yanked":false,"links":null}

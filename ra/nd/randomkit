@@ -1,0 +1,2 @@
+{"name":"randomkit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54f40f8ab26f84ff8c082f83fcecb851bc24d5cc392bc46d96f4a63460ddc4ac","features":{},"yanked":false}
+{"name":"randomkit","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"278094e13a8eff59f106bf2a2040d966bd5cddb0c5b639e7447bbd9b1689c15c","features":{},"yanked":false,"links":null}

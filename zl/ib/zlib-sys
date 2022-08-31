@@ -1,0 +1,2 @@
+{"name":"zlib-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"149b2adf8ec195a19a6e1efd0a93dfd2bbcde18bb4b34becf973605a1f7550bf","features":{},"yanked":true}
+{"name":"zlib-sys","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98c29096c31d64d92e692226f3b64f7842622d51c6110d18df047fdf01042a52","features":{},"yanked":true}

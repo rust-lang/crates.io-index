@@ -1,0 +1,2 @@
+{"name":"rlr-gtk","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58c579c0ba4d39309fa9c0eed54d07bbb899a8bca4441401042741afe62712e8","features":{},"yanked":false,"links":null}
+{"name":"rlr-gtk","vers":"0.1.1","deps":[{"name":"gtk","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75109bd7099efc37f782b3c922d20dd3ece9cd7a1ef22df3d8d8da4b0a38f3aa","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"desim","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3712c9ce01a8b00c2fa5dc14bbf76ec4edbbaf14f6b5c58b07c846b668f128cd","features":{},"yanked":false,"links":null}
+{"name":"desim","vers":"0.2.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8d0939a7bba2988a30bcd6f62d5414b92130291730550f0627194d7e3239e437","features":{},"yanked":false,"links":null}

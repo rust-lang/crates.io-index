@@ -1,0 +1,2 @@
+{"name":"athenna","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4502b746fd3b06c2ad18d80ae6846d78eedbe9a166d342e40575297ff50ab01e","features":{},"yanked":false,"links":null}
+{"name":"athenna","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41f461ab591fc5a80dae724285ac3117041f046d7ecfebe033e2499da468eb4c","features":{},"yanked":false,"links":null}

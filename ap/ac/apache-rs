@@ -1,0 +1,3 @@
+{"name":"apache-rs","vers":"0.0.0","deps":[],"cksum":"2a423bbb2e44564bce62519b7adf274460c811a702c15133db00b1e391bbdcd7","features":{},"yanked":false,"links":null}
+{"name":"apache-rs","vers":"0.0.1","deps":[],"cksum":"923ecc2dd125e868900e655997e177a2cad8b44284d527f7119933580431a6ae","features":{},"yanked":false,"links":null}
+{"name":"apache-rs","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ce3a85d31b923b45822f4637c4dddae011580e3354ebeb2bf67d698ddfe08e38","features":{},"yanked":false,"links":null}

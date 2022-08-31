@@ -1,0 +1,4 @@
+{"name":"percent-encoding","vers":"1.0.0","deps":[{"name":"rustc-test","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de154f638187706bde41d9b4738748933d64e6b37bdbffc0b47a97d16a6ae356","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"1.0.1","deps":[],"cksum":"31010dd2e1ac33d5b46a5b413495239882813e0369f8ed8a5e266f173602f831","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"2.0.0","deps":[],"cksum":"ba4f28a6faf4ffea762ba8f4baef48c61a6db348647c73095034041fc79dd954","features":{},"yanked":false,"links":null}
+{"name":"percent-encoding","vers":"2.1.0","deps":[],"cksum":"d4fd5641d01c8f18a23da7b6fe29298ff4b55afcccdf78973b24cf3175fee32e","features":{},"yanked":false,"links":null}

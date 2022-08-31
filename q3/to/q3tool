@@ -1,0 +1,6 @@
+{"name":"q3tool","vers":"0.1.0","deps":[],"cksum":"5db2e93e0108bbb451acffa9f3b39bedc054adf620014c2693623ff4f70fad10","features":{},"yanked":false,"links":null}
+{"name":"q3tool","vers":"0.1.1","deps":[],"cksum":"9d0d310e328c5520b4643e0cca82a9f8532b80eb394e15f2f3e4904b746a012d","features":{},"yanked":false,"links":null}
+{"name":"q3tool","vers":"0.1.2","deps":[],"cksum":"b15be720eaa41fc9db686028f7da0a833c3d352ac7964df05bbe209c500f9592","features":{},"yanked":false,"links":null}
+{"name":"q3tool","vers":"0.1.3","deps":[{"name":"thiserror","req":"^1.0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce2a3cd8105e45df438244d44f4fc1b1655a8a2b247029f80a05055acb8e75d0","features":{},"yanked":false,"links":null}
+{"name":"q3tool","vers":"0.1.4","deps":[{"name":"byte-strings","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"685474992c4c121fa5a8b071f9470bbac9add1f19b485d1a1fc9f9157e2b1784","features":{},"yanked":false,"links":null}
+{"name":"q3tool","vers":"0.2.0","deps":[],"cksum":"3f11b130bfb15368fbbc9a9cc5419c2b3370404257d8bd193ed76c3e452b63c1","features":{},"yanked":false,"links":null}

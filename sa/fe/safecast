@@ -1,0 +1,3 @@
+{"name":"safecast","vers":"0.1.0","deps":[],"cksum":"1d91361efb20373976fea4e6d7b01d3bd0d991f94bef3ba49e1ed9d66942c4fe","features":{},"yanked":false,"links":null}
+{"name":"safecast","vers":"0.1.1","deps":[],"cksum":"30d9f1fdc698050d7d37cdca74788062be9be0a8fdc65ce49a767ab26112a774","features":{},"yanked":false,"links":null}
+{"name":"safecast","vers":"0.1.2","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f065dd826e803281f3fc86a18679f3438b9c4b28b3ae9d57f85dec50bd5603b8","features":{},"yanked":false,"links":null}

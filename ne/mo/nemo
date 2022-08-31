@@ -1,0 +1,5 @@
+{"name":"nemo","vers":"0.0.1","deps":[],"cksum":"da1789e271032618f9bb04745a559117924917417002f2e2d311c3d92c72f6c6","features":{},"yanked":false}
+{"name":"nemo","vers":"0.1.0","deps":[],"cksum":"85879a06ee94cd1afcb26a5d16a85e507f3ec71e597c4e0365722f6d2b98d1d1","features":{},"yanked":false}
+{"name":"nemo","vers":"0.1.1","deps":[],"cksum":"4363703862bd76ed78a010f928ca5deffe108e74c58e5fc015e176e016c53704","features":{},"yanked":false}
+{"name":"nemo","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"compiletest_rs","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2e088689b8347d210efe8d3b20c83b3f55c55a58828e627c93c6e47084726625","features":{},"yanked":false}
+{"name":"nemo","vers":"0.2.1","deps":[{"name":"compiletest_rs","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c82dbd0d820a2306f4f5c01a7c16c8ca1962f4bea7d7954d519346d213757699","features":{},"yanked":false}

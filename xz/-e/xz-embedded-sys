@@ -1,0 +1,1 @@
+{"name":"xz-embedded-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d7bdb78b75d40d2d219378899a8af1790b8861eb9c8a30613f72c53770bc0505","features":{},"yanked":false}

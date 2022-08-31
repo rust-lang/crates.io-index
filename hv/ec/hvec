@@ -1,0 +1,2 @@
+{"name":"hvec","vers":"0.1.0","deps":[{"name":"criterion","req":"~0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d20d465882c3ec6300fd125b3fd910fbb106e9d8dc252319145e97b3f661203b","features":{},"yanked":false,"links":null}
+{"name":"hvec","vers":"0.2.0","deps":[{"name":"criterion","req":"~0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1313743b0a85fac9aacbba82b5b2988ec6f3c9b0e1e4c3670fdad4d226f7a72e","features":{"no_drop":[],"default":[]},"yanked":false,"links":null}

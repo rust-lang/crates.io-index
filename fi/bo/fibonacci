@@ -1,0 +1,2 @@
+{"name":"fibonacci","vers":"0.1.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e206a0584031112369f852cd127f7c7ae6ce5afb71e81c02ec8749cad570f427","features":{},"yanked":false}
+{"name":"fibonacci","vers":"0.1.1","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42d30ad4efe3de2a668764c1bde372600415de30196261f1416a1a999348368a","features":{},"yanked":false}

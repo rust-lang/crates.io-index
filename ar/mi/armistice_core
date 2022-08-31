@@ -1,0 +1,1 @@
+{"name":"armistice_core","vers":"0.0.0","deps":[{"name":"armistice_protos","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b344cc7579b7659ac2a9cb72285fbd2e499b0fe9ee7a1088510d8fb3cbdc764c","features":{"default":["std"],"std":["armistice_protos"]},"yanked":false,"links":null}

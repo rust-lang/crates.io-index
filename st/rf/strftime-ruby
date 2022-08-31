@@ -1,0 +1,1 @@
+{"name":"strftime-ruby","vers":"1.0.0","deps":[{"name":"version-sync","req":"^0.9.3","features":["markdown_deps_updated","html_root_url_updated"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"6b02d24309580475dca1e01d10378f9a0d979aa95ee6c00bdbbf883f5315c905","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}

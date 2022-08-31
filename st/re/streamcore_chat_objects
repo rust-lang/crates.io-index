@@ -1,0 +1,1 @@
+{"name":"streamcore_chat_objects","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.137","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06d018d46167d79fd313b7ce03dfded5263d97e9bfbd906cf1473fe6c8b79aab","features":{},"yanked":false,"links":null}

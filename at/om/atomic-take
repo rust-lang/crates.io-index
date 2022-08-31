@@ -1,0 +1,2 @@
+{"name":"atomic-take","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4fe9cc50f41c8d5b795ccf55f9a663b7fa85da2b1504b8beb2ed301dc63918f4","features":{},"yanked":false,"links":null}
+{"name":"atomic-take","vers":"1.0.0","deps":[{"name":"futures","req":"^0.1.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f9f65e4fb35ff6a80b3298d1f028649f3a23da141fa3951e9b24dde1d515b67e","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"piano-rs","vers":"0.1.0","deps":[{"name":"rustbox","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rodio","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e052553ff3464159b3567e0afd0c52ce2c16aeb4221d26c68f42a94e45cd13b7","features":{},"yanked":false}

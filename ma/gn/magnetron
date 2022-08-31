@@ -1,0 +1,2 @@
+{"name":"magnetron","vers":"0.1.0","deps":[{"name":"assert_approx_eq","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f7948241422ca49fd6e3f21adc26821f0d3fdf2697bd5a94780f0e63449e3cf5","features":{},"yanked":false,"links":null}
+{"name":"magnetron","vers":"0.1.1","deps":[{"name":"assert_approx_eq","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"29152cbfd34c40c8dd1d2d2214788bd0261c6c21bcec7d4fce5ff535cc411a7c","features":{},"yanked":false,"links":null}

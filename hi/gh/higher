@@ -1,0 +1,2 @@
+{"name":"higher","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db960159f061be30afd6087cb43c82bc94285ad8187f68955ec2f324faae3b48","features":{},"yanked":false,"links":null}
+{"name":"higher","vers":"0.1.1","deps":[{"name":"proptest","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e7f7c9f7bb9d00e93da4a5240791dd5fce934b69e0b0148558814d9bd192b731","features":{},"yanked":false,"links":null}

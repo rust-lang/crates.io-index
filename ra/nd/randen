@@ -1,0 +1,1 @@
+{"name":"randen","vers":"0.0.0","deps":[{"name":"rand","req":"^0.4","features":["i128_support"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e05bd30453c4b49c0ce9179fce58c0ea983c4ee6e2db0b0ad962a2bd41a0a767","features":{},"yanked":false,"links":null}

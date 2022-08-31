@@ -1,0 +1,1 @@
+{"name":"uint-zigzag","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3e92b93903baa4c9f0518628a31dd624058f86a42ccd8e62bdc909b90336ddd","features":{"std":[],"alloc":[],"default":[]},"yanked":false,"links":null}

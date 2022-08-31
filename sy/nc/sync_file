@@ -1,0 +1,7 @@
+{"name":"sync_file","vers":"0.1.0","deps":[],"cksum":"15df6e41fc2ebff39c9fe03c9543610ed12dbb5c70bf9532b2aa014249d9fe08","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.1.1","deps":[],"cksum":"dc8a579a1ad7b446b716393a9fa4abd3e50d46c3d86b35d90480df54f3d5cb2b","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.1.2","deps":[],"cksum":"b516be21a995f9083c7153ab4ab4c98c208909b178fffc013513da3f4c5b3f8c","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.2.0","deps":[],"cksum":"dc0672d2c954211d321c88bf93258d774c8ccdd01739eaf4c289d76d869d52f8","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.2.1","deps":[],"cksum":"8eea9fda5a311d3c20d568fc5ac11696626d54a0f00c17a4787befd2dbf5f0b1","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.2.2","deps":[],"cksum":"e1efbc06834e90db8323de7638b9b0ab9df74c498e2f72f98067a3b0e1dd3ff0","features":{},"yanked":false,"links":null}
+{"name":"sync_file","vers":"0.2.3","deps":[{"name":"wasi","req":"^0.11","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"wasi\")","kind":"normal"}],"cksum":"6ca603612696801034144dfe77704e13f8822423fa5b62a1d125b35fd0d6c87b","features":{},"yanked":false,"links":null}

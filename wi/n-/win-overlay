@@ -1,0 +1,1 @@
+{"name":"win-overlay","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser","dwmapi","d3d9","d3d9types","memoryapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93df113e1e3b8fb0d29e771376a3658d4614e79da5df95cfc9b9d235ebdcedc0","features":{},"yanked":false,"links":null}

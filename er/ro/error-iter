@@ -1,0 +1,2 @@
+{"name":"error-iter","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"010c0798a3d1aedc69817ed13014cdcef0b4ad729e14daf20b48647da022760a","features":{},"yanked":false,"links":null}
+{"name":"error-iter","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e09bfe3000e5aaf2904d2c90e8f38de83dff06731c666d588d382f19da6606a9","features":{},"yanked":false,"links":null}

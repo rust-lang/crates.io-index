@@ -1,0 +1,2 @@
+{"name":"ethaddr-macros","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"48a0571cb8d3f307624c3abd6a438eeda588bc413ff183dc1a949b68ee03fd9b","features":{},"yanked":false,"links":null}
+{"name":"ethaddr-macros","vers":"0.1.1","deps":[{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"06649cf169ff72375707c552a7e7cbac1bc0daa0214247f332a7ff8b25fd7067","features":{},"yanked":false,"links":null}

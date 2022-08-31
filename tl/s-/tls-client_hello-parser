@@ -1,0 +1,1 @@
+{"name":"tls-client_hello-parser","vers":"0.1.0","deps":[{"name":"rustls","req":"^0.18","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"23ef13ddd0620db764c2e42bce7ddaccebcfe3956ce2628ad47af126c9916fb1","features":{},"yanked":false,"links":null}

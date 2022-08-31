@@ -1,0 +1,2 @@
+{"name":"reservoir","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d358077615af66db176ad6ba4edcbeb4c97181da46ba195cd8a0d2e714f39560","features":{},"yanked":false}
+{"name":"reservoir","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25becec30a6b0ad4c23ab03763f54fa2582251e58825c9d4fed729bdf7ae537d","features":{},"yanked":false}

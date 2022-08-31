@@ -1,0 +1,3 @@
+{"name":"deface","vers":"0.1.0","deps":[],"cksum":"3617c9e27cbd4df4b2323d55639e15c852d23932eba0c25726960f28b1a9917e","features":{},"yanked":false}
+{"name":"deface","vers":"0.1.1","deps":[],"cksum":"d680c7fccae6542d171c16f48884baf898976cf4747bc6fd64be78280d9f4ce0","features":{},"yanked":false,"links":null}
+{"name":"deface","vers":"0.1.2","deps":[{"name":"myriad","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdd87120bf757fcf765abc86ad74efcd37bcb34c7a1ef80d6119d224fd911c28","features":{},"yanked":false,"links":null}

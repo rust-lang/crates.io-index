@@ -1,0 +1,1 @@
+{"name":"freestanding-musl-malloc","vers":"1.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f4269ebd1b55c719ac865665f9b69f73e7af4213bfc1fce07f090d19634c5b48","features":{},"yanked":false}

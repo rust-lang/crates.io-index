@@ -1,0 +1,8 @@
+{"name":"gmp-sys","vers":"0.0.1","deps":[],"cksum":"92c2179e31c7c53bce088b8dc45609949849ebde2dcdb7b86955f2a78e45fa46","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.2","deps":[],"cksum":"c607166f16348ec073bbf95a9ae45e6d9e193a6adc91bde4db216fb6fe2ab1e8","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.3","deps":[],"cksum":"ca479cb6ee1cf6be976d4efadcd4af8db06e44f4e2fb08f3a9735ec93350114b","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.4","deps":[],"cksum":"9832aef2a4b7690cfb8ccabb9e2acf320f05cd5109ca678278e1a1411253f1c2","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.5","deps":[],"cksum":"cb8b86df9a1d31fbff05333a5def6edce86c0a5fb7e8f696f0a1771614d9d54d","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.6","deps":[],"cksum":"4cf8e604ea357dfdd15ce9f7a1f641be6848df75a8a6bd8d3b93f14b88de5699","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.0.7","deps":[],"cksum":"ddb6960ee4cef6d4c0422c3724aed3808608c4be687ac78465106fdb698633e9","features":{},"yanked":false}
+{"name":"gmp-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5650007e8572b455f7e6b8f627951541f2951e215c031a9e75f3eb7e07682bc","features":{},"yanked":false}

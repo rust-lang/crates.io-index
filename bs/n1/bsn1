@@ -1,0 +1,5 @@
+{"name":"bsn1","vers":"0.1.0","deps":[],"cksum":"22a8473254ce1379fe3f0c6b0701e9c0cba54ee127c5c21e3cc5e18babc1566f","features":{},"yanked":false,"links":null}
+{"name":"bsn1","vers":"0.2.0","deps":[],"cksum":"d15367f04e2f5d27a626f986e603d2d56ff160e6263f4c6ceff7e8e78075581a","features":{},"yanked":false,"links":null}
+{"name":"bsn1","vers":"0.3.0","deps":[],"cksum":"8b5e09b4c77fbe560c0373036c3b72c487e4b18e74661c2adba87a6c5fec5a90","features":{},"yanked":false,"links":null}
+{"name":"bsn1","vers":"0.3.1","deps":[],"cksum":"63a103989f7ddd3cc6f68b430753f680bc4f38be0763175b967a5dfa7f41572f","features":{},"yanked":false,"links":null}
+{"name":"bsn1","vers":"0.4.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec8a656eef350ce08c6a5c2004feffd829aff74486fda306abf02c94c13afc7a","features":{},"yanked":false,"links":null}

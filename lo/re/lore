@@ -1,0 +1,3 @@
+{"name":"lore","vers":"1.0.0","deps":[],"cksum":"ead496ca128f29f0213a5d97f379084ee943a4d1f6563be918d4a8e399ab6d54","features":{},"yanked":true,"links":null}
+{"name":"lore","vers":"1.0.1","deps":[],"cksum":"a70ea77abe84158e3a5fb65a8a5f3e4c4302a081c3e15ad61400c87c4ca0ead3","features":{},"yanked":false,"links":null}
+{"name":"lore","vers":"2.0.0","deps":[{"name":"criterion","req":"^0.3","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"36ab07d2da5941b790f205fe7054db74f68032a01e11e0b757cf8b615dfea387","features":{},"yanked":false,"links":null}

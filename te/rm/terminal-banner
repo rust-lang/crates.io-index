@@ -1,0 +1,1 @@
+{"name":"terminal-banner","vers":"0.1.0","deps":[{"name":"textwrap","req":"^0.15","features":["terminal_size"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b98d4c2fd9c1ca7324b6dfed4af56f12e05b7850b9bf788d5c824ba3941e20b","features":{},"yanked":false,"links":null}

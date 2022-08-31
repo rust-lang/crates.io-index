@@ -1,0 +1,3 @@
+{"name":"lazyonce","vers":"0.2.0","deps":[],"cksum":"e71cf45a4d08045fa9618ebb4f346d431d1277c08e5ac61c414c83e6964356a1","features":{},"yanked":true,"links":null}
+{"name":"lazyonce","vers":"0.3.0","deps":[],"cksum":"b53de4c6db2034098057e0b3c9e23f61cf17efda32bdf43df4ca6ea8fa17ff7d","features":{},"yanked":true,"links":null}
+{"name":"lazyonce","vers":"1.0.0","deps":[{"name":"parking_lot","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69855dd0f116bf9c565482f9b5583f59f94fe5b5ebf040978c48721636306df0","features":{},"yanked":true,"links":null}

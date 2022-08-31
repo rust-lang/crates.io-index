@@ -1,0 +1,2 @@
+{"name":"mips-mcu","vers":"0.1.0","deps":[{"name":"bare-metal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38a48259532f7fa880d505a4a0ad9f57b77d1f4b2f88331625442b7c87a0cd64","features":{},"yanked":false,"links":null}
+{"name":"mips-mcu","vers":"0.2.0","deps":[{"name":"bare-metal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cb9dfcb19ab4530dec67e8f47b696a1480346382983a42db41248b8dc81e945","features":{},"yanked":false,"links":null}

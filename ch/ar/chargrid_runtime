@@ -1,0 +1,1 @@
+{"name":"chargrid_runtime","vers":"0.1.0","deps":[{"name":"chargrid_core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"442d09effd584dc75e7abb86f92f6d81727bfeb57199723c2009dfdc0f597d33","features":{"gamepad":["chargrid_core/gamepad"]},"yanked":false,"links":null}

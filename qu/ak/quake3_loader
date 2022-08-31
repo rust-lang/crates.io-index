@@ -1,0 +1,2 @@
+{"name":"quake3_loader","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4715afaaf11cdef5e4ffdad15bf6f3455ae15832da38719bc10c263375f1916","features":{},"yanked":false}
+{"name":"quake3_loader","vers":"0.2.0","deps":[{"name":"byteorder","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a36a090a66010b3c9b4c0b0b46c854e88f5ecc00a9fd19b8b80844fb3990ed0e","features":{},"yanked":false}

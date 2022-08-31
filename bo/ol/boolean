@@ -1,0 +1,1 @@
+{"name":"boolean","vers":"0.3.0","deps":[{"name":"parameterized","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1f312eb9145b623ed83c12aa1dce1b5b34e688ad480da573b1c443a2473c85d","features":{"global_values":[],"default":["global_values","has_alloc"],"has_alloc":[]},"yanked":false,"links":null}

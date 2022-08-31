@@ -1,0 +1,2 @@
+{"name":"pcf8591","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"830ef180d3ff7a3452c325b57ded30b8ee7beee5869d02f6bec30f884eb222ac","features":{},"yanked":false}
+{"name":"pcf8591","vers":"0.1.1","deps":[{"name":"i2cdev","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28b5310bc72c6d1f5e1e1a82da6c7f1f7b56ce180e59698915c46805e1502024","features":{},"yanked":false}

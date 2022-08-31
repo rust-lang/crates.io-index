@@ -1,0 +1,1 @@
+{"name":"ipecho","vers":"0.0.1","deps":[{"name":"url","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.9.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e00118070e6dd14b1b5e297eff02cfb6098d676b77dc8e95072e34aff459bb8e","features":{},"yanked":false}

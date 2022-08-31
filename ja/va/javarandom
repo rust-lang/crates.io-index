@@ -1,0 +1,1 @@
+{"name":"javarandom","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45c9b07eb63ae8bc97775de640e1badc12bf226125734f018632a7f3f22c148e","features":{},"yanked":false,"links":null}

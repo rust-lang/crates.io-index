@@ -1,0 +1,1 @@
+{"name":"zif","vers":"0.0.1","deps":[{"name":"clap","req":"^2.29.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zif_net","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cd989916a179c4afed1cb2da6b2e9258a139164f289d595159095d4600416f7","features":{},"yanked":false}

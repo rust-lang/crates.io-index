@@ -1,0 +1,1 @@
+{"name":"libc-nnsdk","vers":"0.0.1","deps":[{"name":"rustc-std-workspace-core","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c8fa0a5d9a2a3ceb1aff57960d941e5cac1d4197c60a9997c40ffe167e1da5","features":{"rustc-dep-of-std":["rustc-std-workspace-core"]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"virtio","vers":"0.0.1","deps":[],"cksum":"7ec1921c55e242c8efeac81455b04e9e3bcdf309db017de214cf4a67bdaffd21","features":{"channel":[],"pci":[],"mmio":[],"block":[],"console":[],"network":[],"scsi":[],"balloon":[],"entropy":[],"unstable":[]},"yanked":false}

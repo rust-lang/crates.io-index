@@ -1,0 +1,3 @@
+{"name":"array2d","vers":"0.1.0","deps":[],"cksum":"077c75d1da5ee0a13ceeb822546050ab9d6f3e9a6c7cd1d0ce88518a336bfb48","features":{},"yanked":false,"links":null}
+{"name":"array2d","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b104422d8af47ec7815f3ad41c635aca01424faa4053a309621ee6c99d152c59","features":{},"yanked":false,"links":null}
+{"name":"array2d","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"224b2db9d3e7dd068c8b07b186076ee668ce38810d0ba12c80dacbcbb7cfc9e8","features":{},"yanked":false,"links":null}

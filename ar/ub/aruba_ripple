@@ -1,0 +1,1 @@
+{"name":"aruba_ripple","vers":"0.0.1","deps":[{"name":"url","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e879a875cf9117eb33f4cced0119105c1fd91505f1e7b9083d90f05846a75066","features":{},"yanked":false}

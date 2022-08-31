@@ -1,0 +1,1 @@
+{"name":"vivinq","vers":"1.0.0","deps":[{"name":"ureq","req":"^2.4.0","features":["json","charset","brotli"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b247d608dc159e976ec554511116b8b25bb958bd7e7fb8e62a5d797774b2cb9b","features":{},"yanked":false,"links":null}

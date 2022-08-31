@@ -1,0 +1,1 @@
+{"name":"pgtypes","vers":"0.1.0","deps":[{"name":"libc","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e9ba6b1bd53e1b6bef1a306234087b3182f0b8ab5d2d8b7b2ef5871738132f4c","features":{},"yanked":false}

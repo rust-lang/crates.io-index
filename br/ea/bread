@@ -1,0 +1,2 @@
+{"name":"bread","vers":"0.0.1","deps":[],"cksum":"feeb5e7110a6062f9785f4c5f231f2ed9632e6f28efef451e678c4232b23cfd7","features":{},"yanked":false}
+{"name":"bread","vers":"0.1.0","deps":[{"name":"term","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6c7271517ba868de3cfb8e70ec18719f442de178823b4c6f222fc4bbd4574ca","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jalali","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b2f7ecc7755c6ba4d7e22b63930a26cac1737eb41caae8b15bcb4afbcbebdb4","features":{"use-shared-jalali":[]},"yanked":false}

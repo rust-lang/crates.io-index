@@ -1,0 +1,4 @@
+{"name":"bork","vers":"0.0.0","deps":[{"name":"derive_builder","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6465a149db84c9b198ee0e8c2f4ea8b8a174ea5c03a17a855854caafc9849e94","features":{},"yanked":true,"links":null}
+{"name":"bork","vers":"0.1.0","deps":[],"cksum":"d82a149372118d94d4d62abadf2e4798006fba1802464f0e34861ea92c7546db","features":{},"yanked":true,"links":null}
+{"name":"bork","vers":"0.2.0","deps":[],"cksum":"7b3a1d9c3169899adbffb3162727b2a2bbbef9ab06183b21087a0ac7e35e6666","features":{},"yanked":true,"links":null}
+{"name":"bork","vers":"0.2.1","deps":[],"cksum":"3902fc846b836c3c020710520d985de20449aa341a43e8f5b698cd25bbd8b5f2","features":{},"yanked":false,"links":null}

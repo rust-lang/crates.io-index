@@ -1,0 +1,3 @@
+{"name":"autollvm","vers":"0.0.0","deps":[],"cksum":"f78c3ff5b9a3c075eaeb0ca8d08a7aedb32d2bf2f2978dea526d715ae5f1853b","features":{},"yanked":false}
+{"name":"autollvm","vers":"0.0.1414213562","deps":[],"cksum":"7894fd9241d7d35f88f64ded416366f2f361e136f2283e696d1317be87754730","features":{},"yanked":false}
+{"name":"autollvm","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"903378d764228c89e7af79b3b524016f5c891c5f9446c048b0b2decdd0d65ea5","features":{},"yanked":false}

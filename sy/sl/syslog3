@@ -1,0 +1,1 @@
+{"name":"syslog3","vers":"3.0.0","deps":[{"name":"syslog","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bbbf28dd12306267d85e0bddd60b09235a49f7c6f95349695cf29920758abea","features":{"nightly":["syslog/nightly"]},"yanked":false,"links":null}

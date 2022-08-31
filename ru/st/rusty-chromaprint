@@ -1,0 +1,2 @@
+{"name":"rusty-chromaprint","vers":"0.1.0","deps":[{"name":"rustfft","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a838e792aefdd927e41be34af57c86023d8743169daaef840813531b622fb218","features":{},"yanked":true,"links":null}
+{"name":"rusty-chromaprint","vers":"0.1.1","deps":[{"name":"rustfft","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d0b2a139ea71126004eb57a23ef124f7e8101ab53b7bfe409f81eb69ba715d0","features":{},"yanked":false,"links":null}

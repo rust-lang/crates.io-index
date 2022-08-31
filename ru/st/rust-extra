@@ -1,0 +1,14 @@
+{"name":"rust-extra","vers":"0.0.1","deps":[],"cksum":"c37a01f9566f2c4e2be1c15f9a52ce869472331966f85408a557a53f450a0009","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.2","deps":[],"cksum":"12ace04ee445a18359adca7dc88e9df482245f4d69570850b23e16d7bbd1eff9","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.3","deps":[],"cksum":"3995d8c690ff5e648da06366ed4b581380ef02f40240730713e580543162c626","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.7","deps":[],"cksum":"1446ba4dac1ca1a687c9fb354d07471407fc640027ab15ea7c3b98f051c8909f","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.8","deps":[],"cksum":"7b88ffd02639c7527a95c77cfbf1fa5636652a00855a033d19b947e1457b9ef3","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.9","deps":[],"cksum":"1736567e0a4c2c405f8be87ccedc8ea22b763fd4a4bcc84a889ecc5ba77f0f80","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.10","deps":[],"cksum":"d663c9e3378506d75fcb4c469693042eb1a0d295080dcb4da295f9bb4b418102","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.11","deps":[],"cksum":"a2f04fc5a32ebe239e977069fd0cef396172c2f6d0e07d1f6b9fa3217c0f80df","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.12","deps":[],"cksum":"f1755106487ade2c136b5c262690c82bd59df733bb77be2efb3fbf57d912501a","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.13","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f3905e07e898b010a3a7d2a5a1df7eb33e0d8a2538e60f6dfbc6c6d8de6b868","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.14","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d0c66dd2401467de251699ba464fce6a7c0d9ccbdb748c99e496e9d38cd1bdb","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.15","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fd5d5d2defcd75bdeb8ff756b8b45a3b33fcc1d72fde1b05faf7f1aabba3c1a","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.16","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80275a0e5d002bc3d9d1dcb40794e6d19dfdac5eefdd20bf7639160d78677da8","features":{},"yanked":false}
+{"name":"rust-extra","vers":"0.0.17","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"117c18b92b32c8f86fe76a89957662a63037a29d1dc0bbb19f1d52878684bf0b","features":{},"yanked":false}

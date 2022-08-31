@@ -1,0 +1,2 @@
+{"name":"ucl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b4e735fd99a68aa26e00a3f1861cb02c0ae6ce4c7b82ab7cd47343a608488335","features":{},"yanked":true,"links":"ucl"}
+{"name":"ucl-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"083d457c6f2d98deabd1a9207ee55db61d1830f7bbffdc150164a03dcefe59c6","features":{},"yanked":false,"links":"ucl"}

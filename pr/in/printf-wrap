@@ -1,0 +1,1 @@
+{"name":"printf-wrap","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"565db5973b4fb0bdc1286407255aa2eb451d7ce56c343ad3ab5b5e9b751e5ad6","features":{"default":["std"],"doccfg":[],"example":[],"std":[]},"yanked":false,"links":null}

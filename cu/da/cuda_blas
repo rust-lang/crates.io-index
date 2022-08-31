@@ -1,0 +1,1 @@
+{"name":"cuda_blas","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cuda","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c9fd6176c37c6a0bfaf6365d175e5b1afdc21169d36903b38e857757235c425","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tid2013stats","vers":"1.0.0","deps":[{"name":"rstats","req":"^0.5.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b710bf90e1f6ed45003ad14076104663894718a030fb002662fd96b624f19cee","features":{},"yanked":false,"links":null}
+{"name":"tid2013stats","vers":"1.0.1","deps":[{"name":"rstats","req":"^1.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9e1fb295440e20651dd41890bc0de00f760c1e9cbe51518a024db631e93d8ca","features":{},"yanked":false,"links":null}

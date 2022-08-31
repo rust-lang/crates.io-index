@@ -1,0 +1,2 @@
+{"name":"base256","vers":"0.1.0","deps":[{"name":"clap","req":"~2.29.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b1000f0da44b590e32cecfc84b13e952f1e544329042a55b8569a594423ba6b","features":{},"yanked":false}
+{"name":"base256","vers":"0.2.0","deps":[{"name":"clap","req":"~2.29.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c7aa54192f8b470fcb25e1161a3e45b220770603683b3bda3dd8f7b27d11b53","features":{},"yanked":false}

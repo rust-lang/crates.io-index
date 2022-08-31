@@ -1,0 +1,2 @@
+{"name":"fast_inv_sqrt","vers":"1.0.0","deps":[],"cksum":"f1a6abb5990e6fa51e90fe54fe4d5a0ab7533e16b07a9351da5bf57e08ea8d86","features":{"nightly":[],"omit-checking":[]},"yanked":false}
+{"name":"fast_inv_sqrt","vers":"1.0.1","deps":[{"name":"more-asserts","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c6e61a440b33ad57e53bb01b33438d019d7a7d50a05b9def525c578c0a7e974f","features":{"omit-checking":[],"nightly":[]},"yanked":false}

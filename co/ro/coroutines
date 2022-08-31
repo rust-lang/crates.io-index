@@ -1,0 +1,4 @@
+{"name":"coroutines","vers":"0.1.0","deps":[],"cksum":"5b9d05e3dfc214b29bc722548d43e258e540fd882fcccf97de86b6a79b1e1732","features":{},"yanked":false}
+{"name":"coroutines","vers":"0.1.1","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"280d3671c72b442114f82c9fb502e625fc3369b81cb580199eb59b9438e62612","features":{},"yanked":false}
+{"name":"coroutines","vers":"0.1.2","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc0331f4f5b19357e62710a301861265aacf1de56f0a3190386999c0cb520469","features":{},"yanked":false}
+{"name":"coroutines","vers":"0.2.0","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3bdde30c0d12b6ebc7b2525a2115a020bf64bf4980e8710ef094b5a500c9ea77","features":{},"yanked":false}

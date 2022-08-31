@@ -1,0 +1,7 @@
+{"name":"smallbitset","vers":"0.1.0","deps":[],"cksum":"a39c206cbfc41094feca85d773708ca87f3e2918d0ad27c80a4e8b6820855d80","features":{},"yanked":false,"links":null}
+{"name":"smallbitset","vers":"0.2.0","deps":[],"cksum":"9d3a314f9dd37d285a04352690654a730a12d52404a506121485eeb42941a04e","features":{},"yanked":false,"links":null}
+{"name":"smallbitset","vers":"0.3.0","deps":[],"cksum":"7d4ce741ca27fedf55f1b5d354c6b456354e5105c00adbc404c00b72ee310406","features":{},"yanked":false,"links":null}
+{"name":"smallbitset","vers":"0.4.0","deps":[],"cksum":"0f83d0613dc1ac1aefe55d0717b2311ef398f95d383005e0feef302bae9a6ef6","features":{},"yanked":false,"links":null}
+{"name":"smallbitset","vers":"0.4.1","deps":[],"cksum":"7b9f4f08b1c421acb6063b4cf0b148a93c4884f61f1a8a182687ff85a6271c01","features":{},"yanked":false,"links":null}
+{"name":"smallbitset","vers":"0.5.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bef051542f60fed04319abebce78a034140fba95d226a680e6b4868a24b593c1","features":{},"yanked":true,"links":null}
+{"name":"smallbitset","vers":"0.5.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c5ff228c4a24672faea7fb3ad58d515d95d888bc5a6581278624d8546e29676","features":{},"yanked":false,"links":null}

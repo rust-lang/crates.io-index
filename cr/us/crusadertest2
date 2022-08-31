@@ -1,0 +1,2 @@
+{"name":"crusadertest2","vers":"0.1.0","deps":[{"name":"crusadertest1","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e9ca5bd7ca11f9ac79fd0847f1ec0e4befa42841cc9ae880239c225fd5b8373","features":{},"yanked":false}
+{"name":"crusadertest2","vers":"0.2.0","deps":[{"name":"crusadertest1","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"558068160253c34ea1ca27dbc59dec5dc58acecfe41aa36a854442dc735dbefa","features":{},"yanked":false}

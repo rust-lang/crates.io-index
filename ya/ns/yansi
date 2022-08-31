@@ -1,0 +1,11 @@
+{"name":"yansi","vers":"0.1.0","deps":[],"cksum":"3fc936e19df44e015e5df5019c4ba5fda82b389f3bcea0ceb69a4cbad92d4ae3","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.1.1","deps":[],"cksum":"b90f33fab47d0a19361a7a8668ecc1eae4f23fe9f88d69f21b8e08df97825b84","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.2.0","deps":[],"cksum":"0a72c5a0703f0440242478d68c87df94fe916711131c733cbd1420dd768811d8","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.0","deps":[],"cksum":"b731f15b7c13b4988f2836d88ce92b699c72dbc0178cf9d7c3ecad0d8fd1c902","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.1","deps":[],"cksum":"dd2dfa56374d28edfbacab616c79e4a4fc8646f4454dacb341cc4f3aa47ed5de","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.2","deps":[],"cksum":"6871211fc002a0e63894b82cd8e3b568f94b31b499828c3dd76328de9b3f5c0b","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.3","deps":[],"cksum":"8200521fa88cba2d4ec8d7500616a284ae8bd92d492a309773478a870660573a","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.4","deps":[],"cksum":"a503e4eea629f145a693c8ed1eddba88b3b9de5171c6ebd0e2820cf82d38f934","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.4.0","deps":[{"name":"parking_lot","req":"^0.5","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d60c3b48c9cdec42fb06b3b84b5b087405e1fa1c644a1af3930e4dfafe93de48","features":{},"yanked":false}
+{"name":"yansi","vers":"0.5.0","deps":[{"name":"parking_lot","req":"^0.5","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9fc79f4a1e39857fc00c3f662cbf2651c771f00e9c15fe2abc341806bd46bd71","features":{},"yanked":false,"links":null}
+{"name":"yansi","vers":"0.5.1","deps":[{"name":"serial_test","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09041cd90cf85f7f8b2df60c646f853b7f535ce68f85244eb6731cf89fa498ec","features":{},"yanked":false,"links":null}

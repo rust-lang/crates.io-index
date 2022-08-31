@@ -1,0 +1,1 @@
+{"name":"cublas-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c4c2ac9e8bc7488ef24db3b6b98117cf2cb865d346d21a5d5967b00364714633","features":{},"yanked":false}

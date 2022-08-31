@@ -1,0 +1,2 @@
+{"name":"librpmsign-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"97eb5356593e44f93ec1cadb65188cebe4f1a01e773e9101222a2a92be56653e","features":{},"yanked":false,"links":null}
+{"name":"librpmsign-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"60915f83cb528bce9710ab234ace5cf800d30f10b23371096518242427fab4c9","features":{},"yanked":false,"links":null}

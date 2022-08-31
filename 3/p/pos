@@ -1,0 +1,2 @@
+{"name":"pos","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1241bb5ecd3841e883868421ac1a826aeacc1f8cd09cb88eca6df8eacc075d05","features":{},"yanked":false}
+{"name":"pos","vers":"0.1.1","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"687588791a4be7c07f9aa4733797d3569044db641b795b0a64992eead77ecc0b","features":{},"yanked":false}

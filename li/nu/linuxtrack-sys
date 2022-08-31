@@ -1,0 +1,2 @@
+{"name":"linuxtrack-sys","vers":"1.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"127491ad84b0f6fd9075585a422ad6867509021d264ba2cbb67ceaafdfe4a470","features":{},"yanked":false}
+{"name":"linuxtrack-sys","vers":"1.0.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"af798e4b28601bd951fbb3a7e36386b5cdf435efceb70646fac402733574dc94","features":{},"yanked":false}

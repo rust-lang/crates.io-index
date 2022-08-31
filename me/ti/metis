@@ -1,0 +1,2 @@
+{"name":"metis","vers":"0.1.0","deps":[{"name":"metis-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12c0e59b369a8a1b24b9716636a66c27ac6ad34354c1797e14ebe84ab8aa6726","features":{},"yanked":false,"links":null}
+{"name":"metis","vers":"0.1.1","deps":[{"name":"metis-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"969c4e429931766d84c38226ddade79db95dfd71ca85ebae2995ddc97369655c","features":{},"yanked":false,"links":null}

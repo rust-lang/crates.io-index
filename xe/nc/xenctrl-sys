@@ -1,0 +1,2 @@
+{"name":"xenctrl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cdc70131833192058d7ee9224bbf4428c39b7ff5cf432bb026ec50b9468c4dd8","features":{},"yanked":false,"links":"xenctrl"}
+{"name":"xenctrl-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.49.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"87db734ac7b5728685bb649a7920a8072528519668f637bfe4408b8bc53a0eff","features":{},"yanked":false,"links":"xenctrl"}

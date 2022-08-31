@@ -1,0 +1,5 @@
+{"name":"overflower_support","vers":"0.1.0","deps":[],"cksum":"2bea8aa5732cadfdc6b623e2f6ffc9e4202f1edf0659066d20239cc6826c14ab","features":{},"yanked":false}
+{"name":"overflower_support","vers":"0.1.2","deps":[],"cksum":"acc0e815bd7530f003a89cdda9fd9d8d6518e452c62c05b42d501079100b36ab","features":{},"yanked":false}
+{"name":"overflower_support","vers":"0.1.3","deps":[],"cksum":"0e6837971b1ea1f78184d29a0bd2b71813002c73a4612563b397db44f6743d8e","features":{},"yanked":false}
+{"name":"overflower_support","vers":"0.1.4","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64db84005b89ead4d7643049e43368bc1c796bde52d6b18986a5fb49c85e5db6","features":{},"yanked":false}
+{"name":"overflower_support","vers":"0.1.5","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5bcd627e14a417c7f38e8e599cfd95811da7a320be9d052e56a877b0e78edfb4","features":{},"yanked":false}

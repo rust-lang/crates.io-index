@@ -1,0 +1,1 @@
+{"name":"primitiv-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e46e12fa00f629fc9e337271866d38b1b69c6257b123ed6072a4e0b10f17c6ad","features":{"eigen":[],"cuda":[],"opencl":[]},"yanked":false,"links":null}

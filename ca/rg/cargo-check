@@ -1,0 +1,4 @@
+{"name":"cargo-check","vers":"0.1.0","deps":[],"cksum":"0dec0593f6ea44ba1fa1d6eeb92582a3f42053291ed68c25a71a49908802f730","features":{},"yanked":false}
+{"name":"cargo-check","vers":"0.2.0","deps":[{"name":"serde_json","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dac5dbd29ee1e4e680a0eb133cd9609b1771ee5572ebcb7b196b0fb3c11acabd","features":{},"yanked":false}
+{"name":"cargo-check","vers":"0.2.1","deps":[{"name":"serde_json","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3721ccd9107ba2ee8d874b2bb4f9b39b23f959c75d46c05ba89b7b81f56c6fd","features":{},"yanked":false}
+{"name":"cargo-check","vers":"0.2.2","deps":[{"name":"serde_json","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e85da497335ad4e2b69315ab2e413356717cf257d8e5ad0992c53e5749ddd983","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rustpi_io","vers":"0.1.0","deps":[{"name":"spidev","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4936f8e0c9e4fb052d2125a913b524acd9310d58921b237345bf530137b75325","features":{},"yanked":false}

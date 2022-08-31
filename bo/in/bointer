@@ -1,0 +1,1 @@
+{"name":"bointer","vers":"0.1.0","deps":[{"name":"bointer-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc4401b43a9bf324b7b1f27745d11b0699455082bc8ad9d9011d506d80a31fcd","features":{"derive":["bointer-derive"],"std":["alloc"],"alloc":[],"default":["std","derive"]},"yanked":false,"links":null}

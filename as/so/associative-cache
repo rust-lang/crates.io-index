@@ -1,0 +1,2 @@
+{"name":"associative-cache","vers":"1.0.0","deps":[{"name":"rand","req":"^0.7.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf8de4d87146354180256c37a9860e24fc6611383e1debfafeee82fcaf837a2","features":{},"yanked":false,"links":null}
+{"name":"associative-cache","vers":"1.0.1","deps":[{"name":"rand","req":"^0.7.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46016233fc1bb55c23b856fe556b7db6ccd05119a0a392e04f0b3b7c79058f16","features":{},"yanked":false,"links":null}

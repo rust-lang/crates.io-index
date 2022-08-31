@@ -1,0 +1,1 @@
+{"name":"rtp-codec","vers":"0.0.0","deps":[{"name":"tokio-util","req":"^0.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edfe194c900102032f4ceef174e5207135e33d7f06457444978a6c5af071c7c4","features":{},"yanked":false,"links":null}

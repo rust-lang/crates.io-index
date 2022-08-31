@@ -1,0 +1,1 @@
+{"name":"c_utf8","vers":"0.1.0","deps":[{"name":"version_check","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f747ed2575d426b7cbf0fcba5872db319a600d597391c339779a3d9835d1ea4d","features":{"default":["std"],"try_from":[],"std":[]},"yanked":false,"links":null}

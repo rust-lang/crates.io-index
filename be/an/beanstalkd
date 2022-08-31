@@ -1,0 +1,12 @@
+{"name":"beanstalkd","vers":"0.0.0","deps":[],"cksum":"7ef5bf1d6596692f999ef005bdc0afa582b629eaa71f49f8a3467d6059f46b0c","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.0.1","deps":[],"cksum":"eb918b451eff3a25f31d4b610b2fa58dd7e8a12778582c4eb79e9ca51d3ea82a","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.1.0","deps":[],"cksum":"6fb0c8d202fb742fda5cc49fc6a39806194c343cd3fec9fc04b93cdd79d9bb0f","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.0","deps":[],"cksum":"24744bf98312d25d4090e27349b12e2d3024b0160d636e4e4b46f1fcb442efa4","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.1","deps":[],"cksum":"10644bd63a406c855475f3bab656b8411bc7a25add1ab7554deca0989eaf7228","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.2","deps":[],"cksum":"4bc237832adfef4304400ad0ce02a7f5cb182e932b66adb4450e26403aa429c1","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.3","deps":[],"cksum":"d2ec859eb7d92fa566847488679925398314c59778b6706338c515f78bf0e0ed","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.4","deps":[],"cksum":"dd486636976eb404ea2d4740df40179869a885cd02208794e26be36c8e324e14","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.3.0","deps":[],"cksum":"3cbcf66b2a0a0cd01d4456142333a43ef1c48130e38e5c85e8699e67f704d888","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.3.1","deps":[],"cksum":"cc3ce328559039ebbdc2aff3162bc0ab86b0b86496599957d0bf1ef99d95eef0","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.3.2","deps":[],"cksum":"73e28ca06d02bdd62920b2a6e13a0ed3fdedddd3400d378d5b1860d892101518","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.4.1","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"306bf45a74737ad160c217724e32e8c49d187cdeaab65cd9ba097adcdb5b5b85","features":{},"yanked":false,"links":null}

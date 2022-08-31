@@ -1,0 +1,2 @@
+{"name":"temp-env","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6972026b12a7e87227c91b9669cb96ed17d1ca8482c4fd0dba6426329a04963e","features":{},"yanked":false,"links":null}
+{"name":"temp-env","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45107136c2ddf8c4b87453c02294fd0adf41751796e81e8ba3f7fd951977ab57","features":{},"yanked":false,"links":null}

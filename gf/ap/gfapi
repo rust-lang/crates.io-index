@@ -1,0 +1,1 @@
+{"name":"gfapi","vers":"0.1.0","deps":[{"name":"errno","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be70d4c8fb3f012d9c5dfe282b85c51d852089b2d834142b03dd94c0226ef4da","features":{},"yanked":true}

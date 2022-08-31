@@ -1,0 +1,2 @@
+{"name":"machine-uid","vers":"0.1.0","deps":[],"cksum":"140dfd005283ca97a9fef82adcea823900c08e9e06a5168da782dc6867fcaac1","features":{},"yanked":false,"links":null}
+{"name":"machine-uid","vers":"0.2.0","deps":[{"name":"winreg","req":"^0.6","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1f1595709b0a7386bcd56ba34d250d626e5503917d05d32cdccddcd68603e212","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"lzma2","vers":"0.1.0","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lzma","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ee5b1aca50a9350ed031c8a466ec600f2e361a6313c9eb48783d23a76f1ec9f","features":{},"yanked":false}

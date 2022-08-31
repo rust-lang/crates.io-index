@@ -1,0 +1,2 @@
+{"name":"dbus-udisks2","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7789f2bf75079f989bedfb711c1836500222899d182ad15d6369c142e0f8add7","features":{},"yanked":false,"links":null}
+{"name":"dbus-udisks2","vers":"0.2.0","deps":[{"name":"dbus","req":"= 0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d2ebcf0b18cf50d4132a5deb2c248d9e14fb0d19d0d75a97c54e6ce6cf26702","features":{},"yanked":false,"links":null}

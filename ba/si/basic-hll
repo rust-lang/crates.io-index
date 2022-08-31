@@ -1,0 +1,5 @@
+{"name":"basic-hll","vers":"0.0.1","deps":[],"cksum":"e5b6117f5110b1f99d37f3f7b41c859c79a5d1e8a79f74f728d7d9617f2b0dba","features":{},"yanked":false}
+{"name":"basic-hll","vers":"0.0.2","deps":[{"name":"algebra","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e845765fc267d607b11c3fc94d78ccf4d43a74d68cfa1a8a7e7f6919b20b430b","features":{},"yanked":false}
+{"name":"basic-hll","vers":"0.0.3","deps":[],"cksum":"1d2e27d28ca47126607d0642e1820110b1bdb9bedb394bdec65f1312f6e9d0d3","features":{},"yanked":false}
+{"name":"basic-hll","vers":"0.0.4","deps":[],"cksum":"55c0d2c2ad595613e45ba93aeefc8f77a3d73eb84214a1b1d7bc69099a7ea220","features":{},"yanked":false}
+{"name":"basic-hll","vers":"0.0.6","deps":[],"cksum":"b74c1d51919babc4a6bd3b55e07601f785b58244949e5b8c1835d40075daaf9b","features":{},"yanked":false}

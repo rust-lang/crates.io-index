@@ -1,0 +1,1 @@
+{"name":"column","vers":"0.0.1","deps":[{"name":"column_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fec9c0087f5b8d006b370c7f52cdbb51d8893932fe996e6db61d5134eef8893","features":{"default":[],"verbose":["column_derive/verbose"]},"yanked":false}

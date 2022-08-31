@@ -1,0 +1,2 @@
+{"name":"mongo-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57a3a3ef2209de75717017956f9aac1940bee7d3fd8080da3f79a3f652477e61","features":{},"yanked":false}
+{"name":"mongo-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70e7ebc07fc306ead5cb5764ae77771888168d5a47c40749ef83273cc77986a8","features":{},"yanked":false}

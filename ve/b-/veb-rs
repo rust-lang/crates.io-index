@@ -1,0 +1,1 @@
+{"name":"veb-rs","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.21","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b87b3bd81e30bac54fc934ecbe1e8c0251d2de58ad86e4860e6d51606c47eec8","features":{"default":[],"dev":["clippy"]},"yanked":false}

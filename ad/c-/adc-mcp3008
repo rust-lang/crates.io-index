@@ -1,0 +1,2 @@
+{"name":"adc-mcp3008","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3178fb82cbf8d5c33d00ef48df9a8d51b391b82b4758a948aa2828ba67ee73df","features":{},"yanked":false}
+{"name":"adc-mcp3008","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fb54d9ad2882dd7da928c52fa564dc1b50f08631c621b258e1d27cfe856d4e3","features":{},"yanked":false}

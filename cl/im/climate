@@ -1,0 +1,1 @@
+{"name":"climate","vers":"0.1.0","deps":[{"name":"termion","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04463e34f53ed7d63636e263816874509002dc336028b3a61614b74cddb674fd","features":{},"yanked":true}

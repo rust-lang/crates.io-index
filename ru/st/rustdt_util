@@ -1,0 +1,4 @@
+{"name":"rustdt_util","vers":"0.2.0","deps":[],"cksum":"50f91ca0d421e695ee53e4682bda75815a69d27f35a6c1489f31bf0311b91dc8","features":{"test_utils":[],"default":["test_utils"]},"yanked":false}
+{"name":"rustdt_util","vers":"0.2.1","deps":[],"cksum":"ce249543a59d41569faaaeeb8afd83750937ef32d19b21ab8f711fccd2f788ac","features":{"default":["test_utils"],"test_utils":[]},"yanked":true}
+{"name":"rustdt_util","vers":"0.2.2","deps":[],"cksum":"c7c1cf0981993c368ec1e17357b3f648e1807d39b4242048733e13c843568c23","features":{"test_utils":[],"default":["test_utils"]},"yanked":false}
+{"name":"rustdt_util","vers":"0.2.3","deps":[],"cksum":"7cfffa8a89d8758be2dd5605c5fc62bce055af2491ebf3ce953d4d31512c59fd","features":{"test_utils":[],"default":["test_utils"]},"yanked":false}

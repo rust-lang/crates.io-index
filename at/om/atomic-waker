@@ -1,0 +1,2 @@
+{"name":"atomic-waker","vers":"0.0.1","deps":[],"cksum":"d1ff5d0d33473578895e27ef885d56c9cdb5d232237a49dc5c06677e9b9a7a38","features":{},"yanked":false,"links":null}
+{"name":"atomic-waker","vers":"1.0.0","deps":[{"name":"futures","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"065374052e7df7ee4047b1160cca5e1467a12351a40b3da123c870ba0b8eda2a","features":{},"yanked":false,"links":null}

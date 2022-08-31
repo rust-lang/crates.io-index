@@ -1,0 +1,2 @@
+{"name":"dribble","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44bf4ba2acefc8e4234c219ce5ecc0f79377715b98b582f70cd0888dc410a02c","features":{"unstable":[]},"yanked":false}
+{"name":"dribble","vers":"1.0.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88292cdfe52a7656953cda0cafd55957a502145db4ba4b8e45714418adaf6a26","features":{"unstable":[]},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"second_law","vers":"0.1.0","deps":[],"cksum":"d1702cd514c0fcdbd0e18b067e063d71e2c76e83a90dd4e2fb3242a844fc2415","features":{},"yanked":false}
+{"name":"second_law","vers":"0.2.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34217e0529675d7068d408676fe3c2199f6109e641151dd06196c2ef58054978","features":{},"yanked":false}
+{"name":"second_law","vers":"0.2.2","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf0fe2a56a61f10717099dfb9a1c1dedb6f557affe27b3e228a1ffa3419c7ec1","features":{},"yanked":false}
+{"name":"second_law","vers":"0.3.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c58636b602bfb4413d8d77e141486ce718d9f3f0275c48316cdd68721366314e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"drop_worker","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"crossbeam-channel"}],"cksum":"b5c19712fadc880dc173f2e334bf56a80b5e79e6bf910a3c02152df1a3d8e92e","features":{},"yanked":false,"links":null}

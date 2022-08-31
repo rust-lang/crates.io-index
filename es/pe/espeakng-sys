@@ -1,0 +1,2 @@
+{"name":"espeakng-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e433bd7fc3ef60ac3d100ff69c7c2c3bde4193dd745c78598f859f60bc67fd59","features":{},"yanked":false,"links":null}
+{"name":"espeakng-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"48bd725ef6ff883e07f8beee7f55fa8cbc7f7b995cc932a1698f1260c304d5cf","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"bolero-kani","vers":"0.7.0","deps":[{"name":"bolero-engine","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b602e6dc50279f82ef07c4690065820d4dc067d083b047eec820bcae74d9c157","features":{"bin":[],"default":["lib"],"lib":["bolero-engine"]},"yanked":false,"links":null}

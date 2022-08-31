@@ -1,0 +1,2 @@
+{"name":"io-context","vers":"0.1.0","deps":[],"cksum":"24c2ab7288178f26f086f79c5d6e0e0acb17a7b6ef991cab25d431b12ff4383c","features":{},"yanked":false}
+{"name":"io-context","vers":"0.2.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6deff8086863b4b598829cfe72d405540d1497fe997f903cc171aade51dae88c","features":{"default":[],"context-future":["futures"]},"yanked":false}

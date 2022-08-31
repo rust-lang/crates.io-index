@@ -1,0 +1,2 @@
+{"name":"libxm-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"0.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"909e4c783d8a099cf74fbcfe49396b6f9844118559f591e5430da1edb05fca6e","features":{},"yanked":true}
+{"name":"libxm-sys","vers":"0.0.2","deps":[{"name":"gcc","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"97d667bd98f9e2094102322113f9df521ca3104443431bd0dbc0d85081fb0f3c","features":{},"yanked":true}

@@ -1,0 +1,15 @@
+{"name":"submap","vers":"0.1.0","deps":[],"cksum":"fb43d1f8a7526184aa395a88f24ad9550485abdaa78820e656fd390631abe6f3","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.1","deps":[],"cksum":"1df5c23cd51d7f15d75db1d810448714a9123c989dfc12ac6305349d3e019bb7","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.2","deps":[],"cksum":"8e77d57b2f9331738b1db8f8dbb58d9174d33c7939e93ca1e65a3d33b92c0af6","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.3","deps":[],"cksum":"7214f0cd6bc5f42ff806b117948bd1710024dd5cc37f1d63865fbbfa9d00030e","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.4","deps":[],"cksum":"6457c9ead00e0849883387b99be35f1e2e334c4b49d48125fc4d782f91422e03","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.5","deps":[],"cksum":"d89089664a6069b7fe1d8c9ee9418d653e4ec7569147d1c16efb79b436b7120d","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.6","deps":[],"cksum":"00b65c0dfd044dc0d8239549ae8d201a8d3bfc5ea3d79f6412d5f82ff97c0ca0","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.7","deps":[],"cksum":"7732e5fcc849d94fbd54cae5edc876e5929a6e853bbcff126647208e45419857","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.8","deps":[],"cksum":"f9b576785f97f6213fef7e63c2aa63c81b0df69f674ebfad1a37552ae8d61194","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.9","deps":[],"cksum":"46471ff0e0ed1b8f314e16c3f8e2d616eed30bc86f7a1b582c5cb943c2491eea","features":{"fewc":[]},"yanked":true,"links":null}
+{"name":"submap","vers":"0.1.10","deps":[],"cksum":"3d8a37d55d376e0276535d072f2211b4983649d37eb83fa13546056c4a3670dd","features":{},"yanked":true,"links":null}
+{"name":"submap","vers":"0.1.11","deps":[],"cksum":"c21ac9e78a813afef54a5bae6b1e9c6a62282747639bdb2ded2d6d6269016732","features":{},"yanked":true,"links":null}
+{"name":"submap","vers":"0.2.0","deps":[],"cksum":"f9f355c87f08d480c9cafb7f1c66fb3d9b8c2bdee2e86bd562d910b9d45c932a","features":{},"yanked":true,"links":null}
+{"name":"submap","vers":"0.2.1","deps":[{"name":"sha2","req":"^0.10.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7c8a0672bbd54a4633774947cc799102c2cfcdf083b12a4acc5e5cf20413dd6","features":{"digest":["sha2"]},"yanked":false,"links":null}
+{"name":"submap","vers":"0.2.2","deps":[{"name":"sha2","req":"^0.10.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e12a33e5b7d9e3e349c051614fe462f37363885d1eb5b57f2cb63857322af4d","features":{"digest":["sha2"]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"reactiontime","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54b46847a6bc1006ae617091e85a43c9f3ca0d3a66e557a1241c0791cd443fe9","features":{},"yanked":false,"links":null}
+{"name":"reactiontime","vers":"0.2.0","deps":[{"name":"termion","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83047aae220320168751bc87f8ad5764609b4e2a908f0a0675d8670db789677b","features":{},"yanked":false,"links":null}

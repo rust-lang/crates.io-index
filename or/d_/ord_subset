@@ -1,0 +1,8 @@
+{"name":"ord_subset","vers":"1.0.0","deps":[],"cksum":"ab609f176b3c37b1197c972ecedef80c0a35dfba84ac1eee4167d389b28655f0","features":{},"yanked":false}
+{"name":"ord_subset","vers":"1.1.0","deps":[],"cksum":"5555cd10cb13106f3d4da510cf9d1c2849abe4013309303ea5e1405f4763b150","features":{},"yanked":false}
+{"name":"ord_subset","vers":"1.2.0","deps":[],"cksum":"010031fbb4788c3d4b0cdbabfed03b981761727fc064e3d75c90e33a826cab8f","features":{},"yanked":false}
+{"name":"ord_subset","vers":"2.0.0","deps":[],"cksum":"70954e4cb1bac70f7ec80fc1eca6f2d4edc61b922b2170955af752431af0f8b8","features":{},"yanked":false}
+{"name":"ord_subset","vers":"2.1.0","deps":[],"cksum":"bdb8b8c275824bc609c8294f20a55d37d808a1b071cec596da746ce4df0405e8","features":{},"yanked":false}
+{"name":"ord_subset","vers":"3.0.0","deps":[],"cksum":"3ddfbcf302662e0d32e727073a2b574838718726746827fce0e90ee8c72ad063","features":{"unstable":[],"std":[],"default":["std"]},"yanked":false}
+{"name":"ord_subset","vers":"3.1.0","deps":[],"cksum":"bc65e6e24476e1a5baed530f60b918ff7925539aaae1d59ab51113c991321c40","features":{"ops":[],"unchecked_ops":["ops"],"default":["std"],"std":[],"unstable":[]},"yanked":false}
+{"name":"ord_subset","vers":"3.1.1","deps":[],"cksum":"d7ce14664caf5b27f5656ff727defd68ae1eb75ef3c4d95259361df1eb376bef","features":{"default":["std"],"unstable":[],"unchecked_ops":["ops"],"ops":[],"std":[]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"weak_static","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a5cce310611c040979236468e4521b19094d887933122d23c6a3d3a43e576a9","features":{},"yanked":false}
+{"name":"weak_static","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0919ecda4f527274e81004d125d4d138fdcba976c6314bee4c9d5b705159f259","features":{},"yanked":false}

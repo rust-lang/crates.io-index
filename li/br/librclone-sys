@@ -1,0 +1,3 @@
+{"name":"librclone-sys","vers":"0.0.0","deps":[],"cksum":"e88f36f9dfd003c7c53d2d1d402c0475eeb39f37744d357c73bce9152a237b4e","features":{},"yanked":false,"links":null}
+{"name":"librclone-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9e3aac9f348d20d72212141f3021205cac8e38d635266c967bfa8520e429f644","features":{},"yanked":false,"links":null}
+{"name":"librclone-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bc7282c12f75d95fefcba3fb9e6c795ee951685b179b7168d8b0a64442fd290f","features":{},"yanked":false,"links":null}

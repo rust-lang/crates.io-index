@@ -1,0 +1,6 @@
+{"name":"rust-netmap","vers":"0.0.1","deps":[],"cksum":"66419372e9deb4f09567599e62cd66653c4c9a8d256ae1bbd853eda355ddbe94","features":{},"yanked":false}
+{"name":"rust-netmap","vers":"0.0.2","deps":[],"cksum":"aa6b37226f11a2c9e81fe5fe1e49c3b956e33d3dbb29394f2911a4c01ff118dd","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
+{"name":"rust-netmap","vers":"0.0.3","deps":[],"cksum":"08dbd27a28d83ac42f67a78e532859050d933b216c96bb21a8f9f4402eeffcff","features":{"default":[],"netmap_with_libs":[]},"yanked":false}
+{"name":"rust-netmap","vers":"0.0.4","deps":[],"cksum":"2fcf1eb9455544910960b0002d5c49cf4984ac689514d3adc5b48d89d412ccb1","features":{"default":[],"netmap_with_libs":[]},"yanked":false}
+{"name":"rust-netmap","vers":"0.0.5","deps":[],"cksum":"b5807cd57b9e1a31474220e5bc4b0bdf1bae3028f3d0329bb465affd58516c41","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
+{"name":"rust-netmap","vers":"0.0.7","deps":[],"cksum":"63402a7110d389010b61b4fb6ea58064dfb21f80f01103bec5dbdb69e4fc87b7","features":{"default":[],"netmap_with_libs":[]},"yanked":false}

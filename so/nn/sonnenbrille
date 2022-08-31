@@ -1,0 +1,2 @@
+{"name":"sonnenbrille","vers":"0.1.0","deps":[{"name":"rand","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69ea9de12ce8d7f84c4cb3468c7cc18afdbf50ee3d8f0551d3cd13a26cff41df","features":{},"yanked":true,"links":null}
+{"name":"sonnenbrille","vers":"0.1.1","deps":[{"name":"rand","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e21c68fbc228c7b1809a6a9e3ac9b9498b7252ccc40558638be584226bea9f54","features":{},"yanked":false,"links":null}

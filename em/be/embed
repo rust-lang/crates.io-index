@@ -1,0 +1,2 @@
+{"name":"embed","vers":"0.1.0","deps":[],"cksum":"56fe59ca2e60c2d95a26d3b06d38b2a1c8053921845c17c84d8f1969f5e15002","features":{},"yanked":false}
+{"name":"embed","vers":"0.1.1","deps":[{"name":"walkdir","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f04650c87255c1a6c9aa362ccba2ade95d0bc341afc49123d299b0a9c88ac819","features":{},"yanked":false}

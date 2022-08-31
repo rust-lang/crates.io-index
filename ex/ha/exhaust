@@ -1,0 +1,1 @@
+{"name":"exhaust","vers":"0.1.0","deps":[{"name":"exhaust-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1ed0a3549a6699defe2c6160e899677b9d3f51107d50934692f3789a78e706c","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"dhcp_parser","vers":"0.1.0","deps":[{"name":"nom","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8b2fb363504a8eb376faef602a8304a4364da4b6870e3cc4be5ddb82913a968c","features":{},"yanked":false}

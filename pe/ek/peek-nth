@@ -1,0 +1,2 @@
+{"name":"peek-nth","vers":"0.1.0","deps":[{"name":"smallvec","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245bb740258904199c2d7ccd9a43d639e2c77f486cc80340c383376db2d1d8b9","features":{},"yanked":false,"links":null}
+{"name":"peek-nth","vers":"0.2.0","deps":[{"name":"smallvec","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb7a9ed6377ba979ee205df10c62755c97594d0aae99a34ea0b7c02766de1fed","features":{},"yanked":false,"links":null}

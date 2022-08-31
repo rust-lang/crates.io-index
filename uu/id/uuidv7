@@ -1,0 +1,2 @@
+{"name":"uuidv7","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76b5fd260fa146b9fb997b7a78a090dbf479239b2c53c3e8126a202ee8b31203","features":{},"yanked":false,"links":null}
+{"name":"uuidv7","vers":"0.1.1","deps":[{"name":"getrandom","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a3d416315f815f94d52db5db92e1c07561ac8fddc08cc548904a207f0a73073","features":{},"yanked":false,"links":null}

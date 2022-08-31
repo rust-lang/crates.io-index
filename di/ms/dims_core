@@ -1,0 +1,3 @@
+{"name":"dims_core","vers":"0.2.1","deps":[],"cksum":"2f448b53910cdf61ab4d6e63a449bb54215cdef000930e6727f17be340c6fada","features":{"f64":[],"no_std":[],"default":["str"],"str":[]},"yanked":false,"links":null}
+{"name":"dims_core","vers":"0.3.0","deps":[],"cksum":"d868622cfd3d71773a221bd6f56967c81907a135f2457584b5997e8c32ff4ec2","features":{"f64":[],"no_std":[],"str":[],"default":["str"]},"yanked":false,"links":null}
+{"name":"dims_core","vers":"0.3.1","deps":[],"cksum":"d39f4d3be3538da740e7b872d0ee122938a8b11d0e63b11feab66b66a57e4450","features":{"f64":[],"str":[],"default":["str"],"no_std":[]},"yanked":false,"links":null}

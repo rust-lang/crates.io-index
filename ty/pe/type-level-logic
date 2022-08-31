@@ -1,0 +1,1 @@
+{"name":"type-level-logic","vers":"0.1.0","deps":[{"name":"type-operators","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56edf0d99a5ebb2bed2404683c4ef143c09b68888afc35734c6a0fdf9efbead8","features":{"nightly":["specialization"],"specialization":["type-operators/specialization"],"default":[]},"yanked":false}

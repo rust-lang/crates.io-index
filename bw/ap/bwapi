@@ -1,0 +1,2 @@
+{"name":"bwapi","vers":"0.1.0","deps":[],"cksum":"2843555964018d102ebae6f943fe619757f430378d112c330fafaa18130bf51b","features":{},"yanked":false}
+{"name":"bwapi","vers":"0.2.0","deps":[{"name":"bwapi-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cda4a0c0296054bd6fc411fa56f43772a71a40fe5e5365d12fb9e1880356bec","features":{},"yanked":false,"links":null}

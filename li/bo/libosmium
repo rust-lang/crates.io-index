@@ -1,0 +1,2 @@
+{"name":"libosmium","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"07a989166e0ca934f6f2eaa85665e9816a7c2b243f7911f31f209848a1f1fc74","features":{},"yanked":false,"links":"z"}
+{"name":"libosmium","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d4adad05d78b27aca48f324875d0a9fdc3e2c135594043d0610b0b59d60c1a80","features":{},"yanked":false,"links":"z"}

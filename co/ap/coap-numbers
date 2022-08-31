@@ -1,0 +1,4 @@
+{"name":"coap-numbers","vers":"0.1.0","deps":[],"cksum":"b6db1ebe9ac029e92f7fc6276dbfbdc0f95a80f52c326cddede3994559c96ba9","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"coap-numbers","vers":"0.1.1","deps":[],"cksum":"282ac40b14cb91e2021bf1f35c873a6e2bb3c58c573307bddd1bbf5f8544506a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"coap-numbers","vers":"0.1.2","deps":[],"cksum":"846c9bba4f1a98e6b3e26f67d96414eb2b1534a702c87d65c3a52c994c690d6a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"coap-numbers","vers":"0.2.0","deps":[],"cksum":"8d4135db61ac9b5fb4266fcd1294abd47c807e63b496882784543940dc3402e9","features":{"alloc":[]},"yanked":false,"links":null}

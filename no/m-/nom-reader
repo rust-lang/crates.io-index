@@ -1,0 +1,2 @@
+{"name":"nom-reader","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c4730c9c8c3d4bddea2a54987ff10c5dfd7582f53d9917f6822c96e7196ea57","features":{},"yanked":false}
+{"name":"nom-reader","vers":"0.2.0","deps":[{"name":"nom","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8166c427c341aae904e40438cdef9f7cff36059c0b7a8322570251b4143591c6","features":{},"yanked":false,"links":null}

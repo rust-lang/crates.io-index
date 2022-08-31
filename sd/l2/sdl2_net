@@ -1,0 +1,2 @@
+{"name":"sdl2_net","vers":"0.0.1","deps":[{"name":"sdl2","req":"^0.0.24","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e29db9c9ca2e7e2077bc30c3ca225b24ae7df05b5de5e8088c5c7fbc3d7302b6","features":{},"yanked":false}
+{"name":"sdl2_net","vers":"0.0.2","deps":[{"name":"sdl2","req":"^0.0.28","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9f9f45bd7c428d1d9814f4f8fd57429e08fd67def09aedb88b5f2f6db20236c","features":{},"yanked":false}

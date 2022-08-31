@@ -1,0 +1,2 @@
+{"name":"vga-figures","vers":"0.1.0","deps":[{"name":"vga","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d58e4631ab161f81ffd2cd4414b29dd4fdb971109890a57a8e08291d334b88e4","features":{},"yanked":false,"links":null}
+{"name":"vga-figures","vers":"0.2.0","deps":[{"name":"vga","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a59e058726394fd368a96924543a027dbe72f4b86d08e270ce23f1b3884b48","features":{},"yanked":false,"links":null}

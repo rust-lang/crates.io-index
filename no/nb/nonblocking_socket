@@ -1,0 +1,2 @@
+{"name":"nonblocking_socket","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"372168eaab454d18616710a6a140100c266690c6fa8c21e6046c449cd9eaf0a2","features":{},"yanked":false}
+{"name":"nonblocking_socket","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e3551a8016da037c218d88fbf350c63f98b2e9939118718b81654077dc8084a","features":{},"yanked":false}

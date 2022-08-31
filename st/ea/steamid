@@ -1,0 +1,3 @@
+{"name":"steamid","vers":"0.1.0","deps":[],"cksum":"18bb1d7b4b283d6f2ed46ae44c94abf8e78253181ab966dc8a0380239794fabc","features":{},"yanked":false}
+{"name":"steamid","vers":"0.2.0","deps":[{"name":"redis","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87fb061854c05fb0215b2ddb0c276550665781bfc711a918c329741117b0ea7a","features":{"redis-support":["redis"]},"yanked":false}
+{"name":"steamid","vers":"0.3.0","deps":[{"name":"redis","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d09df6c490075eb1660719ad842909780af3d9090be7fab76916949b061879e","features":{"redis-support":["redis"]},"yanked":false}

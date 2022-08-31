@@ -1,0 +1,8 @@
+{"name":"emailaddress","vers":"0.0.1","deps":[],"cksum":"23f065095c4fe012d4cec54ae56363906f45b50b7fa1bb42ebd767dba764eba9","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.1.0","deps":[],"cksum":"8c09e40cdbe7ccd0584c01b0c33f2c4a375866a9acd6cd9393f2c8dbb3ea43a6","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.1.1","deps":[],"cksum":"ebef90f83551ca4f59096fc2653f12eb5b7b40b3de45136416ef97491fad52c8","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.2.0","deps":[],"cksum":"5c9903edcf96151b608910e0ecebfcbaee72770450f5d8ffbdc73416a27aa6f9","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.2.1","deps":[],"cksum":"40ecc948d77b5256478f85225cd931d4c99e70b03adda2becb70ea482e8facaa","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.3.0","deps":[],"cksum":"db37cf4f881d87d803a07fc4bac9f7162838a3e4b64044653e66e1be97df1941","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.3.1","deps":[],"cksum":"bbb8cce8cb2057a5aaaca1065ef583a511a89fd89a017628eb784cd4c2da7ab6","features":{},"yanked":false}
+{"name":"emailaddress","vers":"0.4.0","deps":[{"name":"serde_derive","req":"^0.8.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^0.8.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a621dc14b6dc6f847ef83ee630672d4b46c2d6df96d2e108b27343329684a44","features":{"ser":["serde","serde_derive"]},"yanked":false}

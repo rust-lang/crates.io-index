@@ -1,0 +1,2 @@
+{"name":"graphic","vers":"0.0.1-alpha.1","deps":[{"name":"quickcheck_macros","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5899cdfb23e927af60f3ad8aabb7d024358378d72a5fc3ab86c117ad758f70e0","features":{},"yanked":false}
+{"name":"graphic","vers":"0.0.1-alpha.2","deps":[],"cksum":"59c3cdac1fc683412952ecb1674726f343a852de0564f6556652e68bce6a585e","features":{},"yanked":false}

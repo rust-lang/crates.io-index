@@ -1,0 +1,1 @@
+{"name":"tcpproxy","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69497b6f55ea1b90f5f14435716d10e15428c59e81e2c582b0c75cc327b28acb","features":{},"yanked":false}

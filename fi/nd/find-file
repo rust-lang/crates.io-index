@@ -1,0 +1,4 @@
+{"name":"find-file","vers":"0.1.0","deps":[],"cksum":"e903e3073fb613923701676cf0bd42edc3ce51445a6eca7377bfbc59f18099fb","features":{},"yanked":false}
+{"name":"find-file","vers":"1.0.0","deps":[],"cksum":"eb52f58d1ba21934a40e1403155dbd54d8dbded9fa66a4a2c50db5755abfdef6","features":{},"yanked":false}
+{"name":"find-file","vers":"1.0.1","deps":[{"name":"clap","req":"2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7586e6fda2cadd6c280c233186db1576e9832cb5e28ee521d63ded40f59b7118","features":{},"yanked":false}
+{"name":"find-file","vers":"2.0.0","deps":[{"name":"clap","req":"2.*.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"893011aaacf7f6afad51376ff940f11a489af0568d9a2f436f5af079be5e2dc6","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"astrolabe","vers":"0.0.0","deps":[],"cksum":"44f4093aa8699c8a1bcd51494451e442f4d1bacddfd18108b3bd1627f9cbc995","features":{},"yanked":false,"links":null}
+{"name":"astrolabe","vers":"0.0.1","deps":[{"name":"fancy-regex","req":"^0.10.0","features":["unicode"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5cdf469bd75b88f56a0d7ba4163a9c8c1a951a3aa55dc35693ff2cf73e59cccd","features":{"default":[]},"features2":{"format":["dep:fancy-regex"]},"yanked":false,"links":null,"v":2}
+{"name":"astrolabe","vers":"0.0.2","deps":[],"cksum":"197480c7ba57e42cf3e918a6448d40fdab69b3cf1191cd9c0c84c300875f1727","features":{},"yanked":false,"links":null}
+{"name":"astrolabe","vers":"0.1.0","deps":[],"cksum":"abbaf3d8b21ce8c5e0785939175f15a07c9d7948f61617a633de67ac7f9fb7bd","features":{},"yanked":false,"links":null}
+{"name":"astrolabe","vers":"0.2.0","deps":[],"cksum":"3f751fcf1d5272d514a83197d8440d6c4527cc5ba992713f93b666eba556f92c","features":{},"yanked":false,"links":null}

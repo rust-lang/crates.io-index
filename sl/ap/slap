@@ -1,0 +1,6 @@
+{"name":"slap","vers":"0.1.0","deps":[],"cksum":"206f59a3386aad24fb4747d2695ab9bb322e664d06abf1d373804d63cc3f8643","features":{},"yanked":true,"links":null}
+{"name":"slap","vers":"0.1.1","deps":[],"cksum":"62186b3e2822f0ef7b6ac96d751e815ce1152961ed32f8b2bc9f33dada7c8d08","features":{},"yanked":true,"links":null}
+{"name":"slap","vers":"0.2.0","deps":[],"cksum":"073c47030aff040d5e599f5ddcdd2fdcaac10e5d3bca068e17eaf821f379eee6","features":{},"yanked":false,"links":null}
+{"name":"slap","vers":"0.2.1","deps":[],"cksum":"03ab1b57c79a1e0a6b4805a07373e5862196cbad7c2cbbd6cb26d6fccd88e35d","features":{},"yanked":false,"links":null}
+{"name":"slap","vers":"0.2.2","deps":[{"name":"clap","req":"^3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be05a39e7eaecb1e1705ea2d460166a318f3b3f82e19c5040644e6ed1cb9e21d","features":{},"yanked":false,"links":null}
+{"name":"slap","vers":"0.2.2-1","deps":[{"name":"clap","req":"^3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb10ebbafd1fd88b84e782bf15c6fd84e4e3afa99b037b22462515eed28cfec4","features":{},"yanked":false,"links":null}

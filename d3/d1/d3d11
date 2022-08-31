@@ -1,0 +1,1 @@
+{"name":"d3d11","vers":"0.1.0","deps":[{"name":"dxgi-win","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"269a128c8d438345471e70def90b76e81cc1922740cc24cb861c1444f66eb61b","features":{},"yanked":true}

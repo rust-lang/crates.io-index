@@ -1,0 +1,2 @@
+{"name":"kal","vers":"0.1.0","deps":[],"cksum":"a92de045488b21b31e65e29a3488d7900c15741b7567b862fab05bf4d3758a00","features":{},"yanked":false,"links":null}
+{"name":"kal","vers":"0.1.1","deps":[{"name":"kal-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2978ca19c05788ac5a10208aab28fdbb785d46452dc55c71c70f8908caf6477d","features":{"default":["derive"],"derive":["kal-derive"]},"yanked":false,"links":null}

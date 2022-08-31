@@ -1,0 +1,2 @@
+{"name":"image_buffer","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be0e79e1f38c72db7893e243878c9683bab40bd7d194c05b1f26d34c9df21c61","features":{},"yanked":false}
+{"name":"image_buffer","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac4de8e52caf5f92056856533407745339c35113e8460f13a715222aca101603","features":{},"yanked":false}

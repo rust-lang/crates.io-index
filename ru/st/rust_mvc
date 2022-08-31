@@ -1,0 +1,2 @@
+{"name":"rust_mvc","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.9.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"74199342df27c6de59418cb9cfcc43149ea450d991283e8e94ce83846126c666","features":{},"yanked":true,"links":null}
+{"name":"rust_mvc","vers":"0.1.1","deps":[],"cksum":"3e5257dcc9eca9599b5bcc22c8b08328bd7a53cc6299d40d473b7e27edbe9cd9","features":{},"yanked":false,"links":null}

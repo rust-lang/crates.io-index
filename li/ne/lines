@@ -1,0 +1,6 @@
+{"name":"lines","vers":"0.0.1","deps":[],"cksum":"f8bf05f31b7b483bed5ff608ca777dc6166248f0c169920f06fd5328fc3da1d7","features":{},"yanked":false}
+{"name":"lines","vers":"0.0.2","deps":[],"cksum":"fa7c9ec074e55291e6ce115fedd56328cfb0d985973e282849c5cadd09fd21fc","features":{},"yanked":false}
+{"name":"lines","vers":"0.0.3","deps":[{"name":"memchr","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c405f866be1271c887b304ba3bc82809a92f023d93514aaa2af0a3aa1327312","features":{},"yanked":false}
+{"name":"lines","vers":"0.0.4","deps":[{"name":"memchr","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c728ab30b9d1b1b49d446b16501c08af08c82f503a350e8566eaf20c24053b12","features":{},"yanked":false}
+{"name":"lines","vers":"0.0.5","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cec8502a838dc98bb2f0a234dc4feeacd6be93679fe20cd2e675d54072a3725a","features":{},"yanked":false}
+{"name":"lines","vers":"0.0.6","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d99e0b6989452b0f7ab05f27d1dddb05fce28e487d4b2dc6ed85c08390ee7ca2","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"fuchsia-zircon-sys","vers":"0.2.0","deps":[{"name":"bitflags","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43f3795b4bae048dc6123a6b972cadde2e676f9ded08aef6bb77f5f157684a82","features":{},"yanked":false}
+{"name":"fuchsia-zircon-sys","vers":"0.3.1","deps":[],"cksum":"069def9a0e5feb7e9120635f6ebad24d853a6affbb077fec84d0888316cf9ae6","features":{},"yanked":false}
+{"name":"fuchsia-zircon-sys","vers":"0.3.2","deps":[],"cksum":"08b3a6f13ad6b96572b53ce7af74543132f1a7055ccceb6d073dd36c54481859","features":{},"yanked":false}
+{"name":"fuchsia-zircon-sys","vers":"0.3.3","deps":[],"cksum":"3dcaa9ae7725d12cdb85b3ad99a434db70b468c09ded17e012d86b5c1010f7a7","features":{},"yanked":false}

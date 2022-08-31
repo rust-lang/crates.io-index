@@ -1,0 +1,2 @@
+{"name":"minipre","vers":"0.1.0","deps":[],"cksum":"9b6cdef1bfe9e69e621a0cc5e6d4928d85f8409afcc5d1dad1f131c587b835e2","features":{},"yanked":false,"links":null}
+{"name":"minipre","vers":"0.2.0","deps":[{"name":"regex","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d54496a759dfd7b32810f78c5f2af67ccad0a9be3ad8c6d7c4a9536bb3d20539","features":{},"yanked":false,"links":null}

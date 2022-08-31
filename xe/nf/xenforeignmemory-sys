@@ -1,0 +1,1 @@
+{"name":"xenforeignmemory-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f8727014006ed8ae65b897683329357052cdc3a3d979b2cbcaba8142eb3c0764","features":{},"yanked":false,"links":"xenforeignmemory"}

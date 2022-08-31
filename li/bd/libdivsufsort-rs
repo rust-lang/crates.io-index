@@ -1,0 +1,2 @@
+{"name":"libdivsufsort-rs","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5884b8fc00d5b9832f96254636cef89aac32b4031d905f5fd5ce537dfd475296","features":{},"yanked":false,"links":null}
+{"name":"libdivsufsort-rs","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2d579f2540ea9e8d67be938bcce5cac5d4b1b955676078bb966fdfe7ae2390f9","features":{},"yanked":false,"links":null}

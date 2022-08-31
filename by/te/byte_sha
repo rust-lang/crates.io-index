@@ -1,0 +1,2 @@
+{"name":"byte_sha","vers":"1.0.0","deps":[{"name":"hex_d_hex","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"085685a327bf9c499e2568c5c07fe0be0fdcb6966e19db7ea481aae4410a780b","features":{},"yanked":false}
+{"name":"byte_sha","vers":"1.0.1","deps":[{"name":"hex_d_hex","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17de13115ee4f964a0e34b12565f7c6e9f27c375037ec2b22996b3a430bf04f2","features":{},"yanked":false}

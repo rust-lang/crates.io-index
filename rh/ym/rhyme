@@ -1,0 +1,2 @@
+{"name":"rhyme","vers":"0.1.0","deps":[{"name":"cmudict","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce595c130c38e7f65b0ee4f2351a182531a72a82abedf74c18f8ec8e5421025f","features":{},"yanked":false,"links":null}
+{"name":"rhyme","vers":"0.1.1","deps":[{"name":"cmudict","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0615578c0926add4bc42562b46f1403c59f66183bb237b053b8734cbbf0add2c","features":{},"yanked":false,"links":null}

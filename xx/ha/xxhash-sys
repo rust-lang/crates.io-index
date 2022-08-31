@@ -1,0 +1,1 @@
+{"name":"xxhash-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"65b7241ae059fea3e38b314b7604d20b2fd23912a9714695f35c7d6b17d584d0","features":{},"yanked":false}

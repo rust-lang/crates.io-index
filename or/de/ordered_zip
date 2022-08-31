@@ -1,0 +1,1 @@
+{"name":"ordered_zip","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.37","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"893d4e1375283091ccf955923a3b5aaf655153f9c77690731c241229f679c625","features":{"default":[],"lint":["clippy"]},"yanked":true}

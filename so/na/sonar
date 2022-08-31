@@ -1,0 +1,1 @@
+{"name":"sonar","vers":"0.1.0","deps":[{"name":"sonar-window","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c06bcc0b3b419a5b8269244acb4ef597f9a4a881af12f9c0b0f7221bb006ce3","features":{"default":["window"],"window":["sonar-window"]},"yanked":false}

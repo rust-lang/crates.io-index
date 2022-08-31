@@ -1,0 +1,2 @@
+{"name":"pick-one","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"490bdb62cf6ac654e668794e75fe5e9a642c8fb18a4523da95f53f88d4bd5936","features":{},"yanked":false}
+{"name":"pick-one","vers":"1.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30a80505c880b62641a8bfaa2c37e6e72b9f17fc24d216e31fe39f612b53c161","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"sppark","vers":"0.1.0","deps":[],"cksum":"7e5713afb9b9b1744934e3b3f9623af5640a8d37dfdf088a59abec39f238797b","features":{},"yanked":false,"links":"sppark"}
+{"name":"sppark","vers":"0.1.1","deps":[],"cksum":"d140c537a126a9186192999361794744c3a593527b5f29f1bb5a9dbb73dc84fd","features":{},"yanked":false,"links":"sppark"}
+{"name":"sppark","vers":"0.1.2","deps":[{"name":"cc","req":"^1.0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"which","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"202bc058424c1a3c39b5422f84715a816a93ae2cd1d1020e83fda2f38fe788d2","features":{},"yanked":false,"links":"sppark"}

@@ -1,0 +1,3 @@
+{"name":"neovim","vers":"0.0.1","deps":[],"cksum":"2e4044432e2f4d4997dba28f008ee41ead9af6d9bd3b62b60f9c98bbd54b8e10","features":{},"yanked":false}
+{"name":"neovim","vers":"0.0.2","deps":[{"name":"mpack","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02b9a2650fc238d4b599e8926221b8c83c0ca259fd76f4ae62bbee90c989e4b4","features":{},"yanked":false}
+{"name":"neovim","vers":"0.1.0","deps":[{"name":"mpack","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e6b34ef79bc4841a14ec11f9d698070b629c69a17cf7ae1798f45f000cce74","features":{},"yanked":false}

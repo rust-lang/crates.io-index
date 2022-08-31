@@ -1,0 +1,2 @@
+{"name":"typenum-prime","vers":"0.1.0","deps":[{"name":"typenum","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14fccc3147a68f3bac928c9480b4baaa6cb3c94b8b997b0f631b7087091be20f","features":{},"yanked":false}
+{"name":"typenum-prime","vers":"0.2.0","deps":[{"name":"typenum","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"258f3b1cd9f9fe2f418d27ce2bbb391d5bc5cc673f18a9a66971515a96d6f9a3","features":{},"yanked":false,"links":null}

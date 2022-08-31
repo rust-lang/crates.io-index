@@ -1,0 +1,1 @@
+{"name":"libaudioverse-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.32.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"1d54a45123d36428820e30136a6868ab7420ef57aba60223293122a24068ca88","features":{"use-bindgen":["bindgen"],"default":[]},"yanked":false}

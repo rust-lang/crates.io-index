@@ -1,0 +1,11 @@
+{"name":"oidn","vers":"0.1.0","deps":[],"cksum":"87aa4038ac471f708f5c4ad9e7f2b37b9d7b3e3274af51a98d0d9303251b252e","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"0.2.0","deps":[],"cksum":"41fd7ef4d3bce0dd898562d003e553d88e0cd277ee8d4e9a369be13859445f7f","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.0.0","deps":[],"cksum":"d02a2b3cc6d042a69933da5683a99c3f6ff97b9fd8658b36cab1deafa215ea2f","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.1.0","deps":[],"cksum":"eff26f437063303e321849f20454d6bb1b7b4633ca6fe6cda90637fa494a1606","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.2.0","deps":[],"cksum":"b0721902391298031999737449926db840a2b8faf3285ddf16f71aefa53465a6","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.2.1","deps":[],"cksum":"e09935f2a884c523233566911b88ed2267472494dc64bc2bff8ebf57ba6232ea","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.3.0","deps":[],"cksum":"907a82d496d867d59a0db9705d09000b80c128373c895d5ed8dd146ddc37d92d","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.3.1","deps":[],"cksum":"dd04cad1fb253706d4b6a7c01d1e64bc22443de4937c548819d6b6c55676d023","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.4.0","deps":[{"name":"num_enum","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8efd0ee94254358c0441b03d9cf1c594a12e5fd8d6df64dbd230f9470ef69b80","features":{},"yanked":true,"links":null}
+{"name":"oidn","vers":"1.4.1","deps":[{"name":"num_enum","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe1b5159bf232ef2cd3b7f13d7166bbc3b552ae53ebbb09ef7405a9a9736caa7","features":{},"yanked":false,"links":null}
+{"name":"oidn","vers":"1.4.2","deps":[{"name":"num_enum","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d39e04fb59af90097971ff1693349d4b2a1abfe8c09fafbbbbc9b970e18dd40b","features":{},"yanked":false,"links":"OpenImageDenoise"}

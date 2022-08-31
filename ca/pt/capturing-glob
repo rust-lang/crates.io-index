@@ -1,0 +1,2 @@
+{"name":"capturing-glob","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f5a6f05614f81f5b7a1a9c0b55765d056e205cf77ae01f0237cf94739a7da2c3","features":{},"yanked":false}
+{"name":"capturing-glob","vers":"0.1.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a9a4471dc30ffbbe4ce4c5a7c68fd77d98651517b9ff8bf499de82e041bad2e3","features":{},"yanked":false}

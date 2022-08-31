@@ -1,0 +1,2 @@
+{"name":"linux-api-math","vers":"0.0.0","deps":[{"name":"linux-api","req":">= 0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dd0be7e28ba26239981d290ac54f0563b6ea91f2854fac3a13d54d4a5708586","features":{},"yanked":false}
+{"name":"linux-api-math","vers":"0.0.1","deps":[{"name":"linux-api","req":">= 0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17d360901964feb7a32b905e2ee3bd2d05ae956f380cb03df6b7f341f4ff8e9d","features":{},"yanked":false}

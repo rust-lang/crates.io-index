@@ -1,0 +1,2 @@
+{"name":"pmap","vers":"0.0.4","deps":[],"cksum":"956d395516c6431665a71066b4d117bd18e72b6ec0fbb30c99e2accf6e2a0670","features":{},"yanked":false}
+{"name":"pmap","vers":"0.0.5","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd6c83811c123a6e4811347215a84599a23d075c2c07e2a590e4e76aaf5c08a5","features":{},"yanked":false}

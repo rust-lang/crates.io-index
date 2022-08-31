@@ -1,0 +1,2 @@
+{"name":"gpu-alloc-types","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6ba7d30041a15b874d04bd9b81be463dabf2d59c9a908bd5aab9c3f173d3ebeb","features":{},"yanked":false,"links":null}
+{"name":"gpu-alloc-types","vers":"0.2.0","deps":[{"name":"bitflags","req":"^1.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54804d0d6bc9d7f26db4eaec1ad10def69b599315f487d32c334a80d1efe67a5","features":{},"yanked":false,"links":null}

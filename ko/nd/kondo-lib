@@ -1,0 +1,2 @@
+{"name":"kondo-lib","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf13457da2ae3a8e044852f63232fbd3ebf17b21d5bea9869eca330fc4022920","features":{},"yanked":false,"links":null}
+{"name":"kondo-lib","vers":"0.2.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"988923a9b6771d80933571eac05d56881ec85fb881f5f89d6ca124dd0f4eccb3","features":{},"yanked":false,"links":null}

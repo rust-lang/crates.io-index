@@ -1,0 +1,2 @@
+{"name":"smartcow","vers":"0.1.0","deps":[{"name":"smartstring","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05e3ed3ccf93c7425507e5e2261a3fc90d14267d491f360b9b679ae0a4ce693e","features":{},"yanked":false,"links":null}
+{"name":"smartcow","vers":"0.2.0","deps":[{"name":"smartstring","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd4be1039bf9f153b3a1a055043dc144360ec289854ece5dde68385f85d0faa","features":{},"yanked":false,"links":null}

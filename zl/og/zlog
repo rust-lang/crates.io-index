@@ -1,0 +1,1 @@
+{"name":"zlog","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78425c606ce73f7c044fae31386af2368445ef6a623d5b5628f837ae5a9dc143","features":{},"yanked":false}

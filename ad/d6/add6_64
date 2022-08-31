@@ -1,0 +1,2 @@
+{"name":"add6_64","vers":"0.1.0","deps":[{"name":"add3","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ebef11a4b7c0e1bb1c7c067216d9d1fae35aa0fc00d4796969b4c86244d1269","features":{},"yanked":false}
+{"name":"add6_64","vers":"0.2.0","deps":[{"name":"add3","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"938f0240fd5da71d36c4e1227c22e75fd86a6977463ddf585df39ebbaa54d90e","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"fast_qr","vers":"0.2.0","deps":[],"cksum":"d9b3df1c2b42359ece9046e270c5552a296165d561a0df7563b2bf0f787130fe","features":{},"yanked":false,"links":null}
+{"name":"fast_qr","vers":"0.2.1","deps":[],"cksum":"2bd02f64f61416d7641f0de4d7ceee9c9ca9cf326f1f705a3acadcbc8356b1f3","features":{},"yanked":false,"links":null}
+{"name":"fast_qr","vers":"0.3.0","deps":[],"cksum":"32198d8465186d12f47f43f3935f7d3f8c334a69b70440cef287b93870b95e5c","features":{},"yanked":false,"links":null}
+{"name":"fast_qr","vers":"0.3.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b798dfd6e29b85c0bcf434272db4cde0100ab4d82c5db0a4f422e77b30d0b4e4","features":{},"yanked":false,"links":null}

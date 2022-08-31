@@ -1,0 +1,1 @@
+{"name":"hypermud","vers":"0.0.2","deps":[{"name":"clap","req":"^2.33.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0799180e96444abe6ed1fcaa314ef499ce803c39fc3e739144e588d72bb49768","features":{"default":["server","client"],"client":[],"server":[]},"yanked":false,"links":null}

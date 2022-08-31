@@ -1,0 +1,1 @@
+{"name":"splunk-cim","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efb4409a603a1f38faf27d4ba307388f9c480df16e986909e62d641c44ae5b1b","features":{},"yanked":false,"links":null}

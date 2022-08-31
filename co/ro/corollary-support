@@ -1,0 +1,2 @@
+{"name":"corollary-support","vers":"0.1.0","deps":[],"cksum":"fba26f0517e7bee22d5d254bcb1509cf6c1fdec95f6ac4355cfd372a7bceafbd","features":{},"yanked":false}
+{"name":"corollary-support","vers":"0.2.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d34ce071bfc395de8d9c1fad27e7385c98138bf923889109c1ecbaca16d101","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"routeros_rust","vers":"0.0.2","deps":[{"name":"rust-crypto","req":"^0.2.31","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02f6a64fe1c2084f494f98d8afd3da02110a6642f53703b81732ace734894462","features":{},"yanked":false}
+{"name":"routeros_rust","vers":"0.0.21","deps":[{"name":"rust-crypto","req":"^0.2.31","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbf650fbc9993cffcd8e87cab68e99f4a0b2a933cc6d5ac62e1deb92aac9e367","features":{},"yanked":false}

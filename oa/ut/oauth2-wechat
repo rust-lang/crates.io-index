@@ -1,0 +1,2 @@
+{"name":"oauth2-wechat","vers":"0.0.0","deps":[],"cksum":"513de8a8b2f3f33bd909a3b93d10593dddff33e2bc2e686de91cde814a61a6cf","features":{},"yanked":false,"links":null}
+{"name":"oauth2-wechat","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7349679c9c3cb1db8ad5e84feb2cb45779fe651bb6f5b8b9391ab3b2e391bdda","features":{},"yanked":false,"links":null}

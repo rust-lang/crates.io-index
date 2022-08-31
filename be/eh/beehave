@@ -1,0 +1,4 @@
+{"name":"beehave","vers":"0.0.1","deps":[],"cksum":"25584e819e293aef9d3179d6ffafe603280c69797a06ce3186adf0c6721d5241","features":{},"yanked":false}
+{"name":"beehave","vers":"0.0.2","deps":[],"cksum":"9aaa84fbf3bf05d5d20a56c5ff65a796ee7fe662ad84b1060edcb1007bc45e08","features":{},"yanked":false}
+{"name":"beehave","vers":"0.0.3","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3076d8086046b06b36364223d3db538c954e94de402c8de9af1555d2de5538fa","features":{},"yanked":false}
+{"name":"beehave","vers":"0.0.4","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b2e129e23662beae468db03b51e8ac57c175cddd5cc1fc2d947167f67e4c64ef","features":{},"yanked":false}

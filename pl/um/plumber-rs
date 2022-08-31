@@ -1,0 +1,3 @@
+{"name":"plumber-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75765a395b9f91d7eb4ebfff467acd67f126ee714619e09252ac5e5363e774e8","features":{},"yanked":false,"links":null}
+{"name":"plumber-rs","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4990d669beb2375726e9aa0fc36c533630d8edb4cf17d28dfbb22693037b1163","features":{},"yanked":false,"links":null}
+{"name":"plumber-rs","vers":"0.1.2","deps":[],"cksum":"9736c4a716d134b855fd3f63e9f8cd72f9d5bb60dec3a0c7de3e90abbaa6abcd","features":{},"yanked":false,"links":null}

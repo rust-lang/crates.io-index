@@ -1,0 +1,2 @@
+{"name":"elf64","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e3c91ed8acb35484cea848ce1bf8e3a9d2db0862c42edd3c599891dba3589bb","features":{},"yanked":false,"links":null}
+{"name":"elf64","vers":"0.1.1","deps":[{"name":"bitflags","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a35a7790745cb076785b90810bd4666eb220c0329cc5586ea0a989650a0d250a","features":{},"yanked":false,"links":null}

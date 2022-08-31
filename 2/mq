@@ -1,0 +1,3 @@
+{"name":"mq","vers":"0.1.0","deps":[],"cksum":"846c8906862894e78b06c5df1978058a7af92fb5e1ba1caababbd88563693693","features":{},"yanked":false,"links":null}
+{"name":"mq","vers":"0.2.0","deps":[],"cksum":"4c720d3fce8c05b2f45c1075eed6bf74d37e262a782029f523a9359c4dfca9d6","features":{},"yanked":false,"links":null}
+{"name":"mq","vers":"0.3.0","deps":[{"name":"async-trait","req":"^0.1.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"084ef67826df4eb1851d08fd9b565ea8518632cc1ab0fc03619d9e296f0f6ec0","features":{"blackhole-broker":[],"default":[]},"yanked":false,"links":null}

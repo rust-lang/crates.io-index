@@ -1,0 +1,6 @@
+{"name":"vu64","vers":"0.1.0","deps":[],"cksum":"ad06d776ee7d0078e3f3373e38205286bc59aa38972e94c8b31c731dff961c72","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.1","deps":[],"cksum":"718c85ca4a68e4d1cb539b649120ff49990645b3a00444d48876a9956157dd8e","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.2","deps":[],"cksum":"563b5c94ea9dc90ba50307a6302bd5b8349e2918f24807025f30494a72653393","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.3","deps":[],"cksum":"a5532573557303800ad7bf7eb4328f0d115fb871194fb7f06f4f522fd333439a","features":{"io":[],"default":["io"]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.4","deps":[],"cksum":"53fb68a261694461f940310c4ba26c68e9f0aee9cfde76dcfd4678402c5925f5","features":{"vu64_debug":[],"default":["io"],"io":[]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.5","deps":[],"cksum":"f4e05db0e45c5232c481fe94825c1d33253a1942a140ad67dadbf05fe36e6bee","features":{"io":[],"vu64_debug":[],"default":["io"]},"yanked":false,"links":null}

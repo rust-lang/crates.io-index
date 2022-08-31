@@ -1,0 +1,1 @@
+{"name":"msvc_spectre_libs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cb99fe7d32f24bd2116ef2c1b05745f0070c8676ce4c91a24ba3a5e1ccbbc9f6","features":{"error":[]},"yanked":false,"links":null}

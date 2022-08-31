@@ -1,0 +1,4 @@
+{"name":"bitpack","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"156b29fef3de4d3392852c6f597798574a4855fed8550493863b0920b62ace9c","features":{},"yanked":false}
+{"name":"bitpack","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0f3c9d1c91abb6f68ecd22f7115683ff5f1020f0be65d0c0719bda8a94584f76","features":{},"yanked":false}
+{"name":"bitpack","vers":"0.2.0","deps":[],"cksum":"c43e3da79101eda0af2d77e0abbda6b96290e0d594239bb9450800d8e82daeb7","features":{"use_vec":[],"use_std":[]},"yanked":false}
+{"name":"bitpack","vers":"0.2.1","deps":[],"cksum":"61a1a2171916d95026c816fbb69db7f1b4edc8984e5c467013f7d87da5faf636","features":{"use_std":[]},"yanked":false}

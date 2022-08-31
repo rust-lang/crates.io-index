@@ -1,0 +1,2 @@
+{"name":"takeable","vers":"0.1.0","deps":[{"name":"unreachable","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4554a4dd9b87496aa0b017f31d6dc91ea737b93c0f3794e079be32a95f1c2557","features":{"microoptimization":["unreachable"],"default":["microoptimization"]},"yanked":false}
+{"name":"takeable","vers":"0.2.0","deps":[],"cksum":"67acf4404418a2952b58d68e3afe88d589dbbffbbd0ef732d7aae3c66d94ec45","features":{},"yanked":false}

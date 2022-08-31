@@ -1,0 +1,2 @@
+{"name":"oauth2-github","vers":"0.0.0","deps":[],"cksum":"ec7b0f750ac77ccff39890715f5d98bee570152851798d2a0745b568b1b0b14f","features":{},"yanked":false,"links":null}
+{"name":"oauth2-github","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"37de87c4fd46b085604eeca3cb64c31c6179e80067ad699efae63e6d958a3d9e","features":{},"yanked":false,"links":null}

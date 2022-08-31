@@ -1,0 +1,1 @@
+{"name":"libsodium","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f999d81f732452e0aeba469e243e92edc98a2aab24bd4ca4a3154ede858b937a","features":{},"yanked":true}

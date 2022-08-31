@@ -1,0 +1,1 @@
+{"name":"bns","vers":"0.1.0","deps":[{"name":"curl","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scraper","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"754680f4b98f7d394d9a998876ea32c26b10b222414da3c5a41096804c41327b","features":{},"yanked":false}

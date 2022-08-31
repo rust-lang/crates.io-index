@@ -1,0 +1,3 @@
+{"name":"xxtea","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e9ff82f5bb73513ab3f3cd41efd6a3493c2f40e951ca5da0f2775f5294e31eb","features":{},"yanked":false}
+{"name":"xxtea","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"130eef1f956f7159063a7fe12ab26567ca63be58e60ee70a0a042d8ea44c89c5","features":{},"yanked":false}
+{"name":"xxtea","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e52655abf007cc0520d91ac9e89d4fd34d5eb7462269d24b6c29edea6e47c29c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"stm32","vers":"0.0.0","deps":[],"cksum":"95cb9151f4e741b7d2ac71a5cf39c1180bec55b7d48cf39280c1ab45a109cdd3","features":{},"yanked":false,"links":null}
+{"name":"stm32","vers":"0.0.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2295dbd7edf9d4a7fc642b00a9528a5a387cbc6594259b2e3b75c58e58d883de","features":{},"yanked":false,"links":null}

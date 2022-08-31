@@ -1,0 +1,1 @@
+{"name":"lpsolve-sys","vers":"5.5.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0776862d06b54bdea2ed14227f56a2913b39903e06849dce7b805d609ef6a85d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"s-expr","vers":"0.1.0","deps":[{"name":"unicode-xid","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"191d30662f4e41950b51fd258c178b7593a617446a1cc966a42312d8a602892a","features":{"unicode":["unicode-xid"],"default":["unicode"]},"yanked":false,"links":null}

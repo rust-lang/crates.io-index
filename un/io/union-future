@@ -1,0 +1,2 @@
+{"name":"union-future","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2511fd872a6b90baddd077ac18a4d5ba075454122a29527d531f3ddea43eabf5","features":{},"yanked":false}
+{"name":"union-future","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8977af6af881c3d99de38bb274b03fd4340e1f0d4635a5e642402a24e84339d","features":{},"yanked":false}

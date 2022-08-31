@@ -1,0 +1,1 @@
+{"name":"glslang-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"98422e93c9ea31a688ed7dc8c9f55c1d848828456406ec3d7cfff7f6ba70c263","features":{},"yanked":false}

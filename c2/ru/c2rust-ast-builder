@@ -1,0 +1,6 @@
+{"name":"c2rust-ast-builder","vers":"0.10.0","deps":[],"cksum":"dae7406e5c4aae23764695485d369e37a993b24041fc9d5f832e04d96166558a","features":{},"yanked":false,"links":null}
+{"name":"c2rust-ast-builder","vers":"0.11.0","deps":[],"cksum":"09442eb5db197baaddf65a7c7e5175f11f7735c9e9305a154859009cf5be9a2e","features":{},"yanked":false,"links":null}
+{"name":"c2rust-ast-builder","vers":"0.13.0","deps":[],"cksum":"a5b0c9e64251c304b5993c8d9234b202699a72deff2e3e407ebb814f5ab1d0c3","features":{},"yanked":false,"links":null}
+{"name":"c2rust-ast-builder","vers":"0.14.0","deps":[],"cksum":"f680182adf4d1b7b948a5c51c414e6383befc33e5d9f89ff944a66daf839f94c","features":{},"yanked":false,"links":null}
+{"name":"c2rust-ast-builder","vers":"0.15.0","deps":[],"cksum":"85403a2d9a1f5c4a7e8807ace46b739e7229df80539ba4e0a162d03f091bd2e4","features":{},"yanked":false,"links":null}
+{"name":"c2rust-ast-builder","vers":"0.16.0","deps":[{"name":"proc-macro2","req":"^1.0","features":["span-locations"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full","extra-traits","printing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aa2728e7c2bfcd0c555bb84f1157afa8d55524cc9bb0ea9c326e43c0dfb3704","features":{},"yanked":false,"links":null}

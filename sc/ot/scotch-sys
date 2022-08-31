@@ -1,0 +1,2 @@
+{"name":"scotch-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"cc32cf835a378408428e69710363c0fb8574a076cc1719dd120f3be1177c0ec3","features":{},"yanked":false,"links":null}
+{"name":"scotch-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"78b54e09a6acd7bfe59e2f331f0012e7e93a37cbf5d85cfc873ef75f49ea1a17","features":{},"yanked":false,"links":null}

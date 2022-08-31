@@ -1,0 +1,2 @@
+{"name":"screenprints","vers":"0.1.0","deps":[],"cksum":"7d3bc04dced038d36a15bba50957dbe12a64388351e8f77865e55fda517a5dd3","features":{},"yanked":false}
+{"name":"screenprints","vers":"0.1.1","deps":[{"name":"kernel32-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f251605c81768cc461ac191ddc6b2b7658e29d9c52a1311ad0809ac8c167d23b","features":{},"yanked":false}

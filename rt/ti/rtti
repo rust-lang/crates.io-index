@@ -1,0 +1,6 @@
+{"name":"rtti","vers":"0.1.0","deps":[],"cksum":"c8e00df99a09965d4bb90f36533fe83c77bf91eae27ce2033c8f1114588bc50c","features":{},"yanked":false}
+{"name":"rtti","vers":"0.2.0","deps":[],"cksum":"d7fb9fe6c68509d7f9432e26b9c5fe5ac2932c721330c5d28d4d9f315cd07ecc","features":{},"yanked":false}
+{"name":"rtti","vers":"0.3.0","deps":[],"cksum":"f7ef862c66fd51661546abb2b9b2eaea2a8fc5c623ed8a9eb4df6b55f6c88ec9","features":{},"yanked":true}
+{"name":"rtti","vers":"0.3.1","deps":[],"cksum":"9d0cdd6ff335973f53d669a21618fb67ecd4a45f4e8c718ee3c2a2ad4725a609","features":{},"yanked":false}
+{"name":"rtti","vers":"0.3.2","deps":[],"cksum":"15267e57bb6579ff9e875817763dd0d3597a93b5d8e9db4bf8dced0a7ba7de2c","features":{},"yanked":false}
+{"name":"rtti","vers":"0.4.0","deps":[{"name":"rtti-derive","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"41e14af53db8f418fb78715aa8961b0010eab7c344ad6f6f9815446f3209b5f1","features":{},"yanked":false,"links":null}

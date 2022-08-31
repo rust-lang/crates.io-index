@@ -1,0 +1,1 @@
+{"name":"gcnctrlusb","vers":"0.1.0","deps":[{"name":"libusb","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ansi_term","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b7509353477818f3b711261932bd51b45e0ab067c8f63e43b56bb887eae4f0da","features":{},"yanked":false}

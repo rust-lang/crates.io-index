@@ -1,0 +1,1 @@
+{"name":"lepton","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2d250cdf297449c799c600be12b2accfe06e0e0aad48c789e695bcd9e5b234a6","features":{},"yanked":false}

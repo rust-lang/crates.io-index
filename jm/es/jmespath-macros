@@ -1,0 +1,2 @@
+{"name":"jmespath-macros","vers":"0.1.0","deps":[{"name":"jmespath","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f14795fd99a75908c1ec14d6ab2ce1434a5e2cd48ea0aff153fdc92d0755dc","features":{},"yanked":false}
+{"name":"jmespath-macros","vers":"0.1.1","deps":[{"name":"jmespath","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c242df02b135e6dbf093eccebc5ae5fcd30c264ac35886e7100736069cc03d0","features":{},"yanked":false}

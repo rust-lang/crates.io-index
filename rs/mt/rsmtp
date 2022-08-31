@@ -1,0 +1,4 @@
+{"name":"rsmtp","vers":"0.0.3","deps":[],"cksum":"b113e812d11cecb15d066073887170f9b1675a2eaf0f26a698dd80cffd76b3ed","features":{},"yanked":true}
+{"name":"rsmtp","vers":"0.1.0","deps":[],"cksum":"c970a82aa65970504d1321b47c1851ef4b242a297741e0ba73d7890022315129","features":{},"yanked":true}
+{"name":"rsmtp","vers":"0.1.1","deps":[],"cksum":"7d14f997ff4f606726eb62d086df72e6ad238d35a14fe82ae743ee624d7c7c3d","features":{},"yanked":true}
+{"name":"rsmtp","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7350db22675cc04820d3f5d73b50197dbc264b7bf8779cb57a0d0e5a9f550485","features":{},"yanked":true}

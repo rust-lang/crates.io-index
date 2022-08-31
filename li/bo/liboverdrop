@@ -1,0 +1,2 @@
+{"name":"liboverdrop","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd07dbfac49716996379d2b118934808bbd033208edb3fb7ff3acf4e66ad8e7e","features":{},"yanked":false,"links":null}
+{"name":"liboverdrop","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a8bcc76c5aad4677420857a8744ec8aef80b1b21c5501e2f8c7ac3fda2e19ba","features":{},"yanked":false,"links":null}

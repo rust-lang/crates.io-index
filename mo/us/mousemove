@@ -1,0 +1,1 @@
+{"name":"mousemove","vers":"0.0.2","deps":[{"name":"user32-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7717ce4135873ce6cafb243a32d6f0ce9ada43178f86e97a8dbabdcbfa17b834","features":{},"yanked":false}

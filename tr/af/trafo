@@ -1,0 +1,2 @@
+{"name":"trafo","vers":"0.1.0","deps":[{"name":"getopts","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48aa867021680f75468ba032f7abc0c80d00d531b0f8274bf86a24ee642043b9","features":{},"yanked":true}
+{"name":"trafo","vers":"0.1.1","deps":[{"name":"getopts","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d625aab3723e2abac0fec604236294ad4a9893f78124e763d79e574b38b55275","features":{},"yanked":false}

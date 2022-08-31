@@ -1,0 +1,3 @@
+{"name":"rust_mpi","vers":"0.0.1","deps":[],"cksum":"9fc91c6eeb5e6c0a62088b2e5b7a0537609ecf4e2f1917ed6dcc12342f17d9b7","features":{},"yanked":false}
+{"name":"rust_mpi","vers":"0.0.2","deps":[],"cksum":"0f0682343b63f5a2e8e890ad32d20dfd49e6fbe322a716fd76000291d6540e36","features":{},"yanked":false}
+{"name":"rust_mpi","vers":"0.0.3","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"152e9eb61a6b5109e8b7b0767eae936274caa17427b65b39f064b07cfe268256","features":{},"yanked":false}

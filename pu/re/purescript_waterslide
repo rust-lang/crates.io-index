@@ -1,0 +1,5 @@
+{"name":"purescript_waterslide","vers":"0.1.0","deps":[],"cksum":"2de255862df95e6d6d21d4832115c5696bcee2bacb5ba5e42381a0766b5f7500","features":{},"yanked":false}
+{"name":"purescript_waterslide","vers":"0.2.0","deps":[],"cksum":"4e82aaab523edcef07a59965a77dc42f853e0afe935d7262aa7df321f4577edf","features":{},"yanked":false}
+{"name":"purescript_waterslide","vers":"0.2.1","deps":[],"cksum":"a19ff9022b208e39855536bc87989e260b433a7db8be60346e0b3297be8bdb87","features":{},"yanked":false}
+{"name":"purescript_waterslide","vers":"0.3.0","deps":[],"cksum":"7449a3c9db72c71ff228327d6a300d88866eb7ee217dbfc660252b5a66ae574c","features":{},"yanked":false}
+{"name":"purescript_waterslide","vers":"0.3.1","deps":[{"name":"chrono","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^0.5.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9933d5eacf83925e51e57dcd20d956adb9327c6ae7078edac119934fe5836c48","features":{"chrono_support":["chrono"],"uuid_support":["uuid"]},"yanked":false}

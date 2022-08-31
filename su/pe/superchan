@@ -1,0 +1,7 @@
+{"name":"superchan","vers":"0.0.1","deps":[],"cksum":"857d0576c18d44d03e75eeff39ae2b1c3274715fcf109565aa0a04958d107ab8","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.2","deps":[],"cksum":"40d26f1d26f575639c38bdd01cdda0af06fabc53e0bd89cd5af07d5ebc48730a","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.3","deps":[],"cksum":"037c39262ad33493c44abb9feab130e8a605305f8a82edfc0e12744f59679ae0","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.4","deps":[],"cksum":"f01318a8baa62efdb15f9928a9aa6698a8464b3848dd9e58ae841f58f7f0c2be","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.5","deps":[],"cksum":"deb9a78b2319414912b758d22c00bb2ac87743e462f5c76d8915065922a8f789","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.6","deps":[{"name":"rustc-serialize","req":"^0.2.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39d99da10492e95ab254b89b4047bf442b1637e83525c0e00cda3cb87ec791ea","features":{},"yanked":false}
+{"name":"superchan","vers":"0.0.7","deps":[{"name":"rustc-serialize","req":"^0.2.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bincode","req":"^0.0.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a21ba213227f6b271ab744cd96831d02ebacda5624594f0752e34c10bd8bb27","features":{},"yanked":false}

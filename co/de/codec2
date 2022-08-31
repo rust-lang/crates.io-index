@@ -1,0 +1,2 @@
+{"name":"codec2","vers":"0.1.0","deps":[{"name":"zerocopy","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e3475f811efa519598f060d77e28f9feb0f4eb231b69f6dfc737b173c84233c7","features":{},"yanked":false,"links":null}
+{"name":"codec2","vers":"0.2.0","deps":[{"name":"zerocopy","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff026229633630090cde2fef353723c243c9edb94c4a7612de32ba660990c8b8","features":{},"yanked":false,"links":null}

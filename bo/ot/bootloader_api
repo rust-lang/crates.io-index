@@ -1,0 +1,3 @@
+{"name":"bootloader_api","vers":"0.0.1","deps":[],"cksum":"2a9fddee062a528f66301fd3011fbbb52576137e4a0a3e97604f3f29927d8ee0","features":{},"yanked":false,"links":null}
+{"name":"bootloader_api","vers":"0.0.2-alpha","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c3b808521d1ecea65085cfda34d882de7a3d49676eba9673f1ad39448315d22","features":{},"yanked":false,"links":null}
+{"name":"bootloader_api","vers":"0.1.0-alpha.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d77bfc1b2e2484c50c1b95b765c52424457a80627d4a097a246eb5d9b6c9756","features":{},"yanked":false,"links":null}

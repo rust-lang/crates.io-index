@@ -1,0 +1,1 @@
+{"name":"exif-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aeb44bee079869d834d0f9023ebffe7550ff005daa57b0b9b2d0d53dd2cb08cf","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"nesdie","vers":"0.1.0","deps":[{"name":"wee_alloc","req":"^0.4.5","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f983dd9af3e62440e9067bc08ae479fb2839b413917555d4f73b2b96c0ca63a3","features":{"default":["wee_alloc"],"oom-handler":[],"panic-message":[]},"yanked":false,"links":null}

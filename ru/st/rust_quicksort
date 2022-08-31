@@ -1,0 +1,1 @@
+{"name":"rust_quicksort","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quicksort","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d2c17409036f5cfdfe10e5ac54db0e57e4e16077a8539e29268fcbeb080805ec","features":{},"yanked":false}

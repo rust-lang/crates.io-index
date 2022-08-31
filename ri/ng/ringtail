@@ -1,0 +1,6 @@
+{"name":"ringtail","vers":"0.1.0","deps":[],"cksum":"f7879ac5cdb5d0c768b8d63d91d8941b7ea0a8fb4cdc4feb5d63bff7e3c261d0","features":{},"yanked":false}
+{"name":"ringtail","vers":"0.1.1","deps":[],"cksum":"823939c2c259634039b29c3f22440aeef0e6abb5e1309cc68d62a9067546816e","features":{},"yanked":false}
+{"name":"ringtail","vers":"0.2.0","deps":[],"cksum":"a07ada759b639900b06e18451ed50222aabead73ca7037123365fb77588599e1","features":{},"yanked":false,"links":null}
+{"name":"ringtail","vers":"0.2.1","deps":[],"cksum":"f09caa3d8cef836cf8149e4edcf14802c1caa0973307522f1afff35db0fe44af","features":{},"yanked":false,"links":null}
+{"name":"ringtail","vers":"0.2.2","deps":[],"cksum":"68650c4cbecc7bf18ddf3973c34d715790122b9c0e77ec4d24fe4f9a21a9456c","features":{},"yanked":false,"links":null}
+{"name":"ringtail","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"21215c1b9d8f7832b433255bd9eea3e2779aa55b21b2f8e13aad62c74749b237","features":{},"yanked":false,"links":null}

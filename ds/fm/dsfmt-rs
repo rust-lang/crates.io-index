@@ -1,0 +1,4 @@
+{"name":"dsfmt-rs","vers":"0.0.1","deps":[],"cksum":"4f49c365001cdf0dd1791c444984d683c1a565b343f5690f03c2670b46c88291","features":{},"yanked":false}
+{"name":"dsfmt-rs","vers":"0.0.2","deps":[],"cksum":"c91ec2488f7ada624870fcd00404f4e09f043209f2d44039003936ab8c09f2c3","features":{},"yanked":false}
+{"name":"dsfmt-rs","vers":"0.1.0","deps":[],"cksum":"3373cc2ee5d3b3941f5c78561de3ceb68fde5e6d0839d039e9816e2e88e5b671","features":{},"yanked":false}
+{"name":"dsfmt-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a706425746783c3acc35b5bc73769303222a607c4feb39520d01d999eed538cb","features":{},"yanked":false}

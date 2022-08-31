@@ -1,0 +1,1 @@
+{"name":"ntstc_msvcrt-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f0e841229c079cc9b32627f3d3fd2b1b72deb8562efd73c55adf0009ebe6940","features":{},"yanked":false}

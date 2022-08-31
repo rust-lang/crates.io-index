@@ -1,0 +1,1 @@
+{"name":"hermetic","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.8.4","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3129fcce3fe1c171c2ca2c20558f232be40dae1af8035c4c492f2ce3b4360fa","features":{},"yanked":false,"links":null}

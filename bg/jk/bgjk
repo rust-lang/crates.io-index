@@ -1,0 +1,2 @@
+{"name":"bgjk","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7ac638d5353ca59cb2294a5b8eea9e00a55fea86edadcdec33fbfb90a01e465","features":{"default":[],"dev":["clippy"]},"yanked":false}
+{"name":"bgjk","vers":"1.0.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dce73771bff6c9a024ed09e09b9411d456db81887a54bcbd652452e80acb8e0b","features":{"dev":["clippy"],"default":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rusty_jsc_sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3.9","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"build"}],"cksum":"e139e91ef225f39929b7e8228584500dafd1fa407f2aedd45faa30398f0568c2","features":{},"yanked":false,"links":null}

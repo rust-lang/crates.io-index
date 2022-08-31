@@ -1,0 +1,2 @@
+{"name":"cargo-package-recompile","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2ca46e449cf0a0c11a211b208c079de27dbab7a2bc3d795ffd2cf22e3d257ee","features":{},"yanked":false}
+{"name":"cargo-package-recompile","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"829932048b349f9ac036b1ea25616156ddc06075e3cf455fd0022faed74d8fbd","features":{},"yanked":false}

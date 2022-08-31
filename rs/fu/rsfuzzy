@@ -1,0 +1,4 @@
+{"name":"rsfuzzy","vers":"0.1.0","deps":[],"cksum":"54dcbd20c6ed6f595d6be4e48fb070c70505b6bdd59ab40c250848532e782f92","features":{},"yanked":false}
+{"name":"rsfuzzy","vers":"0.1.1","deps":[],"cksum":"c4a1569c63f9127423c3c098a4a670107c94b03524e16be892e746725381138e","features":{},"yanked":false}
+{"name":"rsfuzzy","vers":"0.1.2","deps":[],"cksum":"63082c24838a566428ba1a2de150454294789269fd55e36d357bf6bd75ace815","features":{},"yanked":true}
+{"name":"rsfuzzy","vers":"0.1.3","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b444ce1ca74cb1d3692eb8f9aa56d8b6429c4a2e02ef966d78d397611dd9a8bb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"utmp","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb1d5acd02c0ddf307da8d6c226a6058f499ced913a5cc2e9750f047087c3617","features":{},"yanked":false}
+{"name":"utmp","vers":"0.0.2","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68a4e25644c59406bfa632163a68b0a0b294d8036ee765613f13f40c9173b000","features":{},"yanked":false}

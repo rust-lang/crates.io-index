@@ -1,0 +1,2 @@
+{"name":"editdistancewf","vers":"0.1.0","deps":[{"name":"quickcheck","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"625a162865825622719bd5d7c903ef55887f600f2f78ef5388044e893a9cb314","features":{},"yanked":false}
+{"name":"editdistancewf","vers":"0.2.0","deps":[{"name":"quickcheck","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a6da492ee4b493df81acb259870fc3c62291ccf13d87f15a50a35e3b13acca4a","features":{},"yanked":false}

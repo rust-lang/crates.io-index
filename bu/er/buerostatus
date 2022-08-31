@@ -1,0 +1,2 @@
+{"name":"buerostatus","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1943ae6dcecab1864f3ee47201d49f2122ab60192ff3f5b30a17c5d20100fe8","features":{},"yanked":false}
+{"name":"buerostatus","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"221da59f57c232f9239b5bf396f72723d996f175679377e4f9df2ee294e23e63","features":{},"yanked":false}

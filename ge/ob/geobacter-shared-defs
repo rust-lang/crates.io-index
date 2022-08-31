@@ -1,0 +1,1 @@
+{"name":"geobacter-shared-defs","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a248e92272d8268babd5264a7765926743231ead32f135b45856f75a0ddef91","features":{},"yanked":false,"links":null}

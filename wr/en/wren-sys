@@ -1,0 +1,16 @@
+{"name":"wren-sys","vers":"0.1.0","deps":[],"cksum":"c49a3877d917d9592e6e0b3c9a52e4052f2ff541b05c36c4460a4179958c6808","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.1","deps":[],"cksum":"2b4bf246ae6123a92204eb8e17468e1624959e0d686eda6057c854b0a3a2a6b7","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.2","deps":[],"cksum":"0769b8f42ee0a8ed46fc6024229d3fd34b7eb4392387153a1d77ed0b6e4ca2a7","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.3","deps":[],"cksum":"0aedb3466cc1b875d25d1c797c0c1b26fc99c8879931e92865ef359a442281bf","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.4","deps":[],"cksum":"76f38383e25a17fc5b9d6c241477b6aed4439f5ebf799c80ece876d238ea95f1","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.5","deps":[],"cksum":"88d330d016349162656ff045e0a11b9caf1f79bfd9ae0fc9db390226a92b7cdc","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.6","deps":[],"cksum":"9c8cff610b3744a7b82b057d96745bbebbdbf8791bb0067cca10ee500ab11ea1","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.7","deps":[],"cksum":"c3f6dc9e05372f1f98ab35132416dc9039af95793b8317aa41f01c5938aa0f57","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.8","deps":[],"cksum":"56dfcf85c27518ca321b23160f4ce64ae1ed1b9d5009c51b57cacbf8872b9389","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.1.9","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37858c266e6302925be66d19cc3a6ffeb6526e459abeb3ce90be23f1cfb5b5e1","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e179feb657d246ea467d0d8b3564b539cc7f063a71d0bacb730620a70c4fbbec","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c4d27e25f2ba444baad0f9365548673cb66b55e306a196914173d169fee4a6","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.2","deps":[{"name":"libc","req":"~0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f223ec840927f50e7114ffab0452b4de0eaff9089a5bf4f5ff5288d983171b7","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b29b43bceecc52670192cfb2e2d66e3d5b4567d01746b6377dd686157a561013","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"853ab2def464eecc4826b0d043a59e69e05bd48f7b688cea5dba886e16f88991","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.5","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea60c890f8ed70f630b67da71bfb530ff64f415e7b08080c88658e724fb5d19f","features":{},"yanked":false}

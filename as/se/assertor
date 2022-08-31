@@ -1,0 +1,1 @@
+{"name":"assertor","vers":"0.0.1","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8bdea8063317deb973cc8ac4c8a5edf54abaaeb1764958d5101b4fe28dcf0fc","features":{"default":["float"],"testing":[],"float":["num-traits"]},"yanked":false,"links":null}

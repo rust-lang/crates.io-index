@@ -1,0 +1,3 @@
+{"name":"symbolic_polynomials","vers":"0.0.1","deps":[],"cksum":"f458861ef288ddd45cba5ea4eb7e9f548f7d2a0599f47ab190573f684f9b2970","features":{},"yanked":false}
+{"name":"symbolic_polynomials","vers":"0.0.2","deps":[],"cksum":"b33282525d10acfeccd21f645b0eb9c2478aa562c41513619be10b76ebce2409","features":{},"yanked":false}
+{"name":"symbolic_polynomials","vers":"0.1.0","deps":[{"name":"num","req":"^0.1.36","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8941c7296ac3ec01ea4ac20f927aefd954b47765ddcae3572f17a7482b1be790","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sequential-macro","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7464751d495bec1bde1b73d2f99febeb4f008eb3f38317735d05629ed08c1feb","features":{},"yanked":false,"links":null}
+{"name":"sequential-macro","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6009651dd69b4494b22f1be03e5dec2f2f77655f313c955c98c139066e19dbd8","features":{},"yanked":false,"links":null}

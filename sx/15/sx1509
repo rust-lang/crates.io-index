@@ -1,0 +1,2 @@
+{"name":"sx1509","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ba485b9247773d3c85c279728f321e585756dcc6f63ed164da6436fa6c43520","features":{},"yanked":false,"links":null}
+{"name":"sx1509","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"~0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"709078a7b974904af72b1b66466b560a86295b9333c86df7009cdae6ee62f649","features":{},"yanked":false,"links":null}

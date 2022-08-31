@@ -1,0 +1,9 @@
+{"name":"rust-freqdist","vers":"0.0.1","deps":[{"name":"xxhash","req":"^0.0.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6f257e6dec99cdfc067125ae67f61f08b91930f23673398ebc91ac0a9e5e2b","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.0.3","deps":[{"name":"xxhash","req":"^0.0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcc553dbe200f979270e25780650038ade871ac1345200c89d4999f44ff239df","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.0.4","deps":[{"name":"xxhash","req":"^0.0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"838b5def58a1d9bb8eb405c6f5b5d093af7ea8baeadc978f0ceb8d2a095c2bf3","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.0","deps":[],"cksum":"3c02064059688f291cfc2dd147164376f1e25d1948f15b120267380c22ad0793","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.1","deps":[],"cksum":"66b4c193cc590810ded51bd9fa2b5b3966f75f8b13ae910851f4c5db295f9bfa","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.2","deps":[],"cksum":"28f9e8be10c0a23f5ee775007956b04de8a1c2d800b8488f9ba91fd3de36d7cd","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.3","deps":[],"cksum":"ef1a596edca3aaa13cafc2aa0155842657bf1dcc958c30bca4732384b13b77c0","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.4","deps":[],"cksum":"73c266def6d5583c0abcd8b8fa8ae83e4ccb67c93caf89be55a161ef1d3acae4","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.5","deps":[],"cksum":"ca136c6f6d53a2de7264bb392ea7c1f83357e00d131a24275b1661ea1c23c3af","features":{},"yanked":false}

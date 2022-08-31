@@ -1,0 +1,9 @@
+{"name":"lzw","vers":"0.1.0","deps":[],"cksum":"2976bf3048bda8c269fc72bdfb9f9a226a5e62e67a203dbdc0f93900fab7d77b","features":{},"yanked":false}
+{"name":"lzw","vers":"0.2.0","deps":[],"cksum":"9c503773115acd5d5e1f473fcd87d95e9ea68e11c66e0e8cf82ef73d6dc1cf25","features":{},"yanked":false}
+{"name":"lzw","vers":"0.3.0","deps":[],"cksum":"f01251578fd23414c375a009eb6d07a2c85bd29d14671548c9c68f418a08cf31","features":{},"yanked":false}
+{"name":"lzw","vers":"0.4.0","deps":[],"cksum":"d2a405528c9db880efd5198b5e2fee0fe043154a0c225346094dbb5d34066e36","features":{},"yanked":false}
+{"name":"lzw","vers":"0.5.0","deps":[],"cksum":"7b954e893b9a788250d3c666970275d0e4d65d360ede95a6f38266c9aac3628f","features":{},"yanked":false}
+{"name":"lzw","vers":"0.7.0","deps":[],"cksum":"f3375b34036fbc85acf8ff5da7848b5c787a9dda993ee16381744dc33d075a47","features":{"raii_no_panic":[],"default":["raii_no_panic"]},"yanked":false}
+{"name":"lzw","vers":"0.8.0","deps":[],"cksum":"6c2f40d7948abf9bc9be344c4f7ece32c76c6305985766c5ca83e726cfa428f8","features":{"raii_no_panic":[],"default":["raii_no_panic"]},"yanked":false}
+{"name":"lzw","vers":"0.9.0","deps":[],"cksum":"cba82344432e19bcb98fa21c5a6e78f42a06252b4744e2e9162ae98b3a01ee92","features":{"default":["raii_no_panic"],"raii_no_panic":[]},"yanked":false}
+{"name":"lzw","vers":"0.10.0","deps":[],"cksum":"7d947cbb889ed21c2a84be6ffbaebf5b4e0f4340638cba0444907e38b56be084","features":{"default":["raii_no_panic"],"raii_no_panic":[]},"yanked":false}

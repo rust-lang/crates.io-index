@@ -1,0 +1,2 @@
+{"name":"oauth2-instagram","vers":"0.0.0","deps":[],"cksum":"7af93553ae855ce530832fa6b666133b645304b7506df40072b13ce41a4fe628","features":{},"yanked":false,"links":null}
+{"name":"oauth2-instagram","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"41f0e20328f2165c62a066a7841caca91d802ca627e19a38a9f24c40018d518e","features":{},"yanked":false,"links":null}

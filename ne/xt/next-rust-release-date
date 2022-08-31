@@ -1,0 +1,2 @@
+{"name":"next-rust-release-date","vers":"0.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a696c3bdf2fceff8c233ee98045ec37f262d2b4fa75157880d4e1ff27e7fea31","features":{},"yanked":false,"links":null}
+{"name":"next-rust-release-date","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734f4ff86d7f0712348b4ae1354d92ba664662e1836cdc6604ab563f90cf8cdb","features":{},"yanked":false,"links":null}

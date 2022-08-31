@@ -1,0 +1,2 @@
+{"name":"glenum","vers":"0.1.0","deps":[],"cksum":"00aa3664f87b8b091cfad4e98814c97b67e6d4b1b6faae2898ce32288157c985","features":{},"yanked":false}
+{"name":"glenum","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de8d3e5da406565f2a4186b7d8ad5fa8222109194dbe7f3178a40df42178d341","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"zlib-src-sys","vers":"0.0.1","deps":[],"cksum":"7e71759f0e6eb441b863d9dd21f4526fb60208de9dfe8602476f299a3eb4a52a","features":{},"yanked":false}
+{"name":"zlib-src-sys","vers":"0.0.2","deps":[],"cksum":"d692eef67d95f7b494f63b84acff20f83aa95bac876eb338090512c9abbb1e53","features":{},"yanked":false}
+{"name":"zlib-src-sys","vers":"0.1.0","deps":[],"cksum":"4531c3c5a028b1d095b838ed525435c176f502355097b7438d405cdf33fcdf1f","features":{},"yanked":false,"links":"zlib"}
+{"name":"zlib-src-sys","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6530d53a6aaab8befacc52d9e4d383bdf2a183d4d7abe85284938ebd0ead4c38","features":{},"yanked":false,"links":"zlib"}
+{"name":"zlib-src-sys","vers":"0.1.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"52f486cf8e4eb72413f6f2c9b4d173800c511c74ac7af3f18e03c279d8ca3e6a","features":{},"yanked":false,"links":"zlib"}

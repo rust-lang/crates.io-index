@@ -1,0 +1,5 @@
+{"name":"send-cell","vers":"0.1.0","deps":[],"cksum":"7a994a88c42f2b24f2426714696cffc90fe5dbc79b5043fa3676cd50cf3614df","features":{},"yanked":false}
+{"name":"send-cell","vers":"0.1.1","deps":[],"cksum":"71ff11c535322fbfe8b5cf351f857cc9ff11aa2fe61cb1fd73e096da37aa8d92","features":{},"yanked":false}
+{"name":"send-cell","vers":"0.1.2","deps":[],"cksum":"1c620dd7e056b468b9d374a9f51cfa6bb4bf17a8ca4ee62e5efa0d99aaff2c41","features":{},"yanked":false}
+{"name":"send-cell","vers":"0.1.3","deps":[],"cksum":"fecc1ff30726db72867bc644a57a8914e7cb023b396489873f78e11f9c96b280","features":{},"yanked":false,"links":null}
+{"name":"send-cell","vers":"0.1.4","deps":[{"name":"fragile","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"369add9433969659158b4bcc0c471c183889565a00c426f4d1d5447efe17f401","features":{},"yanked":false,"links":null}

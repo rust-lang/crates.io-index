@@ -1,0 +1,1 @@
+{"name":"pico-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"857a22dbb33879ca09532ffa27395fdf9cf50199041a01cb32ff6ba32b78b7e0","features":{},"yanked":false}

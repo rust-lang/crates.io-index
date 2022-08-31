@@ -1,0 +1,2 @@
+{"name":"brotlic-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"64b5f3ef82ff8fca156b440aefafcdeb377888347eda454a9b480a0414e92eee","features":{},"yanked":false,"links":null}
+{"name":"brotlic-sys","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3df4ff4529038748d5f57293dedeea6658901eddea4976c3e60907d00419fab8","features":{},"yanked":false,"links":null}

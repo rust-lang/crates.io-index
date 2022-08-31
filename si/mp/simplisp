@@ -1,0 +1,2 @@
+{"name":"simplisp","vers":"0.3.0","deps":[{"name":"define_error","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2039c511b0e3b5d2aa9381d8df1d3a3cee8639843dfa7befcf0413647802d43","features":{},"yanked":false}
+{"name":"simplisp","vers":"0.4.0","deps":[{"name":"error-chain","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21279512f0d254df176abcadef056584b1bfb13378eec80c74aed9d5e364cbdf","features":{},"yanked":false}

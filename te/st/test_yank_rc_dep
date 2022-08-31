@@ -1,0 +1,4 @@
+{"name":"test_yank_rc_dep","vers":"0.1.0","deps":[{"name":"serde","req":"^0.9.0-rc4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aaecfd78428669f433b8c2d11dc9c385dc641199ee2851728ec9e38b36b7fa10","features":{},"yanked":true}
+{"name":"test_yank_rc_dep","vers":"0.1.1","deps":[{"name":"serde","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a6bd8c5c6f0ae8344c07e334b3c60bbd6b1f0f3108ee474e53764137fb31d5e","features":{},"yanked":true}
+{"name":"test_yank_rc_dep","vers":"0.1.2","deps":[{"name":"serde","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7faa20c3e35a8e9d99d9469211cc94d429b5e50799faa10da79649d2c0e243e0","features":{},"yanked":true}
+{"name":"test_yank_rc_dep","vers":"0.1.3","deps":[],"cksum":"2e40dd18751fe73668124ac4150532fffdb69b0214c6889e4bd7de0708cad208","features":{},"yanked":false}

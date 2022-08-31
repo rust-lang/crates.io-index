@@ -1,0 +1,2 @@
+{"name":"oauth2-bitbucket","vers":"0.0.0","deps":[],"cksum":"1e0e6fde0b827baf9048b3465cd81c1a701c60705a4dcf8330b1e340fccaa205","features":{},"yanked":false,"links":null}
+{"name":"oauth2-bitbucket","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8ca96183d3913edf9289b423e1312ccb59e3e616136ebe408bf0facc8171c6e8","features":{},"yanked":false,"links":null}

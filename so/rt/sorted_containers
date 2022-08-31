@@ -1,0 +1,2 @@
+{"name":"sorted_containers","vers":"0.1.0","deps":[],"cksum":"d01cc4e21a10b1de0985ebfa5bf1d41061b4a1d7e1e0f19bb2e0765b556579e8","features":{"default":[]},"yanked":false,"links":null}
+{"name":"sorted_containers","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"274cb812f7433f2b43f618288e6cb5e382873542d4361b849684bda1cc813161","features":{"default":[]},"yanked":false,"links":null}

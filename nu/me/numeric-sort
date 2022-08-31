@@ -1,0 +1,1 @@
+{"name":"numeric-sort","vers":"0.1.0","deps":[{"name":"no-std-compat","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f2c4adf593c928171160e2632096353bb0306d3c8447143861374d5e678e37","features":{"default":["std"],"std":["no-std-compat/std"]},"yanked":false,"links":null}

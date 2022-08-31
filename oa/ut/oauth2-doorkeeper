@@ -1,0 +1,2 @@
+{"name":"oauth2-doorkeeper","vers":"0.0.0","deps":[],"cksum":"1d281a0f0e4cc3a5a6be466d5d37f2ca742cbdf7ca8ee7c19994a71d2797a009","features":{},"yanked":false,"links":null}
+{"name":"oauth2-doorkeeper","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6dcc7b12e156f2aa45fa658b3e6ac472c726b0fbf8c144065f01e587573eabcc","features":{},"yanked":false,"links":null}

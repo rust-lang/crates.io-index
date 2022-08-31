@@ -1,0 +1,2 @@
+{"name":"klavaro","vers":"0.1.0","deps":[{"name":"swayipc","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"773685f3b41fdc2df4fc046db3192626fe14f48e27152851e5bb7bc963ab2b0e","features":{},"yanked":false,"links":null}
+{"name":"klavaro","vers":"1.0.0","deps":[{"name":"swayipc","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0bc11945e7bdd6971bf5bc434ba75aa49dcca6c5cf1787edfd83e2296b2241d","features":{},"yanked":false,"links":null}

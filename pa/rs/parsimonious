@@ -1,0 +1,8 @@
+{"name":"parsimonious","vers":"0.0.1","deps":[],"cksum":"2451642d5039dc0cf719b9f3da523e8925f684d8ec101ace54269661e2fe4ab3","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.2","deps":[],"cksum":"b4c8e8c49dc66a76dba591d5428d0895f609f4c8f7e0bdae7db08a73fd2b817a","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.3","deps":[],"cksum":"ff3ddd45924a1f9a52848f682585b43bfb462c0b6067ed766a0e290a9ba61a03","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.4","deps":[],"cksum":"5a6cdcfdb5bc4de0a1dabb0643596bc2a039e00f3b1b217208514af2de00f12a","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.5","deps":[],"cksum":"5dc46d45a5de39492caff5454f9978fb26be31939985fb1e9390e212690a7911","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.6","deps":[],"cksum":"6098377d1b482a0cd25e11922572e3fab897221095adc384c8792fbbc8923e5d","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.7","deps":[],"cksum":"85be9a0865f113845e99d4582a07e328d5f95163697ed388da316da54eb51bcb","features":{},"yanked":false}
+{"name":"parsimonious","vers":"0.0.8","deps":[{"name":"skeptic","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"skeptic","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"01da3bdf3f9e2bbdc5ef1978ff37afac39215309cc8a0cccf499d623f9b7afd7","features":{},"yanked":false}

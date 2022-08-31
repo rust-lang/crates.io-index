@@ -1,0 +1,1 @@
+{"name":"nnsdk","vers":"0.1.0","deps":[{"name":"libc-nnsdk","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66bbf870c0d616cde84defa0ca85c71581bff0dc4bb07b0cc1c77867253de4e3","features":{"rustc-dep-of-std":[]},"yanked":false,"links":null}

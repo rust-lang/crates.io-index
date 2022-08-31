@@ -1,0 +1,7 @@
+{"name":"topdown-rs","vers":"0.0.1","deps":[],"cksum":"bb7e624e992b7b8aa3360bd12d2dd7de8828d9b1fbabca653fac162f724ff8f4","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.1.0","deps":[],"cksum":"952e605460098986f5d321b037d25bb18b95fcfd6204c1d58d6a41e6eecd2d6f","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.2.0","deps":[],"cksum":"9d89bd69e9887ab3812e9ad4192d7d43de0d0c815b3236867f5a17026e7e9a51","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.3.0","deps":[],"cksum":"a159692a73eace307f989015d97696a1e5b7cd4128bc608a14ddbac8e1c6531f","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.3.1","deps":[{"name":"regex","req":"^0.1.10","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06e626aa0803d9dfaf3c66ab71bdccab49dd9c9e4f4471661b8c04cc1b5f43cc","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.3.2","deps":[{"name":"regex","req":"^0.1.14","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cde44a80ac9ec24f626436a05c25ac078171e18cd48225fb35cdccd04112db7a","features":{},"yanked":false}
+{"name":"topdown-rs","vers":"0.3.3","deps":[{"name":"regex","req":"^0.1.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29dde9477f1c1cd7bc3cd4a01344027226d08241bac3287c3635a45228a6e48f","features":{},"yanked":false}

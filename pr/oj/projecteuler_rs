@@ -1,0 +1,1 @@
+{"name":"projecteuler_rs","vers":"0.1.0","deps":[{"name":"primal","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3580af025053530c48584727f20034e01a91ee5c9a07e56f8068c979aa959695","features":{"pe_0003":["primal"],"pe_0001":[],"pe_0002":[]},"yanked":false,"links":null}

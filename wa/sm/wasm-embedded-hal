@@ -1,0 +1,1 @@
+{"name":"wasm-embedded-hal","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0-alpha.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"593115c8fc3a5765603fb2a9b1651aeec33e7a98587a0b7e17dc7ee53c86e6cc","features":{"tests":[]},"yanked":false,"links":null}

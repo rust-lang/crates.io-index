@@ -1,0 +1,1 @@
+{"name":"oil_shared","vers":"0.1.0","deps":[{"name":"phf_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"phf","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"badadd6976bb439effa2e3be7b76566c2eca1eabf26bcb501febb6f4a385e823","features":{},"yanked":false}

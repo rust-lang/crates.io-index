@@ -1,0 +1,4 @@
+{"name":"r2r_common","vers":"0.2.0","deps":[],"cksum":"bdc49e715528f754063ce32d6862c4e83a5fc61e91a2b50391ebae0cd7fad13c","features":{},"yanked":false,"links":null}
+{"name":"r2r_common","vers":"0.3.0","deps":[],"cksum":"ce3bb385a28af9df096c754331cbc2b8ba6f4810f39ee49fd06a8bd6c0e4d2e4","features":{},"yanked":false,"links":null}
+{"name":"r2r_common","vers":"0.3.1","deps":[],"cksum":"89bc8c0e0fb6c3304ec02d4bc51bb5875215118691ead1bb30fe7424cb82dae5","features":{},"yanked":false,"links":null}
+{"name":"r2r_common","vers":"0.3.2","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d28504e3cef5ba0dfa50febc734c6126443896ed1c50addc3f216e31b713d41f","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"libevdev-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4caf618f6def7d41687b5f778ac6f5d59cb88a8af67e2757aa1a9abdaa5bcfe0","features":{},"yanked":false}
+{"name":"libevdev-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2da5daf59343cda8f548500241449a851c0547aaee3e73c96e90e562164e011f","features":{},"yanked":false}

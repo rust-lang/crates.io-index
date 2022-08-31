@@ -1,0 +1,1 @@
+{"name":"linux_ip","vers":"0.1.0","deps":[{"name":"log","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a8a47e23723d5f5d8dcb1d0b4d88815e60d0fb2e2ca61e3d6fb8f6fd32e19c4","features":{},"yanked":false}

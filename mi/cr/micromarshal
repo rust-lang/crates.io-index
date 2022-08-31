@@ -1,0 +1,2 @@
+{"name":"micromarshal","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"77420bc592a921d9897e6c67bcc65f8264c9f0a60d8e01c76c73c2252e20b362","features":{},"yanked":false,"links":null}
+{"name":"micromarshal","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3bd3b9ec8f748e0dcdddca567c3ef5331327db1d770d8a46eab2fc27d9a34fab","features":{},"yanked":false,"links":null}

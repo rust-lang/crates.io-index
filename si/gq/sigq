@@ -1,0 +1,5 @@
+{"name":"sigq","vers":"0.9.0","deps":[],"cksum":"633f6cd512f88650541d01d587fdd584267d685a29d6aa09ca944282dc230025","features":{},"yanked":false,"links":null}
+{"name":"sigq","vers":"0.9.1","deps":[],"cksum":"5b6ee9a7cb70684973d8d22c161835c51edc54ec78626ee1004bc431b49f0cbc","features":{},"yanked":false,"links":null}
+{"name":"sigq","vers":"0.10.0","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"065530a7fa54c34e1fe7e54d09ff7e86c989d6d2e80cdbd8b0d3f2ecdce39fc3","features":{},"yanked":true,"links":null}
+{"name":"sigq","vers":"0.10.1","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3acac2a7b15495321e2e9a7f7da47f97c3b21817c8db297b7fe6641417661d32","features":{},"yanked":false,"links":null}
+{"name":"sigq","vers":"0.10.2","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df1d459b725e0377ee2655e038acf39ae7c64c8e04fc68bf8de6ce88bc7462a7","features":{},"yanked":false,"links":null}

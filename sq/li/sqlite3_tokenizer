@@ -1,0 +1,1 @@
+{"name":"sqlite3_tokenizer","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"196f6399301eabe70424d35e2dac69456999d055abab2ad13f6c529c5c0f2c8a","features":{},"yanked":false}

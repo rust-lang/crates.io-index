@@ -1,0 +1,2 @@
+{"name":"cik","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"caec0885fbcd73c0a19cef13165a3fd64762d63740b2f2d852d373b10826fc47","features":{},"yanked":false,"links":null}
+{"name":"cik","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"14884639ff75666d97be0ac2cde2cbbdcd2b4b1e174d690f13d184c77e2e9bf7","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"rhttp","vers":"0.0.1","deps":[{"name":"url","req":"^0.2.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"openssl","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"499ac4f7e1bf61d9398b225d90ad571d0e8485a0c0cabe0a25cec5bbbcab0358","features":{},"yanked":false}

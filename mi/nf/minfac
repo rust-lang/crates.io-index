@@ -1,0 +1,1 @@
+{"name":"minfac","vers":"0.0.1","deps":[{"name":"once_cell","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04c4e16a2d96f0ea434d710844164dbbeb61dbe3f78ed7faff18947e0389a90f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

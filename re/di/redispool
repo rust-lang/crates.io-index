@@ -1,0 +1,1 @@
+{"name":"redispool","vers":"0.1.0","deps":[{"name":"redis","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"094f3a72f1ab54fdfcd5523a8805b0e720c815188f25a85427ba8f6828760041","features":{},"yanked":false}

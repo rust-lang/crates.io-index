@@ -1,0 +1,2 @@
+{"name":"gnupg","vers":"0.1.0","deps":[],"cksum":"9e4abfab8414c65a8b2b6cfa7e1148c66fd4d4e24c213e77cc4d3cc6655367e5","features":{},"yanked":false}
+{"name":"gnupg","vers":"0.2.0","deps":[{"name":"clippy","req":"^0.0.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ed84854e12fec5f91d86d662307fc3a58b0928c4e4391bc9bcba5b76fc06bdb","features":{},"yanked":true}

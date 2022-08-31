@@ -1,0 +1,2 @@
+{"name":"rtt","vers":"0.3.3","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"171f4efe787fb391d9aaa2fee3427ad6273d2e1d04223103ce17a5a245377e4a","features":{},"yanked":false,"links":null}
+{"name":"rtt","vers":"0.4.4","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"15066cb56df50f58d8c9a1f41f11487cd23c9c0cb3b6795ecd5933584a5d1079","features":{},"yanked":false,"links":null}

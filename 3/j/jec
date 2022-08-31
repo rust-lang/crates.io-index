@@ -1,0 +1,3 @@
+{"name":"jec","vers":"0.1.0","deps":[],"cksum":"e484fb0eaf5641a833c79cec7c73ef885c627326483005b5251bf61cfbe08691","features":{},"yanked":false}
+{"name":"jec","vers":"0.2.0","deps":[{"name":"jec-rccow","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91953a46e98f698236b3040b972bce98b271c499f6afad8f3590e7569ce9d6c4","features":{},"yanked":false}
+{"name":"jec","vers":"0.2.1","deps":[{"name":"jec-rccow","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b2f85770e291fa2f2ec55c77891ab95d1585556fb5597949cf72bb98a9c1217","features":{},"yanked":false}

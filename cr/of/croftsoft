@@ -1,0 +1,3 @@
+{"name":"croftsoft","vers":"0.1.0","deps":[],"cksum":"65b0f45b41b238f82fd2eb7c5b36bcd0fe781432c340aa74a8b0b5ebf0a7538d","features":{},"yanked":true,"links":null}
+{"name":"croftsoft","vers":"0.1.1","deps":[{"name":"com-croftsoft-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ed447544a3e496da043ccd942b41f4b526a68a6e9920637738db097eb59bfc0","features":{},"yanked":false,"links":null}
+{"name":"croftsoft","vers":"0.2.0","deps":[{"name":"com-croftsoft-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"256bd4d990f03d2c81948a0b73057180ddc7a1056a7818fdd4fc4a22dce79669","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"lcs-diff","vers":"0.1.0","deps":[],"cksum":"44a03bd17708b375de9523c2e5812d77bc7c1592fd0fc3a1eed0f84ef2523eb4","features":{},"yanked":false}
+{"name":"lcs-diff","vers":"0.1.1","deps":[{"name":"speculate","req":"^0.0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c172ea7099cef89eb5a1a6e1f55d79a753823a0201d362f6ec5508028efcf4ed","features":{},"yanked":false}

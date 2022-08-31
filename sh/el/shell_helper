@@ -1,0 +1,14 @@
+{"name":"shell_helper","vers":"0.1.0","deps":[],"cksum":"ba87f8eb5517d50dd8d6c5f2c636ea600d4a110628c006dc530195fec8273ea5","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.0","deps":[],"cksum":"5aad226ee36c6c5b02d6cd7cc2a03e29d116f764fe23695b948c54d1500c4ea4","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.1","deps":[],"cksum":"e78fc14ef9e02594cc0afa4b1f274ad8f4475320ab2a7483505392aca5c0cb3d","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.2","deps":[],"cksum":"c93f590a791223230cbf11b2572a0875d1aa045f74f4c4f88d999a55b3e0b27a","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.3","deps":[],"cksum":"20b91e56d87a992b94664e9d541d48986b28d7c6e847dbc73afcd4f6eb11a97e","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.4","deps":[],"cksum":"192ef39013de4067d3680b586b24ebf9ebeb2548530a958fcf0d98dfd20a6826","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.5","deps":[],"cksum":"ae2e77834694672fcdadfd5a52e4580a758ba007440b40396dee4c8e97b56436","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.6","deps":[],"cksum":"19a87dc3166fe447f80a58bfdcf652f016aa11ebe91c949314882f32087a92f2","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.7","deps":[],"cksum":"20325cf50ea7812aa4520f23d75a3e1292c23414445cc68f9ee2b1f8b9a6a0ad","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.8","deps":[],"cksum":"febd566421e5a1980632d10b61c7d275be6294d0b17f8b4b0d8e0eb859ad5005","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.9","deps":[{"name":"reqwest","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74a137b7136d93afd6e84026026f23a9802b05f67c69dac541d622bd25f7f99e","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.10","deps":[{"name":"reqwest","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b19908f9971663793f1e7a511fbf0482925db609dd19477a76145dc03d922fee","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.11","deps":[{"name":"reqwest","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183e8214aa0ee8d5d745432ca8c055f696bc20370094c2fda0771722ad98b0ce","features":{},"yanked":false,"links":null}
+{"name":"shell_helper","vers":"0.2.12","deps":[{"name":"reqwest","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49f0fb417df27dea2f77ac0d35e282f185a77427cdd511440630a5ddb837153c","features":{},"yanked":false,"links":null}

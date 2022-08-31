@@ -1,0 +1,2 @@
+{"name":"doors","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98f0e11bf587d40fe1c5245436ac0c0044485b094970fd5f123a21b62bb3a56a","features":{},"yanked":false,"links":null}
+{"name":"doors","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25acb3b6d3b579b22814b02f9a7b609c382efe3a190990f80b88f296e18d5295","features":{},"yanked":false,"links":null}

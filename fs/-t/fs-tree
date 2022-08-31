@@ -1,0 +1,7 @@
+{"name":"fs-tree","vers":"0.1.0","deps":[],"cksum":"1dac664f1d473aa714034df33a073262122c3d9966bb10ddba269bffb881072c","features":{},"yanked":false,"links":null}
+{"name":"fs-tree","vers":"0.1.1","deps":[],"cksum":"8d953a55e17cc301150d8d821b41f48cd4d5244e00e8f0adc3340dda9238a57e","features":{},"yanked":false,"links":null}
+{"name":"fs-tree","vers":"0.1.2","deps":[],"cksum":"97e1491d8f0aea9e1df674147f6703bf82fb67fcdfa72ccc85dd9dfb9ef2d921","features":{},"yanked":false,"links":null}
+{"name":"fs-tree","vers":"0.1.3","deps":[],"cksum":"3e177638ff33cb7c052b1156da94e18ddde7a3bee29213b62b9a39c58ee19cb3","features":{},"yanked":false,"links":null}
+{"name":"fs-tree","vers":"0.2.0","deps":[{"name":"file_type_enum","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14a9262762368d5a32f530b61a5770140e777dcf029c64ea8f1f26fcbd9da45","features":{},"yanked":true,"links":null}
+{"name":"fs-tree","vers":"0.2.1","deps":[{"name":"file_type_enum","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2445583addd6e405b8fc7e5af1a3066cec1860ad3f36f60d4cc975e7b06d0bd","features":{},"yanked":true,"links":null}
+{"name":"fs-tree","vers":"0.2.2","deps":[{"name":"file_type_enum","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a819f51cc7c923beff7f6385d090a44ef340a475270ab1fd25356ae600ff2f3","features":{},"yanked":false,"links":null}

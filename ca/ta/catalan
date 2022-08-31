@@ -1,0 +1,3 @@
+{"name":"catalan","vers":"0.1.0","deps":[],"cksum":"b0de47a34fcd3dff63d695b8c23e8a2120937e45e31fd5c69fd2f560c6dbc6dd","features":{},"yanked":false,"links":null}
+{"name":"catalan","vers":"0.1.1","deps":[],"cksum":"4f882bfe4bca494a918ef54e15e04c2f57c6db9203c9235d0af67d554a7d3256","features":{},"yanked":false,"links":null}
+{"name":"catalan","vers":"0.2.0","deps":[{"name":"num","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"954aa1c2e260a736ee8c2b6388acb43957ae4c2d4106dfacd31a8b379fbb96e2","features":{},"yanked":false,"links":null}

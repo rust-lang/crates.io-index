@@ -1,0 +1,2 @@
+{"name":"mtzip","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"237fe43fb79160a9af4d2f22b8147fc265cebdb01674391f386b4d8a7f99ae0f","features":{},"yanked":false,"links":null}
+{"name":"mtzip","vers":"0.1.1","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06147eefd7d5790ab47cea10c0016325b666999e21d333c564e03f9fd5c29fc3","features":{},"yanked":false,"links":null}

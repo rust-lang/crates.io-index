@@ -1,0 +1,2 @@
+{"name":"unicode_skeleton","vers":"0.1.0","deps":[{"name":"unicode-normalization","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a67f9c4c53e0c5b1e3de3ce13ae2607e3d91f36ac679a9df7a5ad67262ec6dc","features":{},"yanked":false}
+{"name":"unicode_skeleton","vers":"0.1.1","deps":[{"name":"unicode-normalization","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66bd74db2c088d393d1fbf83db2cd5663137640f072d128287dd53c882a0f412","features":{},"yanked":false}

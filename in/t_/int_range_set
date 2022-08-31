@@ -1,0 +1,1 @@
+{"name":"int_range_set","vers":"0.1.0","deps":[{"name":"tinyvec","req":"^1.1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be0c462eba1ea0189a66fdef0c4e0cc0dae5dbd676bb037c41a085e5d47483a4","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"nvtx","vers":"1.1.0","deps":[{"name":"cc","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a7a2029de01a35145097d9d575caff3f7c3cbe62a81b44667a5d026b00c8ece8","features":{},"yanked":false,"links":null}
+{"name":"nvtx","vers":"1.1.1","deps":[{"name":"cc","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"358dc398b07348e7541bf065ee313e8215a7832e07fab385f51683dc3be83ec7","features":{},"yanked":false,"links":null}

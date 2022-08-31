@@ -1,0 +1,3 @@
+{"name":"bulk_allocator","vers":"0.1.0","deps":[],"cksum":"d206ef94bda8a104b782610e7c36bbaf7487147692175bcfceae4dff3de2ee58","features":{},"yanked":false,"links":null}
+{"name":"bulk_allocator","vers":"0.2.0","deps":[],"cksum":"bc0a63106215b46b97466603398de2554bc48d913fded8086b827c026085fb1c","features":{},"yanked":false,"links":null}
+{"name":"bulk_allocator","vers":"0.3.0","deps":[{"name":"gharial","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8395fb2eed759e999fbfa982e9b53b5c913e03cba74d7e89bc6093e2a96e90b","features":{},"yanked":false,"links":null}

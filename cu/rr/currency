@@ -1,0 +1,7 @@
+{"name":"currency","vers":"0.1.0","deps":[],"cksum":"e57d78c87e5993eb153ee74c05a86cf212e37b5123d89cc0b8f846d227684f56","features":{},"yanked":false}
+{"name":"currency","vers":"0.1.1","deps":[],"cksum":"b209f3d9819f1cd721b2888edbc759bffc15b342d75af611a51cfa0d468a0a4a","features":{},"yanked":false}
+{"name":"currency","vers":"0.1.2","deps":[],"cksum":"93b875eaf730f5eec0468d44dd9fb24f09bcfbc9604032f0059d46e993fe3ea5","features":{},"yanked":false}
+{"name":"currency","vers":"0.1.3","deps":[],"cksum":"ddfe8211a11fd65418e72f4678b97113ba73618842973589ffd4f28a430160df","features":{},"yanked":false}
+{"name":"currency","vers":"0.2.0","deps":[{"name":"regex","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e436512ca9749966e60d34ff17bfb930596bd58c11d70b5e6eeaa4078a70f86","features":{},"yanked":false}
+{"name":"currency","vers":"0.3.0","deps":[{"name":"regex","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3060cc8be5c5a4bdb0b38251ce9b5ab32ff9a561be1cb2a8d10dfb3e8d6eb71","features":{},"yanked":false}
+{"name":"currency","vers":"0.4.0","deps":[{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"010ea1613217e930d198a8f497ee6f179f3f53465725da0bfd8368a6dafb93eb","features":{},"yanked":false}

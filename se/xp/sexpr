@@ -1,0 +1,1 @@
+{"name":"sexpr","vers":"0.1.0","deps":[{"name":"gc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gc_derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba32989d8956e6018a4f44fc40c3fe5ccf8317a79eed38058a066da33e5a4ed9","features":{},"yanked":false}

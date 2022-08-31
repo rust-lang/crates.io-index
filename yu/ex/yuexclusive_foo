@@ -1,0 +1,2 @@
+{"name":"yuexclusive_foo","vers":"0.1.0","deps":[],"cksum":"4afc9b5c7faea3745d9fc298b92b08ee58c2d666c08fbe5627fb6a90a1498362","features":{},"yanked":true,"links":null}
+{"name":"yuexclusive_foo","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c388b34094af4d6dd28e5d25f635a805bdace9e46a68c8269ad5fe980b3b6a12","features":{},"yanked":true,"links":null}

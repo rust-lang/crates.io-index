@@ -1,0 +1,1 @@
+{"name":"totp","vers":"0.1.0","deps":[{"name":"oath","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"base32","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f232479a2bb893d1e9abb8d3292a6ebc81307ae8b4bf7cd64426781166c01f30","features":{},"yanked":false}

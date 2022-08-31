@@ -1,0 +1,2 @@
+{"name":"linux-api-sys","vers":"0.0.0","deps":[{"name":"linux-api","req":">= 0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82d7ee905fe2402412a2a2cbc3cb41deb27af33254dbee6ca8d7aa320bf12da4","features":{},"yanked":false}
+{"name":"linux-api-sys","vers":"0.0.1","deps":[{"name":"linux-api","req":">= 0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceded5c56f332e9d85e9db2e7b4cb1d3f0694ca0d24a34f8f743c02dd0fd147e","features":{},"yanked":false}

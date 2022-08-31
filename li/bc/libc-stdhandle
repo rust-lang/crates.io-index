@@ -1,0 +1,1 @@
+{"name":"libc-stdhandle","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dac2473dc28934c5e0b82250dab231c9d3b94160d91fe9ff483323b05797551","features":{},"yanked":false}

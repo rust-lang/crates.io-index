@@ -1,0 +1,2 @@
+{"name":"cmos-rtc","vers":"0.1.0","deps":[{"name":"x86_64","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3667e6d0822a0a7783d194b62d1c9d205d0749135484cbb646503f95be7174d7","features":{},"yanked":false,"links":null}
+{"name":"cmos-rtc","vers":"0.1.1","deps":[{"name":"x86_64","req":"^0.14.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e5836e6e08dfd8203d2197c17f7c3a050a03012d0a192a4cbbf724aa9f7ec80","features":{},"yanked":false,"links":null}

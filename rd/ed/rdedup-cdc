@@ -1,0 +1,1 @@
+{"name":"rdedup-cdc","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ede09e0e8cb5de6697bde1b2cd4420bfa703d2252fbfcd540d4d1160fd4b5441","features":{"default":[],"bench":[]},"yanked":false}

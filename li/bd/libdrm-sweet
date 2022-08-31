@@ -1,0 +1,2 @@
+{"name":"libdrm-sweet","vers":"0.1.1","deps":[{"name":"libdrm-sys","req":"^0.2.0","features":["version_2_4_58"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"546ca81b2cf17d53e0e78e095c02da0fdeb5c7c6b44912e372d15529fa903e9c","features":{},"yanked":false}
+{"name":"libdrm-sweet","vers":"0.1.2","deps":[{"name":"libdrm-sys","req":"^0.2.0","features":["version_2_4_67"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89a487a84b43961ca546586d254e0783a1e69ab34de7ff65d3e1e18de72dd2f6","features":{},"yanked":false}

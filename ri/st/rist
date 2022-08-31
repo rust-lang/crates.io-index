@@ -1,0 +1,2 @@
+{"name":"rist","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87897a581a8fa65191bc858e95ecdcd2020523b3e97efd349b912166e538e2aa","features":{},"yanked":true}
+{"name":"rist","vers":"0.0.1","deps":[{"name":"hyper","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"882b5e0be05cd55974581ca84b180824551a3ef08b281b522cfaae81e66e50cc","features":{},"yanked":false}

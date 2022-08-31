@@ -1,0 +1,2 @@
+{"name":"augeas_sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9384aabbee3764763bbc71daad8a24c6f2eef886c0a68a3901ef499aa9dd1af2","features":{},"yanked":false}
+{"name":"augeas_sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7f489575a5bcf4e217637d2e530c5adfc7b85d1f43ac465a04b1e9dc2f4f033","features":{},"yanked":false}

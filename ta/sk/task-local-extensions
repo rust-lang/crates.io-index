@@ -1,0 +1,2 @@
+{"name":"task-local-extensions","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36794203e10c86e5998179e260869d156e0674f02d5451b4a3fb9fd86d02aaab","features":{},"yanked":false,"links":null}
+{"name":"task-local-extensions","vers":"0.1.2","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcbcbcb6d29233288d26dcadc5f712c94afb59d979fe5a2db20b6c089aae7766","features":{},"yanked":false,"links":null}

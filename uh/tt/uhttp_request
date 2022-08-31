@@ -1,0 +1,2 @@
+{"name":"uhttp_request","vers":"0.5.0","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2504a8b869b1900d3dc7b63dac132292890a6e0685589305e3cf501b18ba4687","features":{},"yanked":false}
+{"name":"uhttp_request","vers":"0.5.1","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae19366cc9626c7d4c27173b7073cc943f3dcfbb5bd8beae3c442a25eab1283","features":{},"yanked":false}

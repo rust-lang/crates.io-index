@@ -1,0 +1,2 @@
+{"name":"qpprint","vers":"0.1.1","deps":[{"name":"terminal_size","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f60dbfe62d1403b35110ac11e4be19f80c8b535cce5b794d037cb8d2742cc129","features":{},"yanked":false,"links":null}
+{"name":"qpprint","vers":"0.2.0","deps":[{"name":"terminal_size","req":"^0.1.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7312e1705b686da53e9f801fc4043df85eb28092f355d65f570f7617cebd3b07","features":{},"yanked":false,"links":null}

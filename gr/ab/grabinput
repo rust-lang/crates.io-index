@@ -1,0 +1,4 @@
+{"name":"grabinput","vers":"0.1.0","deps":[],"cksum":"328a9b8c7ba5e6f07f6b87466ab5aac9af0c5f4c86c6b1a16cf3edc6688df232","features":{},"yanked":false}
+{"name":"grabinput","vers":"0.1.1","deps":[],"cksum":"c546f5ae5cf1152f9a931bf59c8999812be7b4903f087b6a3a8e055484659d24","features":{},"yanked":false}
+{"name":"grabinput","vers":"0.2.0","deps":[{"name":"clippy","req":"^0.0.90","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28fd391a051a979249ba5b34789ae3644dc1057f6ddde98df2016d8a671a4884","features":{},"yanked":false}
+{"name":"grabinput","vers":"0.2.1","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22799229c87c97ee7738fe819aa5a3e858a12a1498a56e5d46965e2bb286b522","features":{},"yanked":false}

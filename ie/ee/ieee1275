@@ -1,0 +1,1 @@
+{"name":"ieee1275","vers":"0.1.0","deps":[{"name":"compiler_builtins","req":"^0.1","features":["mem"],"optional":false,"default_features":false,"target":"powerpc-unknown-linux-gnu","kind":"normal"}],"cksum":"6de05ec0304c1f5c86180612b88b55abcb77f89824f43680597c57b9ed620c48","features":{"no_global_allocator":[],"no_panic_handler":[]},"yanked":false,"links":null}

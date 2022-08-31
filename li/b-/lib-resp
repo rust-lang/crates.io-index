@@ -1,0 +1,2 @@
+{"name":"lib-resp","vers":"0.1.0","deps":[{"name":"nom","req":"^4.0.0-beta2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d02a9166b1828768d76de675cb9eaeaf348ef01436f8520b6ab4a2386d2f9b34","features":{},"yanked":false,"links":null}
+{"name":"lib-resp","vers":"0.1.1","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"287835250a580051835c76e8c00323c93bdf1e1ad33532eb0502e36d0c31def8","features":{},"yanked":false,"links":null}

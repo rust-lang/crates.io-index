@@ -1,0 +1,1 @@
+{"name":"sandcastle","vers":"0.0.1","deps":[{"name":"euclid","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"image","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25c040c22d29f92cad6f9f5bd059a6a05f790573d3212119bef41af051cfec4e","features":{},"yanked":false}

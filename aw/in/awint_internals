@@ -1,0 +1,8 @@
+{"name":"awint_internals","vers":"0.1.0-pre.0","deps":[],"cksum":"dc3c129e4c965bb839ff9c5441522bc67054997625ddd4d3d13dcd5166d8d955","features":{},"yanked":true,"links":null}
+{"name":"awint_internals","vers":"0.1.0","deps":[{"name":"const_fn","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2403e83d27f5501193570cc038f7b5bf483673a5e5b10b4704c81df65ec3196e","features":{"const_support":[],"default":["const_support"]},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.2.0","deps":[],"cksum":"297c1e394cbb5073727e50281a99379e2fd20f4969d414b87219aaa4a15df8d3","features":{},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.3.0","deps":[],"cksum":"89c7736239d2cfe212e8c1e20db5796d364d313647f7c5990f23fefeae6f6c1f","features":{},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.4.0","deps":[],"cksum":"b479a72e7f7f658433d22b68aede0ea60b8bb5081c2c949e5fc217e36540d531","features":{},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.5.0","deps":[],"cksum":"9eb52eeaa5b7b09ab49a9f1ed354fbe75995a02f57a0597d07085292250c75c0","features":{},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.6.0","deps":[],"cksum":"749ac0f69067bf88d1d69d952ce9d3e0438de72894b648870c180c5897581f44","features":{},"yanked":false,"links":null}
+{"name":"awint_internals","vers":"0.7.0","deps":[],"cksum":"12c0850bbc49e8f6eaa6c8c02dd864787cfb504a1becaba303266dec74f429e0","features":{},"yanked":false,"links":null}

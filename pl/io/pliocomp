@@ -1,0 +1,2 @@
+{"name":"pliocomp","vers":"0.1.0","deps":[{"name":"arbitrary","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a7d9582feca66006dfe7e67e31b9a43a011145311c0c24dafa27ef2ade5fa74","features":{},"yanked":false,"links":null}
+{"name":"pliocomp","vers":"0.1.1","deps":[{"name":"arbitrary","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9279c39f62d8780568f9956b588baa4bb7c2b986c00139355904fbe27efdb161","features":{},"yanked":false,"links":null}

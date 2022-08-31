@@ -1,0 +1,7 @@
+{"name":"textdistance","vers":"0.1.0","deps":[],"cksum":"106c2c86435880598b326fad94fe68ea4d8561d15b03b0e06aa7e02a512ece1e","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.1","deps":[],"cksum":"a25df53d0e98c1b2858c50806692c058b9c98aa792601ce0f643e7f478ba8ad3","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.2","deps":[],"cksum":"b375ff23db33265acd5ca1f6c31e57eb631b70af5342c9790da27d9d843a9788","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.3","deps":[{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5378db11206157260f36a89643eff33e4636970dbc2d304b3f8eb827ef681660","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.4","deps":[{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"more-asserts","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b2d07d37fbe9b54750d9a29f35b8596780d458f9a486ab71595ba0bd391436a","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.5","deps":[],"cksum":"c61ef3016d377524cec5c1cb220094120a65a01a5a6d80f9a01ca80ae2915ef1","features":{},"yanked":true,"links":null}
+{"name":"textdistance","vers":"0.1.6","deps":[],"cksum":"76a7f458c0263aefc2f76616553818b750b1be75438f2bfa1510d741de220800","features":{},"yanked":true,"links":null}

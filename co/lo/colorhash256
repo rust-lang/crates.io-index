@@ -1,0 +1,2 @@
+{"name":"colorhash256","vers":"0.1.0","deps":[{"name":"sodiumoxide","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"574ad3ce0543fcde552dd2fd78c946fb10b2d8631a47b057d710242a08815655","features":{},"yanked":false}
+{"name":"colorhash256","vers":"0.1.1","deps":[{"name":"sodiumoxide","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f0a5825e6572e294a933f64db62af2ea5899c88de225e9730bfeeb04dea7785","features":{},"yanked":false,"links":null}

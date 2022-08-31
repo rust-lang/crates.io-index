@@ -1,0 +1,1 @@
+{"name":"ntdll-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4037b8f42a08a6961e56fad1a58ce58165561c03a01d6def52317023b8fb7d61","features":{},"yanked":false}

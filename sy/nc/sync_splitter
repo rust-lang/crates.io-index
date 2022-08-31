@@ -1,0 +1,4 @@
+{"name":"sync_splitter","vers":"0.2.0","deps":[],"cksum":"6ee4b1b35a918b45720e8f0c71b003d0a515f267ea6502d04c6c188f7283322b","features":{},"yanked":true}
+{"name":"sync_splitter","vers":"0.3.0","deps":[],"cksum":"e9b85eaf1ef7baacf50f75c4e946e546050e717e4c42117a40a1225c1f1a52c9","features":{},"yanked":true}
+{"name":"sync_splitter","vers":"0.4.0","deps":[{"name":"rayon","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dffe625e718b3c8d1a70f4f932b14235f195f1e45c9a6845921f23feb27d09d4","features":{},"yanked":false}
+{"name":"sync_splitter","vers":"0.4.1","deps":[{"name":"rayon","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"043e65af378ac6c1985c48a4f1c44a46f8c4e253f50e2262e8d4a4e6f2d4925c","features":{},"yanked":false}

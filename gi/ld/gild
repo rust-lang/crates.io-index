@@ -1,0 +1,2 @@
+{"name":"gild","vers":"0.1.0","deps":[],"cksum":"3dce30634891c6ed8c79bc949ae5766e34a5b0a03fa448a89ec8c0507c0333f7","features":{},"yanked":false}
+{"name":"gild","vers":"0.1.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"878021b02590d3ad86a2ea33124a3557d9a8319a62f6be59ee02bb0c427c2374","features":{},"yanked":false}

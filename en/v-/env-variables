@@ -1,0 +1,2 @@
+{"name":"env-variables","vers":"0.1.0","deps":[],"cksum":"44f9e7ae5bacf1f21b27bc5d32d2f1f4bc6b84e98459fd3ac4bcdd7053770e73","features":{},"yanked":false}
+{"name":"env-variables","vers":"0.1.1","deps":[{"name":"url","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"42160d2ef2cb7ee2936497cf89a86d4fc30e88bf9baf39cdfd4646914c01ada6","features":{},"yanked":false}

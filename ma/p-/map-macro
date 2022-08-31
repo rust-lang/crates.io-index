@@ -1,0 +1,6 @@
+{"name":"map-macro","vers":"0.1.0","deps":[],"cksum":"959402e39ac893896b9c2bb93285b3caf414388d81c758a7b5d13bdff715053e","features":{},"yanked":false,"links":null}
+{"name":"map-macro","vers":"0.2.0","deps":[],"cksum":"b3dec3b229449b1a54bd96dc32108086263d6830624e576dc0e6c80e619a0130","features":{},"yanked":false,"links":null}
+{"name":"map-macro","vers":"0.2.1","deps":[],"cksum":"9d5b0858fc6e216d2d6222d661021d9b184550acd757fbd80a8f86224069422c","features":{},"yanked":false,"links":null}
+{"name":"map-macro","vers":"0.2.2","deps":[],"cksum":"308eec36c376312771da349d880afd5f092533499dbe9beb7bcba8c15eabe2c4","features":{},"yanked":false,"links":null}
+{"name":"map-macro","vers":"0.2.3","deps":[{"name":"criterion","req":"^0.3.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff92816d6a5feaa0c67e8ce9c9199ff59c832d7972534d879648319c623542b7","features":{},"yanked":false,"links":null}
+{"name":"map-macro","vers":"0.2.4","deps":[{"name":"criterion","req":"^0.3.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0dffbf44bae6c3f2c0befb25f800b092eea36d55bcba28226038fe3d29b29d25","features":{},"yanked":false,"links":null}

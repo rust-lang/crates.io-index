@@ -1,0 +1,2 @@
+{"name":"environment-sanity","vers":"0.0.1","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439e51f729ffeef509371f5f77f604f69ee31e456a5921c8e27387a6ab8f648e","features":{},"yanked":false}
+{"name":"environment-sanity","vers":"0.0.2","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"821e8af7e46362dfe7b5bf31e1cc36eb086a38f63aca8be5d21e746acd931522","features":{},"yanked":false}

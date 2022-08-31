@@ -1,0 +1,3 @@
+{"name":"tensor","vers":"0.1.0","deps":[],"cksum":"f37be62a7868b2d4d8132c23d2a34a8ffbf0f329e88ac1b04ee44c8d9064b12f","features":{},"yanked":false}
+{"name":"tensor","vers":"0.1.1","deps":[{"name":"num","req":"^0.1.25","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cc060ee249c8118b2ef31084455e04a12380c2d1bebca78862cf2343301b9ab","features":{},"yanked":false}
+{"name":"tensor","vers":"0.1.2","deps":[{"name":"num","req":"^0.1.25","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15b503f7471cf3122cb236f90076569de517a7b28ba946960fee95bd3fe67c97","features":{},"yanked":false}

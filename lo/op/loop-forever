@@ -1,0 +1,4 @@
+{"name":"loop-forever","vers":"0.2.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c8b82c9d1fc2a536d01f870b0863e193f80bbda25b3a3b8df183edefeaadcb8a","features":{},"yanked":false}
+{"name":"loop-forever","vers":"0.2.1","deps":[],"cksum":"dbecf3d9e151ceb74add84f7e7f7da044a775880b87bbdc34f99186cf06ee8ef","features":{},"yanked":false}
+{"name":"loop-forever","vers":"1.0.0","deps":[{"name":"spin","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df57f21502ac56fc1e870527f2af203f5c8c234df7c01b8a5b7022532ba3629","features":{},"yanked":false}
+{"name":"loop-forever","vers":"1.0.2","deps":[],"cksum":"84bce2dbb0eb06aadc7c28108363764105217d62bc845d56b8b579e8feda192c","features":{},"yanked":false}

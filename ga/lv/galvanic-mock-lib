@@ -1,0 +1,1 @@
+{"name":"galvanic-mock-lib","vers":"0.2.0","deps":[{"name":"galvanic-assert","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89e069c5deadf1be64536abcb5ef6bbca190702d18285ccdd413958f9ff24c0a","features":{"galvanic_assert_integration":["galvanic-assert"]},"yanked":false}

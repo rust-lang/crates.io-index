@@ -1,0 +1,4 @@
+{"name":"fastdivide","vers":"0.1.0","deps":[],"cksum":"5ecd751cf51eeb4966584409c1047226de7c23d2432615b3810e820b6b751619","features":{},"yanked":false}
+{"name":"fastdivide","vers":"0.2.0","deps":[],"cksum":"2028cbf6ff4368caa5f9b1f00f05984096af857cc74c8a875a54c578dcc6efac","features":{},"yanked":false,"links":null}
+{"name":"fastdivide","vers":"0.3.0","deps":[],"cksum":"4a99a2d53cf90642500986ad22e5083b09e42d44c408f5f112e2a4a0925a643c","features":{},"yanked":false,"links":null}
+{"name":"fastdivide","vers":"0.4.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"25c7df09945d65ea8d70b3321547ed414bbc540aad5bac6883d021b970f35b04","features":{"std":[]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"gccjit_sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f79f2e9c27c5ad4eef4a4769dac2563613a70d7a3b3475184ba4d996877a291","features":{},"yanked":false}

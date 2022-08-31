@@ -1,0 +1,3 @@
+{"name":"snooze-rs","vers":"0.0.1","deps":[],"cksum":"872e075071b5a606b1454b27d64f29d49bd29a91cd89a688cc7011d1c23232da","features":{},"yanked":false}
+{"name":"snooze-rs","vers":"0.0.2","deps":[],"cksum":"93f302512fafbf25c7db4cf089a9be203039951175eaae47954d496ab330a600","features":{},"yanked":false}
+{"name":"snooze-rs","vers":"0.0.3","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.1.25","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aeb183cc5e86939962dd80fde2e6d324795a900a4a714f24ca663e5df9166292","features":{},"yanked":false}

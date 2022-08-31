@@ -1,0 +1,2 @@
+{"name":"macro_state_macros","vers":"0.1.4","deps":[],"cksum":"835e8923dbc3ffca75e10e3ba5359757db5a22015df0c9db20653df3efeedde3","features":{},"yanked":false,"links":null}
+{"name":"macro_state_macros","vers":"0.1.5","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c50b7c9209122be3cce0057d7670aa77ac8b9c6d5a984f5ebd2d9053d78c5c5c","features":{},"yanked":false,"links":null}

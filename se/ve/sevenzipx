@@ -1,0 +1,1 @@
+{"name":"sevenzipx","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6551a15df5220503631020bb8f5f2ed23d9ae2272d6403065cafcefa9f704460","features":{},"yanked":true}

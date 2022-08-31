@@ -1,0 +1,3 @@
+{"name":"threading","vers":"0.1.0","deps":[],"cksum":"dc002818e4e924c855e432d3f1bd16eac36161fa7c8e70d53fb90de581988507","features":{},"yanked":false}
+{"name":"threading","vers":"0.1.1","deps":[{"name":"num_cpus","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2740b93a8c8dd3e7e150ff5e8e5be675c886176ec95dd490c35df7054c98ba5b","features":{},"yanked":false}
+{"name":"threading","vers":"0.1.2","deps":[{"name":"num_cpus","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c50cf14be468c0bdaff48e295804718dc2c45daa0b5f5c6959750b316f36b468","features":{},"yanked":false}

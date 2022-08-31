@@ -1,0 +1,2 @@
+{"name":"git-select-branch","vers":"0.1.0","deps":[{"name":"dialoguer","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87752c450d4010661d7e63481b75b3929ad035a430cac5dd7b566d76dbea9cd","features":{},"yanked":false,"links":null}
+{"name":"git-select-branch","vers":"0.1.1","deps":[{"name":"dialoguer","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0379017b8a227b1ab08edba9fb41ea382211fbd44cb99dcbe58852a57b647186","features":{},"yanked":false,"links":null}

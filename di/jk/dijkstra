@@ -1,0 +1,2 @@
+{"name":"dijkstra","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fef91052a15a3ea4bcdebf29ae85cec3fcb6197ca3d67d79103d797edfc90b2e","features":{},"yanked":false}
+{"name":"dijkstra","vers":"0.1.2","deps":[{"name":"nalgebra","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62bb5d31c5a48420b3c2df2759665ed81d51ffda90e5ca887f6af31dec5a22d6","features":{},"yanked":false}

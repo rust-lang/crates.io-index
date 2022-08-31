@@ -1,0 +1,2 @@
+{"name":"netlink","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03a753f936bb5ffc53c33994655b3257478310394b3313be1beeff195275a246","features":{},"yanked":false}
+{"name":"netlink","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9c008daab2beb8c1e4341b9bd5e9359d1ca54b93b8ad1ba08291f26758c86ec","features":{},"yanked":false}

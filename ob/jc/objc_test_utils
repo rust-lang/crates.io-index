@@ -1,0 +1,2 @@
+{"name":"objc_test_utils","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b6fe4ba2ccaada243b5d9ba67089e3f752e501a9c7ebfd7fd6eaac9ce16695e3","features":{},"yanked":false}
+{"name":"objc_test_utils","vers":"0.0.2","deps":[{"name":"gcc","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fd4f644bfbd67dcdc2c47ebcf5bc909d167f266d2cfe8e80b66b25586e9d2c27","features":{},"yanked":false}

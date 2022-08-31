@@ -1,0 +1,1 @@
+{"name":"d20","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c9e1006a3f6723a6144d28a80310a61fb7c0f2f18965b3427533a7fb24bb5f5","features":{},"yanked":false}

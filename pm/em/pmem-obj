@@ -1,0 +1,1 @@
+{"name":"pmem-obj","vers":"0.0.1","deps":[{"name":"pmemobj-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"608908e190c21f795feb0e4be7a513c2f8aac18bc55e3a70e6e314249323f46a","features":{},"yanked":false}

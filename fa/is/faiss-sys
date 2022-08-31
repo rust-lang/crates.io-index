@@ -1,0 +1,6 @@
+{"name":"faiss-sys","vers":"0.1.0","deps":[],"cksum":"4c2d2efd41473b1d4890dc5cc2d6f2629f31fcd696dd24c5e3ffbc79d38068d4","features":{"gpu":[]},"yanked":false}
+{"name":"faiss-sys","vers":"0.2.0","deps":[],"cksum":"c3eea8bc0e33fc6dd90ea6920c0ca6d2ae157efd3e5d9a5fd36ee4a40a9aa3b2","features":{"gpu":[]},"yanked":false}
+{"name":"faiss-sys","vers":"0.3.0","deps":[],"cksum":"e7aee2b6573aaea06a2ff8c16bd36cac9dd69575ae89daa5f27a014f9f8a7ffa","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}
+{"name":"faiss-sys","vers":"0.4.0","deps":[],"cksum":"56eaab2d6623c83b64e75202f846d58c163e936ca05d25dc58db0d0d7dba0b89","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}
+{"name":"faiss-sys","vers":"0.5.0","deps":[],"cksum":"42154fe2ac4d40a765fbd80019ffa9ebbe6641dd06eb4327a589137957314dae","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}
+{"name":"faiss-sys","vers":"0.6.0","deps":[],"cksum":"cc81e4dd91d06c02f92a3c885025cdd4136755850ab456aef436629ff091d7ca","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}

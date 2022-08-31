@@ -1,0 +1,1 @@
+{"name":"qbar","vers":"0.0.0","deps":[{"name":"terminal","req":"^0.2.1","features":["crossterm-backend"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f74cb6a2ee4167e3b5c04f6072daf8d64187fc4921ad9a159eea82e92ecc7ef","features":{},"yanked":false,"links":null}

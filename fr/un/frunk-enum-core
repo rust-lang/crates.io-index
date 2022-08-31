@@ -1,0 +1,2 @@
+{"name":"frunk-enum-core","vers":"0.2.0","deps":[{"name":"frunk","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea7ce0c029e720de55699503cf91c9e2bf37e8359a4bc247ad1ef22c47422a50","features":{},"yanked":false,"links":null}
+{"name":"frunk-enum-core","vers":"0.2.1","deps":[{"name":"frunk","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b752626f1f25ccc9c2309f27206a456798c572149c0eecace0f80a3a8792e845","features":{},"yanked":false,"links":null}

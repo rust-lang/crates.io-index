@@ -1,0 +1,17 @@
+{"name":"gtld-data","vers":"0.2.1","deps":[],"cksum":"6176056906d82cfac7ad7b7daea49ad94f009a2d58cdeb0e0d834bc522db0c04","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.2.2","deps":[],"cksum":"ce9214bebe370172832ca594f6b53db78bb87c1d71931caf7314db4c052c41af","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.2.3","deps":[],"cksum":"e5a5a6b81a035d9e57eb74fffe22fea3ed3684bb7e09ca2b14bfc8a5364056d3","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.2.4","deps":[],"cksum":"63878b276a237e329dcc8c89aa3be91fab16fc077c7a612d2425e32542455e94","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.0","deps":[],"cksum":"1e0e1005246f8845b1ff161ea612f655c8893055f24b80a0a6321d5cb1e20c9e","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.1","deps":[],"cksum":"88353b5056883da59ff380c9c96df8583f7b57f82bd64e619e484af663f706c5","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.3","deps":[],"cksum":"ff072c2393caddd511412fc925396281da806a8d8ad2da449ce419906c7e5149","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.4","deps":[],"cksum":"355fce16769fe5481cb881bbf077c28074b86427c64b15f11e992e0b70d5a9c4","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.5","deps":[],"cksum":"c152918989775ceb7f363ca0e351e463a0c5aa9c20c71036c079fa8ecb1b9be6","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.6","deps":[],"cksum":"2a3805d18c4d3e4f0377e057287dcbac4b2f3183ed55195e60a06c123e92e994","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.7","deps":[],"cksum":"b593331bcbb1f00087e72381ada49dad1c41d90c92c0ce7636dcecfe80aaaadd","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.9","deps":[],"cksum":"f1bafaa3b6a69a453b28d04ab834d3084c69be55486a692fa0ab9d48cd0b462d","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.10","deps":[],"cksum":"8cfe9eff531a4e9d57d104cbcfa257060eb15bd438ffca98b67dca40b935c871","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.11","deps":[],"cksum":"7511c87870ab7422bb8147eff9df5a6253685d9ce9e09ca7603c6cbeca04269d","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.3.12","deps":[],"cksum":"ac12ddd706effb35918f3a4aaee543bb873d82c1288d2683cde2a741a143713a","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.4.0","deps":[{"name":"select","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"curl","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"26f122fb3879de9320ba13344967ee51812509018dbae38acd30e2ee8c5dae8c","features":{},"yanked":false}
+{"name":"gtld-data","vers":"0.4.1","deps":[{"name":"curl","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"select","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"084e3e0e8f23658ee26d543adda2d54484254fab18fde2794197a5cac5083840","features":{},"yanked":false}

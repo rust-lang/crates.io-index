@@ -1,0 +1,1 @@
+{"name":"utfx","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winbase"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"133bf74f01486773317ddfcde8e2e20d2933cc3b68ab797e5d718bef996a81de","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}

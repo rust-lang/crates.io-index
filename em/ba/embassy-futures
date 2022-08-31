@@ -1,0 +1,2 @@
+{"name":"embassy-futures","vers":"0.0.0","deps":[],"cksum":"62cfddb956125234e383dae7c1e5699c7cf4128b602f3a6e9ea3cd44107ffe1b","features":{},"yanked":false,"links":null}
+{"name":"embassy-futures","vers":"0.1.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e5367165d347c039360f784812f493b001583ab6a3dd8622f4ce9c30374ec3","features":{},"yanked":false,"links":null}

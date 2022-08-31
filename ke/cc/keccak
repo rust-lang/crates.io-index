@@ -1,0 +1,4 @@
+{"name":"keccak","vers":"0.0.0","deps":[],"cksum":"0dc6b240d63a10bbf24e03fbef80fd0a6c667ff4d818231823530b9d636ba5da","features":{},"yanked":true,"links":null}
+{"name":"keccak","vers":"0.1.0","deps":[],"cksum":"67c21572b4949434e4fc1e1978b99c5f77064153c59d998bf13ecd96fb5ecba7","features":{"no_unroll":[]},"yanked":false,"links":null}
+{"name":"keccak","vers":"0.1.1","deps":[{"name":"packed_simd","req":"^0.3.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"packed_simd_2"}],"cksum":"48117e319e9374ddaec583c92cd740bc6c1df244c436b16d16d75ea7fb26f7cd","features":{"no_unroll":[],"simd":["packed_simd"]},"yanked":false,"links":null}
+{"name":"keccak","vers":"0.1.2","deps":[],"cksum":"f9b7d56ba4a8344d6be9729995e6b06f928af29998cdf79fe390cbf6b1fee838","features":{"no_unroll":[],"simd":[]},"yanked":false,"links":null}

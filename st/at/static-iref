@@ -1,0 +1,2 @@
+{"name":"static-iref","vers":"1.0.0","deps":[{"name":"iref","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe68053dc657e8d9392e8b1bae75a01467736e26c233ad167801e97f18453b51","features":{},"yanked":false,"links":null}
+{"name":"static-iref","vers":"2.0.0","deps":[{"name":"iref","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9786d4b8e9e5423fe85c57a826d7e0f0774746149a2ccd21e2104ff74b71ce7","features":{},"yanked":false,"links":null}

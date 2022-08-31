@@ -1,0 +1,2 @@
+{"name":"pi_guid64","vers":"0.1.0","deps":[{"name":"pi_time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdf933d708927bde2713e98a5470f7d1afdfdee2358f34590ff290a7b62c9b15","features":{},"yanked":false,"links":null}
+{"name":"pi_guid64","vers":"0.1.1","deps":[{"name":"pi_time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1753f6800b187b382aa18f4c811c1f2ffb4083d9a39cc9aa5f3315a4d3f4cab","features":{},"yanked":false,"links":null}

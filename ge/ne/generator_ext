@@ -1,0 +1,3 @@
+{"name":"generator_ext","vers":"0.1.0","deps":[],"cksum":"464cb79614a83af9457a7eb73553de9fa5bcecf20266331450b18a972b241bd7","features":{},"yanked":false,"links":null}
+{"name":"generator_ext","vers":"0.1.1","deps":[],"cksum":"e230ee6785ab51117c3f90da00de45a98d68a91942269b91a4949a840b3e9c2d","features":{},"yanked":false,"links":null}
+{"name":"generator_ext","vers":"0.1.2","deps":[{"name":"futures","req":"^0.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f701ec26b045d1256e73df1cda5252c0ee77ac8b6389def1561af19c68cf34c2","features":{"extfutures":["futures"]},"yanked":false,"links":null}

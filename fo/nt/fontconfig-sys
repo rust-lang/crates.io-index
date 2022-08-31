@@ -1,0 +1,1 @@
+{"name":"fontconfig-sys","vers":"2.11.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f8ec28ae40df31cd08e96728147c866ba9a8c668524ac57d14c75e9513565577","features":{},"yanked":false}

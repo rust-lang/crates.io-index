@@ -1,0 +1,11 @@
+{"name":"bi","vers":"0.0.1","deps":[],"cksum":"c143ab91a7f2b6797c3e18262a27ffaddf09e651ff686c992e32940637d61cd9","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.0.2","deps":[],"cksum":"d03a82ad5bf14b94b33996836e898199a77b351ccca47d7aafab3527d9167dba","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.1.0","deps":[],"cksum":"75ac933087c33c1aa344d1adc8418460ebc2944a4585730f7b1547225f67c80a","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.2.0","deps":[],"cksum":"9bb8ce5f8e69e88dcfdb1777d5a0f768eef2466a14849ee55755b79811060dc1","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.3.0","deps":[],"cksum":"bb8ddcaf4b6e1c1f535f444256cc2e422e176c13d4a22c573174b6796629ea3c","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.4.0","deps":[],"cksum":"1e12f49819f5dc5744c7a64926bf5c4046232fbd83adc63b3ebace0a773fca13","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.5.0","deps":[{"name":"zeros","req":">=10.0.2, <11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e3139ab27db25fa8adbcfb5d51ae4d1120a406f67865156c98721e8c2eb969a4","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.6.0","deps":[{"name":"zeros","req":">=11, <12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b353ee6796b78934b5694ca0ad9cbaa1ffb31b612cfc15c77d70f3873d025e4d","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.7.0","deps":[{"name":"zeros","req":">=11.2, <12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f4709b02ba847af0a56e96e3b4fa9e319932770ed80f1ae2e7511d7ec74a822f","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.7.1","deps":[{"name":"zeros","req":">=11.2, <12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f17da0dd6ab341d7f368875d6862eb45bae1db7e6cee2639c789d99c01ac332","features":{},"yanked":false,"links":null}
+{"name":"bi","vers":"0.7.2","deps":[{"name":"zeros","req":">=11.2, <12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"18940d4605bfabb7f3eacd5d2d62d38947cfa5b6d1d6c2228680a430a978f152","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"strip-ansi-escapes","vers":"0.1.0","deps":[{"name":"vte","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d63676e2abafa709460982ddc02a3bb586b6d15a49b75c212e06edd3933acee","features":{},"yanked":false}
+{"name":"strip-ansi-escapes","vers":"0.1.1","deps":[{"name":"vte","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"011cbb39cf7c1f62871aea3cc46e5817b0937b49e9447370c93cacbe93a766d8","features":{},"yanked":false,"links":null}

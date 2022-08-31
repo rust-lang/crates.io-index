@@ -1,0 +1,2 @@
+{"name":"pvss","vers":"0.1.0","deps":[{"name":"openssl","req":"^0.9.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"028989997405812bfc9c04a05a035c47d649350ef9eb1ce3c699b8544a4ebd7a","features":{},"yanked":false}
+{"name":"pvss","vers":"0.1.1","deps":[{"name":"openssl","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b9955e8a7292e01de431d331f72345563cfb6d177218f16bdfe8b8c4df5f9be","features":{},"yanked":false,"links":null}

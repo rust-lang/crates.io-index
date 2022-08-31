@@ -1,0 +1,1 @@
+{"name":"gh_api","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"reqwest-wasm"}],"cksum":"b2fb953a7c0ebf7683dda7bb5dcd0a3e930533e9bce56d4d3695bca2f113dd72","features":{"gzip":["reqwest/gzip"],"default":["gzip"]},"yanked":false,"links":null}

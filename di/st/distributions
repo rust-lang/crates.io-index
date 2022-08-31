@@ -1,0 +1,2 @@
+{"name":"distributions","vers":"0.0.1","deps":[],"cksum":"782ddc311f0d3c10f01b67a574b4fc450691ba7a9c2f0651f383cd8d76003da5","features":{},"yanked":false}
+{"name":"distributions","vers":"0.0.2","deps":[{"name":"GSL","req":"~0.4.11","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b61c192db89d2bb37cd772b817fa0744b2dd8262b73765e8e763888a0ca6106","features":{},"yanked":false}

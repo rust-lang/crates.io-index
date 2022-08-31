@@ -1,0 +1,2 @@
+{"name":"backup","vers":"0.0.1","deps":[],"cksum":"96aa3dd2554d3ce0b8908ee62131e72b33bf99611d5e75e15bc2bdb1046783b2","features":{},"yanked":false,"links":null}
+{"name":"backup","vers":"0.0.2","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"546533b5ad05b7d6c44cfaf78ea4149665d7edbcf6d9a23015c7ce7d58e10a1b","features":{},"yanked":false,"links":null}

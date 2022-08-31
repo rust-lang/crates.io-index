@@ -1,0 +1,2 @@
+{"name":"pool_barrier","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34c055b16ca4a353176d0b879c073b266d887ba9c1187f3ab2a39faf8f2f9caf","features":{},"yanked":false}
+{"name":"pool_barrier","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c5b215338b05355bb4ab4858e24e1c5f12c5e1e01723b128126a4f8af49d9d99","features":{},"yanked":false}

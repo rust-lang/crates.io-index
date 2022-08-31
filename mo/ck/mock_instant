@@ -1,0 +1,4 @@
+{"name":"mock_instant","vers":"0.1.0","deps":[],"cksum":"7190e91579164374c787c826f93ad17c7f39f269fd18fa14f5b550ae32d8a482","features":{},"yanked":false,"links":null}
+{"name":"mock_instant","vers":"0.1.1","deps":[],"cksum":"62afbdafc37f3928b3f7176b1646f340db4a197c18a933aa71f46f2a5ecc2805","features":{},"yanked":false,"links":null}
+{"name":"mock_instant","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb6a56ad0ae40077b16ca388853bcf3dedfc079a6660dc6206577c8b12f508b2","features":{"sync":["once_cell"],"default":[]},"yanked":false,"links":null}
+{"name":"mock_instant","vers":"0.2.1","deps":[{"name":"once_cell","req":"^1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"717e29a243b81f8130e31e24e04fb151b04a44b5a7d05370935f7d937e9de06d","features":{"sync":["once_cell"],"default":[]},"yanked":false,"links":null}

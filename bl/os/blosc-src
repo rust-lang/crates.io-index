@@ -1,0 +1,2 @@
+{"name":"blosc-src","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6756a371ec0dd6ec4b61ed60ce22783633cf8b533c7785cb55511a44d10c6677","features":{},"yanked":false,"links":"blosc"}
+{"name":"blosc-src","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.46","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c3372aaf42f24a767cfe596161cbfac42c60bd9e034e50d4f63cfebe13f68f4","features":{},"yanked":false,"links":"blosc"}

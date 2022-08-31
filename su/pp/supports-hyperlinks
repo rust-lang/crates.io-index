@@ -1,0 +1,3 @@
+{"name":"supports-hyperlinks","vers":"1.0.0","deps":[],"cksum":"147ed6941dd9a0a04af52f19e59b35ff5d0a0bd19777144a80bdf21f2caf8b5b","features":{},"yanked":false,"links":null}
+{"name":"supports-hyperlinks","vers":"1.1.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58d28ba72c55dcc2a77252513c8c6598b11d817c5c2bc4c525583070c465493b","features":{},"yanked":false,"links":null}
+{"name":"supports-hyperlinks","vers":"1.2.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"590b34f7c5f01ecc9d78dba4b3f445f31df750a67621cf31626f3b7441ce6406","features":{},"yanked":false,"links":null}

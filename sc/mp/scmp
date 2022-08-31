@@ -1,0 +1,2 @@
+{"name":"scmp","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"35b06b71b1ccc4885683d4c85c7821f6b26eb46cf2b3e03389ce9e9aedf938b5","features":{},"yanked":false}
+{"name":"scmp","vers":"0.1.1","deps":[{"name":"bindgen","req":">= 0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bd2f241578b71b34dca4b6ec78dc8b2041a31b8c3e47aa2915fe7d62e19b79d9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fat","vers":"0.0.1","deps":[{"name":"memmap","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21b84424e090933d70bb5893c7e54f3310a67d7000eda85b875b4f3cfb93f0bf","features":{},"yanked":false,"links":null}
+{"name":"fat","vers":"0.0.2","deps":[{"name":"memmap","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21bd6c056366089c7657f17e6ace7abae3db38dcce3f18b0bcf83b044bcf8cf4","features":{},"yanked":false,"links":null}

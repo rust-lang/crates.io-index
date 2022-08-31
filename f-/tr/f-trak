@@ -1,0 +1,1 @@
+{"name":"f-trak","vers":"0.1.0","deps":[{"name":"opencv","req":"^0.46.3","features":["opencv-4","buildtime-bindgen"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1aac2b1151e685d4f24aca6564b452728633a5ee8b8308160b8682384cb218e9","features":{},"yanked":false,"links":null}

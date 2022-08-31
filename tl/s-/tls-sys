@@ -1,0 +1,1 @@
+{"name":"tls-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d50cca747ba59d010a2b49151ca396397675ad181851ca39bbb18a591e648391","features":{},"yanked":false}

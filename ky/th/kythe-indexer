@@ -1,0 +1,1 @@
+{"name":"kythe-indexer","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c58322428a185e096a7d9de4fc71d0504bf1a71f2efd733c4ab7a4d2334a1f71","features":{},"yanked":false}

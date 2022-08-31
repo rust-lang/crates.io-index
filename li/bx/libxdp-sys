@@ -1,0 +1,2 @@
+{"name":"libxdp-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8d8801c9f36b46a418814bbb992f88e1bd9f6e3288ebc96ffd79f1c36ac957c5","features":{},"yanked":false,"links":null}
+{"name":"libxdp-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"90c53016390ae023ac55d3a0873d729a3032ed2f664c8774fb6597a070aaa325","features":{},"yanked":false,"links":null}

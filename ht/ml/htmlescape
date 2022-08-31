@@ -1,0 +1,1 @@
+{"name":"htmlescape","vers":"0.3.1","deps":[{"name":"num","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e9025058dae765dee5070ec375f591e2ba14638c63feff74f13805a72e523163","features":{},"yanked":false}

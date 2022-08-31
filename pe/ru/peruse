@@ -1,0 +1,2 @@
+{"name":"peruse","vers":"0.2.0","deps":[{"name":"regex","req":"^0.1.10","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d5de574f20e0fc8519ce52217f5da000c990860f48f72a9dd679f18454260d3","features":{},"yanked":false}
+{"name":"peruse","vers":"0.3.0","deps":[{"name":"regex","req":"^0.1.10","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03758b92fe36b77206e1ef8584c70b95d5ba5d2edcdce6a40092881e015ef9a6","features":{},"yanked":false}

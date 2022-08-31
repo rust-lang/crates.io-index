@@ -1,0 +1,1 @@
+{"name":"nvidia-video-codec-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cb2608c1010422b8561d7d635354cea1260037cb89e5ce892d9a22eb380ddc37","features":{},"yanked":false}

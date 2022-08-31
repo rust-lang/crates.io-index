@@ -1,0 +1,3 @@
+{"name":"float_fast_print","vers":"0.1.0","deps":[],"cksum":"642d7c16c6343622da69b405327239c90ee523bdc2211f1456af09d30cde6ec1","features":{},"yanked":true,"links":null}
+{"name":"float_fast_print","vers":"0.1.1","deps":[],"cksum":"0098fd9ea36316b71f1e6a1e55fbf5c3bad1509e4f1416d945c17d27859ea393","features":{},"yanked":true,"links":null}
+{"name":"float_fast_print","vers":"0.1.2","deps":[{"name":"rand","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a5c91d5e1ac7331cf2453050106a6e819307d45a026687bd950be0782e03ad01","features":{},"yanked":false,"links":null}

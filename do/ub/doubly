@@ -1,0 +1,8 @@
+{"name":"doubly","vers":"0.0.1","deps":[],"cksum":"cd88214cacb50355ef4653f6eb959dc4c1b267e4e486e5057cb2427460dd9270","features":{},"yanked":false}
+{"name":"doubly","vers":"1.0.0","deps":[],"cksum":"1733374271b3f3c11197645d2092f63742ecd33dca20dae2a3bac03de5816dd5","features":{},"yanked":false}
+{"name":"doubly","vers":"1.0.1","deps":[],"cksum":"3f26a503b000812eaae303c08a5397eadd8e53c9ec24cbc3a25c377bf58a7fc0","features":{},"yanked":false}
+{"name":"doubly","vers":"1.0.2","deps":[],"cksum":"bafdf06e0e5515f3e387c22a30a467d0a4566027b88b01babf2113a9b1b11c2f","features":{},"yanked":false}
+{"name":"doubly","vers":"1.1.0","deps":[],"cksum":"f27dbc2f5008dbb55a980cb4ddb2c3abe7c35193b795a8cae257187b146fb574","features":{},"yanked":false}
+{"name":"doubly","vers":"1.1.1","deps":[],"cksum":"98f4a62c6e77938cf1f0585dc89675ef26f18e46c56b33cb87cb3a25cf63efbd","features":{},"yanked":false}
+{"name":"doubly","vers":"1.1.2","deps":[{"name":"clippy","req":"^0.0.112","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53d1853bbd50d1592e18bf650d457e1c69f8c5fa40342600959669c8690dcd10","features":{},"yanked":false}
+{"name":"doubly","vers":"1.1.3","deps":[],"cksum":"24c482d174c373c0aeba963f12a3ecf2e64e34cebdb498ff8438a18b4a04e1f8","features":{},"yanked":false}

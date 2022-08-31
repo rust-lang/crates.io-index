@@ -1,0 +1,1 @@
+{"name":"tunein-rs","vers":"0.1.0","deps":[{"name":"xml-rs","req":"~0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"~0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a9ac132e88e02b4e5aacb70549972c8f49106be4ec3a0177f17c1a298b9b7af8","features":{},"yanked":false}

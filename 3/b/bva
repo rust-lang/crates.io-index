@@ -1,0 +1,2 @@
+{"name":"bva","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4cd133e44574f5989c2f5aabba84e56c78da893c0a72b7a8ee5959e1156d649c","features":{},"yanked":false,"links":null}
+{"name":"bva","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"525e30a1bcc13994d0f84c0bd2e00532e7b445a2dfb36b5cd83be13f4fb35f34","features":{},"yanked":false,"links":null}

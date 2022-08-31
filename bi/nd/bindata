@@ -1,0 +1,2 @@
+{"name":"bindata","vers":"0.1.0","deps":[{"name":"bindata-impl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64f8fe40050fdcde4ac78eaa81c8c999e7b40752972da676ca176037efd0b10d","features":{},"yanked":false,"links":null}
+{"name":"bindata","vers":"0.1.1","deps":[{"name":"bindata-impl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a634f4d8bf6ee67eab31c3093712a8a63464c11d9597c63d4038009af90f74a2","features":{},"yanked":false,"links":null}

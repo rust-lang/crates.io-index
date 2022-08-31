@@ -1,0 +1,2 @@
+{"name":"bounded-integer-plugin","vers":"0.1.0","deps":[{"name":"bounded-integer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b24f5b8a8c001ef31761e4fb5939b5b364bbe81c168079cfb53509c65510ca5","features":{},"yanked":false}
+{"name":"bounded-integer-plugin","vers":"0.1.1","deps":[{"name":"bounded-integer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cd9567039a9ff957dfc4467f0f2937764de7566d0cb69566c9d520e9586edbe9","features":{},"yanked":false}

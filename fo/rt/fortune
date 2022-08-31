@@ -1,0 +1,1 @@
+{"name":"fortune","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"737335e7cd0c27799cb033f871abc9f37709d4dc3463ed4f75049ffd057372ef","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"farbfeld","vers":"0.2.0","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9238e7365546d2ab2241f86b59cf7a0a63a7f593a9d86e0b1ebaed01d4e97f22","features":{},"yanked":false}
+{"name":"farbfeld","vers":"0.3.1","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ef609ca9fa082b418fc942b9042390528b1624923496d9f5b3995ec6e9db97f","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"locate-locale","vers":"0.1.0","deps":[{"name":"kernel32-sys","req":"~0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"2566fa1f7d9948dcc53b1854d2218dc5dbb54b6950e7f277e513c660819d6cce","features":{},"yanked":false}

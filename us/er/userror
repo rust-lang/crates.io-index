@@ -1,0 +1,1 @@
+{"name":"userror","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce41b9208dbea689e8d4a049777c8ff7cc3e5999afaaa751994daa8208c8650c","features":{"colour":["ansi_term"],"default":["colour"]},"yanked":false}

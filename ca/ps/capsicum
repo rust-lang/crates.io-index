@@ -1,0 +1,3 @@
+{"name":"capsicum","vers":"0.1.0","deps":[],"cksum":"f17b6e6db92302d82a8c9a4acdfaa50eb95a5c03bb1237cc0e1e0d6e0ae23c68","features":{},"yanked":false}
+{"name":"capsicum","vers":"0.1.1","deps":[],"cksum":"043308cb5d565f6fb5490ee819fbac7363a549399d93f2f2a9f8df7b13c0cf94","features":{},"yanked":false}
+{"name":"capsicum","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8b2e1917db6233e249ea110a09835197879dcace89cf681e7b4f30cd3858554","features":{},"yanked":false}

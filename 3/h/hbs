@@ -1,0 +1,1 @@
+{"name":"hbs","vers":"0.2.0","deps":[{"name":"hbs-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"197a8ecf93a572646c2bfbf36e348bbf6db00c0bbcbc367e6d1ad2a80d9e130e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"pci_types","vers":"0.1.0","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e720b73950b54b3f097f9c59ea32721b10d8292c895c09710d9d4fc46d18a748","features":{},"yanked":false,"links":null}
+{"name":"pci_types","vers":"0.2.0","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0543761ad4cb3a4aa1ad9d3082cb40253e69b2ec288dbd4bcb4492e8de6fb07","features":{},"yanked":false,"links":null}

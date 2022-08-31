@@ -1,0 +1,2 @@
+{"name":"perlin_noise","vers":"1.0.0","deps":[{"name":"rand","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"948adc4186bbbb8d7745868f47a7c61ae27bd170ec5f34e4eba4030e40595cce","features":{},"yanked":false,"links":null}
+{"name":"perlin_noise","vers":"1.0.1","deps":[{"name":"rand","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23ca62da55725ddc421972a53b11cc855a168de84307aea534bc94ef6dbd61fa","features":{},"yanked":false,"links":null}

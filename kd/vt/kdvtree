@@ -1,0 +1,4 @@
+{"name":"kdvtree","vers":"0.5.0","deps":[],"cksum":"5ae3c62b3cef02accc586c16f200566e100888ea99f787a2185538357b2c0753","features":{},"yanked":false,"links":null}
+{"name":"kdvtree","vers":"0.6.0","deps":[],"cksum":"045904fed94777eba5ea46a5d3a2633f0ec3244f3633657a9a04ca263951d9b7","features":{},"yanked":false,"links":null}
+{"name":"kdvtree","vers":"0.7.5","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2cfa3e57ad8899667d086062d1fa4542ee501e40e4d156ebf4606f333ca406cb","features":{},"yanked":false,"links":null}
+{"name":"kdvtree","vers":"0.8.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"60e1e6adce2d7c25598918d42cd17fb4a2af813236794a9c8440ba1f9eb67c78","features":{},"yanked":false,"links":null}

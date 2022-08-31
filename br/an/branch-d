@@ -1,0 +1,2 @@
+{"name":"branch-d","vers":"0.1.1","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98db42f43b6668d6b4f0c8f1011e93d97ef2aaf1d1296c5f15d3e8271849a53b","features":{},"yanked":false,"links":null}
+{"name":"branch-d","vers":"0.2.0","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b179de4b18daa2aa1cf0a5d3dc6da2724578bac40932f667e1361f183b8e1f2","features":{},"yanked":false,"links":null}

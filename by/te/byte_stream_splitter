@@ -1,0 +1,5 @@
+{"name":"byte_stream_splitter","vers":"0.1.0","deps":[],"cksum":"1f2e3b153dc1a2db34ea9473806ebceab116def445d2f3bca50be8fa99c190bc","features":{},"yanked":false}
+{"name":"byte_stream_splitter","vers":"0.1.1","deps":[],"cksum":"b9253e89d1b8b6c8c14430b0929ec79743ca0ba2219d48e507ca7b715fbfc9ec","features":{},"yanked":false}
+{"name":"byte_stream_splitter","vers":"0.1.2","deps":[],"cksum":"94a645c61b854c439b7395090dc56547e6b5aa6f4628eb438ac9d3ca0b3f56af","features":{},"yanked":false}
+{"name":"byte_stream_splitter","vers":"0.1.3","deps":[],"cksum":"12e50f3056e5c1a436c26908000b8afd5127c458496a81f9ef15fbc62644c42c","features":{},"yanked":false}
+{"name":"byte_stream_splitter","vers":"0.1.4","deps":[{"name":"time","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0216a25f83fe39b6d228d54247d8d9a43bdace15ad53da4d7b72157dd430c3d8","features":{},"yanked":false}

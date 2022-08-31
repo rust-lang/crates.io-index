@@ -1,0 +1,1 @@
+{"name":"rfi","vers":"0.1.0-dev","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54b5dd4eb0136e4a6319bdc1d42dbca4c8bfc7e72c2a2ae8106973f474cc3fae","features":{},"yanked":false}

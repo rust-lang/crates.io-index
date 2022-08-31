@@ -1,0 +1,3 @@
+{"name":"cult","vers":"0.0.1","deps":[],"cksum":"ae65f71e4c2a72e8069fca1b8a986c6e55caded12c7047601d47773be4fb0dd0","features":{},"yanked":false}
+{"name":"cult","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df6ff5e7d60b9ad0a85ab42f88ced6bc7ab9dcc7be80cad1f5a74749f97ff079","features":{},"yanked":false}
+{"name":"cult","vers":"0.0.3","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dea82d5ea130a69c0c4a8544b3d2e5e18376ec0c47ee02bf889465325f92f0de","features":{},"yanked":false}

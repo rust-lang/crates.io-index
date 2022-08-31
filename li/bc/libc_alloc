@@ -1,0 +1,4 @@
+{"name":"libc_alloc","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"facfadd598148749ec91bad7f0ca986728811db9b9a04084f7a0667b10601d46","features":{},"yanked":false,"links":null}
+{"name":"libc_alloc","vers":"1.0.1","deps":[],"cksum":"2225a00e7c0e14bfd06334e078057133ecfb747a9522f90a76ef09307bd57f2d","features":{},"yanked":false,"links":null}
+{"name":"libc_alloc","vers":"1.0.2","deps":[],"cksum":"da3cc9f47be733089fcaaa5d9b7ab3251c403a476edaa8d61e361ecad4334305","features":{},"yanked":false,"links":null}
+{"name":"libc_alloc","vers":"1.0.3","deps":[],"cksum":"db1d62455a2746a7f4a67a62d77f969954cd7d3bca46e4d037acd097ba79dab4","features":{},"yanked":false,"links":null}

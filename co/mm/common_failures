@@ -1,0 +1,2 @@
+{"name":"common_failures","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5279eb88218ddbf96add83ec125cd9ec28658bc677959d216e2ddc0b0801de62","features":{},"yanked":false}
+{"name":"common_failures","vers":"0.1.1","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c84afb517ac0988b7e049e06c51511716f80d0f0233972fca666d3f14f80d8fb","features":{},"yanked":false,"links":null}

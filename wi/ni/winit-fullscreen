@@ -1,0 +1,2 @@
+{"name":"winit-fullscreen","vers":"0.1.0","deps":[{"name":"winit","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c106448c7e1dedbec357c1ab583293841a2d1cef7aeda46e38975251fb6ef69d","features":{},"yanked":false,"links":null}
+{"name":"winit-fullscreen","vers":"0.1.1","deps":[{"name":"winit","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae45ea1def818452195b4f59f29cca8f924845a54b77ccf33ce3bd3e63f708b","features":{},"yanked":false,"links":null}

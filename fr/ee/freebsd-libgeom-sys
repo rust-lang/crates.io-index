@@ -1,0 +1,2 @@
+{"name":"freebsd-libgeom-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a5465038f907b364d3b389e098046552d1c5a2dccf9e3bdbaa6a36b6909f45b0","features":{},"yanked":false,"links":null}
+{"name":"freebsd-libgeom-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d45852060610495bff38aa44cbfb9be6be396c865ab33f425415c3eac77ef090","features":{},"yanked":false,"links":null}
