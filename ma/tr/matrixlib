@@ -1,1 +1,2 @@
 {"name":"matrixlib","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc03a2d76ce92e3ee11cbad770f4b11ae073fc459ecf596d0c0dd5f79b5134f1","features":{},"yanked":false,"links":null}
+{"name":"matrixlib","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71572ca915f4ee7c51b6827524e8f6210b7c8b4f14cb36baa18101a74b9fe5fa","features":{},"yanked":false,"links":null}
