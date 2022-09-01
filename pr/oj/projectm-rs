@@ -1,1 +1,2 @@
 {"name":"projectm-rs","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"16f5e40efa939b53d66d6b6fa9649f1d4e71a295ca7a94568a315b35f459bfcf","features":{},"yanked":false,"links":null}
+{"name":"projectm-rs","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4f77e00013f795c9b02157a87fae58b512837512f118b5d51439ac4f20fa40e1","features":{},"yanked":false,"links":null}
