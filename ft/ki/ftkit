@@ -1,1 +1,2 @@
 {"name":"ftkit","vers":"0.1.4","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68fbbab5e7bc0b25df656db5c690f771e605582652f39afccefec4d9626c53e3","features":{},"yanked":false,"links":null}
+{"name":"ftkit","vers":"0.1.5","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85e296921f4326421b26a244f51e2aeec88d160e6c4fd2b0079e851c326642e6","features":{},"yanked":false,"links":null}
