@@ -3,3 +3,4 @@
 {"name":"comprez","vers":"0.0.2","deps":[],"cksum":"91aab976e83e941ed516ff7639a65e1804ce0ec846874f17d72c28c081d88963","features":{},"yanked":true,"links":null}
 {"name":"comprez","vers":"0.1.0","deps":[],"cksum":"c4c46764e489eecfa988a3e4d86f167d63209db9adc71b3570025b1605e199c9","features":{},"yanked":false,"links":null}
 {"name":"comprez","vers":"0.1.1","deps":[],"cksum":"83cf0e6226af7739edefecbee53aa7ebbd7863a3295071ad8a0316e3794bd7ca","features":{},"yanked":false,"links":null}
+{"name":"comprez","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bdb6c0d8e00add8ed9fc8d43f6a36bd1fcf8b25b492d7a2a3155ae3776a5f86f","features":{},"yanked":false,"links":null}
