@@ -6,3 +6,4 @@
 {"name":"vec-reg-common","vers":"0.5.1","deps":[],"cksum":"e9d529a98975aceb13d9029737ee1c356fc674308087e00a97ed1aeebf774831","features":{},"yanked":false,"links":null}
 {"name":"vec-reg-common","vers":"0.6.0","deps":[],"cksum":"f8182ef0e5e3c1544e4b5f87ad64ad3ca3b27fe0594809cb683c828d9a3c8155","features":{},"yanked":false,"links":null}
 {"name":"vec-reg-common","vers":"0.7.0","deps":[],"cksum":"d72b8c1414c044cc27d61caa4e38cf1614db7268cfc2337d3b34145b240312f7","features":{},"yanked":false,"links":null}
+{"name":"vec-reg-common","vers":"0.7.1","deps":[{"name":"tikv-jemallocator","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_env = \"msvc\"))","kind":"normal"}],"cksum":"1085a19bb37fa15da0c3b9cf2e51dea0c10f8547d7cdd78d938b641fd6cb1de2","features":{},"yanked":false,"links":null}
