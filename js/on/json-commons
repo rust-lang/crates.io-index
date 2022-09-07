@@ -1,1 +1,2 @@
 {"name":"json-commons","vers":"0.1.0","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bc8b761e2335cd6829c81c3d487ed62bb3daa50c75a7ef708e18b356baba392","features":{},"yanked":false,"links":null}
+{"name":"json-commons","vers":"0.1.1","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ece4ddb49e10b1adbc130c78c902d2c1b6c98f42d6106060ea9e302f926d3469","features":{},"yanked":false,"links":null}
