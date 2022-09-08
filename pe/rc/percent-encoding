@@ -2,3 +2,4 @@
 {"name":"percent-encoding","vers":"1.0.1","deps":[],"cksum":"31010dd2e1ac33d5b46a5b413495239882813e0369f8ed8a5e266f173602f831","features":{},"yanked":false}
 {"name":"percent-encoding","vers":"2.0.0","deps":[],"cksum":"ba4f28a6faf4ffea762ba8f4baef48c61a6db348647c73095034041fc79dd954","features":{},"yanked":false,"links":null}
 {"name":"percent-encoding","vers":"2.1.0","deps":[],"cksum":"d4fd5641d01c8f18a23da7b6fe29298ff4b55afcccdf78973b24cf3175fee32e","features":{},"yanked":false,"links":null}
+{"name":"percent-encoding","vers":"2.2.0","deps":[],"cksum":"478c572c3d73181ff3c2539045f6eb99e5491218eae919370993b890cdbdd98e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
