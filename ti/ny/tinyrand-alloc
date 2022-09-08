@@ -1,1 +1,2 @@
 {"name":"tinyrand-alloc","vers":"0.3.0","deps":[{"name":"tinyrand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18083daa93371c508363f4a9ef33f8eb48dfdb13681c4eb20277a55cd087ebb1","features":{},"yanked":false,"links":null}
+{"name":"tinyrand-alloc","vers":"0.4.0","deps":[{"name":"tinyrand","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3d4e7d45856a9293795b56fcf3b166630e728336cd21b430199b57641e2fdb3","features":{},"yanked":false,"links":null}
