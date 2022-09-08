@@ -1,0 +1,1 @@
+{"name":"wz-conf","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.20","features":["std","color","suggestions","derive","wrap_help"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1c12ed15aef0a55db9c6fbbb98937942c56c419ad4ef1a1cc1a0ba5680291a76","features":{},"yanked":false,"links":null}
