@@ -1,1 +1,2 @@
 {"name":"projectm-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dce7d18f61959a576940be64d9fdb957aedaf223d0a023225dce8f433de0a88e","features":{},"yanked":false,"links":"projectm"}
+{"name":"projectm-sys","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"af744c5776e3146130f5245eb4e3daf8ea53971af501a59364d69660849f9a5c","features":{},"yanked":false,"links":"projectm"}
