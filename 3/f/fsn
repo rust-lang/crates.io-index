@@ -1,1 +1,2 @@
 {"name":"fsn","vers":"0.0.0","deps":[],"cksum":"99dfed3b2a4cb381a3db9138de59658d0172d3a3faec2b1ace67fa6beb717575","features":{},"yanked":false,"links":null}
+{"name":"fsn","vers":"0.1.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf8281a31dc37cd24bde40ae627b74130fe01ecaad5abe5a15ee3f8e205db6da","features":{},"yanked":false,"links":null}
