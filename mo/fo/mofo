@@ -1,1 +1,2 @@
 {"name":"mofo","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b02fa25d75faed614ba74ce291831a3e237e09d2499d8f4ffd6fcb0387ba4c97","features":{},"yanked":false,"links":null}
+{"name":"mofo","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"992d7aba650fcba056b05381a48ca2c6f1ab6d822ae0fa6553986501b98cf872","features":{},"yanked":false,"links":null}
