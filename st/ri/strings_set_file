@@ -1,1 +1,2 @@
 {"name":"strings_set_file","vers":"0.1.0","deps":[{"name":"file_mmap","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"472f1117d89e35483d2cf4cb1cd25ba8facadfc5b4faf0d5284b4520b6e43c9c","features":{},"yanked":false,"links":null}
+{"name":"strings_set_file","vers":"0.1.1","deps":[{"name":"file_mmap","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f382798090533bb53f3ab3d8d27d5b24391519c12a03c771b1faa7c835f801","features":{},"yanked":false,"links":null}
