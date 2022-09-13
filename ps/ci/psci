@@ -1,1 +1,2 @@
 {"name":"psci","vers":"0.1.0","deps":[],"cksum":"02b63e2f0d5eebc41334d776d728152edb742740759d192f7d14e7ca484ee007","features":{"hvc":[],"smc":[],"default":["hvc"]},"yanked":false,"links":null}
+{"name":"psci","vers":"0.1.1","deps":[],"cksum":"3374e3ae47f134467227a48be93b929e5d304efcd25ce5d176006403ca1d9bab","features":{"default":["hvc"],"hvc":[],"smc":[]},"yanked":false,"links":null}
