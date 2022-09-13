@@ -1,0 +1,1 @@
+{"name":"tracelogging_dynamic","vers":"0.1.0","deps":[{"name":"tracelogging","req":">=0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0aba4f92167aa2bc007756913b8691e373899ed3993de8695096ee1e356cb165","features":{"default":["etw"],"etw":["tracelogging/etw"]},"yanked":false,"links":null}
