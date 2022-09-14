@@ -1,0 +1,1 @@
+{"name":"music-player-entity","vers":"0.1.0","deps":[{"name":"sea-orm","req":"^0.9.2","features":["runtime-tokio-rustls","sqlx-sqlite"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80795a71488421a08704c296014a4eae52ca746943760ce4fb6c26493b7e4185","features":{},"yanked":false,"links":null}
