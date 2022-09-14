@@ -1,0 +1,1 @@
+{"name":"test_dep_resolver","vers":"0.1.0","deps":[{"name":"thisdoesntexist","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"hyper"}],"cksum":"01a0223db8d2e2a058835f05357d278cc8c895b55bb4f0bbfc5f465238d12374","features":{},"yanked":false,"links":null}
