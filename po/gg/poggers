@@ -1,0 +1,1 @@
+{"name":"poggers","vers":"0.1.0","deps":[{"name":"windows","req":"^0.40.0","features":["Win32_Foundation"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"124fcced38192e9b8cccf03c3a771c43b80e8c8171e81779107c575d524cc949","features":{"default":["win"],"win":["windows"]},"yanked":false,"links":null}
