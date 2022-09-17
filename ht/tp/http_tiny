@@ -6,3 +6,4 @@
 {"name":"http_tiny","vers":"1.1.0","deps":[{"name":"ebacktrace","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57120b8890a9244e2a345f46bd6d3ba08d422016cca8874af4f708bc466200b2","features":{},"yanked":false,"links":null}
 {"name":"http_tiny","vers":"2.0.0-pre.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c18433470c03e1f5971bb2370126cdcb4f5a915a2763467e71f08513e2823a","features":{},"yanked":false,"links":null}
 {"name":"http_tiny","vers":"2.0.0-pre.1","deps":[],"cksum":"dcb31b3251c4408fbb551ca378117d9aea09d7929bb571aae8a695d2aeda2cae","features":{},"yanked":false,"links":null}
+{"name":"http_tiny","vers":"2.0.0-pre.2","deps":[],"cksum":"e5ef6720a743e7e6d97e501c4adb77ecdd259afbe200f01ac0b14824352e4fdc","features":{},"yanked":false,"links":null}
