@@ -1,1 +1,2 @@
 {"name":"onlinematching","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bf1aeef7e9212849dfb22297170655396e19439a9d1d6eefca144a6f36220cd","features":{},"yanked":false,"links":null}
+{"name":"onlinematching","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c57bffc651ad7480990d8105a66e0bdcbf4421d6c7effdfcd5ad8f9ff3ad4084","features":{},"yanked":false,"links":null}
