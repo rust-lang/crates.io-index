@@ -1,1 +1,2 @@
 {"name":"git-command","vers":"0.0.0","deps":[],"cksum":"41d41aa641a40fb2969877cde14eec0f9edeb0da8a6460e66958a1dca57e4d3d","features":{},"yanked":false,"links":null}
+{"name":"git-command","vers":"0.1.0","deps":[{"name":"bstr","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4b01997b6551554fdac6f02277d0d04c3e869daa649bedd06d38c86f11dc42","features":{},"yanked":false,"links":null}
