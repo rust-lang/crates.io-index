@@ -1,1 +1,2 @@
 {"name":"workflow-i18n","vers":"0.0.0","deps":[],"cksum":"53ab7299a322f07f73de1d30b726f6f580d677543d21f3487afa35822d4a827f","features":{},"yanked":false,"links":null}
+{"name":"workflow-i18n","vers":"0.1.0","deps":[{"name":"ritehash","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f693e65c68461e1d8f3420bfa3324db46f34fc711e2381b055c95a24fef7e9c","features":{},"yanked":false,"links":null}
