@@ -8,3 +8,4 @@
 {"name":"rtop_dev","vers":"0.3.0-beta.1","deps":[],"cksum":"af15fc6904e07905d173767c522ff583f326c909ec65ea3a612f0a8b7094e836","features":{},"yanked":false,"links":null}
 {"name":"rtop_dev","vers":"1.0.0-beta.1","deps":[],"cksum":"935048874b10eb942c151da36b90f3d6508a735e4da576beaf3882ae46af7b6b","features":{},"yanked":false,"links":null}
 {"name":"rtop_dev","vers":"1.0.0-beta.2","deps":[{"name":"human-sort","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd2b6b4f279cf22c4f726b3825ed8ad363d3abed2d4f2e70e0b6de6bc748d458","features":{},"yanked":false,"links":null}
+{"name":"rtop_dev","vers":"1.0.0-beta.3","deps":[{"name":"human-sort","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d436783bf08868e60aac3677f52181335f35142f017a360718d925a81bcd0146","features":{},"yanked":false,"links":null}
