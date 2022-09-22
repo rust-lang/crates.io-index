@@ -10,3 +10,4 @@
 {"name":"windows-metadata","vers":"0.38.0","deps":[{"name":"windows-sys","req":"^0.36.1","features":["Win32_System_SystemServices","Win32_System_Diagnostics_Debug"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"367e21b532f3b5b7b1574ab4eb85b58667fd20ee27aff109ccb3a4ee093664ec","features":{},"yanked":false,"links":null}
 {"name":"windows-metadata","vers":"0.39.0","deps":[],"cksum":"9ee5e275231f07c6e240d14f34e1b635bf1faa1c76c57cfd59a5cdb9848e4278","features":{},"yanked":false,"links":null}
 {"name":"windows-metadata","vers":"0.40.0","deps":[],"cksum":"7d54e690f3751a9dffbc0a010ccf16e80207dd674b1e6c5b87380c9deb13ab44","features":{},"yanked":false,"links":null}
+{"name":"windows-metadata","vers":"0.41.0","deps":[],"cksum":"d1c2e104688296abb632439b1303b3901110c372515baea16d764a1fa6f0e6b2","features":{},"yanked":false,"links":null}
