@@ -1,0 +1,1 @@
+{"name":"extsort-iter","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"014b4a0ef70dd78aa134ea5eb3a668e1629e5acdeee03343f87ae35e303237f4","features":{"parallel_sort":["rayon"]},"yanked":false,"links":null}
