@@ -1,1 +1,2 @@
 {"name":"char_occurence","vers":"0.1.0","deps":[{"name":"indoc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b0cf7560d48f41ae0f9a2e22f00eb9e42321e24f5bc86846043aac27d26e6a6","features":{},"yanked":false,"links":null}
+{"name":"char_occurence","vers":"0.1.1","deps":[{"name":"indoc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ff03c3ae23ffc7e1f71cf0cd43351eb833df0ea2f18526291c2d9938064f42a","features":{},"yanked":false,"links":null}
