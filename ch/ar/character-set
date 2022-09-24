@@ -1,0 +1,1 @@
+{"name":"character-set","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.145","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9c17f86fdcd6939e83c7a7a2461db580da14398300c046c77148eefbcb52ef5","features":{},"yanked":false,"links":null}
