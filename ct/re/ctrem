@@ -1,1 +1,2 @@
 {"name":"ctrem","vers":"0.1.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5029f95ab818f959f00cdadd9af337049b1a4bb687eb24c07c7edf293171e21","features":{},"yanked":false,"links":null}
+{"name":"ctrem","vers":"0.1.1","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb41b1fcf7411e02050eabf9a4abefbf49c5828486654d518417296d67ee59af","features":{},"yanked":false,"links":null}
