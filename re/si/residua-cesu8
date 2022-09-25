@@ -10,3 +10,4 @@
 {"name":"residua-cesu8","vers":"0.5.2","deps":[],"cksum":"aa4a27e25cda57c729ead82a05ecc02f3e64628124cd3344359eb8b4a13123da","features":{},"yanked":false,"links":null}
 {"name":"residua-cesu8","vers":"0.6.0","deps":[],"cksum":"d34e498cbe0fb4babd6a69506849278f27d59d399a16f96b0bb7057bcb06e4c4","features":{},"yanked":false,"links":null}
 {"name":"residua-cesu8","vers":"1.0.0","deps":[],"cksum":"8a211ed9d34210487cedb1892aaf35048d63e4a592604092b9b8c71b76d09253","features":{},"yanked":false,"links":null}
+{"name":"residua-cesu8","vers":"2.0.0","deps":[],"cksum":"6ca29b145d9861719b5505602d881afc46705200144153ca9dbc0802be2938ea","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
