@@ -1,1 +1,2 @@
 {"name":"coproduct","vers":"0.1.0","deps":[{"name":"frunk","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4af5b824eed49e5ca6448ea5f8175e4c23b21e12f9360dfaded811937f8388c","features":{},"yanked":false,"links":null}
+{"name":"coproduct","vers":"0.1.1","deps":[{"name":"frunk","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45aceff7b435c646fb318995ecd96a027e10aa7a386058c687c62d1f88aecf9e","features":{},"yanked":false,"links":null}
