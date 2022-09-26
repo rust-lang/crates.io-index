@@ -1,0 +1,1 @@
+{"name":"prusti-std","vers":"0.1.0","deps":[{"name":"prusti-contracts","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a97fb970bd0a7bae91e51cbf80b46f635457691c02c4d9a797e29d4ab23eba","features":{"prusti":["prusti-contracts/prusti"]},"yanked":false,"links":null}
