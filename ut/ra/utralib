@@ -1,0 +1,1 @@
+{"name":"utralib","vers":"0.1.0","deps":[{"name":"svd2utra","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a918ae2366c3b0a370fe0c32d0c6f5868e7e5d4a001e2006de87292eea9d1273","features":{"default":["precursor-c809403"],"precursor-c809403":[],"precursor-c809403-perflib":[],"std":[]},"yanked":false,"links":null}
