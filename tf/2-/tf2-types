@@ -1,0 +1,1 @@
+{"name":"tf2-types","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.132","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94a81ce2050e3fe620f4346cafb7306b3ac439493ebff91964e42d23ceb0b237","features":{"events":[]},"features2":{"cevents":["dep:libc"]},"yanked":false,"links":null,"v":2}
