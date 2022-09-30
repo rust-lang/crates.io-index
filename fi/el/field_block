@@ -1,1 +1,2 @@
 {"name":"field_block","vers":"0.1.0","deps":[{"name":"octets","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cec8a18e7a3fa7d9fec54ba494dcabb88d3af41a514ec6a9a67772de40cc050","features":{},"yanked":false,"links":null}
+{"name":"field_block","vers":"0.1.1","deps":[{"name":"octets","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba71ce8dd6b583fdbc5b153f0c7867b9424d4208a770318be4a9178de31423f5","features":{},"yanked":false,"links":null}
