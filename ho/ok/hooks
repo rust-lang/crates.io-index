@@ -1,1 +1,2 @@
 {"name":"hooks","vers":"1.0.0-alpha.1","deps":[],"cksum":"b67c20041c20acce600c5cae9f81bec9cb51dd3312619eeaa8f4d0af1420803d","features":{},"yanked":false,"links":null}
+{"name":"hooks","vers":"1.0.0-alpha.2","deps":[{"name":"hooks-derive","req":"^1.0.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4a0267da1b7323a54f23428f0a1e338eab30aa00ff2707c879220cfd8881a67","features":{},"yanked":false,"links":null}
