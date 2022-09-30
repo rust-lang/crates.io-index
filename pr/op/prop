@@ -26,3 +26,4 @@
 {"name":"prop","vers":"0.23.0","deps":[],"cksum":"d9512eb8ff7056952ac418fb1c934473d449dcc83e9b82c5e45f524883d3c4c1","features":{"pure_platonism":[],"default":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.24.0","deps":[],"cksum":"71a31fca013543604cd4c215c48ab5650e3b57c005986b0d97413af0d7c01439","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.25.0","deps":[],"cksum":"2a166aded4adf1926135cfee1a8c2ee643ecabc62fbc619a3ba63ba3aeb6b981","features":{"default":[],"old_homotopy_levels":["subst_equality"],"pure_platonism":[],"subst_equality":[]},"yanked":false,"links":null}
+{"name":"prop","vers":"0.26.0","deps":[],"cksum":"6afdaf79eab58761d827f46057f8204553f54460eada4a1ea5271405527400d2","features":{"avatar_extensions":[],"default":[],"old_homotopy_levels":["subst_equality"],"pure_platonism":[],"quantify":[],"subst_equality":[]},"yanked":false,"links":null}
