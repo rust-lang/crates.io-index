@@ -1,1 +1,1 @@
-{"name":"micropass","vers":"0.1.0","deps":[{"name":"blake2","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"394e848d027292a3141fea4af33d64cfb74e7fd0ee69e90c7aa28fcb4a24d8f2","features":{},"yanked":false,"links":null}
+{"name":"micropass","vers":"0.1.0","deps":[{"name":"blake2","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"394e848d027292a3141fea4af33d64cfb74e7fd0ee69e90c7aa28fcb4a24d8f2","features":{},"yanked":true,"links":null}
