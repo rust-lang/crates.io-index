@@ -1,2 +1,3 @@
 {"name":"psibase_names","vers":"0.0.0","deps":[],"cksum":"7c9435b63c67015802e8cb388aafe4fd63492aaf7e6156136f1d44bce485917d","features":{},"yanked":false,"links":null}
 {"name":"psibase_names","vers":"0.1.0","deps":[{"name":"seahash","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59a9ae30c8c2814cb81db627c7d937d2522756004a22156450dfe0c0252a3cb5","features":{},"yanked":false,"links":null}
+{"name":"psibase_names","vers":"0.1.1","deps":[{"name":"seahash","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28cad1359138a7623a15b077142aaae7bd2cd50ef93a0f6db1d06f7e1d428f35","features":{},"yanked":false,"links":null}
