@@ -1,1 +1,2 @@
 {"name":"merkletreers","vers":"0.1.0","deps":[],"cksum":"3e5fd0835a4881deb8e715b991b18747e3d7aa22df5b7651fab8727f40e7d9e3","features":{},"yanked":false,"links":null}
+{"name":"merkletreers","vers":"0.2.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tiny-keccak","req":"^2.0.2","features":["keccak"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17e1175cc59011284ab6707737c4ce2fdc230fe62a38752e775d34ca35a399da","features":{},"yanked":false,"links":null}
