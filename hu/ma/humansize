@@ -6,3 +6,4 @@
 {"name":"humansize","vers":"1.1.0","deps":[],"cksum":"b6cab2627acfc432780848602f3f558f7e9dd427352224b0d9324025796d2a5e","features":{},"yanked":false}
 {"name":"humansize","vers":"1.1.1","deps":[],"cksum":"02296996cb8796d7c6e3bc2d9211b7802812d36999a51bb754123ead7d37d026","features":{},"yanked":false,"links":null}
 {"name":"humansize","vers":"2.0.0","deps":[{"name":"libm","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e12090e3b87a266157c30eef7ee8f430f4226feb8dd970cccea2cc67f52f70e","features":{"impl_style":[],"no_alloc":[]},"yanked":false,"links":null}
+{"name":"humansize","vers":"2.1.0","deps":[{"name":"libm","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a866837516f34ad34fb221f3ee01fd0db75f2c2f6abeda2047dc6963fb04ad9a","features":{"impl_style":[],"no_alloc":[]},"yanked":false,"links":null}
