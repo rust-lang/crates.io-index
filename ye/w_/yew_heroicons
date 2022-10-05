@@ -1,1 +1,2 @@
 {"name":"yew_heroicons","vers":"0.1.0","deps":[{"name":"yew","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91ef13db26f3921aa7743273af563e6fab6b55d147556a07cd8b0325f19e6ce4","features":{},"yanked":false,"links":null}
+{"name":"yew_heroicons","vers":"0.2.0","deps":[{"name":"yew","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23b9d19edd246ed62ac857b961576041aad1ff3966e0e6875d986a82060682e7","features":{},"yanked":false,"links":null}
