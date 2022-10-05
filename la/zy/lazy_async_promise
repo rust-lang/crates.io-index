@@ -1,0 +1,1 @@
+{"name":"lazy_async_promise","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt-multi-thread","sync","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e28fee4772f92c5b4ba3e4d46c6ded01add0414484242258c7ddcf7c25a1920","features":{},"yanked":false,"links":null}
