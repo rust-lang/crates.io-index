@@ -22,3 +22,4 @@
 {"name":"doe","vers":"0.1.21","deps":[],"cksum":"646c9ba5f60c82d71cfb22e2c3715fc4af50b47592a76d663d80361d127504d3","features":{},"yanked":false,"links":null}
 {"name":"doe","vers":"0.1.22","deps":[],"cksum":"cee8376ed27759920d69084d05b9997e0001daf7064d4a084fbf6bab8a9518e6","features":{},"yanked":false,"links":null}
 {"name":"doe","vers":"0.1.23","deps":[],"cksum":"779cf0d10d33032532707cb79df36379c3a74de90f6d32ede920eeff041cebcb","features":{},"yanked":false,"links":null}
+{"name":"doe","vers":"0.1.24","deps":[{"name":"chrono","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdc82924f9efa79bb2f58cf26b1642c5ba26a2d546e8544ca50c841c3d71c53a","features":{},"yanked":false,"links":null}
