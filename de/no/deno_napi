@@ -1,1 +1,2 @@
 {"name":"deno_napi","vers":"0.1.0","deps":[],"cksum":"f84fa3ceada14278b0bc08e09c8fe567ff508333c534f6033322ac3454d45eeb","features":{},"yanked":false,"links":null}
+{"name":"deno_napi","vers":"0.2.0","deps":[{"name":"deno_core","req":"^0.154.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libloading","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f54beba5d10bc7fbc5d45b73854040bfe100c54d0c8c3b6d0332555015306af","features":{},"yanked":false,"links":null}
