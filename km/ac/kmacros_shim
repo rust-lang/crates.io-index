@@ -5,3 +5,4 @@
 {"name":"kmacros_shim","vers":"4.0.0","deps":[],"cksum":"fb6c71f493e28f7a141c16c5b5fcc5f4c201308129b29b057e6c125177fdc6ff","features":{},"yanked":false,"links":null}
 {"name":"kmacros_shim","vers":"5.0.0","deps":[],"cksum":"494b54a5868f52cec7f0b9d3934cc645ed136e7ec95621e9fc5f93bd9015f6fc","features":{"default":[],"no_std":[]},"yanked":false,"links":null}
 {"name":"kmacros_shim","vers":"5.1.0","deps":[],"cksum":"8906eba9bd26514fbaf7348e9ebc7555b83096bae0846d54859f79a82933a37f","features":{"default":[],"no_std":[]},"yanked":false,"links":null}
+{"name":"kmacros_shim","vers":"6.0.0","deps":[],"cksum":"e60d3928b69ace5bca23f1458da8e351e73816f97db654aae4efc64d657c088d","features":{"default":[],"no_std":[]},"yanked":false,"links":null}
