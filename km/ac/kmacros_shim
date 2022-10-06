@@ -3,3 +3,4 @@
 {"name":"kmacros_shim","vers":"3.0.0","deps":[],"cksum":"aa49810cbd1e6aff5c8baef65414116dc2c6e3d8a57a81874d0508aad6992907","features":{},"yanked":false,"links":null}
 {"name":"kmacros_shim","vers":"3.0.1","deps":[],"cksum":"eca086636fe1561f3792242c3bb8e0edb320a6e7051f3e743752e8f531e133e1","features":{},"yanked":false,"links":null}
 {"name":"kmacros_shim","vers":"4.0.0","deps":[],"cksum":"fb6c71f493e28f7a141c16c5b5fcc5f4c201308129b29b057e6c125177fdc6ff","features":{},"yanked":false,"links":null}
+{"name":"kmacros_shim","vers":"5.0.0","deps":[],"cksum":"494b54a5868f52cec7f0b9d3934cc645ed136e7ec95621e9fc5f93bd9015f6fc","features":{"default":[],"no_std":[]},"yanked":false,"links":null}
