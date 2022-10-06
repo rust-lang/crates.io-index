@@ -1,2 +1,3 @@
 {"name":"sbi-spec","vers":"0.0.1","deps":[],"cksum":"9052abf4e5360c78094e445e2c8f7975481c45094e068230b7a1860709289cee","features":{},"yanked":false,"links":null}
 {"name":"sbi-spec","vers":"0.0.2","deps":[],"cksum":"7b617d3b07d7bcdeb0590d4fea9460b004fbc5ecfc975993b9cbcc3a2f67fcce","features":{},"yanked":false,"links":null}
+{"name":"sbi-spec","vers":"0.0.3","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab331a5c9852a6587ea9fc74bdda950d7dfc7076aa791434d45cbc2001ba5c7c","features":{},"yanked":false,"links":null}
