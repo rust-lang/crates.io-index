@@ -1,0 +1,1 @@
+{"name":"is_proc_translated","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"13f520e7d20c28408dfc768d1c9c7fff21a5318845c5f34c22f792a2cce1cf58","features":{},"yanked":false,"links":null}
