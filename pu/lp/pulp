@@ -1,0 +1,1 @@
+{"name":"pulp","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c633d0d15b1187678b4ce71ef9bdeaf9c97832651fed89e05c2b4680df80d924","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"links":null}
