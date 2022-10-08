@@ -7,3 +7,4 @@
 {"name":"as-is","vers":"0.0.4-alpha","deps":[],"cksum":"1184bd3a7405d74f752fe81946f48300d7ed098f5152015deb08bb0468b0ece5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.5-alpha","deps":[],"cksum":"dffe64c7d2f500e3e6b1b94d76e6031e9567db99601f7a8b376832a3d1b5e51f","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.5-alpha.1","deps":[],"cksum":"cd8fb967b712901de3ab823e82a6c7f4ad14c9380cf82b4a2998aae70b2e5e21","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"as-is","vers":"0.0.5-alpha.2","deps":[],"cksum":"f3f7ab26bb61de6e31ffdbf50410cc2663a5ef29046e9f3aaddaa2c90f9a3529","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
