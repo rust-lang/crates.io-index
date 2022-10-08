@@ -1,0 +1,1 @@
+{"name":"toad-common","vers":"0.8.0","deps":[{"name":"tinyvec","req":"^1.5","features":["rustc_1_55"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"88a9f056f1fe5dc7531ab3046a0ff0223e2af8c95d9fe6aee8ba64a296a44eea","features":{},"yanked":false,"links":null}
