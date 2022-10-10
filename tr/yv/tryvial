@@ -1,0 +1,1 @@
+{"name":"tryvial","vers":"0.1.0","deps":[{"name":"tryvial-proc","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"100aa1151c5913c3a154b0f643651de66b814f67ef2a9669c635aa501c7ffd47","features":{"default":["proc-macro"]},"features2":{"proc-macro":["dep:tryvial-proc"]},"yanked":false,"links":null,"v":2}
