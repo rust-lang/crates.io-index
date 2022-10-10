@@ -1,1 +1,2 @@
 {"name":"disambiseq","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12a1c29ee5b658b69840d246eb9f95b73dcfd9deb3bf1b3cffc6bcb467f12657","features":{},"yanked":false,"links":null}
+{"name":"disambiseq","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1848b8d9a57c0f79a2dde52d41affa08f4742d54426e059ed58c5f0caf2be3f","features":{},"yanked":false,"links":null}
