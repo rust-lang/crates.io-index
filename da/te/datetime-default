@@ -1,0 +1,1 @@
+{"name":"datetime-default","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.22","features":["clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbe4eb9825aa45107976ca75165cd60ccf79b5909160b6c255de0cf941336828","features":{},"yanked":false,"links":null}
