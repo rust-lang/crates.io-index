@@ -1,0 +1,1 @@
+{"name":"whisper-rs","vers":"0.1.0","deps":[{"name":"whisper-rs-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ac30fd249a43ccef393bb19ec9bb263a86eb6c6ebd7c532969acd90b395efbd","features":{"simd":[]},"yanked":false,"links":null}
