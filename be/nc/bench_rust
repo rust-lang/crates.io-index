@@ -1,1 +1,2 @@
 {"name":"bench_rust","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd9eaf5dfbddf789f5b16f1a1c97515e909294b947dbf964c05f0f0ffd2687e1","features":{},"yanked":false,"links":null}
+{"name":"bench_rust","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63222ead353e5b9d74d30a085a2463166cc1cba55f4de4a2589954a90705c903","features":{},"yanked":false,"links":null}
