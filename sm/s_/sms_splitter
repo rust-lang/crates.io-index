@@ -1,1 +1,2 @@
 {"name":"sms_splitter","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fea9dd5c128d6bb3167461ece712a30cdbe86d1982dde0ebdd4ab59d71c37aa8","features":{},"yanked":false,"links":null}
+{"name":"sms_splitter","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9cad6b62b1f7c791ca13fc2b80e357d8442cbf081767daa47be15eb1d25e914e","features":{},"yanked":false,"links":null}
