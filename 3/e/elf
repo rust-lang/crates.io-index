@@ -10,3 +10,4 @@
 {"name":"elf","vers":"0.0.10","deps":[{"name":"byteorder","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4841de15dbe0e49b9b62a417589299e3be0d557e0900d36acb87e6dae47197f5","features":{},"yanked":false}
 {"name":"elf","vers":"0.0.11","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"114dc60bab7d987413d4d1e04d6b679e7c79dd91d941087c7719b749cc9dc08f","features":{},"yanked":false,"links":null}
 {"name":"elf","vers":"0.0.12","deps":[],"cksum":"4b9c86cae88373e32c872967c296dcdd3b25771dcc7da1c4ba060b4a68fd8db7","features":{},"yanked":false,"links":null}
+{"name":"elf","vers":"0.1.0","deps":[],"cksum":"843028ba5ad08ee96716a1fc43b861837be1bc7a87fc0c6aa659ca5ddea6ee48","features":{},"yanked":false,"links":null}
