@@ -1,1 +1,2 @@
 {"name":"store-interval-tree","vers":"0.1.0","deps":[],"cksum":"0e3f8a2a6a186f8bb4f756590caf97febdf075df4e4f0286a0756cb7768bb1a4","features":{},"yanked":false,"links":null}
+{"name":"store-interval-tree","vers":"0.2.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72bb94306052451504dcecca7a775f23d068a38a9d929a5b4ce0d343933120d9","features":{},"yanked":false,"links":null}
