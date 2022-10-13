@@ -1,3 +1,4 @@
 {"name":"fhe-traits","vers":"0.1.0-beta.0","deps":[],"cksum":"3d216dbd408a7a4c1019c064ea89b43a37a89e4bd785a3b5cf095ac53392a11d","features":{},"yanked":true,"links":null}
 {"name":"fhe-traits","vers":"0.1.0-beta.1","deps":[],"cksum":"030d07b665fe26bca16bfcf0dd760aabe5f65321c7a6ff6045f285ed1c5f2037","features":{},"yanked":true,"links":null}
 {"name":"fhe-traits","vers":"0.1.0-beta.3","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae36eb10a9b901a518175553b4b3a4355558b0b3ec167ebcdcd78e6008979ac3","features":{},"yanked":false,"links":null}
+{"name":"fhe-traits","vers":"0.1.0-beta.4","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c9f2c75f3604f35c499e7c2885e4c3476e35c538880e33221869cad7bad745e","features":{},"yanked":false,"links":null}
