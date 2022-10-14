@@ -1,0 +1,1 @@
+{"name":"quad-timestamp","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"94a89e1ddf5345f134730194b0c00db88335354ae81f42474ebbc4fad3258198","features":{},"yanked":false,"links":null}
