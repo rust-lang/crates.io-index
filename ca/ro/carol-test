@@ -19,3 +19,4 @@
 {"name":"carol-test","vers":"2.0.0","deps":[],"cksum":"d0b654613d06e2298045e5ddef6f394d20ff7da6f091ad00c4cf9124631145cf","features":{},"yanked":false,"links":null}
 {"name":"carol-test","vers":"1.1.2","deps":[{"name":"carol-test","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3ce8754274024fdb5e194d4550ba07595e8624fe2e4441674f7aa992111d386","features":{},"yanked":false,"links":null}
 {"name":"carol-test","vers":"2.1.0","deps":[],"cksum":"3247e7e03a69415a1258b6cb43d4dc01a18fc6be273f33ec08d6276b6e268594","features":{},"yanked":false,"links":null}
+{"name":"carol-test","vers":"2.2.0","deps":[],"cksum":"7edb20f188694ea62b9ed41421ea90bca6244aee627e1786bd5eee4aa7292ebb","features":{},"yanked":false,"links":null}
