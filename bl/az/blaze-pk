@@ -9,3 +9,4 @@
 {"name":"blaze-pk","vers":"0.2.5","deps":[],"cksum":"825b8047fe342204c103f7c032fcae47ff4b6b7cd79a5d7979bf8f0522bcfb27","features":{},"yanked":false,"links":null}
 {"name":"blaze-pk","vers":"0.2.6","deps":[],"cksum":"3112115660ea642598ad4b010c733319261e3f194983baea5043f9ec80b4632d","features":{},"yanked":false,"links":null}
 {"name":"blaze-pk","vers":"0.2.7","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a783fea4e0359867711bc15b677f54c98f144bb2984fbcda3015961bff5f20ae","features":{"async":["tokio"],"default":[]},"yanked":false,"links":null}
+{"name":"blaze-pk","vers":"0.2.8","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"486d8a6c2ff3a775f64a571a78c42511ef6f2617b62023dab83473498fe3a7e3","features":{"async":["tokio"],"default":[]},"yanked":false,"links":null}
