@@ -1,1 +1,2 @@
 {"name":"bip351","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"618803ff8db51232e23cadee2cf199b4ba99c80920f71ed2dff8334e680ea42e","features":{},"yanked":false,"links":null}
+{"name":"bip351","vers":"0.2.0","deps":[{"name":"bitcoin","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183506136ce16f8db0eb187c6831ba0f6d2715f2694c98f704b32b1e283df63a","features":{},"yanked":false,"links":null}
