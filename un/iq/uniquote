@@ -8,3 +8,4 @@
 {"name":"uniquote","vers":"3.1.0","deps":[],"cksum":"aa6f5952e7f7fe9c7f6011b6b1acf6a6903cc9208b788b6b09446f1f880574ae","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"3.1.1","deps":[],"cksum":"9ca06e1667f2f21ec0ef8b0ea24c26a85c2c692d5ba721a1d473f6cba5b7737b","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"3.2.0","deps":[],"cksum":"2890f8bc197bdd492c2f89bd62912b08d22d52e4dfda6a35d091d77d280ba23d","features":{"default":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"uniquote","vers":"3.2.1","deps":[],"cksum":"c4cf928bac801da70013650f4a44c512692d5755bbd8df8ee4db4e43cd3d6d1d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
