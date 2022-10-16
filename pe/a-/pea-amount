@@ -1,1 +1,2 @@
 {"name":"pea-amount","vers":"0.1.0","deps":[{"name":"pea-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e036e3e1b4f1da4a81114d561b3e7ed242cce3ab3696a45c4d729eafc32c595d","features":{},"yanked":false,"links":null}
+{"name":"pea-amount","vers":"0.1.1","deps":[{"name":"pea-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5600f518f346d509657b0a5587f33c9abfa991d493b91bbb3f572f1ed4b4b15","features":{},"yanked":false,"links":null}
