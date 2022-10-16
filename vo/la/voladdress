@@ -16,3 +16,4 @@
 {"name":"voladdress","vers":"1.0.2","deps":[],"cksum":"2157d0419fef2c1108faed387c36bd7c8364e875965d8286aed94b4e8d068708","features":{"experimental_volregion":[]},"yanked":false,"links":null}
 {"name":"voladdress","vers":"1.1.0","deps":[],"cksum":"116081b06c1dfa740645f8288e36725cfd4757cbdcb026ca738e26f25500ad8a","features":{"experimental_volmatrix":[],"experimental_volregion":[]},"yanked":false,"links":null}
 {"name":"voladdress","vers":"1.2.0","deps":[],"cksum":"80d15e9800cda653b26e2b309c26a1c9b02b1329ccd4afba23127e9ac6d48928","features":{"experimental_volmatrix":[],"experimental_volregion":[]},"yanked":false,"links":null}
+{"name":"voladdress","vers":"1.2.1","deps":[],"cksum":"002462822ccf22601cb6f1717946d6edd47519f0c1d063c2b6d1fcf3995ffad4","features":{"experimental_volmatrix":[],"experimental_volregion":[]},"yanked":false,"links":null}
