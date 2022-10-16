@@ -2,3 +2,4 @@
 {"name":"presser","vers":"0.2.0","deps":[],"cksum":"d09c50fcacf46e4fbde84cf28b1db515806551704839941630cb0550f1def601","features":{"default":[]},"yanked":false,"links":null}
 {"name":"presser","vers":"0.2.1","deps":[],"cksum":"b6971cdc19ff95396ffa58ea668a93c5002ba593d7e6c7dbe1223e550d120856","features":{"default":[]},"yanked":false,"links":null}
 {"name":"presser","vers":"0.3.0","deps":[],"cksum":"60ba6402b76020409e55b48f3415dfb64b73bb2eed51546f4f83252b5806e8ff","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"presser","vers":"0.3.1","deps":[],"cksum":"e8cf8e6a8aa66ce33f63993ffc4ea4271eb5b0530a9002db8455ea6050c77bfa","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
