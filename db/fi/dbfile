@@ -4,3 +4,4 @@
 {"name":"dbfile","vers":"0.1.4","deps":[{"name":"postgres","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"298769aae414e6853001355cdf4313507b327371dc384fdcdf80a644b34674a1","features":{},"yanked":false,"links":null}
 {"name":"dbfile","vers":"0.1.5","deps":[{"name":"postgres","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"352397fb70fc7c51517fd31a5f864305e80db8bb3f528cd6b1a11077212cccd0","features":{},"yanked":false,"links":null}
 {"name":"dbfile","vers":"0.1.50","deps":[],"cksum":"8dc2a08dfb163201e2b96b1733dc00b07e5c65212173adead312053a746a7bfb","features":{},"yanked":false,"links":null}
+{"name":"dbfile","vers":"0.1.51","deps":[],"cksum":"e25d91d0bebf13821864d9f4219a5ac0323c2203a8d7c1f35ee96d9c59be0065","features":{},"yanked":false,"links":null}
