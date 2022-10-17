@@ -7,3 +7,4 @@
 {"name":"emojis","vers":"0.3.0","deps":[],"cksum":"2ac4fbb37eb4475f3d4dc48750c6864a330a6fa413bbe48fb5359db1fa71672c","features":{},"yanked":false,"links":null}
 {"name":"emojis","vers":"0.4.0","deps":[],"cksum":"3fdc0036e5881a30eec779c55ac7b4bf54eedc3c72ddc8d02c2a580c43b1c9ba","features":{},"yanked":false,"links":null}
 {"name":"emojis","vers":"0.5.0","deps":[{"name":"phf","req":"^0.11.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7a650f1b7e0c13cc2906512fcc18d08c5c8390f54c5f0a9accc954fc70aa89cc","features":{},"yanked":false,"links":null}
+{"name":"emojis","vers":"0.5.1","deps":[{"name":"phf","req":"^0.11.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9ead44dd678357b58cd25402e05d28808629ca547b1287ce521567da8381c255","features":{},"yanked":false,"links":null}
