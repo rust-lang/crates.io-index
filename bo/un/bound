@@ -4,3 +4,4 @@
 {"name":"bound","vers":"0.2.2","deps":[],"cksum":"a1bbe17b4bf34ae9e4313b0313979ee1cafc2a2ddf6f0191704e62b0129b40c4","features":{},"yanked":false,"links":null}
 {"name":"bound","vers":"0.2.3","deps":[],"cksum":"19538216efa80e1f3f9fda29f447ac4dfdbb52432c4f1388092d79986e83dacd","features":{},"yanked":false,"links":null}
 {"name":"bound","vers":"0.3.0","deps":[{"name":"async-lock","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"033b16e419ec96b27f101c3b22abcd896517eda96be9605bb2b93d02becda5e3","features":{},"yanked":false,"links":null}
+{"name":"bound","vers":"0.3.1","deps":[{"name":"async-lock","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ffe6d1ebc40c26e0bdff812430508e0149998b238825bd7fc195eec6e53fc75","features":{},"yanked":false,"links":null}
