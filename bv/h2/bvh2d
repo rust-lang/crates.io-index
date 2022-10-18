@@ -1,1 +1,2 @@
 {"name":"bvh2d","vers":"0.1.0","deps":[{"name":"glam","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f025afcc17ee85cfe2b8f238537c9469c458d647cd706f9afa6a1c5bc799b59d","features":{},"yanked":true,"links":null}
+{"name":"bvh2d","vers":"0.1.1","deps":[{"name":"glam","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"257e7ebe0a16e26c5ed429dc1a1c6d1a1e3ca72a10fd3879b90f4936e2ca7de4","features":{},"yanked":false,"links":null}
