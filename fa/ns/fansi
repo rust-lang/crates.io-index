@@ -1,0 +1,1 @@
+{"name":"fansi","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.4","features":["consoleapi","errhandlingapi","fileapi","handleapi","processenv"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"1f4b0b6e8ff28573f9055ade5113963e2343bb40f8644eeb7bf6f5b8732f65f7","features":{},"yanked":false,"links":null}
