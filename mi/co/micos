@@ -1,2 +1,2 @@
 {"name":"micos","vers":"0.0.0","deps":[],"cksum":"067f3ba363a186802061210c2247372b59455f71bdbaf446bab7c3a3d49b443a","features":{},"yanked":false,"links":null}
-{"name":"micos","vers":"0.0.1","deps":[{"name":"clap","req":"^4.0.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bd80137724b37f76cddbeafdd0da5f0b3cd0d0e8e672b5649c0158ccae69cd0","features":{},"yanked":false,"links":null}
+{"name":"micos","vers":"0.0.1","deps":[{"name":"clap","req":"^4.0.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bd80137724b37f76cddbeafdd0da5f0b3cd0d0e8e672b5649c0158ccae69cd0","features":{},"yanked":true,"links":null}
