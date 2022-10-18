@@ -1,0 +1,1 @@
+{"name":"knitro_rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0d1411cc935b7fba2842fb69ea734351346a31a1ecd96bb9e1a71f3e00a3e2e6","features":{"knitro_12":[],"knitro_13":[]},"yanked":false,"links":null}
