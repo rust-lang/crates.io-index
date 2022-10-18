@@ -8,3 +8,4 @@
 {"name":"thunderdome","vers":"0.4.2","deps":[],"cksum":"f685624f172cd0bde6f3363412455e81c018f2379fdf5a218e0be003f1bba642","features":{},"yanked":false,"links":null}
 {"name":"thunderdome","vers":"0.5.0","deps":[],"cksum":"96a9a179aa66a1c46d9826574a90db167331aa4613d504de6dfdf1cec795c56b","features":{},"yanked":false,"links":null}
 {"name":"thunderdome","vers":"0.5.1","deps":[],"cksum":"8d6b9fe17d23b75b530ce4e6bbd73adb5aa7bbab59ac1c4166224029094c31f5","features":{},"yanked":false,"links":null}
+{"name":"thunderdome","vers":"0.6.0","deps":[],"cksum":"6622a25a2ebb440f5de09ab4aa507c3a539f77c891d1dfc95a52c35fd58a5621","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
