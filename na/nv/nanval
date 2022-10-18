@@ -1,2 +1,3 @@
 {"name":"nanval","vers":"0.1.0","deps":[],"cksum":"927eeeff1354652a3363962fe76732cbf4b6ac7dd49cea8d6bfdf6501db9d7ae","features":{},"yanked":false,"links":null}
 {"name":"nanval","vers":"0.1.1","deps":[],"cksum":"9dbd3113da5fd81655e5815f152329055a65da85ace5a94ff1d50c9ba7282bca","features":{},"yanked":false,"links":null}
+{"name":"nanval","vers":"0.2.0","deps":[],"cksum":"1c1d4853544fa34074cbe90a40da48a925560c4bb0f89ec79cef8f20c937f4ee","features":{"cell":[],"default":["std","cell"],"std":[]},"yanked":false,"links":null}
