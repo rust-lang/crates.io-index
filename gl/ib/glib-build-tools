@@ -1,1 +1,2 @@
 {"name":"glib-build-tools","vers":"0.0.0","deps":[],"cksum":"f64192f2ad968b113af94703f11aae6dbbd59bd524836aef9fd48533ffcbb373","features":{},"yanked":false,"links":null}
+{"name":"glib-build-tools","vers":"0.1.0","deps":[{"name":"gio","req":"^0.16","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80d7ce4cc7a44d4f353dba27dbd508749066748e5cbfee612cd34799a42ae193","features":{"dox":["gio","gio/dox"]},"yanked":false,"links":null}
