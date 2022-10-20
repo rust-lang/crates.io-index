@@ -1,0 +1,1 @@
+{"name":"makepad-example-fractal-zoom","vers":"0.3.0","deps":[{"name":"makepad-widgets","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c98dcf460b5f9f510ec195b528debead00bb2532b0e9cd8ee4db485696ed209","features":{"nightly":["makepad-widgets/nightly"]},"yanked":false,"links":null}
