@@ -1,1 +1,2 @@
 {"name":"spat","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aa71a91e2085e659f087aca4d77150a575089fc59cfbc8c9fc9c6f01af94c51","features":{},"yanked":false,"links":null}
+{"name":"spat","vers":"0.1.1","deps":[{"name":"clap","req":"^3.2","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0133333fc48efe123cc87386b57386b32a59a81452a362166562fa7380456b54","features":{},"yanked":false,"links":null}
