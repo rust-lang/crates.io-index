@@ -1,1 +1,2 @@
 {"name":"edfsm","vers":"0.5.0","deps":[{"name":"event-driven-macros","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8561e6f8e47186d083381aae4e1cba218249be33bfe5a0bb9de6ed5240617ef","features":{},"yanked":true,"links":null}
+{"name":"edfsm","vers":"0.5.1","deps":[{"name":"event-driven-macros","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d85368037fbb1eeee97f92fa95ae077efed2e5eb69b26a3b5af4b3801cc223b","features":{},"yanked":false,"links":null}
