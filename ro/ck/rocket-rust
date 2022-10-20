@@ -1,2 +1,3 @@
 {"name":"rocket-rust","vers":"0.1.0","deps":[],"cksum":"98a21d8e79d259f8983b2f9a9cd2ca10118597961848c36c63909d35bf1608b7","features":{},"yanked":false,"links":null}
 {"name":"rocket-rust","vers":"0.2.0","deps":[{"name":"reqwest","req":"^0.11.12","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.145","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d636f514d51e1ee1c53cd5881b20bef787b98b9641d971f41bc4435b43aded5","features":{},"yanked":false,"links":null}
+{"name":"rocket-rust","vers":"0.3.0","deps":[],"cksum":"81c972d7072c00740b23e991ce72837b56f93c91f475d993166670b6c9d079f2","features":{},"yanked":false,"links":null}
