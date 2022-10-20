@@ -3,3 +3,4 @@
 {"name":"combo_vec","vers":"0.2.0","deps":[],"cksum":"16e22bcc3f2de9ddde72775bb66e6c36c2ce9f8d25f02b6d641dd89c61754d68","features":{},"yanked":false,"links":null}
 {"name":"combo_vec","vers":"0.3.0","deps":[],"cksum":"385351a5bb600b8a03b63d974e7945e017460ebacb3048082bb9759411d5f03d","features":{},"yanked":false,"links":null}
 {"name":"combo_vec","vers":"0.4.0","deps":[],"cksum":"e9322d7b44a2a0afd0c7089b92bb9b00c7c70e6436326ecf9af5e5bb58e4a46b","features":{},"yanked":false,"links":null}
+{"name":"combo_vec","vers":"0.4.1","deps":[{"name":"criterion","req":"^0.4.0","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"56394eb9bf4ad3c3c982b1d04c2aaa2845c4d3a7c6c6b8f366fde9811263e460","features":{},"yanked":false,"links":null}
