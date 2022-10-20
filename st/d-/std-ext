@@ -1,1 +1,2 @@
 {"name":"std-ext","vers":"0.1.0","deps":[],"cksum":"c3b007946c768a2bd2b37327ee10aa77ce53dee097c3897a3452a960e3c6e37e","features":{},"yanked":false,"links":null}
+{"name":"std-ext","vers":"0.1.1","deps":[{"name":"async-lock","req":"^2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19c8f501a347180a02c220eae2125c6e48306698fa483507132f68ea6ef95716","features":{},"yanked":false,"links":null}
