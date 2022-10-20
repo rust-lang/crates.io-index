@@ -1,0 +1,1 @@
+{"name":"makepad-shader-compiler","vers":"0.3.0","deps":[{"name":"makepad-live-compiler","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaff6935e4ec396823b9f653facac30478f1cd4f93c5998fb43d15ab0908aa73","features":{"nightly":["makepad-live-compiler/nightly"]},"yanked":false,"links":null}
