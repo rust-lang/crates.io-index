@@ -1,1 +1,2 @@
 {"name":"omnipath","vers":"0.0.0","deps":[],"cksum":"fbdf014c866ce5593c9480bf694e6ebad05af94941a2d77923ce73d09b6dbd8d","features":{},"yanked":false,"links":null}
+{"name":"omnipath","vers":"0.1.0","deps":[],"cksum":"2e1ca6825a58b7fb353c4f760bcdfe4ed6542a8d180a8cb9de70088e7aae3e81","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
