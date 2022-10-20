@@ -28,3 +28,4 @@
 {"name":"futures-io","vers":"0.3.22","deps":[],"cksum":"7c29fc296f6934b40006a06bead167d4109ea71e8e7386794158f61e463aad61","features":{"std":[],"default":["std"],"unstable":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.23","deps":[],"cksum":"93a66fc6d035a26a3ae255a6d2bca35eda63ae4c5512bef54449113f7a1228e5","features":{"std":[],"default":["std"],"unstable":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.24","deps":[],"cksum":"bbf4d2a7a308fd4578637c0b17c7e1c7ba127b8f6ba00b29f717e9655d85eb68","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"links":null}
+{"name":"futures-io","vers":"0.3.25","deps":[],"cksum":"00f5fb52a06bdcadeb54e8d3671f8888a39697dcb0b81b23b55174030427f4eb","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"links":null}
