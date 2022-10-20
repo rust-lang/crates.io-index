@@ -1,0 +1,1 @@
+{"name":"prime-iter","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3417502e5e8cc7d07a96a2efaa63ae1348fe201975a1c83e9c291e19b8b82094","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
