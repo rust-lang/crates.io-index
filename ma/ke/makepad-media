@@ -1,0 +1,1 @@
+{"name":"makepad-media","vers":"0.3.0","deps":[{"name":"makepad-platform","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04b30b154ed039ca938a16b846a3f99dc9fb3d4652daf84ce4bc82db81339f5e","features":{"nightly":["makepad-platform/nightly"]},"yanked":false,"links":null}
