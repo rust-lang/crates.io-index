@@ -1,0 +1,1 @@
+{"name":"makepad-derive-wasm-bridge","vers":"0.3.0","deps":[{"name":"makepad-micro-proc-macro","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00c45c7c44fa4d1662c2c39b325a6b104974747cfdf87c9f527540000b571b40","features":{"default":["nightly"],"nightly":[]},"yanked":false,"links":null}
