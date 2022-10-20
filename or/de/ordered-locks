@@ -1,1 +1,2 @@
 {"name":"ordered-locks","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.12.0","features":["sync"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03388fa3a5212a7d4bea1b1e46579194152d05cd296160061dab8f81e063e88c","features":{},"yanked":false,"links":null}
+{"name":"ordered-locks","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.12.0","features":["sync"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a300402deff41977e045760a8dc1238b99d12158920a740b2ebbb21a4a06415","features":{},"yanked":false,"links":null}
