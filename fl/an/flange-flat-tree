@@ -4,3 +4,4 @@
 {"name":"flange-flat-tree","vers":"0.1.3","deps":[],"cksum":"2a3a16c5cf48dd32be6b942b79ac84afe0d9f6302c82db936caadbe3344cc1b4","features":{},"yanked":false,"links":null}
 {"name":"flange-flat-tree","vers":"0.2.0","deps":[],"cksum":"59650d446a354bea8180cc995103bc64cfcc97e18158c4b5060187d25e0cc6f0","features":{},"yanked":false,"links":null}
 {"name":"flange-flat-tree","vers":"0.2.1","deps":[],"cksum":"5bc493994d8ed2ad1bdbfff62b79a457b5a852a2d26cd64286f8e69084a2b55f","features":{},"yanked":false,"links":null}
+{"name":"flange-flat-tree","vers":"0.2.2","deps":[{"name":"cargo-readme","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"100e7b30c9d75f1ed57ea87d4ab02496467e6426a7fbbb275e9e99cf7348014b","features":{},"yanked":false,"links":null}
