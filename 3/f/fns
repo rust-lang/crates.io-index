@@ -1,3 +1,4 @@
 {"name":"fns","vers":"0.0.1","deps":[],"cksum":"7036694b6fe52a01ff10a90399316d8017b7ae89297815061f2851a87f919205","features":{},"yanked":false,"links":null}
 {"name":"fns","vers":"0.0.2","deps":[],"cksum":"881b9d47c45a817bfab080a21587e4b5a6b9e8df681b4e821541fec9718bd95e","features":{},"yanked":false,"links":null}
 {"name":"fns","vers":"0.0.3","deps":[],"cksum":"5002e2432327a6e21368cd9b33d151f6b407299aed43576169d52b14d9edba3a","features":{},"yanked":false,"links":null}
+{"name":"fns","vers":"0.0.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4555fa47d93caa60c3b81c61a6ae59ced4d061b7cd0d94a9a0a5513f55c7e316","features":{},"yanked":false,"links":null}
