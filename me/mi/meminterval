@@ -1,1 +1,2 @@
 {"name":"meminterval","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4bd29f5f51e0f6c3ef47f5d7dfa81911a4badbf1402ac21bc6008783c8b4d26b","features":{},"yanked":false,"links":null}
+{"name":"meminterval","vers":"0.2.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eedf80a67d6479703120aebbc3454a088cdc5c14122368663bebdc2de2f94bca","features":{},"yanked":false,"links":null}
