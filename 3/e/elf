@@ -12,3 +12,4 @@
 {"name":"elf","vers":"0.0.12","deps":[],"cksum":"4b9c86cae88373e32c872967c296dcdd3b25771dcc7da1c4ba060b4a68fd8db7","features":{},"yanked":false,"links":null}
 {"name":"elf","vers":"0.1.0","deps":[],"cksum":"843028ba5ad08ee96716a1fc43b861837be1bc7a87fc0c6aa659ca5ddea6ee48","features":{},"yanked":false,"links":null}
 {"name":"elf","vers":"0.2.0","deps":[],"cksum":"aa20857ae79d7c4eac2c8c4821a749aa32d3b3f27faaf454c52a00349ea3702c","features":{},"yanked":false,"links":null}
+{"name":"elf","vers":"0.3.0","deps":[],"cksum":"5b1730300ab7a73981fad05d0b23476474af53b33604eb6da728bee1165aed23","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
