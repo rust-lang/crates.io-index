@@ -1,1 +1,2 @@
 {"name":"basehan","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0.17","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ac94c16659813e39168f3a7de9f72eeb7721fa5adfe6e6e471ddd968d659c2d","features":{},"yanked":false,"links":null}
+{"name":"basehan","vers":"0.1.2","deps":[{"name":"clap","req":"^4.0.17","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6407f5e0d5fef6d78cce95f8d1d78e0db725c307cf213814a8cfb4f0a98e03cc","features":{},"yanked":false,"links":null}
