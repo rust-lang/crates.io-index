@@ -1,3 +1,4 @@
 {"name":"gamedig","vers":"0.0.0","deps":[],"cksum":"6ac039bb21a2a0cb541e662689b6c16ba40076505a77382f0e0f7ef0ed1d0809","features":{},"yanked":true,"links":null}
 {"name":"gamedig","vers":"0.0.1","deps":[],"cksum":"36760c13309d7760fc1a8db1d86cff40a5253985dbe468d80136b67426f45d97","features":{},"yanked":true,"links":null}
 {"name":"gamedig","vers":"0.0.2","deps":[],"cksum":"4c27020694a304edb2801a85b96e6fd2856b7c30506e1e2b68cc2707477bea70","features":{},"yanked":false,"links":null}
+{"name":"gamedig","vers":"0.0.3","deps":[{"name":"bzip2-rs","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"crc32fast","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a6c3191c3969971dc46f9c26fc98a62d5716808bec6c53f4e8816e4484e21cc","features":{},"yanked":false,"links":null}
