@@ -1,1 +1,2 @@
 {"name":"wordmarkov","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1395c1459e0f068ff92ca2955a7d592d775103a575532d5edcc86c48ad5ba16","features":{},"yanked":false,"links":null}
+{"name":"wordmarkov","vers":"0.1.0-r1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b513442c0f6faf7d0ddb4e48a306734188d8b8ae633b0667f6c339c72cd6ab89","features":{},"yanked":false,"links":null}
