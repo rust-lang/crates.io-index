@@ -1,1 +1,2 @@
 {"name":"ucli","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79e9993806ceaa2d45b39d040fe65bd56f76ac8620235f732a1bbaf8c7d44a1b","features":{},"yanked":false,"links":null}
+{"name":"ucli","vers":"0.2.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"122195af3b09cb4cfbc6a426202adfc3d81fe7048b6e470ad951f790a08d559d","features":{},"yanked":false,"links":null}
