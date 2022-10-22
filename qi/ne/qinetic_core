@@ -1,2 +1,3 @@
 {"name":"qinetic_core","vers":"0.1.0","deps":[],"cksum":"a7257636a73ee8433d2e1ba6fd83f76cd9661cec51e021c08107a61e533d013a","features":{},"yanked":false,"links":null}
 {"name":"qinetic_core","vers":"0.1.1","deps":[{"name":"qinetic_app","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"314a22cfd9e50e5bd4d5fd30bc1d0987cb9cf4978ee0a27d3564f2956aba04a4","features":{},"yanked":false,"links":null}
+{"name":"qinetic_core","vers":"0.1.2","deps":[{"name":"qinetic_app","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df5e9d3b4c7e595b3a33d945047e820bd92f8d625767888040c9ca835d62c99f","features":{},"yanked":false,"links":null}
