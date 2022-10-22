@@ -1,1 +1,2 @@
 {"name":"qinetic_physics","vers":"0.1.0","deps":[{"name":"qinetic_app","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8950aa38ecf438de0650586b394c73e1ede9ed6e5a6113ba816819334a3dcb80","features":{},"yanked":false,"links":null}
+{"name":"qinetic_physics","vers":"0.1.1","deps":[{"name":"qinetic_app","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80d546f4d9dbc8915e2d06f9e1855435aaa1f02c7bac5a3de017899f949afc5c","features":{},"yanked":false,"links":null}
