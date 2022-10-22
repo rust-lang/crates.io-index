@@ -1,1 +1,2 @@
 {"name":"snes_compress","vers":"0.1.0","deps":[{"name":"thiserror","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bda242d29ec6915103f02dfc2d40592b4a2a293c28dc9a974decefbd2948e559","features":{},"yanked":false,"links":null}
+{"name":"snes_compress","vers":"0.1.1","deps":[{"name":"thiserror","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e127af8a002bfcbd585d47db9aa13f60765122378782a678bf15368bbfbc6cc","features":{},"yanked":false,"links":null}
