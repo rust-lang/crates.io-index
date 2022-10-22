@@ -1,1 +1,2 @@
 {"name":"qinetic_audio","vers":"0.1.0","deps":[{"name":"qinetic_app","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79ae84a941c44f8c1aeea3fe2610de235b5bb438dbe125083e0ca0884a8d9de9","features":{},"yanked":false,"links":null}
+{"name":"qinetic_audio","vers":"0.1.1","deps":[{"name":"qinetic_app","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01c85488dbd519f8052e401da7bbaf7efa65f2a6ada37fda1b2fefe5ca4aebf2","features":{},"yanked":false,"links":null}
