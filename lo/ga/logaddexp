@@ -1,1 +1,2 @@
 {"name":"logaddexp","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62dc6f96d8f40d68f3f329624dcb4b95847dcd3ee3f43456cd13d3c855b25bba","features":{},"yanked":false,"links":null}
+{"name":"logaddexp","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25958fead7442dae498f9d2d54223b763cf219523dc1490e154b9e645dbfe24d","features":{},"yanked":false,"links":null}
