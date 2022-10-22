@@ -1,1 +1,2 @@
 {"name":"qinetic_window","vers":"0.1.0","deps":[{"name":"qinetic_app","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28abbf02a0bfb14232bae5ac2974b1de7f1fb20fc14e3a9feb6788aad7f9fb02","features":{},"yanked":false,"links":null}
+{"name":"qinetic_window","vers":"0.1.1","deps":[{"name":"qinetic_app","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4c5fca188429acf93241b101e1790f29b599720d212f0aaa58656e74cc0e428","features":{},"yanked":false,"links":null}
