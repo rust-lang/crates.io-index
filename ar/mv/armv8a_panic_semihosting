@@ -1,0 +1,1 @@
+{"name":"armv8a_panic_semihosting","vers":"0.0.1","deps":[{"name":"armv8a_semihosting","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd0544340353e49541c854e053c43cfc1853755d36366aaee230c8b7652bd39f","features":{"default":["info"],"info":[]},"yanked":false,"links":null}
