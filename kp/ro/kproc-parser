@@ -1,1 +1,2 @@
 {"name":"kproc-parser","vers":"0.0.1-alpla.1","deps":[],"cksum":"3e413a081869e72bc68c447c80abf8139af012493cad22bd28ec542b40f38fa4","features":{},"yanked":false,"links":null}
+{"name":"kproc-parser","vers":"0.0.1-alpla.2","deps":[{"name":"proc-macro2","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f69a1daf03aa5696a69c5d3e81d5551f5de15fd91e31d2cf66877792cd591a81","features":{},"yanked":false,"links":null}
