@@ -1,1 +1,2 @@
 {"name":"autohide-tdrop","vers":"1.0.0","deps":[{"name":"breadx","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66dee035ab4aa3010b418826f934aa446de55c35bc2fd2d51b4c4b2c2e7291b7","features":{},"yanked":false,"links":null}
+{"name":"autohide-tdrop","vers":"1.0.1","deps":[{"name":"breadx","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a6782d54f3c6850adee54ad6a10785c072c58d90632fa73a31ffdd346cf3b59","features":{},"yanked":false,"links":null}
