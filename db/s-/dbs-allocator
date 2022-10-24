@@ -1,1 +1,2 @@
 {"name":"dbs-allocator","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92a384ac9bd9c22c486c7a66e68cdc6cd504da7793b69bd891f3d85070c999b6","features":{},"yanked":false,"links":null}
+{"name":"dbs-allocator","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"543711b94b4bc1437d2ebb45f856452e96a45a67ab39f8dcf8c887c2a3701004","features":{},"yanked":false,"links":null}
