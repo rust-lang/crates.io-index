@@ -8,3 +8,4 @@
 {"name":"time-macros","vers":"0.2.2","deps":[],"cksum":"72c7ca5e81982d152f0788b131ebf96cc4bbd1b4575a7ed51f0f6fc866a05fdb","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.3","deps":[],"cksum":"25eb0ca3468fc0acc11828786797f6ef9aa1555e4a211a60d64cc8e4d1be47d6","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.4","deps":[],"cksum":"42657b1a6f4d817cda8e7a0ace261fe0cc946cf3a80314390b22cc61ae080792","features":{"large-dates":[]},"yanked":false,"links":null}
+{"name":"time-macros","vers":"0.2.5","deps":[{"name":"time-core","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65bb801831d812c562ae7d2bfb531f26e66e4e1f6b17307ba4149c5064710e5b","features":{"formatting":[],"large-dates":[],"parsing":[],"serde":[]},"yanked":false,"links":null}
