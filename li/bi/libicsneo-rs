@@ -1,1 +1,2 @@
 {"name":"libicsneo-rs","vers":"0.1.0","deps":[{"name":"libicsneo-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d7d02abbcc347ec29825fa555b610ec07d1934ec23c9993463f5c719041f4fb","features":{},"yanked":false,"links":null}
+{"name":"libicsneo-rs","vers":"0.1.1","deps":[{"name":"libicsneo-sys","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf4469653b8a3ad3fda035c1eb0774baeffb6e9c419a283ebfccab0db864989f","features":{},"yanked":false,"links":null}
