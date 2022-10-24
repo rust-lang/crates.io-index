@@ -2,3 +2,4 @@
 {"name":"apdu-core","vers":"0.1.1","deps":[],"cksum":"55ff2a34a910f90ee1272c9805053af6d466a989ff1668fe9eb54c50c577d9f2","features":{},"yanked":false,"links":null}
 {"name":"apdu-core","vers":"0.2.0","deps":[],"cksum":"fcf97ebe3422ff6a7efade376f2093d010cf4df589a9132338ea04e9850a642e","features":{},"yanked":false,"links":null}
 {"name":"apdu-core","vers":"0.2.1","deps":[],"cksum":"1ba34a9f15207c5d020b1275c74019da4ef082fb24c35f28f3635f4954400e7c","features":{},"yanked":false,"links":null}
+{"name":"apdu-core","vers":"0.3.0","deps":[],"cksum":"2823ad1d49febb6ccab92977d90bef38c4f5f82c11d60966873c673833273557","features":{"default":["std"],"longer_payloads":[],"std":[]},"yanked":false,"links":null}
