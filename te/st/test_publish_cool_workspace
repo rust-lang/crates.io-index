@@ -2,3 +2,4 @@
 {"name":"test_publish_cool_workspace","vers":"0.1.1","deps":[],"cksum":"d840d1a79a999999b33b035e5b90d1489590b75c9d9b3c67f74ef1dc26dba15c","features":{},"yanked":false,"links":null}
 {"name":"test_publish_cool_workspace","vers":"0.13.2","deps":[],"cksum":"8136c480b1486ca9e24a0656bb6532bd62cd645075cb7a120043ff28747ba824","features":{},"yanked":false,"links":null}
 {"name":"test_publish_cool_workspace","vers":"0.13.3","deps":[],"cksum":"8fea72cacdf475c14203aa47dfa600d583ce361282ceddbd80227b6c8be5415e","features":{},"yanked":false,"links":null}
+{"name":"test_publish_cool_workspace","vers":"0.13.4","deps":[{"name":"test_publish_cool_workspace_inner","req":"^0.13.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38cd232b863b0993ab4c3aab364d5bb6e9efbcd86905903dd2180075dc91861e","features":{},"yanked":false,"links":null}
