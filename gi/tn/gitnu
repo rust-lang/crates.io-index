@@ -18,3 +18,4 @@
 {"name":"gitnu","vers":"0.2.1","deps":[{"name":"git2","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b1ecd4f6d92131034e0f33a1c282ec32228bcbbf75cfee4693eeea1ebc10e8a","features":{},"yanked":false,"links":null}
 {"name":"gitnu","vers":"0.2.2","deps":[{"name":"git2","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57fa990858ec9b4e8e1e4eba9d5114de4d2df4c76c081315a5ae26437b47276c","features":{},"yanked":false,"links":null}
 {"name":"gitnu","vers":"0.2.3","deps":[],"cksum":"b7fae6cf83365af09853c5d510d63dee3abf0547695659aa04b03878f7f9ed60","features":{},"yanked":false,"links":null}
+{"name":"gitnu","vers":"0.3.1","deps":[],"cksum":"5babb1914a9bd9afe6609ed5ee3f3400548c988c92de4857c47b73b4fbcdf36c","features":{},"yanked":false,"links":null}
