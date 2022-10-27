@@ -1,1 +1,2 @@
 {"name":"ruleasy","vers":"0.1.0","deps":[],"cksum":"b306618ed062c7530bbd986cf1cb0e3f6f3adee9696e26a22065f24c09e1e6d7","features":{},"yanked":false,"links":null}
+{"name":"ruleasy","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef05db546f620812d113ddaf4c2fdcca56f5747a3674f5d44ac71233dd52e1f","features":{},"yanked":false,"links":null}
