@@ -10,3 +10,4 @@
 {"name":"byte-slice-cast","vers":"1.1.0","deps":[],"cksum":"ca0796d76a983651b4a0ddda16203032759f2fd9103d9181f7c65c06ee8872e6","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"byte-slice-cast","vers":"1.2.0","deps":[],"cksum":"1d30c751592b77c499e7bce34d99d67c2c11bdc0574e9a488ddade14150a4698","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"byte-slice-cast","vers":"1.2.1","deps":[],"cksum":"87c5fdd0166095e1d463fc6cc01aa8ce547ad77a4e84d42eb6762b084e28067e","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"byte-slice-cast","vers":"1.2.2","deps":[],"cksum":"c3ac9f8b63eca6fd385229b3675f6cc0dc5c8a5c8a54a59d4f52ffd670d87b0c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
