@@ -15,3 +15,4 @@
 {"name":"elf","vers":"0.3.0","deps":[],"cksum":"5b1730300ab7a73981fad05d0b23476474af53b33604eb6da728bee1165aed23","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.3.1","deps":[],"cksum":"e8e00ab9e2f58f3dee478b89efad020b5286fcc9fd1baac014d8a1fc9d01274a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.4.0","deps":[],"cksum":"c62df5cd2197b4dff3765c5a0de428a6bb9bcfba743e37e0ecc494c13f6c758c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"elf","vers":"0.5.0","deps":[],"cksum":"2245748bd175cc7ef5e596cd9228e6b5aa4146d6a8e26752b12672f8fc36a90b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
