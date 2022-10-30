@@ -1,1 +1,2 @@
 {"name":"remus","vers":"0.1.0","deps":[],"cksum":"8e2cd9d501f378ba53eb3bfbd250abf08dfdc32e7af2f1204ca1748361dc88e2","features":{},"yanked":true,"links":null}
+{"name":"remus","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4534396ab8f620c90fef4f2f479df2b83d4dd1f8ac98bcb3bf85d46f347691d0","features":{},"yanked":false,"links":null}
