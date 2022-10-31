@@ -1,1 +1,2 @@
 {"name":"checksum-tapestry","vers":"0.3.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d067aa8d9443a7d163598ef8db767efe3afdae5a609f5120ea96272104becce","features":{},"features2":{"experiments":["dep:rand"]},"yanked":false,"links":null,"v":2}
+{"name":"checksum-tapestry","vers":"0.4.0","deps":[],"cksum":"5acdb09d54837bab50d5cd2fa0afccde068216ff73c37ff0c157d5b17c653e28","features":{},"yanked":false,"links":null}
