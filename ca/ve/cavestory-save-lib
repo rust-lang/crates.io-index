@@ -4,3 +4,4 @@
 {"name":"cavestory-save-lib","vers":"2.1.0","deps":[],"cksum":"c33443adcebecd90dd67d4f49739238deff323a2ecc9475ae6f51e118bec59f5","features":{},"yanked":false,"links":null}
 {"name":"cavestory-save-lib","vers":"2.2.0","deps":[],"cksum":"5318f47be40291b8ce1d7c4a9a3c5ac60ff75490bb0ee8e41b8f84c48228da9b","features":{},"yanked":false,"links":null}
 {"name":"cavestory-save-lib","vers":"2.3.0","deps":[{"name":"strum","req":"^0.24.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37469d23d2bacf2d3f84fa629b90ce799e6cb628344d64e321afbe0935168f7f","features":{},"yanked":false,"links":null}
+{"name":"cavestory-save-lib","vers":"2.3.2","deps":[{"name":"strum","req":"^0.24.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"941988dc5f3cb95655409f6561d6cc764b4aca9377eb33f6429d88323eb78dcf","features":{},"yanked":false,"links":null}
