@@ -16,3 +16,4 @@
 {"name":"elf","vers":"0.3.1","deps":[],"cksum":"e8e00ab9e2f58f3dee478b89efad020b5286fcc9fd1baac014d8a1fc9d01274a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.4.0","deps":[],"cksum":"c62df5cd2197b4dff3765c5a0de428a6bb9bcfba743e37e0ecc494c13f6c758c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.5.0","deps":[],"cksum":"2245748bd175cc7ef5e596cd9228e6b5aa4146d6a8e26752b12672f8fc36a90b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"elf","vers":"0.6.0","deps":[],"cksum":"6b957e922f072996cf047b3380a7dc4a0263d7df376a76193700d9261b15d83f","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false,"links":null}
