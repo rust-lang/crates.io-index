@@ -1,0 +1,1 @@
+{"name":"enum-ptr","vers":"0.1.0","deps":[{"name":"enum-ptr-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1dd27bbc5226a4f7001ca123ef51a47ada13e0a599fc39878d38e110fd20198","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
