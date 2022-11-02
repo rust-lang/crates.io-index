@@ -1,4 +1,4 @@
-{"name":"libes","vers":"0.1.0","deps":[],"cksum":"300628f8e54183b38f1c52c970b4cfaa872a1a30acac0bfd30bcfb5c35116e44","features":{},"yanked":false,"links":null}
+{"name":"libes","vers":"0.1.0","deps":[],"cksum":"300628f8e54183b38f1c52c970b4cfaa872a1a30acac0bfd30bcfb5c35116e44","features":{},"yanked":true,"links":null}
 {"name":"libes","vers":"0.1.1","deps":[],"cksum":"6430a6e56f4625433c1f6525d5a4166c18c702932d4d467aad857e99f5754184","features":{},"yanked":false,"links":null}
 {"name":"libes","vers":"0.1.2","deps":[],"cksum":"a96e48c93a0acfeee3fabf0b92191171f7e3e25c931989f3404a37ceca3b3809","features":{},"yanked":false,"links":null}
 {"name":"libes","vers":"0.1.3","deps":[],"cksum":"a2200885e9df3a54e060993629cb8e5edfa0987ca7ab4d77ad86f78516a09795","features":{"AES-GCM":[],"HMAC-SHA256":[],"HMAC-SHA512":[],"P-256":["secp256r1"],"P-384":["secp384r1"],"P-521":["secp521r1"],"XChaCha20-Poly1305":[],"ed25519":[],"secp256r1":[],"secp384r1":[],"secp521r1":[],"x25519":[]},"yanked":false,"links":null}
