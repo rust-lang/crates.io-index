@@ -1,1 +1,2 @@
 {"name":"egui_file","vers":"0.2.0","deps":[{"name":"egui","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51f31ba662c5b53ffaac30719dd08eee4a97f48385d71ac9632b701dceb2b5c5","features":{},"yanked":false,"links":null}
+{"name":"egui_file","vers":"0.3.0","deps":[{"name":"egui","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48f9968a62bd050016d7eb304a98275c6e8d20845070b8f6d2d05ad97c49e1a2","features":{},"yanked":false,"links":null}
