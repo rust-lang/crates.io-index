@@ -5,3 +5,4 @@
 {"name":"windows-media","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"be811c7e4f04b41ab98f7d49636e67bdbb91dd0cc3f5919cbfe1905bcb39d4fa","features":{},"yanked":false,"links":null}
 {"name":"windows-media","vers":"0.22.5","deps":[],"cksum":"9e19b8e5ee5ec8ef7e7f2619941e9000666f25538d9ea7cae2ef3881574765f1","features":{},"yanked":false,"links":null}
 {"name":"windows-media","vers":"0.22.6","deps":[],"cksum":"98b11e6ddc20187fb9987e54b1dffcc4a6c70fc2081f28e165489419d54c9e94","features":{},"yanked":false,"links":null}
+{"name":"windows-media","vers":"0.23.0","deps":[],"cksum":"9df32bdae05c2f5d7146abfd68c768c9f822f6f54d955d78ee197904bc3f150c","features":{},"yanked":false,"links":null}
