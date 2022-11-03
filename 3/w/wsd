@@ -1,3 +1,4 @@
 {"name":"wsd","vers":"0.0.0","deps":[],"cksum":"e9e113295dd1b580bad47a3f9ed0d0949a39ea71cf1f95bb357da3e943a65497","features":{},"yanked":false,"links":null}
 {"name":"wsd","vers":"0.0.1","deps":[],"cksum":"49a5200048f18348094575b4fd1ec65417a53c9773399611a38994113d0027b8","features":{},"yanked":false,"links":null}
 {"name":"wsd","vers":"0.0.2","deps":[],"cksum":"ea1f65a23d537a309f5965964a65896b14c7ba890b083101b8b851f8b1117da9","features":{},"yanked":false,"links":null}
+{"name":"wsd","vers":"0.0.3","deps":[{"name":"reqwest","req":"^0.11","features":["blocking","json","gzip"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa550f7b64d6a1e98b94055271e0fed14586d6006bd956a518d1084d8f3a8e13","features":{},"yanked":false,"links":null}
