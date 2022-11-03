@@ -5,3 +5,4 @@
 {"name":"windows-networking","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5082a4f6156ed6b6629dbdbf1c6081ca13443f11c49fc9ceb32a457106e08de2","features":{},"yanked":false,"links":null}
 {"name":"windows-networking","vers":"0.22.5","deps":[],"cksum":"92711f466591f6127caf4bdb6347ec34d816c0d62d62f891443d25a8de5d9235","features":{},"yanked":false,"links":null}
 {"name":"windows-networking","vers":"0.22.6","deps":[],"cksum":"54d562ae1563e6d38978b328c8177beeb2dd6c50c1aedfcba6839a33a6a85e82","features":{},"yanked":false,"links":null}
+{"name":"windows-networking","vers":"0.23.0","deps":[],"cksum":"d53bd708663a8df4bacff3702627364d8d0c5a41a3ac83bf3e7a80bdbd74e3bd","features":{},"yanked":false,"links":null}
