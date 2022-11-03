@@ -5,3 +5,4 @@
 {"name":"windows-perception","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"374ad500ae6e47f21090de3e13457c370c402b6953a32e10f11d5896b7d5c3a7","features":{},"yanked":false,"links":null}
 {"name":"windows-perception","vers":"0.22.5","deps":[],"cksum":"c76c99ec2debdbf33b7966cd92e7bce2692169ab6273d1161ac199ba74a38fe7","features":{},"yanked":false,"links":null}
 {"name":"windows-perception","vers":"0.22.6","deps":[],"cksum":"83106a694747bc02a963a7037e096ec4d621b0a563f80f2d39a2feb023901a3f","features":{},"yanked":false,"links":null}
+{"name":"windows-perception","vers":"0.23.0","deps":[],"cksum":"691ce597907005910e656b27d0ff8716d8beb1177f7f2063cb60285978efe1ae","features":{},"yanked":false,"links":null}
