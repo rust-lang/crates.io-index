@@ -5,3 +5,4 @@
 {"name":"windows-gaming","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"883352d3fcedff93685d8349bb0628dd08265c91f1b7fc7dc69d78c7b1fcc763","features":{},"yanked":false,"links":null}
 {"name":"windows-gaming","vers":"0.22.5","deps":[],"cksum":"e9eacb3464e2fa189533069af497626b74759bdd50073051a4429074399a2b94","features":{},"yanked":false,"links":null}
 {"name":"windows-gaming","vers":"0.22.6","deps":[],"cksum":"834a79fda5cab91bd9802b4cc05ec138344090f2f70f51991dfaaeabec25bcab","features":{},"yanked":false,"links":null}
+{"name":"windows-gaming","vers":"0.1.0","deps":[],"cksum":"cb7174b4b071f7fc2830e27a42befa76f182a57aca87ca21d8e99a1b5f21bb2c","features":{},"yanked":false,"links":null}
