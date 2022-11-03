@@ -5,3 +5,4 @@
 {"name":"windows-phone","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cde008477c64a8cf646cef2f06c25b40894e584356c8ff657d455b6ee97c139f","features":{},"yanked":false,"links":null}
 {"name":"windows-phone","vers":"0.22.5","deps":[],"cksum":"c30ad7267e806d346159d15155b91ac63134ef9b59c52054c017ea8ada985594","features":{},"yanked":false,"links":null}
 {"name":"windows-phone","vers":"0.22.6","deps":[],"cksum":"20371bfb7be979f08bf2a1ca8ab3b161e3c71d765377c8a8b04b415091b4954c","features":{},"yanked":false,"links":null}
+{"name":"windows-phone","vers":"0.23.0","deps":[],"cksum":"149000dd8bf23654e83cc1d5d0509e13e3ae528fff413458d716ae67ff24bbcd","features":{},"yanked":false,"links":null}
