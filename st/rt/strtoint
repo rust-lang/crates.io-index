@@ -1,0 +1,1 @@
+{"name":"strtoint","vers":"0.1.0-alpha","deps":[{"name":"test-case","req":"^2.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9d78ff27b30e2cb9b0e4f23eff17c0932d2f33264091ada22680eb339f30d9ff","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
