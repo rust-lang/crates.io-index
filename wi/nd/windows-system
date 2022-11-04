@@ -5,3 +5,4 @@
 {"name":"windows-system","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5fa96ed790136f0df37d595eb42e90042641f11e8e69908013ac2758f54d6766","features":{},"yanked":false,"links":null}
 {"name":"windows-system","vers":"0.22.5","deps":[],"cksum":"81d07c8849b1704d09f6c55c73be8ef574431557b773255ba6e10c47cb5e283d","features":{},"yanked":false,"links":null}
 {"name":"windows-system","vers":"0.22.6","deps":[],"cksum":"55ed2bf89aff408b1f0129961f59d569ede1a0536a221c979759b317afc33ef1","features":{},"yanked":false,"links":null}
+{"name":"windows-system","vers":"0.23.0","deps":[],"cksum":"8f85f774442f4b35fc996a5d228dd863736d8c42453d315d2e50204e38b81e08","features":{},"yanked":false,"links":null}
