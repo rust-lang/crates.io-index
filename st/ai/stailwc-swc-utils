@@ -1,0 +1,1 @@
+{"name":"stailwc-swc-utils","vers":"0.8.0","deps":[{"name":"swc_core","req":"=0.40.16","features":["common","ecma_visit","ecma_ast"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"031dab69e362ab32d0846689b2ee4eb5bb3169a29eaa30511b413272b36e0711","features":{},"yanked":false,"links":null}
