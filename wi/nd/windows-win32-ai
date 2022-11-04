@@ -3,3 +3,4 @@
 {"name":"windows-win32-ai","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e5e6f5f0fc16e093e71dfc42157c885feea16ed846ab4000d0ace3406c63db4c","features":{},"yanked":false,"links":null}
 {"name":"windows-win32-ai","vers":"0.22.5","deps":[],"cksum":"f4d16f947fa0f61c086b208457c6f22aebb3bcf3eb9bbbae867ae8318fb3fb7d","features":{},"yanked":false,"links":null}
 {"name":"windows-win32-ai","vers":"0.22.6","deps":[],"cksum":"c05eb6246d3974f0e53ee235eba5439fa07ac003a74aca72e898dfb19e84db75","features":{},"yanked":false,"links":null}
+{"name":"windows-win32-ai","vers":"0.23.0","deps":[],"cksum":"4cb5e096729d0da4e23935a5b5ad1ef572101d8c6cb74e86e07b7009a773ee6c","features":{},"yanked":false,"links":null}
