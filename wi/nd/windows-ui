@@ -5,3 +5,4 @@
 {"name":"windows-ui","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd0853a68177f631db1704b559f547241c275059f3faf91bf75313eacfbab810","features":{},"yanked":false,"links":null}
 {"name":"windows-ui","vers":"0.22.5","deps":[],"cksum":"c41641a1c11b64b45fdab473f42ebaa27a7f88b3817507e5a23e5bce11e3c0a6","features":{},"yanked":false,"links":null}
 {"name":"windows-ui","vers":"0.22.6","deps":[],"cksum":"04b39ae7e26ef115f9cccf9aa66156929f7db82b8e3de39671eaa29135c39b60","features":{},"yanked":false,"links":null}
+{"name":"windows-ui","vers":"0.23.0","deps":[],"cksum":"54a8d3d63692e6b233c25abb3e8a92599525e715be81fd5f14e6bc8e8ffff430","features":{},"yanked":false,"links":null}
