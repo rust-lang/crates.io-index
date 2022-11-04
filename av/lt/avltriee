@@ -19,7 +19,7 @@
 {"name":"avltriee","vers":"0.11.4","deps":[{"name":"rustc-hash","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6f4a7acd8daa0f6a4ca5110d29c0496482b62759cd70a321444850cb9fce3542","features":{},"yanked":true,"links":null}
 {"name":"avltriee","vers":"0.12.0","deps":[],"cksum":"9413fcd111c4c2f5b4102b7d91897b9e46ac26c26594b03c0f87622475096304","features":{},"yanked":true,"links":null}
 {"name":"avltriee","vers":"0.13.0","deps":[],"cksum":"ec87aae89071c563425964bde62a87380958b30159c7660c94a50153a8a8b16f","features":{},"yanked":true,"links":null}
-{"name":"avltriee","vers":"0.13.1","deps":[],"cksum":"cc872af6e3a3da6705ebbd634ed81932f0dfd781148cff758f24da2fae39674d","features":{},"yanked":false,"links":null}
+{"name":"avltriee","vers":"0.13.1","deps":[],"cksum":"cc872af6e3a3da6705ebbd634ed81932f0dfd781148cff758f24da2fae39674d","features":{},"yanked":true,"links":null}
 {"name":"avltriee","vers":"0.14.0","deps":[],"cksum":"b9ca16a98bacb5fd49de50b8136c88dc27d1c8ee10fe7401f49df8c760eeecd1","features":{},"yanked":false,"links":null}
 {"name":"avltriee","vers":"0.14.1","deps":[],"cksum":"2475b471408a7068be5e2ab697c003aafaf91ec64e4472c547862fc732401d11","features":{},"yanked":false,"links":null}
 {"name":"avltriee","vers":"0.14.2","deps":[],"cksum":"67ab65405c876bda8cdae1b1c5592bbcb4872f9c5aa3eba7980648cab33abe4d","features":{},"yanked":false,"links":null}
