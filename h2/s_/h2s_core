@@ -1,1 +1,2 @@
 {"name":"h2s_core","vers":"0.1.0","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6509f124f9f42499c8b2bccfd6d571cc5a13bde4c3f5d67b7be38e582827ddca","features":{},"yanked":false,"links":null}
+{"name":"h2s_core","vers":"0.1.1","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"42dee61c75d835f3f393a5154748cb45b74e27a848375c42332384a68e1bb3f4","features":{},"yanked":false,"links":null}
