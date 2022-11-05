@@ -1,1 +1,2 @@
 {"name":"sv_str","vers":"1.0.0","deps":[{"name":"lazy-regex","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a6289e3c786e3f9892dd741cc60fcc119e02fba25d0980300fe1300c1b80e45","features":{},"yanked":false,"links":null}
+{"name":"sv_str","vers":"1.0.1","deps":[{"name":"lazy-regex","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a1c3df8c2efb1cc6cfa5ff229b5e2b564e42fe5d0ef691ef756848841890c3f","features":{},"yanked":false,"links":null}
