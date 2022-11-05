@@ -1,1 +1,2 @@
 {"name":"oauth2-tiktok","vers":"0.0.0","deps":[],"cksum":"71de0cf093f8bbde75fd1b7e0e72a47a0d89ae9081583d2a0aef8ce86f8f8f2d","features":{},"yanked":false,"links":null}
+{"name":"oauth2-tiktok","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f76833e8e2ab69ece9b0c64c942129a6ac95098179bcfcfb08fb3d86fc2e6cbc","features":{},"yanked":false,"links":null}
