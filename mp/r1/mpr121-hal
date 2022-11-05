@@ -1,1 +1,2 @@
 {"name":"mpr121-hal","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"110fbdf9956ea450fcf7c5e72ac9703b9163ebf51cc1d864ff035b46ddd8c393","features":{},"yanked":false,"links":null}
+{"name":"mpr121-hal","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad02593aa1d001501d0b0ed05e996bfb28dceee4ca79ff755926457c2bf2c18c","features":{},"yanked":false,"links":null}
