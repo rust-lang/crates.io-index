@@ -1,0 +1,1 @@
+{"name":"sample-config","vers":"0.1.0","deps":[{"name":"sample-config-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a11da30187ae88a36b70aa0e0159b10fdd47a4c07ad872fdf1c0ca239cdd620","features":{"default":["yaml"],"yaml":["sample-config-macros/yaml"]},"yanked":false,"links":null}
