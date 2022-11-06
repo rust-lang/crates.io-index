@@ -18,4 +18,4 @@
 {"name":"random","vers":"0.12.0","deps":[],"cksum":"9621fcc86a2c79ffc77439bc950eeba0431175d3f4f3fee6381acfd03b247dc8","features":{},"yanked":true}
 {"name":"random","vers":"0.12.1","deps":[],"cksum":"ba6a545c87e0398267ec063bf09a2c93ff865547551a233e945d6769bb2d1b4d","features":{},"yanked":false}
 {"name":"random","vers":"0.12.2","deps":[],"cksum":"97d13a3485349981c90c79112a11222c3e6e75de1d52b87a7525b3bf5361420f","features":{},"yanked":false}
-{"name":"random","vers":"0.13.0","deps":[],"cksum":"989ee9e9915824e6d2c4068e070c69d8cb7eae4930a0c648bf3add56b32922d3","features":{},"yanked":false,"links":null}
+{"name":"random","vers":"0.13.0","deps":[],"cksum":"989ee9e9915824e6d2c4068e070c69d8cb7eae4930a0c648bf3add56b32922d3","features":{},"yanked":true,"links":null}
