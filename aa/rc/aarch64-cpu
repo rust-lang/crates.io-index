@@ -1,0 +1,1 @@
+{"name":"aarch64-cpu","vers":"9.0.0","deps":[{"name":"tock-registers","req":"0.8.*","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3aceb88e55ba626a5479279268d009a92d9d00eacce0de1b8c236c7ad31b7225","features":{"default":["nightly"],"nightly":["tock-registers"]},"yanked":false,"links":null}
