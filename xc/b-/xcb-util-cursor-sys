@@ -1,0 +1,1 @@
+{"name":"xcb-util-cursor-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.61.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d92c29fd2373270b7929c15871b60d1390f17245448c43572a7ccca9b4cc4a5f","features":{},"yanked":false,"links":"xcb-cursor"}
