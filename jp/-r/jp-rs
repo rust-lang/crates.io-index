@@ -1,1 +1,2 @@
 {"name":"jp-rs","vers":"0.1.0","deps":[{"name":"pa-rs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f24a67f02e76b2349cc01567e92ceb75a69958cd33b946e3e90010e7f22cd55a","features":{},"yanked":false,"links":null}
+{"name":"jp-rs","vers":"0.1.1","deps":[{"name":"pa-rs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eb6b3d81f11d257a5483747ab556d812867968760496d86af47c9d5027da4ea","features":{},"yanked":false,"links":null}
