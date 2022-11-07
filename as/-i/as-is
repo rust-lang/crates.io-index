@@ -24,5 +24,5 @@
 {"name":"as-is","vers":"0.0.19","deps":[],"cksum":"d97f1d66200fa412ebb730a676b1bec3a21c98c00f56f66e4e55b6b8e5d07d63","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.20","deps":[],"cksum":"2d7b9f2b594530826e9b3974c0566148b5e52a28254df0388063345ceb66b26e","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.21","deps":[],"cksum":"ca0b6cdaf7999fe4c83382fe3c95e77bd572a239a798c827c2ee7176f8b7f423","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
-{"name":"as-is","vers":"0.0.22","deps":[],"cksum":"93041d58c876fcd6f5bf210fc095b00ab06a114df580fe9e67a130883f81b196","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
+{"name":"as-is","vers":"0.0.22","deps":[],"cksum":"93041d58c876fcd6f5bf210fc095b00ab06a114df580fe9e67a130883f81b196","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.23","deps":[],"cksum":"bdef73ff4605f404e39872e30f67a69db28248e96ca9c135ed030abafed9d33d","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
