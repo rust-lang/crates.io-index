@@ -1,1 +1,2 @@
 {"name":"getargv-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.61.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1fad5ebf25ef0b5a9f530ff5e425820aeac8f2403ddc20a8d4c04d8c2d84fe91","features":{},"yanked":false,"links":"getargv"}
+{"name":"getargv-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.61.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"642b70e18ce03f7b18b0f49ac562a2bdf3df8a0d93c37d591d9820e524eba16e","features":{},"yanked":false,"links":"getargv"}
