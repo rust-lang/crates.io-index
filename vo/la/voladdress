@@ -6,7 +6,7 @@
 {"name":"voladdress","vers":"0.2.5","deps":[{"name":"typenum","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"240285ab14a51c73796628b33e0df41167efd5d230ce5ffd6f3bc63fc4f8010d","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.3.0","deps":[],"cksum":"91790a8b3909597b3425774ca6666220404291d09df7219c79951f09581b3143","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.4.0","deps":[],"cksum":"a9ed2059913e390155e4db74c21970f1cd5de648a74fd50491fe15fb35cdd091","features":{},"yanked":true,"links":null}
-{"name":"voladdress","vers":"0.4.1","deps":[],"cksum":"d23280453f5416b158b25e3031525a2972648ff1e069aa3f9de25251bc43418c","features":{},"yanked":false,"links":null}
+{"name":"voladdress","vers":"0.4.1","deps":[],"cksum":"d23280453f5416b158b25e3031525a2972648ff1e069aa3f9de25251bc43418c","features":{},"yanked":true,"links":null}
 {"name":"voladdress","vers":"0.4.2","deps":[],"cksum":"29f89a2819faa5514a59a4c91841bd52565ff864de95df106855553c64d2aa39","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.4.3","deps":[],"cksum":"b14032e18bf6cd9796e3dc0d794020c2c76782e769c5237a9e265c972e785bae","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.4.4","deps":[],"cksum":"30bde2e2aaba34fe3d5b2c5a83a5ad378985cbed0cee9f91d611521365ae9f95","features":{},"yanked":false,"links":null}
