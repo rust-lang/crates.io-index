@@ -7,3 +7,4 @@
 {"name":"at-commands","vers":"0.5.0","deps":[],"cksum":"c9134039de7200fc8ab728efd1b8c570befd771dbf4758d02f4a4a9d034cfda5","features":{},"yanked":false,"links":null}
 {"name":"at-commands","vers":"0.5.1","deps":[],"cksum":"11da94f3b4eb25448f8bb16d08bbc2cbd045d01c147c282bb6cea51bad5b6775","features":{},"yanked":false,"links":null}
 {"name":"at-commands","vers":"0.5.2","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd16d11eaba1d552aedbcd21bbade28ac578ad75e7df04b90f4c52e18420e4b8","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"links":null,"v":2}
+{"name":"at-commands","vers":"0.5.3","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a8646d185c65bef10ce383678ec7a28ef0293f61bbd030d2fc1deffcd3e18b4","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"links":null,"v":2}
