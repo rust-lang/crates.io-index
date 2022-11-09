@@ -1,1 +1,2 @@
 {"name":"applevisor","vers":"0.1.0","deps":[{"name":"applevisor-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31a95551588fb8961505c507affe048fc41a92edbf02234e1eb2ae76e3ac46aa","features":{},"yanked":false,"links":null}
+{"name":"applevisor","vers":"0.1.1","deps":[{"name":"applevisor-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77a0d425d8ef0061477048134df5081a3a9a54b6db59b4157c92630cef86270e","features":{},"yanked":false,"links":null}
