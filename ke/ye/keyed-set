@@ -1,1 +1,2 @@
 {"name":"keyed-set","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.12","features":["raw"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dae1bffc6079fdbf144995061709257defaf1bac8148c3dada75ff2f28bba88e","features":{},"yanked":false,"links":null}
+{"name":"keyed-set","vers":"0.2.0","deps":[{"name":"hashbrown","req":"^0.12","features":["raw"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70f95e3fb17fe9d957aa568494a9fd2f0e96a2ad3f9d6ce6fb9d329a439f16e4","features":{},"yanked":false,"links":null}
