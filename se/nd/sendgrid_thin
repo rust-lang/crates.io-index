@@ -1,1 +1,2 @@
 {"name":"sendgrid_thin","vers":"0.1.0","deps":[{"name":"ureq","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf2392ddadc4a4c48f8a70cf1b84fe089a3eba96598526107fee379ebd1d54e","features":{},"yanked":false,"links":null}
+{"name":"sendgrid_thin","vers":"0.1.1","deps":[{"name":"ureq","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb0c4481cb5d19a485353f44dfdcd3e303f6189ee0d5ce6690b3ba22fdf4fcaa","features":{},"yanked":false,"links":null}
