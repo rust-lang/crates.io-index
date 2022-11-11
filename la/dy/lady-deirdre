@@ -1,0 +1,1 @@
+{"name":"lady-deirdre","vers":"1.0.0","deps":[{"name":"lady-deirdre-derive","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63a84758d0b3abcfecc618a92a05f94797a757d9b0ad27035593b2df5917cf67","features":{"default":["std"],"std":["lady-deirdre-derive/std"]},"yanked":false,"links":null}
