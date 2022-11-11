@@ -1,1 +1,2 @@
 {"name":"rbase64","vers":"1.0.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29241db28e658bb8d31233eaba0b811769c8719ff16c8a57d0934b26ddc50454","features":{},"yanked":false,"links":null}
+{"name":"rbase64","vers":"1.0.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32baaa4aded777fd963f8851afd50a25cccf124f1be316ae4c492db9dde72e89","features":{},"yanked":false,"links":null}
