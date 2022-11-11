@@ -1,0 +1,1 @@
+{"name":"rbase64","vers":"1.0.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29241db28e658bb8d31233eaba0b811769c8719ff16c8a57d0934b26ddc50454","features":{},"yanked":false,"links":null}
