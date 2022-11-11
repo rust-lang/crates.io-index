@@ -4,3 +4,4 @@
 {"name":"allocator-fallback","vers":"0.1.3","deps":[],"cksum":"8ff22d93b44001e1383d6c34526483982cc02b6f59be9e487c35e1acec3af5cd","features":{"doc_cfg":[],"std":[],"allocator_api":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"allocator-fallback","vers":"0.1.4","deps":[],"cksum":"67005a5187468a51e923248fcc73ddb87ad1a0fcfbf6579b35c2e17820e791d4","features":{"std":[],"default":["std"],"allocator_api":[],"doc_cfg":[]},"yanked":false,"links":null}
 {"name":"allocator-fallback","vers":"0.1.5","deps":[],"cksum":"b192f3c395b2aad4bf8bd51097ce47dbaed08f88db835419eaf81af203a98c4a","features":{"allocator_api":[],"default":["std"],"doc_cfg":[],"std":[]},"yanked":false,"links":null}
+{"name":"allocator-fallback","vers":"0.1.6","deps":[],"cksum":"772b3c90fe6ab725fc53d17850eb6299f024499bc6d3460a1856250123ac35c4","features":{"allocator_api":[],"default":["std"],"doc_cfg":[],"std":[]},"yanked":false,"links":null}
