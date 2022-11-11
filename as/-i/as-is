@@ -26,5 +26,5 @@
 {"name":"as-is","vers":"0.0.21","deps":[],"cksum":"ca0b6cdaf7999fe4c83382fe3c95e77bd572a239a798c827c2ee7176f8b7f423","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.22","deps":[],"cksum":"93041d58c876fcd6f5bf210fc095b00ab06a114df580fe9e67a130883f81b196","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.23","deps":[],"cksum":"bdef73ff4605f404e39872e30f67a69db28248e96ca9c135ed030abafed9d33d","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
-{"name":"as-is","vers":"0.0.24","deps":[],"cksum":"dd7096b98e0154c69006cd5bf4b6f4f5258c8e7b6f0fa7e9d88b448b7cd48c82","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
+{"name":"as-is","vers":"0.0.24","deps":[],"cksum":"dd7096b98e0154c69006cd5bf4b6f4f5258c8e7b6f0fa7e9d88b448b7cd48c82","features":{"alloc":[],"default":["alloc"]},"yanked":true,"links":null}
 {"name":"as-is","vers":"0.0.25","deps":[{"name":"ref-ops","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffd7e820dc771c58daaaaa53ea87437ee8cd3d756c6f62f9d624f359b114d531","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
