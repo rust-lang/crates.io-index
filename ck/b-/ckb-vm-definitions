@@ -30,3 +30,4 @@
 {"name":"ckb-vm-definitions","vers":"0.21.6","deps":[],"cksum":"949ed738f453c33a7d5597d2b9befdc236be6a71d4133cdbeb6f5acfe242933d","features":{"enable-chaos-mode-by-default":[]},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.21.7","deps":[],"cksum":"6f7a838aab5ce5999add288511f719fa7af13e6790a5746f74d2538bbc47bb59","features":{"enable-chaos-mode-by-default":[]},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.22.0","deps":[],"cksum":"14739bf59648c169de9257ec7dd6aba1aeb6a41725d636005f1c91853df58fcc","features":{"enable-chaos-mode-by-default":[]},"yanked":false,"links":null}
+{"name":"ckb-vm-definitions","vers":"0.22.1","deps":[],"cksum":"5445b62604e7ab2bf5abb37bf6cca7ac26b2e4a76fddb27ceb61850f24864d58","features":{"enable-chaos-mode-by-default":[]},"yanked":false,"links":null}
