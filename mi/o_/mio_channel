@@ -1,0 +1,1 @@
+{"name":"mio_channel","vers":"0.1.0","deps":[{"name":"mio","req":"^0.8.5","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ad977edac708305ff2c05a55e2983c51c3c8a193f0b96dd08ddfbef519b3300","features":{},"yanked":false,"links":null}
