@@ -1,1 +1,2 @@
 {"name":"hw-msg","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59ade9ef4bc594568b2fe0078bdfce87e46184177892fb96f870fcfcd3ded121","features":{},"yanked":false,"links":null}
+{"name":"hw-msg","vers":"0.2.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0322fe2dbc4638407afed7f86e043f9c63be71bd9b3b31f307b1609489cfbeb1","features":{},"yanked":false,"links":null}
