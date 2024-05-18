@@ -6,3 +6,4 @@
 {"name":"cyphal","vers":"0.0.6","deps":[],"cksum":"3b4f22800da02a71f7aa2c1c7849b26e12dfdd9dcb50a99203d5626022ff01a0","features":{},"yanked":false}
 {"name":"cyphal","vers":"0.0.7","deps":[{"name":"async-std","req":"^1.12.0","features":["attributes"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c99cb7c483a66783d70c21ed382f005c6e93a39fb3fcd0a3db5f1cef8fe9eb4b","features":{},"yanked":false}
 {"name":"cyphal","vers":"0.0.8","deps":[{"name":"async-std","req":"^1.12.0","features":["attributes"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34b46fa9d7716ba5d205a96d3bc856938c410c1d27c3b20fc66c8305a49deb7e","features":{},"yanked":false}
+{"name":"cyphal","vers":"0.0.9","deps":[{"name":"async-std","req":"^1.12.0","features":["attributes"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4403ce5f5761b987b3af597a2cca17fb0635b9b89cf99398de373d7f8ee82120","features":{},"yanked":false}
