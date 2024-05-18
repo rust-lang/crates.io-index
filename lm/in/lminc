@@ -1,0 +1,1 @@
+{"name":"lminc","vers":"2.0.1","deps":[{"name":"uuid","req":"^1.2.1","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8653b778ee2ed465876cdbb9ee44d0c398fee0d096403229f0e5db9d68258b99","features":{"alloc":[],"default":["std","extended"],"extended":[],"std":["alloc"]},"yanked":false}

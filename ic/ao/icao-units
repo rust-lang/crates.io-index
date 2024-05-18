@@ -1,0 +1,4 @@
+{"name":"icao-units","vers":"0.1.0","deps":[],"cksum":"971acb5b0a9d58344a29c36ca7d58c95ba9e44f1cb855fcbeaf633802a4f4d3a","features":{},"yanked":false}
+{"name":"icao-units","vers":"0.1.1","deps":[],"cksum":"2de9aefd8b9eea1e2a735cab8ecdd1987a01e9b88c7d117df2b93fee39e57928","features":{},"yanked":false}
+{"name":"icao-units","vers":"0.1.2","deps":[],"cksum":"03429113953eae378ff10fbdc09e2532af877240bb3e65d86faae6ad14a122d3","features":{},"yanked":false}
+{"name":"icao-units","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddfbd6f1941f6a3d6362ac1751920845e30c3f05f2ad240045aa7d42f886ec32","features":{},"yanked":false}

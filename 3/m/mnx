@@ -1,0 +1,1 @@
+{"name":"mnx","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.197","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"typify","req":"^0.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f0359b90cba68bb780f0cfca99a36d82c9aa09c6936bf02fad4361db6b95941","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"hapsi","vers":"0.0.1","deps":[],"cksum":"13e42e7419918ed9428867065543854ac962eb9448fee2d42d9043152746f4d2","features":{},"yanked":false}
+{"name":"hapsi","vers":"0.0.2","deps":[],"cksum":"6ddc219de9af877598c8e23fa2d1e62bfeab4ce9cd84e8157d7441153e3296b6","features":{},"yanked":false}
+{"name":"hapsi","vers":"0.0.3","deps":[{"name":"once_cell","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5885dcf90c7fd80ec68c53f909d929deb5d890dba09bcb67652838fba31ab9e9","features":{},"yanked":false}

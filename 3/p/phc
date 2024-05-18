@@ -1,0 +1,2 @@
+{"name":"phc","vers":"0.1.0","deps":[],"cksum":"fa0ee3e5e2797d0879241b4349952dbc2b4e86fde273b4bb03a4ed845a95c12f","features":{},"yanked":false}
+{"name":"phc","vers":"0.2.0","deps":[{"name":"base64","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54242a070008004653eb96776567fb23d38530a7dde7241dc73628f89886de00","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"diffy-fork-filenames","vers":"0.3.0","deps":[{"name":"nu-ansi-term","req":"^0.46.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d365fe3ada87cff4c8ebb921f8b18f52775c00c15ecf9be5e406f65c4c42fedb","features":{},"yanked":true}
+{"name":"diffy-fork-filenames","vers":"0.4.0","deps":[{"name":"nu-ansi-term","req":"^0.46.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1c5b171edb2919d109fe0b3c623f35f20046b14fb63f2ca069b450ae500246e","features":{},"yanked":false}

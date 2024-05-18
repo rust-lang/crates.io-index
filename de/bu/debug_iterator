@@ -1,0 +1,1 @@
+{"name":"debug_iterator","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"123d89094351d8781df6a8b4476eadcb58810ae2e399eadb0ca50fcd55582cc3","features":{"default":[],"logging":["log"]},"yanked":false}

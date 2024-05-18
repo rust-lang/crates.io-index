@@ -1,0 +1,2 @@
+{"name":"animations_rs","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9ba81abaae11b4ed789e92375752b770a8f678833a819554e981c66965a36e2","features":{},"yanked":true}
+{"name":"animations_rs","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"714f92cafd86d4615d878978b8a1e6c9bd7298a45e2e224e60dbccac22cfbaa4","features":{},"yanked":true}

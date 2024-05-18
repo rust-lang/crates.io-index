@@ -1,0 +1,2 @@
+{"name":"eosio_sys","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5f4af983f77edbddd25441dc4f809a916d85b7a61bf414f87ea115ae8de7e40f","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"eosio_sys","vers":"0.2.0","deps":[],"cksum":"07731985b70742e885f262370170b77bc196d9539228c048ef735afd73762598","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}

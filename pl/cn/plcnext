@@ -1,0 +1,2 @@
+{"name":"plcnext","vers":"0.1.0","deps":[],"cksum":"f2c36582a022feb9980ecc0d134498aba8c67b622904f243a93ae4cac42d7030","features":{},"yanked":false}
+{"name":"plcnext","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"plcnext-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2be0bb3a968f74f765fbe038f58656f3430765cb4aa3ee41cd3f9a9d97cc21a","features":{},"yanked":false}

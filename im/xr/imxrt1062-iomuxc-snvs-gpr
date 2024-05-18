@@ -1,0 +1,2 @@
+{"name":"imxrt1062-iomuxc-snvs-gpr","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02b42074a3e555a33e93e2d45d137177aab418d718a5ee95fb224bb8cfba1753","features":{},"yanked":false}
+{"name":"imxrt1062-iomuxc-snvs-gpr","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ed68c0c5f90d8bd4cbda4c92c019149d4347aa2225fe20f7309b5396c3ef577","features":{},"yanked":false}

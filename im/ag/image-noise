@@ -1,0 +1,1 @@
+{"name":"image-noise","vers":"0.1.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"txture","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27d92900690627715024348fd5d4caaeb71360f566f2940f04cc9e8866926a1e","features":{},"yanked":false}

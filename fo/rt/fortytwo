@@ -1,0 +1,2 @@
+{"name":"fortytwo","vers":"0.0.1","deps":[],"cksum":"69dc01c44cadee165b8c85755446fd154e5e331df5464354ef0542cf952ec335","features":{},"yanked":false}
+{"name":"fortytwo","vers":"42.0.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"59a74673d555410c1352c4305cd4dede4ef7d5cd91cf38417e1056a8fac4e23f","features":{},"yanked":false}

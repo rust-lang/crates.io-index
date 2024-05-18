@@ -1,0 +1,2 @@
+{"name":"oxe","vers":"0.0.0","deps":[],"cksum":"14cbd25f0f76b9d06b8b21119c84b03c004e1d356f475888ee395045167be2c2","features":{},"yanked":true}
+{"name":"oxe","vers":"0.0.1","deps":[{"name":"polars","req":"^0.31.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"185d4c26ddd911a49cd9ab6d975f014757fd840836e7da5b3823a917aecd5173","features":{},"yanked":true}

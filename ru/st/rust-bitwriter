@@ -1,0 +1,1 @@
+{"name":"rust-bitwriter","vers":"0.0.1","deps":[{"name":"cfg-if","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f9598a861645d22d8fe873d123e9faa209f78ff9ddca7617c2af968f7a18aad","features":{"default":["std"],"std":[]},"yanked":false}

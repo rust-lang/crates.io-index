@@ -1,0 +1,2 @@
+{"name":"graphs","vers":"0.1.0","deps":[{"name":"graph-traits","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac06df9b154f7a95f8d54c3c78ee6be311d2fd2e9711474450eed1f89946f161","features":{},"yanked":false}
+{"name":"graphs","vers":"0.1.1","deps":[{"name":"graph-traits","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4645b7ab1c7aef403e0eadeff0abc6bde7d5df4baf664cd1cb6fe713f8365904","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"zzp","vers":"0.1.0","deps":[{"name":"assert2","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"gregorian","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b905eef93eda2f4854c72274db31dfbdb10c8b5dee0c59ca9a20a639fc863387","features":{},"yanked":false}

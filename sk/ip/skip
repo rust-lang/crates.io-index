@@ -1,0 +1,2 @@
+{"name":"skip","vers":"0.0.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3389a3a59f039df0f205259bb0e20b886f0e25a638a50f9252d73e6b0ad016f","features":{},"yanked":false}
+{"name":"skip","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42ebd8213a61fc330af986ad54b7c32c993c0b17b2e0fa39cf7e78e636d373b0","features":{},"yanked":false,"rust_version":"1.74.1"}

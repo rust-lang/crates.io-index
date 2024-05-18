@@ -1,0 +1,1 @@
+{"name":"nit-rs","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba637e15b57fe3083a78c834e69a73a58a24b7185ec9ac235f726204dd4fc422","features":{},"yanked":false}

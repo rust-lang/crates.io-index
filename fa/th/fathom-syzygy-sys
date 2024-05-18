@@ -1,0 +1,1 @@
+{"name":"fathom-syzygy-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2609067825fe8ee7352ff6b07d4ddaecc93d8dd0f9cafdb0d3ef27c71e1564f","features":{},"yanked":false}

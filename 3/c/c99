@@ -1,0 +1,3 @@
+{"name":"c99","vers":"0.1.0","deps":[],"cksum":"ae4fdd8b312c3e1f1a9db269545e502141566b543baf3f00ce3e24a8b0d35eaa","features":{},"yanked":false}
+{"name":"c99","vers":"0.1.1","deps":[],"cksum":"b03049b0d9ea44294834dfc77cdf319fcd00832a9c676edf04e5166970ccf403","features":{},"yanked":false}
+{"name":"c99","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.63.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ae248f7b54c12ddae4d285fbc1dce4b0948a9dcbd48f4263fe439b8a3302a798","features":{},"yanked":false}

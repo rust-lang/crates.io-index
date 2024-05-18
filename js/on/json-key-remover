@@ -1,0 +1,1 @@
+{"name":"json-key-remover","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.17","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"888e2b88f495801382278059d369d01879246ecb7140193aa1cbfd3f905db800","features":{},"yanked":false}

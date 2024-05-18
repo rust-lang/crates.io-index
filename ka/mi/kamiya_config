@@ -1,0 +1,1 @@
+{"name":"kamiya_config","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89d5bc883ef0faa3b6f2bc7227ff43104c4a18f79e3b8424db6a130f119c0b8c","features":{},"yanked":false}

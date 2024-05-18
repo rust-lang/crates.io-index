@@ -1,0 +1,1 @@
+{"name":"frame-analyzer-ebpf-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1aaddba91fd4f1fd3fbb85803427ebb6e5da8a1fd49db20bd0cc45bb142a1cd4","features":{"default":[],"user":["aya"]},"yanked":false}

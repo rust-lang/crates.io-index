@@ -1,0 +1,2 @@
+{"name":"reflexive","vers":"0.1.0","deps":[],"cksum":"c9fa8312bfbb4b7a88fbf16e4e34cd79fe5756c479b60f4be1d902c473ddc204","features":{},"yanked":false}
+{"name":"reflexive","vers":"0.4.1","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a88ef05e7d63adad0f2c5f5873903226c03b7f27d219df7f37fb05ab98b5d420","features":{},"yanked":false,"rust_version":"1.56.1"}

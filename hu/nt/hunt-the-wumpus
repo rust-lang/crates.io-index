@@ -1,0 +1,2 @@
+{"name":"hunt-the-wumpus","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5952a7d0d7a69b8451e5e7494fa4734bbc0051405684f22ca19cfa280daa45b","features":{},"yanked":true}
+{"name":"hunt-the-wumpus","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb3100abb646351ea91629e41549e2968bc252ca4c579dcefb88b822735d6090","features":{},"yanked":false}

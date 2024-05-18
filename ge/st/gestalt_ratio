@@ -1,0 +1,3 @@
+{"name":"gestalt_ratio","vers":"0.1.0","deps":[],"cksum":"9acaee09f6c493d0f9f4d4a617960ff0fad31c46679896ac884a67022cbaef2c","features":{},"yanked":false}
+{"name":"gestalt_ratio","vers":"0.2.0","deps":[{"name":"unicode-segmentation","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04301702c7600da2543ffd7ebf31ae2007492cc08c27cdfe215166ece4c8c04d","features":{},"yanked":false}
+{"name":"gestalt_ratio","vers":"0.2.1","deps":[{"name":"unicode-segmentation","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6b3c399c9a90b4de1792c277efc74b451ddeb4c2cfc11ac0b2f0503918f48ed","features":{},"yanked":false}

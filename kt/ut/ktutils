@@ -1,0 +1,2 @@
+{"name":"ktutils","vers":"0.1.0","deps":[],"cksum":"f55efbd18668856f4aad2e4ac1a135178a7abce8b2c228cc320b8de431a76698","features":{},"yanked":true}
+{"name":"ktutils","vers":"0.1.1","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ba5499816527e38ffcd6869f0244aab26bccadb9026c3d923ca5e26db7ea7af7","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"mauzi","vers":"0.0.1","deps":[{"name":"mauzi_macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1353103541dfc4f6cbdbbce926b6e66fd737b7c9386952b4277f286a149db1e9","features":{},"yanked":false}
+{"name":"mauzi","vers":"0.0.2","deps":[{"name":"mauzi_macros","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8846175352fa2065ab44d226f47fea87e1aa046c0ea4b5063679335b9d11cab","features":{},"yanked":false}

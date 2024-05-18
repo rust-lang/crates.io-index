@@ -1,0 +1,2 @@
+{"name":"rinex-qc-traits","vers":"0.1.0","deps":[{"name":"horrorshow","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"420d78ffdad443953072d06f6d9778eb1ed4014285e080218e9798383da90df2","features":{"default":[]},"yanked":false}
+{"name":"rinex-qc-traits","vers":"0.1.1","deps":[{"name":"horrorshow","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3523288d8b9f7856dd54c56d4cc458e04750217a01939f4cb459b74124d96a9","features":{"default":[]},"yanked":false}

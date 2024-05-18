@@ -1,0 +1,2 @@
+{"name":"rlife","vers":"0.0.7","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16e46d7c78864e39951a5da73764cbde236a0800872edde1e6437b34f5521bae","features":{},"yanked":false}
+{"name":"rlife","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4328110e538db67668b952aae90c07141ee7912f2a730eb122207d6f6cf77712","features":{},"yanked":false}

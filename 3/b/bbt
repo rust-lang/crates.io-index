@@ -1,0 +1,2 @@
+{"name":"bbt","vers":"0.1.0","deps":[],"cksum":"82dc5e48c6296377860972d1f69dee3853ab2acf46d2be229ecb7b63f7143b64","features":{},"yanked":false}
+{"name":"bbt","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.70","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"937ad2f785965e24afe0318129e02b04964b10c129b602a91fd977257617a696","features":{},"yanked":false}

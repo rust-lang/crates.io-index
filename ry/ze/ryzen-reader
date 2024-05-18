@@ -1,0 +1,2 @@
+{"name":"ryzen-reader","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b505cf1f7bd1baf4a370d6e4357dec5614dd10dfef1c66f28bcd25f76d35395f","features":{},"yanked":false}
+{"name":"ryzen-reader","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80471d3af10cfa14d7f2c9e952d29bd76f7ccd6cd728ca76b9d96ae30a16cdcb","features":{},"yanked":false}

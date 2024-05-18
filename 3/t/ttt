@@ -1,0 +1,1 @@
+{"name":"ttt","vers":"1.0.0","deps":[{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"602df83d51d2f4f7b4507185172af22deabc7cbf5ecaa8597af8d6a3e3955549","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"pinyin-translator","vers":"0.1.0","deps":[],"cksum":"45884af809de6e56f8392baea7c0852a6f9269bb69e7de1204ab68678f717a94","features":{},"yanked":false}
+{"name":"pinyin-translator","vers":"0.1.1","deps":[],"cksum":"fc330e1aa74bb258bf4faf914dc3e03190c65a069aac5a6ba473d828325d4b0e","features":{},"yanked":false}
+{"name":"pinyin-translator","vers":"0.2.0","deps":[],"cksum":"4c9f77236c7bab7db32b7fa96cb2bbd6e729623f638696ce7b523bc3f1d1c4c9","features":{},"yanked":false}
+{"name":"pinyin-translator","vers":"0.2.1","deps":[],"cksum":"7b4129b51e7d2a46e0f4f4fe46ddf39999b333a92c737013245d5b284ac57b58","features":{},"yanked":false}
+{"name":"pinyin-translator","vers":"0.2.2","deps":[],"cksum":"b9b79f16fbf793bc49d4ba7bf1b0389d2b8bd77ec27e2d2e350d7f7a52812536","features":{},"yanked":false}
+{"name":"pinyin-translator","vers":"0.2.3","deps":[{"name":"cbindgen","req":"^0.24.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"671d488fa37ce51f43f2014f6c3d1c8628e1de83db306d5c10d3cb301f3152fd","features":{},"yanked":false}

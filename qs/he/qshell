@@ -1,0 +1,2 @@
+{"name":"qshell","vers":"0.1.0","deps":[{"name":"sh-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a6afcc6c32d384bedbed37597813de28d5ae87367dcd828c1ad2ed99a3de695","features":{},"yanked":true}
+{"name":"qshell","vers":"0.1.1","deps":[{"name":"sh-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1e7ed98b5383a067aab47e54abb2caed70d4d3332b66cd50025c1611122a080","features":{},"yanked":true}

@@ -1,0 +1,8 @@
+{"name":"libc_alloc","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"facfadd598148749ec91bad7f0ca986728811db9b9a04084f7a0667b10601d46","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.1","deps":[],"cksum":"2225a00e7c0e14bfd06334e078057133ecfb747a9522f90a76ef09307bd57f2d","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.2","deps":[],"cksum":"da3cc9f47be733089fcaaa5d9b7ab3251c403a476edaa8d61e361ecad4334305","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.3","deps":[],"cksum":"db1d62455a2746a7f4a67a62d77f969954cd7d3bca46e4d037acd097ba79dab4","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.4","deps":[],"cksum":"6a090348b66d90d8507e30f0d2bd88e5a5c454bd1733fc6d617cbc3471bf69ea","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.5","deps":[],"cksum":"004feaae88f49fe8cfeffb4565dae94ac608313e454ebab4a4d0d0202b553fb3","features":{},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.6","deps":[],"cksum":"2a835c038b748123287f9fb1743d565e7c635879997f43c345a18a026690364e","features":{"global":[]},"yanked":false}
+{"name":"libc_alloc","vers":"1.0.7","deps":[],"cksum":"7581282928bc99698341d1de7590964c28db747c164eaac9409432a3eaed098a","features":{"global":[]},"yanked":false}

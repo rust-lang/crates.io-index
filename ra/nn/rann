@@ -1,0 +1,3 @@
+{"name":"rann","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2a4be6523b00efcf29190d8f686427a5c908fc00d76091c28d2e0bc11d49d8a","features":{},"yanked":false}
+{"name":"rann","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1f64e54c7b6d1852f285cf0d6c5001080444e33264e3765b2922aef9fbc80b2","features":{},"yanked":false}
+{"name":"rann","vers":"0.1.2","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"055f1714b9a5a38a27b237a510e48bec38d8f0a06b4ac5f1dbc78289c3c4f941","features":{},"yanked":false}

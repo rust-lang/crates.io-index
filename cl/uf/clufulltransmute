@@ -1,0 +1,9 @@
+{"name":"cluFullTransmute","vers":"1.0.0","deps":[],"cksum":"659029075cb13075d271f41934eaf812371daa4bcd7f29931115b055e0db3bce","features":{},"yanked":true}
+{"name":"cluFullTransmute","vers":"1.0.1","deps":[],"cksum":"596420740a2bf2f682b64b36f1886d60764677c178dbab644e6017b42721fe3b","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.0.2","deps":[],"cksum":"384be4634a7d2fb6ada6a8688619b9eda2aa05223b4e687aaf1e3fe708adf42c","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.0.3","deps":[],"cksum":"ebe18b5c493f8cfb6934cb5d05f5984de9bb2dfd2c8f37552b68f9cab6a057e5","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.0.5","deps":[],"cksum":"93eba37749e08e1bec2454868184d79573c2661e4659be0f6f7e776bd7372419","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.0.6","deps":[],"cksum":"7e5aabc0ffde4e17016c44b69a0c8ff2d7e5578a856d7600ebc5f5bb6d1e9642","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.1.0","deps":[],"cksum":"0e698d29921afd14c2bd5dcbdef3d59ab93b92bbcc189119e901d94a96fef261","features":{},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.2.0","deps":[],"cksum":"fa71fe42fe1ceab741cff029e27b75c265f285b3e2ddc2f88853e74e8e55c46e","features":{"compatible_stdapi":[],"contract":[],"default":["contract","compatible_stdapi","support_size_check_transmute"],"support_size_check_transmute":[]},"yanked":false}
+{"name":"cluFullTransmute","vers":"1.3.0","deps":[],"cksum":"bf898f1aa760d281cbd7864a1ddfd6954fe85968ed222fede5044992ebb3ab5a","features":{"compatible_stdapi":[],"contract":[],"default":["contract","inline","compatible_stdapi","support_size_check_transmute"],"inline":[],"support_size_check_transmute":[],"support_stderr":[],"to":[]},"yanked":false}

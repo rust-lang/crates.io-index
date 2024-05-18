@@ -1,0 +1,2 @@
+{"name":"imxrt1062-usbphy1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93aba78db6fb0bd02e317fc102601a6834cd228521e884c094c81f5b02006df9","features":{},"yanked":false}
+{"name":"imxrt1062-usbphy1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc8e7da899207ad8e49d17eeb82b2cbc95a496acb7595a4cd9e4c9adca8d9a74","features":{},"yanked":false}

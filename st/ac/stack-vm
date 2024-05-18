@@ -1,0 +1,4 @@
+{"name":"stack-vm","vers":"0.1.0","deps":[],"cksum":"d622dfbf9e08ca0a6348e260bc3000382bf0cbaa63b7563f5a9b8797524b6316","features":{},"yanked":false}
+{"name":"stack-vm","vers":"0.2.0","deps":[{"name":"rmp","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a8d360593e4c84846c7d4fc88aa8c3ffa465336df80fc209a57d4c99ccdaf6a","features":{},"yanked":false}
+{"name":"stack-vm","vers":"0.3.0","deps":[{"name":"rmp","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceb68c5b0e725e670cde5861f94eec184098d2a3f0aee1b8ffd163dcc7dd75b4","features":{},"yanked":false}
+{"name":"stack-vm","vers":"1.0.1","deps":[{"name":"rmp","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca57a0e94d7a71504e4121c64a633d5f58e2f42ef65a493dff0deb7bd6ade13d","features":{},"yanked":false}

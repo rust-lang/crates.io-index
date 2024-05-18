@@ -1,0 +1,1 @@
+{"name":"u8bits","vers":"0.1.0","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"surjective-enum","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d80f7caef0c8a2a5393b1fd2416e6901b75f191e58b9a6c1ba28463f5b8e2a5b","features":{},"yanked":false}

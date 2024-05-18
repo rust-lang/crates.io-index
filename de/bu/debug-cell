@@ -1,0 +1,2 @@
+{"name":"debug-cell","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33e11cf9e5ea0740d62048504aefd12aa1302db34ffe27d3e47f2a8f92a7c15f","features":{},"yanked":false}
+{"name":"debug-cell","vers":"0.1.1","deps":[{"name":"backtrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35ee4fc02f25a0400fb57135bcdde6d58a3025718749375f2f97abc3deb3a4ef","features":{},"yanked":false}

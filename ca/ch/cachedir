@@ -1,0 +1,5 @@
+{"name":"cachedir","vers":"0.1.0","deps":[],"cksum":"efa98464d2472c537aab11476ef7f0866400bffc4246ff6bb6ab3997791b4d3f","features":{},"yanked":true}
+{"name":"cachedir","vers":"0.1.1","deps":[],"cksum":"c06509d1f4ffa658939bd23f076cd929ef218241363796551528e7eec69128c8","features":{},"yanked":true}
+{"name":"cachedir","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c32da410ec07e7167a0540bfd16473e0c91d88278fc0de954c2a79ce33c7306b","features":{},"yanked":false}
+{"name":"cachedir","vers":"0.3.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e236bf5873ea57ec2877445297f4da008916bfae51567131acfc54a073d694f3","features":{},"yanked":false}
+{"name":"cachedir","vers":"0.3.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4703f3937077db8fa35bee3c8789343c1aec2585f0146f09d658d4ccc0e8d873","features":{},"yanked":false}

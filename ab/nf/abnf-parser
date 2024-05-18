@@ -1,0 +1,2 @@
+{"name":"abnf-parser","vers":"0.1.0","deps":[{"name":"quick-error","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fc813ebbccf32c80515bf810e76a1d1565195ece2fba01cd79d272732782776","features":{},"yanked":false}
+{"name":"abnf-parser","vers":"0.1.1","deps":[{"name":"quick-error","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce581d244e77704f74623c75874236407ff9198c25995ce247f003c105b3c560","features":{},"yanked":false}

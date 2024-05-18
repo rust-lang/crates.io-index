@@ -1,0 +1,2 @@
+{"name":"flack","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.9","features":["fileapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"770c60692a7cf333ca82773ab1ddce379311db42c852b27ef262acb973954364","features":{},"yanked":false}
+{"name":"flack","vers":"0.2.0","deps":[{"name":"winapi","req":"^0.3.9","features":["fileapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1f52cc42317f51ab516c7e11a7ad4e9bcc98b2b22ba2f3cafa6403b76f7a28e5","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rsproxy","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2af7bff07a5e00a709f0e3129c5bbdc1fabbf45deb35a860169923730ec27704","features":{},"yanked":false}
+{"name":"rsproxy","vers":"0.1.1","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aadb9403d15ebd3034fb531e5d63710280a1152b4a2643a231adc4e11daecf39","features":{},"yanked":false}

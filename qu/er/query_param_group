@@ -1,0 +1,2 @@
+{"name":"query_param_group","vers":"0.1.0","deps":[{"name":"rocket","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72bfd5d7bb0e4dff46c2430aa2736444ac868c503361e9a9f9c063931fa60638","features":{},"yanked":false}
+{"name":"query_param_group","vers":"0.1.1","deps":[{"name":"rocket","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1549f0da4bd9945dc7b51d5d12b4e3d11d9587ebebd37c2356518be96b1b809a","features":{},"yanked":false}

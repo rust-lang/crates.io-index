@@ -1,0 +1,1 @@
+{"name":"sharded_rwlock","vers":"0.0.0","deps":[{"name":"parking_lot","req":">=0.11, <=0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a4017a8ba055fc9ce672f007b8e1fb6b413826bd613cfdb15b76fd0e0b98c2c","features":{},"yanked":false}

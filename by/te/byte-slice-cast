@@ -1,0 +1,13 @@
+{"name":"byte-slice-cast","vers":"0.1.0","deps":[],"cksum":"5a865e7bfa6c3b79216ccba767d4dc66e4f9f65f1ed4639e73faff3c4a2485d7","features":{},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.2.0","deps":[],"cksum":"28346c117b50270785fbc123bd6e4ecad20d0c6d5f43d081dc80a3abcc62be64","features":{},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.0","deps":[],"cksum":"34d6eec63fe0fb4f9f0f8011d32ab1586c123f1248c930a35237ff4ef08beaf1","features":{},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.1","deps":[],"cksum":"b6cb79b824ad8026dfaf918b0f3f072a6faf916fe843aff07321a738babfd575","features":{},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.2","deps":[],"cksum":"7cbcbf18128ec71d8d4a0d054461ec59fff5b75b7d10a4c9b7c7cb1a379c3e77","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.3","deps":[],"cksum":"d98ec867797c2aeb87198d6565b865e3ceac907b947bc8d0cecdce33a8147d6f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.4","deps":[],"cksum":"f6209f3b2c1edea170002e016d5ead6903d3bb0a846477f53bbeb614967a52a9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"byte-slice-cast","vers":"0.3.5","deps":[],"cksum":"b0a5e3906bcbf133e33c1d4d95afc664ad37fbdb9f6568d8043e7ea8c27d93d3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.0.0","deps":[],"cksum":"65c1bf4a04a88c54f589125563643d773f3254b5c38571395e2b591c693bbc81","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.1.0","deps":[],"cksum":"ca0796d76a983651b4a0ddda16203032759f2fd9103d9181f7c65c06ee8872e6","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.2.0","deps":[],"cksum":"1d30c751592b77c499e7bce34d99d67c2c11bdc0574e9a488ddade14150a4698","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.2.1","deps":[],"cksum":"87c5fdd0166095e1d463fc6cc01aa8ce547ad77a4e84d42eb6762b084e28067e","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.2.2","deps":[],"cksum":"c3ac9f8b63eca6fd385229b3675f6cc0dc5c8a5c8a54a59d4f52ffd670d87b0c","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"lazybox_rm","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":["yaml","wrap_help"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf51aa72c58018e277fb1832ad731207508dbd0ba08a69ae3f99ed2dc05a727","features":{},"yanked":true}

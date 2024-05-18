@@ -1,0 +1,3 @@
+{"name":"imex","vers":"0.1.0","deps":[],"cksum":"8627d69b9f44991cb315a79134a1d94c497a1b2dbfb714039f837b5daca4f6bd","features":{},"yanked":false}
+{"name":"imex","vers":"0.2.0","deps":[{"name":"nom","req":"^5.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16c1013d70d3ab30d3e695380fd9a641430ff370675fd433782f0d8f24cced2e","features":{},"yanked":false}
+{"name":"imex","vers":"0.2.1","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^5.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"604ccd3d49b3faea7f799650c1cbfefa8847914b433b1188e437874e3f89f7b0","features":{},"yanked":false}

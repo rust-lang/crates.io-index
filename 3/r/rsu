@@ -1,0 +1,2 @@
+{"name":"rsu","vers":"0.1.0","deps":[],"cksum":"454edf9197102a95489c49c235c53d5b3574a89fbc1ff1ffce5484a037c252ea","features":{},"yanked":false}
+{"name":"rsu","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"which","req":"^4.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe83bbc99f32265d1afb8829668ff068d619c176ba640d2fed01862f23d0ca26","features":{},"yanked":false}

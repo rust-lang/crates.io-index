@@ -1,0 +1,1 @@
+{"name":"dongi","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.32","features":["derive","unicode"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfd9ca5b4695938589e7a9eb659d28e1c1a0b3e84858d3c6b5329a98c9885ac4","features":{},"yanked":false}

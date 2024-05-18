@@ -1,0 +1,1 @@
+{"name":"sega-controller","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37f492337845648c4cbecc21afc9fbfb3b10803c224da6e952d9b4f873dbb2d5","features":{"all":["mega-drive"],"mega-drive":[]},"yanked":false}

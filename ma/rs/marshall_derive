@@ -1,0 +1,2 @@
+{"name":"marshall_derive","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11975c60f6f9113d211a67925429fd9306fa1fcae326b9670d7f2eca076208cf","features":{},"yanked":false}
+{"name":"marshall_derive","vers":"0.1.1","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afa5e9daaf48e4f8e92f3d7b15eee1ad9f0e30fcfa851e4808290ad416a6da7e","features":{},"yanked":false}

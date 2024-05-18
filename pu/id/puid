@@ -1,0 +1,2 @@
+{"name":"puid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2d577019b0e70fcb39642e284b35d81e39a87eb89905ee1dd312888cf3e94eb","features":{},"yanked":false}
+{"name":"puid","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e05d3623d079ce6498cebf5de66763c785ef4aa324eab7c76db4ddeb1b59be7","features":{},"yanked":false}

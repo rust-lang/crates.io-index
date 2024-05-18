@@ -1,0 +1,1 @@
+{"name":"key_pressed","vers":"0.1.0","deps":[{"name":"objc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"build"}],"cksum":"bc21a4a32d349741427e849fc6ea98c5de312941cbc2349778d1c80d85274958","features":{},"yanked":false}

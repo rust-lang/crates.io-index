@@ -1,0 +1,4 @@
+{"name":"android-properties","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0342c9fb4a6b6cec9b0f14b5383ebf5c78d7fcde43de78ba42c8c31d6cb67794","features":{"bionic-deprecated":[]},"yanked":false}
+{"name":"android-properties","vers":"0.2.0","deps":[],"cksum":"1fe894c629d847f5946cdbfba3b21565b63fd87dc7b79d9a4f5db9a07ee01f60","features":{"bionic-deprecated":[]},"yanked":true}
+{"name":"android-properties","vers":"0.2.1","deps":[],"cksum":"42dc6cb613f45a90aad8942e5eea36890bdbe7443349847ceb16ad1ffb611f5e","features":{"bionic-deprecated":[]},"yanked":true}
+{"name":"android-properties","vers":"0.2.2","deps":[],"cksum":"fc7eb209b1518d6bb87b283c20095f5228ecda460da70b44f0802523dea6da04","features":{"bionic-deprecated":[]},"yanked":false}

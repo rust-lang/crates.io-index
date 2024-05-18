@@ -1,0 +1,2 @@
+{"name":"nanobv","vers":"0.1.0","deps":[],"cksum":"48616ada9c9f3a14fbf06f48a6197ae275bc5b0b13d6cf685f9423650be874b7","features":{},"yanked":false}
+{"name":"nanobv","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"picorand","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e225f42010ce085525b70732c18dc71514a1796969457ba0259deb562a142077","features":{},"yanked":false}

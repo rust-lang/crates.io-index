@@ -1,0 +1,4 @@
+{"name":"panic-handler","vers":"0.0.0","deps":[],"cksum":"32b4ee380a66d8a9222031fe8cfa07641733ee147e9470ecc83d2b4d9623d859","features":{},"yanked":true}
+{"name":"panic-handler","vers":"2.0.1","deps":[{"name":"backtrace","req":"^0.3.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"314423e45e43615af0823c669e2339e304d81ad511a28ff81a3e54081dc7a197","features":{},"yanked":false}
+{"name":"panic-handler","vers":"2.0.2","deps":[{"name":"backtrace","req":"^0.3.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ca1b3aca04efa25c83ab1e12c60133875ed08ee0ce9f304fb4ad0054ebf991","features":{},"yanked":false}
+{"name":"panic-handler","vers":"2.1.2","deps":[{"name":"backtrace","req":"^0.3.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c8721f24112c95f5f31ca61b0d2f0fa2b6d8acb9f37051e9b2b0365de57111f","features":{},"yanked":false}

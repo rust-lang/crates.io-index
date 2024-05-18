@@ -1,0 +1,1 @@
+{"name":"podch","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc3932559c57cc6ccd942265727d09693210bfd1222f38a574180dc614647f74","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"rmatrix_ks","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"939007759f1e5c9f498f0fcc88b75ef4735a37386c0ba7b29fdaac9e7c3cde1b","features":{},"yanked":false}
+{"name":"rmatrix_ks","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"719de6dc53ba5d48db0aa65c7b1469d05224d12dcc0f83971dcc6d372f52f82e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"evp_bytestokey","vers":"0.1.0","deps":[{"name":"md-5","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc6f0e073a046fec8bfee2292a09b88b5c5067767a727201f25407d7412d5f69","features":{},"yanked":false}
+{"name":"evp_bytestokey","vers":"0.2.0","deps":[{"name":"md-5","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c12ada2112def505cbae77b53b63ea6e902747ea72d5b708861e20b31811998","features":{},"yanked":false}

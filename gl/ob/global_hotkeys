@@ -1,0 +1,1 @@
+{"name":"global_hotkeys","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3.8","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"42498a41e3589fb404f5c04fcf0d9b97e5197c79b476c583705d980c2b3bd0fc","features":{},"yanked":false}

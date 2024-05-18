@@ -1,0 +1,1 @@
+{"name":"serica","vers":"0.0.1","deps":[{"name":"axum","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b60cd7e18921b71616f50d42974c32c3f7be06b73b0160cadb17b26bed6fff59","features":{},"yanked":false}

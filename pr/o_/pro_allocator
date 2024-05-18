@@ -1,0 +1,1 @@
+{"name":"pro_allocator","vers":"3.0.0-rc2","deps":[{"name":"wee_alloc","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"11961dfc7c6a5011e7205741cb3e14d7695b7375b7e8665313e6b00f5312dbeb","features":{"default":["std"],"std":[]},"yanked":false}

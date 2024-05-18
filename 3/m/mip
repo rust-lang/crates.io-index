@@ -1,0 +1,3 @@
+{"name":"mip","vers":"0.3.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de74a15a1e5d0d5bfbeb7cef9150c8b0ac7344abbdaf0c52993ff03f3e06fbfe","features":{},"yanked":false}
+{"name":"mip","vers":"0.4.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a591c4ee752e4ce55e290f296677721d303642510d208a3846e8bd73746dee43","features":{},"yanked":false}
+{"name":"mip","vers":"0.4.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f5445265def0e7f08b0a921830e4a68ba02d5159deaa53165029a39fdcca04e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"devmem","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cf3ee932509097cfa604449a6c7b53684c107df86c4493e0b38852f5cc06f3b","features":{},"yanked":false}
+{"name":"devmem","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dc08650b46aa5be4fd847e67cdf6c7b40185b9848276845522cf77a7d4a279d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"authzed","vers":"0.0.1","deps":[{"name":"tonic","req":"^0.4.0","features":["transport"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73c96b0c62ead9469c32e4465a546f98424154999fac6ad00e575f3235155746","features":{},"yanked":false}

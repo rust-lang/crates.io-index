@@ -1,0 +1,1 @@
+{"name":"tinypci","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc2efd6f9fe55de26c09de909fdaff87f8b6641a778d6b587672257a7a38deb9","features":{"default":["std"],"std":[]},"yanked":false}

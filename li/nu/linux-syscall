@@ -1,0 +1,1 @@
+{"name":"linux-syscall","vers":"1.0.0","deps":[{"name":"linux-errno","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1ca924c756acef088aa8d06e6a0b0d47d3ba5587b5bbc8a7255f10c1be10c30","features":{},"yanked":false}

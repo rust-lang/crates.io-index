@@ -1,0 +1,2 @@
+{"name":"easy_node","vers":"0.1.0","deps":[{"name":"drop_tracer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"423891700e493fefd536d6c762d9e7a7fa00a68cae7bfbc0c6ac7daf64752ca6","features":{},"yanked":false}
+{"name":"easy_node","vers":"0.2.0","deps":[{"name":"drop_tracer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"50fbf4e516add826b64907a444cfc908c6efe61f96b1e19544518d39069fa07f","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"ident_gen","vers":"0.1.0","deps":[],"cksum":"b203c481a55a980265446063f7ceea993b4548260f56fd4af23933c50111ac60","features":{},"yanked":true}
+{"name":"ident_gen","vers":"0.1.1","deps":[],"cksum":"9f18afc05e9ab3344c6b1b1c54d493caa6719b7d3e3d233db81824d6084e076f","features":{},"yanked":false}
+{"name":"ident_gen","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f03e5ee0d03e393951d8f2f65c5d299d94f4f954955b530b34923b19754ae0fd","features":{"std":[]},"features2":{"serde":["dep:serde","std"]},"yanked":false,"v":2}

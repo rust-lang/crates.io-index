@@ -1,0 +1,1 @@
+{"name":"rand-wyrand","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand_core","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a2fb2bf4c63a7fc195b8a4d9b0d632f18c5f6b630f7be3e8cdd92f1d7c52e77","features":{},"yanked":false}

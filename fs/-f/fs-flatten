@@ -1,0 +1,1 @@
+{"name":"fs-flatten","vers":"0.0.0","deps":[{"name":"diagnostic-quick","req":"^0.3.0","features":["walkdir","globset"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b0130d8e83a2b32fd32edd7574d6c5cb64e3eadfd1a22dcebb30bff578a284c","features":{"default":[]},"yanked":false}

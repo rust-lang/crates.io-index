@@ -1,0 +1,2 @@
+{"name":"dualhashkey","vers":"0.1.0","deps":[{"name":"const-fnv1a-hash","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f7a769f35c901abb79907408b994b59982e49cb935720bdc95e91a0f044c9a7","features":{},"yanked":false}
+{"name":"dualhashkey","vers":"0.1.1","deps":[{"name":"const-fnv1a-hash","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c523c56d6c82be2a3a74cdc2e1d933e44a019881c2d38c1028de0bca433e6d","features":{},"yanked":false}

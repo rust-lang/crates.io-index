@@ -1,0 +1,2 @@
+{"name":"gallium_ecs_derive","vers":"0.1.0","deps":[{"name":"syn","req":"^0.11.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e92f9f869423a63a61c43d2b08b754607f434aedd40ef1a1c816d8886e9dd22","features":{},"yanked":false}
+{"name":"gallium_ecs_derive","vers":"0.1.1","deps":[{"name":"syn","req":"^0.11.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a97f683cccae5954de7488d60e82a7a1341cc84fbdb12a1df75187456853b2f1","features":{},"yanked":false}

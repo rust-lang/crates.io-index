@@ -1,0 +1,2 @@
+{"name":"furigana","vers":"0.1.0","deps":[{"name":"wana_kana","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8a103c051c253f27e6f03f7fd8e82054ec42d4af0740c4b5a7aff6bc6c7e143","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"furigana","vers":"0.1.1","deps":[],"cksum":"9f66a30b0d76741b8ddf54f5cd6bd80c635810ce9dcef147c14ee545e1b07bcd","features":{},"yanked":false,"rust_version":"1.56"}

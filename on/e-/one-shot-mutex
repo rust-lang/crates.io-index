@@ -1,0 +1,2 @@
+{"name":"one-shot-mutex","vers":"0.1.0","deps":[{"name":"lock_api","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ab252a69210b0deb4dc8d8695c257d718b058c69a7c3ac6d83cf78310eb6ece","features":{},"yanked":false}
+{"name":"one-shot-mutex","vers":"0.1.1","deps":[{"name":"lock_api","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c32f39cf70e43cb1488b67fd6adbc9c0ccaac00fe751ee0d02f82fcfe6267e2","features":{},"yanked":false}

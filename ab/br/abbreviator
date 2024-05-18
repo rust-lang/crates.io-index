@@ -1,0 +1,10 @@
+{"name":"abbreviator","vers":"0.1.0","deps":[],"cksum":"5f7291629c12b2ce55028c3960fb87e1bae97ae5ad94c2336d13095338db6412","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.1","deps":[],"cksum":"b38a343831640c08d08d072d88a045eeb9deddc4b466bb74717a4b78aae09c85","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.2","deps":[],"cksum":"d2c269f28f637d658edf6e9459bb967bd382b84af8a311c89e32ef9a360d8d8f","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.3","deps":[],"cksum":"13c37f869adab770a121c3d465ddfcc28d6b076fe879593b5530bfdc7af143b6","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.4","deps":[],"cksum":"b75a5578259151a2616bff3a7b3126d122172820249c856b9fbf0a8aa17e2392","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.5","deps":[],"cksum":"1062469057e03e9323c9164cbb884de82f94806ebf183c54e4265c93f9e23002","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.6","deps":[],"cksum":"9cb913ac9bdc5033aea7da1cfce847ce66d48891f195e9d514902d73d76d096d","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.7","deps":[{"name":"unicode-segmentation","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a82d270c6c2d75411aac08106e391aec5216abd56b7bbd0b73dc9c9ab244c78a","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.8","deps":[{"name":"unicode-segmentation","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad3f908d472e77a612054746b56ae0c72f3cee0a627277f3174f0623eeb40b85","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.9","deps":[{"name":"unicode-segmentation","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5226dc243f0c694caebbaaef08d82a6c8ae9f320c0aa381afed9e964456a0720","features":{},"yanked":false}

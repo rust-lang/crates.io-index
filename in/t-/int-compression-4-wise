@@ -1,0 +1,2 @@
+{"name":"int-compression-4-wise","vers":"0.1.0","deps":[],"cksum":"d27e270e4f4b360e1a21c6fa48c8a4ad0d6361a4e5d700ed821e19dbaa0a69c3","features":{},"yanked":false}
+{"name":"int-compression-4-wise","vers":"0.1.1","deps":[{"name":"get-size","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smallvec","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d218aeac462bf22d760f16314bc0793a0840b020d3e8f08e87dc04d2b750452b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tupiter","vers":"0.1.0","deps":[{"name":"tupiter-proc-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abf01da2d2f81f7ecb7278879fa954552a9bf95cdb0359baf112d2f5a1a3c04b","features":{},"yanked":false}
+{"name":"tupiter","vers":"0.1.1","deps":[{"name":"tupiter-proc-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26ef0bbc4c835a059b61db8ee88342cb9484f95c5c91ed4481d19922ab365216","features":{},"yanked":false}

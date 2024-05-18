@@ -1,0 +1,2 @@
+{"name":"imxrt1062-pit","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4533b78f2c676c6a2209adba1bfb9fc23e10d9193a1fe4917dd5db003dd5f455","features":{},"yanked":false}
+{"name":"imxrt1062-pit","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74ff6d509d5b8b571817f154a4c3975f345f6bbf008b335d920ed5cb39358b5d","features":{},"yanked":false}

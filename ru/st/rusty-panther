@@ -1,0 +1,2 @@
+{"name":"rusty-panther","vers":"0.0.0","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a16ba3e26219df5b16f85816354c446c9874ef393c7997d074eefecd649977","features":{},"yanked":false}
+{"name":"rusty-panther","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cf5c097addb55052cfe2ead52b618e71fbc8ee9d109e3eaea807fe090ec46ea","features":{},"yanked":false}

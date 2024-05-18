@@ -1,0 +1,1 @@
+{"name":"nclosure","vers":"0.1.0","deps":[{"name":"chain-trans","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e6067e483dea18759825fb2b4aa55165a31b36dbea52d08aaf2c07fb08eaa7a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

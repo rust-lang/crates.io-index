@@ -1,0 +1,1 @@
+{"name":"bevy_mod_orbits","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"bevy","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c056082ffa30bbdd5a9fa26c5aac3b23f471cb52a90a6ec4ab4fd28f5fafc52c","features":{},"yanked":false}

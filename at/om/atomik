@@ -1,0 +1,2 @@
+{"name":"atomik","vers":"1.0.0","deps":[],"cksum":"76916ba7f7f9b5484a84f1a6221ed51eb11bb18c14c84785acd868d019182040","features":{},"yanked":false}
+{"name":"atomik","vers":"1.1.0","deps":[{"name":"atomic-polyfill","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba7d96e1b273430467cfbada0c82504e278ca143b5e4acd0cf20bee1e5939a10","features":{"critical-section-polyfill":["atomic-polyfill"]},"yanked":false}

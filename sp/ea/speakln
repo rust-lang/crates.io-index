@@ -1,0 +1,1 @@
+{"name":"speakln","vers":"0.0.1","deps":[{"name":"once_cell","req":"^1.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tts","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18e2fc6adba06b0ecab975ab98dae05f48714ea53274ad099cb43c15fc15b5e4","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"trinitry","vers":"0.0.0","deps":[],"cksum":"e463291fd15e799cbbe0bb70482d793155f77c9838a601d623aa787aac391b35","features":{},"yanked":false}
+{"name":"trinitry","vers":"0.1.0","deps":[{"name":"pest","req":"^2.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.7.5","features":["grammar-extras"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e621b4c92c4b0f30ab567a40e86ec725a2e100fab055379ec4b320185d781d4","features":{},"yanked":false}

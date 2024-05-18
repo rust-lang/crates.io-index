@@ -1,0 +1,4 @@
+{"name":"block-grid","vers":"0.1.0","deps":[],"cksum":"3f7638344aa0bdaca8651c0b39b07de4d0d5963a82541c0dcd91b2cc84b7690e","features":{},"yanked":false}
+{"name":"block-grid","vers":"0.1.1","deps":[],"cksum":"6cca2fbda76a554780811ae671b9c412dde89303f9b1dad116e0abd8232d84c1","features":{},"yanked":false}
+{"name":"block-grid","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive","alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6958970fdabdc7ae2b04e6fd99ef54fffd4f99052cf412791433392ddee6d627","features":{},"yanked":false}
+{"name":"block-grid","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0","features":["derive","alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f809005cd061d5ff0531a501ef8911368b7b54102c5ceecb82ab96b1c6a0af7b","features":{},"yanked":false}

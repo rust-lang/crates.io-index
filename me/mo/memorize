@@ -1,0 +1,2 @@
+{"name":"memorize","vers":"1.0.0","deps":[{"name":"hashbrown","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4f30d3815a67433c964f11de00443480a21b9f6d0f7f3b357497a9d0cce464c","features":{},"yanked":false}
+{"name":"memorize","vers":"2.0.0","deps":[{"name":"hashbrown","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b505dbd3a88b64417e29469500c32af2b538ba5f703100761f657540a1c442d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rascal_parser","vers":"0.1.1","deps":[{"name":"rascal_scanner","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98349e42f65352c12efbe82591bc0dcd563623fa0fa96aa2792661ffb28fbcf6","features":{},"yanked":false}
+{"name":"rascal_parser","vers":"0.1.2","deps":[{"name":"rascal_scanner","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87350c5f096efd17a050b81a817e0c0b033872ec8ef573fefffb75d4a330884e","features":{},"yanked":false}

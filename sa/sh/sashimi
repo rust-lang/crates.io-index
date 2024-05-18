@@ -1,0 +1,2 @@
+{"name":"sashimi","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b793a6203c4d5e8a2386e8a8cd1d841eca1302f96806728a3fcbe3f5e239f3e","features":{},"yanked":false}
+{"name":"sashimi","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7244d820aee041a9d04475204dd00df758b9a1bf85d0d37fbaab3b8a7ba21783","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"leb128","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.76","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03aa44ddc56d06604218eb84d74dad8e59342f308f2fe5534c8ab6c1e1876d28","features":{"nightly":["clippy"]},"yanked":false}
+{"name":"leb128","vers":"0.2.0","deps":[],"cksum":"fae1e955eb4170323d5389f7b61d4e3dfe118830ee8a4ad0e51a53f4d6230052","features":{"nightly":[]},"yanked":false}
+{"name":"leb128","vers":"0.2.1","deps":[],"cksum":"792224a73787e4b0f59e387e4f53d23dfc1d72e3c82fcbf6d3e14de6aabad212","features":{"nightly":[]},"yanked":false}
+{"name":"leb128","vers":"0.2.2","deps":[],"cksum":"0c0142257604e9684c86d150b2efec07cf4a03feac420bb7fa017c1af932341d","features":{"nightly":[]},"yanked":false}
+{"name":"leb128","vers":"0.2.3","deps":[],"cksum":"667858d20b00532d1f54049323beb1e352df59664d16aa9c2de8a9e257d1e994","features":{"nightly":[]},"yanked":false}
+{"name":"leb128","vers":"0.2.4","deps":[{"name":"quickcheck","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3576a87f2ba00f6f106fdfcd16db1d698d648a26ad8e0573cad8537c3c362d2a","features":{"nightly":[]},"yanked":false}
+{"name":"leb128","vers":"0.2.5","deps":[{"name":"quickcheck","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"884e2677b40cc8c339eaefcb701c32ef1fd2493d71118dc0ca4b6a736c93bd67","features":{"nightly":[]},"yanked":false}

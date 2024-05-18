@@ -1,0 +1,1 @@
+{"name":"image_tools","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"949da3284bfd24638977b54145825c3179ff7b31d8fd1ddba339dda00ed5a769","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":[]},"yanked":false}

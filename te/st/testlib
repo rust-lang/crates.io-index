@@ -1,0 +1,6 @@
+{"name":"testlib","vers":"0.1.0","deps":[],"cksum":"b519df664c1ebfba436809bf72f1f5bb6edcc859b406fd9ee479d88f3ef0f42f","features":{},"yanked":false}
+{"name":"testlib","vers":"0.1.1","deps":[],"cksum":"24e9943d57156016c5ea77d9cc325dc0e6f09e0327112abed29541320daa41eb","features":{},"yanked":false}
+{"name":"testlib","vers":"0.1.2","deps":[],"cksum":"93513104b04d31e134751f07efa5ed455de6a6d18e180e5733326488c2fddcba","features":{},"yanked":false}
+{"name":"testlib","vers":"0.1.4","deps":[],"cksum":"a825c419ba95aa58bfc7f791b0b84fdf26891f6785be4e931b0ccb60762a4e5b","features":{},"yanked":false}
+{"name":"testlib","vers":"0.1.5","deps":[],"cksum":"f371e953c285990a58bc7a0504bb8b60775b7f97a43f5fc4b464402b2cbeeb2e","features":{},"yanked":false}
+{"name":"testlib","vers":"0.1.6","deps":[],"cksum":"379cc327196b4b9bb03307ac2a8e153d9c66e931cf1bf8ac8739da08f6739cdb","features":{"default":["testkernel"],"testkernel":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"string-to-num","vers":"0.1.1","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14c7d2eb4961370ea831082ebc41bb3b01e6454ce1977cca2822c01fc71b027c","features":{},"yanked":true}
+{"name":"string-to-num","vers":"0.1.2","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f75b5a5bbfc320239ad809e1510a486594cdff0164ff9e49ea8f6adfb170114","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"yash-arith","vers":"0.1.0","deps":[],"cksum":"0f8ba99a72f21be230e835539460253b7aa445ef056d41d30d43b5b160bc3d0a","features":{},"yanked":false,"rust_version":"1.58.0"}
+{"name":"yash-arith","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa191e3a4cbf4ec20ebe8f6f73e7061b77201e4f8c5a073df77227c0607f4f6","features":{},"yanked":false,"rust_version":"1.58.0"}
+{"name":"yash-arith","vers":"0.2.1","deps":[{"name":"thiserror","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ca3530b8348e162821b20141f5ac04d35d6bc0a2c95e328f2cd280790078ec9","features":{},"yanked":false,"rust_version":"1.58.0"}

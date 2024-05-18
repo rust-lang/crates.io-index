@@ -1,0 +1,7 @@
+{"name":"wasi-nn","vers":"0.1.0","deps":[],"cksum":"0c909acded993dc129e02f64a7646eb7b53079f522a814024a88772f41558996","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.2.0","deps":[],"cksum":"02be6b1a96b6caefda979ee92b58948c1f90bacc299ed9872ed7e9a54d367c65","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.2.1","deps":[],"cksum":"80715609d32850b55b000f7061a0b796d374bd37aa261db94eae0a6c2b35ccf8","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.3.0","deps":[],"cksum":"1820aa9f0aa2f1e240d52f65179f9ab2fc7afdbec2ee58ed6fe3c3dbf074fdfd","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.4.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa4541d3bf5ef0833f41834b1df9900fb79551178418c86679eab2285ebe817d","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.5.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d01b90f0cca3f19682e90e1bc3f5e3e441031e19e56ce7dbf034f3b3597552","features":{},"yanked":false}
+{"name":"wasi-nn","vers":"0.6.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7031683cc05a71515d9200fb159b28d717ded3c40dbb979d1602cf46f3a68f40","features":{},"yanked":false}

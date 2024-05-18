@@ -1,0 +1,1 @@
+{"name":"no-sql","vers":"0.0.0","deps":[{"name":"redis","req":"^0.23.3","features":["tokio-comp"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59db0ad9b5393108853d3bec17c09dc231b684467c4bb35b2dad8ab336f3d2b0","features":{},"yanked":false}

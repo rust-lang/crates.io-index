@@ -1,0 +1,1 @@
+{"name":"dash","vers":"0.1.0","deps":[{"name":"clap","req":"~2.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a08263c6311d4145de6d544077d9c219e61f3b20b4146b89d2a82d43a701d40","features":{},"yanked":false}

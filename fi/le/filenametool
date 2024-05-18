@@ -1,0 +1,2 @@
+{"name":"filenametool","vers":"0.2.0","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81c1570d9f663b06f24c895136abf3f68385d8fee26fb6da5c79aa4220719fdc","features":{},"yanked":false}
+{"name":"filenametool","vers":"0.2.1","deps":[{"name":"clap","req":"^3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab21435094ba39c35c8621f2969b83d06954e5dc4520c92e9f0e79ff42c2dea8","features":{},"yanked":false}

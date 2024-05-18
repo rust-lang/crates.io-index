@@ -1,0 +1,2 @@
+{"name":"coolprop-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cdce03fd62d037f87f1350786899e78dabc0b72c5c646af2be79418a9a761ce4","features":{},"yanked":false}
+{"name":"coolprop-rs","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"39e00ed968568471491a09101aa6c1f792a1b56acbbf9a5f61b8a494ce05cbac","features":{},"yanked":false}

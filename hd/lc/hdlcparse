@@ -1,0 +1,2 @@
+{"name":"hdlcparse","vers":"1.0.0","deps":[{"name":"nom","req":"^7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"064e0628d494d1d4ffd521dca03d216963302d3d7881c48b9fdd48491581976f","features":{},"yanked":false}
+{"name":"hdlcparse","vers":"2.0.0","deps":[{"name":"nom","req":"^7.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"93e734e266801c57dd0f03e72b8091bb6ec637011ae60f93671a507cf9038166","features":{"default":["std"],"std":["nom/std"]},"yanked":false}

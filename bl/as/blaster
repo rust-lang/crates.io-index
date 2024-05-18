@@ -1,0 +1,1 @@
+{"name":"blaster","vers":"0.0.0","deps":[{"name":"blas","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"openblas-src","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a670c24e2a8dab2359727e262a42e992a2768752a6c0405c28004277d145827f","features":{},"yanked":false}

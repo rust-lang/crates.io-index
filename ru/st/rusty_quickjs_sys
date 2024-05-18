@@ -1,0 +1,1 @@
+{"name":"rusty_quickjs_sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c0a63994cee188c4df916d7c49c1b0b62969d724cb23da353e57a9e6c3bf7cc6","features":{},"yanked":false}

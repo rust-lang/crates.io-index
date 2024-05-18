@@ -1,0 +1,1 @@
+{"name":"zalloc","vers":"0.1.0","deps":[{"name":"zeroize","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6573e1a2893f553c24a9e9b9ca7929bf916b8f039613ebc107349fd099dfb4e4","features":{"allocator":[]},"yanked":false}

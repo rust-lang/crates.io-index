@@ -1,0 +1,4 @@
+{"name":"music-note","vers":"0.1.0","deps":[],"cksum":"7333b10fe616f7d6df5e8ed9d92bf0eedf272a47f9514b6bb8af8b909858b4ab","features":{},"yanked":false}
+{"name":"music-note","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fee35502f48e42201d9dfc0778b58a550f4b110f16dbd6325c33636b160ac9d","features":{},"yanked":false}
+{"name":"music-note","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cb69e31b7694eb9ecd221aa4afeda49ae82bffb6a135753e51d90d713ae1f5f","features":{},"yanked":false}
+{"name":"music-note","vers":"0.3.1","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e2d70f970c4e4336396f1a56f28e315dbd4188109e680acfa5dd6475f475954","features":{},"yanked":false}

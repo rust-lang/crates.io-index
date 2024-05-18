@@ -1,0 +1,2 @@
+{"name":"x265","vers":"0.1.0","deps":[{"name":"x265-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"709e6c10bfbcd6663ba42c18c8b82e7cf8696f6eaa0b036a72db58b916e997bc","features":{},"yanked":true}
+{"name":"x265","vers":"0.1.1","deps":[{"name":"x265-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77a95468b6cacb4756793c592f3985a73214a7d486c3d55d865144294cf60f72","features":{},"yanked":true}

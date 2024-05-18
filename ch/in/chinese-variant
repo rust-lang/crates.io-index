@@ -1,0 +1,15 @@
+{"name":"chinese-variant","vers":"1.0.0","deps":[],"cksum":"ac0cdccfee611d780c1cd8b75706c90d712e3bd3e670ed83c39c6e8636301255","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.1","deps":[],"cksum":"b0ed3a8b25b75884f5bf579e548e68d1f0d4dd991ad9f17bfc0933bc80498045","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.2","deps":[],"cksum":"fd35de2538231fa210686cff1b5bf1f529f09560adeb5a315615da42205f0e49","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.3","deps":[],"cksum":"f85c3dafb4b5adfdd0ba0adf9bdae28342f5d1c58f9b5a77a676e0aab8264995","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.4","deps":[],"cksum":"05bd7ae057c3cbcae071357fcccd7c6b48928054007c64bc96680f028b95cdc5","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.5","deps":[],"cksum":"f49223e231dd3401ae7006d7f3656e4f825c8b4098993a1159166b51628dd91a","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.6","deps":[],"cksum":"a93c25c21635ccf9f8741c3145b0e3d5967e46b9f98f1d83e0b04fd36b8f35a2","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.7","deps":[],"cksum":"40fa7fa776c418515ced4333775f555c62d6c1a46cabfb8b4cc588edee71e658","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.8","deps":[],"cksum":"2ce811d9fbfaf86cd06e61970ab3a5a140b8328228b29234bbcb3ebbd613de68","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.9","deps":[],"cksum":"aeea139b89efab957972956e5d3e4efb66a6c261f726abf6911040cc8ef700f7","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.10","deps":[],"cksum":"5429e5980bca6e6f205e18f93d380f6efe81ea8305e11518ac6f51fa9f1a344d","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"chinese-variant","vers":"1.1.0","deps":[{"name":"enum-ordinalize","req":"^4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5794a7f6ce8dded798157e56ec5335409c1ff432245a89e30a14bbb130639d66","features":{"default":[]},"features2":{"enum-ordinalize":["dep:enum-ordinalize"]},"yanked":true,"rust_version":"1.56","v":2}
+{"name":"chinese-variant","vers":"1.1.1","deps":[{"name":"enum-ordinalize","req":"^4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12170727fe7a627737f0e7374fbc41f4808e1279af5777df2cdb9486dd054282","features":{"default":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"chinese-variant","vers":"1.1.2","deps":[{"name":"enum-ordinalize","req":"^4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17df2e16b0704fc5413214165d1bfdd619f18b1044d5991d5c5351b05fee852e","features":{"default":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"chinese-variant","vers":"1.1.3","deps":[{"name":"enum-ordinalize","req":"^4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7588475145507237ded760e52bf2f1085495245502033756d28ea72ade0e498b","features":{"default":[]},"yanked":false,"rust_version":"1.60"}

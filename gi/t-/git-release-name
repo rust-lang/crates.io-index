@@ -1,0 +1,2 @@
+{"name":"git-release-name","vers":"0.1.0","deps":[{"name":"Inflector","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c2ba06af11b3bc2170e01aad60907730298b1832b739d214a14d8d0d6aa701","features":{},"yanked":false}
+{"name":"git-release-name","vers":"0.2.0","deps":[{"name":"Inflector","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f450400af8887c6c1b6e3bb1cd4722414dd447c3170271dd0ca03505b7a49e72","features":{},"yanked":false}

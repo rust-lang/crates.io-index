@@ -1,0 +1,2 @@
+{"name":"ptime","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ecfb47924669220e49a6249054a59dfa8dd4b00bf4ef26e25ad41551628b80a","features":{},"yanked":false}
+{"name":"ptime","vers":"0.1.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"242c83cf47ae6f1d53e99ea7d959ec637a10506ce5c853b1ad81f73dd6d60694","features":{},"yanked":false}

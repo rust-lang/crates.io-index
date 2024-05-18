@@ -1,0 +1,2 @@
+{"name":"nom-methods","vers":"0.1.0","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c303da8d71c70a57c5f4d470247e858c24d5201bd9069da3024686c7185643","features":{},"yanked":false}
+{"name":"nom-methods","vers":"0.2.0","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"268462e626e89e436c733a47a28c608ece2adb6c08fc1f68dcaebb7fd6408cf6","features":{},"yanked":false}

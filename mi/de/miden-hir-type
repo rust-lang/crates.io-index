@@ -1,0 +1,2 @@
+{"name":"miden-hir-type","vers":"0.0.0","deps":[],"cksum":"df1fe54785c9b32fbffe383a32326c65107f78b9d958c950d88c3b8ea93029d3","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"miden-hir-type","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.9","features":["union","const_generics","const_new"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40c199761ece0ac7c033907e70dc4d91b9468a0dbdcaae6ad2e52c8371659ef0","features":{},"yanked":false,"rust_version":"1.71"}

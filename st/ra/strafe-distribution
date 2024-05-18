@@ -1,0 +1,2 @@
+{"name":"strafe-distribution","vers":"0.1.0","deps":[{"name":"r2rs-nmath","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d41ec93852c90dcfcacae28a78567c77774ad431910e2932ead474429c852da","features":{},"yanked":true}
+{"name":"strafe-distribution","vers":"0.1.1","deps":[{"name":"r2rs-nmath","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"120b1bd6fa6aa4670c9345159305383bd5caf79baf6242b94173eeff2fb9e2fd","features":{},"yanked":false}

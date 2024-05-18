@@ -1,0 +1,2 @@
+{"name":"fly_bevy","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"523c0bb12e2e3e6becfe0493344cf67d46d2b22046913ce16519a30b4772a7b6","features":{},"yanked":false}
+{"name":"fly_bevy","vers":"0.10.2","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eaeab29644f63dd841109bb2285e4ae13e1cf3325d94c602d68a3ca9374a12f","features":{},"yanked":false}

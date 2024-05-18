@@ -1,0 +1,1 @@
+{"name":"omo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"285d93f8bb1f12ed88ac395cc9848d66b9b8137a15286a43601b383d9b7a0f7d","features":{},"yanked":false}

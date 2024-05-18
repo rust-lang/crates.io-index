@@ -1,0 +1,2 @@
+{"name":"chalk-macros","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"295635afd6853aa9f20baeb7f0204862440c0fe994c5a253d5f479dac41d047e","features":{},"yanked":false}
+{"name":"chalk-macros","vers":"0.10.0","deps":[{"name":"lazy_static","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4782d108e420a1fcf94d8a919cf248db33c5071678e87d9c2d4f20ed1feb32","features":{},"yanked":false}

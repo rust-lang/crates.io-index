@@ -1,0 +1,1 @@
+{"name":"fmutex","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.117","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"temp-dir","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01e84c17070603126a7b0cd07d0ecc8e8cca4d15b67934ac2740286a84f3086c","features":{},"yanked":false}

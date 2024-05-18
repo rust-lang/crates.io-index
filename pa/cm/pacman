@@ -1,0 +1,4 @@
+{"name":"pacman","vers":"0.1.0","deps":[{"name":"rust-ini","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f237a1b92386d8faa39c9bea78f1512da8cd31f8724bb78aa72480024d1b5137","features":{},"yanked":false}
+{"name":"pacman","vers":"0.1.1","deps":[],"cksum":"a5824341a4b8ae1fdd4b15188593a53d35b27edbe217792004e5e05a76628c9b","features":{},"yanked":false}
+{"name":"pacman","vers":"0.1.2","deps":[],"cksum":"f270148df66aa4f9d2db2c4e42ba85e2db58c02c192bf3615ae1ef641637a06d","features":{},"yanked":false}
+{"name":"pacman","vers":"0.1.3","deps":[],"cksum":"35c6d0420e81420c573cbdf0b3ced6cdb424434d12ffbf46dc56f0c8afc9db94","features":{},"yanked":false}

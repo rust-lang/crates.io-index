@@ -1,0 +1,2 @@
+{"name":"rocket_extra_codegen","vers":"0.0.0","deps":[],"cksum":"d79e575599537cd948a367e1fe2a32c6024804982893dfe0a61ce5d2f83ad704","features":{},"yanked":true}
+{"name":"rocket_extra_codegen","vers":"0.1.0","deps":[{"name":"quote","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.15.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1074061a928e9ff33cdcc83fe89441c8674f76476e9e7f264dd2f8becafd6a96","features":{},"yanked":false}

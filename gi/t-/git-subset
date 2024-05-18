@@ -1,0 +1,1 @@
+{"name":"git-subset","vers":"0.1.0","deps":[{"name":"clap","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"git2","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f67c30e225124413fe7bdb08c144e4f5db587e963957c9038eb75418a6878a","features":{},"yanked":false}

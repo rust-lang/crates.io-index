@@ -1,0 +1,2 @@
+{"name":"echo-adb","vers":"1.0.0","deps":[{"name":"regex","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ef15915c5b32f0e04fd0a9dce8bb883def632f3a9bf43d93d8bc32af3e9cad5","features":{},"yanked":false}
+{"name":"echo-adb","vers":"1.0.1","deps":[{"name":"regex","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6dd4383ed5ae0d2f6162a8eb6c6ca68babbca91a81ab707bee50be384af89fc","features":{},"yanked":false}

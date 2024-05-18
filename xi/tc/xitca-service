@@ -1,0 +1,1 @@
+{"name":"xitca-service","vers":"0.1.0","deps":[{"name":"xitca-unsafe-collection","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09a4a38548b14925111dd99560f0a10d1eb9e3e117fa5471c35387ed6f77b58c","features":{"alloc":[],"std":[]},"yanked":false}

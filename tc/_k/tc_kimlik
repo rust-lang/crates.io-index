@@ -1,0 +1,2 @@
+{"name":"tc_kimlik","vers":"0.1.0","deps":[],"cksum":"532639965eb8635e84ab154f77b12c3c55d8b3e0abdd7b1c02e1775e81639554","features":{},"yanked":false}
+{"name":"tc_kimlik","vers":"0.2.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95920b47ccb8269ed88cf9b5ec87e02c85da73ec6f5790a0574e8e35126b59ec","features":{},"yanked":false}

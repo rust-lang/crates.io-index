@@ -1,0 +1,1 @@
+{"name":"whitepool","vers":"1.0.0","deps":[{"name":"tokio","req":"^1.18.0","features":["rt-multi-thread","macros","time","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd781ab782f08d2739dc9ec04d27230ab260450a8ed92325b8f3aff606555bcf","features":{},"yanked":false}

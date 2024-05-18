@@ -1,0 +1,1 @@
+{"name":"rust-cat","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ctrlc","req":"^3.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c6888febd0d42f3b89bed9e7a0dc48cb3927c2a267eafd592ddc2f5d9abb6b7","features":{},"yanked":false}

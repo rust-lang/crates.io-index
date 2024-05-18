@@ -1,0 +1,4 @@
+{"name":"matrix_kit","vers":"0.1.0","deps":[],"cksum":"f5655bd08b3fe5ae61c06967ac94c6554fbe511ddca4e2704292ee136e93eb0c","features":{},"yanked":false}
+{"name":"matrix_kit","vers":"0.1.1","deps":[],"cksum":"33b66b85b1c8954a7c33d2b999a6f43824043c7c7e6292a48e8af3b086faabb6","features":{},"yanked":false}
+{"name":"matrix_kit","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2591ee79a2dc69350af79a67c4e21f1405b4d416a56a74d6df0ecbedbd962d79","features":{},"yanked":false}
+{"name":"matrix_kit","vers":"0.1.3","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d129733763aa602c7ca751790044cde402c8053a326dd1b9825c0f2516090f2a","features":{},"yanked":false}

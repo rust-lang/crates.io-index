@@ -1,0 +1,3 @@
+{"name":"refraction","vers":"0.1.0","deps":[],"cksum":"57396b5276c304538a7e5fdd4fa98656977773309e1a38df5c7cf9aaa20a051c","features":{"nightly":[]},"yanked":false}
+{"name":"refraction","vers":"0.1.1","deps":[{"name":"nodrop","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"baab3a63a69794494ed0602f39e044b5b18da54cb9fac222ba2f24331b8a2aea","features":{"nightly":["nodrop/use_union"]},"yanked":false}
+{"name":"refraction","vers":"0.1.2","deps":[{"name":"nodrop","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e769eba5bdac8735efe84fa3924ec5168d808bf7df7fc2596bee922c377d222a","features":{"nightly":["nodrop/use_union"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"maghemite","vers":"0.1.0","deps":[{"name":"iota","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2340c93c9395373157fed4e0a28a61fded9986f9c3e4a883db2c9ce9143b7a7d","features":{},"yanked":false}

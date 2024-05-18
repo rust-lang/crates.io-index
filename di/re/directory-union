@@ -1,0 +1,1 @@
+{"name":"directory-union","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.26.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"316449b03bfc0981463fbaeea8702223e863609b5603bad6686fc8dc8d27a719","features":{},"yanked":false}

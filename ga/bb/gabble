@@ -1,0 +1,2 @@
+{"name":"gabble","vers":"0.1.0","deps":[{"name":"rand","req":"0.8.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28505538a98cf814a96df4acfe2e2aeb3d8ba44f64825df9e93551512b979ccc","features":{},"yanked":false}
+{"name":"gabble","vers":"0.1.1","deps":[{"name":"rand","req":"0.8.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db38073bc74024a1df0d96ae40a8d51ae83d81f6994d7776f5925a7e0ce3368a","features":{},"yanked":false}

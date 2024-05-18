@@ -1,0 +1,7 @@
+{"name":"checked","vers":"0.1.0","deps":[],"cksum":"d2d14c86785bca08e5b28c7fde44bfef3df1580d8b0fce9ce4ed60ac525dc979","features":{},"yanked":false}
+{"name":"checked","vers":"0.1.1","deps":[],"cksum":"68679115f4195c7f538fc8ea4668ba6f35d13f3ea893359ccd82c39282df9433","features":{},"yanked":false}
+{"name":"checked","vers":"0.2.0","deps":[],"cksum":"84126c901f11f554f954e25d51b84d9091832427d531644be33aed1bffcf42d0","features":{},"yanked":false}
+{"name":"checked","vers":"0.3.0","deps":[],"cksum":"10d742a66cc0bb93de04805685ffc926a6c4a5519edc15436820c5109929998e","features":{},"yanked":false}
+{"name":"checked","vers":"0.3.1","deps":[],"cksum":"44a1edefd5cf653eda3836373f674a1c39257211c99bcc4dd0690fc7a823e540","features":{},"yanked":false}
+{"name":"checked","vers":"0.4.0","deps":[],"cksum":"8911aa015f29fe65f2874757a302180a19b107f9b41f69e27b63a343974b7305","features":{},"yanked":false}
+{"name":"checked","vers":"0.5.0","deps":[{"name":"num-traits","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e82b46c41844dee0195a9eb4691446e58848996aa3a70d97f4966b48790bae69","features":{},"yanked":false}

@@ -1,0 +1,8 @@
+{"name":"xor_cryptor","vers":"1.0.0","deps":[],"cksum":"da2f1c410411981f5b49d0042798cc7937b9b64e09a93c61d17e2cf79994e935","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.0.1","deps":[],"cksum":"0dc65adef4b696033be009366a637d3942dcce46ab5e8223b6fd2f15a6daba7a","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.0.2","deps":[],"cksum":"5e2df561d3eb1a5fd2e4fa0e903d524da27316ed3b7bc8e085b9b8572e40c8e4","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.1.0","deps":[],"cksum":"b0fbc24677c92797c0cfdca47a04668c019100cc222478b74c384f0557325efc","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.2.0","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87db8ca799212e58d3c6dd0e66b2b39b492f67402823b2ddfa6de91e781b1515","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.2.1","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f9980e4c18fc0e239b95d2c6b2eae3d9efd74d9fb680614b8a7b355aa08beb","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.2.2","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c5f56458ed332cbc0c23273ab8f5b19dc47c2df37c7d57d10e172b50fae770f","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.2.3","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72e5adf4efbff008434783ea27dab065d79d4c4eb61d2f6eb1299bec75139209","features":{},"yanked":false}

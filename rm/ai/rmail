@@ -1,0 +1,1 @@
+{"name":"rmail","vers":"0.0.1","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dsn","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a60c3e6c287404edff5c46fd686af39fca60efdd3e7c3efa065fe4754b53dbc","features":{},"yanked":false}

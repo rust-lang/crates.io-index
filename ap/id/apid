@@ -1,0 +1,3 @@
+{"name":"apid","vers":"0.1.0","deps":[],"cksum":"291fcfb039b69a61595f468423ed2b5185401622f7269ff53c8e9c8675a66603","features":{},"yanked":true}
+{"name":"apid","vers":"0.1.1","deps":[],"cksum":"a5463e8553f4dfc9d4b0afcd27c6b97e68cb11bee8c135eeb655ece45d462591","features":{},"yanked":false}
+{"name":"apid","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6a4445615c1c7c8ff6f2e33cd21a295d57025ad7af3e440c8dc5291bac96c28","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"structype","vers":"3.0.0","deps":[{"name":"serde","req":"^1.0.123","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab3771719e00ab652ccdde78dec68e8752a022be573a3d4f31d2fb39a4a86692","features":{},"yanked":false}

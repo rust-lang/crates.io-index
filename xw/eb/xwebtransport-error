@@ -1,0 +1,2 @@
+{"name":"xwebtransport-error","vers":"0.1.0","deps":[{"name":"xwebtransport-core","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e9e1094e037be70e95bab905bf011f686fc76733b3e0bf64d51265a6d746bc64","features":{},"yanked":false}
+{"name":"xwebtransport-error","vers":"0.2.0","deps":[{"name":"xwebtransport-core","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d87efe75bbe3d792d90bef98e1017c762f114866dd9eeb13c6495c2d4e76cc94","features":{},"yanked":false}

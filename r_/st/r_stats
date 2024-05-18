@@ -1,0 +1,1 @@
+{"name":"r_stats","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fac9b42dead5a880623287493041f6367cf526c50884ab0143c6d75858ba77d1","features":{},"yanked":false}

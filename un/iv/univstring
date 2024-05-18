@@ -1,0 +1,2 @@
+{"name":"univstring","vers":"0.2.2","deps":[{"name":"widestring","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da7bd5d016bb92d31e1379d55360935eec12eb97ee595c9bc6396c69c4ebf773","features":{},"yanked":false}
+{"name":"univstring","vers":"0.4.3","deps":[{"name":"widestring","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c35fbe2a9536aa9aab855107129b2f71525534d88b9e5b9f57ac39bf402449d","features":{},"yanked":false}

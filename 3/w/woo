@@ -1,0 +1,1 @@
+{"name":"woo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1c2f47a7872a21c7411776dce7801b53fae4286678ec8b4910d92deb5245a10","features":{},"yanked":false}

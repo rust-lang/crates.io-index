@@ -1,0 +1,2 @@
+{"name":"build","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee0ecf82c5a2e266cd02f22c82c7969706c37032f2bb6d4ca0c2702cf70fe786","features":{},"yanked":false}
+{"name":"build","vers":"0.0.2","deps":[{"name":"rustc-serialize","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9abfddce6d6a47297f2e08e817ed4c7ad988ab6611817cdb17e05835ec832a0","features":{},"yanked":false}

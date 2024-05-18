@@ -1,0 +1,1 @@
+{"name":"rdgrep","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dbf5bf3dae9960837be019d073207af0f2853ff1057bf7ecbea28b3cde8e3ff","features":{},"yanked":false}

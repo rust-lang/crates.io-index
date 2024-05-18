@@ -1,0 +1,1 @@
+{"name":"resource-mesh-portal-serde","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.69","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76f7d33d86d2e21ac4b61dcddcc7bbe9f50ac48d0542bffabda7b55c1b1e34fa","features":{},"yanked":false}

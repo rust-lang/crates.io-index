@@ -1,0 +1,1 @@
+{"name":"hera-cmd","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71529ca94ab800b9025099dee03296076411aa187851a8b335e55dcc024dedfc","features":{},"yanked":false}

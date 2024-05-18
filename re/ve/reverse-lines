@@ -1,0 +1,2 @@
+{"name":"reverse-lines","vers":"0.1.0","deps":[{"name":"assert_matches","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d376c4065cbf3146a1d88d5ec2ddbfdc7442c2a013dde4b14307f24e09f0cbba","features":{},"yanked":false}
+{"name":"reverse-lines","vers":"0.1.1","deps":[{"name":"assert_matches","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6363d23642e19b8737972b698e7d47e63007d93ee1e11ad622fe7b62ea278890","features":{},"yanked":false}

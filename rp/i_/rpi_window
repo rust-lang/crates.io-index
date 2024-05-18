@@ -1,0 +1,2 @@
+{"name":"rpi_window","vers":"1.0.0","deps":[{"name":"pkg-config","req":"^0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"971e9738f8639415121e13e344d3ca727f178e74a32b4a324c75d63d6be63aeb","features":{},"yanked":false}
+{"name":"rpi_window","vers":"1.0.1","deps":[{"name":"pkg-config","req":"^0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c3618acd7bcb6987566f54a51896ea3755082990ec0bdc141d1e51ace997be13","features":{},"yanked":false}

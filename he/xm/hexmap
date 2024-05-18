@@ -1,0 +1,3 @@
+{"name":"hexmap","vers":"0.1.0","deps":[],"cksum":"45939cfcbd1810a4e8ceea386e5dd1748c6999fbad98574ab6e7609ce7f4c9f4","features":{},"yanked":false}
+{"name":"hexmap","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf144ff188a32834d71e795fbf094923cd72442efb07015dc21ce3b993bcadc7","features":{},"yanked":false}
+{"name":"hexmap","vers":"0.2.1","deps":[],"cksum":"2fd15b321f575bbaf802d6cc67ba3e52c89abff5ecb55514883a24de71c14091","features":{},"yanked":false}

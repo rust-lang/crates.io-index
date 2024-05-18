@@ -1,0 +1,2 @@
+{"name":"choosen","vers":"0.0.1","deps":[{"name":"reservoir-sampler","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5cb0b6abc75d56d16a45bb0ae7ff3b47a0903a85d2813df9aa61f7622d224f4","features":{},"yanked":false}
+{"name":"choosen","vers":"0.1.0","deps":[{"name":"reservoir-sampler","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c34a03830551ac3cd41026ccbd37d8d12797f16a3eb2d3ff6d57dda57243132","features":{},"yanked":false}

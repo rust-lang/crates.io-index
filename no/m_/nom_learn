@@ -1,0 +1,1 @@
+{"name":"nom_learn","vers":"0.1.1","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"text_io","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d1dc6585a03c5b76f92a32edaf9607cbc562a8c09020ba240defe317e0b993","features":{},"yanked":false}

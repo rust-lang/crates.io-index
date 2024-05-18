@@ -1,0 +1,2 @@
+{"name":"d-modules","vers":"0.1.2","deps":[{"name":"elrond-wasm","req":"^0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e2bd12f8ab437d53084ee4580e7c7837161e433dac829d984263fefe3f0895c","features":{},"yanked":false}
+{"name":"d-modules","vers":"0.1.3","deps":[{"name":"elrond-wasm","req":"^0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7c3e557ff8c59f410d48d2ec7ca2600b0a40ce3269a7460ae3d06d812c7bd5d","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"gur","vers":"0.1.0","deps":[],"cksum":"90f677478fd305384af54f4bae7529e0dc2afed74eaa48f85413e3f11c73414c","features":{},"yanked":false}
+{"name":"gur","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7a4eca9b7da86e08b7a49b0f19983a9f4cc0ff03ad8faa5e4d0beb2a565affcb","features":{},"yanked":false}
+{"name":"gur","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"08da47ae32b0ec4b9047f4007191f50855e7d45ba943fe7b80b0fbb3857085b6","features":{},"yanked":false}

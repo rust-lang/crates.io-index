@@ -1,0 +1,2 @@
+{"name":"rcl-sys","vers":"0.0.0","deps":[],"cksum":"5517d92b95191bf7457c1748dea58536c87f98d414bdd4c111ca0043317b3fbd","features":{},"yanked":false}
+{"name":"rcl-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b09943e4b5b4bc3f4edf65f80119b860592839700f20481c770a4627727b7396","features":{},"yanked":false}

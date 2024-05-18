@@ -1,0 +1,2 @@
+{"name":"tdiag-connect","vers":"0.1.0","deps":[{"name":"timely","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e236d60bc142ed1a56b0636d0d90062b9be79c75b19f4511eb29c9f5974ea35","features":{},"yanked":false}
+{"name":"tdiag-connect","vers":"0.2.0","deps":[{"name":"timely","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39500c1eeb68cf156c16197baa30c02ecb71892e688036fd421f27e9582309c0","features":{},"yanked":false}

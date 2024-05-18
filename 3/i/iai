@@ -1,0 +1,2 @@
+{"name":"iai","vers":"0.1.0","deps":[],"cksum":"fc3183a7e64841f6804c519c9153b992ec78718e514355b36520e2a7e3fc8d4c","features":{"default":[],"real_blackbox":[]},"yanked":false}
+{"name":"iai","vers":"0.1.1","deps":[{"name":"iai_macro","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71a816c97c42258aa5834d07590b718b4c9a598944cd39a52dc25b351185d678","features":{"default":[],"macro":["iai_macro"],"real_blackbox":[]},"yanked":false}

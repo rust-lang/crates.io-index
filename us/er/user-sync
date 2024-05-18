@@ -1,0 +1,2 @@
+{"name":"user-sync","vers":"0.1.0","deps":[{"name":"syscall","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc3dfea0186565f860e98ad9a2f14837bd90acd4bbfbe0ad39c33d13d0cbf0b0","features":{},"yanked":false}
+{"name":"user-sync","vers":"0.1.1","deps":[{"name":"system-call","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8803824e80aa9e5800ca861c9425c405b6696c3b2cbced1f86672db1b97434a6","features":{},"yanked":false}

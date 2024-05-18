@@ -1,0 +1,1 @@
+{"name":"i2c-i2cdev","vers":"0.0.1","deps":[{"name":"i2c","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"i2cdev","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347e35fc860a6ff48b0b6038a1a6b9184a6f1f567fa1c96315f0424bbc5d7c19","features":{},"yanked":false}

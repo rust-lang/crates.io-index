@@ -1,0 +1,2 @@
+{"name":"obfstr-impl","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8a48ecb5f2518d69594b097889639335723e8499aed2f6a4948dcce3b6279a6","features":{},"yanked":false}
+{"name":"obfstr-impl","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d975ff8aca17dea6a5db9f740bc50f8741e9bf16d01d2f501dfc93ddd67e65e4","features":{},"yanked":false}

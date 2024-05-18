@@ -1,0 +1,2 @@
+{"name":"chert_accessor","vers":"0.1.0","deps":[{"name":"cidr","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5926f7459e036199bbf48381b0998603300809ffe1b9e0f726efdec49577bf6b","features":{},"yanked":false}
+{"name":"chert_accessor","vers":"0.2.0","deps":[{"name":"cidr","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eb7d5bb2b7eee4821e4755c5f01817c6b65f4373d49177866ea55e42700c0ef","features":{},"yanked":false}

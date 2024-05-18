@@ -1,0 +1,4 @@
+{"name":"wire-rs","vers":"0.1.0","deps":[],"cksum":"d411761ef0419eb1083d689076df39fa118e437a4896fbbd9cb1681bb5afc6a8","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"wire-rs","vers":"0.1.1","deps":[],"cksum":"0c946e1e1ac9ff14d7913c3e1e0b0524cb1b2778c736ff3a6f110ce4601a3d00","features":{"default":["std"],"ioslice":["std"],"std":[]},"yanked":false}
+{"name":"wire-rs","vers":"0.2.0","deps":[],"cksum":"a4650d6a07fb955d5220e5fe76af3d269d9b86aea15e807b6565f6fd64b68855","features":{"default":["std"],"ioslice":["std"],"std":[]},"yanked":false}
+{"name":"wire-rs","vers":"0.2.1","deps":[],"cksum":"509d4517bd0e712be9515b003c2c816165e58de09b13ecca08d3d5c7c99edbc0","features":{"default":["std"],"ioslice":["std"],"std":[]},"yanked":false}

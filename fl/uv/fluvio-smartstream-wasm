@@ -1,0 +1,1 @@
+{"name":"fluvio-smartstream-wasm","vers":"0.1.0","deps":[{"name":"fluvio-dataplane-protocol","req":"^0.4.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5f9ab9cd85a8c45f818b6cbe65547215531867c3e953257706ffc38ba208ae8c","features":{},"yanked":false}

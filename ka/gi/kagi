@@ -1,0 +1,2 @@
+{"name":"kagi","vers":"0.1.0","deps":[],"cksum":"129c9d1d2f9c7ad0c28808ea1f12d314d1f6142e885199c8d549343033679164","features":{},"yanked":false}
+{"name":"kagi","vers":"0.1.1","deps":[{"name":"ahash","req":"^0.7.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bincode","req":"^2.0.0-beta.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"344c10f25093935d2d07d86281b7c1b8931fd61dcc75309501d274e7480faf33","features":{},"yanked":false}

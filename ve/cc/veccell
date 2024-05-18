@@ -1,0 +1,6 @@
+{"name":"veccell","vers":"0.1.0","deps":[],"cksum":"4ad99f2c14bf97a78a0acd6fc271c6025b2b8d99b69a9fc95c3b28c2e6b7972d","features":{},"yanked":false}
+{"name":"veccell","vers":"0.1.1","deps":[],"cksum":"d065107efc6995acec01416d617f7dfd480d8783807c879650a2fca08ac036b7","features":{},"yanked":false}
+{"name":"veccell","vers":"0.2.0","deps":[],"cksum":"072853bf1c893299200bdd3b7e595cdd69063a1fd33cc91de1a3f21a56f1ff4a","features":{},"yanked":false}
+{"name":"veccell","vers":"0.2.1","deps":[],"cksum":"1e31e80a826befbf7a68333ac23fc250dfc3e6755c74bb02234f41a19870b481","features":{},"yanked":false}
+{"name":"veccell","vers":"0.3.0","deps":[],"cksum":"33ea92bedf944211ec6bb1e46a5cd702ac390b48f9839877fba3c6adbf231438","features":{},"yanked":false}
+{"name":"veccell","vers":"0.4.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"374d5865784f959faa97e074ebe14d486dddacf3e76f16e486580d4b009037ce","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

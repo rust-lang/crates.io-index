@@ -1,0 +1,5 @@
+{"name":"simple_xml_serialize","vers":"0.1.0","deps":[],"cksum":"f1d8a1704925a4f089a24d21dfd491ce8ba91dc93024023e48270f854560ea13","features":{},"yanked":false}
+{"name":"simple_xml_serialize","vers":"0.2.0","deps":[],"cksum":"9c685c8d794d0865a9f06b14205589c87c7e07b9cc62472963b91e1df09e491e","features":{},"yanked":false}
+{"name":"simple_xml_serialize","vers":"0.2.1","deps":[],"cksum":"cd3f759e6c350727b20ec0de5c82b5e3058f5b967dace4c12cb77c64e0caa9e1","features":{},"yanked":false}
+{"name":"simple_xml_serialize","vers":"0.2.3","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"faddd1c2725904a26968bd0948be212e368c86dd0feecb5ab92ec6ddd4a85955","features":{},"yanked":false}
+{"name":"simple_xml_serialize","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f8896c3696f051907ae5e59f0c2d9fb9f7521c29d636e4a1ea4ff0e4e5aac15","features":{},"yanked":false}

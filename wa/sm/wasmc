@@ -1,0 +1,2 @@
+{"name":"wasmc","vers":"0.1.0","deps":[{"name":"wat","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"157063dcd9e1d16783ef95d0f7e28f7e9b7588dc07d026f5556f86727f54c09c","features":{},"yanked":false}
+{"name":"wasmc","vers":"1.0.0","deps":[{"name":"wat","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86694a6d039728aabdc334d15b3ce32a1bbd124c41442eec9e970864552ae015","features":{},"yanked":false}

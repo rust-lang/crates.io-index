@@ -1,0 +1,2 @@
+{"name":"jetson_gpio","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc90f35da90414fbe26e1af2edfe07d361e04cc0b14c7338fcaaa999f6453655","features":{},"yanked":false}
+{"name":"jetson_gpio","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49aae308f8127355bcf624efb8059ad6455e0e09b885a62941571f383ac556dc","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"orion-cli","vers":"0.1.0-alpha","deps":[],"cksum":"1fd284ffb8038b56826f8689d8be16cdad60b88ed2fe9fc38567e48288003c7a","features":{},"yanked":true}
+{"name":"orion-cli","vers":"0.1.1-alpha","deps":[],"cksum":"d2de08670231ff895960077316dcdf820df110d607d813b3f76bcc425f23268f","features":{},"yanked":true}
+{"name":"orion-cli","vers":"0.1.0","deps":[{"name":"rustyline","req":"^7.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2439578dcb15953c1b1d044dc20b92089bc7dac9284955d4b01727585c8c36ad","features":{},"yanked":true}

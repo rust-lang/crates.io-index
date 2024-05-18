@@ -1,0 +1,1 @@
+{"name":"bifid","vers":"1.0.0","deps":[{"name":"itertools","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c61ce9e587303d1109df7d9df8de0a654c090f81faecce852dcfa423a405d73","features":{},"yanked":false}

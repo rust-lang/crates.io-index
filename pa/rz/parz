@@ -1,0 +1,1 @@
+{"name":"parz","vers":"0.0.1","deps":[{"name":"bytemuck","req":"^1.9.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de0f6927efe7d3f58f8508d2dd32c0b5f10cb1921f04792fe3995e5871eae3a2","features":{},"features2":{"bytemuck":["dep:bytemuck"]},"yanked":false,"v":2}

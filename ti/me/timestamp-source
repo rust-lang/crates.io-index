@@ -1,0 +1,4 @@
+{"name":"timestamp-source","vers":"0.1.0","deps":[],"cksum":"283b10239bc304a7bafde3d36dbee8d557b176d948bb2866f79c9c592bdf6522","features":{},"yanked":false}
+{"name":"timestamp-source","vers":"0.1.1","deps":[],"cksum":"59792252a8ca1dd77ad53b0f794822c3a633189872ed0c3f916337f2c47c74cd","features":{},"yanked":false}
+{"name":"timestamp-source","vers":"0.1.2","deps":[],"cksum":"5513df7a380dc510d1e734c4f85c5107aa03f5f4418288c8574c088f15dcf2b4","features":{},"yanked":false}
+{"name":"timestamp-source","vers":"0.1.3","deps":[{"name":"spin","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8da72a767560769631793dd408d691a561045ad5a535da866dd0ddc6f19ca2dc","features":{},"yanked":false}

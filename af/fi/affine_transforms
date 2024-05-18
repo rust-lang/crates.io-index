@@ -1,0 +1,4 @@
+{"name":"affine_transforms","vers":"0.1.0","deps":[],"cksum":"c173a6191628f238ce11b0486647e0de5fc55c42c275050d4edd23210314068b","features":{},"yanked":false}
+{"name":"affine_transforms","vers":"0.1.1","deps":[],"cksum":"3706e4a12428183ebf3bbd5a19bb1269a0693fb3e5a7412c80371aa9452a2f2a","features":{},"yanked":false}
+{"name":"affine_transforms","vers":"0.2.0","deps":[],"cksum":"48d192c226cbfd91aadc44198b79a7bdaeee275da15f90bd33e68e20b0fee92a","features":{},"yanked":false}
+{"name":"affine_transforms","vers":"0.3.0","deps":[{"name":"packed_simd","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7473a0ef6cff55e0ec505744f823d82a11c9cc90ee92dca7694eaf76437ab25c","features":{},"yanked":false}

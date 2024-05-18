@@ -1,0 +1,2 @@
+{"name":"munemo-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"78d7df238b75c48b4cb3cb0f324fc3554b8448e248cef3bbe1945ad1a1b1bb3a","features":{},"yanked":false}
+{"name":"munemo-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f8b5f3bf27336c268bcc314461cdb9c82a5e5fd34b0e84a1ad6b4a198127289","features":{},"yanked":false}

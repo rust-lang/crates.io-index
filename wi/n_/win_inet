@@ -1,0 +1,2 @@
+{"name":"win_inet","vers":"0.1.0","deps":[{"name":"widestring","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96fd273087830103333a5e22fb77aa2e2fd192a1fe1a86e345d56e710b0cebaf","features":{"unicode":["widestring"]},"yanked":false}
+{"name":"win_inet","vers":"0.1.1","deps":[{"name":"widestring","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"840cc9555b6841eae31d008fbda4bce93d8cf9b37b82dd57f991ff151937dc36","features":{"unicode":["widestring"]},"yanked":false}

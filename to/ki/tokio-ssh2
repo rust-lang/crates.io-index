@@ -1,0 +1,1 @@
+{"name":"tokio-ssh2","vers":"0.0.1","deps":[{"name":"ssh2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4d72243f29983e2562c27a63c715177dc9ea753c5641bc8a761cb73f8e23c69","features":{},"yanked":false}

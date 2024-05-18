@@ -1,0 +1,4 @@
+{"name":"ownref","vers":"0.1.0","deps":[],"cksum":"4e65ed889f4f045472edc49011ca0e8e6c059d1164b4918710277c06aa36c138","features":{},"yanked":false}
+{"name":"ownref","vers":"0.2.0","deps":[{"name":"indexmap","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35b41d3689fa032ec3cce255b5ef010c64d09fd766727126aa961bf435695c86","features":{},"yanked":false}
+{"name":"ownref","vers":"0.3.0","deps":[{"name":"indexmap","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a286237fc4e0e74fce399ffcf5d7b21439da94e3c817f08d28fe689fe0d4f6f3","features":{},"yanked":false}
+{"name":"ownref","vers":"0.3.1","deps":[{"name":"indexmap","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"695ddbf91b430c62d37df027cfb087bac416ecb9d54290998063944767009314","features":{},"yanked":false}

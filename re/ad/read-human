@@ -1,0 +1,2 @@
+{"name":"read-human","vers":"0.1.0","deps":[{"name":"error-gen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1cc397efcdd4c2d8acc33ab20c2be971ebca971541428ab21d95a7f0704fa86e","features":{},"yanked":false}
+{"name":"read-human","vers":"0.1.1","deps":[{"name":"error-gen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6593cd271a69cb8538028ddcb7e9593b28413b53c4401d2ddc0205319e7671d3","features":{},"yanked":false}

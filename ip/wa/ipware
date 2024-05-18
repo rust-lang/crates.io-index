@@ -1,0 +1,1 @@
+{"name":"ipware","vers":"0.1.0","deps":[{"name":"http","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"spectral","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5259642c097eae25480a53a6d89cf2699d9c0d8974e6afa63b0c20b53bdf9d5f","features":{},"yanked":false}

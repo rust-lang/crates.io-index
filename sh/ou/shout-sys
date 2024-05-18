@@ -1,0 +1,2 @@
+{"name":"shout-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e65dd34c321facafe5698d5ae614113e6a6431420d7f6134431618f24271ec15","features":{},"yanked":false}
+{"name":"shout-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b68fb7f29ef17f9b5cdaa7e224e5464606b0709f48e916b1678327146a26535","features":{},"yanked":false}

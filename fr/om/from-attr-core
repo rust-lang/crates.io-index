@@ -1,0 +1,2 @@
+{"name":"from-attr-core","vers":"0.1.0","deps":[{"name":"syn","req":"^2","features":["parsing"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e67bdebf4275712dfbdc5671b90b0cc8d3b803bb8431faeb2286c12afd0382ea","features":{},"yanked":false}
+{"name":"from-attr-core","vers":"0.1.1","deps":[{"name":"syn","req":"^2","features":["parsing"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"13c34f30ced945ecbc8ed7f28f0f69d0cd450edfad51fd72a4f597c5d6209103","features":{},"yanked":false}

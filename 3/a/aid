@@ -1,0 +1,2 @@
+{"name":"aid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0be18811da5e0a8e5dcd7f95255d5b0894719405ce5a5b3025d51c3b17637ee","features":{},"yanked":false}
+{"name":"aid","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef29133063d72ea5136ad4e81bb36b6e27143373543fe9f1c98426214281d8f7","features":{},"yanked":false}

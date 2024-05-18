@@ -1,0 +1,2 @@
+{"name":"genomic","vers":"0.1.0","deps":[{"name":"rand","req":"0.8.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f497427d1ca26264477326f9b4957007edc92d2a31e2cc889066a8b20537acdc","features":{},"yanked":false}
+{"name":"genomic","vers":"0.2.0","deps":[{"name":"rand","req":"0.8.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"caf3719627acd9aa46650e5992708222ce148af45218eddd1d2ffc548b93139a","features":{},"yanked":false}

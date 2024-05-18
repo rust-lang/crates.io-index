@@ -1,0 +1,1 @@
+{"name":"parse-display-with","vers":"0.0.1","deps":[{"name":"parse-display","req":"^0.9.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"df4539de3a9fd0d10092663a8d11ca56366b647e7e11fae97068b18eb4ef2279","features":{"default":["std"],"std":["parse-display/std"]},"yanked":false}

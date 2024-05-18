@@ -1,0 +1,1 @@
+{"name":"rstler","vers":"1.0.0","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adda3b1a7291d867b5e97611a5aeb8ce4a2488a22ff54799b65023c2b68d6712","features":{},"yanked":false}

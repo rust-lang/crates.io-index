@@ -1,0 +1,3 @@
+{"name":"asc","vers":"0.0.1","deps":[],"cksum":"dca8134d6b3de5798e5c1e03f57891f425164426d39ed84f3fb7c511f3f0c51f","features":{},"yanked":true}
+{"name":"asc","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.137","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5a96fd22b870e46046ede91499cdfeaf62ffcf98389d3c87f328e01cb93f5c8c","features":{},"yanked":false}
+{"name":"asc","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.137","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f13d66fd1554445c4dba4d81b83ad58a070ee14e58e67dbecce8d6c981a66c54","features":{},"yanked":false}

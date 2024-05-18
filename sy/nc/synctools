@@ -1,0 +1,8 @@
+{"name":"synctools","vers":"0.1.0","deps":[],"cksum":"e153db44f230571fa551c3274b388f42d2d02ab04c55a4781a95d2552f165f52","features":{},"yanked":false}
+{"name":"synctools","vers":"0.1.1","deps":[],"cksum":"fd985cf6e1e45522bb1649a0e33c6373ba66a845588f6d3852627b2b2ea68ca3","features":{},"yanked":false}
+{"name":"synctools","vers":"0.2.0","deps":[],"cksum":"1cf77797be4daff9739707f9e8db8a94ef6f2ec15b06994093616b9b28937161","features":{},"yanked":false}
+{"name":"synctools","vers":"0.3.0","deps":[],"cksum":"642d3e6ea78dd5145500a9d67e57d8954c3840f66559c1334368d9ebe9ec2224","features":{},"yanked":false}
+{"name":"synctools","vers":"0.3.1","deps":[],"cksum":"39b59f2325f3392f51f3aa95e2c4c40ce00e1a21d9916b4894c5d0671398efaf","features":{},"yanked":false}
+{"name":"synctools","vers":"0.4.0","deps":[{"name":"pin-project-lite","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9761cb7ff778d7bd7bb6907aa7031a1579d56421da3b3edfd2b8d30f7a5e4a0e","features":{},"yanked":true}
+{"name":"synctools","vers":"0.3.2","deps":[],"cksum":"6d029131af2e43e4f0a6adc9d052cb91417f14009b8d449838e2f9f47f9261b8","features":{},"yanked":false}
+{"name":"synctools","vers":"0.3.3","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"},{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"21dc43239efd9b910adef29ecf9927903059e4b6b9fa13dda199e2bd3d95f8b2","features":{},"yanked":false}

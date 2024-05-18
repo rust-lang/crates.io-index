@@ -1,0 +1,1 @@
+{"name":"lib-ruby-parser-ast","vers":"0.55.0","deps":[{"name":"lib-ruby-parser-nodes","req":"^0.55.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"461948472e72b507a0f97e144c453e29b8772e986f18b410e0f2318edd45258c","features":{"codegen":["lib-ruby-parser-nodes"],"default":[]},"yanked":false}

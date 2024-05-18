@@ -1,0 +1,2 @@
+{"name":"harp","vers":"0.0.0","deps":[],"cksum":"bb879a68305921118e1d1ae5c35dc1b05c4059ed99d51d6ac3e4b27387248346","features":{},"yanked":true}
+{"name":"harp","vers":"0.1.0","deps":[{"name":"slog","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60bf12c625ed5e96f81609ae4377c34e9fa3e4d1fada392404322daeace511ab","features":{"alloc":[],"default":["std"],"logger":["slog","std"],"std":["alloc"]},"yanked":true}

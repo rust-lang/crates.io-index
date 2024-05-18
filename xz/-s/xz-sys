@@ -1,0 +1,2 @@
+{"name":"xz-sys","vers":"0.0.1","deps":[],"cksum":"183c9698fe8794a84c57fcda237b5a40d88df0210f326deb85977d4bc8842bc0","features":{},"yanked":false}
+{"name":"xz-sys","vers":"0.1.0","deps":[{"name":"lzma-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e747597175ff29d7392baa25f6d681f258c1317317b6b24dfeabf19bacb992d","features":{},"yanked":false}

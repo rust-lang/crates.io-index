@@ -1,0 +1,2 @@
+{"name":"cli_printer","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92978ad703b5a77a543a588cf6c2fd3b342f1c70eb98ee834faa585f640cb0f3","features":{},"yanked":false}
+{"name":"cli_printer","vers":"0.2.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a048b8e342e1c1e429898938eca35b8b5f1e93578d8f957981b09763fa60aad","features":{},"yanked":false}

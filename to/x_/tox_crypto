@@ -1,0 +1,2 @@
+{"name":"tox_crypto","vers":"0.1.0","deps":[{"name":"sodiumoxide","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88f7158170b37b4325bec079485ae3117aadf87c918e50e22e431568aaf7c7e1","features":{},"yanked":false}
+{"name":"tox_crypto","vers":"0.1.1","deps":[{"name":"sodiumoxide","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13951d5b7bdc04223e35d94396fae871a9d97907def8c1c496aa6a1828b45c5f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"loco-twitch","vers":"0.1.0","deps":[{"name":"fancy-regex","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4160c875d0f8b90fcb8f4edf36da8dc42baf7da707a6ad6c39a72544a39fff02","features":{},"yanked":true}
+{"name":"loco-twitch","vers":"0.1.1","deps":[{"name":"fancy-regex","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f938d1ad11eb0792d03d494455f79648f81ce0bd47466d96346092d6cd4b71","features":{},"yanked":false}

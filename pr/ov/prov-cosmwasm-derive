@@ -1,0 +1,1 @@
+{"name":"prov-cosmwasm-derive","vers":"1.0.0-provbeta3","deps":[{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe1bdd2b275add319ac4bd8bf6373f7d4086e6e5d31eca269434fc1732a946ce","features":{"default":[]},"yanked":false}

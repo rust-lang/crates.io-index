@@ -1,0 +1,1 @@
+{"name":"selya","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.8","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5320cca70c9c4e7a6f39e3694b98354608f1e32b861d6c6ea9e51b8002d9d889","features":{"default":[],"executable":["clap"]},"yanked":false}

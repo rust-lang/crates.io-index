@@ -1,0 +1,2 @@
+{"name":"dxrs","vers":"0.0.0","deps":[],"cksum":"7f1bcf438e0f89d492309c5a0f2b117dd0e98104ccfef823bfe79898af37c49a","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}
+{"name":"dxrs","vers":"0.0.1","deps":[],"cksum":"094661f5f07a8277f486273dc5f38adb96667ac51e98fd691b8c6d2450eac266","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"openttd-timetable-tool","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d049005667a3e8935c2d4beb7a0853178568b6a4bbb6863b9b1723637d167b30","features":{},"yanked":false}
+{"name":"openttd-timetable-tool","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2059e12c11c0aed609c10c547c1aea48c1e2017b7eff08ed1bb88ad55efd6ef","features":{},"yanked":false}

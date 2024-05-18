@@ -1,0 +1,2 @@
+{"name":"narinfo","vers":"1.0.0","deps":[{"name":"derive_builder","req":"^0.11.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c409361ba7158b23dec7dfe438b41d291131d323b69095b9f2f1db08b01352a6","features":{},"yanked":false}
+{"name":"narinfo","vers":"1.0.1","deps":[{"name":"derive_builder","req":"^0.11.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b79c2c0f376e3f5a9307d9a22b7f9dd5acb441d9e641d8a26e0ad9dfd0b4a1e2","features":{},"yanked":false}

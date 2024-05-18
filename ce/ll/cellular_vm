@@ -1,0 +1,2 @@
+{"name":"cellular_vm","vers":"0.2.0","deps":[{"name":"cellular_lib","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b818b8a27c15a9752644f015081b8edbfbf04522b33b65b81b855059517b7ff","features":{},"yanked":true}
+{"name":"cellular_vm","vers":"0.2.1","deps":[{"name":"cellular_lib","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31944ca0777fa35368c0833a7543c0967000e3886533c9c8b80372f77cf61984","features":{},"yanked":true}

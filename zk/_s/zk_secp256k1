@@ -1,0 +1,1 @@
+{"name":"zk_secp256k1","vers":"0.1.0","deps":[{"name":"uint","req":"^0.9","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23c7dfdec350b000296f9b6dd2b75d1a2e1c524733edfe0638a9dadd90d7d830","features":{},"yanked":false}

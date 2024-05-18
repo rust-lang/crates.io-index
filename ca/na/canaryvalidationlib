@@ -1,0 +1,2 @@
+{"name":"CanaryValidationLib","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"188272f8dac01d4d3399d27556e3072cacd8ef66477bc7a8f24d7c7296bb1f66","features":{},"yanked":false}
+{"name":"CanaryValidationLib","vers":"0.1.1","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64e0c044713367feb7e9a4aa0ab55edc24696399a5834caf42358e1636b0a8dc","features":{},"yanked":false}

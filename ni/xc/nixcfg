@@ -1,0 +1,1 @@
+{"name":"nixcfg","vers":"0.2.0","deps":[{"name":"rnix","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9581fdd7b860187898d11810815962d198b89a409300a2195f89f0d37703e4d","features":{},"yanked":false}

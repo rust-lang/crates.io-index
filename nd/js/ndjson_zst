@@ -1,0 +1,2 @@
+{"name":"ndjson_zst","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a87629a40f1f134ddd22e2b90b33b92c0a046a450a51828f6da190868927bf1","features":{},"yanked":false}
+{"name":"ndjson_zst","vers":"0.2.0","deps":[{"name":"zstd","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83704c44a586a43a2753024dbf3e29da000e26c48beaafa4fc288dc1cd34abd8","features":{},"yanked":false}

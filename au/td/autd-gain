@@ -1,0 +1,2 @@
+{"name":"autd-gain","vers":"1.0.0","deps":[{"name":"autd-geometry","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86fd57e9f170e08566444def5ee38f81facda368c94c08fad504a6d574ebd1f5","features":{},"yanked":true}
+{"name":"autd-gain","vers":"6.0.0","deps":[{"name":"autd-geometry","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"668d62dfb7eb1a2e46ab34fc9a2acb13c0cf873f76123011f7f954533e8fb616","features":{},"yanked":true}

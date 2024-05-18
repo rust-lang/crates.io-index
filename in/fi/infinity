@@ -1,0 +1,2 @@
+{"name":"infinity","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"037585e2ca8932a08af79edba7d1598e26cc57dc8a4b74525b513adc6beaccfe","features":{},"yanked":false,"links":"infinity"}
+{"name":"infinity","vers":"0.2.1","deps":[{"name":"bindgen","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3eb5d847f3adc6feb6c0e7bcf072f697ab25b21d8d016f5e126b17d9c038eef4","features":{},"yanked":false,"links":"infinity"}

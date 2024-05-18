@@ -1,0 +1,2 @@
+{"name":"envr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f6778c96917ac3f92ac5a3fc4ecde1d50296e0580c96951c68ff4be0838603b","features":{},"yanked":false}
+{"name":"envr","vers":"0.1.2","deps":[{"name":"clap","req":"^4.4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f576e962ea3838714616913e1c7e9f46a6845fa73dab8d84d16cc4fdb186573","features":{},"yanked":false}

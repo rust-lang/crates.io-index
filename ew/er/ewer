@@ -1,0 +1,2 @@
+{"name":"ewer","vers":"0.0.1","deps":[],"cksum":"cebe531ff5546916786daaa7ef1c5fa91d8f355b9fffbe76ad3bfb6b1a68f43d","features":{},"yanked":false}
+{"name":"ewer","vers":"0.0.2","deps":[{"name":"tiny_http","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81b88b6a956467ef04073b2904f69c980a4768fda6335326ddf744b50004b313","features":{},"yanked":false}

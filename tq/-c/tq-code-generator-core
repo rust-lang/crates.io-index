@@ -1,0 +1,2 @@
+{"name":"tq-code-generator-core","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67592032434c67ae0fa9dc1cd87656d16a65072074e96d44fec111421addad7b","features":{},"yanked":false}
+{"name":"tq-code-generator-core","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfd482ea60f845ad056aaf8356b97016fbb438b86c346f12cf4f4e49f3e36579","features":{},"yanked":false}

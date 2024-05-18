@@ -1,0 +1,2 @@
+{"name":"grid_trait","vers":"0.1.0","deps":[{"name":"mint","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3bba37485598f425307a9bd3e0ce303cc80f786ea2f5e4776babaffe9b5a4f7","features":{},"yanked":true}
+{"name":"grid_trait","vers":"0.1.1","deps":[{"name":"mint","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"904d623661d1d91fa2a238b1d3fb9bcd8c54b8b666dd209003713e76d601e9bd","features":{},"yanked":false}

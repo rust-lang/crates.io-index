@@ -1,0 +1,1 @@
+{"name":"vpicc","vers":"0.1.0","deps":[{"name":"env_logger","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5be5287a42683578a11daf9a012f0ab2d2ebf8cfbdbeee937a2ce3af37371e30","features":{},"yanked":false}

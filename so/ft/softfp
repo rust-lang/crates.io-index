@@ -1,0 +1,1 @@
+{"name":"softfp","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bf3fd628b3cd10e93e6a1ed3bef6ce1e270b423e004219268b10b9b7598b5f8","features":{"default":["register"],"register":[]},"yanked":false}

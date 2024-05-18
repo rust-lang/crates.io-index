@@ -1,0 +1,1 @@
+{"name":"detour-sys","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1.0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7f6e67ac1d91ee052fbf2f254e74067a80b3855279760fbf84144cce3c64e74","features":{},"yanked":false}

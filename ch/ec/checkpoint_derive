@@ -1,0 +1,5 @@
+{"name":"checkpoint_derive","vers":"0.1.0","deps":[],"cksum":"2e4a682e72f88a6730f7d4a4348324224dbb894e3806aaeca7170b5ac6e25d6e","features":{},"yanked":true}
+{"name":"checkpoint_derive","vers":"0.1.1","deps":[{"name":"quote","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51c0f16a0d2df48126dedd9de80a1168e0f74023f1062c029ee697a06ce86f92","features":{},"yanked":true}
+{"name":"checkpoint_derive","vers":"0.1.2","deps":[],"cksum":"ef8dac13bff5b1b2ae4ea3e069a21c709ab33f426b788f50e42288f14ac42e9f","features":{},"yanked":true}
+{"name":"checkpoint_derive","vers":"0.1.3","deps":[],"cksum":"fc715661ea02f37abea7ee4c74e6db7ed68766c117f85d47da9b45eb1edf959e","features":{},"yanked":true}
+{"name":"checkpoint_derive","vers":"0.1.4","deps":[],"cksum":"a75f4e28964da3b29ef7e4d0067c4b5d9c424093b0af9b2487dce9310f2ee21c","features":{},"yanked":true}

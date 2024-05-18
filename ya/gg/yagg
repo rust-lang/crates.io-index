@@ -1,0 +1,3 @@
+{"name":"yagg","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3843da6c11016fa5d99075d927b18af925af6a772f3e54752360922db99f890","features":{},"yanked":true}
+{"name":"yagg","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"867899801e8bf85898b3b8e73e37498e90b2c152918376e4ff092e0b4975dd0a","features":{},"yanked":false}
+{"name":"yagg","vers":"0.1.2","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5db8de51ecf42d9d2614cfa77f926a50e2a7d39c7922153aed978b5daa5271fc","features":{},"yanked":false}

@@ -1,0 +1,9 @@
+{"name":"ioctl-sys","vers":"0.4.0","deps":[{"name":"bitflags","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01d053a080a02264259b91bb55b00c4fed9983da964b8488d2cf60c11649f00f","features":{"unstable":[]},"yanked":false}
+{"name":"ioctl-sys","vers":"0.4.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a069e3175eb18565a8face31ad9d38b87cc494dc4edc860df8716b2690720c3b","features":{"unstable":[]},"yanked":false}
+{"name":"ioctl-sys","vers":"0.5.0","deps":[],"cksum":"db2f3508cd1bdeee7c0e2b801a18ab4a09300658948fff492c63b0fbb6ec1fca","features":{"unstable":[]},"yanked":false}
+{"name":"ioctl-sys","vers":"0.5.1","deps":[],"cksum":"fe5edd4bbe9d1f223c9fd3ece00439abca358829cdf7c8a5bb3b6740a1cd5992","features":{"unstable":[]},"yanked":false}
+{"name":"ioctl-sys","vers":"0.5.2","deps":[],"cksum":"5e2c4b26352496eaaa8ca7cfa9bd99e93419d3f7983dc6e99c2a35fe9e33504a","features":{"unstable":[]},"yanked":false}
+{"name":"ioctl-sys","vers":"0.6.0","deps":[],"cksum":"1c429fffa658f288669529fc26565f728489a2e39bc7b24a428aaaf51355182e","features":{},"yanked":false}
+{"name":"ioctl-sys","vers":"0.7.0","deps":[],"cksum":"eb7ee4e38b724c0dbad51eb3805a496a6919866c4c8d0b2e0bc7e73be7cd0260","features":{},"yanked":false}
+{"name":"ioctl-sys","vers":"0.7.1","deps":[],"cksum":"7f9d0b6b23885487578d10590edc36fd95426257c7017973b20633e34df23b08","features":{},"yanked":false}
+{"name":"ioctl-sys","vers":"0.8.0","deps":[],"cksum":"8bd11f3a29434026f5ff98c730b668ba74b1033637b8817940b54d040696133c","features":{},"yanked":false}

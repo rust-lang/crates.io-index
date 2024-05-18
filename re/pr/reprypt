@@ -1,0 +1,2 @@
+{"name":"reprypt","vers":"0.1.0","deps":[{"name":"base64","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"993dbbbde58d3abb9ced10a3695518bc5ee82652ff06b2cb090ec956bcf000d6","features":{},"yanked":true}
+{"name":"reprypt","vers":"0.1.1","deps":[{"name":"base64","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8098e700e5c1085ae4694abebe43aed1eb754eea9d603d13fea227cc6ee0b737","features":{},"yanked":true}

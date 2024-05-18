@@ -1,0 +1,2 @@
+{"name":"ajl_logger","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e82e766b02bed24f90644fdaab31ca98c8935f31b1e11952b3fd75c0d2a814a8","features":{},"yanked":false}
+{"name":"ajl_logger","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d49b04d7c161e32152a52085b9861da126452914bf23f919d279670d50c661c","features":{},"yanked":false}

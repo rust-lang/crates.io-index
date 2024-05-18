@@ -1,0 +1,1 @@
+{"name":"ggml-raw","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.62.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a90ac35e304d1f3ed07eb814c55e1e12dabd222b13cdc61c2b68cb2c2b88f5ec","features":{},"yanked":false}

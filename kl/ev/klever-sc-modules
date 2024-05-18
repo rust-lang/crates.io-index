@@ -1,0 +1,1 @@
+{"name":"klever-sc-modules","vers":"0.43.3","deps":[{"name":"klever-sc","req":"^0.43.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be7dc66349d64c2b8e2222916bf1678bd638666365fc980ab61ecaa29d7814e5","features":{"alloc":["klever-sc/alloc"]},"yanked":false}

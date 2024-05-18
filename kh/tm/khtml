@@ -1,0 +1,5 @@
+{"name":"khtml","vers":"0.1.0","deps":[],"cksum":"5367b290edd408c37c16b01c2794ee7379e6643358ef7238968d6d316a0418bf","features":{},"yanked":false}
+{"name":"khtml","vers":"0.1.1","deps":[],"cksum":"ba3b11eec303ce3c2a1ab3bc7f856637bb055ea90b9a3b343bd6e98d56d56364","features":{},"yanked":false}
+{"name":"khtml","vers":"0.1.2","deps":[],"cksum":"38bd4f6453dbb9bcc0cb34d6df0ad69e6ccbfc445aa89a91cb2222196d2c8ceb","features":{},"yanked":false}
+{"name":"khtml","vers":"0.1.3","deps":[],"cksum":"6582d8a2009817c85bda0e8467253d86a804646940c3121e9a46ab75308a464d","features":{},"yanked":false}
+{"name":"khtml","vers":"0.1.4","deps":[{"name":"html-escape","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61b518f94430da6123913649c5bb75b98605db3df5152d2fd26bc14fc7e78382","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"nm-binutils","vers":"0.0.0","deps":[],"cksum":"c34b244804b197ab190ba8b37f08981f115f1f94654ccc2fe2b0658b6ccae3b2","features":{},"yanked":false}
+{"name":"nm-binutils","vers":"0.1.0","deps":[{"name":"goblin","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b3a8fd9b6f80055c2ce0730045780598601d6a6e453839051a63e09939f9bb6","features":{},"yanked":false}
+{"name":"nm-binutils","vers":"0.1.1","deps":[{"name":"goblin","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50401f7ced1c4a09216713878386b9f42923441b303d99d815f4f04e0ce1b74a","features":{},"yanked":false}
+{"name":"nm-binutils","vers":"0.1.2","deps":[{"name":"goblin","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0355f13ae9ea2c5cbb722297873394bfbfbd2351552122804da3baff502e2976","features":{},"yanked":false}

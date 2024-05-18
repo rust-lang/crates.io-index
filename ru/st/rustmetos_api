@@ -1,0 +1,2 @@
+{"name":"rustmetos_api","vers":"1.0.0","deps":[{"name":"rustmetos_core","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea35764ca973191aa9f8d788d76302abe3a5037e7f48c1a5e84849b35530bd97","features":{},"yanked":false}
+{"name":"rustmetos_api","vers":"1.0.1","deps":[{"name":"rustmetos_core","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1509128ae4b28f1ddbe364debb8f6eb940b052ab9a1d3327db74e32da880f2e","features":{},"yanked":false}

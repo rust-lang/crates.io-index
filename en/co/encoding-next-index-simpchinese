@@ -1,0 +1,1 @@
+{"name":"encoding-next-index-simpchinese","vers":"1.20180106.0","deps":[{"name":"encoding-next_index_tests","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1dc69fd6a1f1c5fc2206ba488c73ab401587039539dad3d708a5074e7ae4a20","features":{"no-optimized-legacy-encoding":[]},"yanked":false}

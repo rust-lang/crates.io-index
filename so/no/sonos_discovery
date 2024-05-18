@@ -1,0 +1,2 @@
+{"name":"sonos_discovery","vers":"0.0.1","deps":[{"name":"socket","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f47de192c32fb42b19ba6b7fad7a483eba2649cb4d757e1424c901004c4f867","features":{},"yanked":false}
+{"name":"sonos_discovery","vers":"0.0.2","deps":[{"name":"socket","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5684018001948fbc84895e94246199c320036cacf44539bfd322218ba69e47f9","features":{},"yanked":false}

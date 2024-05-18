@@ -1,0 +1,2 @@
+{"name":"shellfn-core","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11d7f5dd88dd64ea7a955889d1b26c1aa00c9d4498fa6e14790faf3cfc6767f9","features":{},"yanked":false}
+{"name":"shellfn-core","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"659d4c067e4106dc9618c82cecdadfd10ae20d59f348c1c7c26a1569402cbfd7","features":{},"yanked":false}

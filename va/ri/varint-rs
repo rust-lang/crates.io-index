@@ -1,0 +1,17 @@
+{"name":"varint-rs","vers":"1.0.0","deps":[],"cksum":"adcf5ea4e762e2c7290fc2188f7f35106bfd8c093300b949127bb62fd7b2cb0f","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.0.1","deps":[],"cksum":"554d5f4c3821ece5353335c65835531da74a2eeb802f2d7d1ff2be67675599de","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.0.2","deps":[],"cksum":"24918671de99ff84ff18cc831502ee63002ee7cac8c6f0022c08154af22677ae","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.0","deps":[],"cksum":"f0835c705a726b559f2e40a1181b41f88caae65aa1e01b7e77b5cb5994735604","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.1","deps":[],"cksum":"6fe597592e6117f39b509fc368c6b397db29a8ce91051ad8287ecb072e7ff9b1","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.2","deps":[],"cksum":"1f0e1007ca3d8c9e1e5cb58cf7a2ba346efaac8e20e81923f43dbdb0b2907dfa","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.3","deps":[],"cksum":"265502de3766857ff862fc50f5244edb0c304a98152e4d3a620d53b05ac80979","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.4","deps":[],"cksum":"2285caef24073ffe0dcb56e9c3d18003e12bbe854d1178d0d6226242a49af97e","features":{},"yanked":false}
+{"name":"varint-rs","vers":"1.1.5","deps":[],"cksum":"11c7836bc92873ad42b0fee8e8fb93126c2ca8acfd2d16493acbddb4cd1ab49f","features":{},"yanked":false}
+{"name":"varint-rs","vers":"2.0.0","deps":[],"cksum":"e72dd13b128590b6ebe46394fe11d63c1e0954d49238fd7106977b94702b9db0","features":{},"yanked":false}
+{"name":"varint-rs","vers":"2.0.1","deps":[],"cksum":"d11bd4e49acc0b0dd2bcc200e998ebb2237883b52aa6714653efb7f573876d6a","features":{},"yanked":false}
+{"name":"varint-rs","vers":"2.1.0","deps":[],"cksum":"b4add779858924015628c6aed0f034f20597c0a1dc6c0ae8aa52533919d2e88a","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false}
+{"name":"varint-rs","vers":"2.1.1","deps":[],"cksum":"60534c9130cfa3d9456fedf3a4da3789173d6ec3821ec368647f00a32ff2793f","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false}
+{"name":"varint-rs","vers":"2.1.2","deps":[],"cksum":"38507130be3d56a335b23a3464adcb4cc22925265cef530e2b8a3999438fddd9","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false}
+{"name":"varint-rs","vers":"2.1.3","deps":[],"cksum":"058e931260fd216a9a641f1d82229cf3ad9e6ef4cf33ecca8207aebc69e24cef","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false}
+{"name":"varint-rs","vers":"2.1.4","deps":[],"cksum":"799f5f0b11e1c36fe78dc2b47ff3650154b6dff82a4fa1f03e6058dd5d824101","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false}
+{"name":"varint-rs","vers":"2.2.0","deps":[],"cksum":"8f54a172d0620933a27a4360d3db3e2ae0dd6cceae9730751a036bbf182c4b23","features":{"default":["std","signed"],"signed":[],"std":[]},"yanked":false}

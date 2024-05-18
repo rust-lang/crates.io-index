@@ -1,0 +1,2 @@
+{"name":"raunch","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86c7d8dd72dd1c2d0b0d03a467ab805c39937ee470c7458a424fd2644bb0317f","features":{},"yanked":false}
+{"name":"raunch","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a67226789ccd419c55f5c826e04f7d58690b0593364f61bc8ed6e7dbbab49c5","features":{},"yanked":false}

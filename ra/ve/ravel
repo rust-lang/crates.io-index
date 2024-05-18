@@ -1,0 +1,1 @@
+{"name":"ravel","vers":"0.0.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fbe289de328ddef4f60afd1faca86313b78491c4e3e0422848346c3831b7b86","features":{},"features2":{"debug":["dep:log"]},"yanked":true,"v":2}

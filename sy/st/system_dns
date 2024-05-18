@@ -1,0 +1,2 @@
+{"name":"system_dns","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15a8928517b3914bec74737b835b15667eba0d12594104964a2c14a9bc327803","features":{},"yanked":false}
+{"name":"system_dns","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"702bcb12526489fd726f43c3a9287b9658f6c9944cebe4fa911efffbc489ea4e","features":{},"yanked":false}

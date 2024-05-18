@@ -1,0 +1,16 @@
+{"name":"msg-store","vers":"0.1.1","deps":[],"cksum":"8ec4f6f03a65ae01507e28dc5bb10f73294d009a4713c223ecb1889e0b399f96","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.2.1","deps":[],"cksum":"d89b368ddaed35b95352d053a2451e6627642eea8c1568a452738eb489e3b285","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.3.0","deps":[],"cksum":"c42d080fa324f8a3271d22fff32b4f7238dc17025ac6b51553b4f0c2a9b74729","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.3.1","deps":[],"cksum":"a5630b0a52db8e39912cbfaadd16ecc0c95449b28adeee7c94b815dfeee6634d","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.3.2","deps":[],"cksum":"4dc652714e47f6b562cf3a2788e13794b25f67d88b3a7f1ecc00194c780c5187","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.3.3","deps":[],"cksum":"c115dc2be649ae47bf4573698b6726db4f2b9498a2e47d119d05ac580e0dfa81","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.4.0","deps":[],"cksum":"2714b394be174c0b64f6a74290b20cf37e813ebd92a5c164ff4c972cd83c5b26","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.4.1","deps":[],"cksum":"59e07b6f1f61977575e6e83cfcabd49f46e56ca18a7cdc5db67e38bc867201af","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.4.2","deps":[],"cksum":"73f624e642595fe4298cec97bb0f949aba2f3c36bd12a5f8634b5b778f956f9f","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.5.0","deps":[],"cksum":"37d21a05b580baca8220c298c33812790dc8b58b765f348f99fafc2907c12a7b","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.6.0","deps":[],"cksum":"e1cff9b86c1ba1d628c973e1d65c8e3d5095e4a51cc8a7e7aa4ad9d2f113b0a8","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.7.0","deps":[],"cksum":"5b25ce71f58d078d54a09f7cd461056208f8afa6b4943a0009a024fb8604d64d","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.7.1","deps":[],"cksum":"dba51a94bf0ac9b6b4db87ef450a5c2d196482a0131f3ed103a5b63ef668e8d2","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.8.0","deps":[],"cksum":"3932ea6750e5692ebff97152960fc7f970d57798673e7ea896c47e01cb6a941b","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.9.0","deps":[{"name":"msg_store_uuid","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0587479d40f44daa003cea24ccf4c553b3c9d77c1bb1cd9c42dcc690835b16c2","features":{},"yanked":false}
+{"name":"msg-store","vers":"0.9.1","deps":[{"name":"msg_store_uuid","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d136ba4d5422a62fd3720cecafa9f0eb80e6f4bae3dd69684faee7ba48e545e","features":{},"yanked":false}

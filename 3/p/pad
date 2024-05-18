@@ -1,0 +1,7 @@
+{"name":"pad","vers":"0.1.0","deps":[],"cksum":"30a14a7ffa321ab94594d948695082b44f673b55ba2fb573264f4be45a27f265","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.1","deps":[],"cksum":"d5afeba0959f24a009a3210e622ad45cefc48666a48c99febb7ea91bd64a901c","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.2","deps":[],"cksum":"948d4fb7dc2fbb41bcb09d81d14bf2649c470bb350fc19628ee7173ad4e7e817","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.3","deps":[],"cksum":"4d6c73fe5e3e9d021957758247ea88e75812d067aaa226555606a6e83676decb","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.4","deps":[{"name":"unicode-width","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1bf3336e626b898e7263790d432a711d4277e22faea20dd9f70e0cab268fa58","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.5","deps":[{"name":"unicode-width","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c9b8de33465981073e32e1d75bb89ade49062bb853e7c97ec2c13439095563a","features":{},"yanked":false}
+{"name":"pad","vers":"0.1.6","deps":[{"name":"unicode-width","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2ad9b889f1b12e0b9ee24db044b5129150d5eada288edc800f789928dc8c0e3","features":{},"yanked":false}

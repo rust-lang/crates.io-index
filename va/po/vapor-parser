@@ -1,0 +1,1 @@
+{"name":"vapor-parser","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.29.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"148ea0005857d6c55888c48a6913e2890f48b947bf92368a82e416d5dfa005a4","features":{},"yanked":false}

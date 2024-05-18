@@ -1,0 +1,1 @@
+{"name":"xlang-vm","vers":"0.0.5-alpha","deps":[{"name":"gc","req":"^0.4.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7780f8663e48d847b2ccc873a64f3250e405351968a9ca97dd53e2e9eba2b820","features":{},"yanked":false}

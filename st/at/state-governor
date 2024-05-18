@@ -1,0 +1,2 @@
+{"name":"state-governor","vers":"0.0.1","deps":[],"cksum":"e5cc894cbdc1f87a2e6976f22142d4a5a860e667588b3dec0b89d2ab146a433c","features":{},"yanked":false}
+{"name":"state-governor","vers":"0.0.2","deps":[{"name":"heapless","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8b38e490cc4a495a4c032da83619cdbd8da416cef0b40f6694f9d0c65052b4","features":{},"yanked":false}

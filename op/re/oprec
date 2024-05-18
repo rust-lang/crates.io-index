@@ -1,0 +1,1 @@
+{"name":"oprec","vers":"0.1.0","deps":[{"name":"petgraph","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bb2c01595a92670dfa3607aa04ca24d47b82b505d60c723bdb178d58eb8b7e9","features":{},"yanked":false}

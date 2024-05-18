@@ -1,0 +1,3 @@
+{"name":"judy","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0ea8da7ccd8d9195386c7cbcb72b4447406beb2bad3e82a74190c7e33553e84","features":{},"yanked":true}
+{"name":"judy","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3372cc5617b5289d3a0003655a2e508029351c3a572c467cd72c0be819b3a9f4","features":{},"yanked":false}
+{"name":"judy","vers":"0.0.3","deps":[{"name":"libc","req":"~0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"443e8e85a75d54ffab7a4690796a3797eabe8ff169b5f65b43c35d42fefb19e1","features":{},"yanked":false}

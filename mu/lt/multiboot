@@ -1,0 +1,13 @@
+{"name":"multiboot","vers":"0.0.1","deps":[],"cksum":"2032019c776f78f692b83581a7992e40ad788dd888beed9eed3def136736a60c","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.0.2","deps":[],"cksum":"c47ca687cfecbb70f2c9cbb7490f049a82023a1120b2e8cceb17412ccd24d242","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.0.3","deps":[],"cksum":"bb2f3857fe8f0bd7ad08c40ea6f99ea5412a84d7b87d488dba0d7a176131f958","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.0.4","deps":[],"cksum":"dba7c5950c104f9c9a941b3b25ff24ba967ec1f9ccf207c0d00ecbbafa917626","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.0.5","deps":[],"cksum":"b250b4ab70ee47eb493c4748e38877d61320d608820161d5b4c89183f99a82a3","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.1.0","deps":[],"cksum":"d0d876e0f5e68c7ca28365b58e43198a0d74a3cdf84cb0440001e4050f052823","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.1.1","deps":[],"cksum":"41c1ffe7fa6885bc1ef5e25bf5ead1aed93b77c48ec683feceb0ac8d8b4d937c","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.2.0","deps":[],"cksum":"488b0c20df23d9a33c03e55138f376f01bfb6811697fcec4366372f4de0e6a4c","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.3.0","deps":[],"cksum":"745e351d4f128ea9e266fe2dd04a1bd7349c60441d45ec8677520bae08e25d43","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.4.0","deps":[],"cksum":"09e5203c37bae1b16a6c74e887c18138aefefd5723f5a93271b134e6695cfaaf","features":{},"yanked":true}
+{"name":"multiboot","vers":"0.6.0","deps":[{"name":"paste","req":">=1.0.0, <2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f442c65adef7bc9676eb8212598d14b7ba799b8bb2a312ed32f410e85e2f5ad","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.7.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ade66c06b320f119f05e339924ac6b3d22127516ce99307da712c3040875f985","features":{},"yanked":false}
+{"name":"multiboot","vers":"0.8.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f87ad3b7b7bcf5da525c22221e3eb3a020cd68b2d55ae62f629c15e8bc3bd56e","features":{},"yanked":false}

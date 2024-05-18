@@ -1,0 +1,2 @@
+{"name":"zaplib_objc_sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e23c9bbd3091200cbe52d0e378cda4712b6936eb5403e0421f875504ad148738","features":{},"yanked":false}
+{"name":"zaplib_objc_sys","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"786310ecccb80ea30305166220e560b5d283b1001788bfeb0b92762d63aab893","features":{},"yanked":false}

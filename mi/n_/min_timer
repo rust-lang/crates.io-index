@@ -1,0 +1,4 @@
+{"name":"min_timer","vers":"0.1.0","deps":[],"cksum":"b5ac3b13443b79bcfe199687166d1591b7617f4e0f2689a91f456aa27794d485","features":{},"yanked":false}
+{"name":"min_timer","vers":"0.2.0","deps":[],"cksum":"3b1a84f09b97f253b0a43eee23c97cffffee58cc805241e513981b458103323e","features":{},"yanked":false}
+{"name":"min_timer","vers":"0.3.0","deps":[],"cksum":"0cdcb3dee24e019a6d5713ca00dc387378ab60e4704209a3593bdb10e9adff5f","features":{},"yanked":false}
+{"name":"min_timer","vers":"0.4.0","deps":[],"cksum":"c19808612b26c7a50de7485a714f39a4cd4fd6983ccba8930a24b058fece5a35","features":{"hrt":["prf"],"prf":["stat"],"stat":[]},"yanked":false}

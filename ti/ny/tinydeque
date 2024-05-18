@@ -1,0 +1,2 @@
+{"name":"tinydeque","vers":"0.1.0","deps":[{"name":"tinyvec","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7fd153b3b83079926c2d9574118ef9f4c256cef9f1e219232ff6c3764179f8a","features":{"alloc":[],"default":[]},"yanked":false}
+{"name":"tinydeque","vers":"0.1.1","deps":[{"name":"tinyvec","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b6f03159c04d33a19838de62d9c1515441616636b5e8edbb5a2fa06921469e","features":{"alloc":[],"default":[]},"yanked":false}

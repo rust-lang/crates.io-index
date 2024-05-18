@@ -1,0 +1,2 @@
+{"name":"fontgen-export","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.104","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6870700f1d5fb5156e6097c363c4f4c850da4ca0d42f5de958f2322495d91df0","features":{},"yanked":false}
+{"name":"fontgen-export","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.104","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ca3dc31bc9033f52ca591bd3341f51e79f541332bcc454ac4d950653a7b9a96","features":{},"yanked":false}

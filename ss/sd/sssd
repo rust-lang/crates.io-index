@@ -1,0 +1,2 @@
+{"name":"sssd","vers":"1.0.0","deps":[{"name":"sysinfo","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4d46158604312361cf98d8627d3b66833d7d6c1fd09236a6c3cac173cab67b2","features":{},"yanked":false}
+{"name":"sssd","vers":"1.0.1","deps":[{"name":"sysinfo","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e0c20b5d458d73f2c2d01597402552fa5ec880db51140c485632f9947fa91e","features":{},"yanked":false}

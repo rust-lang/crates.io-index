@@ -1,0 +1,2 @@
+{"name":"termal_proc","vers":"1.0.0","deps":[{"name":"termal_core","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"206e8611099f02eaae22fbfc90f7d44b15bec12273742ca4c0c42e2c23e9e1e8","features":{},"yanked":false}
+{"name":"termal_proc","vers":"1.0.1","deps":[{"name":"termal_core","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fcfe92759d5b27bffd727400d03a0f70f83eebd6bf589f175894a5d638c99a0","features":{},"yanked":false}

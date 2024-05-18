@@ -1,0 +1,1 @@
+{"name":"cosort","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30d8b244f34cba639377d1ab40661282b239d92782366de0fab64b3a9e58fdc8","features":{"default":["std-error"]},"features2":{"std-error":["dep:thiserror"]},"yanked":false,"v":2}

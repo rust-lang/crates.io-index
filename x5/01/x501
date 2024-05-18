@@ -1,0 +1,2 @@
+{"name":"x501","vers":"0.0.0","deps":[],"cksum":"c4b2fbc5674a0f55adbd4da2190a6358100c82caf197f246367e833007da4bd8","features":{},"yanked":true}
+{"name":"x501","vers":"0.1.0-pre.0","deps":[{"name":"der","req":"=0.6.0-pre.1","features":["derive","alloc","oid"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hex-literal","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a3e30587ef2c72a45ba45b77e3769adfab345cd799bf5b91a2f43131c47aeb3","features":{},"yanked":false,"rust_version":"1.56"}

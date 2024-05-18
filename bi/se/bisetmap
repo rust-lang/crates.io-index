@@ -1,0 +1,7 @@
+{"name":"bisetmap","vers":"0.1.0","deps":[],"cksum":"c35e44028f1536d61bd65e9368baf3d195d3390c28daeeba1eabb4a9f7aa63bf","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.1","deps":[],"cksum":"49f0dd196fa5f0b02680627c31058d9b5d27eeb7462a072cd95802d7e4b1d606","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.2","deps":[],"cksum":"80fc38f919613044d7b66f53194586d5a65e13b8deca8da6e3abae375e09523a","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.3","deps":[],"cksum":"3ee07de13ddf0c75ef0fe866d7509a94f9213e52cb58079010f37714ad51d0d4","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.4","deps":[],"cksum":"9789c1448245b02b54a318c12a1c306f04d9f9ee6f498e3b97b2d36ce785d171","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.5","deps":[],"cksum":"31fe9dc7fc46b96070a6eb651268861170c0d9089352af44f2696625d3e03966","features":{},"yanked":false}
+{"name":"bisetmap","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22c974dd8ef792bd6539b0ae3fe33f050a2f456aa073e1b560a36904d7d9ca1a","features":{},"yanked":false}

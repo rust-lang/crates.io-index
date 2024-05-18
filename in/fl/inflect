@@ -1,0 +1,1 @@
+{"name":"inflect","vers":"0.1.0","deps":[{"name":"clippy","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8891a21c9242b5c9c89d28521cec390652a8055cb13105dcceda6d4800b8a00","features":{"default":[],"lint":["clippy"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"gcj02","vers":"0.1.0","deps":[{"name":"geo","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"143c962415dc29845f88b6f831858c3c5eaf05d7f780f6e942a3bd2e437a6c96","features":{},"yanked":false}

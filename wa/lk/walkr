@@ -1,0 +1,1 @@
+{"name":"walkr","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^0.1.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03c81c16c0dcfc326a6a607ce70376a60c63371de14b7596da3829f79678c18b","features":{},"yanked":false}

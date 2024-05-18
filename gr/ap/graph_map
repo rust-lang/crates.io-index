@@ -1,0 +1,1 @@
+{"name":"graph_map","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff2fccf103d0afdb413bb9de876dee7269aefeb915e64956e64ec434be3d442a","features":{},"yanked":false}

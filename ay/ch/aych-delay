@@ -1,0 +1,2 @@
+{"name":"aych-delay","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c496e259af210b67b28f6fa57130861cf7dbfb1e6640e11d228501f33461cfd","features":{},"yanked":false}
+{"name":"aych-delay","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2d0ec02c21e3cd971f81f20baa707514d063799a0dedd70c22ca0f73e12bcf0","features":{},"yanked":false}

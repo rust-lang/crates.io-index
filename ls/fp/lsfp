@@ -1,0 +1,5 @@
+{"name":"lsfp","vers":"0.4.0","deps":[],"cksum":"ba56776ab1d2a1b4e02ae23de5bdb1634f5617e13f91b04dcdec6020d93672e6","features":{},"yanked":false}
+{"name":"lsfp","vers":"0.4.1","deps":[],"cksum":"186c967c54683c3e138ac93a279127bd81702fe23c0bf6a6b7f551d6e32558b8","features":{},"yanked":false}
+{"name":"lsfp","vers":"0.4.2","deps":[],"cksum":"d10546e3b5cebbca5d2471795c9055bff493056bea5e3002b8fb35e122310dc3","features":{"color":["config"],"config":[],"default":["git","color"],"git":["config"]},"yanked":false}
+{"name":"lsfp","vers":"0.4.3","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ab3ddaf70ec0f0129b27cddca05bcb1271731a2d6d8e3761e43a8aec7cf74e15","features":{"color":["config"],"config":[],"default":["git","color"],"git":["config"]},"yanked":false}
+{"name":"lsfp","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d1a6700394df1c340fa5efa17c65c729a7392fcc766bb3950664f4f103b64485","features":{"color":["config"],"config":[],"default":["git","color"],"git":["config"]},"yanked":false}

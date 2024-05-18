@@ -1,0 +1,2 @@
+{"name":"easy_adds","vers":"0.1.0","deps":[],"cksum":"7c63d326a87fc46628a6e814f42bb47ef0a129a46dfae6a69df61d9397229bff","features":{},"yanked":false}
+{"name":"easy_adds","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"976f33abe6c79b5a92b9b7d0db9cfffe7c5c5c923c486a79514211c1c1f5a167","features":{},"yanked":false}

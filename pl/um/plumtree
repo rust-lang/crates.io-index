@@ -1,0 +1,7 @@
+{"name":"plumtree","vers":"0.0.1","deps":[],"cksum":"74ad8e10418d1ff3fad456853db3e264c224c1e9431d162060340ab1d92b42a7","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.0.2","deps":[],"cksum":"d3f64b7a1b82d5c2a45b8886a045a76270040a7affb15a5114ce8894c15bdfd4","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.0.3","deps":[],"cksum":"b97c057b329a2f6c8d19f96152115a1fd14c2141e71e47da10040d5ceeb2bbd7","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.0.4","deps":[],"cksum":"e374bb3bf2516db427af6a343c0dc99a7fad31c6fdfbcdcce7ce34d0fd217263","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.0.5","deps":[],"cksum":"f1354b792000280f57a01cdd1493dca565665e355eff4f977401405b462eaf87","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bdc87d41ae2831f5f6bea770ed62544f990665e52029e213b13472451845ac4","features":{},"yanked":false}
+{"name":"plumtree","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"076f72fae263d846272eed089533bee66158cd975c12ac06233e1afe24e1bb71","features":{},"yanked":false}

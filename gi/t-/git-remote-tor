@@ -1,0 +1,5 @@
+{"name":"git-remote-tor","vers":"0.1.0","deps":[],"cksum":"9512e02995c4f3397fe94d9db0d17bbc3e1de480c7f62892fdf7c2bdfaa7cb08","features":{},"yanked":false}
+{"name":"git-remote-tor","vers":"0.1.1","deps":[],"cksum":"cf133ed5a65fe13b789e41f028b6e6c517ea24a641c2228c4cf1eef9b1bfee9f","features":{},"yanked":false}
+{"name":"git-remote-tor","vers":"0.1.2","deps":[{"name":"indoc","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a46bae4fbb6665c583412c61fb27c8718e40087cc842cad88941aad3b7b34538","features":{},"yanked":false}
+{"name":"git-remote-tor","vers":"0.1.3","deps":[{"name":"indoc","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2469a64162ef9870ed956ecf668ca8e086b527e1156d1bd764cbae7d5b3f25a","features":{},"yanked":false}
+{"name":"git-remote-tor","vers":"0.1.4","deps":[{"name":"indoc","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df911a7809a7942e780629cddcb30b851cb9d9de164446a8ce300ce4bf3d690","features":{},"yanked":false}

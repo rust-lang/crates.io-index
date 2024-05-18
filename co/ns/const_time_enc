@@ -1,0 +1,1 @@
+{"name":"const_time_enc","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aad7fbf8d6a619f2edb04f80bdfe36970bd19b22dc5473ba34a6e3ebfefd8958","features":{"bench":["test"],"test":[]},"yanked":false}

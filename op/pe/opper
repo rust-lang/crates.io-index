@@ -1,0 +1,1 @@
+{"name":"opper","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dd382d937a18a07527643610149273aed2ce7ca74059a0edfd3e2ecc280146e","features":{"default":["std"],"full":["default","serde"],"std":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"simple-args","vers":"0.1.0","deps":[{"name":"multimap","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2709107643b0d0d6fe875ff91bdd561f7351a4c367df8419483de09ff2fd0e25","features":{},"yanked":false}
+{"name":"simple-args","vers":"0.2.0","deps":[{"name":"multimap","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e47dd83ed45e636f9edc139c766693f47fac8be1ff139e19d6c435a44be45e8","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"digit","vers":"0.1.0","deps":[],"cksum":"dddb736954f3b7ad51ae04e5dfef1343948c7e42d4eae5dd4f8f0612fa294ef5","features":{},"yanked":true}
+{"name":"digit","vers":"0.2.0","deps":[{"name":"assert_cmd","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"predicates","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84a49f13b5e8b364710f54da3be4c639a43e82d3a43e1c5b68642b57bbe8061e","features":{},"yanked":false}

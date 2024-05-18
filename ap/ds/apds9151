@@ -1,0 +1,2 @@
+{"name":"apds9151","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4095a3fb35ecbea6525533bdfb2b632c48edebd486002a1648c7a4301be80b8b","features":{},"yanked":false}
+{"name":"apds9151","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8a9de32b66b0fdc712054bbf286ef8e4176be8933692e03345d5d84cba19eb0","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"threadstack","vers":"0.1.0","deps":[],"cksum":"330abd84a1bc6f676f702a41f2b9e655e8c6d1d3279e57ce5b6be508603b2a81","features":{},"yanked":false}
+{"name":"threadstack","vers":"0.2.0","deps":[],"cksum":"4e68f380193859fd4cb2968a06b213a8274829ce86755ff98eb083a515a62a06","features":{},"yanked":false}
+{"name":"threadstack","vers":"0.3.0","deps":[],"cksum":"18a169fc7baaf405356670a7921122ea3abe7cc68bc93ff5c34f585e86ce51d9","features":{},"yanked":false}
+{"name":"threadstack","vers":"0.4.0","deps":[{"name":"rel-ptr","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62ae75d15b9003ffde1ed260943faab56f65206a5837398a5e5a819560c05668","features":{},"yanked":false}
+{"name":"threadstack","vers":"0.4.1","deps":[{"name":"rel-ptr","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84bf9d9f1bc63c68a701f232b34ab2a6090146debf79be1bff811eb183a3c5fb","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"endiantype","vers":"0.1.0","deps":[],"cksum":"1cfb3250ae57147e7d5934189be046b408b32176db9e6ed9dd5ec9fbf46b7bb2","features":{},"yanked":false}
+{"name":"endiantype","vers":"0.1.1","deps":[],"cksum":"6b12828d0b75d3eacfed8c011eac1a50a102efb18f4ef5c5861b8db71f98e1c4","features":{},"yanked":false}
+{"name":"endiantype","vers":"0.1.2","deps":[],"cksum":"d672235dfc1066ea42e6e432f58d09a2f1a9e8d01fb9d838a74d763c4212b826","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"endiantype","vers":"0.1.3","deps":[],"cksum":"619ec9a17428944cd8d1188aa102b42c4964e6e461a4297fbf6a416f0ac01d38","features":{"default":["std"],"std":[]},"yanked":false}

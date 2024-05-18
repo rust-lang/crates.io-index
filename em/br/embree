@@ -1,0 +1,4 @@
+{"name":"embree","vers":"0.0.1","deps":[],"cksum":"a723b7409a8f73d4523c23c001f21d408d81aa971f3e9446e1695ef355861a3d","features":{},"yanked":true}
+{"name":"embree","vers":"0.3.6","deps":[{"name":"cgmath","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfef8ff2e779717045486aa404eaf9c9990e3d6fde8492042fcc9109f27abd73","features":{},"yanked":false}
+{"name":"embree","vers":"0.3.7","deps":[{"name":"cgmath","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f461e49372ef1de31ad6920b4fec1ebf3e0f69729ca343b550a4f7c6553e881","features":{},"yanked":false}
+{"name":"embree","vers":"0.3.8","deps":[{"name":"cgmath","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"120acb32004762560596028d685cb0a98e158b79d3bdc8c51a35d062440f3219","features":{},"yanked":false}

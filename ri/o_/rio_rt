@@ -1,0 +1,2 @@
+{"name":"rio_rt","vers":"0.1.0-alpha.1","deps":[],"cksum":"a756644d6504d4f8af6a481d3d36b209769335fadf74aed46a3f6660cc574920","features":{},"yanked":false}
+{"name":"rio_rt","vers":"0.1.0-alpha.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a3b5e16ee2dbadfa45d8023dfb6f0897c2e832d1cc55cb8b58fc61654a41b4b","features":{},"yanked":false}

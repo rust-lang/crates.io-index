@@ -1,0 +1,1 @@
+{"name":"medmodels-utils","vers":"0.0.1-a1","deps":[{"name":"hashbrown","req":"^0.14.5","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4b7190ec02d72abbe96ab0e985e77dea1f4b74e6226c39fecf4ec76433cd59f","features":{},"yanked":false}

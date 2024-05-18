@@ -1,0 +1,2 @@
+{"name":"blackbox_di","vers":"0.1.0","deps":[{"name":"blackbox_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9d4649d41c19706846932062a8609153f2486547db01e2475c7f9c20c3a442a","features":{},"yanked":false}
+{"name":"blackbox_di","vers":"0.1.1","deps":[{"name":"blackbox_core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fd4e1118da137de38ed01ca28a20c47ce3b16c669065c396f7c320bc8620533","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fix","vers":"0.1.0","deps":[{"name":"typenum","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e169279fcc1ca5a97c82dd1f7b5de91d48b57483a07faae5afc92b176e36b457","features":{"i128":["typenum/i128"]},"yanked":false}
+{"name":"fix","vers":"0.1.1","deps":[{"name":"typenum","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"915708177c784db10dbbeccb18d302f77a30c8443b45d0e4494055f26c23cbd0","features":{"i128":["typenum/i128"]},"yanked":false}

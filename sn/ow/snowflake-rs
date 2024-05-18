@@ -1,0 +1,2 @@
+{"name":"snowflake-rs","vers":"0.1.0","deps":[{"name":"time","req":"^0.1.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf6b055a9ff7e637841e07865bfa7695948be4faa2d6e0775e618f18bc93441","features":{},"yanked":false}
+{"name":"snowflake-rs","vers":"0.1.1","deps":[{"name":"time","req":"^0.1.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c8d7eb43dd19f0d3964731e9ec3828c6cb84d091109f223d8594e041b00135f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"manga_app_lib","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.20","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cf07b2a051ffc17ef9779f45a42b9421fa5ed103567156702d1461d92bb21a9","features":{},"yanked":true}
+{"name":"manga_app_lib","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11.20","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d7363a4bd965fef0b489e4979e4605ee1ba0c13b3cd3e8c3a5aa155e0ebeb9e","features":{},"yanked":true}

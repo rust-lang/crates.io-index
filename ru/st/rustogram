@@ -1,0 +1,5 @@
+{"name":"rustogram","vers":"0.1.0","deps":[],"cksum":"bdd6835ba9b648dd2237b3d05bd5042fd92f454e0735175fff35c6b444b48e70","features":{},"yanked":false}
+{"name":"rustogram","vers":"0.1.1","deps":[],"cksum":"5a6de4963ba69c05fe45366a2186807b418f6e0c59a77eb6e74ed1bb06f98a77","features":{},"yanked":false}
+{"name":"rustogram","vers":"0.1.2","deps":[],"cksum":"332283b94ca2e3cc124be0c16236e939314d4225e5614455b7981f826b000204","features":{},"yanked":false}
+{"name":"rustogram","vers":"0.1.3","deps":[],"cksum":"7699984cc5fa6a1d043c6cea3d6086c25129993b0525894306c657e1cd9a8bfb","features":{},"yanked":false}
+{"name":"rustogram","vers":"0.1.4","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0359a8ace3c9be3d058bcac462e3962907dbf43ca787caf6a40c8740690721c6","features":{},"yanked":false}

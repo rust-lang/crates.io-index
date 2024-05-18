@@ -1,0 +1,2 @@
+{"name":"nor","vers":"0.1.0","deps":[],"cksum":"064b3a35bc08bbbc73e3d80a43d929b81aca5b0cc4610b93941223f17941dd6a","features":{},"yanked":false}
+{"name":"nor","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.34.3","features":["image"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"62545f739e0a7b37a5fe0a276306c049dd9710286e5fb09c57de585ac64a29c5","features":{},"yanked":false}

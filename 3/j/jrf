@@ -1,0 +1,2 @@
+{"name":"jrf","vers":"0.0.1","deps":[{"name":"jsonist","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d76edfc06c837c0fe11bca28e8c76811d0188cc6e076946fc4ad724782200eee","features":{},"yanked":false}
+{"name":"jrf","vers":"0.0.2","deps":[{"name":"jsonist","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"314126e4b10573ee7563717eb62a077261b22333f4e5a1cf74494cd52eddccb9","features":{},"yanked":false}

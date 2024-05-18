@@ -1,0 +1,1 @@
+{"name":"oolisp","vers":"0.1.9","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be7b9d303ce2cbc97543ed6981cf012a83e5aa85b53f5afe54d3a974071a0cd","features":{},"yanked":false}

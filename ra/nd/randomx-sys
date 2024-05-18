@@ -1,0 +1,1 @@
+{"name":"randomx-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b1bf94f81d38e4fecac8a238dbfc37447f72a94a43bf67886f24fb3d06f3bcb4","features":{},"yanked":false}

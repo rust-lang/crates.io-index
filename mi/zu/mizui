@@ -1,0 +1,2 @@
+{"name":"mizui","vers":"0.0.1","deps":[],"cksum":"7763d5c453df4b5f9d9b7b7911ed50e017d8d0a68923d31f9b44e466750c7d8b","features":{},"yanked":false}
+{"name":"mizui","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"v8","req":"^0.48.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8addc4c21dc67c2dc88a88e07ab8070d6c84a4ef6e781b18973692d144a595c","features":{},"yanked":true}

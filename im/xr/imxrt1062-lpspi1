@@ -1,0 +1,2 @@
+{"name":"imxrt1062-lpspi1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bbc077fde910452740245e11479acb565baeb66161beb7fe7b4ff7703963394","features":{},"yanked":false}
+{"name":"imxrt1062-lpspi1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3017030a2922e5e76f5406a0e72cabd8bc66182ffca9d7e36d1b4fc80717171","features":{},"yanked":false}

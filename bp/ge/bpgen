@@ -1,0 +1,1 @@
+{"name":"bpgen","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb31e3eb7d25371defd5ad73fda86bad8ff41001e41f27f1e1155739bf533053","features":{},"yanked":false}

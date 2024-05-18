@@ -1,0 +1,3 @@
+{"name":"functor","vers":"0.1.0","deps":[],"cksum":"86cb8492ec712f3529d92edad1a7b2bbdf152b3ca63ed1d6a49a754b71a70b49","features":{},"yanked":false}
+{"name":"functor","vers":"0.1.1","deps":[],"cksum":"d839bac4fd9f3b28a02ad296df2ba914aa69b0838b8e51f9a6ed541949662a70","features":{},"yanked":false}
+{"name":"functor","vers":"0.1.2","deps":[{"name":"morphism","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99d7885f5e4e0e9a40594784d32b9d6564b461ff628a090997fe03b2aba027ec","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"nml","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48c0d5690962b6a2b843aff19de284539afa8d39d4642e0dba551e0998a2ab37","features":{},"yanked":false}
+{"name":"nml","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.160","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d800b87aef76b88d49b64eed0bd1665c58c3777d3378ab14823ea1f6c47d62a","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"crispr_temperature_calculator","vers":"0.1.0","deps":[],"cksum":"3fad31c8836400a67776255fbdd03d662b47bed8d47e34ec5060949c1538d213","features":{},"yanked":false}
+{"name":"crispr_temperature_calculator","vers":"0.1.1","deps":[],"cksum":"77bf833d766b0f0063794d5aa5946bca77a72062a84a8ec237bf26c0c98a4092","features":{},"yanked":false}
+{"name":"crispr_temperature_calculator","vers":"1.0.1","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc4c62806fe3614925be9a8f3da90481d9ada265ee4024be17063732b672e87a","features":{},"yanked":false}
+{"name":"crispr_temperature_calculator","vers":"1.1.1","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fe2d90bd4c666e5afcef03f4e884aaeba0ba3825c079e52a23cf30d3cb2b1e1","features":{},"yanked":false}

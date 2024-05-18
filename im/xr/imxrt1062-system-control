@@ -1,0 +1,2 @@
+{"name":"imxrt1062-system-control","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acc6d5e2f1bb2cbfff159397c57540c2c2818212447c664232f9d08d0bea18ec","features":{},"yanked":false}
+{"name":"imxrt1062-system-control","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4a11abf88cfdda803cdaa090ee1a2d0e8291e4f1d8862d69a0580aa099f2ad6","features":{},"yanked":false}

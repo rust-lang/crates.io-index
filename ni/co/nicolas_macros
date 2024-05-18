@@ -1,0 +1,1 @@
+{"name":"nicolas_macros","vers":"0.1.0","deps":[{"name":"quote","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e602a6f9b637c3dfdb34e87a2ff36157057364a0b3399b800834abc01572b9f7","features":{},"yanked":false}

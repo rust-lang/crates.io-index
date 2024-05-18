@@ -1,0 +1,2 @@
+{"name":"ftools","vers":"0.1.0","deps":[],"cksum":"797f58eea48dc4292ea6308e01382eed9bda2949ee3c3eb512397d5ca0329d8e","features":{},"yanked":false}
+{"name":"ftools","vers":"0.1.1","deps":[{"name":"futures","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tokio","req":"1.4.*","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e497517310eddaa8c6c8511671ae727ec8be392addd64323972c067e9bfa1d7","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pro_prelude","vers":"3.0.0-rc2","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f43521b35ac3e182d1d49399223c5f025cbcb99fd40e2753f424bfa4697628a5","features":{"default":["std"],"std":[]},"yanked":false}

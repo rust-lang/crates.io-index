@@ -1,0 +1,3 @@
+{"name":"truthy","vers":"0.0.1","deps":[],"cksum":"a7b7bb41c2ca9621594802dc87160dd847ce033beaed4437b794b86ea9f2d4a7","features":{},"yanked":true}
+{"name":"truthy","vers":"1.0.0","deps":[],"cksum":"e434164de1dc51b339606291f2b755b0335f8d64a83beeb82271a6f1fdecda7f","features":{},"yanked":false}
+{"name":"truthy","vers":"1.1.0","deps":[{"name":"either","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6ebd0f1df298ffd07878d07ccb7fe00a587c42343de8a0b760d5f0cc65f9422","features":{"and-or":["either"],"default":[]},"yanked":false}

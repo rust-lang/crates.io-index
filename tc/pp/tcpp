@@ -1,0 +1,1 @@
+{"name":"tcpp","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b84a79c93695e704c7cf304b680910d7c4b8bf7a9760d6cd8ac3e28b1faa5048","features":{},"yanked":false}

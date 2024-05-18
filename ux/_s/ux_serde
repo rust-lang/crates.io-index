@@ -1,0 +1,1 @@
+{"name":"ux_serde","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8aaf0d6ee05126671164e6c620bfe83dc4ab13a6c8f472466dd957e309c64b9","features":{"default":["std"],"std":[]},"yanked":false}

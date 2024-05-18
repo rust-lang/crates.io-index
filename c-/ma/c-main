@@ -1,0 +1,2 @@
+{"name":"c-main","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"159d8b6d459cb5cbd30a76f8c92136c19932ab4b3741cc0a2a08fc97b568f410","features":{},"yanked":false}
+{"name":"c-main","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"797bbff8bd2bcddb7f0ee638b55398686adac15174689a86da5ffc0f51219f75","features":{},"yanked":false}

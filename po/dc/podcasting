@@ -1,0 +1,3 @@
+{"name":"podcasting","vers":"0.1.0","deps":[],"cksum":"ecb7e418a73efa2bfb69b026ca70c78e48e2641935e6eeb30fca7b9915c75390","features":{},"yanked":false}
+{"name":"podcasting","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa354ff32ca498adc26e0554f80be4f1b5d0102a7202d9725ba42fb3f5a1887e","features":{},"yanked":false}
+{"name":"podcasting","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c204c688acc9a56d39b2b8ecfaf8bcdbe2fbdcb4cdf482108530be3b0d38c47","features":{},"yanked":false}

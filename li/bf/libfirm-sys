@@ -1,0 +1,2 @@
+{"name":"libfirm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"14af4455b96cc98c7fab684e837a9b96aa155022850d142a0bd7f51d5201606a","features":{},"yanked":true,"links":"libfirm"}
+{"name":"libfirm-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0729cc960dbf3d6ed7429d0ed698e1d0634b340c921bf8fd3d774d1151760f95","features":{},"yanked":false,"links":"libfirm"}

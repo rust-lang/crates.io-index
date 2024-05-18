@@ -1,0 +1,4 @@
+{"name":"easify","vers":"0.1.0","deps":[],"cksum":"94e761fc1f265c4d895e82cf7288efb37c673c492a22afb10c18d925ba88decc","features":{},"yanked":false}
+{"name":"easify","vers":"0.2.0","deps":[{"name":"easify-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b332c12f199ac0ecfb39f5c54e2d86a5b16d89ce59d2274c7d29800741cd243e","features":{},"yanked":false}
+{"name":"easify","vers":"0.2.1","deps":[{"name":"easify-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8f0eea7b2becabed84b32d5b5b0bea5b061c1dae1cf52b017c6e7d330b714e0","features":{},"yanked":false}
+{"name":"easify","vers":"0.2.2","deps":[{"name":"easify-macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39605cd6a8f645f48f40319976e3018db7e9722967d0fac75fdfc97dc0a9e7f0","features":{},"yanked":false}

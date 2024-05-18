@@ -1,0 +1,1 @@
+{"name":"juicebox","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a4611363e41c30d64003064a57b3c74ca600cdc644a19e0124ebc8b7540526f","features":{},"yanked":false}

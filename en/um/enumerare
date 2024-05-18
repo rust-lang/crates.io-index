@@ -1,0 +1,1 @@
+{"name":"enumerare","vers":"0.1.0","deps":[{"name":"enumerare-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10b57d43ec71929d2f89f49b41ff7f09f35f6ca7f4272757ac4059a372d34af9","features":{"default":["macros"],"macros":["enumerare-macros"]},"yanked":false}

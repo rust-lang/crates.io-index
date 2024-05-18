@@ -1,0 +1,1 @@
+{"name":"dbus-launch","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b605c1a7f0ca11e477d0eb78505f22e2337fd102e880eb5a357d10c080e02b1","features":{},"yanked":false}

@@ -1,0 +1,9 @@
+{"name":"jni-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a25c38fae61d82e144c66d6faf0b861573ec3ae65c011fb74e2e1a2af922f93","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.0","deps":[],"cksum":"eac30fff0b1c46e3108b15520094c025610f08b4ccbd9e0bc0eb3bbd3b7c45ec","features":{},"yanked":true}
+{"name":"jni-sys","vers":"0.2.1","deps":[],"cksum":"510941fbeecc62a2c318bc717d32e32b6672ceb64b1795d6b11d8d360dcf52c7","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.2","deps":[],"cksum":"83ba0fad4625733b25833da250d0c84058314e1a276f4939f3e87c195997c206","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.3","deps":[],"cksum":"2eff9fa9fbea67e7a1f2216506ee304bb322a6defff6eed1e3c54684d00159eb","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.4","deps":[],"cksum":"a7da1fbb4b58af6e3b3942f1fa52ebf6bad40e1c430d1f32a07f7952842d27f0","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.5","deps":[],"cksum":"de0aaaba8809ab8d83a53fe2b313b996b79e8632b855eae9f70ad4323dca91b8","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.3.0","deps":[],"cksum":"8eaf4bc02d17cbdd7ff4c7438cafcdf7fb9a4613313ad11b4f8fefe7d3fa0130","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.4.0","deps":[{"name":"jni-sys-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c30a312d782b8d56a1e0897d45c1af33f31f9b4a4d13d31207a8675e0223b818","features":{},"yanked":false,"rust_version":"1.65.0"}

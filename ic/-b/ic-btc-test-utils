@@ -1,0 +1,1 @@
+{"name":"ic-btc-test-utils","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.28.1","features":["rand"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be8e0a43145188ba239150f8460d314b0dd6e0ddf7d753c0ef99296103c622dd","features":{},"yanked":false}

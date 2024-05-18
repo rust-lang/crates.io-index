@@ -1,0 +1,2 @@
+{"name":"imxrt1062-tempmon","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8806b792db63db5e56ac6519ac74e069fefcfa352c958fe75f1c481b12469f40","features":{},"yanked":false}
+{"name":"imxrt1062-tempmon","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"600029381a272007b29c34c6095b465891e51383958a75fb9af259fa3a107d16","features":{},"yanked":false}

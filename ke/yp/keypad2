@@ -1,0 +1,2 @@
+{"name":"keypad2","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6f68c8db63088fc5927f001b8733670b1d927453a92d0b7be6f368182d0234e","features":{},"yanked":false}
+{"name":"keypad2","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.4","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c416496685616aea1e8f9aa4e5958cf6f3bb44395239725c6e9ea511997036f4","features":{},"yanked":false}

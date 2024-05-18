@@ -1,0 +1,3 @@
+{"name":"at-collection","vers":"0.1.0","deps":[],"cksum":"1ba034414a1c3d4a153c2f60de6a2f03d250593bca32091ac672358a240a76ff","features":{},"yanked":false}
+{"name":"at-collection","vers":"0.2.0","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f19ffc35fa483e36ad4fdda436b122217185379a003f16ff66b040334ebc76dd","features":{},"yanked":false}
+{"name":"at-collection","vers":"0.3.0","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed00531ca443748f2baef371bceafa6c01d809df751a219529b188f969ac9695","features":{},"yanked":false}

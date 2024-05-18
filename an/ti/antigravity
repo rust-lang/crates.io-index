@@ -1,0 +1,5 @@
+{"name":"antigravity","vers":"0.0.1","deps":[],"cksum":"7d90fb809734a2e415cebd046077f4d07440c7e88d39c70d7078d76cc0bd0de6","features":{},"yanked":false}
+{"name":"antigravity","vers":"0.0.2","deps":[],"cksum":"9fc22318b4d8fe4c360ca722ca490441f29124751a7f8200a1fe6fe7a45472ed","features":{},"yanked":false}
+{"name":"antigravity","vers":"0.0.3","deps":[],"cksum":"d525a65c8a44c7bc44601a25fcae4b312aef8d67ef65c9da72a293272d24fe08","features":{},"yanked":false}
+{"name":"antigravity","vers":"0.0.4","deps":[],"cksum":"669ccc8ff241af684dbff039d6d0ceb017cfd9277eb387ad7f299266607ae015","features":{},"yanked":false}
+{"name":"antigravity","vers":"0.0.5","deps":[{"name":"md5","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"webbrowser","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b47ff2417cf4ca4f55b5c1e324b6679a4ca966134124c70022de863ddc8b4dc9","features":{},"yanked":false}

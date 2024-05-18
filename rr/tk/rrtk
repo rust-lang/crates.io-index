@@ -1,0 +1,11 @@
+{"name":"rrtk","vers":"0.1.0","deps":[],"cksum":"d3770b47948f2082a8f2b79d745b485b2562836e34c0747d14f846acdcbad09f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.1.1","deps":[],"cksum":"a64752a0686259004eb8944bc0121bf423d12e913a737f8f255dee8170b568d7","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0-alpha.1","deps":[],"cksum":"d94609e276e6bcbc55cc93705f0c02e8139ce68fee8480160f9ce06912ff2450","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0-alpha.2","deps":[],"cksum":"b6372d5bec4980eb25f4c6b1fb26178093fd3191762d5d9bc505c386373f8ee1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0-beta.1","deps":[],"cksum":"a6b5c3863551d6bd0e9297db65c06e78c1d1cd167c00da216f754195bc79e235","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0-beta.2","deps":[],"cksum":"5971da140e6842d340638347db60e1ba0caa5a11b9285d4589eb44c0a6ae098a","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0","deps":[],"cksum":"0fe25739f2625e61ac62c7698f0bde3d36852934177111cf93a0f64d47e221ba","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.1","deps":[],"cksum":"6645bb44a58656ac51efc32fc7227c967f28c9aed95c04445db363fabd210426","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.2","deps":[],"cksum":"b82c4fe2d58f1a63280aedb31f8c2c72b11a8cb14143d2c5fd5ba60df62c853f","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.3","deps":[],"cksum":"ab78abb98132df05f62d688611c3ffdb41eb54102dad39e533814e9945155631","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.4","deps":[],"cksum":"17bf86e0d57c7202387325212f828ce7d27528d3cf733ea5e996eb49f76305fb","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}

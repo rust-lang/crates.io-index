@@ -1,0 +1,10 @@
+{"name":"stremio-official-addons","vers":"2.0.0","deps":[],"cksum":"f021a43dbf7453b58a3f18363f3491530d55d21992f431fd98f3cddd954e2079","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.3","deps":[],"cksum":"1aaa4710a00f5b7c0c91f40a41f14a904c71e6f308b340065e3eef6022687d4e","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.4","deps":[],"cksum":"f90dd53aa3af4cfe4b9ae54200c8b19e964dc9d6af894a64c5616a989f0b3820","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.5","deps":[],"cksum":"e94b7011f93ccd04876543706bd81f321634a9cf9132f7c04cc32e8e5ed3bf2c","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.7","deps":[],"cksum":"e3ccb0926980465155ebd37d461e5bf6eafb24d6984767997e13d1771c4ca0c6","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.8","deps":[],"cksum":"09d7ce94fa1b18d2f8214f4de62a1b767505dd84383812145ed77053571a2125","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.9","deps":[],"cksum":"8859744c7cd12c43f821b12f02090bae91c61124778c833dcafc978614e131b0","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.10","deps":[],"cksum":"f85866d77a26e83d3774dfcbb3871540b3e5e4fc753e26bdd5e8e4aa3bb9f9be","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.11","deps":[],"cksum":"7e078e462526ca579a7a6e46bcb0106457006abec0ecb97a643b4d6257613db6","features":{},"yanked":false}
+{"name":"stremio-official-addons","vers":"2.0.12","deps":[{"name":"once_cell","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5b03b5836f294463f2ad0eeebac3bcde05dcbecfefa4fc6da2029c5e15d17ad9","features":{"default":["json","std"],"json":["serde_json","once_cell"],"std":["serde_json/std","once_cell/std"]},"yanked":false}

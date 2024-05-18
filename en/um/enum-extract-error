@@ -1,0 +1,2 @@
+{"name":"enum-extract-error","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57468421114e277f77fec112e1320cbc25a1e4434b665eb95816e19a1722a288","features":{},"yanked":false}
+{"name":"enum-extract-error","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42af18e5daffa0cf759908eb3d13fee16c5811044fe557c6479f5fc0bff14737","features":{},"yanked":false}

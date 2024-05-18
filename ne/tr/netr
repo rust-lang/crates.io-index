@@ -1,0 +1,6 @@
+{"name":"netr","vers":"0.1.0","deps":[],"cksum":"2728440f332c88bd0573bc0e0a31beeb744101606b149a68c676e6b8f61ed726","features":{},"yanked":false}
+{"name":"netr","vers":"0.1.1","deps":[],"cksum":"d06f071a1a9ea02d7259d426e1d12bf64740cb3723f3355b9b9eac09d81134c8","features":{},"yanked":false}
+{"name":"netr","vers":"0.1.3","deps":[],"cksum":"a548a0a03601d1811864b9236982a31773447e33889297c88750acc521bc9a94","features":{},"yanked":false}
+{"name":"netr","vers":"0.1.4","deps":[],"cksum":"1fe1c2b0d31f3cad4ad43dda4b338f38c9c0c2c9b4c8c2ce61107b648ed9a17f","features":{},"yanked":false}
+{"name":"netr","vers":"0.1.5","deps":[],"cksum":"3f6e825f76264cc15a2f8c0f931c0e499b8a9f4a1333a4c6ab69569f5b75e937","features":{},"yanked":false}
+{"name":"netr","vers":"0.1.6","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_os = \"linux\"))","kind":"normal"}],"cksum":"4d41538110619671476e252b9a2decbcdabb9ef572c8ee9f19954df1b3272e77","features":{},"yanked":false}

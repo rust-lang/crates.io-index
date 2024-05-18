@@ -1,0 +1,1 @@
+{"name":"moai_window","vers":"0.0.1","deps":[{"name":"gl","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glfw","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ca5a672ef2ac5038d2a21c93d94d5b46ad62f01ccbdd43c0de7b1fb3a7c243b","features":{},"yanked":false}

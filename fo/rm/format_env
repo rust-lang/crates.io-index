@@ -1,0 +1,2 @@
+{"name":"format_env","vers":"1.0.0","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dfbed9154c2bfedd60c47501ba22b418eadde00719b291c406fb024c952676b","features":{},"yanked":false}
+{"name":"format_env","vers":"1.0.1","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcb9da40ab0e205e74a860187bdf2da27b09905bcbed0d4470a44855b145daa6","features":{},"yanked":false}

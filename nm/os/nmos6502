@@ -1,0 +1,2 @@
+{"name":"nmos6502","vers":"1.0.0","deps":[{"name":"num_enum","req":"^0.5.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3a0e149b85aa6bc4995e68059a6c3d8024e8c44ecb7aff70f1ac44d851e5c777","features":{},"yanked":false}
+{"name":"nmos6502","vers":"1.0.1","deps":[{"name":"num_enum","req":"^0.5.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a8b5d5122d3bd328f680864c445108a9f2db2a03d618c528c3afb180b9ddf0ff","features":{},"yanked":false}

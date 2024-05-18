@@ -1,0 +1,10 @@
+{"name":"escvpnet","vers":"0.1.0","deps":[],"cksum":"9e95f02a3c877bded11f07bde10a07f5646d662b296eb351ed4c832e9bc24c11","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.1.1","deps":[],"cksum":"3a49f3423213015d2f7ad150c5481dc6bae2fd9770060d0e7545a672b04e6588","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.1.2","deps":[],"cksum":"5412b27b3f08b886406ccb05a09c134209ff3d23c0f25542df68543e920ad02e","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.1.3","deps":[],"cksum":"b0ef3a5ac75c32527ff1fdcd748d4cbbf3a39418792632dee4d555f090de4eef","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.1.4","deps":[],"cksum":"36592d0d675d8e5128660272a20f227a501260fba18e3e52cb6932055489f73c","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.2.1","deps":[],"cksum":"897c404ebb95787feec1b35e20d4f56bbfe3ec759588695e91aad0374e7dde3d","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.2.2","deps":[],"cksum":"0d4a602d37ce73e1257ca894ad0cfba2ea6bcc9a6e110e763c3011997df5827e","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.2.3","deps":[],"cksum":"3586a6750cad5bd43d1f4d8545288408773e6cae5f96796c71b5d6560f2f1284","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"escvpnet","vers":"0.3.0","deps":[],"cksum":"559d7cd578051002cb8dcac2cbdfc81ba31a4008a3849796937251b6a3303c5b","features":{},"yanked":false,"rust_version":"1.68.2"}
+{"name":"escvpnet","vers":"0.3.3","deps":[{"name":"async-trait","req":"^0.1.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.27.0","features":["net","io-util","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.27.0","features":["net","io-util","test-util","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"19a81129f9cf9c15b8990824f8cfc9e6e77966cdf1f80067593306b92c3c1995","features":{},"yanked":false,"rust_version":"1.68.2"}

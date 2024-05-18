@@ -1,0 +1,2 @@
+{"name":"dimacs","vers":"0.1.0","deps":[{"name":"bitflags","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4508a60e547cbaa71607dc34495a123cf5cfd3d7b8802d124ecafbcee9a8134","features":{},"yanked":false}
+{"name":"dimacs","vers":"0.2.0","deps":[{"name":"bitflags","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75f6c12703392ff1f2c7cf298d27075ef1f40565c6af73a8ca72f16853563f84","features":{},"yanked":false}

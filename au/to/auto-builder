@@ -1,0 +1,2 @@
+{"name":"auto-builder","vers":"0.1.0","deps":[{"name":"auto-builder-macro","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"713872d98c7213edb6eb6bce4a37983747680bee748728d9fea9709df8805a82","features":{},"yanked":false}
+{"name":"auto-builder","vers":"0.2.0","deps":[{"name":"auto-builder-macro","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72e1cb90fe5630c39ccb88150b60271778c40e20e062f504875c3fcadf238f84","features":{},"yanked":false}

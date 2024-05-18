@@ -1,0 +1,2 @@
+{"name":"cargo-jumpstart","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a59139a5d472d40101e94d9bfed7e9eac69ea2919ad42dabc35cce768af740a7","features":{},"yanked":false}
+{"name":"cargo-jumpstart","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5f2d563c827c9bd0ccca612a05fd5235af2ee7091164bfa111d449a0bfaaea4","features":{},"yanked":false}

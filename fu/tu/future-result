@@ -1,0 +1,2 @@
+{"name":"future-result","vers":"0.0.0","deps":[],"cksum":"44be38369b894f46aff2601cbeaef6d229594bf3915ddcc7e5e33f0af0a15e43","features":{},"yanked":false}
+{"name":"future-result","vers":"0.1.0","deps":[{"name":"async-trait","req":"^0.1.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4682c5d42f075f5120934219fa38b4ab91c65ada0ec1e367e426ba86fb25a4a","features":{},"yanked":false}

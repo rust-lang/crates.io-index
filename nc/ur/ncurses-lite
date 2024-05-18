@@ -1,0 +1,2 @@
+{"name":"ncurses-lite","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79cacc0f56be2cd3cce4405d3e55aceaf724b36a89aa45262d761b6fcc35661d","features":{},"yanked":false}
+{"name":"ncurses-lite","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"127be58ec2399ec0788691917c7845fd7f7fb5a277102d937b165ff3e590d81d","features":{},"yanked":false}

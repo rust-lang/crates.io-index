@@ -1,0 +1,4 @@
+{"name":"mimesniff","vers":"0.1.0","deps":[],"cksum":"b62ca3b249dad66dcf4b49a2061ac55b89052b0e6248dae2c05acc4ca4647235","features":{},"yanked":false}
+{"name":"mimesniff","vers":"0.2.0","deps":[{"name":"mime","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de30b21f528abe54738443640121891d74dcf0242fac903003deaa8dfa26aea1","features":{},"yanked":false}
+{"name":"mimesniff","vers":"0.2.1","deps":[{"name":"mime","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf928913021d4e83a705b44a5aaa9e307a1cfbb3c4d97e959655f4db28baeb45","features":{},"yanked":false}
+{"name":"mimesniff","vers":"0.3.0","deps":[{"name":"mime","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b07d3ed6beaf94c666405e7253c40d8e06e5b7b3cffe46c1430eba9304df8bb","features":{},"yanked":false}

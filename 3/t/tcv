@@ -1,0 +1,2 @@
+{"name":"tcv","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05386288e91a4ac3d8b0fa5a56abc0902cbfe6b15d964a95c98772532d20c2de","features":{},"yanked":true}
+{"name":"tcv","vers":"0.1.2","deps":[{"name":"clap","req":"^4.0.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b630b163dd23d7a4390ea0d46885f9fdcf1f935f8456138c263d91b73e89001","features":{},"yanked":false}

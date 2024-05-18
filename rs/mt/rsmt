@@ -1,0 +1,2 @@
+{"name":"rsmt","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ring","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d282c7dea3c617fb404ee888d3dedec75899b6e26c28ed3f9b49d4e032f4f229","features":{},"yanked":true}
+{"name":"rsmt","vers":"0.1.1","deps":[],"cksum":"be5ea3c8962f91c5f0793c08de0aa5f04cdd7ffcf0b4f2a6f8afdcd0852ff676","features":{},"yanked":true}

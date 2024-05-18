@@ -1,0 +1,2 @@
+{"name":"lzss-cli","vers":"0.8.0","deps":[{"name":"lzss","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"149398bd21983aabe8616f068e984bb655b52d9e80bd17e154a796858b2aade4","features":{},"yanked":false}
+{"name":"lzss-cli","vers":"0.9.0","deps":[{"name":"lzss","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cfc934f412d59ca96c80f61f5a8b23c86caba53857068e4e68b8ab93dd46f3c","features":{},"yanked":false}

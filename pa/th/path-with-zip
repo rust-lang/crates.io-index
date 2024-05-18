@@ -1,0 +1,2 @@
+{"name":"path-with-zip","vers":"0.0.2","deps":[{"name":"zip","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48d02b415cc75482234b31ba021b8bd7a1b3cd0be8b7ad57f95b8b9c878fb81c","features":{},"yanked":false}
+{"name":"path-with-zip","vers":"0.1.0","deps":[{"name":"zip","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80b9587d0be035714d4426ce06ea7756527ef8dc9872bab13f473e1f5c9b8827","features":{},"yanked":false}

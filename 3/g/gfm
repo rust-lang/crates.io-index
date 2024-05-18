@@ -1,0 +1,1 @@
+{"name":"gfm","vers":"0.1.0","deps":[{"name":"comrak","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f06ba6524edeb0ed228921f7e68ab203ca76dbee905c59c412904246093e68c","features":{},"yanked":false}

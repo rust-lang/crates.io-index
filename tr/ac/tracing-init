@@ -1,0 +1,1 @@
+{"name":"tracing-init","vers":"0.1.0","deps":[{"name":"tracing-subscriber","req":"^0.3","features":["env-filter","local-time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dfc9e931b03d995505edad6fdc6e204998cb36eb5ff921379af17a94c73da7f","features":{},"yanked":false}

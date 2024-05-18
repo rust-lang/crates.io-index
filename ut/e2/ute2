@@ -1,0 +1,1 @@
+{"name":"ute2","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07024832e0e9c65cf083b2d2e2dd37bcf42537cdf5f267459d855ac15a57ac83","features":{},"yanked":false}

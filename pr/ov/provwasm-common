@@ -1,0 +1,2 @@
+{"name":"provwasm-common","vers":"0.1.0-rc1","deps":[{"name":"cosmwasm-std","req":"^1.2.5","features":["stargate"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed894f8af9c86dd6d8af04ada480529f759574ab617d125c4667956c27a7e001","features":{},"yanked":false}
+{"name":"provwasm-common","vers":"0.1.0","deps":[{"name":"cosmwasm-std","req":"^1.2.5","features":["stargate"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"938fe0a8914598b5aa201221ce2d9c5388412e348ea312bcba36b5077376b96d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"vscode_theme","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.196","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7202edd05cf3068e972c7a499862f6f4f077983f92cc6568f95952406f1d8fd","features":{},"yanked":false}
+{"name":"vscode_theme","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.196","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b3666211944f2e6ba2c359bc9efc1891157e910b1b11c3900892ea9f18179d2","features":{},"yanked":false}

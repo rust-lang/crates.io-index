@@ -1,0 +1,4 @@
+{"name":"bitenum","vers":"0.1.0","deps":[],"cksum":"f33f1da5d5a94788ebe83000d86fec2b841b8614c4bebcfd63d3253f497237e4","features":{},"yanked":true}
+{"name":"bitenum","vers":"0.2.0","deps":[{"name":"bitenum_macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03e517cf118d6e8061468a1931f8d50b82984657294d884e39822a915b4c8f57","features":{},"yanked":false}
+{"name":"bitenum","vers":"0.2.1","deps":[{"name":"bitenum_macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae04ef957e78e94ec9b9116f033113a8962fbe532a8035241dcd3a8e035ce933","features":{},"yanked":false}
+{"name":"bitenum","vers":"0.2.2","deps":[{"name":"bitenum_macro","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b4a274f10a09272b66b09d03e17f1f25ecdb647eabd7fcd00bf99eb36bd5555","features":{},"yanked":false}

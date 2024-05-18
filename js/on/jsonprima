@@ -1,0 +1,4 @@
+{"name":"jsonprima","vers":"0.1.0","deps":[],"cksum":"20f07df675090d489535fee0c660db814b368be873fc7927846d1c5230dbe065","features":{},"yanked":false}
+{"name":"jsonprima","vers":"0.1.1","deps":[],"cksum":"bef34d2527464b50aaa2989b2c65c60d38526fa8d97cac0ee571a9c088005f72","features":{},"yanked":false}
+{"name":"jsonprima","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d9d3cc6a118ced3fe98575648d9a80fc98a2a75d617d62cf626009c2777ea69","features":{},"yanked":false}
+{"name":"jsonprima","vers":"0.3.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee24d5c8a21f4558d3e73a53874c4b5e3d3dab5ae1280900c3cea5a6424aff63","features":{},"yanked":false}

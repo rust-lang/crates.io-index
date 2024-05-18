@@ -1,0 +1,3 @@
+{"name":"propagated_yanked_test","vers":"0.1.0","deps":[{"name":"protobuf","req":"~2.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a398a603d483474fbf81dd65f176a41fd8fb7ad745ad8cb6b5819bc5068482c","features":{},"yanked":false}
+{"name":"propagated_yanked_test","vers":"0.1.1","deps":[],"cksum":"ab4d7c82533aa1845f73c9ef2b22aff372ec93fe3ed3ad6923e3709ee5a17aa2","features":{},"yanked":false}
+{"name":"propagated_yanked_test","vers":"0.1.2","deps":[{"name":"protobuf","req":"~2.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2959b60eefccdf41a5cb9ee75c7cdbddfbb5715766836f0ac6e5f0a28a729047","features":{},"yanked":false}

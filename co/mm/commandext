@@ -1,0 +1,8 @@
+{"name":"commandext","vers":"0.0.1","deps":[],"cksum":"788c67dd824065c420bb6652c8cf71bf4dcc6093024cc816e6f058e614f8b2ce","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.2","deps":[],"cksum":"19eadcf91a942e2dbad3224d1ec19e2187e9e1c8c963470c3d04719623209016","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.3","deps":[],"cksum":"be4b428ca3e75d2159ec2277a1717dd1a108aa9fe5f8b20472c08f36ffdbc4ba","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.4","deps":[],"cksum":"e61d71c90fe1700bad32d7fe49c695d0d8e404eae5a255ee49a799ca4786f98e","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.5","deps":[],"cksum":"21d6a329087d1fffc9766c0334f051d3fd1dc54a5cca60bc49ea363401017541","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.6","deps":[],"cksum":"bdfaafc7e6d4bc60a9439a54fab1c2b42136bf8fb93bea71c34a0951fc57061b","features":{},"yanked":false}
+{"name":"commandext","vers":"0.0.7","deps":[{"name":"clippy","req":"~0.0.30","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"sodium-sys","req":"~0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e988d62c48f8dd7f6fbe46485c11900073e492a691a9cbab03243b6bd3c2088","features":{"default":[]},"yanked":false}
+{"name":"commandext","vers":"0.1.0","deps":[{"name":"clippy","req":"~0.0.30","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"sodium-sys","req":"~0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"931dd7114e3495c5d7346fd85cdb212c219f4ba2e307458df223b1e1e967e306","features":{"default":[]},"yanked":false}

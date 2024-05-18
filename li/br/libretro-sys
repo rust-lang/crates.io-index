@@ -1,0 +1,2 @@
+{"name":"libretro-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19465a3a0d54ad81f1abc5937971a36e6922c69d0ba612b78a35f83f32ce9ffe","features":{},"yanked":false}
+{"name":"libretro-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"207b060b02cecbcee6df3d0f5ed38691d5c4df1379dd1acd5c49c9b25d20b439","features":{},"yanked":false}

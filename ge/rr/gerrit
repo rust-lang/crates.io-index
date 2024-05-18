@@ -1,0 +1,1 @@
+{"name":"gerrit","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.11","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2a09175bb1a2885daa8c56f06ef91cedda6b938cd3a6936640e3316aa8a92e7","features":{},"yanked":false}

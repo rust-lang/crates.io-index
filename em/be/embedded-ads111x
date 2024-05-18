@@ -1,0 +1,2 @@
+{"name":"embedded-ads111x","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9e134f37617d2772026b7eb6bd211abf9d2227a5b143443dc3dae898e6d7add","features":{},"yanked":false}
+{"name":"embedded-ads111x","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c066513446873262a30594c0465d6f7910c385ee93d1f20896eb61618f37f93","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"yttrium_std_db_write_str","vers":"0.1.0","deps":[{"name":"yttrium_key_base","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"600653e3d0e76fb94df4a30203286a6b09ce3486ff4ba362bf0edfb6fb98feb2","features":{"loader":[]},"yanked":false}

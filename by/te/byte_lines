@@ -1,0 +1,2 @@
+{"name":"byte_lines","vers":"0.1.0","deps":[{"name":"byte_string","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f0d92d685f284b204105408c5dc90f00330006d1d0ae733e5134be3ec689489","features":{},"yanked":false}
+{"name":"byte_lines","vers":"0.1.1","deps":[{"name":"byte_string","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a106a70bfe065b297695bc1b9959d0a7c2d341f74a017bec002b592b42e51d8d","features":{},"yanked":false}

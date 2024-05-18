@@ -1,0 +1,2 @@
+{"name":"fsw","vers":"0.1.0","deps":[{"name":"notify","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbd796f0c2e877751c30a2156ce0e27d8a0086f7ad8a0e7cff77fd869752f38c","features":{},"yanked":false}
+{"name":"fsw","vers":"0.1.1","deps":[{"name":"notify","req":"^4.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a434daba2cd95741ecf9b2d282871b60a6599512d28f19bdbdac88e6edd2c0b1","features":{},"yanked":false}

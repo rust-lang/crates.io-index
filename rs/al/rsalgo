@@ -1,0 +1,2 @@
+{"name":"rsalgo","vers":"0.0.1-init","deps":[],"cksum":"dc5a6926639a6923ac7ba37cad12b19b423af91e292ff7bb4ffbe61c4cdde63e","features":{},"yanked":true}
+{"name":"rsalgo","vers":"0.0.1-init.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9ea63d93eb60d74ec12fbcd83dabe9368bd490ee62c07480683cd1c35c4c25a","features":{},"yanked":false}

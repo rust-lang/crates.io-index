@@ -1,0 +1,1 @@
+{"name":"deskc-types","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"665b18ff3060bb197b3a31935e58d155c47f557c3f784b8227cb4264db325a20","features":{"withserde":["serde"]},"yanked":false}

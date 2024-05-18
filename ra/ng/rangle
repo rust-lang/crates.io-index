@@ -1,0 +1,1 @@
+{"name":"rangle","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca85c58e0d6a5f2d714af4b13971da56fcf9e26e9bec991f21c98d733b9593a5","features":{},"yanked":false}

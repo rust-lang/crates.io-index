@@ -1,0 +1,2 @@
+{"name":"event-stream","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc10f28a845684ab40b8c7110867dff9fde3ccb35de90430e6da3f3aedb85103","features":{},"yanked":false}
+{"name":"event-stream","vers":"0.1.1","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac40065068fffaf1aa4944807a9209cc03b799fe5edde63df33fe263bbbecc63","features":{},"yanked":false}

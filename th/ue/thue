@@ -1,0 +1,2 @@
+{"name":"thue","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc2484de00b257c618f939c10746bd8ca7d36f0dc7d3d2f6c8077f09c1bb4097","features":{},"yanked":false}
+{"name":"thue","vers":"0.1.1","deps":[{"name":"clap","req":"^4.4.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"325065afd4a852536e952e7b8852cc4f8e3e29a423bf84dd07b4633bbab063e5","features":{},"yanked":false}

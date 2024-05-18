@@ -1,0 +1,3 @@
+{"name":"vm-fdt","vers":"0.1.0","deps":[],"cksum":"bd986f4fdf949ab2181c7b4fedb03fb0e9de6b0aa788fff247b2608701ce3457","features":{"long_running_test":[]},"yanked":false}
+{"name":"vm-fdt","vers":"0.2.0","deps":[],"cksum":"f43fb5a6bd1a7d423ad72802801036719b7546cf847a103f8fe4575f5b0d45a6","features":{"long_running_test":[]},"yanked":false}
+{"name":"vm-fdt","vers":"0.3.0","deps":[{"name":"hashbrown","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e21282841a059bb62627ce8441c491f09603622cd5a21c43bfedc85a2952f23","features":{"alloc":["hashbrown"],"default":["std"],"long_running_test":[],"std":[]},"yanked":false}

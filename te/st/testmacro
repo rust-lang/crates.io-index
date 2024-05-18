@@ -1,0 +1,1 @@
+{"name":"testmacro","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e81321e8c082256753e5af547c7352ff5a9f1958c4c7e7de1eb8289ce65884f2","features":{},"yanked":false}

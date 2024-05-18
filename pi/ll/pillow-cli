@@ -1,0 +1,1 @@
+{"name":"pillow-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c175acd4b9cf00f94dcac29c1cbecd9609198ce7251ee569cb41392cd89a85ea","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bk_allocator","vers":"0.1.0","deps":[{"name":"bk_primitives","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9241ca1e95cf3d96e64e3b9166c9029f7d96d2d65b805028eacc4f3d5f1daec0","features":{},"yanked":false}
+{"name":"bk_allocator","vers":"0.2.0","deps":[{"name":"bk_primitives","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6bdf9b9fa2ecd4319fd1176374fc6ed9ed1f89f1c39dd0ddf2848a684330c57","features":{},"yanked":true}

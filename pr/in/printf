@@ -1,0 +1,1 @@
+{"name":"printf","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15343a566c054c72bdc3f3f138002a87e5320d7389c9713112c9b77e83539141","features":{},"yanked":false}

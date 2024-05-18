@@ -1,0 +1,1 @@
+{"name":"protorbit","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.32.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"134f8010fe59ac6454fa4b7827ba20944c0acfd5ad1a4536ddc8a7390f1381be","features":{},"yanked":false}

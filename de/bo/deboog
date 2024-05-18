@@ -1,0 +1,2 @@
+{"name":"deboog","vers":"0.1.1","deps":[{"name":"deboog-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59ea6d43656725a0503ca20c5ae352092e2ce1676a07a9106789da76d09d29cd","features":{},"yanked":false}
+{"name":"deboog","vers":"0.2.0","deps":[{"name":"deboog-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ca89dc1f27ffcd57936afb4e3a4fe53ac12864e917371ac9a32b573b2a3a417","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sqlite-encoder","vers":"0.1.0","deps":[{"name":"sqlite-types","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed83176b60e8856f2d85dc3383b582dd65a29fbd632d89254aba84ca7c1a067c","features":{},"yanked":false}
+{"name":"sqlite-encoder","vers":"0.1.1","deps":[{"name":"sqlite-types","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"945090a452399c32f750a6abaa9e382d8cb383651882598487b9e78f5a5864f6","features":{},"yanked":false}

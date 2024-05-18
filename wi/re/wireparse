@@ -1,0 +1,1 @@
+{"name":"wireparse","vers":"0.1.0","deps":[{"name":"snafu","req":"^0.8.2","features":["rust_1_61","rust_1_65"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3be924bc7545ebde7fc0acda7e23b3e12cd973cba019f534c9adc4035923a1ba","features":{"alloc":[],"default":["alloc"]},"yanked":false}

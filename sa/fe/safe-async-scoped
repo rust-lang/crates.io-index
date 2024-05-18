@@ -1,0 +1,2 @@
+{"name":"safe-async-scoped","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493976b1e8d5204cfb7a6068a377c14a7092ced38eeb868e6dd8092a1f75bdd3","features":{},"yanked":false}
+{"name":"safe-async-scoped","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b79a8cbdd1736adcc65e081d0972b66ea752035d75fe59145aea5e3bf7060f83","features":{},"yanked":false}

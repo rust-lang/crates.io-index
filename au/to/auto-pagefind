@@ -1,0 +1,2 @@
+{"name":"auto-pagefind","vers":"0.1.4","deps":[{"name":"clap","req":"^4.3.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"089cfccc02916002a2cb5f295fcb99eac67cf0b8c379c0bcc1ea67026f9b37d2","features":{},"yanked":false}
+{"name":"auto-pagefind","vers":"0.1.5","deps":[{"name":"clap","req":"^4.3.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"948d4c1dee863d2cadb6ceef79c817b48aa934fae72f21eb4abe72f54e7de4b5","features":{},"yanked":false}

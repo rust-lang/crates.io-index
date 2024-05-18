@@ -1,0 +1,2 @@
+{"name":"imxrt1062-pmu","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acf308c42d3409433d9f890b03484c883ba8fd375fe119f66b73a72e6806f367","features":{},"yanked":false}
+{"name":"imxrt1062-pmu","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b36ec2a9a1bb4a598bbc64c4845ea082c8702f2cc7c06335b44c03a353d0203","features":{},"yanked":false}

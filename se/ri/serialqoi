@@ -1,0 +1,2 @@
+{"name":"serialqoi","vers":"0.1.7","deps":[],"cksum":"467791919597e95215a98ea495c7889c99ac4ae3af57d37acead6216e866cfc4","features":{},"yanked":true}
+{"name":"serialqoi","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.75","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09182a8ef367a53409f20779a7b39264a671aca7891cb5bc3106b0052fa1f750","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"inlog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b5519b642f1336589e7c299b2e682860d4497af85f1d0b67bbca475e95b7d23","features":{},"yanked":false}
+{"name":"inlog","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d77bf990b3d2921d51aba99d34323749da3c6494991efd07870a0692a945b17","features":{},"yanked":false}

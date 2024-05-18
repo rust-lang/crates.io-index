@@ -1,0 +1,2 @@
+{"name":"dynforest","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"29eb1c406070f1db6457125bf7163f77f16fc371995f2739581d7921a8109647","features":{},"yanked":false}
+{"name":"dynforest","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07cec0c5054014b1065178d2be2031b609b94e48697e2c7102555efdac616f10","features":{},"yanked":false}

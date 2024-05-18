@@ -1,0 +1,1 @@
+{"name":"rdkit-rs","vers":"0.1.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rdkit-ffi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"315077a280ffc87de3b0176ea361b826ae544a10915b5c16f80696b2a8d5a0c0","features":{},"yanked":false}

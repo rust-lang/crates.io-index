@@ -1,0 +1,1 @@
+{"name":"partial-context","vers":"0.1.0","deps":[{"name":"partial-context-codegen","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e1c730dc1a8414aa969bbc7aec1a0ccb2dcfef75323bfcddd07194ff44c6049","features":{"default":["derive"],"derive":["partial-context-codegen"]},"yanked":false,"rust_version":"1.75.0"}

@@ -1,0 +1,1 @@
+{"name":"tokio-condvar","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["sync","macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7233b09174540ef9bf9fc8326bcad6ccebc631e7c9a1e2e48d956a133056f9d","features":{},"yanked":false}

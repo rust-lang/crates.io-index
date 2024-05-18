@@ -1,0 +1,2 @@
+{"name":"topological_peak_detection","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"083b4fd39baa70bdad4c1aade8aaef61e44e714a000ba0496fbe789a5f111180","features":{},"yanked":false}
+{"name":"topological_peak_detection","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c870c03f817783bf8c0c3433a731d07a9b8b835f5fdef2551ec1f2297a0f2e35","features":{},"yanked":false}

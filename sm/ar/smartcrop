@@ -1,0 +1,2 @@
+{"name":"smartcrop","vers":"0.0.1","deps":[],"cksum":"22e78c3761d74f68d67f3d485501ead18b2723c6c0490355bee9c2d6da6e12a3","features":{},"yanked":false}
+{"name":"smartcrop","vers":"0.1.0","deps":[{"name":"image","req":">= 0.17.0, < 0.20.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"proptest","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a83a3e4961cf764d93ddf898eb50ee44eb18dfb0df3016dbc59b32e66b43b31","features":{"default":["image"]},"yanked":false}

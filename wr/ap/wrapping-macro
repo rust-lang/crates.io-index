@@ -1,0 +1,3 @@
+{"name":"wrapping-macro","vers":"0.1.0","deps":[],"cksum":"97733c97d43af58377d4ba2978472127b54d713aa0b7d0e7435e5f997fda0bcb","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"wrapping-macro","vers":"0.2.0","deps":[],"cksum":"f5b9b24a662ce161e7fc60151b7c78be3927ee4e673b5513f84e927e671ebd70","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
+{"name":"wrapping-macro","vers":"0.2.1","deps":[],"cksum":"518d684c66f66bfabf4b18ce738784cf0af13a34dc6914adf9ef13b15e03f49a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

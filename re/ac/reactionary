@@ -1,0 +1,2 @@
+{"name":"reactionary","vers":"0.1.0","deps":[],"cksum":"4a797c4a880be59810839d1c6299df8490da9e5b628c1556e12404287595483e","features":{},"yanked":true}
+{"name":"reactionary","vers":"0.1.1","deps":[{"name":"scsys","req":">=0.1.4","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90459ef9b81475af815c20772216bf2ac2f5be386b04d907f907a0315af03817","features":{"default":[],"full":[]},"yanked":false}

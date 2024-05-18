@@ -1,0 +1,4 @@
+{"name":"memuse","vers":"0.0.0","deps":[],"cksum":"0a1398c4f2c63b35e6866580003fde42dd9e92284070b1c8f99d188d0cf7c72c","features":{},"yanked":true}
+{"name":"memuse","vers":"0.1.0","deps":[{"name":"nonempty","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"215d1c655cad6285aaf301d9a1c4574b30d9265b0876af170655df9a3dc9fdb9","features":{},"yanked":false}
+{"name":"memuse","vers":"0.2.0","deps":[{"name":"nonempty","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f69d25cd7528769ad3d897e99eb942774bff8b23165012af490351a44c5b583b","features":{},"yanked":false}
+{"name":"memuse","vers":"0.2.1","deps":[{"name":"nonempty","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2145869435ace5ea6ea3d35f59be559317ec9a0d04e1812d5f185a87b6d36f1a","features":{},"yanked":false}

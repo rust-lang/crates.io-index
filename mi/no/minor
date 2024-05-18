@@ -1,0 +1,3 @@
+{"name":"minor","vers":"0.1.0","deps":[],"cksum":"6c03deef0f7e90dd893449166ef3eb9f3175d63ecaa9ac40c2ebcc77e1a7a8d1","features":{},"yanked":false}
+{"name":"minor","vers":"0.1.1","deps":[],"cksum":"a414516cb7483a424d3ea971e7db6f3fd2497b1c720570b800a76aff9763a023","features":{},"yanked":false}
+{"name":"minor","vers":"0.1.2","deps":[{"name":"piston_window","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcc50710d62d7aec637ff188b4ba821e5e36c4ffbbb6f89bdeacca4cb17bd85a","features":{},"yanked":false}

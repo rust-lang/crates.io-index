@@ -1,0 +1,2 @@
+{"name":"arch_msgs","vers":"0.1.2","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba169a9fea25e57d750785c1447a002cb7511adf6605f0e86475fbb747372924","features":{},"yanked":false}
+{"name":"arch_msgs","vers":"0.2.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d11af2de82d066e4902c90211664b396eb844045c9cd7b4b2288adda51420701","features":{},"yanked":false}

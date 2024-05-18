@@ -1,0 +1,2 @@
+{"name":"dioxus-class-internal","vers":"0.5.0","deps":[{"name":"dioxus","req":"^0.5.0-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19d096030ae24fa109a7ed8b69e7e8d9bd0c0ad52212a1656595e8c6cdf00e1d","features":{},"yanked":false}
+{"name":"dioxus-class-internal","vers":"0.7.0","deps":[{"name":"dioxus","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb2f4a493fe619ce8fa208a09f903f778aaa77a25568435b66226c8d1bf4e7bb","features":{},"yanked":false}

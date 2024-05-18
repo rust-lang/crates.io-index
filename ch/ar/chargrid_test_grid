@@ -1,0 +1,2 @@
+{"name":"chargrid_test_grid","vers":"0.1.0","deps":[{"name":"chargrid_render","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afec508190aadb3b3976cd90aca8472222e08ab8cd56289b214c5a9888d8a55e","features":{},"yanked":false}
+{"name":"chargrid_test_grid","vers":"0.2.0","deps":[{"name":"chargrid_render","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65f652357fb9d25e39ef422e092b67ffbe4dc1203a26e7a22469ca815eb8b53a","features":{},"yanked":false}

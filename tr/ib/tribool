@@ -1,0 +1,5 @@
+{"name":"tribool","vers":"0.1.0","deps":[],"cksum":"5a97d0edba819cd6e08e92bea19b5b8bd4cbbe58394c8cc3c2d3e3d81f946c84","features":{},"yanked":false}
+{"name":"tribool","vers":"0.1.1","deps":[],"cksum":"b4c5d1b24e1e8451b88ca918f4aa40ed323184c24c7ca46135896ec12d4370ec","features":{},"yanked":false}
+{"name":"tribool","vers":"0.1.2","deps":[],"cksum":"ae1347741a17210ec8f3a6b115255bcedef8310dd299b079fce22788ddab2633","features":{},"yanked":false}
+{"name":"tribool","vers":"0.2.0","deps":[],"cksum":"879ab7569c22726123853fbfe86014836d78c51d35e97b53e78b6a54f074308f","features":{},"yanked":false}
+{"name":"tribool","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e8660361502033a51e119386b47fbb811e5706722f2e91ccf867aa6b2b09f90","features":{},"yanked":false}

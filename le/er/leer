@@ -1,0 +1,2 @@
+{"name":"leer","vers":"0.1.0","deps":[{"name":"leer-macros","req":"=0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2459d3988d5f4aa1a9409a9263b4741aca26bbed706abb44d249d1cb0580f863","features":{"derive":["leer-macros"]},"yanked":false}
+{"name":"leer","vers":"0.1.1","deps":[{"name":"leer-macros","req":"=0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"871cf649c68d0de75f884c31fb2fcda431e289e8afb76da7d131ffc6ec1569f8","features":{"derive":["leer-macros"]},"yanked":false}

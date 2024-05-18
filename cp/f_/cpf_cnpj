@@ -1,0 +1,4 @@
+{"name":"cpf_cnpj","vers":"0.1.0","deps":[],"cksum":"dd790c444cd6e84a0cedfa1b68a04c22cc3cb177021210cf37779e455352ef93","features":{},"yanked":false}
+{"name":"cpf_cnpj","vers":"0.1.1","deps":[],"cksum":"614e51338f9c587f98dd12245cd2cabba8b981cc25e9a6c20257cfc64a09abf9","features":{},"yanked":false}
+{"name":"cpf_cnpj","vers":"0.2.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"630dfa3de813bdbb12b1aa816c6521b9252f48a1eff84af4189d954397267608","features":{},"yanked":false}
+{"name":"cpf_cnpj","vers":"0.2.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d496cca0c9b11035258bea017366cc6eb556e7c8f08dfe42c4995177ce70ace6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"percy-css","vers":"0.1.0","deps":[],"cksum":"e08c3dc67828c888293076f0b1407507567932f7daab9eb7b072dcea88a9d1cf","features":{},"yanked":false}
+{"name":"percy-css","vers":"0.1.1","deps":[{"name":"percy-css-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4edd3ef62714dbd29c95e4ffb93f662666ec16870d469e02a0c3a7ffdaa31be","features":{},"yanked":false}

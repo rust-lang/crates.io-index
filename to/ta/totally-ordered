@@ -1,0 +1,3 @@
+{"name":"totally-ordered","vers":"0.1.0","deps":[],"cksum":"39a481d4762e2b5c5351a14fb850338b5dcf3ff2863f3d117e3b228a47420dd2","features":{},"yanked":false}
+{"name":"totally-ordered","vers":"0.1.1","deps":[],"cksum":"6b5aedce2e4b1f7b7ae3b032b8ee6c41e02a809bb745ae629ae814a770db7f33","features":{},"yanked":false}
+{"name":"totally-ordered","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fae71db48bb7a5a1ffd2c5d32a398a5f5f264dc570dda86e6604ff0eb78ae21","features":{"default":["std"],"std":[]},"yanked":false}

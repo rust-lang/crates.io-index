@@ -1,0 +1,9 @@
+{"name":"alloc-no-stdlib","vers":"1.0.0","deps":[],"cksum":"03cd13f1a47f3f99256b5eef8b1e40003f1d53e215b8e25012ef40688e1cd079","features":{},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.1.0","deps":[],"cksum":"a8acab472c10dcb1f5bbaa7ffbc681be5d9fd0fd5adb22e4105849ce30e596fc","features":{"stdlib":[],"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.2.0","deps":[],"cksum":"b21f6ad9c9957eb5d70c3dee16d31c092b3cab339628f821766b05e6833d72b8","features":{"no-stdlib":[],"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.3.0","deps":[],"cksum":"71877e174a5d78c969228d628c4f7f3b545d13452bd3d9393fa07aacfb7c6894","features":{"no-stdlib":[],"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"2.0.0","deps":[],"cksum":"89376a1f1a188ddc8b54198370fd7b62568162bb8a0c5bf0684cd29933e37284","features":{"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"2.0.1","deps":[],"cksum":"5192ec435945d87bc2f70992b4d818154b5feede43c09fb7592146374eac90a6","features":{"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"2.0.2","deps":[],"cksum":"80b0b4f7e4cf50c7e3acb162a9e601f43a977f7eda1b9a92f81803b47e6df547","features":{"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"2.0.3","deps":[],"cksum":"35ef4730490ad1c4eae5c4325b2a95f521d023e5c885853ff7aca0a6a1631db3","features":{"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"2.0.4","deps":[],"cksum":"cc7bb162ec39d46ab1ca8c77bf72e890535becd1751bb45f64c597edb4c8c6b3","features":{"unsafe":[]},"yanked":false}

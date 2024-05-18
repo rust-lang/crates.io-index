@@ -1,0 +1,2 @@
+{"name":"file_limit","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1e52be199aa390a01933f6841fef3ea6ae145654e55186d553e635a57f0d83a","features":{},"yanked":true}
+{"name":"file_limit","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"320a289635eb305531029234eda5146344fa9dbbb852b63667ae9d6f1edfe277","features":{},"yanked":false}

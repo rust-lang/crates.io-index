@@ -1,0 +1,10 @@
+{"name":"stm","vers":"0.1.0","deps":[],"cksum":"2a7627bdaea2ef08c7ac09e693e924f970fe08a64a7343228fa6743032f9ea30","features":{},"yanked":false}
+{"name":"stm","vers":"0.1.1","deps":[],"cksum":"9108f0cf0fd082c6c7a5390863e53bf99983fc040f39c159691bde112a544b50","features":{},"yanked":false}
+{"name":"stm","vers":"0.1.2","deps":[],"cksum":"15c5d2e8d93bc04be56b03979a0533f4b1f4d515e8ce40bbddfcffe2325f8a9e","features":{},"yanked":false}
+{"name":"stm","vers":"0.2.0","deps":[],"cksum":"dac23d15a3f96be8c5e331414e9e3d2451427d1e90dfc7886f248daedbb35ee5","features":{},"yanked":false}
+{"name":"stm","vers":"0.2.1","deps":[],"cksum":"2fc0634c362c5c50d4b72a19d0a7b8a49bd138ddd4a8e11449ca64a2e33ec78c","features":{},"yanked":false}
+{"name":"stm","vers":"0.2.2","deps":[{"name":"clippy","req":"^0.0.98","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3134c63bce9c720b0dc2b748b1d15af6d78739cd1008cd97b50a211253f61928","features":{"default":[],"dev":["clippy"]},"yanked":false}
+{"name":"stm","vers":"0.2.3","deps":[],"cksum":"f37bcf1248262a8ed48c413789257757901d4d0c380268872c2de625a77a5fa4","features":{"default":[]},"yanked":false}
+{"name":"stm","vers":"0.2.4","deps":[],"cksum":"8da70813df06f22855a872ce429dd11a27a20badb27bff92f85df1b771c867fb","features":{"default":[]},"yanked":false}
+{"name":"stm","vers":"0.3.0","deps":[],"cksum":"aebf0c16c28a48ee218a62ef3abb7dfe905e51aad62d10bc6ee9f7a508fddba8","features":{"default":[]},"yanked":false}
+{"name":"stm","vers":"0.4.0","deps":[{"name":"stm-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e773535c75555b0543230699a98edd4d77cbeb58cf0b81b148472e578df2002b","features":{"default":[]},"yanked":false}

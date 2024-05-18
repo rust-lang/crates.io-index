@@ -1,0 +1,2 @@
+{"name":"gauss_jordan_elimination","vers":"0.1.0","deps":[],"cksum":"dc1e549c6a6aa228696f2a0e11a6822d40493d1436cdb5526d9f6d3fc4049f37","features":{},"yanked":false}
+{"name":"gauss_jordan_elimination","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1d2274633881dd3f923abea6fa4a50f4f5bf9a30e547a4886e4ef1a092440ab","features":{"default":[]},"features2":{"generic_calculation":["dep:num"]},"yanked":false,"v":2}

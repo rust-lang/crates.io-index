@@ -1,0 +1,6 @@
+{"name":"rustsv","vers":"0.1.0","deps":[],"cksum":"29af6cf1356a10d8c0cc82c1196b122b4a83bb84f5ea544a46a9ea203ab22d70","features":{"default":["nostd","std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"rustsv","vers":"0.1.1","deps":[],"cksum":"6baa4dfa098ae0d8c7c1b53d7a1c39f8234fdcea01bc7fe63eb02cdc28e90c6c","features":{"default":["nostd","std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"rustsv","vers":"0.1.2","deps":[],"cksum":"9829756ae9b430e2f21b1145ed9aa1f45bac817ddd8aca801dc76540109d0f33","features":{"default":["nostd","std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"rustsv","vers":"0.1.3","deps":[],"cksum":"02c0f32071016f00a2cf65c767d90e32226baa45e28c98c8dba2ad9d2e4723fb","features":{"default":["nostd","std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"rustsv","vers":"0.1.4","deps":[],"cksum":"28a9d5cbf695e458fa73c5a960d6efbe8d81cd3582c18e452e3ccb6bd8755771","features":{"default":["nostd","std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"rustsv","vers":"0.1.5","deps":[{"name":"reqwest","req":"^0.10.8","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b678dd761991467d7ab3d769a80675e3a2a0602cb75afdd26dff0392031a66","features":{"default":[],"http":["reqwest/blocking"]},"yanked":false}

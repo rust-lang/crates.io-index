@@ -1,0 +1,1 @@
+{"name":"rust-grrs","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cff062e8a332c0c0fe14b3a38d06ab0f76aa9e183998b916f02cd96c2af05e45","features":{},"yanked":false}

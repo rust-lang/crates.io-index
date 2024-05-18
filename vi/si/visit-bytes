@@ -1,0 +1,1 @@
+{"name":"visit-bytes","vers":"0.1.0","deps":[{"name":"camino_","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"camino"}],"cksum":"8fb4b65dbf59e159697f542a83968c635985ff4d6d318a8e657f9bea71455599","features":{"alloc":[],"camino":["alloc","camino_"],"default":["alloc"]},"yanked":false}

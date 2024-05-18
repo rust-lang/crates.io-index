@@ -1,0 +1,2 @@
+{"name":"imxrt1062-flexio1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b692ec930fc1dee919b45c14ad6e713d6d572f5aabcd9727d5c8686a54ccbcc","features":{},"yanked":false}
+{"name":"imxrt1062-flexio1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd65bd6e609cef0f7d0bba29d228cde4a01408debb36ad074b87d70666de2e78","features":{},"yanked":false}

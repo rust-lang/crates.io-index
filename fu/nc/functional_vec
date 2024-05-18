@@ -1,0 +1,2 @@
+{"name":"functional_vec","vers":"0.1.0","deps":[],"cksum":"f2b35943b4c5018916524f0328c37aba91fecdeaaabc9521ae3fbf0d6916ff1f","features":{},"yanked":false}
+{"name":"functional_vec","vers":"0.2.0","deps":[{"name":"smallvec","req":"^1.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe9a1800dd0b47ea05b63d137c8191f91cb2910596a7c2133106eaedcd3dabea","features":{"default":["vec","vecdeque"],"vec":[],"vecdeque":[]},"features2":{"smallvec":["dep:smallvec"]},"yanked":false,"v":2}

@@ -1,0 +1,4 @@
+{"name":"byte-parser","vers":"0.2.0","deps":[],"cksum":"1a1c8151b20deae0126de090693441b5495b289a46480ed6b6816272a16dd84f","features":{},"yanked":false}
+{"name":"byte-parser","vers":"0.2.1","deps":[],"cksum":"38c6cd1f5251b7ea017d3956d771af9cb7f6e2971ba7e02dd28b26662f9a6b05","features":{"unstable-parse-iter":[]},"yanked":false}
+{"name":"byte-parser","vers":"0.2.2","deps":[],"cksum":"d8fa1c41ce883981e54cada6410eaa5d3befc99fdf6814b828ef39a8458240e4","features":{"unstable-parse-iter":[]},"yanked":false}
+{"name":"byte-parser","vers":"0.2.3","deps":[],"cksum":"b5328b147db22296989035fe44fad9038c5dd9d94f1ab53dc53d289ce9a6750f","features":{"unstable-parse-iter":[]},"yanked":false,"rust_version":"1.56"}

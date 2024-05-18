@@ -1,0 +1,1 @@
+{"name":"hal_sensor_dht","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab4da46d52c49fbd329648b625b5df6910f2a03b37fb6963d3821bae03a9082d","features":{"floats":[]},"yanked":false}

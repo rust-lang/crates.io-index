@@ -1,0 +1,2 @@
+{"name":"dump-motd","vers":"0.1.0","deps":[{"name":"motd","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6de1fa1785c35a8fd67ab2f6e06cb11a8389e6753d4fd5a4be470b8f1b6dcb27","features":{},"yanked":false}
+{"name":"dump-motd","vers":"0.2.0","deps":[{"name":"motd","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9b69ff9a24f53dfad51fcf134735316d4204add282155b593462e5aae38e26f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"keyvaluedb-shared-tests","vers":"0.1.0","deps":[{"name":"keyvaluedb","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3be05693230e4af93b7d6609b25a71cebd5abbcd4e88431ba7796e5020b373e","features":{},"yanked":false}
+{"name":"keyvaluedb-shared-tests","vers":"0.1.1","deps":[{"name":"keyvaluedb","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"973c39e1a830bd957031e130c5ca3adc9aec3ba166421dd714cf03198ebed403","features":{},"yanked":false}

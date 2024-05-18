@@ -1,0 +1,4 @@
+{"name":"lis","vers":"0.1.0","deps":[],"cksum":"0d334a90f9d4e7c51f4b787418f31f6338944f51136a81e37fb32c9db08ee551","features":{},"yanked":false}
+{"name":"lis","vers":"0.1.1","deps":[],"cksum":"b88521d8e98d56c62915251ac1797adf7d799a05545a55d8cc6cfd05143af3c5","features":{},"yanked":false}
+{"name":"lis","vers":"0.2.0","deps":[{"name":"rustc-hash","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"425172c1c46e65a40f31742197502ca950adbee0f23ae33e7d4c0714dc4e0240","features":{},"yanked":false}
+{"name":"lis","vers":"1.0.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5835c547979b669280b3b89274034a76f3c736d90ae4f8460ffeb241eabf3b9","features":{},"yanked":false}

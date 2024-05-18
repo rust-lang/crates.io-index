@@ -1,0 +1,1 @@
+{"name":"magic-packet","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86db67a540f53b68a713b7a1b2df0e44154274b94f140bf02e203ffe32885d06","features":{},"yanked":false}

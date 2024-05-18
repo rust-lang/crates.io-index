@@ -1,0 +1,1 @@
+{"name":"gbparser","vers":"0.1.0","deps":[{"name":"pest","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5b0b82b719b952f0bc1ac499b32baad25d0fe567dbefd40d45e7fb91a2c9387","features":{},"yanked":false}

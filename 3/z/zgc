@@ -1,0 +1,2 @@
+{"name":"zgc","vers":"0.0.0","deps":[],"cksum":"386b06b69c82d3e17838a8fb23760b455b6ecb9df8bc47be255946f302833ef1","features":{"default":[]},"yanked":false}
+{"name":"zgc","vers":"0.0.1","deps":[{"name":"bitflags","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77678f787c12ce7a4cdd8205546833bf087b192eaf045e53882b88fcaa0bd0c9","features":{"default":[]},"yanked":false}

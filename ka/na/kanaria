@@ -1,0 +1,3 @@
+{"name":"kanaria","vers":"0.1.0","deps":[],"cksum":"027bb0ba62e440edebeb3d03cf8f0f33b5c3f8f04c1f3772cd1c1fb0e99403a4","features":{},"yanked":false}
+{"name":"kanaria","vers":"0.1.1","deps":[],"cksum":"28b62dffcf2c25944df8a260650f0e812dc779a847d5e3b1af71f91bfa44117d","features":{},"yanked":false}
+{"name":"kanaria","vers":"0.2.0","deps":[{"name":"bitflags","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0f9d9652540055ac4fded998a73aca97d965899077ab1212587437da44196ff","features":{},"yanked":false}

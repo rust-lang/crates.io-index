@@ -1,0 +1,4 @@
+{"name":"vmm","vers":"0.1.0","deps":[],"cksum":"dc228b82b24137d9bf59650d76b24587c43136a49d6fed942ce3cd3a1e10c371","features":{},"yanked":false}
+{"name":"vmm","vers":"0.1.1","deps":[],"cksum":"424e1c2c02990994d7dca845331105210228b34da316386adb95308350f68429","features":{},"yanked":false}
+{"name":"vmm","vers":"0.1.2","deps":[],"cksum":"93855df3b16d7db3e8615ddc6927c4435fbe2d52dd803831d41a3c36f2c8695b","features":{},"yanked":false}
+{"name":"vmm","vers":"0.2.0","deps":[{"name":"bytemuck","req":"^1.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4239b390f68171420dd0d1ff343e0fc03a668f200fcaf68f167ed8943aeab096","features":{},"yanked":false}

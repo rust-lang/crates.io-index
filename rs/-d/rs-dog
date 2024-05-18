@@ -1,0 +1,2 @@
+{"name":"rs-dog","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db1bedd5ba903b6b25ba6e7f3a5420f9eee89e2cf4b24c462af065fc45d9ae29","features":{},"yanked":true}
+{"name":"rs-dog","vers":"0.1.1","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c05cee7ac30a69d25124a07a1210c5ffd78299e016ac0114de4811a3f87da6a3","features":{},"yanked":true}

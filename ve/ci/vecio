@@ -1,0 +1,1 @@
+{"name":"vecio","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ws2_32-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0795a11576d29ae80525a3fda315bf7b534f8feb9d34101e5fe63fb95bb2fd24","features":{},"yanked":false}

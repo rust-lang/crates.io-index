@@ -1,0 +1,1 @@
+{"name":"remember","vers":"1.0.0","deps":[{"name":"clap","req":"^2","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"csv","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fd332d6064a8f3787cd90fff0678798a732a45d53c0b77baf8cb4cbd7ffd36a","features":{},"yanked":false}

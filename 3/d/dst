@@ -1,0 +1,1 @@
+{"name":"dst","vers":"0.1.0","deps":[{"name":"fn-fixture","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"03cd644e806bf409d6e35ae25f091e14920cbb5bc1d2be43573b839a9392a6ae","features":{"default":["unstable"],"undefined_behavior":[],"unstable":[]},"yanked":false}

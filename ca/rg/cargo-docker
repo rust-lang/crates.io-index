@@ -1,0 +1,2 @@
+{"name":"cargo-docker","vers":"0.1.1","deps":[{"name":"clap","req":"^2.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73d0714ba826a9d8e445091d89ade84c6a0b83e69e57268d38bc1435758310b6","features":{},"yanked":false}
+{"name":"cargo-docker","vers":"0.2.0","deps":[{"name":"clap","req":"^2.23.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a878c4749386664a3adacb5eff2dd459c888c3e83e5ea800a1a1b780eeeff3c","features":{},"yanked":false}

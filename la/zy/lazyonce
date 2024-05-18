@@ -1,0 +1,5 @@
+{"name":"lazyonce","vers":"0.2.0","deps":[],"cksum":"e71cf45a4d08045fa9618ebb4f346d431d1277c08e5ac61c414c83e6964356a1","features":{},"yanked":true}
+{"name":"lazyonce","vers":"0.3.0","deps":[],"cksum":"b53de4c6db2034098057e0b3c9e23f61cf17efda32bdf43df4ca6ea8fa17ff7d","features":{},"yanked":true}
+{"name":"lazyonce","vers":"1.0.0","deps":[{"name":"parking_lot","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69855dd0f116bf9c565482f9b5583f59f94fe5b5ebf040978c48721636306df0","features":{},"yanked":true}
+{"name":"lazyonce","vers":"2.0.0","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca5d5d2ffc8ace8d993474b6dc92fd1dc304f28ebea57a19aed6c8472655f80e","features":{},"yanked":true}
+{"name":"lazyonce","vers":"2.0.1","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68450be3770536cfdd4be4b827a3e458a7aab8e518198d5c4d1edaaa654f18cc","features":{},"yanked":true}

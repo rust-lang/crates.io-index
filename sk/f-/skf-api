@@ -1,0 +1,4 @@
+{"name":"skf-api","vers":"0.2.0","deps":[],"cksum":"743482743b2da100ac895bd17ef043fcf2dfc83385a4bd11f01c957a12e8bc63","features":{},"yanked":false}
+{"name":"skf-api","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0af508e6338f04d1efaf1d996e7f054f560d629a6e3d01d78c0ec472f35c185e","features":{},"yanked":false}
+{"name":"skf-api","vers":"0.4.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d23695a1abc9c437ac73c8a4ea0e2d1a9a9b5cf7b31d8e6feb791c7d6a3587a","features":{},"yanked":false}
+{"name":"skf-api","vers":"0.5.0","deps":[],"cksum":"ef9beeafe32395caef525ce9da4df22c54e9763ad8a5e25703fa4f38a8c30d1a","features":{},"yanked":false}

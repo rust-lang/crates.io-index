@@ -1,0 +1,4 @@
+{"name":"terminal_cli","vers":"0.1.0","deps":[],"cksum":"dacf18138f9078ffeb3e24af86949f202358218a09e5f23497b4ac2484059b7a","features":{},"yanked":false}
+{"name":"terminal_cli","vers":"0.1.1","deps":[],"cksum":"d44abab80bcb3401c4f290c2d0a36472d7525fd95e43f291a05dfc6a15fe0932","features":{},"yanked":false}
+{"name":"terminal_cli","vers":"0.1.2","deps":[],"cksum":"6e37c3f05b76f246c25ed3a0b821018b34d3f2d1293ae031bbbad5e9514dfe9a","features":{},"yanked":false}
+{"name":"terminal_cli","vers":"0.2.0","deps":[],"cksum":"e759dd15b2c0b3634dce090f384265de91d6dcb9d643a952f9166a8e64017225","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false}

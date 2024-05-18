@@ -1,0 +1,3 @@
+{"name":"anysafe","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e8dd0b70030c4703f8954db2f1474afddc0d11034f60c3a953182960234affa","features":{},"yanked":false}
+{"name":"anysafe","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec03e88de0ae1c73224557691a854ad5b76f46f40d05fa4e20cb70f01cc2eefd","features":{},"yanked":false}
+{"name":"anysafe","vers":"0.1.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"025922ede8ff3946507ce7f4b49b97e3ca6ce94ab72079636d7b4fa7515e4711","features":{},"yanked":false}

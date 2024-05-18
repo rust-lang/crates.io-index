@@ -1,0 +1,1 @@
+{"name":"vpr-audio-analyzer","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.29.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf7d7886c9c11047379f6c3569f6d26b5e2fe93cdb0fd688a8cf802b5ac14a8b","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"double-buffer","vers":"0.1.0","deps":[],"cksum":"10a94bfafcbb68b658e087e82265b1f30b84a6c5945a7bbce852a06f894e72e5","features":{},"yanked":false}
+{"name":"double-buffer","vers":"0.2.0","deps":[],"cksum":"5474b66df20634f8ec98a14f61db05c09a4ec987ff798f1b4ca560e0d7654ffa","features":{},"yanked":false}
+{"name":"double-buffer","vers":"0.3.0","deps":[],"cksum":"e7fe69cc7ac46758e62a9a28bff1ce6796edc9ebd99f2f63d9c61cedbe9378b5","features":{},"yanked":false}
+{"name":"double-buffer","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f01cdd56f8c2baa81f06d503e2e5dc98a0f0e3d24f876993995272bc0fa3502","features":{},"yanked":false}
+{"name":"double-buffer","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cdfe86c8f078879802471dcf11d0907138d4999c68889fee36f3ed945d549d0b","features":{},"yanked":false}

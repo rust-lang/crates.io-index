@@ -1,0 +1,2 @@
+{"name":"branchless","vers":"0.1.0","deps":[],"cksum":"021f4b58c3ac3630a4eff307f6798eb8a4971c1d6f21f712044de6649c425db9","features":{},"yanked":false}
+{"name":"branchless","vers":"0.1.1","deps":[{"name":"branchless_core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c1dbdec9cb90bfdefe8540bd77dc6b12602946613e39eb939ac1b62ffe3dc34","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"lua-patterns","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5324d5d3964f7c49fddac33b85a48f75f2839c58044f8e45d3ad43a070fbf872","features":{},"yanked":false}
+{"name":"lua-patterns","vers":"0.1.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2d6ac88d57814c5d48878f2285f6e733ae5594998e33d5f75e2cc455e8f8a49b","features":{},"yanked":false}
+{"name":"lua-patterns","vers":"0.3.0","deps":[],"cksum":"85c06bee3da5af825d754532e70535109da200bfa7105d5e2f6735bc2e970216","features":{},"yanked":false}
+{"name":"lua-patterns","vers":"0.4.0","deps":[],"cksum":"2f3da90ef01f4466adefe593c05d534fe270d04a2b067608cf8b230123e5a281","features":{},"yanked":false}

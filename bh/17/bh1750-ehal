@@ -1,0 +1,2 @@
+{"name":"bh1750-ehal","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7215110ab9798844a0845a5a7a10d472b1e1b896d8430aac946c8da2b1fe148f","features":{},"yanked":false}
+{"name":"bh1750-ehal","vers":"0.0.2","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5666870d877c349de7159f2ff6e61591b81765c8addcff303fb322c84c8bd29","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"lfclib","vers":"0.0.1","deps":[{"name":"libusb","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb84f739a95466998d822ba3116ae54e1b1c30c39f97530da8a4860c8814ac2f","features":{},"yanked":false}
+{"name":"lfclib","vers":"0.1.1","deps":[{"name":"hidapi","req":"~0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ff2d8e18958f015c02381771c88d43a63ca4e718df9c2a7c5f1cfda47043736","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"orgrender","vers":"0.1.0","deps":[{"name":"orgize","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2d50d3731caf4d644b402ad62a924a19b55eb1fe6eacfb0e488a52e1a503907","features":{},"yanked":false}
+{"name":"orgrender","vers":"1.0.0","deps":[{"name":"orgize","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79b042e3ad2ad08d531b62fc1b29f9fdc91a82523161dc4ffc0eab902468562e","features":{},"yanked":false}

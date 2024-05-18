@@ -1,0 +1,1 @@
+{"name":"memocalc","vers":"1.0.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e47548f19a8f70fb067dc9c25c163ad47f9d3fcca70d7e2f9dd074497ee005d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tagparser","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26aa0ff397e2c33bd65f61cd1353cfd107dbf7124bdbc7dfcb96bbb120c948bb","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"tagparser","vers":"0.2.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"113e31d78732d8adde19d79e5c51fd1d82e1140665e23c2669cc625a96184ce4","features":{},"yanked":false,"rust_version":"1.72.0"}

@@ -1,0 +1,2 @@
+{"name":"rust-codegen","vers":"0.1.0","deps":[{"name":"indexmap","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e017684ddf1938425843cedb8d9bf6f76b8a9ad11429ced89e0550dc291b153","features":{},"yanked":false}
+{"name":"rust-codegen","vers":"0.1.1","deps":[{"name":"indexmap","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc223f2b1b21f03ac283a687f576b5f502cc5952a03cff0ef667ccece226536f","features":{},"yanked":false}

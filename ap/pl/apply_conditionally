@@ -1,0 +1,2 @@
+{"name":"apply_conditionally","vers":"1.0.0","deps":[{"name":"either","req":"^1.10.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"42f5dd82aa898689065c9dd18a228d215ede19404825205646d38c10f3687304","features":{},"yanked":false}
+{"name":"apply_conditionally","vers":"2.0.0","deps":[{"name":"either","req":"^1.11.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1b741caadfaf252a7dd23e409d9be9a906673b7979dd94d522244cabd2ff9377","features":{},"yanked":false}

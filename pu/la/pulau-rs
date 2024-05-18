@@ -1,0 +1,2 @@
+{"name":"pulau-rs","vers":"0.1.0","deps":[],"cksum":"681a40a0dc59f83ee61e0b7761f349d338c2e2598a9a6c5b5bdb8df27a2db2f8","features":{},"yanked":false}
+{"name":"pulau-rs","vers":"0.2.0","deps":[{"name":"heapless","req":"^0.7.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ef0af6865517ae5001f7f1a840bb57dad7efa28aa237f036a42901d971fed67","features":{"default":["traits"],"traits":[]},"yanked":false}

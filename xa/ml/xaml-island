@@ -1,0 +1,1 @@
+{"name":"xaml-island","vers":"0.1.0","deps":[{"name":"windows","req":">=0.30, <=0.35","features":["alloc","Win32_Foundation","Win32_UI_WindowsAndMessaging","Win32_System_WinRT_Xaml","UI_Xaml_Hosting"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f8430052e51c2e0501977e34e283a314264c0964fb68df726af4904d2785672","features":{},"yanked":false}

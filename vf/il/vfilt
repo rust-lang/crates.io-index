@@ -1,0 +1,1 @@
+{"name":"vfilt","vers":"0.1.0","deps":[{"name":"clap","req":"^2.29.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d874593b709bccdc541908d289bf6ac964f7a0803b91b592c4378e1911a38933","features":{},"yanked":false}

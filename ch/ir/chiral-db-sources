@@ -1,0 +1,2 @@
+{"name":"chiral-db-sources","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f410956adee5f546435aeeeac3866dbb5149a462f4351da836d8bd135a74974a","features":{},"yanked":false}
+{"name":"chiral-db-sources","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f45be09df0e92de47a75f48b5871fc27d64733c86bd521e2e24b36a38f10767d","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"constime","vers":"0.1.0","deps":[],"cksum":"25414eeb7e2251cbee9c9d0058a3d56d4da6a89170e45387a0f323668cda7570","features":{},"yanked":false}
+{"name":"constime","vers":"0.2.0","deps":[{"name":"ureq","req":"^2.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"58f038dd228ec5cb03aa2d06beba429e31c216762a988702f8bf37ff8e72fbee","features":{},"yanked":false}
+{"name":"constime","vers":"0.2.1","deps":[{"name":"ureq","req":"^2.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3405b7f966303f43e0aa03c59285a93799ce52566a2428ab7d064f7778bdc0f5","features":{},"yanked":false}
+{"name":"constime","vers":"0.2.2","deps":[{"name":"ureq","req":"^2.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33ac181bf8bd332be3a8cc3da11e41f5675891e3bb234ec891226139fea8da58","features":{},"yanked":false}

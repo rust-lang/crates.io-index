@@ -1,0 +1,2 @@
+{"name":"raylib-project-generator","vers":"1.0.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d401e04f87fb2be18e1a92e38658de816fc0e9621b1333a9d1bca93617207d0b","features":{},"yanked":false}
+{"name":"raylib-project-generator","vers":"1.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03f736ba008be84a9e092857968046715d16fc005520ad0a1b0e12390d21f128","features":{},"yanked":false}

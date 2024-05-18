@@ -1,0 +1,3 @@
+{"name":"reventsource","vers":"0.0.0","deps":[],"cksum":"b5eba2dccb18cdb010f3cffced3fc18813174365fbacd3fa579ce43853a961fd","features":{},"yanked":false}
+{"name":"reventsource","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.9.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69b2e50675dd0734f1674d96ac9c999d9866d1b5b29f9c60a098b38241872da6","features":{},"yanked":false}
+{"name":"reventsource","vers":"0.0.2","deps":[{"name":"reqwest","req":"^0.9.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7db06f113b17f3b081bb3dc9c1ccdafc611e75c3ac38e897a83c5b1dcb0c475f","features":{},"yanked":false}

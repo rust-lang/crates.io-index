@@ -1,0 +1,2 @@
+{"name":"saelient","vers":"0.1.0","deps":[{"name":"embedded-can","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28099fc6efd4ab48659fd3062ac0fc2df383fc93d21de20dee17c4d91e1b5092","features":{},"yanked":false}
+{"name":"saelient","vers":"0.1.1","deps":[{"name":"embedded-can","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51fa29a0b2ab1c6d482e401cdff8f4c1dbfedb6446f7ca9484cd56f1f1984f8b","features":{},"yanked":false}

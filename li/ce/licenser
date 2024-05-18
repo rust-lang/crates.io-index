@@ -1,0 +1,5 @@
+{"name":"licenser","vers":"1.0.0","deps":[],"cksum":"31ae86ee3bb2961315f5c23fc9e593ae6c5b9a0d54158c4ea55e1db2ba58ebb4","features":{},"yanked":true}
+{"name":"licenser","vers":"1.0.1","deps":[],"cksum":"560fdca7f77e8d317ef66a9c532eb21f819c2727163b2a488c5d64e0d383c5b5","features":{},"yanked":true}
+{"name":"licenser","vers":"1.1.0","deps":[{"name":"clap","req":"^4.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf617c25b23540b2a5092188f47b9d1f7c3ce7ebf97009cbce3342051f82e916","features":{},"yanked":true}
+{"name":"licenser","vers":"1.2.0","deps":[{"name":"clap","req":"^4.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbf363e05c60e025e74c3d63b338b2a06fd378b2735cb25b6ac294415c277577","features":{},"yanked":true}
+{"name":"licenser","vers":"1.2.1","deps":[{"name":"clap","req":"^4.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcfadc6ebc8d2e076c06e4a2e4ce23bc85dda75db9619328315d3ff79896a575","features":{},"yanked":false}

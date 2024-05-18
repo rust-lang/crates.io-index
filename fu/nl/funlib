@@ -1,0 +1,9 @@
+{"name":"funlib","vers":"0.1.0","deps":[],"cksum":"66bdfca56b86716dc1983413e11f3f5e9b726432b2aea46bc084bfb9b2e77539","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.1","deps":[],"cksum":"4f083db6048df14b355a92d9df64afe88bcd97e7c0d35995cfc144d75c90a176","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.2","deps":[],"cksum":"f38ec72405eb465053e5711bd65cfc7b452748cf89aab4867f95f1129f8d8c48","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.3","deps":[],"cksum":"725a5db4ed61f995bcea79f2604b8c43a2bd4cb9837369c34e06dec88fc8f7a0","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.4","deps":[],"cksum":"c0a370ffa61f9845903057fbfcf2c1952c0ddb814491104dd8b1b34763325550","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.5","deps":[],"cksum":"985eb5e7ba9cf5736641cb87ae3479e5949843f2690abe6e3aefcce62213ce2f","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.6","deps":[],"cksum":"24bb6fac5f7a8d335129ff02d4bfabe4f793b332d059a81ceee0a1479458cb3f","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.7","deps":[],"cksum":"f298222d8a8808b803e837642a1cfa36959fd5694459f5ac1a6b4e5288ac6d62","features":{},"yanked":false}
+{"name":"funlib","vers":"0.1.8","deps":[{"name":"funlib-macros","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55e541267ef47ca92ec42ec69bf7b923cfde65dde1d3c0c9589d1c7200d2006c","features":{},"yanked":false}

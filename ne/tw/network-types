@@ -1,0 +1,5 @@
+{"name":"network-types","vers":"0.0.1","deps":[],"cksum":"ffcd944f4c3864bc976c77d5823112ce727fe6c4649a62bedb37a8dc6b58c571","features":{},"yanked":false}
+{"name":"network-types","vers":"0.0.2","deps":[{"name":"enum-try-from","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"288638478c203c29d17afef4b48a76ed4ac5cabc63149651343b244c030f3dda","features":{},"yanked":false}
+{"name":"network-types","vers":"0.0.3","deps":[],"cksum":"3b8e9c22682bf6c7f193916ef7e9318561ab5d8e15091b9482afdd4ed8791d89","features":{},"yanked":false}
+{"name":"network-types","vers":"0.0.4","deps":[],"cksum":"47e3fa362b3a5e3ccc59979cb7bd254e404be05bbc18270b05d1289cb8cb8f44","features":{},"yanked":false}
+{"name":"network-types","vers":"0.0.5","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f07952b48f02537f3088f517a3cf87372a25372d51991328938531b83a31cb3a","features":{"std":[]},"yanked":false}

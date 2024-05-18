@@ -1,0 +1,2 @@
+{"name":"quaternions","vers":"0.5.0-a1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b6498789468bce8acb1d8e66aa7d131e54a099b4658aac773a50bc35640454a","features":{},"yanked":false}
+{"name":"quaternions","vers":"0.5.0-a2","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873deb9b2b73c2b8da04f8337840102d6c06312622ad8b6bf1af6d2c67254029","features":{},"yanked":false}

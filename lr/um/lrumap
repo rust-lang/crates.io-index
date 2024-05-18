@@ -1,0 +1,2 @@
+{"name":"lrumap","vers":"0.0.0-reserve.0","deps":[],"cksum":"c628b0ebf43b605a1a24946030d1baf585c57c74b845a504d5224e166e145186","features":{},"yanked":false}
+{"name":"lrumap","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.13.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1251ce8e8f9909600e127dcbe74ac50d8464e6685cf5953d37df7a741dbf9e9d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"walc_model","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5533061e84aee50a1611ec2882f5fbd169582561dc78584dea7fc5a0b2e1f86e","features":{},"yanked":false}
+{"name":"walc_model","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ebe1dd1e7725e8492f84b942c2b16bad7060713cd9530ed5ad3a6d1ea6246cd","features":{},"yanked":false}

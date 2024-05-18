@@ -1,0 +1,5 @@
+{"name":"ext-string","vers":"0.1.0","deps":[],"cksum":"dc9eb77b3a4f4b2a7c672ee860f1e5d0d9aeb50daa388b131cf1e6a1ae51845a","features":{},"yanked":true}
+{"name":"ext-string","vers":"0.1.1","deps":[],"cksum":"eb91ca3af5e94ac3787e8c88b2c3bc70bf87a01c97927543fe038f1443134581","features":{},"yanked":true}
+{"name":"ext-string","vers":"0.1.2","deps":[],"cksum":"a661c640af40d94bc74077ef003394ef8d9a3b27da0f6da7ada65e211c9b4283","features":{},"yanked":true}
+{"name":"ext-string","vers":"0.1.3","deps":[],"cksum":"a42da52a0d87abe4ac276427cd47700fc7ab917817b24df7c4c9951ea2bb286e","features":{},"yanked":false}
+{"name":"ext-string","vers":"0.1.5","deps":[{"name":"unicode-segmentation","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1ce551cb69888a989ac00244c7fe76e58fcba61a2fb57d4c52872265ac6d568","features":{},"yanked":false}

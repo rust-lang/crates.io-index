@@ -1,0 +1,15 @@
+{"name":"sludge-cicd","vers":"0.1.0","deps":[],"cksum":"569ca736ae01560f1a4e3f54207e7404181904f34b83a58270b5c5e6c40f04d2","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.1","deps":[],"cksum":"62a595b337e49c7c30267cfed6273f0945717193ff7257d9bd8fbf1093073266","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.2","deps":[],"cksum":"83d578a4390393ae126266ab8ce15febe86b468bcc358d948414aa905f35b181","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.3","deps":[],"cksum":"dd9ae61793ea4b137842bd011d4b166e4a70777e2cc9e7a6c500e0aa8220f98f","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.4","deps":[],"cksum":"b98df579afd51a3d7d645458f8d1059433ccc670e5d118a50c15edc08d6c01a2","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.5","deps":[],"cksum":"b8700ac5a550e391281e4ada9235175ad3e9d2bce77ba521bb5540a9960748ed","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.6","deps":[],"cksum":"c3b4799b4d98a026f21a2c666f93fb827d0a490e6a6ec185bdc049a6d6d105da","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.7","deps":[],"cksum":"ee25d768de075077ed35cdcd52c3e79770587ede03bb963d725fccf88eb77da1","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.8","deps":[],"cksum":"b4902a36de8ce5cb66a7b44d16985022222704022a4f927feacc1d318580b6df","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.9","deps":[],"cksum":"f6e660a071ca4acf0e8eac0c13673860cb15f8958f6158469abbd46a3b058b33","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.10","deps":[],"cksum":"95396eef90e6d47a950713e36947a6e631c14fd4f2c99d1c07fb874886023d88","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.11","deps":[],"cksum":"0cd155ffeb455e144c81d0a1e756346613cc2d71944f9f4cf316d23e4b4c6e1d","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.12","deps":[],"cksum":"c58e7b1807089f78d1075e25cc9a46ef4d236ca56b00ac4016b14afb3ed4a6b8","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.13","deps":[],"cksum":"55a86456ff23fdd486441de44c1488221f6426a48a3c63bd97ad5eda1ff6b3d5","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.14","deps":[{"name":"expect-test","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a1817a3f5a1a73e59c28ffb5c0e06e63575b36a9d943f8ba2e0d0ddadda8eb4","features":{},"yanked":false}

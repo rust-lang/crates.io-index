@@ -1,0 +1,1 @@
+{"name":"unwx","vers":"0.1.0","deps":[{"name":"flume","req":"^0.11.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"xflags","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"360e39dd70b63b8bee2f0bf974c7c8ce436d0cb2a30fce577903ab18ec195126","features":{},"yanked":false}

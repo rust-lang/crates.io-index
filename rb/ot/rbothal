@@ -1,0 +1,2 @@
+{"name":"rbothal","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a5fb1231ac227c25fe07cd4bea11992e9a40a3d9cabcfb0e3cec077593b909e0","features":{},"yanked":false}
+{"name":"rbothal","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"297875bdc6e7a9d9b65a11c02dc7acb81d2a105a126d7a9b3c8bd9d4de84d77b","features":{},"yanked":false}

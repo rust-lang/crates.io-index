@@ -1,0 +1,2 @@
+{"name":"pollen","vers":"0.1.0","deps":[{"name":"pollen-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cc4ba69891c1e3b88637b5a492f5d59b7263b994e6f430624ffde51bdc304aa","features":{},"yanked":false}
+{"name":"pollen","vers":"0.1.1","deps":[{"name":"pollen-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c26cf91c3895b56f6dea5c1a1f98e8cb43fd85d2fb1d5d766cb5ec207152b0f","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"structform-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2e0c933d0bb83ceb050eb952e7cc1145c889667d6cb50b1a1924d30737e5709","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pea-api-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e565602405ea23bddd85e9381edac9e05bb215c6f63c6a656c616ad3acccdcd0","features":{},"yanked":true}

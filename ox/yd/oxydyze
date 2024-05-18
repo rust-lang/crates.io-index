@@ -1,0 +1,1 @@
+{"name":"oxydyze","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.33","features":["unsafe_textures","ttf"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cd788f954388af606f76cc03d31f6de88942729572c88af1e53070c9fdae20c","features":{},"yanked":true}

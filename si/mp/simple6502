@@ -1,0 +1,3 @@
+{"name":"simple6502","vers":"1.0.0","deps":[],"cksum":"ee2331e0239d52d55ba7eec7b56a482e0eb297a908bf9873b609a7294c84b71f","features":{},"yanked":false}
+{"name":"simple6502","vers":"1.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30655bfac19a03d5d5f4d329e1a3f7ceb71237c03bc06d8d2daddb299b9c6778","features":{},"features2":{"serde":["dep:serde"]},"yanked":true,"v":2}
+{"name":"simple6502","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffc17ef61b8a7c83a7b989a640bc456c270421b3caa44d5b50cb3932c6348332","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

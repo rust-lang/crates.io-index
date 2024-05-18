@@ -1,0 +1,2 @@
+{"name":"ustulation-test1","vers":"0.1.0","deps":[{"name":"ustulation-test0","req":"= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c87c76aa6b1d90b3196b14099fe819d2d17dfb98a8250bbf80d95efb05abbc25","features":{},"yanked":false}
+{"name":"ustulation-test1","vers":"0.2.0","deps":[{"name":"ustulation-test0","req":"= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcc7209a2b5e5626d36e95a52204c7e3560ca944af7725f623a5c6bb592bd7b6","features":{},"yanked":false}

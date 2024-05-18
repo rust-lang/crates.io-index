@@ -1,0 +1,13 @@
+{"name":"purr","vers":"0.1.0","deps":[],"cksum":"abf95b10ae9957d91f6e52cc2b33feff44430ad0e0a4eb5d6df737d46841027d","features":{},"yanked":false}
+{"name":"purr","vers":"0.1.1","deps":[],"cksum":"2e412ec2e404c91fc10e6d943310264f2cc35e7d9afada5ff5b7f35bf6a7206a","features":{},"yanked":false}
+{"name":"purr","vers":"0.2.0","deps":[],"cksum":"615f5729c8f0a9f7d2f9e7a9a309891fd8b16a1babd7314c4ba43004f3939df4","features":{},"yanked":false}
+{"name":"purr","vers":"0.3.0","deps":[],"cksum":"696c327387974ce0c30f969f79045de43c4a2aefe93617a881a3f37d7a79629c","features":{},"yanked":false}
+{"name":"purr","vers":"0.4.0","deps":[],"cksum":"37b102cc90d6ae2ff56151cc16cfecd0ac98b08d97f96f06672e45faf35cfd06","features":{},"yanked":false}
+{"name":"purr","vers":"0.5.0","deps":[],"cksum":"05ddd1c539a70186fa2e7b6bc3da8b58aaeb5c6ce3d0ace4133a48254f84ca1a","features":{},"yanked":false}
+{"name":"purr","vers":"0.6.0","deps":[],"cksum":"a302ad4662597bd7944aeb76033ab7dae975cf69ddb1f28cf98995b0201c1f39","features":{},"yanked":false}
+{"name":"purr","vers":"0.6.1","deps":[],"cksum":"28fa522e2ace3ea0a4ac83bb9c2fc3facce871954cc7c25ab79c716bfe1170a5","features":{},"yanked":false}
+{"name":"purr","vers":"0.6.2","deps":[],"cksum":"2a0aaa54616708c2b4650fafcb70fb3fc3e47aa84cd05f71a2bd23b6dd402846","features":{},"yanked":false}
+{"name":"purr","vers":"0.6.3","deps":[],"cksum":"5f5be343c265dbe00204af27ce42b8f5e905a965d97985dbde974e25bf25e451","features":{},"yanked":false}
+{"name":"purr","vers":"0.7.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf399927623857df474d8a6aaa1f69907b4c97616c30ab83b827993993b044cd","features":{},"yanked":false}
+{"name":"purr","vers":"0.8.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d47e886f7cebbd34d1b3325c26b6389bbf177d90c40ce313529ae139fa5409d5","features":{},"yanked":false}
+{"name":"purr","vers":"0.9.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f65ecf8f6541cb5191a715bcd065373e1d49dfc64ad39f6a3d2cba4c8c20108a","features":{},"yanked":false}

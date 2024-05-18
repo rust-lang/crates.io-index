@@ -1,0 +1,1 @@
+{"name":"opo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"015eba55c729f864629528f11cc2fb97be67cacd54ac1c1eab3545400a1d24e7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"pest3","vers":"0.0.0","deps":[],"cksum":"4baa648f6dbae5931999a5cbbb6740af6f21bb872b471177b3c98b180996ee10","features":{},"yanked":false}
+{"name":"pest3","vers":"0.0.0-prealpha0","deps":[{"name":"pest2","req":"^2.7.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"pest"},{"name":"unicode-width","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e657f807182cc0f79226263710bd78c9b6556631078ab3a47f0c05a1dfcf4986","features":{},"yanked":false}

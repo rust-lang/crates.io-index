@@ -1,0 +1,2 @@
+{"name":"kmers","vers":"0.2.1","deps":[{"name":"noodles","req":"^0.52.0","features":["core","fasta"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8784af57fbd92a1e188ea54919d1b74e6b75ac48b6db9a3037d5bb2bdd6f38c","features":{},"yanked":false}
+{"name":"kmers","vers":"0.2.2","deps":[{"name":"noodles","req":"^0.52.0","features":["core","fasta"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4402431de6898f166eec4fd7442c49a1d59b7b0c221dca8dc2dc3f29b8d9a093","features":{},"yanked":false}

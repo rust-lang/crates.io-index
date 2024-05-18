@@ -1,0 +1,4 @@
+{"name":"proc-macro-crate-name-test-macros","vers":"0.1.0","deps":[],"cksum":"e77babd24047c69d4e26d5df00b243c6c08749f2ca1555e87c64f6b699231250","features":{},"yanked":false}
+{"name":"proc-macro-crate-name-test-macros","vers":"0.1.1","deps":[],"cksum":"737c2ed7d5b85e30f8d15ec4c0c27305c4610c414babbb0d25dbd894ec27381d","features":{},"yanked":false}
+{"name":"proc-macro-crate-name-test-macros","vers":"0.1.2","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"946269a2af7c864c30f9cbcffabaeefe4e6dfb11cfe4219f562753398c13a043","features":{},"yanked":false}
+{"name":"proc-macro-crate-name-test-macros","vers":"0.1.3","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b4eb62a579568e9e6fa3333dc3f2304e37a1575360581223a955fd97b128646","features":{},"yanked":false}

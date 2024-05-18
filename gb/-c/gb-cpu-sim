@@ -1,0 +1,2 @@
+{"name":"gb-cpu-sim","vers":"1.0.0","deps":[{"name":"try-from-discrim","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14d1745febed250568eadb98d6bef273f2995ef77c6e710f3d178cca03947dbe","features":{},"yanked":false}
+{"name":"gb-cpu-sim","vers":"1.1.0","deps":[{"name":"try-from-discrim","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18c6a377c16b1164c4dde4ea7681800a069ef9ede365b5d7c48501401f46e135","features":{},"yanked":false}

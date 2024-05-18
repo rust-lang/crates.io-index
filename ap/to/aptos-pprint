@@ -1,0 +1,3 @@
+{"name":"aptos-pprint","vers":"0.1.0","deps":[],"cksum":"aa33316c16d736d80e3e9469fd61094fdb08abe9c7fa8af99bc5521f4af48f47","features":{},"yanked":false}
+{"name":"aptos-pprint","vers":"0.1.1","deps":[],"cksum":"3a53135180dda873cd9671353ae255ccd715a57258e0e16dc6c2437da1f0ebf9","features":{},"yanked":false}
+{"name":"aptos-pprint","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e5b82e31f91aefe5e257ada2ecee92a2217cd73725103c563b435e6e9cb9fe2","features":{},"yanked":false}

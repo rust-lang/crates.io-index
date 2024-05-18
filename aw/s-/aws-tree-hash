@@ -1,0 +1,1 @@
+{"name":"aws-tree-hash","vers":"0.1.1","deps":[{"name":"hex","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01fd281847d6709d244403641c25bfaa1a03379748f351ca27df57940c260f37","features":{},"yanked":false}

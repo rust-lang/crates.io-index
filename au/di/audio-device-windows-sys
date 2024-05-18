@@ -1,0 +1,1 @@
+{"name":"audio-device-windows-sys","vers":"0.1.0-alpha.1","deps":[{"name":"windows","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3dae0d84c9dc38640da80c53524b8da1a073c494d92df462b04f5c0605f2b490","features":{"wasapi":[],"xaudio2":[]},"yanked":false}

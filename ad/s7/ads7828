@@ -1,0 +1,2 @@
+{"name":"ads7828","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a77d855a220a4ed004af25478db1315703bff548f428effbc2daafb22500c15","features":{},"yanked":false}
+{"name":"ads7828","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bba9595d5ac393dc6649ce9570db106bee977d12b957890a8349ecefbc17f53b","features":{},"yanked":false}

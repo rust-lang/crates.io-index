@@ -1,0 +1,2 @@
+{"name":"rust-dense-bitset","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d29ca0f784ade6d17166a98f396d930193e2eeb39c9ede34be68bf8f83ac9fa6","features":{},"yanked":false}
+{"name":"rust-dense-bitset","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32ce26bf673f429c3ed2f6cd59bf61df4a6e48300e5c36b15c355045111f3fbb","features":{},"yanked":false}

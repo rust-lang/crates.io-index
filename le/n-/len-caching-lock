@@ -1,0 +1,1 @@
+{"name":"len-caching-lock","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"591f2ddef12a459088a9d7cc6299024c497eb7ad2d0ed82c5170153c398b8880","features":{},"yanked":false}

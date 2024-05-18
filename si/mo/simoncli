@@ -1,0 +1,2 @@
+{"name":"simoncli","vers":"1.1.0","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79667e804ab8112ed4968149e9683bb8a29d7dc9c13e39973b68b117509b4d3f","features":{},"yanked":false}
+{"name":"simoncli","vers":"1.1.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fbc51e618d32f43b6a72f744c2685db93f9dddfe93a30570549962a43ae7577","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"scoped_log","vers":"0.1.0","deps":[{"name":"env_logger","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f784e86664cf1d1f3c6ce348ecf73f01bd6a7690538356bff8297505f2da026e","features":{},"yanked":true}

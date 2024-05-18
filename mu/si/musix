@@ -1,0 +1,1 @@
+{"name":"musix","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b1106943e17479863c6dda745ebcfd5bc69f1846208b9317e7761476f4ea33a5","features":{},"yanked":false}

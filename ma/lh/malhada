@@ -1,0 +1,2 @@
+{"name":"malhada","vers":"0.1.0","deps":[],"cksum":"1b3b95ba172b7081e7572247f699b5c98907491b468e6f89175b2e3102c97695","features":{},"yanked":true}
+{"name":"malhada","vers":"0.1.2","deps":[{"name":"hangul","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dc7556e2147a6ab9730d986e672287f92b72c62273641cd055bc0bb24ae5834","features":{},"yanked":true}

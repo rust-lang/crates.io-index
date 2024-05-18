@@ -1,0 +1,1 @@
+{"name":"push-vec","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41f1072854bfa9f0ac4ed799b05aedce5b0512fdc46a6150c358846fc1c6d240","features":{},"yanked":true}

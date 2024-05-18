@@ -1,0 +1,2 @@
+{"name":"evlog","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a299acff8542d66a59e06262a6ac68d09581f03f2371a0227faaeb62eada9b","features":{},"yanked":false}
+{"name":"evlog","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ff79940451290a01a4a7e222ef68c4e8d4918bef1da5b88cd3e1aab71a545c8","features":{},"yanked":false}

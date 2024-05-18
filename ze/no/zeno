@@ -1,0 +1,9 @@
+{"name":"zeno","vers":"0.1.0","deps":[],"cksum":"c5ce7f144d4fb173d2c165be648582cd5c3d14c89686c963ea72dd902db28c59","features":{},"yanked":false}
+{"name":"zeno","vers":"0.1.1","deps":[],"cksum":"18f5af0992eca7f270bfd2e14bb44a2447c98be00ce7f8d2766c87be762103f8","features":{},"yanked":false}
+{"name":"zeno","vers":"0.1.2","deps":[],"cksum":"6dcda0568a7f44794a5c856e8906dc57196fae19557aa7ea1fdbabc60d8e7c69","features":{},"yanked":false}
+{"name":"zeno","vers":"0.2.0","deps":[],"cksum":"ea708573d4a67f939793b0d3f923d105bfdf06bbd6acb3f9cd02ce1bd905f6c8","features":{},"yanked":false}
+{"name":"zeno","vers":"0.2.1","deps":[],"cksum":"cd61feec0a090c234641099597704c512081994e7fd9d6fd93e7c049e47e9d8e","features":{"default":["eval"],"eval":[]},"yanked":false}
+{"name":"zeno","vers":"0.2.2","deps":[],"cksum":"c110ba09c9b3a43edd4803d570df0da2414fed6e822e22b976a4e3ef50860701","features":{"default":["eval"],"eval":[]},"yanked":false}
+{"name":"zeno","vers":"0.2.3","deps":[],"cksum":"dd15f8e0dbb966fd9245e7498c7e9e5055d9e5c8b676b95bd67091cd11a1e697","features":{"default":["eval"],"eval":[]},"yanked":false}
+{"name":"zeno","vers":"0.3.0","deps":[{"name":"libm","req":"^0.2.7","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f2c739773d935975ca833e3290e693c53805b7d1796b4dde909725c0b86c912e","features":{"default":["eval","std"],"eval":[],"std":[]},"yanked":false}
+{"name":"zeno","vers":"0.3.1","deps":[{"name":"libm","req":"^0.2.7","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ea3a5f6377b61784d9fe23ecfea15202508978bce00b401fcd8efeb8d21c767b","features":{"default":["eval","std"],"eval":[],"std":[]},"features2":{"libm":["dep:libm"]},"yanked":false,"v":2}

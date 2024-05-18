@@ -1,0 +1,1 @@
+{"name":"djr-cli","vers":"0.0.1","deps":[{"name":"cargo-lock","req":"^8.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"djr","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db0b351593f9e7d7c7e3753dc4ad2542ece9104c2240a6293c15fd1ac5949377","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"libmpv-sys","vers":"3.0.0","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"3f5880e96826295a9e75cdaed052c5c88c21d2495c4e761f8b5dca152688934d","features":{"use-bindgen":["bindgen"]},"yanked":false}
+{"name":"libmpv-sys","vers":"3.1.0","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"0df938d3145cd8f134572721a27afa3a51f9bc1c26ae30a1d5077162f96d074b","features":{"use-bindgen":["bindgen"]},"yanked":false}

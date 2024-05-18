@@ -1,0 +1,2 @@
+{"name":"fbr_cache","vers":"0.1.0","deps":[{"name":"intrusive-collections","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e27d34369d5742e4710558e9a0add08636225f76e13e7e036361fd78857966a8","features":{},"yanked":false}
+{"name":"fbr_cache","vers":"0.1.1","deps":[{"name":"intrusive-collections","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"959b5dc4956721bd39dd32675da9ab054d932dd63d5bd99ea5552c57eb1764bd","features":{},"yanked":false}

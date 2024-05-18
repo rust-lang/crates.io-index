@@ -1,0 +1,2 @@
+{"name":"theban_pass","vers":"0.1.0","deps":[{"name":"theban_db_interface","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55746d17902e8f82f2fcf27ef3e96a8092a37f6ca9f5a7e92200ebfe3d7c1ce3","features":{},"yanked":false}
+{"name":"theban_pass","vers":"0.2.0","deps":[{"name":"theban_db_interface","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e13cb14637f0bd73a3c6ae50991aeea8a3e5636644b60d5ce0170da9e6ceab35","features":{},"yanked":false}

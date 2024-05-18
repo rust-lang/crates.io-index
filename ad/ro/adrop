@@ -1,0 +1,3 @@
+{"name":"adrop","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16e42f1814188833b9ced4643fc7c7b9912fac7c68d0b15c72b54eae8c8255fb","features":{},"yanked":false}
+{"name":"adrop","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdb94dcb579ef18b8a7f4ba9d7dfff75e988293c7bb24cb5d184404fdb8121d6","features":{},"yanked":false}
+{"name":"adrop","vers":"0.2.1","deps":[],"cksum":"3a00eaf3a8000f1e6d9be05c76c6aca871fe1e85e3e95f9c6ce24dda89866628","features":{},"yanked":false}

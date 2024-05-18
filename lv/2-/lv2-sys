@@ -1,0 +1,4 @@
+{"name":"lv2-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8923bbdce3c00b8940efa2bdc70727c3ff93241c5e790e7873f3e9d165c7a907","features":{},"yanked":false}
+{"name":"lv2-sys","vers":"1.0.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4c39f354f8456e689d07b32bbafe1a1da59dd5748552e814e939f40f18364ec7","features":{},"yanked":false}
+{"name":"lv2-sys","vers":"1.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0dedea214d71c57409c0b114200f481de2ebf6716aed80baeb2ebb99ce09983d","features":{},"yanked":false}
+{"name":"lv2-sys","vers":"2.0.0","deps":[],"cksum":"9dd0f9e7de3649dcec348de51cbf611ab88688b97c0ce038f8c07b996b2a8e30","features":{},"yanked":false}

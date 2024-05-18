@@ -1,0 +1,1 @@
+{"name":"aio_event","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3a0f976a32f4f889ceb4bed670470f259777839e2b60811b71b5eef1fd64d62","features":{},"yanked":false}

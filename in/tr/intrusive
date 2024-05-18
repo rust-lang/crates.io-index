@@ -1,0 +1,4 @@
+{"name":"intrusive","vers":"0.0.1","deps":[],"cksum":"95c946e844250170b05f668919ac71aff4080426b69224c388dacfb30c699022","features":{},"yanked":false}
+{"name":"intrusive","vers":"0.0.2","deps":[],"cksum":"986ae1360bd7485625f18fc8c140fecec71bd9bcd53ce47d5fd7c57c63990740","features":{},"yanked":false}
+{"name":"intrusive","vers":"0.0.3","deps":[{"name":"stainless","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1272ded1c266f72e82551551370609711b4ae42292652dd6ef5142f110d09d0e","features":{},"yanked":false}
+{"name":"intrusive","vers":"0.0.4","deps":[{"name":"stainless","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5e7d95d9110a5cba8ddb065b11120bc06bec6ece5f9eb343dd4298a716d31da9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"zehn","vers":"0.1.0","deps":[],"cksum":"1319953c45f86ca1dad31972434adbf4552c986ad2c62ec46e2b8a0819cb875c","features":{},"yanked":false}
+{"name":"zehn","vers":"0.1.1","deps":[{"name":"indexmap","req":"^2.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44a7e646f4f65764f09b2efd4c93c49f2d6d4eaecc6c32cd45877973624db086","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"linux-df-parser","vers":"0.1.0","deps":[{"name":"rusty-hook","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ca1a0d0e163a7518b83b275cd5deb5cc7af5603b9812f4ac98d98282189317b","features":{},"yanked":true}
+{"name":"linux-df-parser","vers":"0.1.1","deps":[{"name":"rusty-hook","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c7ad8935ef0f739f72bac389f38baf799796510da8990a02aa70ab09b0e429b","features":{},"yanked":false}

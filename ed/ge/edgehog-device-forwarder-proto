@@ -1,0 +1,1 @@
+{"name":"edgehog-device-forwarder-proto","vers":"0.1.0-alpha.0","deps":[{"name":"prost","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fb612f4ff8879517e6ebf3c6197c2d96e7635345308655bdea9c452652104d3","features":{},"yanked":false,"rust_version":"1.66.1"}

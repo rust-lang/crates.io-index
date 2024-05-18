@@ -1,0 +1,26 @@
+{"name":"binn-ir","vers":"0.0.2","deps":[],"cksum":"b6d97d89925802077e0a969b1d22af0140cf7bb6014ad586dbf44565b701e56d","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.1.0","deps":[],"cksum":"45b4a85b66f7192e62e9f77b9ed2de9a915e79f0f8e503c07f20e8fa9d3e7686","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.2.0","deps":[],"cksum":"61a2cdfd4a4a94d7c7e0300145463920935fdb7e2c8e22d6ca118296fa8e7761","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.3.0","deps":[],"cksum":"f3762eefbcfc46932f77a06dbb3eb80b350a53bde2d6a8f2284ffe103318e972","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.4.0","deps":[],"cksum":"62bb745dcf7e8e6ed5741632c70261593d3c78c2099c17d48e3d48059028e202","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.5.0","deps":[],"cksum":"77358763e970d4f72717c2847a42eac2bdb62d09a5e70b2614c17e45787be37b","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.5.1","deps":[],"cksum":"fd690385e6af75a8b92641663aa63bc17cfcd362646bf6dad363439ef7004028","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.6.0","deps":[],"cksum":"98bda5dfe4bf1a3d37aee7634934a72d1ced0a067ddce279c7df13dffdc3ba3d","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.7.0","deps":[],"cksum":"eb304c4c27c1eee48024e70d3e220c1818a04968ad7d2a56ff1e85aeb0f282df","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.8.0","deps":[],"cksum":"38a93a8a2f35f79ed020faff6fb99feb8babb0bfdd6ef728e5fb5bd5c0af7e0c","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.9.0","deps":[],"cksum":"f41ea2cd6968814410244d5a6137fddc54ff332da1b1a33214f3c2a2d524296b","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.10.0","deps":[],"cksum":"38d495a4f5c77767c141b5e20bef402aa739c0c2b1897aef1a75254c1c9669a2","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.11.0","deps":[],"cksum":"1b8663ca732caea327c2adb12d3fc9e354db87ee7d1e569aecfc55d3943a6342","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.12.0","deps":[],"cksum":"852bde9ed1bc96349eb7c1d0846352467b2f4e7dd9e7bf8676fd01762b32a0e4","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.13.0","deps":[],"cksum":"d8c02f01bfb8a7e4afb0365dfca7ee4b90a15536345fec1f07ff6c53cb9d6c05","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.13.1","deps":[],"cksum":"5809687fb4b725614d9b126391180f0c5b6b043b4a49ff43e86e629aa97c3cd8","features":{},"yanked":false}
+{"name":"binn-ir","vers":"0.14.0","deps":[],"cksum":"5bce18e64a3c6b025ecb85179194e15e4f04de15c174bfd684f77956cb90cdb6","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.14.1","deps":[],"cksum":"982c07fb0775031510e6a796b3d7554ed44d382a57d6420b69162f5e210c9df6","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.14.2","deps":[{"name":"kib","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"543ca2d08bbba6cdff884f1adad60e94a034f78426fa8df5efc3004b9bee74c9","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.14.3","deps":[{"name":"kib","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c32d10b21a22e9a09cf88655eeb6881b38dc72bf72aef8021873c962af9838ef","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.15.0","deps":[{"name":"kib","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ae1907434f17c2366b7280c49e3950a3755e1807318f12d84e73dffad932930","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.16.0","deps":[{"name":"kib","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab2c89230990f66c7bf5d3e6eae3f9b5072134bd40149d28db7db788342e1ef7","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.17.0","deps":[{"name":"kib","req":">=5, <6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1898dab2ab79a9ab9888f1c0c1789df6b279be6805e94b586839707dc2bc4fb0","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.17.1","deps":[{"name":"kib","req":">=7.0.1, <8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"092df8b9ddda76342b763e87e16c545a819dcbd6c5dc5b2814de0947b01843fe","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.17.2","deps":[{"name":"kib","req":">=7.0.1, <8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"728428d512ce26cb2f3763b41911eb90d14c3f72fdd28bf33f88e1c5476bd03e","features":{"std":[]},"yanked":false}
+{"name":"binn-ir","vers":"0.17.3","deps":[{"name":"kib","req":">=7.0.1, <8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5cbb3342e8c5302975c12951e75cd89e83f68b4c7df119336e9208e394b53ceb","features":{"std":[]},"yanked":false}

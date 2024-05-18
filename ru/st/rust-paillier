@@ -1,0 +1,1 @@
+{"name":"rust-paillier","vers":"0.1.0","deps":[{"name":"gmp","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"772a741213082dfe306671fd6967f20f2ed11208ccb03e66f77609c3ec333f70","features":{},"yanked":false}

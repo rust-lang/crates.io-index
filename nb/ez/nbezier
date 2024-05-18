@@ -1,0 +1,1 @@
+{"name":"nbezier","vers":"0.2.1","deps":[{"name":"nalgebra","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a930456a0a1fdefee097ef52727845c418342cc7dd9e8f969d5225c3796b1fec","features":{"default":[],"draw":[],"draw-svg":["draw"]},"yanked":false}

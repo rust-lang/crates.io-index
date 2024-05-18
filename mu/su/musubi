@@ -1,0 +1,2 @@
+{"name":"musubi","vers":"0.1.0","deps":[],"cksum":"18c65c7d793c67e4596850568dd37f28c11a8ae9e2829068d8e94f672eff8651","features":{},"yanked":false}
+{"name":"musubi","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54b94bfc9d51831670a5a7e724180cb3a069473c369e233d58707e70ac91e2f4","features":{},"yanked":false}

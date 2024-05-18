@@ -1,0 +1,3 @@
+{"name":"geologic","vers":"0.0.1","deps":[],"cksum":"3520d5709f58192c4cef7b11363050418a8e2e6028224c72b1c45311c278abdb","features":{},"yanked":false}
+{"name":"geologic","vers":"0.0.2","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef8b7194f73c4e5f0c87e7c629c2aa38abbb0081bc99f119de004fb6434909ea","features":{},"yanked":false}
+{"name":"geologic","vers":"0.0.3","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f69d924bbcb8be4c1f075f49bec4c24e47c49807076b667d0b4ec97a53ff0d8b","features":{},"yanked":false}

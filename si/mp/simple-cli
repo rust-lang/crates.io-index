@@ -1,0 +1,2 @@
+{"name":"simple-cli","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f5b59fb143bc2d48d68e2072e2556cf19d4f831718e5a225c591cfeb670e3942","features":{},"yanked":false}
+{"name":"simple-cli","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f587c80a9e6f70d22de931db8fed21913f869d4c1831168d02959c4ad764cf20","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"virvadb","vers":"0.1.0","deps":[{"name":"rust-ini","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb3b8f86a73f42efabc7d0aa8ce91984c459745720b209fbca4911fd13d90be0","features":{},"yanked":false}
+{"name":"virvadb","vers":"0.1.1","deps":[{"name":"rust-ini","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c31f030ce086b90b6e6d3642036316210829eba50ab2daa6d8c82d95a8949129","features":{},"yanked":false}

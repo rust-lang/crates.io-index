@@ -1,0 +1,3 @@
+{"name":"ld_preload","vers":"0.1.0","deps":[],"cksum":"28853f62286df5b054acfaf3b351c01132b66c5c27adc65d21bb68a5822d8734","features":{},"yanked":false}
+{"name":"ld_preload","vers":"0.1.1","deps":[],"cksum":"920ebc8b62899823ce11aa28a8158ecdbab570aefa4abc536e6d6b99445a55fe","features":{},"yanked":false}
+{"name":"ld_preload","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1f2b67681617e70bf9f7ddd86cfd83fdbb25a84bbae87a1e8c436c30855243f2","features":{},"yanked":false}

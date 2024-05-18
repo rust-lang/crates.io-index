@@ -1,0 +1,3 @@
+{"name":"mqtt-packet","vers":"0.1.0","deps":[{"name":"num-derive","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aabab1528c5ea4bb246fd72a71fa593d6a8dc48356377688d434312d6447a1ca","features":{},"yanked":false}
+{"name":"mqtt-packet","vers":"0.2.0","deps":[],"cksum":"9b9e6e8c5a9576118efe54b12d8e91df9ec31704c26fb84fed5301bbc6f88ebf","features":{},"yanked":false}
+{"name":"mqtt-packet","vers":"0.3.0","deps":[],"cksum":"8c34a85ef990de0cf932bd000642f73651823b5cd67cf1275ece541f5c505a7e","features":{},"yanked":false}

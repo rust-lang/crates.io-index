@@ -1,0 +1,1 @@
+{"name":"inter_mem","vers":"0.1.0","deps":[{"name":"ctor","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9a1ce76d0f735946c564ab48e4b2ce9a54f805ac25f8b621897822b97b20fe7c","features":{},"yanked":false}

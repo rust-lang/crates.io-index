@@ -1,0 +1,2 @@
+{"name":"bank_vault","vers":"0.0.1","deps":[{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e72780e6086abea62100429847591e4758f2778984d1f736f8f3703ab4b18cd0","features":{},"yanked":false}
+{"name":"bank_vault","vers":"0.0.2","deps":[{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f0bfdc08baa6015822611ab3cad615756536f7ad3de00f7a4c52bd6bcebefd0","features":{},"yanked":false}

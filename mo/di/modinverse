@@ -1,0 +1,2 @@
+{"name":"modinverse","vers":"0.1.0","deps":[{"name":"num-integer","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce003725589b388a671226e8307adb20f4fc6fe358b0061a462a1a6d95bd38f8","features":{},"yanked":false}
+{"name":"modinverse","vers":"0.1.1","deps":[{"name":"num-integer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f62f577f148cc1a9466e7065a22e59466a7d537cceba5e77e57181d0f706633","features":{},"yanked":false}

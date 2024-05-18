@@ -1,0 +1,2 @@
+{"name":"fdp-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e8f7f7d150b7d06b305ee24ba84d3a6a77461d4a0a17eb1d7df28295fd92acc6","features":{},"yanked":false,"links":"FDP"}
+{"name":"fdp-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bbdce34eb6f133ba908cac49796a980ad9b0534e8bc54773868dbababdd7fcc3","features":{},"yanked":false,"links":"FDP"}

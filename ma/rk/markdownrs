@@ -1,0 +1,3 @@
+{"name":"markdownrs","vers":"0.1.0","deps":[],"cksum":"b89ba85a3eefcce1461e6e293077f1f17d9864caf21638da0ec9bb950bfac528","features":{},"yanked":false}
+{"name":"markdownrs","vers":"0.1.1","deps":[{"name":"regex","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bc10b43c89b9e81d35e22da20841f68e29f006bb20824776c7473f631f4d5af","features":{},"yanked":false}
+{"name":"markdownrs","vers":"0.1.1-beta","deps":[{"name":"regex","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc66997c8e086d6fd8728897f94ee4a4541bb57664a69d40055e4653888b6463","features":{},"yanked":false}

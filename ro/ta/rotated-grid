@@ -1,0 +1,3 @@
+{"name":"rotated-grid","vers":"0.0.1","deps":[{"name":"opencv","req":"^0.82.1","features":["imgproc","imgcodecs","highgui"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"ba60cdc0c8931e76c5867794da7c1c719f140c265665ea552d62befe21543bea","features":{},"yanked":true,"rust_version":"1.56"}
+{"name":"rotated-grid","vers":"0.1.0","deps":[],"cksum":"a8d934b942012e765a138a9ecfa6f09acf250d17e2d826742b4ca3907f6dea73","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"rotated-grid","vers":"0.1.1","deps":[],"cksum":"b304a34f2eb2b23e88e0125128eeef81cc1bf43b8f5802520be0a7ae7091b175","features":{},"yanked":false,"rust_version":"1.59"}

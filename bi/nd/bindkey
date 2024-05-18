@@ -1,0 +1,1 @@
+{"name":"bindkey","vers":"0.2.0","deps":[{"name":"fnv","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"x11","req":"^2.14","features":["xlib"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3af4a225bed901ebe7118f4e18d867d5c14be7cd564f3afa7da5166917978be7","features":{},"yanked":false}

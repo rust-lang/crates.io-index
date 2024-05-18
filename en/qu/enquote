@@ -1,0 +1,5 @@
+{"name":"enquote","vers":"1.0.0","deps":[],"cksum":"da8f9b936e1d0ba898e6ac97a12ad9f89de656d6c5c0426e0b94259b17095368","features":{},"yanked":false}
+{"name":"enquote","vers":"1.0.1","deps":[],"cksum":"7a0d6a9ea6ce6b85d0284e024f032e6f5e9898943f4b81ac036c1faca08969b4","features":{},"yanked":false}
+{"name":"enquote","vers":"1.0.2","deps":[],"cksum":"a03be43da9e70b4621f9b73ee4682206ba16b79ead9989f6e6e6650fb8a43388","features":{},"yanked":false}
+{"name":"enquote","vers":"1.0.3","deps":[],"cksum":"2ec878a5d2f3b6e9eaee72373dd23414cfc7d353104741471bec712ef241a66e","features":{},"yanked":false}
+{"name":"enquote","vers":"1.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06c36cb11dbde389f4096111698d8b567c0720e3452fd5ac3e6b4e47e1939932","features":{},"yanked":false}

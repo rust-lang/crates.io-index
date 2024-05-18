@@ -1,0 +1,7 @@
+{"name":"tool","vers":"0.1.0","deps":[],"cksum":"44abdd059e88af1e636279bf28df32de8d55ed9e0c20700133805834d653ebdf","features":{},"yanked":false}
+{"name":"tool","vers":"0.1.1","deps":[],"cksum":"ffc8925de6a75ba1c356aeaa24a5641614582a6808f21921098ca2755181d507","features":{},"yanked":false}
+{"name":"tool","vers":"0.1.3","deps":[],"cksum":"93a651a994aa7500313ee583052da9ac9c54764edc636744c00be079639f5046","features":{},"yanked":false}
+{"name":"tool","vers":"0.1.4","deps":[],"cksum":"a1775a26b7f6374f32f7126f22de32e7e59788f99c5fedd1b7e5ba3c6c8aa7bc","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"tool","vers":"0.1.5","deps":[],"cksum":"cfa4fb35c4fc7ec79e3573105de87b4f6c71d8800d4161070b3950e5982cf294","features":{"default":["use_std"],"unstable":[],"use_std":[]},"yanked":false}
+{"name":"tool","vers":"0.2.0","deps":[],"cksum":"0a379f324041a78d711c2244ab70518013e02c3a3f89d785f903caf90d008b3f","features":{"default":["use_std"],"unstable":[],"use_std":[]},"yanked":false}
+{"name":"tool","vers":"0.2.1","deps":[],"cksum":"83a6cfb761df758cd8419ca6645bd51dd0616f5e3868f6707f0af765a693bd9e","features":{"default":["use_std"],"unstable":[],"use_std":[]},"yanked":false}

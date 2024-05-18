@@ -1,0 +1,3 @@
+{"name":"bak","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a2bf85f10ae969f84421d259f7485450b2edf9c1534e9a5429fa03ecfabe9043","features":{},"yanked":false}
+{"name":"bak","vers":"1.0.1","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fde58ea0a75e29d2007b92bad2b91ed0304874a63e79e33a3c6eae008193ff7f","features":{},"yanked":false}
+{"name":"bak","vers":"2.0.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38bab4683d31a9d67900b948dc90d320330264fef4702680de3507459fd53c9e","features":{},"yanked":false}

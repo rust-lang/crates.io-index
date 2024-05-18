@@ -1,0 +1,1 @@
+{"name":"ergo_sys","vers":"0.0.1","deps":[{"name":"ctrlc","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11525fa32151da5f4ad2c7b9f65b73f2d728726bc59e110826663ef88f37bbb7","features":{},"yanked":false}

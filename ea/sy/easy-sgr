@@ -1,0 +1,10 @@
+{"name":"easy-sgr","vers":"0.0.1","deps":[],"cksum":"ed9bb5d6b7c51619e4f0dea0bc268219fa117553111f66cc6dc1450673219853","features":{},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.2","deps":[],"cksum":"6f74188111d0768d30641c5abeebb429e0f6f838bca9aa3b040093523632323a","features":{},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.3","deps":[],"cksum":"992bd3fb20c98137c4fee746fc214700a03291e9c4b6bf46e412813bdd2ebc9b","features":{"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.4","deps":[],"cksum":"17d9453676af12c192d8be8405cc5894668d3d00e020c2874042948c382febfc","features":{"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.5","deps":[],"cksum":"942a5661a01c082e7a0cfdbb6004d11e188b419692e00176d456dc77779cf498","features":{"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.6","deps":[],"cksum":"e12a49fc810ebd416c013cf0a44c3ba5b7c1112b309262eba4004d546a266a28","features":{"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.7","deps":[],"cksum":"a757583211fb7b51833589bd8575250097000b801e113414a6f63992996d8e6f","features":{"from-str":[],"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.8","deps":[],"cksum":"cd49abba7c1fad5ef50576bef11fd7deb36dfde477a33e49d8c7896ea5dfa47f","features":{"from-str":[],"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.1.0","deps":[{"name":"easy-sgr-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb7c58405780fd18f9f0054b400e87baeeb2f56f6782f52891e6f168bd440d98","features":{"from-str":[],"macro-only":["macros"],"partial":[]},"features2":{"macros":["dep:easy-sgr-macros"]},"yanked":false,"v":2}
+{"name":"easy-sgr","vers":"0.1.1","deps":[{"name":"easy-sgr-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb430fafec36fc5672c71109a4684889e8d20e3e7b992fc491602077cb683f02","features":{"from-str":[],"macro-only":["macros"],"partial":[]},"features2":{"macros":["dep:easy-sgr-macros"]},"yanked":false,"v":2}

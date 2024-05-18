@@ -1,0 +1,2 @@
+{"name":"embassy-usb-driver","vers":"0.0.0","deps":[],"cksum":"5f209521e3716956a043b0670d58c51720c86670312bc16d44e08e57c1cab803","features":{},"yanked":false}
+{"name":"embassy-usb-driver","vers":"0.1.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fc247028eae04174b6635104a35b1ed336aabef4654f5e87a8f32327d231970","features":{},"yanked":false}

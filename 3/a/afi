@@ -1,0 +1,9 @@
+{"name":"afi","vers":"0.1.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8edd21a2e205dfdee2f79e7c3ee01a9536c2aeb052d5a26a1f933772ba84695a","features":{},"yanked":false}
+{"name":"afi","vers":"0.2.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc7afa9c70350656a3516a6ee37df4cd7a8946f3bec2eb54aa5288517f9b77e5","features":{},"yanked":false}
+{"name":"afi","vers":"0.3.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4c07f2f16cbc2979113a56b3ef9dcbeae962ae0e8227f94e95301b5a64a3d1","features":{},"yanked":false}
+{"name":"afi","vers":"0.3.1","deps":[],"cksum":"d1198202cda4915831b047e98232fdad02e7a66842f1ebd0bbd8fc5b19698308","features":{},"yanked":false}
+{"name":"afi","vers":"0.3.2","deps":[],"cksum":"8ba9397dbb156e32ee55795cfbcbbf1a0f9f159152fcdfbabac771b2677b0015","features":{},"yanked":false}
+{"name":"afi","vers":"0.4.0","deps":[],"cksum":"924c035b2976b65b80287ca4018fbbc80220414667e84295608ff5eea235ab54","features":{},"yanked":false}
+{"name":"afi","vers":"0.5.0","deps":[],"cksum":"2f55a644dad5773df69c10196a5617b318d26ebc5a0b8218ce83c8670112476a","features":{},"yanked":false}
+{"name":"afi","vers":"0.7.0","deps":[],"cksum":"939ae70009675da19399e2a704acbfb487ccc1af2281e9394c106e577bbc85dd","features":{},"yanked":false}
+{"name":"afi","vers":"0.8.0-pre0","deps":[],"cksum":"ba60f765742c7b4cdcb1ad7da27c877d3d454c55736fe430f131663bf916e0bf","features":{},"yanked":false}

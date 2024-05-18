@@ -1,0 +1,2 @@
+{"name":"limit_read","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"379bedb6235d2d12914a50d0d3414b861ecac63753bddf77aacc1336c92d10e2","features":{},"yanked":false}
+{"name":"limit_read","vers":"0.2.0","deps":[{"name":"memchr","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4469fe160599ac284fa43e8b2bc76ecee65cc7d4da283662f58f4fbc7b32df3","features":{},"yanked":false}

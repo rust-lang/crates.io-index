@@ -1,0 +1,1 @@
+{"name":"vmf","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac1cf07a3d6fd6d8280f4e9e05a1e35824d50c9b461d7b56976a1ec424f3bacc","features":{},"yanked":false}

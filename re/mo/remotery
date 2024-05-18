@@ -1,0 +1,2 @@
+{"name":"remotery","vers":"0.1.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"658e422cd51fe8c3a961d03b7090df23b56da006ea439781fcb22ea98df8c2a7","features":{},"yanked":false}
+{"name":"remotery","vers":"0.1.2","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9cf4d22bde78036b250a31ef14764438af7520b305b5c262684cca2c51a04f9b","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"sims-far","vers":"1.0.0","deps":[],"cksum":"88d16b6e63df6c11710a5a09fea15125429276d6fab933ae2387a055fb49a4bb","features":{},"yanked":false}
+{"name":"sims-far","vers":"1.1.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff651cae50107ecb8d2051e42bb42119a2ce1242e0fbe361a86260ef56b23b50","features":{},"yanked":false}
+{"name":"sims-far","vers":"1.2.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0325ef74aa1c96542dac8b854df5fd8df3461dec881d68352ac24fde759b4bfe","features":{},"yanked":false}
+{"name":"sims-far","vers":"1.3.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83a3e17a4e096862cfdd4a3fc8732c8811f143fd527cca9f359bbcdfb7fed26d","features":{},"yanked":false}

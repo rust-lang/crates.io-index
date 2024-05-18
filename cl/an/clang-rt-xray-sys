@@ -1,0 +1,1 @@
+{"name":"clang-rt-xray-sys","vers":"0.0.1","deps":[],"cksum":"53b9e09b526786f88fe0bca245c42a235f0ee3349b113b7836e744e8c72b357e","features":{"basic":[],"default":["basic","fdr"],"fdr":[]},"yanked":false,"links":"clang_rt.xray","rust_version":"1.69.0"}

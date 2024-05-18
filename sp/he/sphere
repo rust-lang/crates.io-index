@@ -1,0 +1,3 @@
+{"name":"sphere","vers":"0.1.0","deps":[],"cksum":"92e298d03d31d0ba1da6d77c93cde0db239da7d785159920bd7dfb1e2c5301eb","features":{},"yanked":false}
+{"name":"sphere","vers":"0.2.0","deps":[{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"632d234e8ca5dd8e280c2128151a64f68ea3f5ee58b8631766d5c6b3ce2e1e72","features":{},"yanked":false}
+{"name":"sphere","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c885bc8aa80671a685052c600fdd7c799fe254f7194ebb202c226f1fadd2a260","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"schmfy","vers":"0.1.0","deps":[],"cksum":"9250f38131044f00dc302af28c08a2e121b47c6cf2ad614859604128f002c428","features":{},"yanked":false}
+{"name":"schmfy","vers":"0.1.1","deps":[],"cksum":"4c61d72da9ef0aed4dbf5ed4d312d3b15733b1e862295af1a6660c4202a2b416","features":{},"yanked":false}
+{"name":"schmfy","vers":"0.2.0","deps":[],"cksum":"397fd51f89255cb054de7f63fec096ba636f0972bf31d168fe17dd0a05ad5e0c","features":{},"yanked":false}
+{"name":"schmfy","vers":"0.2.1","deps":[],"cksum":"a258529f4dfcece66eff7179d53246cdf5eab89acf586d76ec129b13ab827f0c","features":{},"yanked":false}
+{"name":"schmfy","vers":"0.2.2","deps":[],"cksum":"f9e4bd2cb55ecd9dd9dd7932762ffbb8537ceecf3ebc45877b54175d66b0cdc0","features":{},"yanked":false}
+{"name":"schmfy","vers":"0.3.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01fed52e87149da2109e4b8ea44442e3ff0ecf737a089682f5772b1666c84cfc","features":{},"yanked":false}

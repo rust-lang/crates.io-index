@@ -1,0 +1,5 @@
+{"name":"hex-slice","vers":"0.1.0","deps":[],"cksum":"25af315558525036ed693b483e8218aa5dbb8aa9a1a825570a2d2fa356540de0","features":{},"yanked":false}
+{"name":"hex-slice","vers":"0.1.1","deps":[],"cksum":"e115e3cacbe3a72ce36571148e9e0ee177863db104f29ed889637c95c5a33e56","features":{},"yanked":false}
+{"name":"hex-slice","vers":"0.1.2","deps":[{"name":"suppositions","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"839068f4e2a7e9dc421aac6b8a4bfe022c56124b8ab57e43aad019143fa0a7e2","features":{},"yanked":false}
+{"name":"hex-slice","vers":"0.1.3","deps":[{"name":"suppositions","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5388167b35f5785add2ff58f91441ffc8b054ed01b8f51d48630edc52f15aff0","features":{},"yanked":false}
+{"name":"hex-slice","vers":"0.1.4","deps":[{"name":"suppositions","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5491a308e0214554f07a81d8944abe45f552871c12e3c3c6e7e5d354039a6c4c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"wuffs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"226427f9a3b4fff39da0a25b43596b3eb692ad875704c964d7a01aa5b67f5c08","features":{},"yanked":false}

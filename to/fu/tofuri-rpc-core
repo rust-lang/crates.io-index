@@ -1,0 +1,1 @@
+{"name":"tofuri-rpc-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8366e50f6f19c7a61d237601682ae2aaf66b3aab017ec6d0efa5efb21cce9be3","features":{},"yanked":false}

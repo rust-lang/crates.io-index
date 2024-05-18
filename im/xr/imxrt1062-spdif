@@ -1,0 +1,2 @@
+{"name":"imxrt1062-spdif","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"200127affd7d0b0e57fce8507dd3ccf125f97255be0dd2ec6ddfd103cbed6d26","features":{},"yanked":false}
+{"name":"imxrt1062-spdif","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcd7fb14f1e890313178d841df4c0a7d88a72fb3bcdd6fe9ebcbda2d224fce6b","features":{},"yanked":false}

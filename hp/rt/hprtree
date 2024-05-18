@@ -1,0 +1,3 @@
+{"name":"hprtree","vers":"0.1.0","deps":[],"cksum":"fe2e7672a0c950bfaf644bab083ecef5650db27e38a1a4bfa2a8711cfe7baa8b","features":{},"yanked":false}
+{"name":"hprtree","vers":"0.2.0","deps":[],"cksum":"64501aeefb59d4ca6081e66d248581576556ed43b53930b3f38de657499d6945","features":{},"yanked":false}
+{"name":"hprtree","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"350d671c183fdf1fe9a0389d20feb9d2cde5378304d119840bf8b6ad33c68c84","features":{},"yanked":false}

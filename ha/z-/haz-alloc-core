@@ -1,0 +1,5 @@
+{"name":"haz-alloc-core","vers":"0.1.0","deps":[{"name":"haz-alloc-internal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"810b4d6b148ca3e292d67c960d544e1a859ee96f576e430171de396f386f2a62","features":{},"yanked":false}
+{"name":"haz-alloc-core","vers":"0.1.1","deps":[{"name":"haz-alloc-internal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3ce51ff7a938d4f46c26b4d0d6ec67b12924743b166b5ac9ac65ea98b931c0b","features":{},"yanked":false}
+{"name":"haz-alloc-core","vers":"0.2.0","deps":[{"name":"haz-alloc-internal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5615d905de5dd72eb0c4573703d907a0b266f25e3cd48bfc3133a173825c33e","features":{},"yanked":false}
+{"name":"haz-alloc-core","vers":"0.3.0","deps":[],"cksum":"c39d6b65602b67a7283ff217ce172983a9a82d55d0d1052792e589b2dc97f1df","features":{},"yanked":false}
+{"name":"haz-alloc-core","vers":"0.4.0","deps":[],"cksum":"49c89b76db6d519e1f80402e6971f14c4455b1fb8c9a41e71f7a85c2aa60dbd6","features":{},"yanked":false}

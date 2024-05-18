@@ -1,0 +1,1 @@
+{"name":"lock_ordering","vers":"0.1.0","deps":[{"name":"trybuild","req":"^1.0.85","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54ecdc04f803dd8bc6a54838d8885d6ff1c40c99704cd4e6be6b74d64f492129","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"shared_bytes","vers":"0.1.0-beta.4","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"936ee68cc28aae3c9ef20548f309587a1061167f9b071f76cc55563b78769e19","features":{"unstable_feature_no_unsafe_optimizations":[],"unstable_feature_unsafe_optimizations":[]},"yanked":false}

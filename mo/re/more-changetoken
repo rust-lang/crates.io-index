@@ -1,0 +1,2 @@
+{"name":"more-changetoken","vers":"1.0.0","deps":[],"cksum":"3e2cb05bdbaca6daeed7677f6b35c86e19a3ab049522fcbc3fcef437df4b16ec","features":{},"yanked":false}
+{"name":"more-changetoken","vers":"2.0.0","deps":[{"name":"notify","req":"^6.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09be8d72f07f2cbf2a27b70fcd0acddf66c7a3d596ca2f499d1fdcce514feb38","features":{"fs":["notify"]},"yanked":false}

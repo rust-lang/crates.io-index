@@ -1,0 +1,1 @@
+{"name":"rust-xcb-wm","vers":"0.1.0","deps":[{"name":"xcb","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceb077d35d316a951cb66761c4795a6bfd846690e412bc0ccbb1a11dbfa93155","features":{"ewmh":[],"icccm":[]},"yanked":true}

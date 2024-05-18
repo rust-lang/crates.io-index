@@ -1,0 +1,5 @@
+{"name":"regorust","vers":"0.3.5","deps":[],"cksum":"b68c7cbfe6c17da073d746df1dd134151bc547c41e066ccb2e05c7f76c2ce1a1","features":{},"yanked":false}
+{"name":"regorust","vers":"0.3.8","deps":[],"cksum":"1fec3cb615e4a9f41f35b6b1c8fe42ef189c36f647405e4b10c45ebf6406b9d0","features":{},"yanked":false}
+{"name":"regorust","vers":"0.3.9","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2e911382ce562c3558b93f0f6cdee0e21dc49077c708fc476047d3db95c7f5dd","features":{},"yanked":false}
+{"name":"regorust","vers":"0.3.10","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bb882f50afd2cf107ca19f17bfabc0fde72c51a4c6c55d565ed49e45014eb01c","features":{},"yanked":false}
+{"name":"regorust","vers":"0.3.11","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9467889deb4ca6931aac0659429728282154b62826b18837cc1a4a4555879e6c","features":{},"yanked":false}

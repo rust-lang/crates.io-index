@@ -1,0 +1,3 @@
+{"name":"catalog","vers":"0.1.0","deps":[],"cksum":"2e42a5ed0f4e4edfa52c796981642d4a7d15cba00abe673c58cccde2de34cd17","features":{},"yanked":true}
+{"name":"catalog","vers":"0.1.1","deps":[],"cksum":"f647b39fb5b8f80caf8234f3f9ab7381eb3b16d1c556b259cae677ed859fe227","features":{},"yanked":true}
+{"name":"catalog","vers":"0.1.2","deps":[{"name":"siphasher","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aaab1cc9ea2b799a71ccf97f4b8eacda1e1bb651be1327753dd5ab7cf423748","features":{},"yanked":true}

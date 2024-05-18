@@ -1,0 +1,1 @@
+{"name":"from_hashmap","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c15a7b40b2de7153b4b65e96828917a488e07cdd1229504c985cdb723f53da8d","features":{},"yanked":false}

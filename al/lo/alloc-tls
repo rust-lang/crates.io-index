@@ -1,0 +1,2 @@
+{"name":"alloc-tls","vers":"0.1.0","deps":[{"name":"alloc-fmt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95f5e46b480685f286f767d5a259de02439aefffb222e845ce8c2b17d0205531","features":{"dylib":[]},"yanked":false}
+{"name":"alloc-tls","vers":"0.2.0","deps":[{"name":"alloc-fmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"267129294c12f75f5005b1f3571e0a8e30d0b43289405963c89b3fb44a6b82f4","features":{"dylib":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"libarchive-sys","vers":"0.0.1","deps":[],"cksum":"2daf57a34570be121383b10c917bae18dcffa654a706c939d7edbed5390e8636","features":{},"yanked":false}
+{"name":"libarchive-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12ba9db7c33125bfc626e48f8383b8c3126b614e40acb84211f71c30eeab55a8","features":{},"yanked":false}

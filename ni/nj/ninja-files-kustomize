@@ -1,0 +1,2 @@
+{"name":"ninja-files-kustomize","vers":"0.1.0","deps":[{"name":"ninja-files","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb0621aefaccb921fccdce9d00e90cd58b9f40295e96e5ed23210ddb93f8d3ad","features":{},"yanked":false}
+{"name":"ninja-files-kustomize","vers":"0.2.0","deps":[{"name":"ninja-files-data","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1ce500fa06296d68c31016206903c5ea00a29b1837e80ad1923019fdb7a29b1","features":{},"yanked":false}

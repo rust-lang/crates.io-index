@@ -1,0 +1,4 @@
+{"name":"calc_mjp","vers":"0.1.0","deps":[],"cksum":"4c251f9986459c2851e20218993d6ba589fc4cffc0e29da9a0e6d3bada684109","features":{},"yanked":false}
+{"name":"calc_mjp","vers":"0.2.0","deps":[],"cksum":"b0c02ed694e00398355a8516c1f661e8a6d9deac87d1ffbe3143ad290afd02ad","features":{},"yanked":false}
+{"name":"calc_mjp","vers":"1.0.0","deps":[],"cksum":"06d9d50f02b24bddba051ea578205752cf3de1c29a32eec0023ec270492a403a","features":{"all":["calc","say"],"calc":[],"default":["calc"],"say":[]},"yanked":false}
+{"name":"calc_mjp","vers":"1.1.0","deps":[],"cksum":"2364eedcee5177c9a883f2b67c6b60c8f3dda9d23bb118956e644dc2d16823b5","features":{"all":["calc","say"],"calc":[],"default":["calc"],"say":[]},"yanked":false}

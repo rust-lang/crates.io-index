@@ -1,0 +1,4 @@
+{"name":"macro_env","vers":"0.1.5","deps":[],"cksum":"becfc7e75f3172e018493c15804c60a1186d0ded551980c073dd7b749ad9e9d2","features":{},"yanked":false}
+{"name":"macro_env","vers":"0.1.6","deps":[],"cksum":"eca96c2046aaf326f2efb2e2ef0b98faead10f67b10d57e2c04b2d0a3684f41c","features":{},"yanked":false}
+{"name":"macro_env","vers":"0.1.7","deps":[],"cksum":"ec0b0992ac20cb32d031e1b47f738ecb44b1d67137ee0434bf98fa5140820cfa","features":{},"yanked":false}
+{"name":"macro_env","vers":"0.1.8","deps":[{"name":"ron","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dca479c22a4ced0a4a9917f8839c35e83628fe81956cbbe651b4b677a7320513","features":{},"features2":{"typed":["dep:ron","dep:serde"]},"yanked":false,"v":2}

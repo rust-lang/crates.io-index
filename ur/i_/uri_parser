@@ -1,0 +1,2 @@
+{"name":"uri_parser","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1222896ed70fe73a9c11c8f13171ea0c7950a48806c37e22c5db080f71c897e","features":{},"yanked":false}
+{"name":"uri_parser","vers":"0.2.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba0090ecd7c64b69e546cda222b4b331877a0e1624a2a39a19e6ea4df29a33f9","features":{},"yanked":false}

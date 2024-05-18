@@ -1,0 +1,3 @@
+{"name":"token-tree","vers":"0.0.73015087","deps":[{"name":"expect-test","req":"^1.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.139","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2789b0e2f1dd2cb019eaed3a4a78cd66231ad282d7a6bc53a37db4a1f0b1f026","features":{"dev-dependencies":["serde/derive","expect-test"]},"yanked":true}
+{"name":"token-tree","vers":"0.0.0--","deps":[],"cksum":"3a541a81f74608bfca948522429e1efe90c377a9b9b06b6694f95754505eea4a","features":{},"yanked":true}
+{"name":"token-tree","vers":"0.0.0-r0","deps":[],"cksum":"e81db430c16187d4de179c36859a976f676914e391a0351ca2ec948701077b1c","features":{},"yanked":false}

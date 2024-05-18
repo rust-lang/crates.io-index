@@ -1,0 +1,2 @@
+{"name":"cuda-rs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e044bc9003ae432ab73e9cc1dca9f6a33aeb04407e5064a5332d761490017268","features":{},"yanked":false}
+{"name":"cuda-rs-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5122ce862cf63da5d2a42e789f36a1714d4fd7df4738379f0fa080671a6266a0","features":{},"yanked":false}

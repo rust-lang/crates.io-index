@@ -1,0 +1,2 @@
+{"name":"zsh-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"be4aab6170df21273668770b089ce3ab50eb0a9c7b57f8f3036c07a2018d1c74","features":{},"yanked":false}
+{"name":"zsh-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"79250f9ccdea60707c85ac21cb346cebd537354fe3d7837f1d17e892895bb469","features":{},"yanked":false}

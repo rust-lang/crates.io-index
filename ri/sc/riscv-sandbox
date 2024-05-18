@@ -1,0 +1,2 @@
+{"name":"riscv-sandbox","vers":"0.1.0","deps":[],"cksum":"27a2185d268a141cb13b80346b5aff7449b068ae23e341fd574a13ac1ddd1d97","features":{},"yanked":false}
+{"name":"riscv-sandbox","vers":"0.2.0","deps":[{"name":"bitvec","req":"^0.15.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"elf","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40c7ff7a88f5b6d04b5b67597ec2c93f66f64b8c1e8e88f908aabb8bd87d961d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"curve25519-compact","vers":"2.0.0","deps":[{"name":"ed25519-compact","req":"^2","features":["random","std","x25519","disable-signatures"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"27f81f0a9c52e559f997122318e9f2b0a12894919d16ee60ac62244bd10e8f77","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"film-vault","vers":"0.0.1","deps":[{"name":"termion","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tui","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fd238284bcc881911119825f828c198e04eb3a714928f9b0f7061eacce3ffd2","features":{},"yanked":true}

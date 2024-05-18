@@ -1,0 +1,1 @@
+{"name":"redi-rs","vers":"0.1.0-alpha.0","deps":[{"name":"tokio","req":"^1.27.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c95b66c4ff0a6450507058b9535192120867bfa5be9596743d0f6f0375c5078","features":{},"yanked":false}

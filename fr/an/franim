@@ -1,0 +1,1 @@
+{"name":"franim","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"0a548f369f3b4df661b87f939a9e225d37fba67f69dd4df844379b9088074825","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74"}

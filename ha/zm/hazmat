@@ -1,0 +1,2 @@
+{"name":"hazmat","vers":"0.0.0","deps":[],"cksum":"68f2777cfd198ee21518f0f882e77de7c8aced204513c97a3184f8d70cfa152c","features":{},"yanked":false}
+{"name":"hazmat","vers":"0.1.0","deps":[{"name":"hazmat-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"defa4c0d87615edb88f82bcf410400ab808bcdb3a41e11e3a9ed6c61262d9230","features":{},"yanked":false}

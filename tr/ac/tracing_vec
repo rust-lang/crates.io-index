@@ -1,0 +1,2 @@
+{"name":"tracing_vec","vers":"0.1.0","deps":[],"cksum":"9949d2e9528dd5a1db82c456e21ffd891beede6912694aad09d32d726c7e2a30","features":{},"yanked":false}
+{"name":"tracing_vec","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e746458066a0a379d575248bb06f8ffda67a7cf5c8f1a7e12edbdbc258e1c61","features":{},"yanked":false}

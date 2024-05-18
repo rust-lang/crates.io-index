@@ -1,0 +1,2 @@
+{"name":"theater","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05199eb336615bd47c5daf9d4e436cebb6434f72755217f84700c50547c2e1d8","features":{},"yanked":false}
+{"name":"theater","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c96a8b72240e9283c1b5283a74229b927e3beb91e393dcdef46b33ebc807dc9","features":{},"yanked":false}

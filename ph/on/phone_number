@@ -1,0 +1,2 @@
+{"name":"phone_number","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc9f6bcbfb42f8a4c13c8ae4073cae502d1e89f6ff5093384c1e871b52149738","features":{},"yanked":false}
+{"name":"phone_number","vers":"0.1.1","deps":[{"name":"regex","req":"^1.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12dcd9656770e278739e80061374e7c61fd676eb4481a2e6e19ee6a29cbd19bb","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"a_chat","vers":"0.1.0","deps":[{"name":"async-std","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc02795586a841075cfc2ace48fcdbf9e181be64dddd0b5f43b2510878ab2495","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"msg","vers":"0.1.0","deps":[{"name":"io-synesthesist","req":">= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a098572e0d03f9d10995ab0355f5b383e7fe736cf3bd20d6752efb2be8727fb8","features":{},"yanked":false}
+{"name":"msg","vers":"0.1.1","deps":[{"name":"io-synesthesist","req":"> 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afd5e70f68c3504344212938b2a41a6c299444f00ccb1dded0b4f26ffaf55cc4","features":{},"yanked":false}

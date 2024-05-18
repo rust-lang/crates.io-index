@@ -1,0 +1,5 @@
+{"name":"nacafoil","vers":"0.0.1","deps":[],"cksum":"db6c2ddea19fdc1204f8cdbfd3c91b2dff83ae7ca61afee4a30ad1033ab87325","features":{},"yanked":false}
+{"name":"nacafoil","vers":"0.0.2","deps":[],"cksum":"1fedd9ec7a72b0e654b06087a041a7d59fbb4c9737b51507ec5e33f7d4e24d04","features":{},"yanked":false}
+{"name":"nacafoil","vers":"0.0.3","deps":[],"cksum":"cb927a3e8c17623de190dd266e1fb083c8fc7c4fd0025dc1190b760980a3fde3","features":{},"yanked":false}
+{"name":"nacafoil","vers":"0.0.4","deps":[],"cksum":"0e149db94ac547d9dd910e042f5d25bdb8f4114e939068c4d3cad42c102b0014","features":{},"yanked":false}
+{"name":"nacafoil","vers":"0.0.5","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1740b911e865d5b6b26f732bdb8d0d447d67105fc5c19427206a4d9f3b507367","features":{},"yanked":false}

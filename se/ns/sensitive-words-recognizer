@@ -1,0 +1,2 @@
+{"name":"sensitive-words-recognizer","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a1eb3e2ab0ab7e59ab62707fe429f4290ce2c9efe696eb6a59f421cebb38426","features":{},"yanked":false}
+{"name":"sensitive-words-recognizer","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2252738c4acd4a6a3002c66e6143265f32e4076f0cb8644376e2b882665da2e7","features":{},"yanked":false}

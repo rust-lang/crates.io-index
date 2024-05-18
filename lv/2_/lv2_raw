@@ -1,0 +1,2 @@
+{"name":"lv2_raw","vers":"0.1.0","deps":[{"name":"libc","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2422a55b267c25b68f0a60f2c4168fe68566e5a16fe9762d855fe5d7854c1231","features":{},"yanked":false}
+{"name":"lv2_raw","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"573ce7231f64fe795ad80134913f88f2e7f7f550527f6bd54d690a56cabf6a48","features":{},"yanked":false}

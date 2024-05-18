@@ -1,0 +1,1 @@
+{"name":"tinyinst","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cxx","req":"^1.0","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a6dd863cdea9a7d9032aadab809b0d9a7b5dc11527efb8d8e00e2fd905febbed","features":{},"yanked":false}

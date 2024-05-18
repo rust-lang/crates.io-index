@@ -1,0 +1,2 @@
+{"name":"dirinfo","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02cf61ab7c42269fbd4c659a593d62e9ead4d4247501ac26ec94312c0f32f9a2","features":{},"yanked":false}
+{"name":"dirinfo","vers":"0.1.1","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d9555f3037cfb278ac0a0dbbde955ce1fa8c93ad346c449ba789c45571b521f","features":{},"yanked":false}

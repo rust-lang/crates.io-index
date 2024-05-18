@@ -1,0 +1,1 @@
+{"name":"rust-hdl-bsp-colorlight-i5","vers":"0.45.1","deps":[{"name":"rust-hdl","req":"^0.45.1","features":["fpga"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"468a52268e7b22187d5d80ef74c77821aee9efc0f505acbe34c09e0ed6e7e241","features":{"default":[],"yowasp":[]},"yanked":false}

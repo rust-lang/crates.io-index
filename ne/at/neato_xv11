@@ -1,0 +1,2 @@
+{"name":"neato_xv11","vers":"0.1.0","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87116a3e589f8b121af03d01582ed359f7e705ee6c3e5b8a116dd0a0489efb5","features":{},"yanked":false}
+{"name":"neato_xv11","vers":"0.1.1","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5afb677e35f097155a9f9b9163f04b664ca7c3331aeb2354da093183149eb5e","features":{},"yanked":false}

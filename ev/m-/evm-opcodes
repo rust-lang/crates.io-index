@@ -1,0 +1,4 @@
+{"name":"evm-opcodes","vers":"0.0.0","deps":[],"cksum":"260c6d63602c16b4f4dcf4e60f10d02c5e963bab286fa35c5b9e35e439373313","features":{},"yanked":false}
+{"name":"evm-opcodes","vers":"0.0.1","deps":[{"name":"paste","req":"^1.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eac8088331187fa3b2c3526d8cbe055dacf2baba60252718bb1e28af4428b2e","features":{},"yanked":false}
+{"name":"evm-opcodes","vers":"0.0.2","deps":[{"name":"paste","req":"^1.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"951d7226f3dd5924aaad0f540e9433d355a3dd84d1a7b16adeb4535ce0c1cdde","features":{},"yanked":false}
+{"name":"evm-opcodes","vers":"0.0.3","deps":[{"name":"paste","req":"^1.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493e8181d3c20e2ef34777cb1f5d054473a90536de452c0c1349dfc67f29462a","features":{"data":[]},"yanked":false}

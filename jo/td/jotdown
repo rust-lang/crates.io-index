@@ -1,0 +1,7 @@
+{"name":"jotdown","vers":"0.1.0","deps":[],"cksum":"791cdfc00394bec07a92cf16f4b54b653a62307d17f42ddb671b0401f8f84281","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.2.0","deps":[],"cksum":"784bf7de67dfc6d515d3914d634fa00717e78449c0db9c6595c8658ce7868798","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.2.1","deps":[],"cksum":"e232aa61bd899d6142f01480d5622c7f3edb82fe29cd1f6c9ed3a462219916f3","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.0","deps":[],"cksum":"be33e29076e69562dc112ca75cd66d73a0dc5bfc2f574a7c244fe54e71cdae25","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.1","deps":[],"cksum":"5938b87183859cce45256f89ba9be880cc1fc7e70e08d43ea04da4dc6edf6063","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.2","deps":[],"cksum":"d3c1b81e2665d2cf501a82c93164caf3f56919d73611e8d53340ba352912c996","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.4.0","deps":[],"cksum":"dc48414793f0d595fb9ae4af25145ec3f30a4eee0750537c86a6ec8f6b1ffc03","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}

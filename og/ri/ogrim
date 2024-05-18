@@ -1,0 +1,2 @@
+{"name":"ogrim","vers":"0.1.0","deps":[{"name":"ogrim-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6de9a8f5658ca59ffe6e7a18b98bd49f3b648bc6ea472642285f366fbf49b806","features":{},"yanked":false,"rust_version":"1.72"}
+{"name":"ogrim","vers":"0.1.1","deps":[{"name":"ogrim-macros","req":"=0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a9f13f20f041c757ade45879cb9c8a2f7fa069f7f106c1683436ace5f975b4","features":{},"yanked":false,"rust_version":"1.72"}

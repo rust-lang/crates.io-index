@@ -1,0 +1,4 @@
+{"name":"lumus-sql-builder","vers":"0.1.0","deps":[],"cksum":"acd924b5e989aa7e6998c093f7e373fdf02d6a4fade8112abfd6e4f6152d0044","features":{},"yanked":false}
+{"name":"lumus-sql-builder","vers":"0.1.1","deps":[],"cksum":"0936545d8807440b10079d23a08d0cfc79732503d45fd991bb1a88967ed84bfe","features":{},"yanked":false}
+{"name":"lumus-sql-builder","vers":"0.1.2","deps":[],"cksum":"b08a3605e744a698ca4b86d094af71698f2bc242a2d2707ff36d005cd9860708","features":{},"yanked":false}
+{"name":"lumus-sql-builder","vers":"0.1.3","deps":[{"name":"sqlite","req":"^0.34.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"420aff6bef814e3a9536b38a93d22b5d52ac41208f9a715fe6fc3a23dc35b18f","features":{},"yanked":false}

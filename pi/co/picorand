@@ -1,0 +1,4 @@
+{"name":"picorand","vers":"0.0.0","deps":[],"cksum":"1f8b1b26412ce4f01675cada76390e976f00031e9926377f48c68b75de641773","features":{},"yanked":false}
+{"name":"picorand","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7975930c5e4da17f72712df2846c4023e5e919890bdec39d79c1e8568f53194a","features":{},"yanked":false}
+{"name":"picorand","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b6fc30519d2508c7e20e01da371cd27b1d4533fdb98e279955cb636b50210688","features":{},"yanked":false}
+{"name":"picorand","vers":"0.1.2","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb6aac40f95a2bda51922f2eb54fbf81959917307d9d2c66896fb789fe2402a6","features":{},"yanked":false}

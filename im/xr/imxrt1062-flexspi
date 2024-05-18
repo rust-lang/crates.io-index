@@ -1,0 +1,2 @@
+{"name":"imxrt1062-flexspi","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74b8e458bafd1f0b66434a871d6735f87bb106c2762f2ec6f6c8b2682ac3abe0","features":{},"yanked":false}
+{"name":"imxrt1062-flexspi","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8ab912e3b71a640a3d69bc47ff6a4ae5f8874cc565b465d23eccc52b949e3e","features":{},"yanked":false}

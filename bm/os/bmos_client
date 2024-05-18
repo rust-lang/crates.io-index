@@ -1,0 +1,2 @@
+{"name":"bmos_client","vers":"1.0.0","deps":[{"name":"json_minimal","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdf9d6d1482d32f6db9775344e4776edc699140c8f5645bab08bfb803891cc01","features":{},"yanked":false}
+{"name":"bmos_client","vers":"1.0.1","deps":[{"name":"json_minimal","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de7205b4d30cf07045227aa448a6a042515ca35d8170c9885ecca715a5f82056","features":{},"yanked":false}

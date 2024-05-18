@@ -1,0 +1,1 @@
+{"name":"thalia","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b24d673e0fc0afd1c9c07ac1bcd87351d30c547073a50df1eb0f7188a8daf6bb","features":{},"yanked":false}

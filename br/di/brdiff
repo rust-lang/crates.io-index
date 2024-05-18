@@ -1,0 +1,2 @@
+{"name":"brdiff","vers":"0.1.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54d40834382a52b76975ec5479e94cbdaeaef44410bbe5f08c6da9aaea9e9fd8","features":{},"yanked":false}
+{"name":"brdiff","vers":"0.2.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4736bbf60b994d120ed1e1f3da5c6e0b6751accd3a13a712733300f7e5580562","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hotboot","vers":"0.1.0","deps":[{"name":"openssl","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f07ce7020d929967c6ac4075f89ad775f779df580148eda183ebbcf4991bedb","features":{},"yanked":false}
+{"name":"hotboot","vers":"0.1.1","deps":[{"name":"openssl","req":"^0.10.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d92a3a555556f8b95da337cdf10a0beae037115e93509af8d2a417f1e74fa1ed","features":{},"yanked":false}

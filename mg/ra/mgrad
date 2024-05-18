@@ -1,0 +1,1 @@
+{"name":"mgrad","vers":"0.1.0","deps":[{"name":"color_space","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"png","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8739fcde9fad74dae8377cbd3523fe959eb1f9f948e0215f7228418f08d619c7","features":{},"yanked":false}

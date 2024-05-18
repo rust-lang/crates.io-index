@@ -1,0 +1,1 @@
+{"name":"update-sync","vers":"0.1.0","deps":[{"name":"update-sync_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0e3604cd3b1a3950ec17b32b8ac566643aa30ee87f7e8594c1a8fe1ae3afb53","features":{"default":[],"derive":["update-sync_derive"]},"yanked":false}

@@ -1,0 +1,16 @@
+{"name":"i3","vers":"0.0.1","deps":[],"cksum":"ebb02efb96751dd79a116aa1d2628372624d574645f53ee850c03c2faf9c3672","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.2","deps":[],"cksum":"9534bbe0279c7942695abff0c1a05db6ffb97551cd86ac488879a98cac6786b4","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.3","deps":[],"cksum":"789f58ef4e6e6dbc133034996dcbfe286c6ded340207e782b82d00fcb80ac2c9","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.4","deps":[],"cksum":"20f4cf521a2b87ebbced44c365be97cb03682dfda1cb3fcbeaa7d8f65c65c0b8","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.5","deps":[],"cksum":"611da83ad3b87726c5bfc517731ef5ca58c8dd2f559d3b244aedb33b69611d69","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.6","deps":[],"cksum":"d37c80fbac388e7328fe83cccc9876180b676cbb9810907934262b06f5d043c0","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.8","deps":[],"cksum":"ac6a33d07b87207207bf640b22d3987c619d39ca6c61cb18a0d5995d52cae58c","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.9","deps":[],"cksum":"8993970810214ff3f35138ff216b1771480928cab878f1dd5b6702717c7f2b91","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.10","deps":[],"cksum":"32493e36eba4f764d00a34fc98a4e35bcfb3344ebbd183237b816717a4496835","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.11","deps":[],"cksum":"2a38f2aa081d02ae07388666197722082354162d93d37b5c9f2e4b7d5516958c","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.12","deps":[],"cksum":"378623a87b16758c1b11b0ba46106646d82b714b348252d9dde92e280368b979","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.13","deps":[{"name":"rustc-serialize","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faef8e64ad6ca4652fcb43a5c1ebcf3f1dbe13dc399a6683c3fd0fd5215c2bec","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.14","deps":[{"name":"rustc-serialize","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23b73970cac6feaa533fd1795e9e69d5b78c4224dbc323f9046e93f24e873dc4","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.15","deps":[{"name":"rustc-serialize","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77dfdea55ba7c238f7b5f5bba1794e1e5d95cbfa7b961fc00e2e79377dc7a1fb","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.16","deps":[{"name":"rustc-serialize","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8377543fe57261ebbf4253d59eb637bb9733d7db7f4c55e65f69aa24b5925a","features":{},"yanked":false}
+{"name":"i3","vers":"0.0.17","deps":[{"name":"rustc-serialize","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"790d2e729a3ec651aeb1c93d5eeccce06e1262b63c914e4d90986937c4a282a8","features":{},"yanked":false}

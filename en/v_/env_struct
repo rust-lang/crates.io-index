@@ -1,0 +1,5 @@
+{"name":"env_struct","vers":"0.1.0","deps":[],"cksum":"a9f90d837e26e02877a8baafa4787c36a84380d226ba5802b2ab5ad906a41ddd","features":{},"yanked":false}
+{"name":"env_struct","vers":"0.1.1","deps":[],"cksum":"520b0d0ccbc0e920a50a883afad6206427a6c64707529a5255297a77b3f0cd7b","features":{},"yanked":false}
+{"name":"env_struct","vers":"0.1.2","deps":[],"cksum":"38ca33e2bef57cb4aa9dc8c96271c1821738ff3985ecb3009c8dde49ed2e6a7f","features":{},"yanked":false}
+{"name":"env_struct","vers":"0.1.3","deps":[],"cksum":"262a034c48a8051d032efcd1d546cb63a2c437d2be2731725df610daa13efe27","features":{},"yanked":false}
+{"name":"env_struct","vers":"0.1.4","deps":[{"name":"log","req":"^0.4.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7dd18b6671ff89467b58616842422e061a7608d04ba5f747bce0b983e010b93","features":{"logging":["log"]},"yanked":false}

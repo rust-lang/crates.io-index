@@ -1,0 +1,1 @@
+{"name":"xlsx","vers":"0.1.0","deps":[{"name":"xml_writer","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zip","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf8708b00a2e9ebd8df18e6cc964340e84e6b1adac3ecddcd9811a7262d5acaa","features":{},"yanked":false}

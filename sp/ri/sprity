@@ -1,0 +1,2 @@
+{"name":"sprity","vers":"0.1.0","deps":[{"name":"sprity-aseprite","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d398f4b76a628af0334f1e10d36f5d490072e2d5878eaab94b75b2f1bbf7359","features":{"aseprite":["sprity-aseprite"],"default":["aseprite"]},"yanked":false}
+{"name":"sprity","vers":"0.2.0","deps":[],"cksum":"80aea62d43e8152a1ba6b5d421703c759232c203f9f0c6dd2f3c9a3ec142e490","features":{},"yanked":false}

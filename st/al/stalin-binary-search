@@ -1,0 +1,3 @@
+{"name":"stalin-binary-search","vers":"0.0.1","deps":[],"cksum":"a901bd930b59dcef3d1c018f9ea26dc5e861d2a1d36004816a599612ff18ec03","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"stalin-binary-search","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"31be53c7819401c406ca2f4aa510cae076ccd75707a5966d02357850f3cf98c2","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"stalin-binary-search","vers":"0.0.4","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00107cb141193d65be4345e7076da8cd4c68c95e6aa55711bd136bf937a9f7dc","features":{},"yanked":false,"rust_version":"1.56.0"}

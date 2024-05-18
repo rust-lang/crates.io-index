@@ -1,0 +1,2 @@
+{"name":"stdint","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.63.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2f848921ad62e2daf8b92c11db4181a58a18b63a05269ec084b99daf25e10c6c","features":{},"yanked":false}
+{"name":"stdint","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.63.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0dbf8733c75f5279d2c97ec99c62ffab4c9cd16587a4375c16e324534fb80c7d","features":{"default":["std"],"std":[]},"yanked":false}

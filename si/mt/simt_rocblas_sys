@@ -1,0 +1,2 @@
+{"name":"simt_rocblas_sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"666b9e72e6861ef86a39ccf603f5200dfb35806368720b282b8b9b8259da002b","features":{},"yanked":false}
+{"name":"simt_rocblas_sys","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa341a7a5663b6cb293a2b5f56f46f8b20f0630c8c80d8f91eb5624b6184ed12","features":{},"yanked":false}

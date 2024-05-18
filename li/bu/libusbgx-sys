@@ -1,0 +1,2 @@
+{"name":"libusbgx-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ec09f4755cd13f92fd33fb26f8c24f7eb2b3b9b0837fbd52b2abfec90231b001","features":{},"yanked":false}
+{"name":"libusbgx-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2bff624f6c422f55047f2b40b022aba0587f620cdd369e34be46a717eec9a600","features":{},"yanked":false}

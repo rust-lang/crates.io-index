@@ -1,0 +1,2 @@
+{"name":"unrolled-linked-list","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf4b4dfdb83302ee0436685b8ce21af762ad141151c14ea4a4f8922c53f8e3d4","features":{},"yanked":false}
+{"name":"unrolled-linked-list","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1fd791e1e1e4864fa012f83b5ecee34d5d433fb0ff85a93a1277853b4b07d3ed","features":{},"yanked":false}

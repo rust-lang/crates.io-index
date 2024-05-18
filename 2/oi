@@ -1,0 +1,3 @@
+{"name":"oi","vers":"0.0.0","deps":[],"cksum":"e182339badd08fc83ad53941d4f641fe554fa150a1eba9b390b66908cc0d4d1f","features":{},"yanked":false}
+{"name":"oi","vers":"0.0.1","deps":[{"name":"failure","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43cbad3711299895ce64e285a588ab87f78762e60e47522c0028aed1cc39823b","features":{},"yanked":false}
+{"name":"oi","vers":"0.0.2","deps":[{"name":"failure","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a74a0be7efbe5eb2d76c5cb7cb09f7b548cec1b72095a3546736cacb20e2941","features":{},"yanked":false}

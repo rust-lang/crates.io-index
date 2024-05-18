@@ -1,0 +1,2 @@
+{"name":"machinecode","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84b7a93ed5466dcabcdbbb255889e7b0567acf105a05cc8e2383c4efe4137b2a","features":{},"yanked":false}
+{"name":"machinecode","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f4e4719c14e153748eeb7ca448cb3c762219ac1afff388553a31b441bbde38a","features":{},"yanked":false}

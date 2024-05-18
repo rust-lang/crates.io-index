@@ -1,0 +1,2 @@
+{"name":"box_any","vers":"0.1.0","deps":[],"cksum":"42ecf67f90d0ba04ed2ae7cf8c8a76d2cbdc505a168805a8aba0cf9f4d3e8360","features":{},"yanked":false}
+{"name":"box_any","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35d73703ffd43c8d526118fb3514f8a137a210989aa45c1d271cd68dd588e435","features":{},"yanked":false}

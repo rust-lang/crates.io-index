@@ -1,0 +1,11 @@
+{"name":"circle","vers":"0.0.0","deps":[],"cksum":"71d043f55869740c740e19cf18717f14a22f8a818d2ccfe44e4400ebcf3d398d","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.0","deps":[],"cksum":"eee2d5d6a18c336f38c5e89bf228b2104bd3b933b09fe951fb14027fe7425d1b","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.1","deps":[],"cksum":"7a74ce8500d4a3431e1bc7aef41af252eface789198edf539290acda8130bc7a","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.2","deps":[],"cksum":"884cd7e69e97a5f7e4a4477ad082ddb5c9f9b6b267ce3e233a458dbc0e618903","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.3","deps":[],"cksum":"524a50ff247015a99415e4442533d1f4d52de8dc8e6aacfea71058cb47f77fbf","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.4","deps":[],"cksum":"891730c7c2e4108cbaf9b6f6f98f030e3a59773444a053b877cf228aa539b30d","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.5","deps":[],"cksum":"dd87105d22055c5fc2e9baa4fe70198909a8f7d3dbf3800797fc5dd31ca8fcba","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.6","deps":[],"cksum":"ef01c9a92b0fb2717dc078d43dd09c43fcfa8307a01ce98c23b869f12f9f7056","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.7","deps":[],"cksum":"0cfb2afa9edc2c1f28e9d649e792c4b4836b3c4ac2e52bde1f04f4695fdf346a","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.8","deps":[{"name":"wolfram_wxf","req":"^0.6.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9162151dc54bed04ff1d002e0f585a0c6b50db105d9872c42990f1813a1a6467","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}
+{"name":"circle","vers":"0.1.9","deps":[{"name":"serde","req":"1.0.*","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14445b4ce6420f48ef2b00e92a083b6b829e219a876badc1573f21d4d67182d","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false}

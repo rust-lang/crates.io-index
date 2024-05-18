@@ -1,0 +1,2 @@
+{"name":"breakpad-handler","vers":"0.1.0","deps":[{"name":"breakpad-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c720c6f839bdb6456c26f6c9bf9b2d040a96fecbe37037f522508d10c5126f14","features":{},"yanked":false}
+{"name":"breakpad-handler","vers":"0.2.0","deps":[{"name":"breakpad-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02f55f2391cefb076097c05539776004f257ca9a0d6b12fe55b1886845aa8e8e","features":{},"yanked":false}

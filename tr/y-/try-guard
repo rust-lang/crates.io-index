@@ -1,0 +1,3 @@
+{"name":"try-guard","vers":"0.1.0","deps":[],"cksum":"1128409595f4304bfc645b1443c33a1e4d70351c2cfd5d1ec15756029aefc361","features":{"default":["try-trait"],"try-trait":[]},"yanked":false}
+{"name":"try-guard","vers":"0.1.1","deps":[],"cksum":"164d462307124519f45637518abe29e542e1f93b5bd9d2ae9815a4f019aa6929","features":{"default":["try-trait"],"try-trait":[]},"yanked":false}
+{"name":"try-guard","vers":"0.2.0","deps":[],"cksum":"940e09aaaaa89325d14f724cf8867458c86b8b992f7529c33ef1dae4e12a7afa","features":{"default":[],"test-nightly":[]},"yanked":false}

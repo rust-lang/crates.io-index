@@ -1,0 +1,4 @@
+{"name":"base16ct","vers":"0.0.0","deps":[],"cksum":"9bcf821ac5670c45db8c1a693cc0bd888ef8f0afa45218500180b8e18c9d6f42","features":{},"yanked":true}
+{"name":"base16ct","vers":"0.1.0","deps":[],"cksum":"6ecf0f8400afa4e4e3654e950d5717c0c626ffbaf218d80cccd86abd609529ed","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
+{"name":"base16ct","vers":"0.1.1","deps":[],"cksum":"349a06037c7bf932dd7e7d1f653678b2038b9ad46a74102f1fc7bd7872678cce","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
+{"name":"base16ct","vers":"0.2.0","deps":[],"cksum":"4c7f02d4ea65f2c1853089ffd8d2787bdbc63de2f0d29dedbcf8ccdfa0ccd4cf","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}

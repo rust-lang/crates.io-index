@@ -1,0 +1,2 @@
+{"name":"prototty_test_grid","vers":"0.28.0","deps":[{"name":"prototty_render","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e8bfb272e75c33efd5d62bf1bde44847f99d67d2b9758defd25f757735f9a42","features":{},"yanked":false}
+{"name":"prototty_test_grid","vers":"0.29.0","deps":[{"name":"prototty_render","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8a306a96ed6e80387ae20cea3ccc9ad16d6f2d64edee4cec60a1bf9f6651d60","features":{},"yanked":false}

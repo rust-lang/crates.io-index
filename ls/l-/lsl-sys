@@ -1,0 +1,2 @@
+{"name":"lsl-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f4761199f89367f40d36e12f66748d6362c4e97cb32129b1743081270af79c9b","features":{},"yanked":false,"links":"lsl"}
+{"name":"lsl-sys","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"746a27be6e9798d1baa58033d391b62190e9f6def7fca082362942ae114bfda6","features":{},"yanked":false,"links":"lsl"}

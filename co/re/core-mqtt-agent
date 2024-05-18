@@ -1,0 +1,2 @@
+{"name":"core-mqtt-agent","vers":"0.1.0","deps":[{"name":"core-mqtt-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e80f06db7debacacba8035389852c40f21637153fcccffd76c75338b9b1406","features":{},"yanked":false}
+{"name":"core-mqtt-agent","vers":"0.1.1","deps":[{"name":"core-mqtt-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5366aa7adf3a43cc23d5c184d6e05f8d5e578024f59d0ff55b195ecf2025559d","features":{},"yanked":false}

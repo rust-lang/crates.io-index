@@ -1,0 +1,2 @@
+{"name":"bchlib","vers":"0.2.0","deps":[{"name":"bchlib-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6284aa12448103025731ae0103ba7e241a5a368631885f72918faea4ceaba863","features":{},"yanked":false}
+{"name":"bchlib","vers":"0.2.1","deps":[{"name":"bchlib-sys","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c4518207d01d20cce166f66a353e1655b620712f52570c35a3953e08ad5758d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"packedsfen","vers":"0.3.0","deps":[{"name":"usiagent","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c443cfff093a19cac66959a004d3a00bfe41d6663ef39c0579846aecbaa1d35","features":{},"yanked":false}
+{"name":"packedsfen","vers":"0.3.1","deps":[{"name":"usiagent","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2075629ffc7b3cc955101c9698db8572043e5d111a865e26a4e8c4535e0ed9b4","features":{},"yanked":false}

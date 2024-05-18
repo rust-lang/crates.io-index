@@ -1,0 +1,1 @@
+{"name":"xmldiff","vers":"0.3.0","deps":[{"name":"quick-xml","req":"^0.22.0","features":["serialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6702eab83915cf01f6dca62e5968333d8785a02286c8928c58bc361cc3a9e8d","features":{},"yanked":false}

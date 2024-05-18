@@ -1,0 +1,5 @@
+{"name":"kstool","vers":"0.1.0","deps":[],"cksum":"2ce228f5f7a56c0c7b0dbd5b0017390201e58c0c24784a7f4f21822bd9edacc3","features":{},"yanked":false}
+{"name":"kstool","vers":"0.1.1","deps":[],"cksum":"afe5e36d91b88b10229d39b5a2c68e9865af7d450bf56d75eb11c579017d1f28","features":{},"yanked":false}
+{"name":"kstool","vers":"0.1.2","deps":[],"cksum":"b5c5e67c985ad078333c68f9e7b9e6355493abab7aa5ceafb8925eaf56cd341c","features":{},"yanked":false}
+{"name":"kstool","vers":"0.2.0","deps":[{"name":"sqlx","req":"^0.7.0-alpha.3","features":["sqlite"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"892af75cc4a01fc94155328a0ce63dd25d0df5fc2e89a1aed395d4aadc300006","features":{},"yanked":false}
+{"name":"kstool","vers":"0.2.1","deps":[{"name":"sqlx","req":"^0.7.0-alpha.3","features":["sqlite"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3022ae3fecb671d0e97a08a2d308fc88379676bff59dc9c9e23a6663b6b614a","features":{},"yanked":false}

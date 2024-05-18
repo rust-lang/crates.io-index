@@ -1,0 +1,2 @@
+{"name":"gperf-sys","vers":"0.1.0","deps":[{"name":"autotools","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf77f3811de122a08ca287da0ce08e7a7d6fc18a1312c4262f9a87ffb80318cb","features":{},"yanked":true}
+{"name":"gperf-sys","vers":"0.2.0","deps":[{"name":"autotools","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cba3049caa71f44f9a4c2d5c98b821d77c0e23a2878d6fbb8374858180934368","features":{},"yanked":true,"links":"gp"}

@@ -1,0 +1,4 @@
+{"name":"cvssrust","vers":"0.1.0","deps":[],"cksum":"1ff4e241b1a8173d61b4579ec55fa80eef292509036ca04be73fe5dc9ab93826","features":{},"yanked":false}
+{"name":"cvssrust","vers":"0.1.1","deps":[],"cksum":"961d769b6a86710ba986e16ed690a24ecd9961241b559ee45a3418c9d0f9c150","features":{},"yanked":false}
+{"name":"cvssrust","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7f198130aa34878ef37cb9c8d609e191f924e698e95c9fda42977f34da30d56","features":{},"yanked":false}
+{"name":"cvssrust","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7606b31671707951b51275419d545244dfb8e606810ada986728ba88c18bae2f","features":{},"yanked":false}

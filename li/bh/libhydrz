@@ -1,0 +1,1 @@
+{"name":"libhydrz","vers":"0.1.0","deps":[{"name":"minicbor","req":"^0.20.0","features":["alloc","std","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bc23de43202ad9b93cb1ae95123c0b0b648dad00565f30be599c78341bd1ed9","features":{},"yanked":false}

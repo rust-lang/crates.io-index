@@ -1,0 +1,1 @@
+{"name":"rc_protocol","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5754ef5486b7a3e1f15ca069a18676d6f54dfb945df06e07b883703541d62777","features":{},"yanked":false}

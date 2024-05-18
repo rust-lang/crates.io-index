@@ -1,0 +1,5 @@
+{"name":"kaktovik","vers":"0.1.0","deps":[],"cksum":"e00061a342fe4f0de989c551618518dfee98f2240941cbfd8fa1b6a0173006da","features":{},"yanked":false}
+{"name":"kaktovik","vers":"0.1.1","deps":[],"cksum":"b2a940630840dc0b40e679413ebdb421c632707b4d07483e6892853d7009fa79","features":{},"yanked":false}
+{"name":"kaktovik","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"17dc0f0c20d6e50ddea64c0c98061ab9725c253e737060b7acd8507c5c9f89ff","features":{},"yanked":false}
+{"name":"kaktovik","vers":"0.1.3","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c90fdefd5d738068e18ec49e830f56c239f98f5d6e9362d7f2420c08527eeaa8","features":{},"yanked":false}
+{"name":"kaktovik","vers":"0.1.4","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8dad18d01061a63335ebf816661667fd082eceed245cd97e95bf6d8ec47d656e","features":{},"yanked":false}

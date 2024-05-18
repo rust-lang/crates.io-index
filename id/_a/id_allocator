@@ -1,0 +1,1 @@
+{"name":"id_allocator","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7a88290c28540268f346e9cb308fca25c3b2794efc628ed314164fe6f8b559e","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

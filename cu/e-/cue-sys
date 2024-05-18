@@ -1,0 +1,2 @@
+{"name":"cue-sys","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbb8688730ce5ce991f4c8f887d334d2532b74b6c2432d06d702d55ee8a4e7e8","features":{},"yanked":false}
+{"name":"cue-sys","vers":"1.1.0","deps":[{"name":"libc","req":"^0.2.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eb6bf9ed3f73d97b215e5d9c76293095b1fccb1ffd68a8926a8103d11f11440","features":{},"yanked":false}

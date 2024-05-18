@@ -1,0 +1,1 @@
+{"name":"rhombus-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78447a28670b90dbc33ab664bce6dc1dbaff5b4d805863e7f4cf3c8058fe2447","features":{},"yanked":false}

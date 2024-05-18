@@ -1,0 +1,4 @@
+{"name":"genrc","vers":"0.1.0","deps":[],"cksum":"47c5cc1e52a712fb6075da61b87362861829ad4e042b00f49865be89f8670bd7","features":{},"yanked":false}
+{"name":"genrc","vers":"0.2.0","deps":[],"cksum":"9c8055b5958a88c88f8006f9b39ebdc3c6a908f7070a10fc29e46e0663fcfe35","features":{"allocator_api":[]},"yanked":false}
+{"name":"genrc","vers":"0.2.1","deps":[],"cksum":"09494c9feeba092d187d318245c8d06115269b3784fc9f09af82f9f707b2b981","features":{"allocator_api":[]},"yanked":false}
+{"name":"genrc","vers":"0.3.0","deps":[{"name":"bumpalo","req":"^3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b523632cd71cd594acb4bd8e4c76152bd65ebac5b868c79f198a1d7fe81c2491","features":{"allocator_api":["bumpalo/allocator_api"]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"untest","vers":"0.1.0","deps":[],"cksum":"344d11a2c87711247b9a2fd3395ccf56153778c06cfd87448fc37cd8978c0d70","features":{},"yanked":false}
+{"name":"untest","vers":"0.1.1","deps":[{"name":"untest_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14960692644467555a9b4640f9e61347dcbada3d0a39a07763236d9b68512d7a","features":{},"yanked":false}
+{"name":"untest","vers":"0.1.2","deps":[{"name":"untest_macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b24d48554479761a94c219f0886dac9e0f1b7c0cfdd8c3bdf6fdce7fa20e0fb","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"rustflags","vers":"0.1.0","deps":[],"cksum":"217cae7b04134f33ba7e6aac8a2b241adab343cb45a81e1351c5e23d38b19100","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.1","deps":[],"cksum":"27b7b4b81839a593edf095ca5170f67cd065009d7cc828e25de85dab6cd0027f","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.2","deps":[],"cksum":"e5c1a226f9bf5ec0a0ac700af3dda656f2cd242b06604381e587c76eedebef29","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.3","deps":[],"cksum":"a45e222b29b1c72df440525c4158fa44fda5347a95f14dc47bb37fd7c1969b43","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.4","deps":[],"cksum":"e74f1ec0cda1aea3a3a6c0df066cd67acac62e24064532b871e8eafb0ec6c126","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.5","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6d6e5ecce759f14333264b875a761e3d8159bcc79f527302b3537f17a9330ac","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"rustflags","vers":"0.1.6","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7fc92159fb50a431c5da366f7627751fe7263cf867f8a30f27fa6063ba02ac0","features":{},"yanked":false,"rust_version":"1.74"}

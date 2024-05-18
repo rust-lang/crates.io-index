@@ -1,0 +1,3 @@
+{"name":"spain-vat-id","vers":"0.1.0","deps":[],"cksum":"91412a213e428644457f3249d5fdcd259560b460675b67d885ac9ca3359389f6","features":{},"yanked":true}
+{"name":"spain-vat-id","vers":"0.1.1","deps":[],"cksum":"eeb33b4c905d87651f05ccdd28c2aada66d4fc03930c4fe15d556dd8c6f34d59","features":{},"yanked":false}
+{"name":"spain-vat-id","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ad3f2b7a440d92322245c1a8aa7632b654c11d41c1e550a13c86e89977c3279","features":{},"yanked":false}

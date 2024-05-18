@@ -1,0 +1,1 @@
+{"name":"pcman","vers":"0.0.0","deps":[{"name":"async-std","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2edcd168a4ee985f32aefc35dd5c2642d07f56266456e8838e7b0aa71bb4892","features":{},"yanked":false}

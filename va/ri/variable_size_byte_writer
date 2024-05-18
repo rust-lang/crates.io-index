@@ -1,0 +1,6 @@
+{"name":"variable_size_byte_writer","vers":"0.1.0","deps":[],"cksum":"f5f39bfbccca43be6ff70b3f117de66e77e1d06ccfc25b695a68b900bbe72ae4","features":{},"yanked":false}
+{"name":"variable_size_byte_writer","vers":"0.1.1","deps":[],"cksum":"3fc5b30a5a4ebc24ba428f81624489d9957ecd3fe075cc83a8c55066ddf543ed","features":{},"yanked":false}
+{"name":"variable_size_byte_writer","vers":"0.1.2","deps":[],"cksum":"e1cbbbfd0b1b4e8e60740583687f04f6a37f8588b04a4d5796a6e09f0efd5c9c","features":{},"yanked":false}
+{"name":"variable_size_byte_writer","vers":"0.1.3","deps":[],"cksum":"9423435a1b32588c572feddf0bd0160eb3974214b5dd93d3568302ea11e991a1","features":{},"yanked":false}
+{"name":"variable_size_byte_writer","vers":"0.1.4","deps":[],"cksum":"1a160be4d3df838e17b3369322199a9777e4d5a1de1af463428fb84b46ac1f07","features":{},"yanked":false}
+{"name":"variable_size_byte_writer","vers":"0.1.5","deps":[{"name":"typenum","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"typenum_loops","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27d4ffc96c4897ed2f8a9247cc1af47ca1634ff19f4572a5a60fd2d039370a5f","features":{},"yanked":false}

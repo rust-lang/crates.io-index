@@ -1,0 +1,3 @@
+{"name":"mlib","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a270063fb2a2055b51f8a5a667edaecd945ed600f7dd598e44e9ac43dd81fa87","features":{},"yanked":false}
+{"name":"mlib","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8476e581c545d41e33dc4a477b58dbcfcf39c99d5464ef52aa75d887a2daf3e2","features":{},"yanked":false}
+{"name":"mlib","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14cb7ccc34b3fa6b90aa4a0bffbb3402c884b9ac38708b98f918af5bc20de710","features":{},"yanked":false}

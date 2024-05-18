@@ -1,0 +1,2 @@
+{"name":"lua53-ext","vers":"0.1.0","deps":[{"name":"lua","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ad9fae72e876c8bfcc79a275288b2c6f08360a34a0ef3080bbd76985791d1c5","features":{},"yanked":false}
+{"name":"lua53-ext","vers":"0.1.1","deps":[{"name":"lua","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf09525040076b87b4b0e400cbec091c5480ef572395925032fb2aed48c5cc67","features":{},"yanked":false}

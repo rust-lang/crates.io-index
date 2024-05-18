@@ -1,0 +1,2 @@
+{"name":"witransfer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a32ca913010dbceebf4451fb002570d85acffab9271c03d96e89c746570678f","features":{},"yanked":true}
+{"name":"witransfer","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d474d2daff8cb968f63696510ec68d43cf9d7942445ff8b7d47400214b3374a","features":{},"yanked":true}

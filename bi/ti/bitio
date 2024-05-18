@@ -1,0 +1,5 @@
+{"name":"bitio","vers":"0.0.1-alpha","deps":[],"cksum":"dd7fb77bdc7922e78d746f531d0feb1e16977628c3b6f01484f5f22b67e8c728","features":{},"yanked":false}
+{"name":"bitio","vers":"0.0.1","deps":[{"name":"log","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b437cdb29a3f54fa70f582112c66d94824f88f14b314a767c8f7b054ccc6fac","features":{},"yanked":false}
+{"name":"bitio","vers":"0.0.2","deps":[{"name":"log","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dac97b8b24dfec90dd057721cc6ba2aa62a0397cca256ea52dfe5b3f52d9cf6","features":{},"yanked":false}
+{"name":"bitio","vers":"0.0.3","deps":[{"name":"log","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3ffb289d25bae6c0c71310c836e1b1f1ab6dce77d49b45503cbd842687d9718","features":{},"yanked":false}
+{"name":"bitio","vers":"0.0.4","deps":[{"name":"log","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c76e15141db5dd1c67159f31fa33b572a0fb21699a23f8598128ec60350b3fbd","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"depot","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db3df1a2088a77cf783c08b7874c111c6af6b5f2e4540bd47cd9bbfda32de384","features":{},"yanked":false}
+{"name":"depot","vers":"0.2.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9d3ccffe2af2534e542a6dfbd2af0e02d99362e6fe63ce2a572f71f2bd09a106","features":{},"yanked":false}

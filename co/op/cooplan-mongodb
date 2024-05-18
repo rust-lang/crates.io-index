@@ -1,0 +1,2 @@
+{"name":"cooplan-mongodb","vers":"0.1.0","deps":[{"name":"mongodb","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6536676aa8d7198defd6f76bdd67665e0e4b20cc5313de31588e95d110f31a1d","features":{},"yanked":false}
+{"name":"cooplan-mongodb","vers":"0.2.0","deps":[{"name":"mongodb","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be3e789c798f9bb88a6fc2131f0fd82e0bfe364f115fde8d0da6c9b1655b2fd","features":{},"yanked":false}

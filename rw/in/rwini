@@ -1,0 +1,2 @@
+{"name":"rwini","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.190","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e99af46ca41b99e8d15a6c9a08198a0720302b515a4d21f986587c5212f8675","features":{},"yanked":false}
+{"name":"rwini","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06a3d794cd1adb4dcd51a77ac70c721c54047fef09d2d1bcef1b962cb447d62c","features":{},"yanked":false}

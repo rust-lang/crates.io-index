@@ -1,0 +1,1 @@
+{"name":"cfx-types","vers":"0.1.0","deps":[{"name":"ethereum-types","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c752f3dec44c5cbea02126b3c6ce67b65409d224726adcf3cdbf91709311a659","features":{"storage_benchmark_no_account_space_check":[]},"yanked":false}

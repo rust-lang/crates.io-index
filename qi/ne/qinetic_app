@@ -1,0 +1,7 @@
+{"name":"qinetic_app","vers":"0.1.0","deps":[],"cksum":"f7b3366d4ace76970eefda4865120e855c4a80433aef036a059238725fa4eaa7","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.1.1","deps":[],"cksum":"f87f8f47b5c1f57091b9733b1e8df641cd0f330e39b5eab8910bd01abbada9ac","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.1.2","deps":[],"cksum":"590b756c6476b32db21e1a289ff45095924c5cef34bcf7f9a1cd3d15633c0768","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.1.3","deps":[],"cksum":"250eaccccd133220d224c612c9044a916afbad2563c32608b1a53daf5bd9cbfc","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.1.4","deps":[],"cksum":"e39216ea51fbb5dbd913a938a7ad8904caba3cc456377782027486ba892daa82","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.1.5","deps":[],"cksum":"143b190871585d40c81c7a91178e8109395f09ce22376986d68dfca135475366","features":{},"yanked":true}
+{"name":"qinetic_app","vers":"0.2.0","deps":[{"name":"downcast-rs","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qinetic_app_macros","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qinetic_ecs","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a42b3433b58110edc2a0720b0b47611a4d2ff8530a8538a34591332947bcaf4","features":{},"yanked":true}

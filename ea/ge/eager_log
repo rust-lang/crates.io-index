@@ -1,0 +1,2 @@
+{"name":"eager_log","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.16","features":["serde","clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae086406ac03f9fab4eb880134fd8f134a451c637118761deca3758ff8e59059","features":{},"yanked":true}
+{"name":"eager_log","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.16","features":["serde","clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc68f99571024137be0c17e2fff7d28b433d26f0b577d7a64c586e60e1ca9119","features":{},"yanked":false}

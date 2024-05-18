@@ -1,0 +1,2 @@
+{"name":"fps-controller","vers":"0.1.0","deps":[{"name":"piston_window","req":"^0.86.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a8548e2cd4f8ed143e8fc00f78c82ea04a2f0c74d50920e733450aa1929e8e5","features":{},"yanked":false}
+{"name":"fps-controller","vers":"0.1.1","deps":[{"name":"piston_window","req":"^0.89.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1931a5f7b47c18e5a2314dac571238db5b5d07ea7111887f741099304dc9fac8","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rustygba","vers":"0.0.1","deps":[{"name":"gba","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"589908ec01ee32b491fbc7ed1d9923593a57ff25397d0576f5e789ef95f4f8d9","features":{},"yanked":false}
+{"name":"rustygba","vers":"0.0.2","deps":[{"name":"gba","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71e5c9ec5fb9e634079df1c42f7c572e4081bbdff371d7264740f296b17a3a6e","features":{},"yanked":false}

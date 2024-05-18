@@ -1,0 +1,2 @@
+{"name":"cargo-svg-defs","vers":"0.1.0","deps":[{"name":"quick-xml","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f3d1f6b6e0ec6c34bf918f151869cf3a50e67afd338bae0b319c2445360b67f","features":{},"yanked":false}
+{"name":"cargo-svg-defs","vers":"0.1.1","deps":[{"name":"quick-xml","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67a4a5c8c8ce2854e24a43beb8671381f6e44036f288403fae6f7da5b23d4edd","features":{},"yanked":false}

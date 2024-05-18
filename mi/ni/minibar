@@ -1,0 +1,1 @@
+{"name":"minibar","vers":"0.1.0","deps":[{"name":"bytesize","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termion","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5132b7b4174978160bb5e549189927df9cd3c36487c3787d832b2984af5869ac","features":{},"yanked":false}

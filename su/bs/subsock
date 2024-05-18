@@ -1,0 +1,1 @@
+{"name":"subsock","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98fa760631fcbefa191ddf036b3bf4c6161612bc3d8b0b94e5b73d8aaeb7089d","features":{},"yanked":true}

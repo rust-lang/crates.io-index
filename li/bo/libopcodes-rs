@@ -1,0 +1,2 @@
+{"name":"libopcodes-rs","vers":"0.1.0","deps":[{"name":"libopcodes-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4be6486bc4b4f74f72ae1c2210a10902de98d631b6feeff14e7bba51e88b92b8","features":{},"yanked":false}
+{"name":"libopcodes-rs","vers":"0.1.1","deps":[{"name":"libopcodes-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b844465479be0f88238d66e23daeeb1cb758b0df8f409193597f3198875347","features":{},"yanked":false}

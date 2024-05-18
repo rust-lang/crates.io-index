@@ -1,0 +1,2 @@
+{"name":"buffers","vers":"0.0.0","deps":[],"cksum":"13fd0e704e8def796ab248f099b8c521db32cc4d682b147489ddb037bdca18f4","features":{},"yanked":false}
+{"name":"buffers","vers":"0.1.2","deps":[{"name":"bytes","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea94a101635ea28e987657d6c983ef7268e967149e25dc3bd25eb8f32f072477","features":{},"yanked":false}

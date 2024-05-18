@@ -1,0 +1,3 @@
+{"name":"rhythm","vers":"0.0.1","deps":[],"cksum":"e48cdbd7ca7857cdafe0c908a189e9ddf4bdaa35deda04ac02240d3c7456e859","features":{},"yanked":false}
+{"name":"rhythm","vers":"0.0.2","deps":[],"cksum":"eea672b3b17d77c0494b959473aa927b9fea975bde29bc649535b75de8fe2b78","features":{},"yanked":false}
+{"name":"rhythm","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c82e89c61ada72f0786e1e69372046ba36c674f676a4eb604021067a3d2451bf","features":{},"yanked":false}

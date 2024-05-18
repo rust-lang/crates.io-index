@@ -1,0 +1,2 @@
+{"name":"thread_runner","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db998d26473bb4eeebd4a0bb24060237cf38f71a049f69ac5d8b077676c3ff6f","features":{},"yanked":false}
+{"name":"thread_runner","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.27.0","features":["rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adee674de693b5bc81d5cfd1450d6ecca474e633fd8dab6fb09b5d286ea114c7","features":{},"yanked":false}

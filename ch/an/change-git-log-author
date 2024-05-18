@@ -1,0 +1,1 @@
+{"name":"change-git-log-author","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"926252243eecfb6eb337e8309c09bb3e8effd76e52636ec70964b7c880e069c3","features":{},"yanked":false}

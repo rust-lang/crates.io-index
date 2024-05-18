@@ -1,0 +1,1 @@
+{"name":"nm","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3fcc067b48547508a37c548afec7bf8689859e24746e76618461249de68763a","features":{},"yanked":false}

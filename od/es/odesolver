@@ -1,0 +1,6 @@
+{"name":"odesolver","vers":"0.1.0","deps":[],"cksum":"c659519c73e6e72805b3359230f57f8aeeaade37898c70efcf56a07175d41b59","features":{},"yanked":false}
+{"name":"odesolver","vers":"0.1.1","deps":[],"cksum":"eb3fadaab295c0dcca7e2fd45384b9de4030d55649c17a21f3ad216ac7cc9362","features":{},"yanked":false}
+{"name":"odesolver","vers":"0.1.2","deps":[],"cksum":"556a86eb612d9826d2f9a57267a97a230fc8ec09d529bde85844e542fdb46a9a","features":{},"yanked":false}
+{"name":"odesolver","vers":"0.1.3","deps":[{"name":"dyn-clone","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95a47a09169722920f88737b68cf38286e9d171da7999b12beee910d88b1af59","features":{},"yanked":false}
+{"name":"odesolver","vers":"0.1.4","deps":[{"name":"dyn-clone","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a95929363857b6d2434a5b6c36384671991ea3ef8897cb255c1ccaefde4b8c85","features":{},"yanked":false}
+{"name":"odesolver","vers":"0.1.5","deps":[{"name":"dyn-clone","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc990f9a0f8a352ce76d87db7abd61338656cdbb7c24ef05d488fd4cbd9f08ad","features":{},"yanked":false}

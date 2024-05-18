@@ -1,0 +1,2 @@
+{"name":"skr","vers":"0.0.1","deps":[],"cksum":"6683d5a3336c14fe02082ae0abf6d08b1e514d1b1b135a34dae83b88801b8bd3","features":{},"yanked":false}
+{"name":"skr","vers":"0.0.2","deps":[{"name":"lego","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d8aaa6dd86f5519d2eeaf42422ea28dac9c4dc8908dfb67ce5c7d81e28e6c6e","features":{},"yanked":false}

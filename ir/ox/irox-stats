@@ -1,0 +1,6 @@
+{"name":"irox-stats","vers":"0.1.0","deps":[],"cksum":"17ddb1aad0f34eb987c69972eff3da2f22b26aa03e6310afca5c4615804598f1","features":{},"yanked":false}
+{"name":"irox-stats","vers":"0.2.0","deps":[],"cksum":"b02bf4754988ecca14e56c3725f43dfc398aecf6236ed2566cbc10d2251a5f51","features":{},"yanked":false}
+{"name":"irox-stats","vers":"0.2.1","deps":[],"cksum":"96ec2c822f4fa19331ac2a9dd0c8c4bd8937a1220d644385dc4834fa128e1aff","features":{},"yanked":false}
+{"name":"irox-stats","vers":"0.2.2","deps":[],"cksum":"f72152977b559f23d725acd51cb194406b0d320e2dbccfb5f4e61620b02a2bf4","features":{},"yanked":false}
+{"name":"irox-stats","vers":"0.2.3","deps":[],"cksum":"f5ae6430f1455adcc0caf1e7b56585abaeaf5f1e5a01d6b391532a5fd5d00a2c","features":{},"yanked":false}
+{"name":"irox-stats","vers":"0.2.4","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"irox-units","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5b89ec2cf27277ab4a358c0bf62cd4d5cf90ddebb5700d09c3e924d8c77c1c8","features":{},"yanked":false}

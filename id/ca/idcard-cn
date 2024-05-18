@@ -1,0 +1,1 @@
+{"name":"idcard-cn","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gb2260","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61cc98466aff071f0a6291b17e787bc98bea88e8bd7cc564b7c12079fd12c389","features":{},"yanked":false}

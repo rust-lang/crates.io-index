@@ -1,0 +1,2 @@
+{"name":"nalar","vers":"0.0.1","deps":[{"name":"regex","req":"^1.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ae5f7ec6e910fe5e9583543149c135baa7a9b23237095dcb3347fda8a50e5d9","features":{"default":["utils"],"errors":[],"utils":["errors"]},"yanked":true}
+{"name":"nalar","vers":"0.0.0","deps":[],"cksum":"ca3c66cc6cf230c6b196180de7e85203e59ed9a042b9d314baf8eca651a2c5ef","features":{},"yanked":true}

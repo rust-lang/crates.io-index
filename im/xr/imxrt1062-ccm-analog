@@ -1,0 +1,2 @@
+{"name":"imxrt1062-ccm-analog","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3677d89eff336c3d40dff192343b179640ad4008ef2a2cd9cdfb6f4e24437e0f","features":{},"yanked":false}
+{"name":"imxrt1062-ccm-analog","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da43225dd96547b08e65dce8be468f3f5f8a1ddd6c54d2a87df614c9341cdf1b","features":{},"yanked":false}

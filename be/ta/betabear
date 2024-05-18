@@ -1,0 +1,2 @@
+{"name":"betabear","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8adb49e9de24683ec5faa78b18e70efaa2a14719247ae413e881a1bb3b7bb827","features":{},"yanked":false}
+{"name":"betabear","vers":"0.1.1","deps":[{"name":"regex","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"515b6a4d11387cd730a3ad810a63e82708a065811f157a8921f19c53718b31cd","features":{"unstable":[]},"yanked":false}

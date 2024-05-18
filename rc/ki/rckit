@@ -1,0 +1,1 @@
+{"name":"rckit","vers":"0.1.0","deps":[{"name":"clap","req":"^2.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"redis","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"405058a3f7573e1bb5c830bffb2137bcc25c21661e214c89e780c85846753cc5","features":{},"yanked":false}

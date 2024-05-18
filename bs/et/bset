@@ -1,0 +1,1 @@
+{"name":"bset","vers":"0.1.0","deps":[{"name":"byte_set","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0832f2ead93b6ac8a3ee6d03f9b59240338cefb16107f4414192a9e3ca69d581","features":{},"yanked":false}

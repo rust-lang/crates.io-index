@@ -1,0 +1,2 @@
+{"name":"ic-pluto-templating","vers":"0.1.0","deps":[{"name":"ructe","req":"^0.17.0","features":["mime03"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41af95ed194d732699eb06eb04f4e464795e89e275927c67dc1266be40521424","features":{},"yanked":false}
+{"name":"ic-pluto-templating","vers":"0.1.1","deps":[{"name":"ructe","req":"^0.17.0","features":["mime03"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1829c7cf13f200dd8a75a2f89109ded72f0fbd6656f64f647d3bc9aa6653578f","features":{},"yanked":false}

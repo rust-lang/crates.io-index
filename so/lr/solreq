@@ -1,0 +1,1 @@
+{"name":"solreq","vers":"0.1.5","deps":[{"name":"anchor-lang","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f6fd4b5aef0ef4017be89fcb3a60ed6b716a832fd00f57191921685ddee5c9a","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"practice_rust","vers":"0.1.0","deps":[],"cksum":"dbd54a259c85832ac12cb6163e047d66278657549f9cbdfb5c4546904d829f51","features":{},"yanked":false}
+{"name":"practice_rust","vers":"0.1.1","deps":[{"name":"adder","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91b25573033539b58bdcf9f14d431ddb1c4a9ba7d1e1c180b7bf350f4760c400","features":{},"yanked":false}

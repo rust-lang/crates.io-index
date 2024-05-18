@@ -1,0 +1,2 @@
+{"name":"raw-nbt","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.5","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"807f01e7f9975ccece8ddfe2cd0544df8951292d999cc399f734b1183612207e","features":{},"yanked":false}
+{"name":"raw-nbt","vers":"0.1.1","deps":[{"name":"flate2","req":"^1.0.5","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"f327a0b82c7db6200957d5798e9e60c6b01f43f809f4639d81e36d5a43183071","features":{},"yanked":false}

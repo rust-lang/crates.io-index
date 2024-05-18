@@ -1,0 +1,2 @@
+{"name":"segfault","vers":"0.1.0","deps":[],"cksum":"c45a21394bc43732e916b03fa96ddc47292e06935fbe3111a9c28d0f546d3fa7","features":{},"yanked":false}
+{"name":"segfault","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.142","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5441a8db8557861098e5789b77fd3260d25b4342018d0d07fac10fceaeae8cd3","features":{},"yanked":false}

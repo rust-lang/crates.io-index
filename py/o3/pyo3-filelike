@@ -1,0 +1,2 @@
+{"name":"pyo3-filelike","vers":"0.1.0","deps":[{"name":"pyo3","req":">=0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c7ab3a4cf4ae5e5e968c0f952da648c3acb8ce95818d4e4266575f95af2a6a5","features":{},"yanked":false}
+{"name":"pyo3-filelike","vers":"0.2.0","deps":[{"name":"pyo3","req":">=0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd3b0fe5c172055cfa8daddd9fab48dc7a4ebb532bd5dd8a87a40fac0a570fa3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"xpc-connection-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2cae657879061606b120f0d597763126cda3486e8ac29f0278c7a11dd022e24c","features":{},"yanked":false}
+{"name":"xpc-connection-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e9e73f03a600d0244f3dce6a5c65af535e9cc9f3d19aae00359a1c44d4e14b6c","features":{},"yanked":false}

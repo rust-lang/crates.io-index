@@ -1,0 +1,2 @@
+{"name":"elf2iso","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcfd7adf5732e13d5b85feee9b6e188498852f11d05c34e82f355cd54fadd082","features":{},"yanked":false}
+{"name":"elf2iso","vers":"0.1.1","deps":[{"name":"clap","req":"^4.1.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73bf35463bdecec69435139015dd4ada3c922266e385cfd3ffb05f727d0841e","features":{},"yanked":false}

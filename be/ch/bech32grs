@@ -1,0 +1,2 @@
+{"name":"bech32grs","vers":"0.10.0-beta","deps":[],"cksum":"4e190aad8fbe17cf8d2d68ba93844c33a2ef9544e05945da83df0bf81078f044","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"bech32grs","vers":"0.11.0","deps":[],"cksum":"5a3e9e1d012ddb7fbe99561e7abfcd18cf1e91fc8b6318f321c90fa838a8498b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

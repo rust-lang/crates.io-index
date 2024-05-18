@@ -1,0 +1,1 @@
+{"name":"mimo","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"notify","req":"^4.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8323e3adec06e225cc0122a53e1184d19908c27138db0c0fa12830712cab37f1","features":{},"yanked":false}

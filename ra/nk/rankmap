@@ -1,0 +1,1 @@
+{"name":"rankmap","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d27f0472a3cbc61144be7a6e25e80a254127ef29852794051ff57ac0193d2a69","features":{},"yanked":false}

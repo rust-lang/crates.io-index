@@ -1,0 +1,1 @@
+{"name":"rusty_winapi","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3","features":["impl-default","oleauto"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"cfc27f30d578ca97f1d4069c0093551f7ff1e9bf27f13b076e8ba773d3732808","features":{},"yanked":false}

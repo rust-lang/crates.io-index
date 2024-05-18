@@ -1,0 +1,2 @@
+{"name":"keysymdefs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"31bb275f570c4d253e757aeb4d96940632933f438a5b2a04a3ea31dc32bd291f","features":{},"yanked":false}
+{"name":"keysymdefs","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad04abe256491546336a597a22a0626a05376f1673973aadd547c95a5326b4f1","features":{},"yanked":false}

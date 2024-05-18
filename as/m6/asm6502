@@ -1,0 +1,3 @@
+{"name":"asm6502","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06706642e6060de32fda6b68836a476fe2b860998742c1023337ffe6a3f7c153","features":{},"yanked":false}
+{"name":"asm6502","vers":"0.1.1","deps":[{"name":"nom","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c276d08bb2edeb38a07ad8709d7c02c3f0e6060a9a931978c378e5519c0da80a","features":{},"yanked":false}
+{"name":"asm6502","vers":"0.1.2","deps":[{"name":"nom","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3bbef4926b4260b6ce188cfdcb7cf2868a917304c533c693504a8b53bbf495e","features":{},"yanked":false}

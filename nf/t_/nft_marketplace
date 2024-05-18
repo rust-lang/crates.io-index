@@ -1,0 +1,1 @@
+{"name":"nft_marketplace","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba40e52f53568655f03a955f6e517a26696b8cf14d9f21d1d3da38c36b4fc322","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

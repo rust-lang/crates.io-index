@@ -1,0 +1,4 @@
+{"name":"cassandra_macro","vers":"0.1.0","deps":[],"cksum":"b5ce43883d4cc4e7ead352d69064839641854ac23ed25ba563c3f6b6568d00d7","features":{},"yanked":false}
+{"name":"cassandra_macro","vers":"0.1.1","deps":[{"name":"cdrs","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21719a7b016a5519a605b688aa020fa844d3e1411e8de11f628b49f8d1040526","features":{},"yanked":false}
+{"name":"cassandra_macro","vers":"0.1.2","deps":[{"name":"cdrs","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c85d77bcd3c08fb64505a78b95b88f0d4c2427cdc6af312f7f5b1ba8bfb63605","features":{},"yanked":false}
+{"name":"cassandra_macro","vers":"0.1.3","deps":[{"name":"cdrs","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"796ef877a1e26c783e03c0245baae6a8f2e7135f0f2f462352fc3b72e760b0e2","features":{},"yanked":false}

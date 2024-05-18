@@ -1,0 +1,10 @@
+{"name":"rusty-cute-macros","vers":"0.2.0","deps":[],"cksum":"52bf69393c22b863675cd822ebbbf913ad8ca8230ca789b301a08a61a1cf1f90","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.1","deps":[],"cksum":"41b06651f5d78db112d290236265045417d665a68e8c7b101be1556d0df600de","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.2","deps":[],"cksum":"f3e3635daa34acbcd5fc09001dfe0f3e4a39f45d8b2a7d10653048b51d0b4632","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.3","deps":[],"cksum":"fca305aa3016b5babf477c7acafeb0b6fa3a96f1ca19c789a0385c371ef3d244","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.4","deps":[],"cksum":"84a52486523f63cadf8a35440af55b19f92b3a065c454af4a6c4aea9856850fd","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.5","deps":[],"cksum":"33020c41b4cb932c96c89e2994abbcf9afadb8f5a34499dcc15bb5737d44ce58","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.2.6","deps":[],"cksum":"9ff0e1f53195080187b12359a5d8d033597ce508a73bd6b09a3e9c37b5bb8d7f","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.3.0","deps":[],"cksum":"bb13bba87b94d058c2c1c2016283575950e29b1b3707158f0087c95ca4bdbde4","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.3.1","deps":[{"name":"time","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f389d6b4e0fd72abd0b61e23e71e8ecd84cfca130b95053401fc0286fa35ba2","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.3.2","deps":[{"name":"time","req":"^0.1.34","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8648cf38f572c9d9fad4e7ae016dce96341940cc2e2b7a6f39f7b7b061656597","features":{},"yanked":false}

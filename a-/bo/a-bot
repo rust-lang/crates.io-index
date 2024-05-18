@@ -1,0 +1,3 @@
+{"name":"a-bot","vers":"0.1.0","deps":[],"cksum":"d33e4480e14bc3ad3538ecace321e0d4f799942132e74573cde7c0616ac8bde9","features":{},"yanked":true}
+{"name":"a-bot","vers":"0.1.1","deps":[],"cksum":"5dc27c901c32ef2bd8e3466b2eafbcf0a948f41fbcac3657f3c9187364f5d820","features":{},"yanked":true}
+{"name":"a-bot","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8732497e9cfe78d93ddcc3ca875a01c583ffec7683d88b50c0b2f42efb96589","features":{},"yanked":true}

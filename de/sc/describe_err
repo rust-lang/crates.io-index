@@ -1,0 +1,2 @@
+{"name":"describe_err","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20b92ee7aabeeea55ea2f3b5b1dcf2564b0fb6961d17999332b084af9a7fac2c","features":{},"yanked":false}
+{"name":"describe_err","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e0647a0f6ae6b0246d05c351090bee42e78148b5e0d14e92a31a5524dbcfb4b","features":{},"yanked":false}

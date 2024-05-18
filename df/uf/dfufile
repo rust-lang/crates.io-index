@@ -1,0 +1,2 @@
+{"name":"dfufile","vers":"0.1.0","deps":[],"cksum":"551e1fe749b9bb46edc0818708c9bcc804a6e01aaa13738ce8deb448529d7729","features":{},"yanked":false}
+{"name":"dfufile","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"539c5f1558b2171d9273647e82b14493f479f13df67e228eb6a5cdf385af3099","features":{},"yanked":false,"rust_version":"1.58"}

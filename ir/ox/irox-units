@@ -1,0 +1,9 @@
+{"name":"irox-units","vers":"0.1.0","deps":[],"cksum":"acedadbc3c5365f0b31c6ab52cecef86bd41401fcf1c86e9b60fda9cd71c07c3","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.2.0","deps":[],"cksum":"1b17e6b3f50a2f6148752934b26270b286f010863139ebd86a77c48bb172c32f","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.0","deps":[],"cksum":"094c4ae2a5f6196e9cf4b08fc1d10a92ebad36ca996882c12a6ae2bb528c9792","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.1","deps":[],"cksum":"d4f45417b3e5e35277165af12f1d79ede73204d7ab3a5ca5cdaa61e2d5e90c07","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.2","deps":[],"cksum":"300449943216718422f3b0d78ad3f8c24dd68a49af51b0cac439627ad294f2c2","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.3","deps":[],"cksum":"317ee27bf84317e98c47b4bacb55815d51867d5fb6bebb5e3dff663ba63c367a","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.4","deps":[],"cksum":"c36ed1702567ec07ba4bacef549e9b6ba59fce6ff86612a28b85db0f1f4a317b","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.5","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1efb8326413c5c757a4671ab2f3df98d5d8869a61c2ddab30972a805e63af75a","features":{"default":[],"std_errors":[]},"yanked":false}
+{"name":"irox-units","vers":"0.3.6","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"84ab793329bf1e7eb71e772a180dc2c265b0f3a80110486cfea7d1b6db73d217","features":{"default":[],"std_errors":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"mb_goban","vers":"0.0.0","deps":[],"cksum":"e7b226866ee15507472167ea91e14013e5e693a151bb886948eb58b63f3818df","features":{},"yanked":false}
+{"name":"mb_goban","vers":"0.1.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee8c4d47b86755cdde3bd0602e1612965419c821d7e8710171d6580ef4a15e38","features":{},"yanked":false}
+{"name":"mb_goban","vers":"0.2.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97b9d27c8709ef11d48f26b014265abd44b8d930db0f7bf605506964f65e5dd5","features":{},"yanked":false}

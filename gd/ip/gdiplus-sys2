@@ -1,0 +1,1 @@
+{"name":"gdiplus-sys2","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3","features":["commctrl","vcruntime","windef","wingdi","wtypes"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d4b6ee6d9fdaf2abfe8e53de507935c7983621115058ce4d73e69e00e9fe0dd","features":{},"yanked":false}

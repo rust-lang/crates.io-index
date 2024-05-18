@@ -1,0 +1,3 @@
+{"name":"actividadSemana20","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dummy-queue","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9a953a3376d83621efb72613d59f82a468229a2973e05e8eccfac3a4c504b2b","features":{},"yanked":true}
+{"name":"actividadSemana20","vers":"0.1.1","deps":[],"cksum":"239020fa4ea838d04ef1770a4c965409f9ce91a84b3268516990a0b830648152","features":{},"yanked":true}
+{"name":"actividadSemana20","vers":"0.2.0","deps":[],"cksum":"bcbcf83eee8dbff18eab2a16f12a7d39c75dbbe549948746ec370c05f4ed2663","features":{},"yanked":false}

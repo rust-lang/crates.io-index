@@ -1,0 +1,2 @@
+{"name":"spin_sleep_util","vers":"0.1.0","deps":[{"name":"spin_sleep","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e3a8f2249e5e08d808a27888bc65ce525824a80a3e336b69231199359cac90","features":{},"yanked":false}
+{"name":"spin_sleep_util","vers":"0.1.1","deps":[{"name":"spin_sleep","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f0a8402dff6fc447faddc8bebac9bc3645e5addde1d2293cfd2919d1a8e7efd","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"static_mem_pool","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4.0","features":["real_blackbox","cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4e83db791532ccf4796795985a9af7efeaa09a333f32e3d486f5f3f8df33659a","features":{},"yanked":true}
+{"name":"static_mem_pool","vers":"0.2.0","deps":[{"name":"const_collections","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdcf91b2c13f15a470dd94ccded255d5ea572637281261a16db1692f5f3b7ffb","features":{},"yanked":true}
+{"name":"static_mem_pool","vers":"0.3.0","deps":[],"cksum":"40acacfb063736b095ffe93d1baade474fc6b48b7787c73228182bd8db77b618","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"mbox-reader","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de50ae9e17965f4d395f500e513acc03944aa94fbc5e927605139c33ba83446a","features":{},"yanked":false}
+{"name":"mbox-reader","vers":"0.2.0","deps":[{"name":"memmap","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6231e973c0a8caceed71fac7355555012ba73fe230365989b298b36022e9e2ab","features":{},"yanked":false}

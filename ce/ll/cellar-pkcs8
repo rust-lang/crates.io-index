@@ -1,0 +1,1 @@
+{"name":"cellar-pkcs8","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"untrusted","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d915cd42bb2b84b5ce47eb40e8d2d22df66d1f1ebd421cc7c0d3968f7b7fb7f6","features":{},"yanked":false}

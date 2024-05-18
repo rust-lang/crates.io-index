@@ -1,0 +1,1 @@
+{"name":"keepachangelog","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.3","features":["derive","cargo","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d7ff6a94c2aa851e18a06d4430153bff7ed8d60b96ed05cf7a06d544659d408","features":{},"yanked":false}

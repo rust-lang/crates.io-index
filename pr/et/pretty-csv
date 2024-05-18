@@ -1,0 +1,2 @@
+{"name":"pretty-csv","vers":"0.1.0","deps":[{"name":"csvstream","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"918d0f14a03ae90a46529799d65ffc236acd9eab7307abb6dd8b9ee2b7143286","features":{},"yanked":false}
+{"name":"pretty-csv","vers":"0.2.0","deps":[{"name":"csvstream","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c35413860d0d7d7f787352b27fb6b7a410b1f2558626e675256b8e64746da278","features":{},"yanked":false}

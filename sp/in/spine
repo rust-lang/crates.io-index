@@ -1,0 +1,2 @@
+{"name":"spine","vers":"0.1.0","deps":[],"cksum":"cb936ba88b5ba7442d5562a00ea3baedfe083a40f45ee3733dac8bb4b3119a98","features":{},"yanked":false}
+{"name":"spine","vers":"0.1.1","deps":[{"name":"spine-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1973c56ca898be796e456ab1d2c9e153dc7cdb6aa59b170a63e6284718e94ac2","features":{},"yanked":false}

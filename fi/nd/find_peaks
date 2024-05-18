@@ -1,0 +1,6 @@
+{"name":"find_peaks","vers":"0.1.0","deps":[],"cksum":"a4d1c4dab2eebb5182f6c6f129a144f54ee931b891514831b246eeb438d9ea59","features":{},"yanked":false}
+{"name":"find_peaks","vers":"0.1.1","deps":[],"cksum":"857338901d59ef0e2dd9cbbf81d08ca9460bba3dd1ddd03026a4e4b5be842103","features":{},"yanked":false}
+{"name":"find_peaks","vers":"0.1.2","deps":[],"cksum":"90e5f10398589d3572c478180a64dac50a8ae20121c2c34f5a15a284ceb6212c","features":{},"yanked":false}
+{"name":"find_peaks","vers":"0.1.3","deps":[],"cksum":"6b9bcc815ab301fba0204160a21f4afd94e51e46032b908ef34b578f54da722a","features":{},"yanked":false}
+{"name":"find_peaks","vers":"0.1.4","deps":[{"name":"pyo3","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"42c3e857d5281e7708a599c4f05ccc75b3cc68c6c8cac43aca98b628e6aed25d","features":{},"yanked":false}
+{"name":"find_peaks","vers":"0.1.5","deps":[{"name":"pyo3","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"17ba6fe8df99019a8cb0c712414e10081b3bbdb10d8f7ab95719863ced5db982","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"dbus-server-address-parser","vers":"1.0.0","deps":[{"name":"thiserror","req":"~1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e149c583b5d8bf78c4e54b6fbc1a3d32f01fe8c958ec859d3d858b82aeca1988","features":{},"yanked":false}
+{"name":"dbus-server-address-parser","vers":"1.0.1","deps":[{"name":"thiserror","req":"~1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87ba14fedfb911759c9b49fceee906d41f8e7e9442593d5f71a20cfb3effa9c4","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"cbor-no-std","vers":"0.1.0","deps":[],"cksum":"2b5c73000004748b2964bbf46bef5299afdb3f4f8c2b15cc8c5894bfbf9925fd","features":{"default":["no_std"],"no_std":[]},"yanked":false}
+{"name":"cbor-no-std","vers":"0.2.0","deps":[],"cksum":"e86823450a6693bf4e00308dbe9141ca5ca50d61692f4eec93f549c3d76f2438","features":{},"yanked":false}
+{"name":"cbor-no-std","vers":"0.3.0","deps":[],"cksum":"199ccefac15d3e64654ba6229d601a98401c0ad36f629c0cdc8a3b980a07698a","features":{"default":["no_std"],"no_std":[]},"yanked":false}

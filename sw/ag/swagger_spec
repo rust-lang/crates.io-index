@@ -1,0 +1,2 @@
+{"name":"swagger_spec","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29ab8d0a26ec6bbb97f427a8c9b17ba837e33cd3df7b413976ba26043710460d","features":{},"yanked":false}
+{"name":"swagger_spec","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9315c9b306ccc33a05f77fc237ad57bed8725e088f5f2c5064b989cc25224816","features":{},"yanked":false}

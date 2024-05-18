@@ -1,0 +1,2 @@
+{"name":"vuk","vers":"0.0.0","deps":[],"cksum":"5adf22b03296aed6ac204d3dc12fed7e5f5080778c8fb919b0adfc43ff3dc851","features":{},"yanked":false}
+{"name":"vuk","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4efb71c378d75253183db353fcc53846d05fe2ba17515704da7731d14ab694e2","features":{},"yanked":false}

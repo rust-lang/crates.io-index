@@ -1,0 +1,1 @@
+{"name":"leer-macros","vers":"0.0.1","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df0088ce1e19d26592d60945cac9738157aff7eb396fe311d68199b2f3adff3f","features":{},"yanked":false}

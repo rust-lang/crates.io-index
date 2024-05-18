@@ -1,0 +1,2 @@
+{"name":"fenris-traits","vers":"0.0.1","deps":[{"name":"nalgebra","req":"^0.31.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cfb2210ffa13818c68d52d517e39b0400c525ccdb07481e8e327a8de6a77981a","features":{},"yanked":false}
+{"name":"fenris-traits","vers":"0.0.2","deps":[{"name":"nalgebra","req":"^0.32.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4066cc1fbd2eb1f224bc343727222db8960f7543abb508d120c377a79b9568c6","features":{},"yanked":false}

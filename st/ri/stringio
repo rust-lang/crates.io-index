@@ -1,0 +1,2 @@
+{"name":"stringio","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c56dae6784a1f530b80d912ab4a6c3d1513b91e42d0752bc2045546d7c8182c","features":{},"yanked":false}
+{"name":"stringio","vers":"0.3.0","deps":[{"name":"arrayvec","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cae9eea99ba336bd5a7cfacab2e22bf00400457f42768817126dd9d4cf392d6","features":{},"yanked":false}

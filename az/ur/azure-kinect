@@ -1,0 +1,5 @@
+{"name":"azure-kinect","vers":"0.1.0","deps":[],"cksum":"26a08ff3e0150eb27968ff363675753f0d13268a552bbed7630f2b2e85304c09","features":{},"yanked":false}
+{"name":"azure-kinect","vers":"0.1.1","deps":[],"cksum":"129f4aa44b7813c121d3671b65e786c187ad99ce6a9ac0420d8d75f564029460","features":{},"yanked":false}
+{"name":"azure-kinect","vers":"0.1.2","deps":[],"cksum":"2c07e1becd911c2e8178b8dbef859f53bdf4ff8a640457beb7f93232a324d261","features":{},"yanked":false}
+{"name":"azure-kinect","vers":"0.1.3","deps":[],"cksum":"412b4fe2b86648b894b23e3f5d95a229db591efd86558ab19b99844eafb25f2c","features":{},"yanked":false}
+{"name":"azure-kinect","vers":"0.2.0","deps":[{"name":"azure-kinect-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"252bf78cf6e7817773bb77af6dd746507e4dc4615d4c2fb3f56114f7a67de7e6","features":{},"yanked":false}

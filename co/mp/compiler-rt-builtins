@@ -1,0 +1,1 @@
+{"name":"compiler-rt-builtins","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9dc6e7326298fd095daa7892bbf01816cad1d0139e2b51194542f13727640aab","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"tokio-sip","vers":"0.0.0","deps":[{"name":"sip","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58b9891debad3cd88ff271af9b8a5f9849eaba60a17519a0c87048cecae96aa4","features":{},"yanked":false}

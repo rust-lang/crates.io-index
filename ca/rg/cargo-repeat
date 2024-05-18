@@ -1,0 +1,1 @@
+{"name":"cargo-repeat","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.8","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d647e27faf425fd00c083b26f3eef5dc98fdf243868fee9455e92b0bd7460cd","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"aw","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"td_clua","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08220167b147faf7eecdfb0235603d3da6d72467822c765a97337ea09a5ddd26","features":{},"yanked":false}

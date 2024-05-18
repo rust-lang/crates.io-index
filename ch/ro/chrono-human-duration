@@ -1,0 +1,2 @@
+{"name":"chrono-human-duration","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c8ce839812a8821e70a5ca56b19e67c42f6107471202a199ece72917f275af6","features":{},"yanked":false}
+{"name":"chrono-human-duration","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19283df3a144dfdeee6568e42ad7f0939d3c261bcdfe954b1a1098f6f7c1b908","features":{},"yanked":false}

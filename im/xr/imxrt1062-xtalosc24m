@@ -1,0 +1,2 @@
+{"name":"imxrt1062-xtalosc24m","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96f2f22d0b4def9404e685a7b02069022393da89056e6664c741bba87091bf81","features":{},"yanked":false}
+{"name":"imxrt1062-xtalosc24m","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92887ae36f20fc04405ce46338ba566aaf59f6bc112816958f9988b11d8db371","features":{},"yanked":false}

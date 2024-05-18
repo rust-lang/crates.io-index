@@ -1,0 +1,5 @@
+{"name":"vint32","vers":"0.1.0","deps":[],"cksum":"5b3771d52694f33eb8d2be9fe72013705dcf609829d9324d7ac332f89a2214e2","features":{},"yanked":false}
+{"name":"vint32","vers":"0.1.1","deps":[],"cksum":"8ce6bbfc982042cf113c07578b355372f17f356d1d8598b1374e7de23ff6c733","features":{},"yanked":false}
+{"name":"vint32","vers":"0.1.2","deps":[],"cksum":"e06aba3a2ee2d2f61b3db9e2ed9f47134b1a579e5b3650470b94540b4ece1da5","features":{},"yanked":false}
+{"name":"vint32","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e469dbc245cc101e75c7219e10814e9d09a96798678cac4a58d5ddf2ac1e34e","features":{"common-encoding":["itertools"],"default":[]},"yanked":false}
+{"name":"vint32","vers":"0.3.0","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8134f0a363476e71c3b077be719a7773462afb6a3df3f847f0b92aa30789422f","features":{"common-encoding":["itertools"],"default":[]},"yanked":false}

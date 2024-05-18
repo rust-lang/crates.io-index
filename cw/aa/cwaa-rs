@@ -1,0 +1,1 @@
+{"name":"cwaa-rs","vers":"0.1.0","deps":[{"name":"clap","req":"~2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e89792d592b146e1be68bcc9385b7a56088996cf13fe01f0c2493e980589d717","features":{},"yanked":false}

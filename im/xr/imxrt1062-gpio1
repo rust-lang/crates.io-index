@@ -1,0 +1,2 @@
+{"name":"imxrt1062-gpio1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73521fb6d61165d4a9588c4c95e3b83fa94118407aa97891c89b0390c0236fe","features":{},"yanked":false}
+{"name":"imxrt1062-gpio1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81b9f9a463c1f8637184b27dcf5cf80db17dab0ce8d51fc04593270f51e4c33a","features":{},"yanked":false}

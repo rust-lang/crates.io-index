@@ -1,0 +1,1 @@
+{"name":"dots-and-boxes","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.35","features":["static-link","bundled"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a3829f263a84c0c8b91a522d9ff68cfd9ba5c6a47a3fd882ffc54b20b9dd1d6","features":{},"yanked":false}

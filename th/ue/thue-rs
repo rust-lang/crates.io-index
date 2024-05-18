@@ -1,0 +1,2 @@
+{"name":"thue-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbe613c259c4f847ebf30a187fa1caa223c704f4ed53c110529868b44692a3c1","features":{},"yanked":false}
+{"name":"thue-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef3d4e2b730605b99ca4cb162ea8fa114a6a7d0215347f56a275d41c3e1f02d","features":{},"yanked":false}

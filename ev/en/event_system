@@ -1,0 +1,2 @@
+{"name":"event_system","vers":"0.1.0","deps":[{"name":"event_system_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7482e91c4dfc6788d2fcab9b7294ee96aeb4565864c067d36edaa0d1c1d32cfa","features":{},"yanked":false}
+{"name":"event_system","vers":"0.1.1","deps":[{"name":"event_system_macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"746cbe29afb9e1c66aa14fae0dedc4e7a57f06c5be4d9af712d856fde9fcdb50","features":{},"yanked":false}

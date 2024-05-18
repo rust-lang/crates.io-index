@@ -1,0 +1,4 @@
+{"name":"twinsies","vers":"1.0.0","deps":[],"cksum":"f828b351082fae2c3e3ae02419ee8bd36a5c6d20ba4eab9373285372e5b01678","features":{},"yanked":false}
+{"name":"twinsies","vers":"1.1.0","deps":[],"cksum":"32bce858749b8405de897b5737a3495ccf2887582848de82a6b8afed062eaf8d","features":{},"yanked":false}
+{"name":"twinsies","vers":"1.2.0","deps":[],"cksum":"e2ce1f9f5d78affdfddd6dfee35d9e6525e16c40c41251549b89fe1788a35990","features":{"default":["safest-memory-ordering"],"safest-memory-ordering":[]},"yanked":false}
+{"name":"twinsies","vers":"1.2.1","deps":[],"cksum":"e1d249d90ff35c1d3ff0378ce9d4fdbaa81ac5ba74277ffa4a1f815aad4a6679","features":{"default":["safest-memory-ordering"],"safest-memory-ordering":[]},"yanked":false}

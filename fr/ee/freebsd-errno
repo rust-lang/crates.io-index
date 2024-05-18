@@ -1,0 +1,1 @@
+{"name":"freebsd-errno","vers":"1.0.0","deps":[{"name":"posix-errno","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4617ca47a22e3f3737a749278f557053703c0bc3394aa0501bedb0c3a0c042c0","features":{"default":["posix-traits"]},"features2":{"posix-traits":["dep:posix-errno"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"base91","vers":"0.0.1","deps":[],"cksum":"9cc971dad342555038de31a76cb3eb3d454a15bc65dac9e3024bbec9fa598cec","features":{},"yanked":false}
+{"name":"base91","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4eb5fbae7b5ee422f239444a3dca9bdf5ecb3abf3af1bf87c8097db3f7bc025","features":{"canonical":[],"default":["std","canonical","xml-friendly"],"std":[],"xml-friendly":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"halton","vers":"0.1.0","deps":[{"name":"approx","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"902a96a108ebcd428e86ea63a8c18db39c12f1057b64c524eaf0a7cb3f610fd5","features":{},"yanked":false}
+{"name":"halton","vers":"0.2.0","deps":[{"name":"approx","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c29e2898b1f331caa68b16ec968b7ed3ab4b2318a9a0788c881e56b9ea015589","features":{},"yanked":false}
+{"name":"halton","vers":"0.2.1","deps":[{"name":"approx","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"be629448e3d85a1be12868f190df524655fea8ec3f143e14d803e298f618acae","features":{},"yanked":false}

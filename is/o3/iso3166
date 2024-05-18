@@ -1,0 +1,2 @@
+{"name":"iso3166","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e642f16586f420013c7693705df2c753e287414b2c78fca7f8f7fbc11e4795c1","features":{},"yanked":false}
+{"name":"iso3166","vers":"1.0.1","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5778c4b43c2bda50e6c4e1835f8975d0264eb9e2466ed4437a2a7f790bf5bf72","features":{},"yanked":false}

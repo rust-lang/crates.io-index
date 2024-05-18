@@ -1,0 +1,1 @@
+{"name":"devbit_99bugs_led_display_driver","vers":"0.2.1","deps":[{"name":"spidev","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e85153169f4eeba3d115cd21fcc1258e87340de7854e8199bf78b0cdcdb50de","features":{},"yanked":false}

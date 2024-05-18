@@ -1,0 +1,4 @@
+{"name":"pond","vers":"0.2.2","deps":[],"cksum":"16c9bc7b9359401a68ec507aa6087a5b91aec10913ba1358c054ccdf8e0fa648","features":{},"yanked":false}
+{"name":"pond","vers":"0.2.3","deps":[],"cksum":"8f6cda29c865da4e8ecf2ae7c0e2f6164c127570e6315bd46b9c16b44abd2882","features":{},"yanked":false}
+{"name":"pond","vers":"0.3.0","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cb75900f8da2a4dca3d5c572bffd31c8dcf18794295b52891c38f66a3144a2e","features":{},"yanked":false}
+{"name":"pond","vers":"0.3.1","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd697896a4da66bff2db3d5461d5cc70335224f8a194f950c9a7dbd0a9af982e","features":{},"yanked":false}

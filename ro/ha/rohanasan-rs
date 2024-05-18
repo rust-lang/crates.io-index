@@ -1,0 +1,4 @@
+{"name":"rohanasan-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"767bb7a433e6f96344046639b2b9f0d7b8937c39e60c8a3699f65b30482ed517","features":{},"yanked":true}
+{"name":"rohanasan-rs","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a244af11936541b82051b626a6931a66cd44eaf224dfd291a7633541abb0e06","features":{},"yanked":true}
+{"name":"rohanasan-rs","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b06c11fb577b51ebb6683ac96cc453eb895e502566143b5e0320ea4d64eb3230","features":{},"yanked":true}
+{"name":"rohanasan-rs","vers":"0.2.0","deps":[],"cksum":"9098465b06b3e3d06929d9a94a9f357822b1a8bf7726f43fcffe60b5648d7854","features":{},"yanked":true}

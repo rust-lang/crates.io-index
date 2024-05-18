@@ -1,0 +1,5 @@
+{"name":"debug_unwrap","vers":"0.0.1","deps":[],"cksum":"7178337680fae2c4715190bd8cde4ae1982c7c62ca56821f98ddba1f669ab8f9","features":{},"yanked":true}
+{"name":"debug_unwrap","vers":"1.0.0","deps":[],"cksum":"21c8dc3c9704a3ab4cd8f2545bb7b903c6ea3013e81b5f991d6be37d743fca82","features":{"default":["out"],"o":[],"out":[],"peel":[]},"yanked":false}
+{"name":"debug_unwrap","vers":"1.0.1","deps":[],"cksum":"96cc234c9e01cdaa7db0df91cf532d83bae6cd33d2d5087c8a32b43fa619b4a8","features":{"default":["out"],"o":[],"out":[],"peel":[]},"yanked":false}
+{"name":"debug_unwrap","vers":"1.0.2","deps":[],"cksum":"7b6d3333e1df2a9e5f763ab7686f6a2fdcf9cc3593252f1f3bb76c35d3bed7f6","features":{"default":["out"],"o":[],"out":[],"peel":[]},"yanked":false}
+{"name":"debug_unwrap","vers":"1.0.3","deps":[],"cksum":"e7a1647d70319d267992b15687a6b01a99bea1f446264872d8ab82ae5d6cf008","features":{"default":["out"],"deprecate":[],"o":[],"out":[],"peel":[]},"yanked":false}

@@ -1,0 +1,11 @@
+{"name":"vu64","vers":"0.1.0","deps":[],"cksum":"ad06d776ee7d0078e3f3373e38205286bc59aa38972e94c8b31c731dff961c72","features":{"default":["io"],"io":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.1","deps":[],"cksum":"718c85ca4a68e4d1cb539b649120ff49990645b3a00444d48876a9956157dd8e","features":{"default":["io"],"io":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.2","deps":[],"cksum":"563b5c94ea9dc90ba50307a6302bd5b8349e2918f24807025f30494a72653393","features":{"default":["io"],"io":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.3","deps":[],"cksum":"a5532573557303800ad7bf7eb4328f0d115fb871194fb7f06f4f522fd333439a","features":{"default":["io"],"io":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.4","deps":[],"cksum":"53fb68a261694461f940310c4ba26c68e9f0aee9cfde76dcfd4678402c5925f5","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.5","deps":[],"cksum":"f4e05db0e45c5232c481fe94825c1d33253a1942a140ad67dadbf05fe36e6bee","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.6","deps":[],"cksum":"62558d33eb35a071cd18e2d01990982bbaae223e913be1a0fbe7596e35b370fd","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false}
+{"name":"vu64","vers":"0.1.7","deps":[],"cksum":"585795278d1f7194456a0af58f3032ebbc8dcd779ccea77a2db5e38d3f199fdc","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"vu64","vers":"0.1.8","deps":[],"cksum":"1ecf9c401264d39ee674aaa06ec0b9945ce26221bc48ec9464be30d9315598b4","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"vu64","vers":"0.1.9","deps":[],"cksum":"56a2aa84952e58c1478f9f12a473f00fc6d70b78ae3bf551f63bcde710edf8f5","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.58.0"}
+{"name":"vu64","vers":"0.1.10","deps":[],"cksum":"e518bf73fa097e297105364f776e0f67c4ac7a06dee8c3db7dcec6975adf5643","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.58.0"}

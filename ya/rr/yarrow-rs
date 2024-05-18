@@ -1,0 +1,1 @@
+{"name":"yarrow-rs","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sysinfo","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fb00a5cf5b807e2ff5a71f1fb6d889002bcfa5432c2be01abb8e81507a77de5","features":{},"yanked":false}

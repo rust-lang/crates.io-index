@@ -1,0 +1,2 @@
+{"name":"unic-ucd-hangul","vers":"0.8.0","deps":[{"name":"unic-ucd-version","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6bc5efb38e3a08c451d6e69b884c31c6d969e5824632f155d4b215a92792cc7","features":{},"yanked":false}
+{"name":"unic-ucd-hangul","vers":"0.9.0","deps":[{"name":"unic-ucd-version","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1dc690e19010e1523edb9713224cba5ef55b54894fe33424439ec9a40c0054","features":{},"yanked":false}

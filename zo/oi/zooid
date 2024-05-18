@@ -1,0 +1,2 @@
+{"name":"zooid","vers":"0.0.0","deps":[],"cksum":"64693dfc46d162d5c6196c7fad6d1ef28347a6782bcc9455603a3ca8373a9218","features":{},"yanked":false}
+{"name":"zooid","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.15.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c55cbbeab1d103e7d5099fbf7beee5c4c13a121d08d3cc0e03c5d585fd18837d","features":{},"yanked":false}

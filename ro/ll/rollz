@@ -1,0 +1,2 @@
+{"name":"rollz","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4077c6e2ff8372c085e876dc8a814bb371c066224ae3002913b65e4148ddc652","features":{},"yanked":false}
+{"name":"rollz","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6f890b84c761d86f024d622872c3a6b07ac656690801b6cc3be8fc0bde207cf","features":{},"yanked":false}

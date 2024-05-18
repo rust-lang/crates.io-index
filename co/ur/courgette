@@ -1,0 +1,2 @@
+{"name":"courgette","vers":"0.1.0","deps":[],"cksum":"a507136a8fa68f7c1a85c8d6ee526a87193c5eeae06f22eaed0ac9135b971c93","features":{},"yanked":false}
+{"name":"courgette","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05767fd6b68f37f707eb295c8a873262415e4788083f3a5695944632eb8db2bf","features":{},"yanked":false}

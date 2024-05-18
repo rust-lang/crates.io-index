@@ -1,0 +1,1 @@
+{"name":"edgemorph-binutil","vers":"0.1.0-alpha","deps":[{"name":"binrw","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c6be7dae05d0dde9f39fc63d04325cab27e0e27a34880caa9b10ca14cbd1ce0","features":{"async_std":[],"default":[],"no_std":[],"pyo3":[],"std":[],"tokio":[]},"yanked":false}

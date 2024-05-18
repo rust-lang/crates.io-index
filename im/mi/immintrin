@@ -1,0 +1,2 @@
+{"name":"immintrin","vers":"0.1.0","deps":[{"name":"simd","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4be5292d41997f201e9f2f29a1e68f22e97de9ace098949ada3c81b113f750b","features":{},"yanked":false}
+{"name":"immintrin","vers":"0.2.0","deps":[{"name":"simd","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c425796061b47a45f3b678b7195b533ab56b84e64490ab00b5d835b058d97406","features":{},"yanked":false}

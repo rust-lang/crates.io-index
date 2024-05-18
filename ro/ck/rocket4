@@ -1,0 +1,2 @@
+{"name":"rocket4","vers":"0.1.0","deps":[{"name":"rocket","req":"^0.4.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbbc34ca915eaa858cf01a4ebc7e75cb9365066c1f855bb60d8f67106aba68e5","features":{},"yanked":false}
+{"name":"rocket4","vers":"0.2.0","deps":[{"name":"rocket","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb280da55e826959dd42f6f232fa1db376ba4ea048237d12da840ac4e30d5f8","features":{},"yanked":false}

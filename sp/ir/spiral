@@ -1,0 +1,12 @@
+{"name":"spiral","vers":"0.1.0","deps":[],"cksum":"db53aa6cc85fc2dba309e213f779007a914c07f763c7e0f626c4089c0c5ca4c5","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.1","deps":[],"cksum":"3e970751e07426e11b3e6b0028c2c9ccbf6f14690cc195e293f2268f91c88196","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.2","deps":[],"cksum":"8be59db4bc0ab83768925469b02c3db21660811fe92ed1b257c98afdac4a1132","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.3","deps":[],"cksum":"5e949bfa95473d5ba1eb0c31c6c93817000acff67b6cb0b77ae1a0a416db43f1","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.4","deps":[],"cksum":"445407af7d013b44d2c5c65f80469e881d9321d81858458e622c07ea4a40178d","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.5","deps":[],"cksum":"4893ef410f180e54548b71df26e83556ed1ca9da693bcebfa32d6f9a045a6700","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.6","deps":[],"cksum":"f6d120bbba4b184a0ac5998fe13cb219536366981bd0cb9e67bc0fc27c32ad9a","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.7","deps":[],"cksum":"051bd025f041e6cdf76ae77c654c33841cb2b3d06b672705e1122765721a886c","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.8","deps":[],"cksum":"801d20ca458067367c3180aa683b4d654b303dfe3a328db1e1b5ed3d46f4bc63","features":{},"yanked":false}
+{"name":"spiral","vers":"0.1.9","deps":[],"cksum":"bfe3068700d36b5bc091494a9283587cf2442eb0f0c030295665f26f835cd2e1","features":{},"yanked":false}
+{"name":"spiral","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"},{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pprof","req":"^0.10.1","features":["flamegraph","criterion"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"337538a1d3992a7a0792e1e81c630fa8c04d9dd160591a938afe5fe899e0c1da","features":{},"yanked":false}
+{"name":"spiral","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"},{"name":"num-traits","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pprof","req":"^0.13.0","features":["flamegraph","criterion"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0f42795bcb3d996b05dcb5c2ff00563f21d78d49585764bef7b26b28468210c0","features":{},"yanked":false}

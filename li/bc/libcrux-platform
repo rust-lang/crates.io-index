@@ -1,0 +1,2 @@
+{"name":"libcrux-platform","vers":"0.0.2-pre.1","deps":[{"name":"libc","req":"^0.2.147","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53003aa2797758aa4a58fec0d88b51d633092bc3b83d3b1beec2fff9707975b2","features":{},"yanked":false}
+{"name":"libcrux-platform","vers":"0.0.2-pre.2","deps":[{"name":"libc","req":"^0.2.147","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"647e39666194b11df17c19451d1154b9be79df98b9821532560c2ecad0cf3410","features":{},"yanked":false}

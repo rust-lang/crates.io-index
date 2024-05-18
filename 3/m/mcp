@@ -1,0 +1,2 @@
+{"name":"mcp","vers":"0.1.0","deps":[{"name":"clap","req":"^2.31.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b718af74ba3154306016147adbcccc88d445393cfcb947e81f9ff4b653528c0","features":{},"yanked":false}
+{"name":"mcp","vers":"0.1.1","deps":[{"name":"clap","req":"^2.31.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecfbda9dee7df1a08440748f58dbb9fddb31f9ab71e9b468688b76d9da1068f8","features":{},"yanked":false}

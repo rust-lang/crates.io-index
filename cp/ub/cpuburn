@@ -1,0 +1,2 @@
+{"name":"cpuburn","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1122b20e6007a21663c799db13c502ccd617dcef63428edcc091247c12ffbcc","features":{},"yanked":false}
+{"name":"cpuburn","vers":"0.1.1","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e429b8f961919c494afe8daa598594c51c4b6aae8abbba3243d4fdcc84ec75b2","features":{},"yanked":false}

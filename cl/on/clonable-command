@@ -1,0 +1,2 @@
+{"name":"clonable-command","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4140de6168fe09fe790bf37d6dfdd269f313d23ff9e99cc4e3a8aec6a65f619b","features":{},"yanked":false}
+{"name":"clonable-command","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a94c477ad2f0c0b2772d1c1260972081012cf09d813f8d6ac26144658eed2bcd","features":{},"yanked":false}

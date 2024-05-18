@@ -1,0 +1,2 @@
+{"name":"slick2","vers":"0.2.0","deps":[],"cksum":"f9eec01805a6afb8d9996e33fcbc73b18c1b015995084d6f971f90071acb1b82","features":{},"yanked":false}
+{"name":"slick2","vers":"0.1.0","deps":[{"name":"blake3","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"numext-fixed-uint","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3cc75798549aa5d6e4f1f01d9a4fbf7df2f9bc665f0dfda7307ac13338dd014","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"lzo1x-1","vers":"0.1.0","deps":[{"name":"iai","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f65806095650ad9f23412a060fd566306b0fbea1bfc08dbad7b006ff476828bf","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.56"}

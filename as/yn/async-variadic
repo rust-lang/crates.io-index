@@ -1,0 +1,3 @@
+{"name":"async-variadic","vers":"1.0.0","deps":[],"cksum":"1bb207ab55ff01f6ea2d28ae58d196cf3fe9b370a95c582ca41d097617517726","features":{},"yanked":false}
+{"name":"async-variadic","vers":"1.1.0","deps":[{"name":"async-trait","req":"^0.1.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47eeec97f4e4a6998a80c4ae952907d067d6ab34b35b961e19c2f03462b4c147","features":{},"yanked":false}
+{"name":"async-variadic","vers":"1.1.1","deps":[{"name":"async-trait","req":"^0.1.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30ccb106992a068655b8e2786fe4950da53ad77ce7e61023db08277de6138e09","features":{},"yanked":false}

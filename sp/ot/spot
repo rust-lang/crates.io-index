@@ -1,0 +1,7 @@
+{"name":"spot","vers":"0.1.0","deps":[],"cksum":"44f7840e42d69d16139981d552dab3eddc934f8f9bfebdb0313433f1df899a94","features":{},"yanked":true}
+{"name":"spot","vers":"0.1.1","deps":[],"cksum":"742de5d9746f79406cce97f9ee126d4c506745f600aa24916006bf99cf225b91","features":{},"yanked":false}
+{"name":"spot","vers":"0.1.2","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38838dd1f6a42b7c7c91d6bb05d3935c4d9966c1f235e726e0ec83bcbbbd0145","features":{},"yanked":true}
+{"name":"spot","vers":"0.1.3","deps":[],"cksum":"8e25c3f111096bfd8c0c0d6362a160757e4403fe9b912af2edf0a5df318c59c0","features":{},"yanked":false}
+{"name":"spot","vers":"0.1.4","deps":[],"cksum":"067319991ddb23ae138983134cc5534fed573862d8c2269f947a526a84445cbd","features":{},"yanked":false}
+{"name":"spot","vers":"0.1.5","deps":[],"cksum":"53a3629abae50d8327860d82b157b54f626ae4d66e12a3542d7d02c96fc0eb9c","features":{},"yanked":false}
+{"name":"spot","vers":"0.1.6","deps":[],"cksum":"c76db29d62437818aba909c62c9249e2b3eb3df59590f5143927eed6edcc1458","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"numrs","vers":"0.1.0","deps":[],"cksum":"c1098bed09b4dc9e0ca552734b11834ea6117005ee90ddfb5573228a17999005","features":{},"yanked":false}
+{"name":"numrs","vers":"0.2.0","deps":[{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bf6578eecbbe9391657ad5c679739310d951b487e542ec7334898f89859e4b2","features":{},"yanked":false}

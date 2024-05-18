@@ -1,0 +1,2 @@
+{"name":"dab","vers":"0.1.0","deps":[],"cksum":"61224b3494201522328178063380edcdd2fe4b48aff0d8ba48932ba7dc2fb72f","features":{},"yanked":true}
+{"name":"dab","vers":"0.2.0","deps":[{"name":"cargo_toml","req":"^0.11.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"083ec0221d8856c0112360326af4416e5cec3c873755325a0d3e863ca97653f9","features":{},"yanked":false}

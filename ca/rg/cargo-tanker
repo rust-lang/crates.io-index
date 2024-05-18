@@ -1,0 +1,2 @@
+{"name":"cargo-tanker","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e92cd4457685a88cef730b673b6cf249902db5367c167eff3f5aca3b8526e156","features":{},"yanked":false}
+{"name":"cargo-tanker","vers":"0.1.1","deps":[{"name":"clap","req":"^4.1.4","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c2db35ee1f8d74d17dcc5500681a250758d6157169e4709302faf851435b717","features":{},"yanked":false}

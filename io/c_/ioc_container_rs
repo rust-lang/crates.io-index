@@ -1,0 +1,2 @@
+{"name":"ioc_container_rs","vers":"0.0.1","deps":[],"cksum":"d121d24b6a1a8e9bacffc07b80293ac3244b48a834197dab5a1cf9889b295388","features":{},"yanked":false}
+{"name":"ioc_container_rs","vers":"0.1.0","deps":[{"name":"async-trait","req":"^0.1.77","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.36.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c78b9a05540662b9c3a1fd745ec4c901eaf18845078fb7fbca778af61fab2aa0","features":{},"yanked":false}

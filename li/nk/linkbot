@@ -1,0 +1,2 @@
+{"name":"linkbot","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd44d1f95997b3ace4ef9d529cd979f30fb28f99648f388a37712e7c815bc76b","features":{},"yanked":false}
+{"name":"linkbot","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb38d48ca97e7c1863c3d21d3e85f31743a4a602a7613f1f1f078a9ab62d1079","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"gitmap","vers":"0.1.0","deps":[{"name":"git2","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"87d230d90d0783c7f00e25fc1728ba8e4937a3afc2faf847244f3306b648d104","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"birgitte_fibonacci","vers":"0.1.0","deps":[{"name":"memoize","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d25d898d9aee4c7dd60f1837b9eabfeaa170d0b249c9674e399ad7c09e4dcd5","features":{},"yanked":false}
+{"name":"birgitte_fibonacci","vers":"0.2.0","deps":[{"name":"memoize","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70bc26dbc90eece0fd33993c15a4b9fae992e3705ba33959a2c11586fbe10f2a","features":{},"yanked":false}

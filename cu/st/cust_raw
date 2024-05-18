@@ -1,0 +1,2 @@
+{"name":"cust_raw","vers":"0.11.2","deps":[{"name":"find_cuda_helper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0c1323ca1d8721bec1f48956a5acb6b20dbc450dcb5e4034b515c88cfffb1dd6","features":{},"yanked":false}
+{"name":"cust_raw","vers":"0.11.3","deps":[{"name":"find_cuda_helper","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fbf40d6ade12cb9828bbc844b9875c7b93d25e67a3c9bf61c7aa3ae09e402bf8","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"mathpak","vers":"0.1.0","deps":[],"cksum":"65e0dcc27a4c7f5bd3b5ce057f25187969225e1654103d96e1d6dfc5e6524cfd","features":{},"yanked":false}
+{"name":"mathpak","vers":"0.2.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77682fd25a9fde5724bb8d065afe4b2503fcc73c60007a3c23194ce1608c47d5","features":{},"yanked":false}
+{"name":"mathpak","vers":"0.3.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"479e4869bc3050c936d8fef3c94c02c79f2781cf11225d9af7875c096f5edc15","features":{},"yanked":false}
+{"name":"mathpak","vers":"0.4.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bc6a1af9cdd30708feb875d3daf40915a304a8038bac07e055289fccaf129d0","features":{},"yanked":false}

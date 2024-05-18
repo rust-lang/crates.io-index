@@ -1,0 +1,2 @@
+{"name":"nym-sphinx-types","vers":"0.1.0","deps":[{"name":"sphinx-packet","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"284a967e1f8926ab6e28ef6ca67a0cd78bd509cf762bdd95c63e437dc794d029","features":{},"yanked":false}
+{"name":"nym-sphinx-types","vers":"0.2.0","deps":[{"name":"sphinx-packet","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43fa5ae50cc01e30a118da544133ed83fabbfc896e462257094db40d01fa3acd","features":{},"yanked":false}

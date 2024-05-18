@@ -1,0 +1,1 @@
+{"name":"sql_mermaid_visualizer","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.14","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a1f46b31876e91131ebdb9a4fe5512d0cbc547ea86a3fe87a4f93e8a726552","features":{},"yanked":false}

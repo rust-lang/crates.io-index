@@ -1,0 +1,4 @@
+{"name":"new_project","vers":"0.1.0","deps":[],"cksum":"8299be1829045ad5125de8921a592ebe2519770ece430e5c90f3aa1f32e0e3e4","features":{},"yanked":false}
+{"name":"new_project","vers":"0.1.1","deps":[],"cksum":"0bd0569008d1f035f74543ff380efd34f17ca285b123e3d73e33b198147e4771","features":{},"yanked":true}
+{"name":"new_project","vers":"0.1.2","deps":[],"cksum":"aa687b963d4bd114a3c783b17585fe4f2fedc347d6c50ea7723532fb42e1a0ed","features":{},"yanked":true}
+{"name":"new_project","vers":"0.1.3","deps":[{"name":"new_project","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22626269bb2cf160aa487b0f24dce7f5258435a3acd29916fe78564644d580ef","features":{},"yanked":false}

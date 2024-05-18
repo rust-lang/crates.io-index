@@ -1,0 +1,2 @@
+{"name":"ppeterson_crate_c","vers":"0.1.0","deps":[{"name":"ppeterson_crate_a","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e7a5f14d4d3a0cc7763fc79259595c2f3b010e42511d9c75779ad9e758c2df2","features":{},"yanked":true}
+{"name":"ppeterson_crate_c","vers":"0.3.0","deps":[{"name":"ppeterson_crate_a","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25babdf96c1a2abfaf8f5dbee260a807b0b1b5eb0f1f311a74e49fbe3b056f3d","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"bencoderus","vers":"0.1.0","deps":[],"cksum":"fd286609742dcf35a5e18da11c2aea912ef9d606ec88af5cedde904248d60f18","features":{},"yanked":false}
+{"name":"bencoderus","vers":"0.1.1","deps":[{"name":"hyper","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59e260b763db9111fec785a64655858ad472631d253a71b778580a66673f51ac","features":{},"yanked":false}

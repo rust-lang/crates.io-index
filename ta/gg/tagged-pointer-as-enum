@@ -1,0 +1,1 @@
+{"name":"tagged-pointer-as-enum","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ee9f083383b1cf942c94a1989c9c6dca967fed26cd449d0c855a4ac11ed18de","features":{"bench":["criterion"]},"yanked":false}

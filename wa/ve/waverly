@@ -1,0 +1,2 @@
+{"name":"waverly","vers":"0.1.0","deps":[{"name":"binrw","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f855972698247c8c2994a392635ac10ff4771650cf12aea20a2a73ec40cad2a","features":{},"yanked":false}
+{"name":"waverly","vers":"0.2.0","deps":[{"name":"binrw","req":"^0.8.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"890752c46260e871a88003dfa76b2877d6ebddcf661639cae463d1aa797635fe","features":{"default":[],"std":["binrw/std"]},"yanked":false}

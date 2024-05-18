@@ -1,0 +1,4 @@
+{"name":"virtio-bindings","vers":"0.1.0","deps":[],"cksum":"3ff512178285488516ed85f15b5d0113a7cdb89e9e8a760b269ae4f02b84bd6b","features":{"virtio-v4_14_0":[],"virtio-v5_0_0":[]},"yanked":false}
+{"name":"virtio-bindings","vers":"0.2.0","deps":[],"cksum":"0b9084faf91b9aa9676ae2cac8f1432df2839d9566e6f19f29dbc13a8b831dff","features":{"virtio-v4_14_0":[],"virtio-v5_0_0":[]},"yanked":false}
+{"name":"virtio-bindings","vers":"0.2.1","deps":[],"cksum":"c18d7b74098a946470ea265b5bacbbf877abc3373021388454de0d47735a5b98","features":{"virtio-v4_14_0":[],"virtio-v5_0_0":[]},"yanked":false}
+{"name":"virtio-bindings","vers":"0.2.2","deps":[],"cksum":"878bcb1b2812a10c30d53b0ed054999de3d98f25ece91fc173973f9c57aaae86","features":{"virtio-v4_14_0":[],"virtio-v5_0_0":[]},"yanked":false}

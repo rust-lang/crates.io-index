@@ -1,0 +1,2 @@
+{"name":"utf16string","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"732d8f0a7158b5b98cddc064948e71bbc6ac8454592a649ad19c0ce7390ffe9e","features":{},"yanked":false}
+{"name":"utf16string","vers":"0.2.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b62a1e85e12d5d712bf47a85f426b73d303e2d00a90de5f3004df3596e9d216","features":{},"yanked":false}

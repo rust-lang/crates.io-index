@@ -1,0 +1,2 @@
+{"name":"pure_lines","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9e0d9c75867414cd77c88d41ff877e56f80c9c9dc635aa12dd249d5c4d030525","features":{},"yanked":false}
+{"name":"pure_lines","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"56d93f5c5896b08cb5bda63f6d801739dc08ee08a1f3b76b985aaf287c53d0fd","features":{"quick":[]},"yanked":false}

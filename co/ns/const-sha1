@@ -1,0 +1,4 @@
+{"name":"const-sha1","vers":"0.1.0","deps":[],"cksum":"c28f0f052a1c0870f948ed08fce7f35f577612652befc8693379708c2c69958c","features":{},"yanked":false}
+{"name":"const-sha1","vers":"0.1.1","deps":[],"cksum":"7fce53122b4a8beaa3116b84e5a55eb2884735e9fe290c95fe0fd26ed9aa3cfc","features":{},"yanked":false}
+{"name":"const-sha1","vers":"0.2.0","deps":[],"cksum":"fb58b6451e8c2a812ad979ed1d83378caa5e927eef2622017a45f251457c2c9d","features":{},"yanked":false}
+{"name":"const-sha1","vers":"0.3.0","deps":[],"cksum":"0d8a42181e0652c2997ae4d217f25b63c5337a52fd2279736e97b832fa0a3cff","features":{"default":["std"],"std":[]},"yanked":false}

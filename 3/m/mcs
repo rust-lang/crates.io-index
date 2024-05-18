@@ -1,0 +1,2 @@
+{"name":"mcs","vers":"0.1.0","deps":[],"cksum":"acac7329e167f69c46ecef99d1f3dfbbd65c411661cd7a55664c9d44b581327b","features":{},"yanked":false}
+{"name":"mcs","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"789244647c981c67d83f384b561945f0b6b0548971a797f6d3086ee957f89a64","features":{"default":["unstable"],"unstable":[]},"yanked":false}

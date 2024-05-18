@@ -1,0 +1,14 @@
+{"name":"gpp","vers":"0.1.0","deps":[],"cksum":"9dd84faa63b2c684fd1c8a8c07a869dd4fb530fc2af70e2f4c410b5679e33039","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.0","deps":[],"cksum":"4a00f8f5c5265a6d0fc75d7c58567dcfe977071f9b5a7a0babf09e2b56dbee53","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.1","deps":[],"cksum":"b96666f7274734a3af44436e463d0cc299b3609bfb0eed9a344e7f542d8bd502","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.2","deps":[],"cksum":"0ab2afb5a2a95c06734308fe3b9d0cf35735fd1c0e740191baba3571aa511483","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.3","deps":[],"cksum":"1e2636235e546b8edcc2aeb7bba01fbf59dd20052f0f8b7414da01cefac2874d","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.4","deps":[],"cksum":"29c4f755913b1488ad1938caedb44c1c07845cc4b906bc8fe70ae9e44d5177b4","features":{},"yanked":false}
+{"name":"gpp","vers":"0.2.5","deps":[],"cksum":"ec617fe17c077a8c1e4ae117eabb593ed7413083b4ba825110c93b2b31f40063","features":{},"yanked":false}
+{"name":"gpp","vers":"0.3.0","deps":[],"cksum":"9d7c547c495ae9f5da6f2e594cdb5d9393df91ff7f89c377535f900eefc88e8f","features":{},"yanked":false}
+{"name":"gpp","vers":"0.4.0","deps":[],"cksum":"fcde729496ade21840d9c496c5ff0f634cd40c6b5fd5e128d5789576684546db","features":{},"yanked":false}
+{"name":"gpp","vers":"0.4.1","deps":[],"cksum":"e2b0aa9f45224a2d3b69311434f16a17e7501e0298bc3139570affe43bdca1b0","features":{},"yanked":false}
+{"name":"gpp","vers":"0.5.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a97ef79ada2c6b391dea127f4c6cf23a95621bc53b1af09efe54105a554bca39","features":{},"yanked":false}
+{"name":"gpp","vers":"0.6.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35e0ec5af2abfee17e0b601ad33920cc19826a39d1f8e8bf499f420898c0a3b5","features":{},"yanked":false}
+{"name":"gpp","vers":"0.6.1","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"057e0f99994a995dc097c367ae6976f17de11d1f7961f1f61fcc935fff8beb1f","features":{},"yanked":false}
+{"name":"gpp","vers":"0.6.2","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"083168a3a8cdb2a7d48be1e1bcc25bd63dd72e5fa89aa9c6506c1a78e083aa6d","features":{},"yanked":false}

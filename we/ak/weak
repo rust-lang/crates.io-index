@@ -1,0 +1,6 @@
+{"name":"weak","vers":"0.0.0-0.0.0-0.0.0","deps":[],"cksum":"59cdd30c7b19f40db58042ecb4ad792d8b20ff050336da95e111dc44227646b2","features":{},"yanked":true}
+{"name":"weak","vers":"0.0.0-dev.0","deps":[{"name":"num-derive","req":">=0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":">=0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"weak-build-macros","req":"^0.0.0-dev.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7879c530da5b100da77b98df280fb3c2baec1d773674b04ba4bbd554c708409d","features":{},"yanked":true}
+{"name":"weak","vers":"0.0.0-empty-test","deps":[],"cksum":"c368c3c689e68a0cb4cf2c1c09b4f579bccfd56aaf0e2b88df412863df79d1bf","features":{},"yanked":true}
+{"name":"weak","vers":"0.0.0-empty-test2","deps":[],"cksum":"fc55cb4049422ba7629d0b7b20d70f2b60d60cb94d2806cf86337b09b6e3b4b4","features":{},"yanked":true}
+{"name":"weak","vers":"0.0.0-empty-test3","deps":[],"cksum":"72913b3e2a366150434af2e2d3c3187ec3b1f01a3e38b8f9baed7c21ae78e20c","features":{},"yanked":true}
+{"name":"weak","vers":"0.0.0--","deps":[],"cksum":"e62fd643b91202a3fa3ced5f31b92db0bfbaaba40fea1baf75dfaceaf5051cb2","features":{},"yanked":true}

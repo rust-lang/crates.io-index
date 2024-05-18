@@ -1,0 +1,11 @@
+{"name":"bare-metal","vers":"0.1.0","deps":[],"cksum":"19de0ac42f6977d7428858b750131ea9c8166f4ccb7deeab38b6a8656c9798b0","features":{},"yanked":false}
+{"name":"bare-metal","vers":"0.1.1","deps":[],"cksum":"aacbba24771a81cfe18f5aedd5bf3208ca8324ecdd9344ddb61f8d2a051a4574","features":{},"yanked":false}
+{"name":"bare-metal","vers":"0.1.2","deps":[],"cksum":"eda0f54b2d49f18f3867a5e6d458299bb886db6e64c34d319d6b1aa0839ac31c","features":{"const-fn":[],"default":["const-fn"]},"yanked":false}
+{"name":"bare-metal","vers":"0.2.0","deps":[],"cksum":"517bf6fd0a06665f8a6d094d3a520f1d0a989c3d114470a75a84a39204e69e96","features":{"const-fn":[]},"yanked":true}
+{"name":"bare-metal","vers":"0.2.1","deps":[],"cksum":"ad046fbca36b9b8b593ebccb968382d2a196d35dbcaa511e5af5da9aab503fd7","features":{"const-fn":[]},"yanked":false}
+{"name":"bare-metal","vers":"0.2.2","deps":[],"cksum":"9ac71b5cbf6f6cdee8029a8f34ece9abc6084002fe43cbaddb4e474fc19f635c","features":{"const-fn":[]},"yanked":true}
+{"name":"bare-metal","vers":"0.2.3","deps":[],"cksum":"1bdcf9294ed648c7cd29b11db06ea244005aeef50ae8f605b1a3af2940bf8f92","features":{"const-fn":[]},"yanked":false}
+{"name":"bare-metal","vers":"0.1.3","deps":[],"cksum":"df3088b133d843768dbcd67d4443703f81eaaba50d30ed81467048de713f24f4","features":{"const-fn":[],"default":["const-fn"]},"yanked":false}
+{"name":"bare-metal","vers":"0.2.4","deps":[{"name":"rustc_version","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3caf393d93b2d453e80638d0674597020cef3382ada454faacd43d1a55a735a","features":{"const-fn":[]},"yanked":false}
+{"name":"bare-metal","vers":"0.2.5","deps":[{"name":"rustc_version","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5deb64efa5bd81e31fcd1938615a6d98c82eafcbcd787162b6f63b91d6bac5b3","features":{"const-fn":[]},"yanked":false}
+{"name":"bare-metal","vers":"1.0.0","deps":[],"cksum":"f8fe8f5a8a398345e52358e18ff07cc17a568fbca5c6f73873d3a62056309603","features":{},"yanked":false}

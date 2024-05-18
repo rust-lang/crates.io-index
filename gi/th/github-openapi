@@ -1,0 +1,2 @@
+{"name":"github-openapi","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30eda3bc63cc7ea39b63b2b444f35526928086bf4e00ae145bf2f7222720612c","features":{},"yanked":false}
+{"name":"github-openapi","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c891ffac4f416053e45df4c16dadd843cdf9aaaa2889157e55a033c5bdaad2e1","features":{},"yanked":false}

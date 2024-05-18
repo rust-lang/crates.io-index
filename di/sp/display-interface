@@ -1,0 +1,8 @@
+{"name":"display-interface","vers":"0.1.0","deps":[],"cksum":"4f5ba19082718a5415692d89fd150c542b9eeeb55fb534aae7bf3530c5d7b856","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.1.1","deps":[],"cksum":"a8d426460b6bcbc3e8e40fcdc44b9b364ae9fbf2ba15836963b62c37f9a24cfb","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.2.0","deps":[],"cksum":"61d250d8d42e8c603d58f5e0b3c9c10e7c281d106fc3b473c2929bba114d7e02","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.2.1","deps":[],"cksum":"07dda8d2dfb92b17bff0395151e8fe7f266f0923c75383200c09bc7ef472f28f","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.3.0","deps":[],"cksum":"a292123fd3fe14e0e3fe9138f5bfa23e0f0030f3d373d0186af1573868c7d29c","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.4.0","deps":[],"cksum":"da12a892db5cce95ae247e8803dc653b1a73da3b0450f7983eb518dd54f583cf","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.4.1","deps":[],"cksum":"7517c040926d7b02b111884aa089177db80878533127f7c1b480d852c5fb4112","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.5.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ba2aab1ef3793e6f7804162debb5ac5edb93b3d650fbcc5aeb72fcd0e6c03a0","features":{"default":[]},"features2":{"defmt-03":["dep:defmt"]},"yanked":false,"rust_version":"1.75","v":2}

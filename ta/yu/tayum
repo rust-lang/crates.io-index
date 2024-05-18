@@ -1,0 +1,1 @@
+{"name":"tayum","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"312e50bfa2332fd0bc2a6a2c7a2f20e26897ca8c88e1cbfc0a43b8d3825d40f0","features":{},"yanked":false}

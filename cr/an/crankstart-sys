@@ -1,0 +1,2 @@
+{"name":"crankstart-sys","vers":"0.1.1","deps":[{"name":"euclid","req":"^0.20.13","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dddb20b68a4a43ad53f0e9b412b2825cf7bf02379c2ae7369ffc6c9d5bf1e74c","features":{},"yanked":false}
+{"name":"crankstart-sys","vers":"0.1.2","deps":[{"name":"euclid","req":"^0.20.13","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0bdae527402592ae05cef4741bc4f92282152996d41d39567c9c03f9983de5ab","features":{},"yanked":false}

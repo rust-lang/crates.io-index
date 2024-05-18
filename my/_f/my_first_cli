@@ -1,0 +1,7 @@
+{"name":"my_first_cli","vers":"0.1.0","deps":[],"cksum":"dd8aa2d7f9cc9e758fcaea635d6a7c19de9569325d3047ce30a11c18afe7bf9b","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.1.1","deps":[],"cksum":"3c742aef2b0fe4e359d937c5d9e3e71046faebc65e307b94ecc0d0b1b30950ca","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.1.2","deps":[],"cksum":"61485f82fa0c431a97cdf0aaa8677733616df3262dabee5d9dc4d78ec4cd36c6","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.1.3","deps":[],"cksum":"0421825cafa613fd3736154c8e709633806ea2261e513f7865f6558f21c39e86","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.1.4","deps":[],"cksum":"dd2cdf0920dc2ce6b3108aa5877c8bbb2a2f58259707ff10cccb1491ac0cde24","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.2.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f6233c9f3c9cc1472d9c380289a6cd550a15b78417f2f8e452f55a5931cc017","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.2.1","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"171a5dd155c6696e39db7da9a179476bb0e4dc70460eca097a1d5aff1541a831","features":{},"yanked":false}

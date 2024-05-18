@@ -1,0 +1,2 @@
+{"name":"tilde-expand","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5377ae0f3313196415d7a12a4a3fd434e25c05f4ad6859e552a40b8bffc378df","features":{},"yanked":true}
+{"name":"tilde-expand","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ab1f382b10dd7ff9926b5c33374bc4011b27c82ee890c741aef2bd3fa0d10ba","features":{},"yanked":false}

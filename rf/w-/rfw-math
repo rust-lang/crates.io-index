@@ -1,0 +1,1 @@
+{"name":"rfw-math","vers":"0.2.0","deps":[{"name":"glam","req":">=0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c74a50e7e65115c87d92c69ad17c3124c541d2052065e1d486a2968e938bd83","features":{},"yanked":false}

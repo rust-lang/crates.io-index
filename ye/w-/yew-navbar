@@ -1,0 +1,2 @@
+{"name":"yew-navbar","vers":"0.1.0","deps":[{"name":"yew","req":"^0.21.0","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0c4a48807f39ee27dbd773ffafa697a0188eecff891ea53b1f6ad5bc54ef188","features":{},"yanked":false}
+{"name":"yew-navbar","vers":"0.1.1","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e2f4763b926f74a104fd7bb771725aa7c425755cd1c47c255a36167524ce932","features":{},"yanked":false}

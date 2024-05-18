@@ -1,0 +1,2 @@
+{"name":"gramit","vers":"0.1.1","deps":[],"cksum":"f78b362b71390ef9f78cde3504a28427ced0c1c0ef12083ebec702fd44862795","features":{},"yanked":false}
+{"name":"gramit","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"vulkano","req":"^0.16","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4b053dfb500a249d9e4a828052201677061ea7bd58bb7d452854facd1b4412b","features":{"default":[]},"yanked":false}

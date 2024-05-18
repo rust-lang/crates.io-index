@@ -1,0 +1,2 @@
+{"name":"sgx-quote","vers":"0.0.9","deps":[{"name":"nom","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb33c1db5ae50de2c0c14da4d52b19fb51717442443b4f1833c276528df61f4","features":{},"yanked":false}
+{"name":"sgx-quote","vers":"0.1.0","deps":[{"name":"nom","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1640577af7b81d10db340c4b31006b77972e3918f351eec4e65c389c8b58e21","features":{},"yanked":false}

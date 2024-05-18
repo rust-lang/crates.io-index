@@ -1,0 +1,2 @@
+{"name":"cardinal-values","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d133c960ed3c70895f6da4a3f30dedf43cef372bc025690418a37d374b86474d","features":{},"yanked":false}
+{"name":"cardinal-values","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f49401b60059e232f6f9ae66b692e9843690cd1ca46080700be4b8d6b9fc41b7","features":{},"yanked":false}

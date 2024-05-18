@@ -1,0 +1,2 @@
+{"name":"guessing_game_2022_02_27","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35ed5fb6ea2ab5a83b6adb48b868a0f6ec9602c4989ddff7bbcbd1c3728f96ee","features":{},"yanked":true}
+{"name":"guessing_game_2022_02_27","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01e67c270114afacd2550a4cb997986d4ff4931f2aa68ac6617cf9b49f5b269f","features":{},"yanked":true}

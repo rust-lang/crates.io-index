@@ -1,0 +1,4 @@
+{"name":"tetcore-std","vers":"0.0.0","deps":[],"cksum":"3109d5871513072ccf393146846b059ef81ed4aac5073a1976756d97de809b4d","features":{},"yanked":true}
+{"name":"tetcore-std","vers":"2.0.1","deps":[],"cksum":"e37fb16f522d959aff9d468d0ae2c65e65f522a542b98d34e619dcb0fdaf1a52","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"tetcore-std","vers":"2.0.2","deps":[],"cksum":"7aee7110a285aa4318ec5cc434611627f4557da93d98cfbba38968c888243fa5","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"tetcore-std","vers":"2.1.2","deps":[],"cksum":"60d73ec9a6aa8f7eb55a5a264f41b6522bd6347582c64a4ef576ab46af232a07","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,11 @@
+{"name":"arpfloat","vers":"0.1.0","deps":[],"cksum":"2813198b2497f6c5af50f725cba4c1456ba93b17a53fc172ee39aeacaa45f987","features":{},"yanked":false}
+{"name":"arpfloat","vers":"0.1.1","deps":[],"cksum":"7d32faf23146be3c504eb0ce541d0c592d52db6bb3d81b6ff7638e4f9cbcb060","features":{},"yanked":false}
+{"name":"arpfloat","vers":"0.1.2","deps":[],"cksum":"913dfd51f0fae2005fafcc2963218f2001e6e2bc9db8eef5c3500fa3be921b94","features":{},"yanked":false}
+{"name":"arpfloat","vers":"0.1.3","deps":[],"cksum":"85bffa9f4c9a7e1142e33916c08b8a4e9e90496d64029ff623c7c81f77273cee","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.4","deps":[],"cksum":"315032a8dddb0f676a12b11ed7b3af8e31d2e191d0f359c8de0dbfc27c82cbfa","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.5","deps":[],"cksum":"ad87f9288b6aea7847aa78bf1c27682c09969a598cb27b5c2f0460c5b7fa37a3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.6","deps":[],"cksum":"931c69aca8ac8e06163442bc47fb0201c8dab3837fcf758f6fa2b25147622250","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.7","deps":[],"cksum":"5825cb83fc7be064a4dd46faf1642dd1ec9ebe37180563b558804a991f69ff2f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.8","deps":[],"cksum":"dad3efaf9f71917ad025408bdf406e588b6b329c2764002f8996b1e5c8cd3c52","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.9","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b77597b069240fb69858353b4a741c5ffbe0a8f9790225407bc7223c116bc31","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.10","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9c57235540e90bbb79861d681fa51f6e3945f599c24c68397c5df21ead9879e2","features":{"default":["std"],"std":[]},"yanked":false}

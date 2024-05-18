@@ -1,0 +1,3 @@
+{"name":"fui_system_core","vers":"0.1.0","deps":[],"cksum":"86586e953212ae5d3a5aff15e60b88156c563e929ae62ddbe9e70e1b0f5bc6a7","features":{},"yanked":false}
+{"name":"fui_system_core","vers":"0.11.0","deps":[],"cksum":"f8e7d0a47c48cc97a713f808cd252f4b201ac8256f8efd594794c20d40b523a2","features":{},"yanked":false}
+{"name":"fui_system_core","vers":"0.12.0","deps":[{"name":"bitflags","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4625a92042d4a879af6d62d19dfd4a9b370492593ffe3d583013c577ee1e7e96","features":{},"yanked":false}

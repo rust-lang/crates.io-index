@@ -1,0 +1,2 @@
+{"name":"http-connection","vers":"0.0.0","deps":[],"cksum":"36ed8feef706526587a6d1ec246922c205c635cc70852d7ceb0a44d3cb303b47","features":{},"yanked":false}
+{"name":"http-connection","vers":"0.1.0","deps":[{"name":"http","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio-tcp","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f6080cea47f7371d4da9a46dd52787c598ce93886393e400bc178f9039bac27","features":{"default":["tcp"],"tcp":["tokio-tcp"]},"yanked":false}

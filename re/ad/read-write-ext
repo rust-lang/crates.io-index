@@ -1,0 +1,2 @@
+{"name":"read-write-ext","vers":"0.1.0","deps":[{"name":"fixed-buffer","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b95afe63b5d3c72f3bc5420a92ebe89710cec3420ccbeed3d70a871bbd5cfc64","features":{},"yanked":false}
+{"name":"read-write-ext","vers":"0.1.1","deps":[{"name":"fixed-buffer","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fefb2c47531e3f652fa6119f811e9055d8d8f3aa0277caaeda56950d1ef9162c","features":{},"yanked":false}

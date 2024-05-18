@@ -1,0 +1,1 @@
+{"name":"clogger","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e46b023981d6e1a0df2197a13c190ee2ecdcc3cb9f7e42b23a9586c7a0d5739","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"drogue-boot","vers":"0.1.0","deps":[],"cksum":"29f85f1c7146c7654d0865c12c39122eafd40a01135d51177f83713fa6f498a7","features":{},"yanked":false}
+{"name":"drogue-boot","vers":"0.1.1","deps":[],"cksum":"b5ca61469a642b4cb8ebfa3ab8bb4a04b61226eca7493ca0ae5cacd170763b52","features":{},"yanked":false}
+{"name":"drogue-boot","vers":"0.1.2","deps":[{"name":"rtt-target","req":"^0.2.0","features":["cortex-m"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16bb1b860e827649c1003c17c68520125579deda291b236affec1423c90bcf9e","features":{"rtt":["rtt-target"]},"yanked":false}

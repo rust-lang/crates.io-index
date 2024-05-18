@@ -1,0 +1,1 @@
+{"name":"encoding-next-index-korean","vers":"1.20180106.0","deps":[{"name":"encoding-next_index_tests","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f43fb584f42bbc55eae6c98ce2cb6d7f546a83eca694eb4866016dce5d9ea677","features":{"no-optimized-legacy-encoding":[]},"yanked":false}

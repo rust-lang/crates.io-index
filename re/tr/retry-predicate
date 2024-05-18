@@ -1,0 +1,2 @@
+{"name":"retry-predicate","vers":"0.0.0","deps":[],"cksum":"9a82eb2375becb76ee7e8c633e51a7f609c938aa53dc011fad89c9275559f20f","features":{},"yanked":true}
+{"name":"retry-predicate","vers":"0.1.0","deps":[],"cksum":"de4e01b6a9151ea5e162dd4521f35047ab8ca927c226c92e2550e675a08e809d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"macro-utils","vers":"0.1.0","deps":[],"cksum":"c0952487a5051152125e3191e1bd960bc3959bbdbf97ac46c2825d4608ce7f46","features":{},"yanked":false}
+{"name":"macro-utils","vers":"0.1.1","deps":[],"cksum":"50e0e1e4875ca62f6deac89197da96aeb86e5c11b773d7cde41d41cd8e1a2cbf","features":{},"yanked":false}
+{"name":"macro-utils","vers":"0.1.2","deps":[],"cksum":"f2c4deaccc2ead6a28c16c0ba82f07d52b6475397415ce40876e559b0b0ea510","features":{},"yanked":false}
+{"name":"macro-utils","vers":"0.1.3","deps":[{"name":"doc-comment","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e72f7deb758fea9ea7d290aebfa788763d0bffae12caa6406a25baaf8fa68a8","features":{},"yanked":false}

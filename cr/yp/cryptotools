@@ -1,0 +1,2 @@
+{"name":"cryptotools","vers":"0.1.0","deps":[{"name":"md5","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f9557d81b86f82f2d21813612a388432c4bc257a51075876c018b6af5018107","features":{},"yanked":false}
+{"name":"cryptotools","vers":"0.2.0","deps":[{"name":"md5","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab23b1309a17cbac61671ac4e681caff852ae9925c7ef9d7f2f1fcb5e0501637","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"imprint","vers":"0.1.0","deps":[],"cksum":"bf9aa9ef33863aa91b9c9068ecaa12b20b5994c166e404f9865da1dd04b9b29e","features":{},"yanked":false}
+{"name":"imprint","vers":"0.2.0","deps":[{"name":"num","req":"^0.1.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-iter","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c246a7b27692a710cce28a9d897a71c846cf9fcea90f5b5700604b90791d9703","features":{},"yanked":false}

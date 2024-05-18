@@ -1,0 +1,1 @@
+{"name":"fuzzy-json","vers":"0.1.0","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9e066231a1d0a1c6bf127670f11a0d384012f4546fe3ee605e10b5819dc3aa05","features":{},"yanked":false}

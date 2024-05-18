@@ -1,0 +1,1 @@
+{"name":"purewasm-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fc0efe0795750debf3f79383f40ee975201eb860b8401f50fb2d64dc4583d46d","features":{},"yanked":false}

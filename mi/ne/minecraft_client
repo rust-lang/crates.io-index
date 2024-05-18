@@ -1,0 +1,4 @@
+{"name":"minecraft_client","vers":"0.1.0","deps":[],"cksum":"212ad9a9ee3bb882f0ea0db13d937320294e6dddf222c15a3aadaddf7ba63ccb","features":{},"yanked":true}
+{"name":"minecraft_client","vers":"0.0.1","deps":[],"cksum":"a5f2ab33426bcd146899246236192bfb23e402d309c5d1426606f3940f2d96da","features":{},"yanked":false}
+{"name":"minecraft_client","vers":"0.0.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"simplelog","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bace1cc353a3965fda0394bdcb459300ad8673573c9091303660b319218cc82a","features":{},"yanked":false}
+{"name":"minecraft_client","vers":"0.1.1","deps":[],"cksum":"641534cd292587287ed1332fb27c5f3ce6e16f61293977c18d7cb70d0115b5f8","features":{},"yanked":false}

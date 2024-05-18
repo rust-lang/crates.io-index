@@ -1,0 +1,7 @@
+{"name":"static_assert","vers":"0.1.0","deps":[],"cksum":"06bf152fe040ea492b70b41158454a14e87ed578b74fc0dec9ac5967ea67f97e","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.1.1","deps":[],"cksum":"5db4989e0a7078404034fbd075837da57c1f7ff2af8ce1779e73acf9af483d4c","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.1.2","deps":[],"cksum":"d38ca1256f7de81113553484b8a4bc72776b491700a3a2d8c7a4e1e885698aa8","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.1.3","deps":[],"cksum":"a3d1f41ffa1737c7d4eea6d33ef5f0d0dd9b38037d823c09f48aad62bb47c6ca","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.2.0","deps":[{"name":"compiletest_rs","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"28a7c590e9b025a9788470ebb5008304c64d20bd56fef324b5b2c5f96008f3de","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.3.0","deps":[{"name":"compiletest_rs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"454db8c665bb6607436994d264263ccc339be7d64560d46be253f8291c41d401","features":{},"yanked":true}
+{"name":"static_assert","vers":"0.3.1","deps":[{"name":"compiletest_rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef550a3cbe8867e2f9b806d1ff6fd6f0d2cc14cba83e984b93c0ac87c7f26a43","features":{},"yanked":true}

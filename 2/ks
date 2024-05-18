@@ -1,0 +1,2 @@
+{"name":"ks","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"180857f602f3508b34b4d014648f52c4cbf94f6c0853c21fe18bfdd3a0082316","features":{},"yanked":false}
+{"name":"ks","vers":"0.2.0","deps":[{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a11b6ce1d9bf936d1e52446656f3a5a83fb1f1658835279b5e3664b836252379","features":{},"yanked":false}

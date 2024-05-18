@@ -1,0 +1,14 @@
+{"name":"pc-ints","vers":"0.0.1","deps":[],"cksum":"a1433e40550a01c247d47e1df97bbc7b151e3fa4ce44d6066e8d2bae6a6c7634","features":{},"yanked":false,"rust_version":"1.61"}
+{"name":"pc-ints","vers":"0.0.2","deps":[],"cksum":"16df52d24404e532cc067c99180aec9b25c425db4ab456a4e39068597bf0cff6","features":{},"yanked":false,"rust_version":"1.61"}
+{"name":"pc-ints","vers":"0.1.0","deps":[],"cksum":"616b1c472551d7416cc0620192416534c78384419f65a387b04051d6f5b36033","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.1.1","deps":[],"cksum":"36f11c7f8f68256fcf57623ab4f8f92721573dfe0e80bf99b61c4b6197b1eb10","features":{},"yanked":true}
+{"name":"pc-ints","vers":"0.1.2","deps":[],"cksum":"327760e9066da9c2a1832fa533772956203d416db8c9a715a22f4d4c928077eb","features":{},"yanked":true}
+{"name":"pc-ints","vers":"0.1.3","deps":[],"cksum":"bade57431f9d41e338c9c908460a02e22a70a8b30fe758856fd026330e956018","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.1.4","deps":[],"cksum":"422b0cc3a966f6e0987d2f948c234585bd917a1f16df1470e60c56ad6de2c085","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.2.0","deps":[],"cksum":"e7e2082c07341ee32ddc9896ff7132d3fc63b1d3957fa463711cb7b7e47c4768","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.2.1","deps":[],"cksum":"bf2cddb86eccbfcdbeb0f10adedcbb2d1d1a272b33911abf8e81332c828dc1b4","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.3.0","deps":[{"name":"memoffset","req":"^0.8.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"800e2098562e54ce70ce575d1a5e7ee9b4133d3f18e1cce26b9487f66167ad17","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.3.1","deps":[{"name":"memoffset","req":"^0.8.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a3a0755c74e18ec32220df0c2eddb6ef7970a079417e65f22a59710d8992dd1","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.3.2","deps":[{"name":"memoffset","req":"^0.8.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"282404291842afd51a3f3ad2dc8dfd46519c152e8daeea49245390634f0244a2","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.3.3","deps":[{"name":"memoffset","req":"^0.9.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0285c7a5838c0368456aa9c5537619ca6b77ce19732a426bfc20f5baa161dc23","features":{},"yanked":false}
+{"name":"pc-ints","vers":"0.3.4","deps":[{"name":"memoffset","req":"^0.9.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46a0c5099ffcaf701968dbd51a2b05ababc9e3360d7ad0af87d2622a93b7efb7","features":{},"yanked":false}

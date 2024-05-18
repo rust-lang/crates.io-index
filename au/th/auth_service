@@ -1,0 +1,2 @@
+{"name":"auth_service","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6028d1734257abc73803d6ec0462fff07e0784b640c211fc3073dc7875754f0e","features":{},"yanked":false}
+{"name":"auth_service","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"539c9b9d08d45aabbb87ead89917f7e4ba19f8417853fa0581f9cc409a9d8e22","features":{},"yanked":false}

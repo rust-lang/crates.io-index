@@ -1,0 +1,4 @@
+{"name":"tuplex","vers":"0.0.1","deps":[],"cksum":"f6f888505a52b413f85b47b8ddff96711c59933d3706dcb442f942335ea85b00","features":{},"yanked":false}
+{"name":"tuplex","vers":"0.1.0","deps":[],"cksum":"22a47b144e4dbd6671cafc72121b3845c08b281baa7a9b110d938953d2132821","features":{},"yanked":false}
+{"name":"tuplex","vers":"0.1.1","deps":[],"cksum":"10d7b5d3f6af26963b2de1090009ca95125900eb7dd76149fa667831a4b6fa41","features":{},"yanked":false}
+{"name":"tuplex","vers":"0.1.2","deps":[],"cksum":"676ac81d5454c4dcf37955d34fa8626ede3490f744b86ca14a7b90168d2a08aa","features":{"default":["std"],"std":[]},"yanked":false}

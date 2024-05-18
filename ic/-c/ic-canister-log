@@ -1,0 +1,2 @@
+{"name":"ic-canister-log","vers":"0.1.0","deps":[],"cksum":"cc30fcca108209c073e0a08b5cdf50b10a91125a9814f2cd3c65da58cb87a1ee","features":{},"yanked":false}
+{"name":"ic-canister-log","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.136","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb82c4f617ecff6e452fe65af0489626ec7330ffe3eedd9ea14e6178eea48d1a","features":{},"yanked":false}

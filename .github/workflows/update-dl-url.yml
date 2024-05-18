@@ -1,0 +1,77 @@
+---
+
+# This workflow allows on-call operators to safely switch the value of the `dl`
+# key in `config.json` during an outage, to ensure people can continue building
+# projects with `cargo`.
+#
+# The workflow can be invoked through GitHub's UI.
+#
+# To add new options change `on.workflow_dispatch.inputs.url.options` to
+# include your new option, and then add the related environment variable in
+# the `env` section.
+
+name: Update download URL
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Switch downloads to
+        required: true
+        type: choice
+        options:
+          # The format of this is "${id}:${description}". Each option
+          # corresponds to the environment variable `URL_${id}`.
+          - "api: API on Heroku (default)"
+          - "cdn: CloudFront CDN"
+          - "s3_primary: S3 bucket in us-west-1"
+          - "s3_fallback: S3 bucket in eu-west-1"
+
+env:
+  URL_api: "https://crates.io/api/v1/crates"
+  URL_cdn: "https://static.crates.io/crates/{crate}/{crate}-{version}.crate"
+  URL_s3_primary: "https://crates-io.s3-us-west-1.amazonaws.com/crates/{crate}/{crate}-{version}.crate"
+  URL_s3_fallback: "https://crates-io-fallback.s3-eu-west-1.amazonaws.com/crates/{crate}/{crate}-{version}.crate"
+
+permissions:
+  contents: write
+
+jobs:
+  switch:
+    # The option the user selected is included in the job name to permanently
+    # log it, as those options are not otherwise logged and including it in the
+    # build log would result in it being deleted after 90 days.
+    name: Switch to ${{ github.event.inputs.url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone the source code
+        uses: actions/checkout@v2
+
+      - name: Switch the download endpoint
+        run: |
+          set -euo pipefail
+
+          # Dynamically fetch the URL based on the choice the user made. The
+          # first line calculates the environment variable name by
+          # concatenating "URL_" and the part of the input before ":". Then the
+          # second line fetches the value of the variable with that name.
+          var_name="URL_$(echo "${{ github.event.inputs.url }}" | sed "s/:.*//")"
+          url="${!var_name}"
+
+          # Use `jq` to update the `dl` field of the configuration file while
+          # preserving the rest of the contents.
+          jq --arg url "${url}" '.dl = $url' config.json > updated-config.json
+
+          # The GitHub API is used instead of `git commit`/`git push` to sign
+          # the commit with GitHub's key. The sha of the previous `config.json`
+          # is provided to make sure we don't override concurrent changes.
+          curl \
+            --fail \
+            -X PUT \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d "{
+              \"message\": \"Switching download endpoint\",
+              \"content\": \"$(base64 -w0 updated-config.json)\",
+              \"sha\": \"$(git hash-object config.json)\"
+            }" \
+            https://api.github.com/repos/${{ github.repository }}/contents/config.json

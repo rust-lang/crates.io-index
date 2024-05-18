@@ -1,0 +1,2 @@
+{"name":"dyn_sized","vers":"0.1.0","deps":[{"name":"fn_move","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a71265d4b4a307a6864ab82f3eaed1a07e7f671d3055af4a5903aa85e40da4","features":{},"yanked":false}
+{"name":"dyn_sized","vers":"0.2.0","deps":[{"name":"fn_move","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64bb952e39eb15d2fb520076989a535514e0eb929dc4f64aded3519626d8c13e","features":{},"yanked":false}

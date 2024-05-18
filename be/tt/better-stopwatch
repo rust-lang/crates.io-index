@@ -1,0 +1,2 @@
+{"name":"better-stopwatch","vers":"0.1.0","deps":[],"cksum":"b53d16bfd4ae43625cb9451a52d442ac203432c02d508a5b40ef53c2fc081ecd","features":{},"yanked":false}
+{"name":"better-stopwatch","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e394e6f8cb66fb331b6d288bc954c7b3b5c63cdc8f262d71f70567db00eef47","features":{},"yanked":true}

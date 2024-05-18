@@ -1,0 +1,1 @@
+{"name":"bytefield","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1444941c82413066110265807bc0b08c8f3d7fa5db9e9181e47c61059f96c2cb","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

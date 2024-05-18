@@ -1,0 +1,6 @@
+{"name":"safe_cache","vers":"0.1.0","deps":[],"cksum":"98fc48fd5ad5d137be7b984880abf0b7979192a33e2fbaf168f764a40392a866","features":{},"yanked":false}
+{"name":"safe_cache","vers":"0.1.1","deps":[],"cksum":"532ba385ed3644827a6c080ff4ea095a13d76dd13b86a176722373083a719dfb","features":{},"yanked":false}
+{"name":"safe_cache","vers":"0.1.2","deps":[],"cksum":"b6b336b53ab75af009cb1958694fff2bc6af3fceb5e52b113ffb3c28175006a2","features":{},"yanked":false}
+{"name":"safe_cache","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.34.0","features":["rt","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a0e59fd2758938218472d07a3330f12e5571ab0e17ed2598cf6af0f77b8055f","features":{},"yanked":false}
+{"name":"safe_cache","vers":"0.2.1","deps":[{"name":"tokio","req":"^1.34.0","features":["rt","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ee6337d0bf616ea36ed4fa2f5b26b32c3eb0a24ad67eebc71ce164127d805a6","features":{},"yanked":false}
+{"name":"safe_cache","vers":"0.2.2","deps":[{"name":"tokio","req":"^1.34.0","features":["rt","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b1b7b23e0310d5e63f0ef5ae79490f6b244226a7bea064e452618e4af3890e3","features":{},"yanked":false}

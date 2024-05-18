@@ -1,0 +1,2 @@
+{"name":"rs-notifier","vers":"0.1.0","deps":[{"name":"ureq","req":"^0.11.0","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7c7994cd58294dfbba9f1c56268623295e04472fe99960b85be7c488343ad79","features":{},"yanked":false}
+{"name":"rs-notifier","vers":"0.1.1","deps":[{"name":"ureq","req":"^0.11.0","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed53e7990c4f5e5027ddd31f00522bb81ff4ba8b20ae14d31ed8442cdadc65e8","features":{},"yanked":false}

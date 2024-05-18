@@ -1,0 +1,2 @@
+{"name":"absperf-minilzo-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b5d0e829aaa919c28860052f812cf8985ef3c5724b140bfed348555b967ac9e7","features":{},"yanked":false}
+{"name":"absperf-minilzo-sys","vers":"2.10.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5ad87b3bb1514c91eefab7357c719139922dff06a94235f21cfbeba86760daae","features":{},"yanked":false}

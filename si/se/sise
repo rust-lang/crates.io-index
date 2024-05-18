@@ -1,0 +1,10 @@
+{"name":"sise","vers":"0.1.0","deps":[],"cksum":"3bf68d475f79ab111070df80709f674596d11a509fccb7a2e2c3168268e999c5","features":{},"yanked":true}
+{"name":"sise","vers":"0.2.0","deps":[],"cksum":"7b364f3bde5c411107672f8de686542eb806f9e8fac0179b117f3254f33a1a63","features":{},"yanked":true}
+{"name":"sise","vers":"0.3.0","deps":[],"cksum":"b5f4accf9f5b482f2207b199fd39d40c4eb1b5f90301d47362214058a4f8ee0f","features":{},"yanked":false}
+{"name":"sise","vers":"0.3.1","deps":[],"cksum":"f08fb49b9079e9c4034eb4d73a23cd4c701fe764f5f198e8a00e33478cc7d058","features":{},"yanked":false}
+{"name":"sise","vers":"0.4.0","deps":[],"cksum":"88a0c8c51971685fda366f413984d60fee28bad4839b1bd21d1902cdeec4b854","features":{},"yanked":false}
+{"name":"sise","vers":"0.5.0","deps":[],"cksum":"ff1a095802f1ddeeef8241f93d6fcc24a62028f0647cebf25e519e2bf2cd48c1","features":{},"yanked":false}
+{"name":"sise","vers":"0.5.1","deps":[],"cksum":"c6df07e4733bd15cac0238dea03d5961730ba77c49dbfb056b215c874d52918e","features":{},"yanked":false}
+{"name":"sise","vers":"0.6.0","deps":[],"cksum":"55e1478593461d6170a1c5dfcf2f35fc49d24ed665c1952e50c113fac9431ab7","features":{},"yanked":false}
+{"name":"sise","vers":"0.7.0","deps":[],"cksum":"6c4ad766098a6997f390439c1686797643a69af198126e8660d4955cf4c45635","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sise","vers":"0.8.0","deps":[],"cksum":"b6be41bcb1c843a15a45bdb3b40532d873436ce5d826d4907053fa152eac0d9c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}

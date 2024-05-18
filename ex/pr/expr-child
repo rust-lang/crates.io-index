@@ -1,0 +1,2 @@
+{"name":"expr-child","vers":"0.1.0","deps":[],"cksum":"5259961c7933084ff85059c637bc0ebe08b9771744b19cca9b25a51ef50f513b","features":{},"yanked":false}
+{"name":"expr-child","vers":"0.1.1","deps":[{"name":"expr-parent","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7d46b362a542749c5c7b48641be84a6bb06d2aaa2495474f6d24a89a68fcd90","features":{},"yanked":false}

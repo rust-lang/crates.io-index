@@ -1,0 +1,2 @@
+{"name":"linux-usb-functionfs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f3ef2070bfb6a9d849b8ef51543b5b4f464a0231da8620983b3a144309955414","features":{},"yanked":false}
+{"name":"linux-usb-functionfs-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6eddc156de46179f414bb3ac49c189f864d0fb5bea279bffaae1a0d1558ae966","features":{},"yanked":false}

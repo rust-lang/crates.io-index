@@ -1,0 +1,2 @@
+{"name":"frodobuf-schema","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ef5dbeaa86b3ffd3ddc4bba9b932436e033e349590126ef5c1b1ead029f5e53","features":{},"yanked":false}
+{"name":"frodobuf-schema","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad74db8cddd7a68f91e5d3aa275c45ad87bd08410f07ac090375dfffb0f0152a","features":{},"yanked":false}

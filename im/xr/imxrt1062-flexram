@@ -1,0 +1,2 @@
+{"name":"imxrt1062-flexram","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b0255d7b73b889b95e5dd8adcc2c0a6b7b49177a87183c8f5c1973e2b31a952","features":{},"yanked":false}
+{"name":"imxrt1062-flexram","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1abbc4cbb30dff3f0a13c6f6b839cb25790b797e7051531d807fbffd9181aa7","features":{},"yanked":false}

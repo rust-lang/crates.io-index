@@ -1,0 +1,2 @@
+{"name":"sunset-sshwire-derive","vers":"0.1.0","deps":[{"name":"virtue","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e50a6ed1e7f8cdfb7510e96562eac7c6c316adbed4162eaf6187d5ef484d602","features":{},"yanked":false}
+{"name":"sunset-sshwire-derive","vers":"0.2.0","deps":[{"name":"virtue","req":"^0.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a337cee323fcdda922f75af2112ccdc7a06c0dbf335a821b7d63e0286f21449c","features":{},"yanked":false}

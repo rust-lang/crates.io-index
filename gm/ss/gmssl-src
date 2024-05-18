@@ -1,0 +1,1 @@
+{"name":"gmssl-src","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2515faeb18c1ecb4ae8160c4e123001d021fce39323c51fc50b674820cf2fbf","features":{"camellia":[],"default":[],"idea":[],"legacy":[],"seed":[],"weak-crypto":[]},"yanked":false}

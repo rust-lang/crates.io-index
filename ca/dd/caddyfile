@@ -1,0 +1,2 @@
+{"name":"caddyfile","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3dc82c57af287262c6158cc2a33eb971d895c9b25678fe5ba414c1d2d29f550e","features":{},"yanked":false}
+{"name":"caddyfile","vers":"0.1.1","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05e44e62c9d463d2204e7f68e9aedab032f21acca4171c6906570177ce7e500d","features":{},"yanked":false}

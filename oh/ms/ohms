@@ -1,0 +1,11 @@
+{"name":"ohms","vers":"0.0.0","deps":[],"cksum":"800e5ae37d369e519662247e1aaf17c034039beb394059e4b7404ce7c023f8c4","features":{},"yanked":false}
+{"name":"ohms","vers":"0.1.0","deps":[],"cksum":"8cfeb5aa7a50add7ef6ffdbe5ad33758c67d1991e3f2b8759f7e4e0a355b24d3","features":{},"yanked":false}
+{"name":"ohms","vers":"0.1.1","deps":[],"cksum":"678a455d19553ff592471a59c56b18c13efb8185b81180ec6a6e569cc14782ff","features":{},"yanked":false}
+{"name":"ohms","vers":"0.1.2","deps":[],"cksum":"84c2504830ceb358a331a204518deb564f06eb8b54890430773cc605e9a71878","features":{},"yanked":false}
+{"name":"ohms","vers":"0.1.3","deps":[],"cksum":"b89219d7becd4f2ac0758206e0f1eebc2c7c17309880ccf955ba3810d89d191d","features":{},"yanked":false}
+{"name":"ohms","vers":"0.1.4","deps":[{"name":"test-case","req":"^2.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c5fdb76d5b2a0470f685f11e22ab7c4e0be2af0acdf911ed3238f5d07b3e28d","features":{},"yanked":false}
+{"name":"ohms","vers":"0.2.0","deps":[{"name":"test-case","req":"^2.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"71d55b4d2ed96afaf7449a0bbf831c84bcd32e0a35c1ac22edb931decdd855a7","features":{},"yanked":false}
+{"name":"ohms","vers":"0.3.0","deps":[{"name":"test-case","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b02299fa9d429c63920613dfdee19121b0a4f9d01b66ee88051fd1e7a22ceade","features":{},"yanked":false}
+{"name":"ohms","vers":"0.3.1","deps":[{"name":"test-case","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8e1853d1ccec39716fe787c44b9fd5744c07b09dceca4efc06fbe8b5b3402be","features":{},"yanked":false}
+{"name":"ohms","vers":"0.3.2","deps":[{"name":"test-case","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c0c47c1a3caf50178b6f9deb0655b39e3a77cd12af18b859192edc323a768a1","features":{},"yanked":false}
+{"name":"ohms","vers":"0.4.0","deps":[{"name":"test-case","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2979177c8c913bd991d039109127533584aa1eb2a48dad2e96affaa3d2fe68f5","features":{},"yanked":false}

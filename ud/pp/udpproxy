@@ -1,0 +1,1 @@
+{"name":"udpproxy","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d38730b47ceca93fa691edffd6550574ef3b4990dd91abab007d3873bd39fe0","features":{},"yanked":false}

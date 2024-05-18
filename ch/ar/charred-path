@@ -1,0 +1,2 @@
+{"name":"charred-path","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ffa1bca2f0e4755ee95210b22a466b45bc4c7be0c607ce028bcd886f9de74f1","features":{},"yanked":true}
+{"name":"charred-path","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5932ffebfd862e7a162cadd7d5dcd13c045900725f841798e0bb026db8df37e3","features":{},"yanked":false}

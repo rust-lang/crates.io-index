@@ -1,0 +1,1 @@
+{"name":"hinku","vers":"0.1.0","deps":[{"name":"logos","req":"^0.11.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14ecb269db9d1efdf46206cd5cc837ad1102afcd327c5b7628423682c4faa0dd","features":{"logos_integration":["logos"]},"yanked":false}

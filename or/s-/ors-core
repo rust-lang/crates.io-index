@@ -1,0 +1,2 @@
+{"name":"ors-core","vers":"0.0.1","deps":[],"cksum":"e94c5e3afd45a2354602bbdb435534e9608ba48deb90cd9eba46ccb0fa097407","features":{},"yanked":true}
+{"name":"ors-core","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3a0d9c896f94ddae0b4e5ab42747a26af54a5f5f07093ee583550ed917525c3d","features":{},"yanked":true}

@@ -1,0 +1,1 @@
+{"name":"serde_v2","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.89","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49fb174975cd4b41008a19b7fbf938e4eaba836eb3db63f592dee378013f69f2","features":{},"yanked":false}

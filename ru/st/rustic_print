@@ -1,0 +1,2 @@
+{"name":"rustic_print","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dabfe43d1f190628144e2d1a8e3c63a3cf574458ac19dd8a363c410c7db634c2","features":{},"yanked":false}
+{"name":"rustic_print","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7621d8503b79830d438ff36106d93c98395aa5cd296593140d2d548c2680e78f","features":{},"yanked":false}

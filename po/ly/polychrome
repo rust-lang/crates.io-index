@@ -1,0 +1,2 @@
+{"name":"polychrome","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"916860680be8175047177bd2b216d9d01117cfc0938563ec2bff4e4598d9b100","features":{},"yanked":false}
+{"name":"polychrome","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d796f0205c2289d3b1adfe4f96d57df1f02bb2fd490336161eb41981e7fbf953","features":{},"yanked":false}

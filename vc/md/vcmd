@@ -1,0 +1,2 @@
+{"name":"vcmd","vers":"0.0.1","deps":[],"cksum":"efc52ffa1f6453ac38371893cf845ca744447ecfbb163dcaae3a0fb6e332b5cc","features":{},"yanked":false}
+{"name":"vcmd","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aff8a9f8ea863b4870c96425dfc8c777f6ef4303a5ba8691a0c73e6233a06f6","features":{},"yanked":false}

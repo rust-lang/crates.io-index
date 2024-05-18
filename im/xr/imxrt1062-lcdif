@@ -1,0 +1,2 @@
+{"name":"imxrt1062-lcdif","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1e5aea940427c582fc322f4b271f7673867b96812fbf3dcff47d2ffdb0566a4","features":{},"yanked":false}
+{"name":"imxrt1062-lcdif","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31ad05fbc242a0b6c348459fe95b29185ffc5d9cf56bfdbe8da5c4d6dc2aa4ba","features":{},"yanked":false}

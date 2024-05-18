@@ -1,0 +1,2 @@
+{"name":"concolor-override","vers":"1.0.0","deps":[],"cksum":"a855d4a1978dc52fb0536a04d384c2c0c1aa273597f08b77c8c4d3b2eec6037f","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"concolor-override","vers":"1.1.0","deps":[{"name":"colorchoice","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40a4925288e39d5923e024781971aab940995fa31bab3ffceebbadfc87591e90","features":{},"yanked":false,"rust_version":"1.64.0"}

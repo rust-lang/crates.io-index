@@ -1,0 +1,8 @@
+{"name":"rust-tools","vers":"0.1.0","deps":[],"cksum":"ea4e14eaa6a2e34bbd4ef51d7754cf5bd0a644e0830161ca0639f6383a737724","features":{"default":[]},"yanked":false}
+{"name":"rust-tools","vers":"0.2.0","deps":[{"name":"pico-args","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d764e3aa14811fb75140fc10b3dfafb4c65e59417f51398060a3dd6df0f5fb03","features":{"default":[]},"yanked":false}
+{"name":"rust-tools","vers":"0.3.0","deps":[],"cksum":"4e1400b66e68023075067011924f4813051db61beefdc0b5bd4a7884dbf0a43f","features":{"default":[]},"yanked":false}
+{"name":"rust-tools","vers":"0.3.1","deps":[],"cksum":"7eb5844fed50f3bc287e890ae8473d57acfb38f47f76aef1e74e572c9db871ef","features":{"default":[]},"yanked":false}
+{"name":"rust-tools","vers":"1.0.0","deps":[],"cksum":"cc742fd546648334cc1c81889d6f9cb2e3b1b8c0638855f0682e183882ee0569","features":{"default":[]},"yanked":false,"rust_version":"1.61"}
+{"name":"rust-tools","vers":"1.0.1","deps":[],"cksum":"d7e2466ed5be2af16bc04af9c62fa52bbea8cf188e47199ed5eb616878c9b531","features":{"default":[]},"yanked":false,"rust_version":"1.61"}
+{"name":"rust-tools","vers":"1.0.2","deps":[],"cksum":"560ee6296192c46293bad309d6587bbea795f950a082b71f0a4fee24d16b9a94","features":{"default":[]},"yanked":false,"rust_version":"1.61"}
+{"name":"rust-tools","vers":"1.0.3","deps":[],"cksum":"ce41ff0bd437da6f6f5c9d6e294dbcfac02df7a28cbc1b9f4a2d6a80a9d80ac4","features":{"default":[]},"yanked":false,"rust_version":"1.65"}

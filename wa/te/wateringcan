@@ -1,0 +1,2 @@
+{"name":"wateringcan","vers":"0.1.0","deps":[],"cksum":"d779ff6677500e6d821680b0076a6dc9750e2112554f8d7a33cea85e80e02155","features":{},"yanked":false}
+{"name":"wateringcan","vers":"0.1.1","deps":[{"name":"seed","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e37dbe6c92f27a30a2c1679fd5894de77bb6ee3d1f40b85e105dbad5046f8fa5","features":{},"yanked":false}

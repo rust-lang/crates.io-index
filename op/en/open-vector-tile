@@ -1,0 +1,1 @@
+{"name":"open-vector-tile","vers":"0.1.0","deps":[{"name":"pbf","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cdf51a4762531d2eebba575c1d1b0f6908e6c4fbc712882a4ec276b0ceceec1","features":{"default":["std"],"std":[]},"yanked":false}

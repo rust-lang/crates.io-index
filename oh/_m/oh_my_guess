@@ -1,0 +1,2 @@
+{"name":"oh_my_guess","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30fa165fcb08785a29e8294c03e22568603eb051d9687a3aa3a94045c08ad512","features":{},"yanked":true}
+{"name":"oh_my_guess","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2e1785e88e0eb3d941c8a0cee73863276f87808a29a2330dd08a79fedee7a97","features":{},"yanked":false}

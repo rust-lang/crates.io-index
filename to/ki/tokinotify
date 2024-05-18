@@ -1,0 +1,1 @@
+{"name":"tokinotify","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.36.0","features":["fs","io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c88273d78d8e523419b217c34e17064fae9a065f9e73d3b9b5be024a43ee5e50","features":{},"yanked":false}

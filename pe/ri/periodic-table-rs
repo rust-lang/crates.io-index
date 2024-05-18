@@ -1,0 +1,3 @@
+{"name":"periodic-table-rs","vers":"0.1.0","deps":[],"cksum":"5b9616050811497d0387b742171b634d7e61204e951ba63018d3c98381794c19","features":{},"yanked":false}
+{"name":"periodic-table-rs","vers":"0.1.1","deps":[{"name":"strum_macros","req":"^0.24.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee3bfcfe60a0d27327c974dfa40679629a374aa33599bd3e98fde4c0c491cfcf","features":{},"yanked":false}
+{"name":"periodic-table-rs","vers":"0.1.2","deps":[{"name":"strum_macros","req":"^0.24.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f86ee4e0f0b8cb1fd7aec8ecdeec5ddbed7761b4ecb2490035813300a58d04de","features":{},"yanked":false}

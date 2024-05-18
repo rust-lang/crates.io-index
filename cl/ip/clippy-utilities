@@ -1,0 +1,2 @@
+{"name":"clippy-utilities","vers":"0.1.0","deps":[],"cksum":"dc5b2535647ee31eb24c1e306dce64401e3dc2a5bce4733b50546d151639b0da","features":{},"yanked":false}
+{"name":"clippy-utilities","vers":"0.2.0","deps":[{"name":"numeric_cast","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63940bc99b494c2431ab307e373daf0181a2ad84d738a24beca52f9e724f8760","features":{},"yanked":false}

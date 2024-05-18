@@ -1,0 +1,2 @@
+{"name":"nnet","vers":"0.0.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91e40401d7dce39546fbe3cadad3b243bf99a8517ba24b839aa8dfd3bcf7dc3a","features":{},"yanked":false}
+{"name":"nnet","vers":"0.0.2","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e57af89831902342f138617248d38bb31d3336473d706cef99552e4282e054de","features":{},"yanked":false}

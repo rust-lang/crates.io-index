@@ -1,0 +1,2 @@
+{"name":"basiccountminsketch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fe05896929a350af70eb8252063f761c4f4b4e3d04f9680812100fdf071c0ea","features":{},"yanked":false}
+{"name":"basiccountminsketch","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c267c27301e9da7216ae5a77e0664a33273e91dc594a189409871fb6189f1ae5","features":{},"yanked":false}

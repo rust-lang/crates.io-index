@@ -1,0 +1,4 @@
+{"name":"stdng","vers":"0.1.3","deps":[],"cksum":"eb054cbfdcf6d531a6b6fbe4d6a32e178dbb7e4a232e12ddea7b570390f1d3e2","features":{},"yanked":false}
+{"name":"stdng","vers":"0.1.4","deps":[],"cksum":"1a325d3d6ad2f00051b4959a0f89081c0edd1bcdac9d6e3e1f4b2e8ddd80057e","features":{},"yanked":false}
+{"name":"stdng","vers":"0.1.5","deps":[],"cksum":"bbbcca4eed905191f1df7df269866204b802d3dacee282be919d5bdb39f8c2a6","features":{},"yanked":false}
+{"name":"stdng","vers":"0.1.6","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bf62df44fe542bc59032d7010b2d8c508c523cc2856b410929023ab7ce737a9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"imxrt1062-ocotp","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"367bbf5ff34cb982db1ca0a10f75c457f521dcb2e3b575dba5d27ff75e23d32c","features":{},"yanked":false}
+{"name":"imxrt1062-ocotp","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7061c4b311a7de44917a479a644c467b6438f34103a9029f317e40f97e65c565","features":{},"yanked":false}

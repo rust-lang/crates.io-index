@@ -1,0 +1,1 @@
+{"name":"kasedenv","vers":"0.1.0","deps":[{"name":"unicase","req":"^2.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"764d1ea68a8f425799f36281070d307de050489cde5176d7c3818d3847ad8df3","features":{},"features2":{"unicode":["dep:unicase"]},"yanked":false,"v":2}

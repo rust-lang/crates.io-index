@@ -1,0 +1,2 @@
+{"name":"strscan","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b8c2a8cc005f42d2c4a66cee7e67c38868303ba7c3b96b2c22f09147b40cd34","features":{},"yanked":false}
+{"name":"strscan","vers":"0.1.1","deps":[{"name":"regex","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3110db96e4dec7877e83de5626aaa8468f6158962b39e21f286fb884ddbcf73f","features":{},"yanked":false}

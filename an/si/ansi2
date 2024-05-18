@@ -1,0 +1,2 @@
+{"name":"ansi2","vers":"0.1.0","deps":[],"cksum":"3e6b02f5e9bcc54a6be4bf79d68bdad60aac5884714af3fb8e9d90e9d9dd9444","features":{},"yanked":false}
+{"name":"ansi2","vers":"0.2.0","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a55059a6f23931592e193b75d20a4cb35185bccca49d1606bf0108053fa92680","features":{},"yanked":false}

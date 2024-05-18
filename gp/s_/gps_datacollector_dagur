@@ -1,0 +1,2 @@
+{"name":"GPS_datacollector_dagur","vers":"0.1.0","deps":[{"name":"rpi_embedded","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"822d3a65e61b9f36b38ef1251d94689bf37dd07d3724e435c4b978d297887fec","features":{},"yanked":false}
+{"name":"GPS_datacollector_dagur","vers":"0.1.1","deps":[{"name":"rpi_embedded","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b537ead44bf0ebfd9697f589dfe7be11aba2a78dc9d79a3e1bd602b536ae3431","features":{},"yanked":false}

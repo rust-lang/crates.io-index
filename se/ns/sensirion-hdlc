@@ -1,0 +1,2 @@
+{"name":"sensirion-hdlc","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.5.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9db2a6a732ca68c1d926e989001e870a0bfa808ab677797e8f96fd65eee6d4bd","features":{},"yanked":false}
+{"name":"sensirion-hdlc","vers":"0.2.0","deps":[{"name":"arrayvec","req":"^0.5.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1adbca03aae6f7c8e991caff45d663cd2634019cf5b47f8ef4f0680939a716d8","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pathsearch","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da983bc5e582ab17179c190b4b66c7d76c5943a69c6d34df2a2b6bf8a2977b05","features":{},"yanked":false}

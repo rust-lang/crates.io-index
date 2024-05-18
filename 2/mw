@@ -1,0 +1,1 @@
+{"name":"mw","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f85e3c5df9c8fef9f9f046fb2eb76cd052a57f6d9146289509df7f585d9b1d74","features":{},"yanked":false}

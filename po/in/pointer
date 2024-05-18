@@ -1,0 +1,2 @@
+{"name":"pointer","vers":"0.0.1","deps":[{"name":"rust-extra","req":"^0.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48bb4aa5068e794e99ba325293aadf33b095ed03a1b096f6d682abb3dd651b11","features":{},"yanked":false}
+{"name":"pointer","vers":"0.0.2","deps":[{"name":"rust-extra","req":"^0.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0afa19a5fdfca9d7ceced2f04529f97f15a09f5a3f395aaab850e35a21702c38","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bhtmp","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6095c3758fd8cf4f4e98853b93239e0082f058e9eec8239597b92f67a6f17614","features":{},"yanked":true}
+{"name":"bhtmp","vers":"1.0.0","deps":[{"name":"image","req":"^0.24.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1821d6e6ca9803d12c3e38305d9988aecb88cafd34ecca825ff4c143cb9f843a","features":{},"yanked":false}

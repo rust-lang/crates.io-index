@@ -1,0 +1,2 @@
+{"name":"libsyslog-sys","vers":"0.0.0","deps":[],"cksum":"b9eced1b3676f48d20afffe7d8abadf9348bb60ebb632dac089f785e5b501364","features":{},"yanked":false}
+{"name":"libsyslog-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"401acc6dce099740702bd2ffda06539e5016f93f3a712189bf18e02151d61d74","features":{},"yanked":false}

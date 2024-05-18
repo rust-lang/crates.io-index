@@ -1,0 +1,2 @@
+{"name":"rur","vers":"0.0.1","deps":[],"cksum":"621872c7e2e521db2361478daa11a5640908dba2d2e38949d5f985f053594430","features":{},"yanked":true}
+{"name":"rur","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0742a87e95a81ee56975f04716005859af5067f3ee0b8e9da698291eb10d873f","features":{},"yanked":false}

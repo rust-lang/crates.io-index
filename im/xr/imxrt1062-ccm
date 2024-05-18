@@ -1,0 +1,2 @@
+{"name":"imxrt1062-ccm","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f655300412720a14bb86fa48a4549705c6768d57b0ad983642ffe7cd178dffbc","features":{},"yanked":false}
+{"name":"imxrt1062-ccm","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70d1787f54df055415b14c11a7cb3029913b99da034efacba144cbb6a6766925","features":{},"yanked":false}

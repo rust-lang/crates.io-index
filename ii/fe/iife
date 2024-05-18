@@ -1,0 +1,1 @@
+{"name":"iife","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.197","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde_json","req":"^1.0.115","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"734f62c7e370f12f1d711bcc31be1d63c857bea1b82e8fe277b398420edf82bf","features":{},"yanked":false}

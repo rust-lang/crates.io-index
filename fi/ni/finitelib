@@ -1,0 +1,2 @@
+{"name":"finitelib","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d44888793ccf000b989c8097cd6af2bbf47870b95b6ee421d2470e62659a1bc","features":{},"yanked":false}
+{"name":"finitelib","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1602f877a6a22c257b3896c9c5489d3a6c1601824f0fb11ffb529a1f9837816a","features":{},"yanked":false}

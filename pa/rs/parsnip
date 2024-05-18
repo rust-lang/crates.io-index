@@ -1,0 +1,8 @@
+{"name":"parsnip","vers":"0.1.0","deps":[],"cksum":"e4d9a3df0ebda7bf213da0906304fc23709134fb92df194aaedaf459ea9f09ed","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.1.1","deps":[],"cksum":"33700f404393ecd69a9476cd973a99e8232feedb8d0528a2ae9857e22444c138","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.1.2","deps":[],"cksum":"c978e363ab5cbc4f13f7b253f11e4af5ad11f727a8fe449f0ceefe4d6e9af431","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.1.3","deps":[],"cksum":"e4975e51f5ca4625176eb068ac937ddd8c02d737f381d511508fda7fb4bbff12","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.2.0","deps":[],"cksum":"562ba143c82fbb1fb17a488c7c0dd6f63bd652055ecd98b0c1ac63fc483e0706","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.2.1","deps":[],"cksum":"33be143d1654889e3cf0bcd4a1eb7304a138f24f4ba160894154d7fc3281365e","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.2.2","deps":[],"cksum":"9e4f825c2f87cd8aca493bb668efb0c3d0cac17cf094330d5c15f36037b23578","features":{},"yanked":false}
+{"name":"parsnip","vers":"0.3.0","deps":[{"name":"approx","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b31a43a4a05d62fa1b03d3ef216878de37923b09a03fde7acb43cdfcc2e59e6","features":{},"yanked":false}

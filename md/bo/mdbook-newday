@@ -1,0 +1,2 @@
+{"name":"mdbook-newday","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8327e37ac2c756f82a58346e1514b6efcd35b06e072f872b1a20eae453761b21","features":{},"yanked":false}
+{"name":"mdbook-newday","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbaa8c65b5c95e2ac2966891bd89677c542d2b4b723584b2e7a4c0a0059df3bb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"proximal-optimize","vers":"0.1.0","deps":[],"cksum":"ff5cd66ef131c195c8ef5883a6837bf7386328947cc1718739384c252273a9fd","features":{},"yanked":false}
+{"name":"proximal-optimize","vers":"0.2.0","deps":[{"name":"env_logger","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"befac854d23ae655eb9bd39e0b03469011e592b9921535df31720ca898c13f88","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"highhash","vers":"0.1.0","deps":[],"cksum":"6e40951537393f5023f0b929a3fbc8241d463574c50cacb4faf34c0396aa9c2a","features":{},"yanked":false}
+{"name":"highhash","vers":"0.1.1","deps":[],"cksum":"99e1673f5f7a251bfd8e3411babca6442952c7ba37289aa4f9d18fcb45411481","features":{},"yanked":false}
+{"name":"highhash","vers":"0.2.0","deps":[{"name":"fasthash","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(any(target_arch = \"x86\", target_arch = \"x86_64\"))","kind":"dev"}],"cksum":"208b08088d46b46f504b584a4eed9c4d93f86e2ff820e028362b5651312ddf6a","features":{},"yanked":false}

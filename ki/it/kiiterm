@@ -1,0 +1,1 @@
+{"name":"kiiterm","vers":"0.0.0","deps":[{"name":"kii","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d27e0f15df68b5b197267537848538457ca4ff64dbc2df6d7ebfc0259a8abf22","features":{},"yanked":false}

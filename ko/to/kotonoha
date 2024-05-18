@@ -1,0 +1,1 @@
+{"name":"kotonoha","vers":"0.2.0","deps":[{"name":"futures","req":"= 0.1.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21143077d173486fb29b96f763f445cf2ffec9f821af9ea7e06723f87204ff16","features":{"channel":["log"],"default":["channel","log"],"log":[]},"yanked":false}

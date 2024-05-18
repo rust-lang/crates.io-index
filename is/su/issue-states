@@ -1,0 +1,2 @@
+{"name":"issue-states","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49259866d59a53ad0eab77a95cff2c054d25cf0477b5adb249675a64dd332adb","features":{},"yanked":false}
+{"name":"issue-states","vers":"0.2.0","deps":[{"name":"yaml-rust","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deccabaa3c20259af777112cbba10f82ed71e1183a45b373b2317f2ef90b6374","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"nbib","vers":"0.1.0","deps":[],"cksum":"9e642a97e634072de639050ba87403e6a6f35b178842b7a34e173bb4b3413a34","features":{},"yanked":false}
+{"name":"nbib","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.136","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6a17ccf76a622a39de0d5274c1c441cf0eb36a7ce09b6a70e3a08a48d519f72","features":{},"yanked":false}

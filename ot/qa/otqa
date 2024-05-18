@@ -1,0 +1,3 @@
+{"name":"otqa","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86db594f175265ea0d0fdbe00f656cafa199b2e327a82e8d39c81dc1bf2e11cd","features":{},"yanked":false}
+{"name":"otqa","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"173dbc8d875ff1624274922f08217d5543fe5540d06d9f882ec2d71a8881b184","features":{},"yanked":false}
+{"name":"otqa","vers":"1.0.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"846ed6b0485b8193b15245c490728f664c19b11436ae878737c50dbfd04a0724","features":{},"yanked":false}

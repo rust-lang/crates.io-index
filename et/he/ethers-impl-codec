@@ -1,0 +1,1 @@
+{"name":"ethers-impl-codec","vers":"0.6.0","deps":[{"name":"parity-scale-codec","req":"^3.0.0","features":["max-encoded-len"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8867f80b5b5f5e10201d5d43ca43b3ed77612ca4f5a785b7f133477966248930","features":{"default":["std"],"std":["parity-scale-codec/std"]},"yanked":false,"rust_version":"1.56.1"}

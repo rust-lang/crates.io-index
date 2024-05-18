@@ -1,0 +1,3 @@
+{"name":"parity-path","vers":"0.1.1","deps":[],"cksum":"5962540f99d3895d9addf535f37ab1397886bc2c68e59efd040ef458e5f8c3f7","features":{},"yanked":false}
+{"name":"parity-path","vers":"0.1.2","deps":[{"name":"home","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b027aab22527061b7005cecf7805e8f42eed94ce89e76bac3a6035394b56627","features":{},"yanked":false}
+{"name":"parity-path","vers":"0.1.3","deps":[{"name":"home","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f66a327a200fe67c16f1d0acab2f74a2ec67c41d6202a2a98a7378df653d848d","features":{},"yanked":false}

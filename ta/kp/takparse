@@ -1,0 +1,12 @@
+{"name":"takparse","vers":"0.1.0","deps":[],"cksum":"ce36ecd78a7cd57d86e4c5800c5ca6101cf6b7ebcfb7b9c334140102f5ecea44","features":{},"yanked":false}
+{"name":"takparse","vers":"0.2.0","deps":[],"cksum":"ff8b89550463401ca8c19815908a962689008c7ce5f12e62a411d8b2208bea48","features":{},"yanked":false}
+{"name":"takparse","vers":"0.2.1","deps":[],"cksum":"1ccd33b43e9a7a9e82041b011ade105f704e5c9ae715f40a44339f6585a895a9","features":{},"yanked":false}
+{"name":"takparse","vers":"0.3.0","deps":[],"cksum":"a66849e82c44240be2b94b44a285fd4aa28d3ff84c574a21b68ce8f6a4dde9d4","features":{},"yanked":false}
+{"name":"takparse","vers":"0.4.0","deps":[],"cksum":"6e3834c9d6513ee7c34b3e42124f7b713b7c0171768a417fa5c6ca6b48d16178","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.0","deps":[],"cksum":"70dca7f9e1881efc91a4e1fcb1f82c401351d5cb08f2353099d289d29372fc3a","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.1","deps":[],"cksum":"c1e76275f9a45247d3faadb6455863b6e4192a43228cf6524c42183750cf8870","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.2","deps":[],"cksum":"d7d84f4847d8f28eb9e1178f57d29a51c3cada69d7bf0907ba6190747a051aed","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.3","deps":[],"cksum":"ab1e4c9e9c27cc03fd8a1bb0caca16f51f781830f8d567b267473c830516703f","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.4","deps":[],"cksum":"7ef8ace2ef7948972c9aae4d5171fb70177b5ee865d42669ef8e3212f4b47ccd","features":{},"yanked":false}
+{"name":"takparse","vers":"0.5.5","deps":[],"cksum":"616bf8626a329585beb63e0bb03a5d809318da9d41d7bfb694222ded8b0f4846","features":{},"yanked":false}
+{"name":"takparse","vers":"0.6.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"510ee448d18cdf6b963c5fe5e6b2daf07cb66dc21a3ed7e906cc17bd461f7677","features":{},"yanked":false,"rust_version":"1.65"}

@@ -1,0 +1,2 @@
+{"name":"argst","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1862dd2b7dfefdfce459bc636ecfc435b6de6e6186e2ff1876520f656e7eb986","features":{},"yanked":false}
+{"name":"argst","vers":"0.1.1","deps":[{"name":"structopt","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e7fef1af13715e42a1b82068a93fe64678fd1516377eb6aff57098a6e129ac0","features":{},"yanked":false}

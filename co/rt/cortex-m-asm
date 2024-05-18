@@ -1,0 +1,3 @@
+{"name":"cortex-m-asm","vers":"0.1.0","deps":[{"name":"nightly-crimes","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17712706e0446bde928165945c6746fd1156245478184b468a32097f7eadeb51","features":{},"yanked":true}
+{"name":"cortex-m-asm","vers":"0.1.1","deps":[{"name":"nightly-crimes","req":"^1.0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ed4a4506626beccd65a30ab003dbf92ca7d872ef6cd2c1eaab86da722497013","features":{"default":[],"do-crimes":["nightly-crimes"]},"yanked":false}
+{"name":"cortex-m-asm","vers":"0.1.2","deps":[],"cksum":"f8eb2f0ad08144af350d8549c1cf637a6e3069494fedd9487c3bf7b9581e3466","features":{},"yanked":false}

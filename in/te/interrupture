@@ -1,0 +1,2 @@
+{"name":"interrupture","vers":"0.1.0","deps":[{"name":"bare-metal","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"464edf2b2eb1df094249a1341c7313784e02660a3c2cacb64687dd55baf30344","features":{},"yanked":false}
+{"name":"interrupture","vers":"0.1.1","deps":[{"name":"bare-metal","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d71c0cb89e81e05affc2d5b7bcc71746e3ba3671b8503693e0f54a6d3877033","features":{},"yanked":false}

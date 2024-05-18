@@ -1,0 +1,1 @@
+{"name":"bevy_wired","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c3963ede68c505a829bd1e041cefac1b6328744850fb223631da536723a26ee","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"demo_test_add_2_numbers","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.197","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a147738420326a3f43c2c097bb11c720f94ce910b3c29cc895ff0d1a7bad3f2","features":{},"yanked":false}
+{"name":"demo_test_add_2_numbers","vers":"0.1.1","deps":[],"cksum":"ba0640b18022312e45c56e3e0b03b216026cc9c06195aa663fdc77a9e31b718e","features":{},"yanked":false}
+{"name":"demo_test_add_2_numbers","vers":"0.1.2","deps":[],"cksum":"0cc0504ad7c3f3d605923fa67e0ce3c83bc00189dafbf4ce8447a4ca4e2efc8e","features":{},"yanked":false}

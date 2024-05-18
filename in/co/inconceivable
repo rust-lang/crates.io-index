@@ -1,0 +1,1 @@
+{"name":"inconceivable","vers":"0.9.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8610e7c4b446961d3959653f02d0fa7092674f0fbdd02cb4c8b84e4f9e564318","features":{"RUSTC_VERSION_GE_1_27":[],"default":["std"],"std":[],"ub_inconceivable":[]},"yanked":false}

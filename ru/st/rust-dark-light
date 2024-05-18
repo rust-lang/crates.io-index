@@ -1,0 +1,1 @@
+{"name":"rust-dark-light","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"cf4e2df4d7483948168dbb114a6d16a0e6288b8ce621979c760c9f5f06e2822b","features":{},"yanked":true}

@@ -1,0 +1,1 @@
+{"name":"libmpv2-sys","vers":"4.0.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"42124ba90561beede41d5e6ef64eef63fc1395cf83217e3dd1157294f7dcdb56","features":{"use-bindgen":["bindgen"]},"yanked":false}

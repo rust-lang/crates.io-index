@@ -1,0 +1,2 @@
+{"name":"guessing_game_mlw","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42bfac4f202c3aed2a223c6bca9ff011ac99c5b91b40802db6a932de3666bd09","features":{},"yanked":true}
+{"name":"guessing_game_mlw","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d95bb8288910e3149b197dd455b45bf836c5f664ab2b3b8cc027745e839497","features":{},"yanked":false}

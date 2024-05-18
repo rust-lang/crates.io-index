@@ -1,0 +1,1 @@
+{"name":"dierckx-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42609a0417174f61f51c40df15618a09f39294fa003837bf106781ed448574b6","features":{},"yanked":false}

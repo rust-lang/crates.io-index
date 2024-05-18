@@ -1,0 +1,2 @@
+{"name":"mimallocate-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"40f7fce1d2b85a787a1dc11f59afab35d1fee036a5267b7e1d2013de1ba6eb83","features":{},"yanked":false}
+{"name":"mimallocate-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e3a60aa763b2d53b874b186ecd188c6241b9a8eb8b1deae51190d68915e99d90","features":{},"yanked":false}

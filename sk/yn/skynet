@@ -1,0 +1,2 @@
+{"name":"skynet","vers":"0.1.0","deps":[{"name":"bincode","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3e2f120c362889a6d23088202effa5c74d31c374c2bc2b8e32995dd0f0ac65c","features":{},"yanked":false}
+{"name":"skynet","vers":"0.1.1","deps":[],"cksum":"b584e22d0a56bcc1b2fede2cec6442f559f2e9fbd3d0713963865e798d4af53f","features":{},"yanked":false}

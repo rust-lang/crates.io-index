@@ -1,0 +1,2 @@
+{"name":"go-heap-rs","vers":"0.1.0","deps":[],"cksum":"9bb715e31068d8796ca43d587bf10f09eeacfe79964976bfd6fe4927f2448dad","features":{},"yanked":false}
+{"name":"go-heap-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"43aa1e2594c105efb6774a99cfefcb11b008f2d036e60bc37c639c44681d0c2b","features":{},"yanked":false}

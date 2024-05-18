@@ -1,0 +1,6 @@
+{"name":"dynparser","vers":"0.1.0","deps":[],"cksum":"8bd62c2e3b6e4ddbd1c2b443ed1e1e6ac6791d9238d794c700b6b227cced57d9","features":{},"yanked":false}
+{"name":"dynparser","vers":"0.2.0","deps":[],"cksum":"46791a86b0e5e5fdada9960b03b596ded3d51092944faaa7d5b78fad0cf90e73","features":{},"yanked":true}
+{"name":"dynparser","vers":"0.2.1","deps":[],"cksum":"aa572a15e615ed24769e47c05da832e29b850f1e50319f3d62cb22f76904cb12","features":{},"yanked":false}
+{"name":"dynparser","vers":"0.4.0","deps":[{"name":"idata","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbe6f06f5c5b577f3aa013c9bdac66f256ee1e94fe1259e218e245324cb8f893","features":{},"yanked":false}
+{"name":"dynparser","vers":"0.4.1","deps":[{"name":"idata","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9494d1eb26fb66bf486038a66d065a436dd2ed2c3bcbc356ec72bff381871a11","features":{},"yanked":false}
+{"name":"dynparser","vers":"0.4.2","deps":[{"name":"idata","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab38d8751899b1f958334eec4355e5964a91da2eb9ebd3fbbf89a931802f0033","features":{},"yanked":false}

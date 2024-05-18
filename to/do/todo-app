@@ -1,0 +1,2 @@
+{"name":"todo-app","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0efd6a3d49a53e9807f544e0a29b0fa5e964ee2f3e0910f6e113db9086d5976","features":{},"yanked":false}
+{"name":"todo-app","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35031078958c56af9db8be7a97f233123fd59f03db48ab5dbec98e72c55674d1","features":{},"yanked":false}

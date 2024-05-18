@@ -1,0 +1,2 @@
+{"name":"log_64","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6b3f3bef2ed14df45d9f4555db4c32cc36a42c51147abf882178620f5c18dd8f","features":{},"yanked":true}
+{"name":"log_64","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"80ffa0f08aabfb10b2d5e8ceebd234f727a298cbbf6c715509a0f864cf9633ae","features":{},"yanked":false}

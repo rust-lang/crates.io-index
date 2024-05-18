@@ -1,0 +1,16 @@
+{"name":"flipperzero-sys","vers":"0.1.0","deps":[],"cksum":"53f5bbf6c39fbadcec435acb52d3a8853d1180212639c2a76c433756515c9cdb","features":{},"yanked":false}
+{"name":"flipperzero-sys","vers":"0.2.0","deps":[],"cksum":"abcfaacfcd0047d7e26c51ddea0b83bfcf83a7f584bf418126d607cd4646ffa7","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.3.0-alpha","deps":[],"cksum":"44db340a7f89f036a69fe1701f2818c95d91e2d34a5ee9b1566d20036fd63af0","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.3.0","deps":[],"cksum":"dfcb6153060b1ceda06b42c0ef3585d5c71fee8a07336f7022af8eed22d21b0b","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.3.1","deps":[],"cksum":"58251e10ceec4d70fdcc10be5d146aa651a89ca82f9585910d0326b5b995631d","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.4.0","deps":[],"cksum":"f63b192eba1e80f6508e720b960fbd40d0fac8a09c550211f8c872b7f01a494d","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.4.1","deps":[],"cksum":"2afc3925271f96099edbf2b4cd2d0908de03772c70059fd407c70592a3ba1be3","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.5.0","deps":[],"cksum":"e89a221108d5bc742be8f0df4cd3ad3d17a45efefd19a79222b0ae300ed26323","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.6.0","deps":[],"cksum":"af8eb867fe2a1cafad0a85164ccd8502c66451b7fd658e46c4af039858597880","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.7.0","deps":[],"cksum":"fc12c964bee55c03f7e873c3439ada3c51fc7eb70dfc012ddca5a3d43f0928b8","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.7.1","deps":[],"cksum":"2df6b0cacad4d67c7f7e9fd86ec2c77db01cb3a90b70ebddbb34318cc20a208e","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.7.2","deps":[],"cksum":"2315b8e57847c5f69dea5e22e844320fd988f6090f563e504303069c808fc33a","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"flipperzero-sys","vers":"0.8.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc1f8726fee3bc8040c130f210224089a31866b353ac163f6e12cfead9d0abe0","features":{},"yanked":false,"rust_version":"1.68.0"}
+{"name":"flipperzero-sys","vers":"0.9.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64d6adcd18072550cd96baa2dfb1451e320b09fcd70db7d1df7c3affae9d5f3c","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"flipperzero-sys","vers":"0.10.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab88bf1a72204a89320d3ac60a39890a0112443b520cb9bbf560a128c3830acb","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"flipperzero-sys","vers":"0.11.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"450b0ecaf76cc92745e0ab9b91c0a6a392e6b9af7370f555faf8719ce457e1e0","features":{},"yanked":false,"rust_version":"1.70.0"}

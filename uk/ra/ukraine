@@ -1,0 +1,3 @@
+{"name":"ukraine","vers":"1.0.0","deps":[],"cksum":"c750f30fc60182be7e3396edbb121821874a95d1e2a3adb77b2e1fb4e681e959","features":{},"yanked":false}
+{"name":"ukraine","vers":"1.0.1","deps":[],"cksum":"3fd6767c5dd18b48289b3c4359ec775a5a20c961cdcf81ebcf3720c16f019ef7","features":{},"yanked":false}
+{"name":"ukraine","vers":"1.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1126c9e97f7be25647aaea393221b6e58140c4a0b8c36053784f605684e73f3","features":{"default":["lozynsky"],"lozynsky":[]},"yanked":false}

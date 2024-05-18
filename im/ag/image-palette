@@ -1,0 +1,2 @@
+{"name":"image-palette","vers":"0.1.0","deps":[{"name":"image","req":"^0.25.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65c41a26c7d28f3212145bcfad8994111924aa7e2aed4541e3371b232b09d2c5","features":{},"yanked":false}
+{"name":"image-palette","vers":"0.1.1","deps":[{"name":"image","req":"^0.25.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61fb51fd221e53403b58e3bc850df97cfa729e49ad24aa4bea7bdad0a073e146","features":{},"yanked":false}

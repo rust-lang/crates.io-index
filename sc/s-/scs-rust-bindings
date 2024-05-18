@@ -1,0 +1,2 @@
+{"name":"scs-rust-bindings","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fa5337c70472c0e8dc9414db31479a86c11bc19b5da2360f2d295c0e7ffc9ffd","features":{},"yanked":false}
+{"name":"scs-rust-bindings","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bb802a59dfbdb58e781e97585c941322a7befd61c7431e7e250e02ac7fe6ef1f","features":{},"yanked":false}

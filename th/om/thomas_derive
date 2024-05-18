@@ -1,0 +1,1 @@
+{"name":"thomas_derive","vers":"0.2.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9607c3f7d1f9420fea461afd6ee25ce2b770baaa75b47fd0192ece4fd1603c7","features":{},"yanked":false}

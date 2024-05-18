@@ -1,0 +1,3 @@
+{"name":"holepunch","vers":"0.0.0","deps":[],"cksum":"554a4c4cccdfed753efe0aa2d42d5930caa700ddc2809b339610e1ccbee16ac3","features":{},"yanked":true}
+{"name":"holepunch","vers":"0.0.1","deps":[],"cksum":"446adee281467d7cd2a0ddd07b98f4d8630cb0ef1d1be3b36fdf5eb1abd75698","features":{},"yanked":true}
+{"name":"holepunch","vers":"0.0.2","deps":[{"name":"icmp-socket","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a9c955c2c42e961083f23d43504c7aab333d2b89236208b11b90857452f5a0b","features":{},"yanked":true}

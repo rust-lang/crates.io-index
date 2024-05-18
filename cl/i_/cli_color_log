@@ -1,0 +1,2 @@
+{"name":"cli_color_log","vers":"0.1.0","deps":[{"name":"console","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6fcc7a480c34664bfa7edd0207e4b042df3ac66ecdd9008fb18fe677bcfec8","features":{},"yanked":false}
+{"name":"cli_color_log","vers":"0.1.1","deps":[{"name":"console","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"175b6eb49a194040ec78619bd97280912f820e026fea4a7876d3e6274d1c1adc","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"qsv2flv","vers":"0.1.2","deps":[{"name":"chrono","req":"~0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc29eeb23e393889169f607b316a7c88a37688de6a1ffaa089ef02db112eed78","features":{},"yanked":false}

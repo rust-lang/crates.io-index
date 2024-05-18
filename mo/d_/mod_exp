@@ -1,0 +1,3 @@
+{"name":"mod_exp","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fbcbf8f684f380c756f7ac3b3ae590923feba8133d7501a36f8c758aab2c7f1e","features":{},"yanked":false}
+{"name":"mod_exp","vers":"1.0.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fe3458d57d821b3f389edefbfd83237cde9886f010a30a61f7cd19b650ec72a9","features":{},"yanked":false}
+{"name":"mod_exp","vers":"1.0.1","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bb4a3fad6af79fcf8d1417b2f6359d814a173fb413a1bd48ba04208b42b0d8b0","features":{},"yanked":false}

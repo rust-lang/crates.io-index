@@ -1,0 +1,1 @@
+{"name":"vector_clock","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe2ebe2d36560e03c9b22ac6128280408558a6f212317431d1534a7a4b2940fa","features":{},"yanked":false}

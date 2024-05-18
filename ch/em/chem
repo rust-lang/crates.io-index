@@ -1,0 +1,2 @@
+{"name":"chem","vers":"0.0.1","deps":[{"name":"purr","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5af0a16d9798e3d8a62548302d7e62b2374787c8689fd516fcd721b7a7e61e5f","features":{},"yanked":false}
+{"name":"chem","vers":"0.0.2","deps":[{"name":"purr","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e169058500c632407625440e64acfcd4040d60868f79629795a89258d49693c","features":{},"yanked":false}

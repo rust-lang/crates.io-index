@@ -1,0 +1,2 @@
+{"name":"sixarm_collections","vers":"1.1.0","deps":[],"cksum":"70dc5ba08421496f28f9c15492f8ae1659cd6a4d75c1f54b6f49348b211de26e","features":{},"yanked":false}
+{"name":"sixarm_collections","vers":"1.1.1","deps":[{"name":"sixarm_assert","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b43db9f0207fde5ff204fc173ee3fa57d7a9135b9c498656df1ab078ee4c961","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"jxl-grid","vers":"0.1.0","deps":[],"cksum":"caa833e90c0f4320e113e36535a7c6bc562f240ef848e294cafc94ef9928f810","features":{},"yanked":false}
+{"name":"jxl-grid","vers":"0.1.1","deps":[],"cksum":"48800b21ed6bb3bbc2f818ae9cd40530bdfb1a211f57d5a7a49b8b10f62145e8","features":{},"yanked":false}
+{"name":"jxl-grid","vers":"0.2.0","deps":[],"cksum":"f93164539f6339d98341835684b5c8458dafd9a5dfb2fdbd3c821ea00f58a86d","features":{},"yanked":false}
+{"name":"jxl-grid","vers":"0.3.0","deps":[{"name":"tracing","req":"^0.1.37","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f4a85129ecf79ca5f6a37ae291b67195a3021b2e445194745728be1b5bf667bf","features":{},"yanked":false}
+{"name":"jxl-grid","vers":"0.4.0","deps":[{"name":"tracing","req":"^0.1.40","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"986d963bc7a1a7cb6a09d0a3ec3b56ff798f13192688c669cc7283ee51c836ec","features":{},"yanked":false}
+{"name":"jxl-grid","vers":"0.4.1","deps":[{"name":"tracing","req":"^0.1.40","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5b25b54442448752e9ccbd5e177da76e84b464054eddef792c44ceb11fc68aba","features":{},"yanked":false}

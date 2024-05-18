@@ -1,0 +1,2 @@
+{"name":"icm20689_driver_rs","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf9b911a1466167868cd51ee414a4e8b5e90401d7b4500ab3458b3f6e350267d","features":{},"yanked":false}
+{"name":"icm20689_driver_rs","vers":"0.0.2","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bec1b08ab67f45ebfb6a5a5569e731bee24f33bc0a5b3879c5c5b6bc6fd82508","features":{},"yanked":false}

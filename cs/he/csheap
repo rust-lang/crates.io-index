@@ -1,0 +1,12 @@
+{"name":"csheap","vers":"0.1.0","deps":[],"cksum":"a8ff6cc4a97601870bc49792345ce1f8f70250dbfbbd51874b682f105470eff3","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.1","deps":[],"cksum":"eaf3f297eb44ab9efe3c5471a39229fdf1bfc85e388cee8e8183e7a32144b528","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.3","deps":[],"cksum":"654ec01f60fefe9602029227031981e6ca6c8797c987affd0064201a7de52a18","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.4","deps":[],"cksum":"e2ae0f0b43fa33ab1e70817483f0fe2ac9c65e4eae1155e9b4e4f80b5385a826","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.5","deps":[],"cksum":"a98ac0a0ee7d472df234364f0ca0b45ee972f972f8e443675f59afc3fa9ca2c6","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.6","deps":[],"cksum":"778c97cef87c0f7e2234f2d8de021972635b50dced8a1b960669eb86665dd006","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.7","deps":[],"cksum":"538b697398f7128607900eee00e61dd6a211460a07cf23ed74cc9c1fce5bf460","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.8","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f85c787d60f38ccbcf2d026ea878064ce121f3e26864cabcadf2d8054480367","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.9","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bbf9132c325cc89dab02b39c0e0fec869575c0a03b473c8a66ce77e8779b41c4","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.10","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fdd935124854162a9f123bf71c27dc0b526c0812f3583a520120b94cdcda4b9a","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.11","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a9daa4249a7a73d62bebc06f2e9ec945094ee52729e8d0caa6ad867929194f2","features":{},"yanked":true}
+{"name":"csheap","vers":"0.1.12","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a014d23e035cac0f098e9686b048a0cdc0794228736dd78351d708111968cd5","features":{},"yanked":false}

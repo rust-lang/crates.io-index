@@ -1,0 +1,2 @@
+{"name":"cpubaker","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b37dd447b71c8884ed7587b085b1492b0d1a668c5ff5d724b5e34d12577af99","features":{},"yanked":false}
+{"name":"cpubaker","vers":"0.1.1","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d86df5d0eafafcec21410c9b7fa8ef0900166ffa03437616f3aa5b41065ad5f3","features":{},"yanked":false}

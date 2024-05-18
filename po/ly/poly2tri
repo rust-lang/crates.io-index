@@ -1,0 +1,1 @@
+{"name":"poly2tri","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0aac15dfab7e8bbc0e9597441017b5273b6487290f49d561ff53b25ba80d9f00","features":{},"yanked":false}

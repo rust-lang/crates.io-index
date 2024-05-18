@@ -1,0 +1,1 @@
+{"name":"cargo-when","vers":"0.1.0","deps":[{"name":"clap","req":"^2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"semver","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"378ae08f18e0c912ecd84a3a9c352a3d60370ee73b2c77bc5a3d7f16bed78a5a","features":{},"yanked":false}

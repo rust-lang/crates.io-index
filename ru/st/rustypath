@@ -1,0 +1,2 @@
+{"name":"rustypath","vers":"0.1.0","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b7e857ce17835c6b080b5c652d3894aa01845dab6f1f0da4a7806132adc90b2","features":{},"yanked":false}
+{"name":"rustypath","vers":"0.1.1","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbf06648e98dac1144f1dbe263d2647b7266c4e8f92e973fdcef56cd26f265a6","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"quickcheck2","vers":"2.0.0","deps":[{"name":"rand","req":"^0.8","features":["getrandom","small_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3b13d8c584d054d50473a7d15f67c76accdd2cf4494f2f4d6ad15a946f6f3aae","features":{},"yanked":true}

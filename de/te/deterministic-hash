@@ -1,0 +1,2 @@
+{"name":"deterministic-hash","vers":"1.0.0","deps":[{"name":"crc","req":"^1.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"3e0ce372de54f38e1852edd3c95af5ed6f3461065b9cd279493d9dc4f5552b63","features":{},"yanked":false}
+{"name":"deterministic-hash","vers":"1.0.1","deps":[{"name":"crc","req":"^1.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"51a9f34e639edf43f709706fc3016ccc7ce5a819d339fd23665e4385af8e93f0","features":{},"yanked":false}

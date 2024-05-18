@@ -1,0 +1,4 @@
+{"name":"bytecursor","vers":"0.1.0","deps":[{"name":"sp-std","req":"^3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cf4358e77db511dbbd2fca1d0b5f911c4c72126c048496602326a045bc084f3c","features":{},"yanked":false}
+{"name":"bytecursor","vers":"0.1.1","deps":[{"name":"sp-std","req":"^3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"442fbfe2bb4115faa44d3d5d798305be72ebf02b00324652c34216143f394e9d","features":{},"yanked":false}
+{"name":"bytecursor","vers":"0.1.2","deps":[{"name":"sp-std","req":"^3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"35497ec36ac85183621f1e7c346cea37b4d9886c9abb17fdeb20dc79e36d3210","features":{},"yanked":false}
+{"name":"bytecursor","vers":"0.2.0","deps":[],"cksum":"51d38c79fd37055ba2dab11613bd90cb6d5468bda5cb791a5fc3a4f65cf121b2","features":{},"yanked":false}

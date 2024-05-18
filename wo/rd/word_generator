@@ -1,0 +1,2 @@
+{"name":"word_generator","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50b9d745614281c9bcf8e3df508606bf31bde12c1819fff8b944ec4288dafb51","features":{},"yanked":false}
+{"name":"word_generator","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13c77915a0cab6658f7d73e1465cd2977af9dbd84516717fd6c5dad5a56c1277","features":{},"yanked":false}

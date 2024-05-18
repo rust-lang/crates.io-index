@@ -1,0 +1,1 @@
+{"name":"own","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.92","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"23df65c7364f9e673b3b59d164c11a6906b7ce43719c879d462e0639296e4e84","features":{},"yanked":false}

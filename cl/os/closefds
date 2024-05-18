@@ -1,0 +1,1 @@
+{"name":"closefds","vers":"0.1.0","deps":[{"name":"errno","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"364c1e6b528802261b6ad9f168e4171ca7bb8948929548b0948bfd4b98af9450","features":{},"yanked":false}

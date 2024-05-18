@@ -1,0 +1,1 @@
+{"name":"owasm-alloc","vers":"0.4.0","deps":[{"name":"wee_alloc","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18d747fcaea5d75dc0ac1c6f9e24f4c61dd2ada5ebc3a9249d8caaceb78e71c1","features":{"strict":[]},"yanked":false}

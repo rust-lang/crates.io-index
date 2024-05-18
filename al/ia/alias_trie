@@ -1,0 +1,2 @@
+{"name":"alias_trie","vers":"0.9.0","deps":[{"name":"regex","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0679e6be7890a56bcf4c61b96d1fbc4cafc129f8cdbfea8a8aa6df336e189b5d","features":{},"yanked":false}
+{"name":"alias_trie","vers":"0.9.1","deps":[{"name":"regex","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"129dfce0f76c310cc35399764d39eed376d342058dd744e8904da37de802af29","features":{},"yanked":false}

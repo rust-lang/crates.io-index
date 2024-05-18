@@ -1,0 +1,2 @@
+{"name":"evmdasm","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc54b8d35725865b7aab5954727c42ac8ce51d3fc74f428b6235b2ef0df7c50a","features":{},"yanked":false}
+{"name":"evmdasm","vers":"0.1.1","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"477e8112c8e840de700e6af2a9300c025f142abbe359affb9f22ee8701f26a64","features":{},"yanked":false}

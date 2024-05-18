@@ -1,0 +1,2 @@
+{"name":"io_ext","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b6b9e3819c34f8add7e55098f933ba28ea24655a7e3012cbfca31615d77ab0d","features":{},"yanked":false}
+{"name":"io_ext","vers":"0.2.0","deps":[{"name":"paste","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c58e0b05b1b35c06b365ba6b12f8ab643f8755e5771abd68c603d9908dd063a0","features":{},"yanked":false}

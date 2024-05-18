@@ -1,0 +1,5 @@
+{"name":"rust-on-rv32i","vers":"0.0.1","deps":[],"cksum":"276758838885e9ad8b3eb15bb449a36955344c61813892e928892a210ba9e7af","features":{},"yanked":false}
+{"name":"rust-on-rv32i","vers":"0.0.11","deps":[],"cksum":"e5e7bccf5acf45a95ca05d3bd1bfb2940b5362d98d47d77a63f0b59595bd1276","features":{},"yanked":false}
+{"name":"rust-on-rv32i","vers":"0.0.12","deps":[],"cksum":"a6f44e26d6fbeb30e6ddade899a2a03564b27262fe151e556416a5f3c346efbb","features":{},"yanked":false}
+{"name":"rust-on-rv32i","vers":"0.0.13","deps":[],"cksum":"7a6baf9df9f377d8c001a2ea7b81813ae3f6381564ee2a5d4a240c86f054ee5e","features":{"default":["uart","gpio"],"gpio":[],"uart":[]},"yanked":false}
+{"name":"rust-on-rv32i","vers":"0.0.14","deps":[],"cksum":"cc5f1eb31546fa355392dffde760cc20b6f2d82650f8f637c049486c3f368533","features":{},"yanked":false}

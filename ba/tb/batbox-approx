@@ -1,0 +1,2 @@
+{"name":"batbox-approx","vers":"0.15.0","deps":[{"name":"batbox-num","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"309014adc176ef85e41653d1d91de8af138a5b119720459674b1b9df9a5368b1","features":{},"yanked":false}
+{"name":"batbox-approx","vers":"0.16.0","deps":[{"name":"batbox-num","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e987cbe82ac30c149bf576bfe3b1a5493a7e55a8d81470688434919aebf57e6d","features":{},"yanked":false}

@@ -1,0 +1,9 @@
+{"name":"openvr_sys","vers":"0.1.0","deps":[],"cksum":"244f44ddceb96377a27b233408731d430215e2f7531951876a2f04660a3bb6db","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"0.1.1","deps":[],"cksum":"dbdac2f295df30d8ad3698fdc65efc1d243764d4fe41b87f98214856729f81a8","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"0.1.2","deps":[],"cksum":"5309cfc73310cc66f7698ab1bd891b360bca77b00267e71357855b2386c0bb46","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"1.0.1","deps":[],"cksum":"0f19862895cd40e77f87a6f2d466a8153b1f7d25a535b606e53fcbe98790c898","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"1.0.2","deps":[],"cksum":"2139a0a543a3aaa1dad5cb6a35ef17a5d8ad40761d3b1505f4e9baf8b5dd8c66","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"2.0.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"89e7a1237f2b88711d0f00e9b7326a3812fb97705f02485107aa987149b58756","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"2.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc9db98055b1ca5a92068ef0113d48212879ff346f75683dd975e9c6e298fb4d","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"2.0.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4cf1993b53b916365dc88066234029a70ee7df96ca0a9a7d607ad181b8189c9b","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"2.0.3","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"46af40862e3c6be0c176d4b8cf1f7af0f8038cfb500e9cd57c82ad945a29b4b8","features":{"buildtime_bindgen":["bindgen"],"default":[]},"yanked":false}

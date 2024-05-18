@@ -1,0 +1,1 @@
+{"name":"days","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e554246c1162e6f7792b4d5fddeb7d162f32687a457ca15b59e478d6e799c1eb","features":{},"yanked":false}

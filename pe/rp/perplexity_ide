@@ -1,0 +1,2 @@
+{"name":"perplexity_ide","vers":"0.0.1","deps":[{"name":"dioxus","req":"^0.2","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5bca1e0175391f1187724dcbf64b75bbaa6748e74a58a94db74a4ecd1369297","features":{},"yanked":true}
+{"name":"perplexity_ide","vers":"0.0.2","deps":[{"name":"dioxus","req":"^0.2","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82d88be07762d6f568e16c7f47d4a6b99f8851c5162324fbb592bdd37e291ac4","features":{},"yanked":true}

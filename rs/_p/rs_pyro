@@ -1,0 +1,2 @@
+{"name":"rs_pyro","vers":"0.0.1","deps":[],"cksum":"6fd15816b792901f42d60e22c24b4e194c7cc9a972ed41bab5dd4564de1e74bd","features":{},"yanked":true}
+{"name":"rs_pyro","vers":"0.0.0","deps":[{"name":"plotters","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b4719a983c4127f37917ec5d5a1eab8f742655f7919441bcd830fad6256f9f","features":{},"yanked":true}

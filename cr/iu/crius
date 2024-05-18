@@ -1,0 +1,11 @@
+{"name":"crius","vers":"0.1.0","deps":[],"cksum":"88bee1bdd678637f680678711e653b6d0c6897d55960a6f10fb1ed21ea920ac7","features":{},"yanked":false}
+{"name":"crius","vers":"0.1.1","deps":[],"cksum":"498bc3e6207890fce7eb6cd48974e278bff3e4a6f76a5304597be004f3424bb0","features":{},"yanked":false}
+{"name":"crius","vers":"0.1.2","deps":[],"cksum":"62ca3ff41e56f5538ee917139802184e35bf6bb694d74a3f4b966b57da1c5727","features":{},"yanked":false}
+{"name":"crius","vers":"0.1.3","deps":[],"cksum":"db93a07a4d1e56403f33dc74f0c87613c769eb5d3e88463edc9e9f41d0cc4cb2","features":{},"yanked":false}
+{"name":"crius","vers":"0.1.4","deps":[],"cksum":"b5216f050d78d87dd884036d067b2babb390783988ef4a984ef3d4072fa365da","features":{},"yanked":false}
+{"name":"crius","vers":"0.1.5","deps":[],"cksum":"4c3995167698d28c4db4a89dc568937cd0b375c9300a0d156d4e781908876cbd","features":{},"yanked":false}
+{"name":"crius","vers":"0.2.0","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a55c0c1dcb20f9f5b6e6e4bc12b18b05b24e7c3491dacd7e8d808f20d62960e","features":{},"yanked":false}
+{"name":"crius","vers":"0.3.0","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ba0990645f25aaeae2d6109c48015c3d8326c145322231aa07301439644990","features":{},"yanked":false}
+{"name":"crius","vers":"0.3.1","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7c146a673d9c11043c4297036cc7c5bf4b0f5a2b2634cbf1bbe9cce459f53a7","features":{},"yanked":false}
+{"name":"crius","vers":"0.3.2","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de60c751885f261d58ab557ed504f995bbf703f7b1bdcbadbd85318d9a25d06d","features":{},"yanked":false}
+{"name":"crius","vers":"0.4.0","deps":[],"cksum":"dee405fcd76127f1561bf94603176ebb297966c1e32b6c9630dd77f3f4ebe4e1","features":{},"yanked":false}

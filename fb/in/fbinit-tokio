@@ -1,0 +1,1 @@
+{"name":"fbinit-tokio","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.29.1","features":["full","test-util","tracing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"317d2fa7f2ba45f8a5f7e4c6f3231d91348a655d54b9a59ba3d5904386995c92","features":{},"yanked":false}

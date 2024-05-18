@@ -1,0 +1,1 @@
+{"name":"alzheimer","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.5.0","features":["attributes"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"366cbffd4f293358263ee8edf62cbb8cc428097b6d8cae280f54724aa51e4c56","features":{},"yanked":false}

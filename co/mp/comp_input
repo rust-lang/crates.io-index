@@ -1,0 +1,5 @@
+{"name":"comp_input","vers":"0.1.0","deps":[],"cksum":"bc91bcb11d790a3b23f6861a574e3450389cbf2fd33557cc180f7ddf7f6227cb","features":{},"yanked":false}
+{"name":"comp_input","vers":"0.1.1","deps":[],"cksum":"7a7a84e684dd9a58a46aae9071cf4d7a11ccb85e90d164d058b8ef01abe28b16","features":{},"yanked":false}
+{"name":"comp_input","vers":"0.2.0","deps":[{"name":"memchr","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b85f8d1c5084134652ac8bf46bc9f2a13fbf22cc03ed5c3ce304b98fe9c413bf","features":{},"yanked":false}
+{"name":"comp_input","vers":"0.2.1","deps":[{"name":"memchr","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2b6d2f0ddcb5c14e9cb67f5be81840086564101d6525df58c1240b72356e187","features":{},"yanked":false}
+{"name":"comp_input","vers":"0.2.2","deps":[{"name":"memchr","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88406551a82ab0a9f6c662761a07e818362147a6e9197058b238d94eae353153","features":{},"yanked":false}

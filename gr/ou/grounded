@@ -1,0 +1,3 @@
+{"name":"grounded","vers":"0.1.0","deps":[],"cksum":"b215e2decb782bf27aedd4420954dcdc4c7f0f2ce11ddddd5d94a9c6e8beda00","features":{},"yanked":false}
+{"name":"grounded","vers":"0.1.1","deps":[],"cksum":"ba7b8713a69cf476277599e5a907d0887091e7ef8de658239c08c58cb32c294d","features":{},"yanked":false}
+{"name":"grounded","vers":"0.2.0","deps":[{"name":"portable-atomic","req":"^1.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"917d82402c7eb9755fdd87d52117701dae9e413a6abb309fac2a13af693b6080","features":{"cas":["portable-atomic/require-cas"],"critical-section":["portable-atomic/critical-section"],"default":[]},"yanked":false}

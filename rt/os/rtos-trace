@@ -1,0 +1,4 @@
+{"name":"rtos-trace","vers":"0.1.0","deps":[],"cksum":"7654f5319b92e87234211e5d9553267432240c5f27bbfbec2c659347bbcaa7d0","features":{"default":["trace_impl"],"trace_impl":[]},"yanked":true}
+{"name":"rtos-trace","vers":"0.1.1","deps":[],"cksum":"f3d5160bb818d007b1a71df6086f92e74f66aeed4d5ca16504be79d48189fdf3","features":{"default":["trace_impl"],"trace_impl":[]},"yanked":true}
+{"name":"rtos-trace","vers":"0.1.2","deps":[],"cksum":"635136c86de90afeabc00dbafdafcb9165bd67dc19bc69a6f5a9b959af9caba3","features":{"default":["trace_impl"],"trace_impl":[]},"yanked":false}
+{"name":"rtos-trace","vers":"0.1.3","deps":[],"cksum":"cdb6bcec3374f2049b3979112fa2e6c49b2a37f08de9b9759c6aa76531fb8097","features":{"default":["trace_impl"],"trace_impl":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tinystd","vers":"0.1.0","deps":[],"cksum":"d67ffe249dc087a76a47addc174a801df8e0f701e319fe31f47a6f6e8661e609","features":{},"yanked":false}
+{"name":"tinystd","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bab31e077f366c25bcd19d70fda9806ea00e047ff444626c9a65b49ca5697be1","features":{},"yanked":false}

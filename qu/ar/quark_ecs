@@ -1,0 +1,2 @@
+{"name":"quark_ecs","vers":"0.1.0","deps":[{"name":"hecs","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d9ff4896c8b2d9650726b8943f5de43d15446ef6b3c0f008748f911b11cf218","features":{},"yanked":false}
+{"name":"quark_ecs","vers":"0.1.1","deps":[{"name":"hecs","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dba591cdbaa572ebc6d4f7bd7025804b887642b8da994e84f9c069a954e45a1a","features":{},"yanked":false}

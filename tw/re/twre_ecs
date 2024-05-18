@@ -1,0 +1,2 @@
+{"name":"twre_ecs","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"459171e47d8deafe74d607f459169a7b13cb37e559270a8ab20d0bfb1633d194","features":{},"yanked":false}
+{"name":"twre_ecs","vers":"0.0.2","deps":[{"name":"rustc-serialize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b782659694c8cf18a2b14b8346491d7f96327e611ec41e934e2ebc494e32df6d","features":{},"yanked":false}

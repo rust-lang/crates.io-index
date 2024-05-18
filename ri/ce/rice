@@ -1,0 +1,1 @@
+{"name":"rice","vers":"0.0.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sys-info","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d119c5806161ce858ed948a64f2384395e0ba94b92b9e119d0097da4b1133d89","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"voidy","vers":"0.1.0","deps":[{"name":"async-std","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c48d23059ff572916ad714b8cb9d5d5ada499cc96e5379bc6ce3535543b64eb","features":{},"yanked":true}
+{"name":"voidy","vers":"0.2.0","deps":[{"name":"async-std","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fffad1b3c1697ba2e65a295ab4d191ff23babd7aab5a939d32c82d95c0eb42e9","features":{},"yanked":true}

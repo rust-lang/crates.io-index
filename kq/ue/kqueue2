@@ -1,0 +1,1 @@
+{"name":"kqueue2","vers":"0.2.2","deps":[{"name":"kqueue2-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a25ac2724402351ecbfcb5722cb9c5d8856b81a431c5b768d97591812dcae91b","features":{},"yanked":false}

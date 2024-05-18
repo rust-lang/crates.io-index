@@ -1,0 +1,2 @@
+{"name":"fixed32-math","vers":"0.0.1","deps":[{"name":"fixed32","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a9c372442d763d5738bed5eee465ed813f92892378c566cd15922176200f613","features":{},"yanked":false}
+{"name":"fixed32-math","vers":"0.0.2","deps":[{"name":"fixed32","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a47a17e574cd04b7848390e1443330f81dc2c97c8728fa05bce711445dc0881","features":{},"yanked":false}

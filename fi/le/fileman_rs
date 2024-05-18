@@ -1,0 +1,10 @@
+{"name":"fileman_rs","vers":"0.1.0","deps":[],"cksum":"fafcae31aad12e4e648658bb42d0bb9ab9047e3f283f446cbf511469f5d0e80e","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.1","deps":[],"cksum":"7a04b5df0ecfe4c42d2b7cc24c326be6125ac4a4fc6144ae69fb5250352d00d2","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.2","deps":[],"cksum":"41ea765b3bfab7bd0234e052d25e90fa712b00164597190b6592e7dc0af99e1f","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.3","deps":[],"cksum":"25010b8e73374b49f2fe0379d0672e352f87f777f50ef6ead239fb9e4262b191","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.4","deps":[],"cksum":"a6c96976e3ce2bf0878605854af49b5ea29613bbd9caec09b8bd898d7dd54734","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.5","deps":[],"cksum":"d39d915e0cf2360283ae5fec5d6dfa90f2f041dc40d1596f07c598e4e626c22d","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.1.6","deps":[],"cksum":"259a3168b81094c81bc7e43fed5d9e843ad3c935a92f1011bffe1adbec67be49","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.2.0","deps":[{"name":"time","req":"^0.3.30","features":["macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"273dcd41d0f1d5a4233f4c47a824dead62a153c4bb6daf7fd3b1c8dd6e9c042e","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.2.1","deps":[{"name":"time","req":"^0.3.30","features":["macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffa4037dd9227df399d6b80ea79da1bb3ae634f450171ca751443e653d104371","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.2.2","deps":[{"name":"time","req":"^0.3.30","features":["macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04991f5682da8212d3cbfc1444f34f8a222c134bb7005c633153251a3125435b","features":{},"yanked":false}

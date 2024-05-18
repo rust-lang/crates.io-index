@@ -1,0 +1,2 @@
+{"name":"rocket_conditional_attach","vers":"0.1.0","deps":[{"name":"rocket","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"defa271c4cbd77932a0d1aa07d5767496292a5aedb6a893778bab0826f405615","features":{},"yanked":false}
+{"name":"rocket_conditional_attach","vers":"0.1.1","deps":[{"name":"rocket","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"267d8c3a990a5c34388f73642b13b85dd0446fa2428bcb572f71a25d6294add9","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"buf-read-ext","vers":"0.1.0","deps":[],"cksum":"72099c364647dbe63d282efbc1c37d4232d7e1278e1d32a2b5a7e97998647f33","features":{},"yanked":false}
+{"name":"buf-read-ext","vers":"0.2.0","deps":[],"cksum":"cc384072fac32fb50f4a327c33e2004897d11c561d008dd6031fb7f19b04de2c","features":{},"yanked":false}
+{"name":"buf-read-ext","vers":"0.2.1","deps":[],"cksum":"9d8de1deea45aacd40d6c4ef975d0ae5550bd7f38594a6f6f734bb75b2ff5c18","features":{},"yanked":false}
+{"name":"buf-read-ext","vers":"0.3.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio-io","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd2b3bef6c7a0f62d42a25a3cce9a40d558f3f4e15b70a7eef4aaea5c2a419ab","features":{"async":["futures","tokio-io"],"default":["async"]},"yanked":false}
+{"name":"buf-read-ext","vers":"0.4.0","deps":[],"cksum":"2e2c71c44e5bbc64de4ecfac946e05f9bba5cc296ea7bab4d3eda242a3ffa73c","features":{},"yanked":false}

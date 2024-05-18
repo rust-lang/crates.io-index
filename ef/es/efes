@@ -1,0 +1,2 @@
+{"name":"efes","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef8dcd2d1e22b08b2819cbfbc02fd173508a28a3bc51da8ad2d7c86f98b8707f","features":{},"yanked":false}
+{"name":"efes","vers":"1.0.1","deps":[{"name":"tempfile","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0b128bddd8677820079839bd02078cd5e2bf4b3c26b237828ca0a1d56ea0f614","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ak-rt","vers":"0.1.0","deps":[],"cksum":"682f27b0217cae977cabefa5b5f45498fab8be47e33caa29e622f131cb2325db","features":{},"yanked":false}
+{"name":"ak-rt","vers":"0.1.1","deps":[{"name":"tokio","req":"^0.2.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio-executor","req":"^0.2.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4935100fdd4e8bfa5604e662423384d0b9f058705c6cb62cfd7e3d51c1180163","features":{},"yanked":false}

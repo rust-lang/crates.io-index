@@ -1,0 +1,3 @@
+{"name":"ezio","vers":"0.1.0","deps":[],"cksum":"28d3f89c76803f175b88d56b3faa9d4887516c8c0503ea1c3ffe5deda584a732","features":{},"yanked":false}
+{"name":"ezio","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeac30fe71af3c67140bb5b9365ff94f69d49f2e8b5454709747b3f89b9c90c6","features":{},"yanked":false}
+{"name":"ezio","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb50dff20c889eb35cf19c662e19abab40f6dd85aea097fa97c8559b1b1dbca7","features":{},"yanked":false}

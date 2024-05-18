@@ -1,0 +1,2 @@
+{"name":"test-crate-9191","vers":"0.1.0","deps":[],"cksum":"2740abf2f4b820327e2b5bf15073c96ccfc9de4158f663753d14552f7a59a3e6","features":{},"yanked":false}
+{"name":"test-crate-9191","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9f6c50c1169c3bd4e26e2b5e763e1ba2f11be2bbd92b955cdd23dfc51e89977","features":{},"yanked":false}

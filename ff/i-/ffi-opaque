@@ -1,0 +1,4 @@
+{"name":"ffi-opaque","vers":"0.1.0","deps":[],"cksum":"534be3985e262585e2a8bb8322969e2115f0eff293b5bf522bef397fff54c9bc","features":{},"yanked":false}
+{"name":"ffi-opaque","vers":"1.0.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac2c8b4b9699f93504c9115a3f53775735e4563620aa705cb0af2bf56e7d2df8","features":{},"yanked":false}
+{"name":"ffi-opaque","vers":"2.0.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0a751a44a8e87cf41211963810c25e3b0a34c624a140cb4571fe6b3f2ed7b51d","features":{},"yanked":false}
+{"name":"ffi-opaque","vers":"2.0.1","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec54ac60a7f2ee9a97cad9946f9bf629a3bc6a7ae59e68983dc9318f5a54b81a","features":{},"yanked":false}

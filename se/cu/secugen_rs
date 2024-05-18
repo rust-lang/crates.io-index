@@ -1,0 +1,2 @@
+{"name":"secugen_rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bbc7b2fd84e370ed3286063cb1432c7e7e37b1e2a5c813fc7be1c85b2d1906ef","features":{},"yanked":false}
+{"name":"secugen_rs","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"59376d2d6aca0dcc11ad705e35640c58bfeb3f19649f1796a351e15f083174ab","features":{},"yanked":false}

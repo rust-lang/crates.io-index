@@ -1,0 +1,7 @@
+{"name":"pit-wall","vers":"0.1.0","deps":[],"cksum":"549c848fe8094cf7ef6c8f406a99e0fcdcc36f9e7281a110e0083096187a6d59","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.2.0","deps":[],"cksum":"3aad52035130d2520c0d07ddb6608708e767666bae10787bf2130f45d7cdd2c7","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.3.0","deps":[],"cksum":"6ba137f4af82b2eef3e3729718b72c4e0cf74c6a2a5c8c2a60f965a9a5f33227","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.4.0","deps":[],"cksum":"755875d78ff1459ccf5823dadf8ca1cb918b516295970127d4bb8bfc53255acb","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.4.1","deps":[],"cksum":"9f06e60e981f45d2cca06911bc330ee93833e6683b0f6655add1920b06d6d7be","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.4.2","deps":[{"name":"tracing","req":"^0.1.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f993575a5ebf1b4eb39ccd194692e1ee98aa4aa2319e98f9a39a14bb19a6c6f","features":{},"yanked":false}
+{"name":"pit-wall","vers":"0.4.3","deps":[{"name":"humantime","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tracing","req":"^0.1.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347ace28576138b4273ce12524dea4715620a840f465b2c7459d10b3c2ead1e2","features":{},"yanked":false}

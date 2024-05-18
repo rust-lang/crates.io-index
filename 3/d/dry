@@ -1,0 +1,2 @@
+{"name":"dry","vers":"0.1.0","deps":[{"name":"proc-macro-error","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cf3fd44069e067bd02d8c2ea623a86aaa182e45ec15353290006d3c7e99274e9","features":{"nightly":[]},"yanked":false}
+{"name":"dry","vers":"0.1.1","deps":[{"name":"proc-macro-error","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1381f77d23a6bc662f321a4543b82c39f169d662292921f5279f19ffc6cd9a84","features":{"nightly":[]},"yanked":false}

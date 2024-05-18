@@ -1,0 +1,11 @@
+{"name":"hamlrs","vers":"0.0.1","deps":[],"cksum":"952b993f60e5dbe28b605f48468b3b1198d161438df5985cc7a1f1f0d351290d","features":{},"yanked":true}
+{"name":"hamlrs","vers":"0.1.0","deps":[],"cksum":"50b612fd6f3f749a38843b118d5972e3c1800dd0a894829869d1a990d8c91287","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.1.1","deps":[],"cksum":"9b6e63061305b7708d46bf3912ae49ff77958962968e2a10ae7d9a9af72b59cd","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.1.2","deps":[],"cksum":"e3796d9030372c798b35ee6042cda4dd411362f2bf6bdf43bd799ad678abee96","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.2.0","deps":[],"cksum":"00f3c60c2e33a9641fcfec1ba76a0bc1f123479fb4cef29bef39692a6c3052ef","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.2.1","deps":[],"cksum":"7b4d48e61e8370cda99e7a763c8d0cdf2bd652a34a93b634d3f56dfdddebc451","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.3.0","deps":[{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2dae86894728080239c695c020ad7dfd2db4d04539e5bddb5c0bb90f7e85eeb","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.4.0","deps":[],"cksum":"225c0faffd208c32010d0146e6641ac8d830d6c023a73b168c8ca3f44bec64c3","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.4.1","deps":[],"cksum":"574d3b4fffe925af45b02360e1397f68c2fb713016e126fcf2a89a2f6d10735b","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.4.2","deps":[{"name":"criterion","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc01733b246779a4692f9010cc8c354accb381875f61c48108752ae3a73edc8f","features":{},"yanked":false}
+{"name":"hamlrs","vers":"0.4.3","deps":[{"name":"criterion","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c0640ccab54845ae81f917a2948fe3ed472df885712799f25254e046990178d","features":{},"yanked":false}

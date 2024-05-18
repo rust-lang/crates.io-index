@@ -1,0 +1,2 @@
+{"name":"stinkage","vers":"0.0.0","deps":[],"cksum":"1e4a111ca83f9fbf484022fdfa14362e457c39f8c362f1c37da0c5e2a19938db","features":{},"yanked":true}
+{"name":"stinkage","vers":"0.0.1","deps":[{"name":"ring","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b4393b2b96ddfbe4ea5baf1cc4b3ff44ca6476961308dd939ecbc5c6857440c","features":{},"yanked":true}

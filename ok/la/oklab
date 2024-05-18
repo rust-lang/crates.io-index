@@ -1,0 +1,2 @@
+{"name":"oklab","vers":"1.0.0","deps":[{"name":"rgb","req":"^0.8.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"467e40ada50d13bab19019e3707862b5076ca15841f31ee1474c40397c1b9f11","features":{},"yanked":false}
+{"name":"oklab","vers":"1.0.1","deps":[{"name":"rgb","req":"^0.8.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e86d5de54a7f00130a409cce9924bc39d5ab2f089000432c6a3453b9182ec42","features":{},"yanked":false}

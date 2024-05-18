@@ -1,0 +1,1 @@
+{"name":"red_smb","vers":"0.0.1","deps":[{"name":"nom","req":"^6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ee409f6ab5291f10cbbce0e670e14358a7fd0cc3710eafe3cb731e48c96582","features":{},"yanked":false}

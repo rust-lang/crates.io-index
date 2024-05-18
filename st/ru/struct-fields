@@ -1,0 +1,2 @@
+{"name":"struct-fields","vers":"0.0.1","deps":[{"name":"paste","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39b8097f71e014d8ee53eb537affb9b20b2446f5313f49e26daa94fd15257d93","features":{},"yanked":false}
+{"name":"struct-fields","vers":"0.0.2","deps":[{"name":"affix","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"159fc825c15340e3e398b9a6d529faf0c218ec70d9b48184b75e12d8439d7366","features":{},"yanked":false}

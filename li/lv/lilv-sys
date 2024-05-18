@@ -1,0 +1,5 @@
+{"name":"lilv-sys","vers":"0.1.0","deps":[],"cksum":"af6c10aa37b56da098789d04afd1136560dfd24624ae74eb9d965d6313e4c97b","features":{},"yanked":false}
+{"name":"lilv-sys","vers":"0.1.1","deps":[],"cksum":"57586f66d03a9a69e9edf6747b7ff8d0332477b5038803d96ee1cab4a7c59e40","features":{},"yanked":false}
+{"name":"lilv-sys","vers":"0.1.2","deps":[],"cksum":"6d472bb3a8fd46f474766d123266bb6dd6c86a5b86a061b28bf9dc1737cad437","features":{},"yanked":false}
+{"name":"lilv-sys","vers":"0.2.0","deps":[{"name":"lv2_raw","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77f83c85f5d78b6fedec0daae4acbc725945692dad09590833a9df36dc7e6664","features":{},"yanked":false}
+{"name":"lilv-sys","vers":"0.2.1","deps":[{"name":"lv2_raw","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aee56a6fdb8db62d01819f171d579c65fb0e03bcd077e1ea4509e06b6d58f53c","features":{},"yanked":false}

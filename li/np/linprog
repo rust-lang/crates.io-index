@@ -1,0 +1,2 @@
+{"name":"linprog","vers":"0.3.0","deps":[{"name":"uuid","req":"^0.4","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98be7b456b0e56c2510e7d3cb452bab2838217f9a98a02bcf6f14a26d8606098","features":{},"yanked":true}
+{"name":"linprog","vers":"0.3.1","deps":[{"name":"uuid","req":"^0.4","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ec3baca41b227a166ce645332d0463489ece9d45e282d5dcde5ae2999643745","features":{},"yanked":false}

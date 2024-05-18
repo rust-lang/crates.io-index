@@ -1,0 +1,1 @@
+{"name":"cavity-cli","vers":"1.1.0","deps":[{"name":"cavity","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0cfa075755650143dbf87e3be829b991430ffcf2d6582c0e05f32ec02b2d4fa","features":{},"yanked":false}

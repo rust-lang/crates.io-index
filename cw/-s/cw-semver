@@ -1,0 +1,1 @@
+{"name":"cw-semver","vers":"1.0.14","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"45fe7f7983e2e37363f440e68ae6e686d1e3f5c611ab5bb692410d88baffd3f6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.31"}

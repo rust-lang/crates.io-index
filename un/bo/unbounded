@@ -1,0 +1,14 @@
+{"name":"unbounded","vers":"0.0.1","deps":[],"cksum":"b2d88fe451b579c6e9b4e9d11c12a744bf3668c59c168ace300ec42a33a33a1c","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.2","deps":[],"cksum":"38a1d0e8b5c9c9ffba5b09d2e8bcb218dcca0c2352d9860865f5fffd9d840b49","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.2022","deps":[],"cksum":"f560889aa22314870cb14c64f5609dbf88b214749281f7a90409c75a7431c283","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.3","deps":[],"cksum":"3803542c2349e3a89bad2316f20c1594213950e8274f34a19bdee6ca90fac2b2","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.4","deps":[],"cksum":"ebd0ca125b49c262d810da13598a3dd70ae024ecaf56542554ee85ffc8cb79f8","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.5","deps":[],"cksum":"cd6b930c166f5bbd465f1e7e0d01cd26e71bf85e64dcb3a7108bc78ea6457dd9","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.6-dev.0","deps":[],"cksum":"3282858f7ccaa7118b91ee2cef352a1c1e4cf252ef982fa3504a52f7f27051ff","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.6","deps":[],"cksum":"4c384adbf3808d134168e0bc1880d030e0a697d51774977fa709becd59edfbc5","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.7","deps":[],"cksum":"468fb937935873d6cf9fb8a3b0d3c1698c9cb1ec8ca89ad3127bc459832499aa","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.8","deps":[{"name":"you-can","req":">=0.0.8-dev","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"277f6222445dab7bc3db033b2b3616bcfaa68b55dc6d519bb26078704118ad18","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.9","deps":[{"name":"you-can","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb513a4dde55a4a959506ef05e4cd2db99c885754ce087351647650ba77795e2","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.13","deps":[{"name":"you-can","req":"^0.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f1341ca31e82d371223dc2222400aaa736ebe902438ee2c94d730ff07fd8ca9","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.0--","deps":[],"cksum":"e29aa7dd394172a47e96106d33e834cb59ab981a04f07d853cb6bfeab772d16d","features":{},"yanked":true}
+{"name":"unbounded","vers":"0.0.0-removed","deps":[],"cksum":"de191f19daee10afc586e8a480a89839d1db926a91db1c285d554827930e4241","features":{},"yanked":true}

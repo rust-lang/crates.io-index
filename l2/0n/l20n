@@ -1,0 +1,4 @@
+{"name":"l20n","vers":"0.0.1","deps":[],"cksum":"b9c7bbcfa888aec62e3a52402d977f58cea00203822f8765b81b0b0392521bb2","features":{},"yanked":true}
+{"name":"l20n","vers":"0.1.0","deps":[{"name":"serde","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d6a45a4407e8acdd9061aaba75bf75c49b099c7bd2358e5a2290786b877a523","features":{},"yanked":true}
+{"name":"l20n","vers":"0.1.1","deps":[{"name":"serde","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf55b9f77e83023d277ba7584c5947629302281b8aa083ab460630e6e7367046","features":{},"yanked":true}
+{"name":"l20n","vers":"0.1.2","deps":[{"name":"serde","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8074e4306d645e27ec7dcab06512abc5d56833369bf03fc098de6b28c1af4b9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sim-by-fired-event","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"baf7647c06099ef6b3b5f4fd148ba35d95b7fb85c38c03890b32fa72520a9820","features":{},"yanked":false}
+{"name":"sim-by-fired-event","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b940ccf36748b4ce5e634a9b97992935268066dada34b4d652f3ee8a21291aea","features":{},"yanked":false}

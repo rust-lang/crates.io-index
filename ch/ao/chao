@@ -1,0 +1,1 @@
+{"name":"chao","vers":"0.1.0","deps":[{"name":"libchao","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustyline","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"905c1642327e7d05f92ed0704829d76d09399a07296ecda8ef67f9e051d66507","features":{},"yanked":false}

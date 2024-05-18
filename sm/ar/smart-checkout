@@ -1,0 +1,1 @@
+{"name":"smart-checkout","vers":"0.1.0","deps":[{"name":"dialoguer","req":"^0.9.0","features":["fuzzy-select"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957a1b4acd8868c466e0f271567080414cac084545b3d17e65aa52ea46378a23","features":{},"yanked":true}

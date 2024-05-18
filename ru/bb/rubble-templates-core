@@ -1,0 +1,1 @@
+{"name":"rubble-templates-core","vers":"0.2.0","deps":[],"cksum":"ac36a9010d01e02c01b67ceab2bc56ac306c5e680e1a2fb26e6b9700e8d54e1f","features":{"ast":[],"compiler":["evaluator"],"default":["ast","evaluator","compiler"],"evaluator":["ast"]},"yanked":false}

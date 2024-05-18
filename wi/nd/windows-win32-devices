@@ -1,0 +1,5 @@
+{"name":"windows-win32-devices","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e68d3232107c8bca7dc306d5ae0d7d983ca16bf98a976174d4c4e35a9c0df067","features":{},"yanked":false}
+{"name":"windows-win32-devices","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"185f1f00770c849817bf85ce639533099a96bbd94b3992a1896bffa6df1a7740","features":{},"yanked":false}
+{"name":"windows-win32-devices","vers":"0.22.5","deps":[],"cksum":"254e8c01ef24debd3274cf2f132e52dc06af4507408ab64c92a7f852814a2c50","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-devices","vers":"0.22.6","deps":[],"cksum":"bee79f389926fbf8881bbf89775640fee7c654771ee81f82b14163ce672295e4","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-devices","vers":"0.23.0","deps":[],"cksum":"78d3d41d5b5ec0717b408ab1fd64eb4667ab2ee5b8864dbb16b14d47bfc9cc3f","features":{},"yanked":false}

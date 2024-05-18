@@ -1,0 +1,1 @@
+{"name":"oslo-policy","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f1363ff309c05887e1050c8f18b9057828a5ea847e56cbbf43ebccc13043ec9","features":{},"yanked":false}

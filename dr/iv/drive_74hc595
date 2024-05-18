@@ -1,0 +1,2 @@
+{"name":"drive_74hc595","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fa02bb92e1bae7f36af30e3d5ab32016d8c9394adf5f02ec6d0494d25e285a7","features":{},"yanked":false}
+{"name":"drive_74hc595","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29ec3d800eb3cd6b7f1a88a996a4df3e89f09125f6e7a1d8033868376856ac0e","features":{},"yanked":false}

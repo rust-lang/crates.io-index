@@ -1,0 +1,2 @@
+{"name":"nifpga-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89138ecfcc2e88d342d2565556710676c758a04e9dbef0f758bbf9ffaaf0416e","features":{},"yanked":false}
+{"name":"nifpga-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a4e4c4a4cb64d05cf43182973e46914fe9e6fbbb8b0026a3036640906c54066","features":{"default":[],"static":[]},"yanked":false}

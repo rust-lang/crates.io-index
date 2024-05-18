@@ -1,0 +1,2 @@
+{"name":"apollo-hyper-libretro-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02681c0e1de834d233561819fb6e8c288317e0622f20bf632f3a83d972648be9","features":{},"yanked":false}
+{"name":"apollo-hyper-libretro-sys","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e37947bd2102969725c8169855a6c6ae623d1c67e87662791f07124010c68d98","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"inarybay-runtime","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.28","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7619b079ddcfcbe1a4a7f109ee8124e0feef79b41ef36a27a75b0c92e7332b4c","features":{"default":[]},"features2":{"async":["dep:futures"]},"yanked":false,"v":2}

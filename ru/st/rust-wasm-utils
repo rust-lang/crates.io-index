@@ -1,0 +1,1 @@
+{"name":"rust-wasm-utils","vers":"0.3.0","deps":[{"name":"clippy","req":"= 0.0.174","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb277cc411b687dafca4c9d43f44da574a94244c17e6ce8033aeda6645817fcb","features":{"lint":["clippy"]},"yanked":false}

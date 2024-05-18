@@ -1,0 +1,1 @@
+{"name":"fstoy","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ring","req":"^0.17.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a9f5b596e9f64826cf6b414e8921e635b8ec1647cbcca68e247b4f5a9206508","features":{},"yanked":false}

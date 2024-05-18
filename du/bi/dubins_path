@@ -1,0 +1,2 @@
+{"name":"dubins_path","vers":"0.0.1","deps":[],"cksum":"9935e32088b2b746e9b00774b1b0f247c30ba8a48c0dcf2ea7dc49dc8ab03c4a","features":{},"yanked":false}
+{"name":"dubins_path","vers":"0.0.2","deps":[{"name":"euclid","req":"^0.20.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e2b05867df64c13d7358ee5111a36d4b71d904ba8e13ebc9a00a717697a5d35","features":{},"yanked":false}

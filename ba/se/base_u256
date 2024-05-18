@@ -1,0 +1,2 @@
+{"name":"base_u256","vers":"0.1.0","deps":[{"name":"ux","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24a495df54c3d7c6f2d4b0fe2b566559101e46be67891cfde01a2835f9b35c18","features":{},"yanked":false}
+{"name":"base_u256","vers":"0.1.1","deps":[{"name":"ux","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69bdfaef8a307374cf796ed820c10308a69c6b78ddaf98f7175cf8e9f15538b6","features":{},"yanked":false}

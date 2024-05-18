@@ -1,0 +1,1 @@
+{"name":"accrua-rs","vers":"0.1.0-alpha.1","deps":[{"name":"chrono","req":"^0.4","features":["alloc","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce02d9439878f3ab9b1c1a05e09863e4135c92e774652df0bb50f632d3a8ef3f","features":{},"yanked":false}

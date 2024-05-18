@@ -1,0 +1,2 @@
+{"name":"rsgrad","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fe697299040e0ffae2f553c9b84d36674e0e0f4c990daf204bf5cf417905fe2","features":{},"yanked":false}
+{"name":"rsgrad","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d19b5c2f73e453302e7cbd27fa231d91be2c8d8dde9c387e81f2fd9c25f9eed1","features":{},"yanked":false}

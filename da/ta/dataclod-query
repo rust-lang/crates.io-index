@@ -1,0 +1,2 @@
+{"name":"dataclod-query","vers":"0.0.1","deps":[{"name":"datafusion","req":"^33.0","features":["simd"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9a93c849c0ae9aecaad7c7104dddb9fe629ce1c2bedebf59e9eaf60b82ee512","features":{},"yanked":false}
+{"name":"dataclod-query","vers":"0.0.2","deps":[{"name":"datafusion","req":"^33.0","features":["simd"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c08268fef1be253d742f1b434fac0449afc58cf329e8b9750eb3bc6ba5e120af","features":{},"yanked":false}

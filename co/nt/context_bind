@@ -1,0 +1,2 @@
+{"name":"context_bind","vers":"0.0.1","deps":[{"name":"context","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"996ce09267e4803e878d9087b46f39704cbd82b95682c7f5cd5565426f898b05","features":{},"yanked":false}
+{"name":"context_bind","vers":"0.0.2","deps":[{"name":"context","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14e910cbfdf10f6dc56aab7336a1ccde543787af1b8180b8071332a182aa81e1","features":{},"yanked":false}

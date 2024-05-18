@@ -1,0 +1,1 @@
+{"name":"aorist_extendr-engine","vers":"0.0.1","deps":[{"name":"libR-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4909097f5ab483401d2444be9b2aa925544481d0a4223e68992bd53f6227ab","features":{"default":[],"tests-all":["libR-sys/use-bindgen"]},"yanked":false}

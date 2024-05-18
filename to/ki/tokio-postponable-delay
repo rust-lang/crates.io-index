@@ -1,0 +1,1 @@
+{"name":"tokio-postponable-delay","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.2","features":["time","macros","rt-threaded"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73eed3f73a2e17d0b8e2d7e62e4ba0f96d3f313292de4c74ae30e0b22482dd07","features":{},"yanked":false}

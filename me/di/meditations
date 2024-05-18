@@ -1,0 +1,2 @@
+{"name":"meditations","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"267b28688d67c5f4bed685e8568c2530c26d39fd5d970dddb909142e775d70a6","features":{},"yanked":false}
+{"name":"meditations","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6079939d473ab6edf1748577c1df3c01e602207a29358751890cd27a613ad0c","features":{},"yanked":false}

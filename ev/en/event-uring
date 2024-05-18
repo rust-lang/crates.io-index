@@ -1,0 +1,1 @@
+{"name":"event-uring","vers":"0.1.0","deps":[],"cksum":"944b2975ad8594fee5c670648fa20c98f74512376af14fb6203c815813343ff6","features":{"default":["platform_linux","platform_macos","platform_webos"],"platform_linux":[],"platform_macos":[],"platform_webos":[]},"yanked":false}

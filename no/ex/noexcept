@@ -1,0 +1,2 @@
+{"name":"noexcept","vers":"0.0.1","deps":[{"name":"noexcept-impl","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4abb999ef4e7876669ac8390146a0a5c5625e344b7029dcfd9921a73cc9da584","features":{},"yanked":false}
+{"name":"noexcept","vers":"0.0.2","deps":[{"name":"noexcept-impl","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc0866969c3241e2b981f5159aaed9b5f6121dcfb77cef0e799f45e2d0eebb00","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cairo-blur","vers":"0.1.0","deps":[{"name":"cairo-rs","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9d5fc8c93b570d5a6120ba5c3435af5c826fd38663faacbfa484dd1b5ac2d2e","features":{},"yanked":false}
+{"name":"cairo-blur","vers":"0.1.1","deps":[{"name":"cairo-rs","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c03278221d0a4cb2f176ce257f52d4f8cc9f1843cc3750304d6f5a3382d8b5c","features":{},"yanked":false}

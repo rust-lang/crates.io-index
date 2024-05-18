@@ -1,0 +1,1 @@
+{"name":"eddie_crate","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.15","features":["full","tracing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c9f0af44b2de457a5d44396d20a83db7c39fb9c33044fa444b9c5aeb2f28a7a","features":{},"yanked":false}

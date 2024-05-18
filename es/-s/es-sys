@@ -1,0 +1,2 @@
+{"name":"es-sys","vers":"0.0.0","deps":[{"name":"bindgen","req":"^0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7b1898c5ec84a02e357e2904153bd631330faa069b7115c06b01ae2202a0ab6d","features":{},"yanked":false}
+{"name":"es-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4caf2536c8e67a492e9027b8420fc27a492e1ab49e2533cfa20c7749b31dfeeb","features":{},"yanked":false}

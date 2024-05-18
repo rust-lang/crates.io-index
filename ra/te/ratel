@@ -1,0 +1,14 @@
+{"name":"ratel","vers":"0.2.3","deps":[{"name":"docopt","req":"^0.6.78","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itoa","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d117078a95be6ee23a01666f97942a4b0d8cef28c13c5fdc3b3d2f8a9c1adc4a","features":{},"yanked":false}
+{"name":"ratel","vers":"0.3.0","deps":[{"name":"docopt","req":"^0.6.78","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itoa","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27260f1ed63eb9058c7a8bdd63c7305ecab0b36df67e5c472bf9892242ec69e0","features":{},"yanked":false}
+{"name":"ratel","vers":"0.4.0","deps":[],"cksum":"e3e1926961f4e0f2579d0916982f3c11cb31bf970034e6fa0ffd84b5897ed2e9","features":{},"yanked":false}
+{"name":"ratel","vers":"0.4.1","deps":[],"cksum":"fe2da3fdc765a5b675c3987a0a7ae3117e5320b12cd2dd38529012991d8bf41b","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.0","deps":[],"cksum":"1986894078f8f1ae8164b9f1f5e95b9b0459f1e9c47ca962833b7cd7dec2d164","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.1","deps":[],"cksum":"8533af170dce09444ab9489f3589d753b0569e70a5d58cb4dda6551bb4380251","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.2","deps":[],"cksum":"0628a917ae03c0b7db78a698247acd67b6c648f8d0c4c2a7a09bc08b5043a98d","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.3","deps":[],"cksum":"538b930ec8008f191600c5b39af0c20e5a6f2dbb57bde8cbb6ee7ba837d159ef","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.4","deps":[],"cksum":"c85bd0f6fa4512fd87f2735648c69124cd47d1409a3bfcb4a7fa96c10439b658","features":{},"yanked":false}
+{"name":"ratel","vers":"0.5.5","deps":[],"cksum":"3954b8f150a543085b9f149677e2aeca08124d28406435a294102313f95102a5","features":{},"yanked":false}
+{"name":"ratel","vers":"0.6.0","deps":[],"cksum":"bcad2ba33effb96e292997c532232ca98e70eecf8500790428144248792dd6cd","features":{},"yanked":false}
+{"name":"ratel","vers":"0.6.1","deps":[],"cksum":"6d9f54aa7bea34c45b71fc4dbda25041bac2abc15a762210e04ff401fac481dc","features":{},"yanked":false}
+{"name":"ratel","vers":"0.6.2","deps":[],"cksum":"6178a32660782aaff1d2745424f52a0a6a1a5be982f37607130abc7e0c04328c","features":{},"yanked":false}
+{"name":"ratel","vers":"0.7.0","deps":[],"cksum":"14ab2bdb5fa0e1542608bff8089ad7c85810d6d3d8e620f15d2ffcebb32adaa0","features":{},"yanked":false}

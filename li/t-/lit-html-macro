@@ -1,0 +1,2 @@
+{"name":"lit-html-macro","vers":"0.0.0","deps":[{"name":"syn","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa7f790e8fb06a32538777d863c5c46ba86bb2d8ab33a3d206017d2cd618663","features":{},"yanked":false}
+{"name":"lit-html-macro","vers":"0.0.1","deps":[{"name":"syn","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c0d855caec5a8e05da83bd5a67b11f2ee75691c3af07adb7b615af8286e9069","features":{},"yanked":false}

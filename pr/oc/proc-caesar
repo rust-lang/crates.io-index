@@ -1,0 +1,2 @@
+{"name":"proc-caesar","vers":"1.0.0","deps":[{"name":"proc-macro2","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6453b21802caefac1e036e5960bd0f2c4eb266ae22860b74bc4be46f54bf649a","features":{},"yanked":false}
+{"name":"proc-caesar","vers":"1.1.0","deps":[{"name":"proc-macro2","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d664df208aa4d2356e6ff806cc222e52f314b36ea53c16d47dcd7b7239eedbc6","features":{},"yanked":false}

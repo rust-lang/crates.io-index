@@ -1,0 +1,1 @@
+{"name":"coopted_llvm_sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76a5658153e44ef2f5880a9976e239f5fcc44cc7ea4c06af25cfc463aa40358a","features":{},"yanked":false,"links":"llvm"}

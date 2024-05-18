@@ -1,0 +1,2 @@
+{"name":"saf-httparser","vers":"0.1.0","deps":[{"name":"http","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71063076b1190ac8aae33911ffdc1fbe38739aefa8f59b91cfa7d3687c2b9af1","features":{},"yanked":false}
+{"name":"saf-httparser","vers":"0.1.1","deps":[{"name":"http","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a74f729eb69eba18e7376107462d67f6e5357462ca2db76dbf73a982a452279d","features":{},"yanked":false}

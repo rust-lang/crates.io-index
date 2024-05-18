@@ -1,0 +1,2 @@
+{"name":"cjk_entity_extractor","vers":"0.0.1","deps":[],"cksum":"765c7b51f621e4a87ded12d9b625f5b07c76cab84257777ac1f72582fa770cf9","features":{},"yanked":true}
+{"name":"cjk_entity_extractor","vers":"0.0.2","deps":[{"name":"cjk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2aea344d63fbdaf41abfefc468250d654a02b935081bc69fbeb93f9b06289ed","features":{},"yanked":true}

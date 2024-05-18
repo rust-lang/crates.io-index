@@ -1,0 +1,1 @@
+{"name":"fuchsia-zircon-types","vers":"0.4.0-alpha.1","deps":[{"name":"zerocopy","req":"^0.8.0-alpha.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40d2238c65801cfc4845492fb800699d139e683a23d9234af82f8b3b039e651c","features":{},"yanked":false}

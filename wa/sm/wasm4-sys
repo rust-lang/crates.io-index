@@ -1,0 +1,5 @@
+{"name":"wasm4-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"271c3f35b9424c64bc0d210ee627a2542faa7592713061541b9fa70da7779666","features":{},"yanked":false}
+{"name":"wasm4-sys","vers":"0.1.0","deps":[],"cksum":"96960bf4918ac78077191324caaeef9050989b263d798dad45b67724ccf8e8a6","features":{},"yanked":false}
+{"name":"wasm4-sys","vers":"0.1.1","deps":[],"cksum":"c5ba42cc205f8b7fe1a804dca885a8beb97e94d4345fb3bbe073b2798c516b61","features":{},"yanked":false}
+{"name":"wasm4-sys","vers":"0.1.2","deps":[],"cksum":"62a984df5b00d482ba54d3c5dad2207bd6d8d862326a7ab22ec9cd288ff32b88","features":{},"yanked":false}
+{"name":"wasm4-sys","vers":"0.1.3","deps":[],"cksum":"96f3b2b137766abb0b52beeb7d57c3b81d055c2f44bb88ea4d6ab158d015c015","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"zephyr-config","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"51c749b69e0fd2ae5a820c58f2d8dd941ac01e5a10bf82288923814c6036f491","features":{},"yanked":false}
+{"name":"zephyr-config","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a8c0946beac33ea3c39218e4f7dad741e24e687d137f1c85d84b9940465efd00","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sokoke","vers":"0.0.1","deps":[],"cksum":"da1db2dc75f96c03b255f23081862e745ad70636aafa6f258fc6f930e5b93733","features":{},"yanked":false}
+{"name":"sokoke","vers":"0.0.2","deps":[{"name":"tokio","req":"^1.33.0","features":["rt-multi-thread","time","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40e5793cff3274c487e2738b540190c0d8d8def5df174acd900bef964531d9d5","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"passxgen","vers":"0.3.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ac40351ce07380756e75e19aecb099f850c9805a1204306bdccab5948ff4306","features":{},"yanked":false}

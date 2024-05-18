@@ -1,0 +1,2 @@
+{"name":"hilog-sys","vers":"0.1.0","deps":[],"cksum":"f0aa543ddc55dd1e67fb5e39c034d4fa0d7a1f744f16736eca33b4fbb6a81586","features":{},"yanked":false}
+{"name":"hilog-sys","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de0e35e8534a70b5af5ccc943ffa3e2dcfe481b2b983c9fd514d7421a46b69e","features":{},"features2":{"log":["dep:log"]},"yanked":false,"v":2}

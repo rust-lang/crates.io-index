@@ -1,0 +1,1 @@
+{"name":"ach-pool","vers":"0.1.1","deps":[{"name":"ach-option","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"on_drop","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b7d6cd2db1b2830c10f81d24dc6b3524a9bf99bff388206f3a594ab2e569b807","features":{},"yanked":false}

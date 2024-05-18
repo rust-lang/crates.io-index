@@ -1,0 +1,2 @@
+{"name":"sio","vers":"0.1.0","deps":[],"cksum":"feec158f16fa7329d753f27d60ca13982b5e3e8dfe3f90c3a146a678f386ea93","features":{},"yanked":false}
+{"name":"sio","vers":"0.2.0","deps":[{"name":"ring","req":"^0.14.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02025e39320c1e1004cd901aaffbb5541f8fa3bf34a493506924169073674216","features":{"default":["ring"]},"yanked":false}

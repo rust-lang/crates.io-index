@@ -1,0 +1,2 @@
+{"name":"luajit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"048f3b89ef253c376d59159258b7263aec78cba839a1f26004dc65e81ca3787e","features":{},"yanked":false}
+{"name":"luajit","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"216ed8eb8f7edfb5bfc1163cce9747517ed2ea7656a884640791a2be86b86e54","features":{},"yanked":false}

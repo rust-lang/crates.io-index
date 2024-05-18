@@ -1,0 +1,2 @@
+{"name":"wifi-cli","vers":"0.1.0","deps":[{"name":"termion","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b52cf30660323677a1e64fa3112527bb755aed7baed039756d7cb73ab9d2bfce","features":{},"yanked":false}
+{"name":"wifi-cli","vers":"0.1.1","deps":[{"name":"termion","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90b73e1b14b3cffedc22d97bcb4ee7dc77e73528496ffc37e35fe340e96d60c4","features":{},"yanked":false}

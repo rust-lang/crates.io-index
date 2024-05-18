@@ -1,0 +1,7 @@
+{"name":"coinflip_animation","vers":"0.1.0","deps":[],"cksum":"a1279a812f5bccb5f7f54f3c402dbdc595fe967517203b4ca825903c9f8f9df7","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.1.1","deps":[],"cksum":"74eb8fc2f1c3c2b812523a270980472c05be4c055fb5195ac7db76a474d76ec2","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.1.2","deps":[],"cksum":"4b6ef99ccb2b9442ff4fc81c96e73a07f27c6279b8a88195742c5c2ec5ece5fa","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.1.3","deps":[],"cksum":"23767f411fe9d700d21e5a8ad0adf10d438ea81b1370c3485ac3814e8d5570ad","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.1.4","deps":[],"cksum":"2dcc9ca94466b54943b178742fe72fb78cf8896a249004a30bed2b4e1597fb19","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.2.0","deps":[{"name":"ctrlc","req":"^3.4.4","features":["termination"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2ecaa63f34d66b5cef82eb8f2c0678a4afcd5262b3091589fc93d4a1078db2c","features":{},"yanked":false}
+{"name":"coinflip_animation","vers":"0.2.1","deps":[{"name":"ctrlc","req":"^3.4.4","features":["termination"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55258c8181c42250e1aa15efedbd009db94df8b2d376f4559a51d4006a61161a","features":{},"yanked":false}

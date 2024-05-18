@@ -1,0 +1,2 @@
+{"name":"libzbc-bindgen","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8872cb843088ed7903ab8063b10a87189102920376bae9c1ca548d3fafa70068","features":{},"yanked":false}
+{"name":"libzbc-bindgen","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7357d883813b1c58cdcc880d75f5850d418d60bc1161544d95687983ffc1bd19","features":{},"yanked":false,"links":"zbc"}

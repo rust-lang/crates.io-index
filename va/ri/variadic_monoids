@@ -1,0 +1,2 @@
+{"name":"variadic_monoids","vers":"0.1.0","deps":[{"name":"tuple_list","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfb63fd9076e2983da02fed8c1ca17cc467a7bb85ecf67f863da4cf1ae5cb59f","features":{},"yanked":false}
+{"name":"variadic_monoids","vers":"0.1.1","deps":[{"name":"tuple_list","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2acfa6b9149ff8df5cb786ef9789752a1f2fad39606133b7a6adcda144befe21","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"termbuffer","vers":"0.1.0","deps":[{"name":"termion","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5320c0d3921752cdfa9ff0eaad8afff31041f105be9fb353fb31a386bb298440","features":{},"yanked":false}
+{"name":"termbuffer","vers":"0.1.1","deps":[{"name":"termion","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a742b634ef6d09bfad56afcb475268e07c0b5334f47c17e3c52a1e0227cab1a6","features":{},"yanked":false}

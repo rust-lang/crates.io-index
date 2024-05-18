@@ -1,0 +1,1 @@
+{"name":"xfbs_euler","vers":"0.1.0","deps":[{"name":"bcrypt","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb0fbc20f3801b2821fcc6f018102d49507b5937b3d9612bfda9acb26e86f1d","features":{},"yanked":true}

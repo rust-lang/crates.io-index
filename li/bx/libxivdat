@@ -1,0 +1,2 @@
+{"name":"libxivdat","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"042ddec60d24717c1051676f01b1d329b19b67a3474f3a8eb8c31e6095b3b1f6","features":{},"yanked":false}
+{"name":"libxivdat","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34ea4092c1a0b8185de442679263f431d87021819948d681d742fe37ec1c5343","features":{"high-level":[],"macro":["high-level"]},"yanked":false}

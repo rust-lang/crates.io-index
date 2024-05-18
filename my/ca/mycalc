@@ -1,0 +1,1 @@
+{"name":"mycalc","vers":"0.0.0","deps":[{"name":"eval","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"slint","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"116598929f7d01de600fbcb8ec9e1ea5b1d3987026c399289e5de6e881a9ece4","features":{},"yanked":false}

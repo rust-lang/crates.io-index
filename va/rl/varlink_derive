@@ -1,0 +1,2 @@
+{"name":"varlink_derive","vers":"0.1.0","deps":[{"name":"varlink_generator","req":"^7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"784a776208d9ef9b5b43a8cdab3469a555e9d503fbe5685fb2c47a244fb71035","features":{},"yanked":false}
+{"name":"varlink_derive","vers":"8.0.0","deps":[{"name":"varlink_generator","req":"^8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"712199241863c0985f44df707d914e309109217d01fab8b214179db83d5c7f2c","features":{},"yanked":false}

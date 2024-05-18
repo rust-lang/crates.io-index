@@ -1,0 +1,3 @@
+{"name":"hbs-common-sys","vers":"0.1.0","deps":[],"cksum":"4380abb1946305e60ac9554ce66d6ee57dcff236a63ca3261a94bd2c146280e2","features":{},"yanked":false}
+{"name":"hbs-common-sys","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e89434c768791f016583dd906c887f80b13dbc4e7dd37c655027430a004e7c6","features":{},"yanked":false}
+{"name":"hbs-common-sys","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4725a2645e33daf07c2eeb95ec9d71f6a1a2a1d78b0596e290f0883d14deb6b6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ck_commands","vers":"0.0.4","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"faae053e6563d52daf689ae602865b17fccfd785e7f77076fd3817a55df1a429","features":{},"yanked":false}
+{"name":"ck_commands","vers":"0.0.5","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79814846a1c1762cb202c9d890af7c5d156c687dc3330be1ca77dc094901edd8","features":{},"yanked":false}

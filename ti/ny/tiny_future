@@ -1,0 +1,6 @@
+{"name":"tiny_future","vers":"0.3.0","deps":[{"name":"etrace","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dec8a98d3ecb74a5987114613158379c7e47df126085d451291d150bfce0c9c0","features":{},"yanked":false}
+{"name":"tiny_future","vers":"0.3.1","deps":[{"name":"etrace","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bdbbe20e78e1fcde075b3f87703a4fef09e2273345f8b3d5f63d671680c2f5a","features":{},"yanked":false}
+{"name":"tiny_future","vers":"0.3.2","deps":[{"name":"etrace","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dd8b65978358e82a0b77fcfaf6dd2a862c186d6b91fb74d6736c32633b0de7f","features":{},"yanked":false}
+{"name":"tiny_future","vers":"0.4.0","deps":[],"cksum":"8600c15e355679fff8cd157ead5199b517f4942ed8e46ff8105979fa462bdbfc","features":{},"yanked":false}
+{"name":"tiny_future","vers":"0.5.0","deps":[],"cksum":"4e45565e0d56d9c6e0acc6cb10926c4b1bdbb34d92936fa61f8662d665a07c06","features":{"default":[]},"yanked":false}
+{"name":"tiny_future","vers":"0.5.1","deps":[],"cksum":"d8d3a2c87dc76530ddc98e6afc52a78a092470f3b3b0a1292da3e02d5537c1e2","features":{"default":[]},"yanked":false}

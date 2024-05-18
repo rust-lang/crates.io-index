@@ -1,0 +1,2 @@
+{"name":"zxing_rust","vers":"0.1.0","deps":[],"cksum":"fea6e28f0e174e6711f90a42a543f8c80ea6b52540c9469264e37d83cce0dd94","features":{},"yanked":false}
+{"name":"zxing_rust","vers":"0.1.1","deps":[{"name":"image","req":"^0.23","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76ba6336a700019babe023b6412eb3b443e55831182779f760d728f47c724d17","features":{},"yanked":false}

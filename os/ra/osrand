@@ -1,0 +1,3 @@
+{"name":"osrand","vers":"0.0.1","deps":[],"cksum":"23fd58dfa061fdf601f91989428182e2be6aee7d332706fe4b635afcf179130d","features":{},"yanked":true}
+{"name":"osrand","vers":"0.2.0","deps":[],"cksum":"88dbc68dcc05a58f374f9d9072b7c3ffde602a77b8b57b45bda684ff430eb13b","features":{},"yanked":false}
+{"name":"osrand","vers":"0.2.1","deps":[],"cksum":"b7f47db55a134b5b3aacc430ff7ecabc222c2f67dd63eb9d7dd1a417618b6b54","features":{"default":["urandom"],"urandom":[]},"yanked":false}

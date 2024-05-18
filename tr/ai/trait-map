@@ -1,0 +1,5 @@
+{"name":"trait-map","vers":"0.1.0","deps":[],"cksum":"a69e1e247f5587fdba6a70a1220e5a90b111b3c2c9aa41be5e0278a68d2b5b72","features":{},"yanked":false}
+{"name":"trait-map","vers":"0.1.1","deps":[],"cksum":"4909d88b5f711cba71eaa97cccdaa56e7029b5841ef425a15021897ec07daa18","features":{},"yanked":false}
+{"name":"trait-map","vers":"0.2.0","deps":[],"cksum":"1d48f7ae032410a1f874b6f1e48a1f58631f882cdc8f8215d7d6f20177e398d3","features":{},"yanked":false}
+{"name":"trait-map","vers":"0.3.0","deps":[{"name":"trait-map-derive","req":"=0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9440a0e873ddd80af53ad04fbb8ba4cc7c1b105469122643e849b524570c5d7","features":{"derive":["trait-map-derive"]},"yanked":false}
+{"name":"trait-map","vers":"0.3.1","deps":[{"name":"trait-map-derive","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f552d530b18be2ec54c8d63216b99458bb3aa4be99f4d3a78dda59622b149234","features":{"derive":["trait-map-derive"]},"yanked":false}

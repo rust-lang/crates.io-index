@@ -1,0 +1,4 @@
+{"name":"windows-win32-web","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9147bcbccdb74f7075ef91ba0804385ace5ce02308c6ab69247fe4fb1a15c243","features":{},"yanked":false}
+{"name":"windows-win32-web","vers":"0.22.5","deps":[],"cksum":"5e64da0cb7c4d8afe108c85c90bfc34dda7fc7862a1af627887f7e2a05f3f0a6","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-web","vers":"0.22.6","deps":[],"cksum":"87f1316ca87d4d1f00ebc25268afb23c81daa2ca5187e34962094fdc33d9d379","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-web","vers":"0.23.0","deps":[],"cksum":"ce838a1882a0fa1b7bb4ffc527e9ab0ba7037187e42e931079c99ca177f82053","features":{},"yanked":false}

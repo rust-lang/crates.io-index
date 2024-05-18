@@ -1,0 +1,2 @@
+{"name":"gossip-peer","vers":"0.0.1","deps":[],"cksum":"57863d9d55f1618991d9590d13812e80e16052b983af64942cc0939ac332ccf2","features":{},"yanked":false}
+{"name":"gossip-peer","vers":"0.1.0","deps":[{"name":"borrowed-byte-buffer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60ab3295a3b1fb04458cdfa89de024ab3f4e0264b174cda034f1566ddbbbbcac","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"extra_waiters","vers":"1.0.0","deps":[{"name":"parking_lot_core","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"080c2104dce3583acadc831760f00b19cca0a970671e0f2cf88475966dea685c","features":{},"yanked":false}
+{"name":"extra_waiters","vers":"1.0.1","deps":[{"name":"parking_lot_core","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eb819500745e199a95467ef09d9782d92937375a96c36f402c262d580c918c8","features":{},"yanked":false}

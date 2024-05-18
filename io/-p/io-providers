@@ -1,0 +1,6 @@
+{"name":"io-providers","vers":"0.1.0","deps":[],"cksum":"d39fb2129e24789a6909f6f1594721e15de4adf28c2e34bdcab2e042a103d062","features":{},"yanked":false}
+{"name":"io-providers","vers":"0.1.1","deps":[],"cksum":"a28b1645b4fe392fcc06ac1b14dcfb6939c4b2ebb4347ef1ca410ca628bf1c03","features":{},"yanked":false}
+{"name":"io-providers","vers":"0.1.2","deps":[],"cksum":"b998b85706d6fd5e0fc3871ac6d5e271447d18ef019441c5d22e8cfe3538369a","features":{},"yanked":false}
+{"name":"io-providers","vers":"0.2.0-beta","deps":[{"name":"tempfile","req":"^3.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de40737fdebd9984ce65f0c27b2adae89af44177cdd43a174ab65dc4112f32c3","features":{},"yanked":false}
+{"name":"io-providers","vers":"0.2.0-beta.2","deps":[{"name":"tempfile","req":"^3.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a0bee41f71d1bb15899b7947f58dbacbfa0c5d877e3027fceb3c1c3ba7979a0","features":{},"yanked":false}
+{"name":"io-providers","vers":"0.2.0-beta.3","deps":[{"name":"tempfile","req":"^3.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70a0056bf0b48acab08a5cabb0dc96d005b864c4dd6178a2ba844fcf9b7343b9","features":{},"yanked":false}

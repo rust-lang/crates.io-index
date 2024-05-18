@@ -1,0 +1,2 @@
+{"name":"ookami","vers":"0.1.0","deps":[{"name":"rustyline","req":"^12.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dbf2b490b594b721adbf77b3611eda12f82d4d0dc8550d76e853c863bf6d967","features":{},"yanked":false}
+{"name":"ookami","vers":"0.2.0","deps":[{"name":"rustyline","req":"^12.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d959bc23cf4c564c2aab58704bc1f42792ced6691bd592888b7f585ad0b0ace","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"extract-words","vers":"0.1.0","deps":[{"name":"rusty-hook","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fc4bc037b4e8df0501f47812124a3504b60da620eeb587c4321e32cfd100e66d","features":{},"yanked":false}
+{"name":"extract-words","vers":"0.2.0","deps":[{"name":"rusty-hook","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b0739c6b9a8c224a2a73f4c5375ef1513b1e05b7bb133593e98c7920c93c923a","features":{},"yanked":false}

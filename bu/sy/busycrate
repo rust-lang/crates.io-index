@@ -1,0 +1,1 @@
+{"name":"busycrate","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ac3d000779350b19c80c7b706302d376444b7d20c06443851cb4ef75d3c0918","features":{},"yanked":false}

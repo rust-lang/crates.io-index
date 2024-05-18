@@ -1,0 +1,1 @@
+{"name":"loch","vers":"0.0.1","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"curl","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc50de942826ed04488b30a694847832ba5ca2463c9319cd267b20df49a34a00","features":{},"yanked":false}

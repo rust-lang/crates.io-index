@@ -1,0 +1,2 @@
+{"name":"gmprs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3cd3c01f2d18bd6b9fe6b4826281b4d65739ae4a97c56a8879e4fd060dcdaa14","features":{},"yanked":true}
+{"name":"gmprs","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f8e63089e20c6d461f934993f21996858693f476c6403199fc14ffa718bfc70e","features":{},"yanked":true}

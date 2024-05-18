@@ -1,0 +1,2 @@
+{"name":"didrte-rs","vers":"0.1.0","deps":[],"cksum":"8999903a7dc169df1a9be2067753de99571116109adbc72c03f59447c4c0c63b","features":{},"yanked":true}
+{"name":"didrte-rs","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64dc2178dde17a4cad2382b986c9dc9e8eb87bb276e2dfb3149994cf785554eb","features":{},"yanked":true}

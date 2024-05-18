@@ -1,0 +1,1 @@
+{"name":"generic-pool","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c972b59191c97eedac1dfd58a2b590d06838a07a8a074480a277ade3cdb25ecc","features":{},"yanked":false}

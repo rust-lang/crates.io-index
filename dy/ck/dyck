@@ -1,0 +1,1 @@
+{"name":"dyck","vers":"0.1.0","deps":[{"name":"dyck-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c57091e4cc43dbe3379ca3f837ed4121fa25784245e4fde5b398513b1b77007d","features":{"default":[],"derive":["dyck-derive"]},"yanked":false}

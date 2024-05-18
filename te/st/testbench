@@ -1,0 +1,17 @@
+{"name":"testbench","vers":"0.1.0","deps":[],"cksum":"319d0a81c3e0efb5fd66bdde35bef1db2d41cca3bd1a835a647d7b667ddb405b","features":{},"yanked":false}
+{"name":"testbench","vers":"0.1.1","deps":[],"cksum":"697d2444fb5af3206a97023188ea78598b8665ec0996b44b633e215610736c07","features":{},"yanked":false}
+{"name":"testbench","vers":"0.2.0","deps":[],"cksum":"26f8b86b4673061df1f5cc7d29d96dece5e522e289f4a13a1956755198b55c81","features":{},"yanked":false}
+{"name":"testbench","vers":"0.3.0","deps":[],"cksum":"da1a16f8ff1979e91088ef7561a1989b4b9959d5a166b0d4217fe577fa342331","features":{},"yanked":false}
+{"name":"testbench","vers":"0.3.1","deps":[],"cksum":"216e7dcbaed141d0c54be9e10f855cc583d3fca762206805aa5af0b6563bb365","features":{},"yanked":false}
+{"name":"testbench","vers":"0.4.0","deps":[],"cksum":"dfbcf4501eb6fd6210253cd23b754cd7d9c75b1fc9a9b2856c9b3c09c4ec711c","features":{},"yanked":false}
+{"name":"testbench","vers":"0.4.1","deps":[],"cksum":"bdf24d13ab770d310f59ca9e8052347e84958e78cd3629650274fa62f95a8506","features":{},"yanked":false}
+{"name":"testbench","vers":"0.5.0","deps":[],"cksum":"52ec8b3a8ad913156b344266c19fa30caa6a98d07e77b7dfc92b391a625c66a5","features":{},"yanked":false}
+{"name":"testbench","vers":"0.6.0","deps":[],"cksum":"ee7650fcc99002908c76ed6844972cf2d6ed34049a4e0cddde788addbe03ddde","features":{},"yanked":false}
+{"name":"testbench","vers":"0.7.0","deps":[],"cksum":"2baece56440dc56ad7eed5e97dbe3f8bf79d1fae0090004ed5262e39fd82dfff","features":{},"yanked":false}
+{"name":"testbench","vers":"0.7.1","deps":[],"cksum":"34a1bdc7b095d4216e7ae47aedf75ddeb31e29da0272f02d1acd63b43c94105c","features":{},"yanked":false}
+{"name":"testbench","vers":"0.7.2","deps":[],"cksum":"1a8c65a85d7d9702630123191a79e532329dd90d62ef861bc03268f60085fdd2","features":{},"yanked":false}
+{"name":"testbench","vers":"0.7.3","deps":[],"cksum":"de30ffef0c70036d4663a5a5ff03f979b5b7dc37cb4eeb988031a9c023bf9a47","features":{},"yanked":false}
+{"name":"testbench","vers":"0.8.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"964aebc2c49dbffbd82108590167559922eee68db8ec1114789eb3ea7a7ad788","features":{},"yanked":false}
+{"name":"testbench","vers":"0.8.1","deps":[{"name":"crossbeam-utils","req":"<0.8.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c54406b8e94a2ae2d2d46370ac74eeb98a58b232d97df18529c3863d590e86c1","features":{},"yanked":false,"rust_version":"1.36.0"}
+{"name":"testbench","vers":"0.9.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afc5c5d972bbb571a0e13cceb8f68957d5a8d77ff61085f0e2fcabbc378fa2c6","features":{},"yanked":false,"rust_version":"1.38.0"}
+{"name":"testbench","vers":"1.0.0","deps":[],"cksum":"6f42aea0e7814e8c520bb46ccc27df2b52af257cad23b9af9218410feac294e3","features":{},"yanked":false,"rust_version":"1.63.0"}

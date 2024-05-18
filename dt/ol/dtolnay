@@ -1,0 +1,11 @@
+{"name":"dtolnay","vers":"0.0.1","deps":[],"cksum":"8d7def96bf4a862528a54ddbcb586c2d30e14fae2a1dbeedf9ee2a48b53a0350","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.2","deps":[],"cksum":"88dbc03cb15b4972945847eb7303be0ca1bfc96dce79b6a4a96214d6ef3445d5","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.3","deps":[],"cksum":"ab044cc466f8f39ecc3ef3690a7b033b58665e41cc99f22b6c4b0e53f10aa208","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.4","deps":[],"cksum":"40d7834a200ce70190ff8729c991d5c919b62de126de22c95424e8dded0bbb72","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.5","deps":[],"cksum":"f036aa2cdeca5c64b04971306dfe9fb6d59a5bc3f0401b934e179e56132588d9","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.6","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"71dacf8bb0542233aca205cf198285ae357064fa62f79b770ff5b983e4d8bf64","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.7","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c1dccb9984b7e5850d26a015392ed2c04830c1dded7faec9efe13e1dd871d726","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.8","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d86ccd92fe494d21828cf57e3db7d253080540954b16c509aabef22cc661921b","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.9","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4529721b5de7f37aef490c9767e0f0a8c05a00f184ff68b0e2d3e4c6b0363e9d","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.10","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c63cfaa4ff46dcea1c011a1788ce87ed024843895f7f0bf5d7b8169f26d51877","features":{},"yanked":false}
+{"name":"dtolnay","vers":"0.0.11","deps":[{"name":"futures01","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"futures"}],"cksum":"9cdfba6a806e61fe41d2addd9d9796a5858db97f7f3d774512361b5c4420f8c9","features":{},"yanked":false}

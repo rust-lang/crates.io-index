@@ -1,0 +1,2 @@
+{"name":"error-test-sinks","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81162efee13769bbc87e2b2045de8c708b92dc59c71b54a35c1dbbe81d80659f","features":{},"yanked":false}
+{"name":"error-test-sinks","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"811092d96d6de1e20795a21886406d30bd34f6869bf52e43c643635b85aa9650","features":{},"yanked":false}

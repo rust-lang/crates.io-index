@@ -1,0 +1,2 @@
+{"name":"consistent-rs","vers":"0.1.0","deps":[{"name":"crc","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec08fa23a2e32936668823cfe0afae983a1ebfcafe34716b81f99646dc60ee81","features":{},"yanked":false}
+{"name":"consistent-rs","vers":"0.1.1","deps":[{"name":"crc","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8306e553629a1da947fc251bb050c55de0313da4d31ebf876eaf445702c4941c","features":{},"yanked":false}

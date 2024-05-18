@@ -1,0 +1,1 @@
+{"name":"toml-fmt","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5.1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"445a534a35ef9c5bcfb2a8e293381cd77c8a6f7533218bdccaea5dc70637077d","features":{},"yanked":false}

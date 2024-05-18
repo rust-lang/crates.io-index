@@ -1,0 +1,2 @@
+{"name":"libdds","vers":"1.0.0","deps":[],"cksum":"c6ddba486c5f5772fa24c72b42f9f7abc53f21c8b819227f86b1a3fc7420b393","features":{},"yanked":true}
+{"name":"libdds","vers":"1.1.0","deps":[{"name":"bitflags","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da7b58847eb09052890c23c8e32c325e0853c15dae03587071777884c9a09111","features":{},"yanked":false}

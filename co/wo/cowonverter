@@ -1,0 +1,7 @@
+{"name":"cowonverter","vers":"1.0.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6261f2ca5106a50a17503c889de8ff0ca02cf9b6e8944295dbda611dfd2b34","features":{},"yanked":true}
+{"name":"cowonverter","vers":"2.0.0","deps":[],"cksum":"c90316504cba390b5da22324284b4dbbd0eb36c97e9d412064506d6018dec5f3","features":{},"yanked":false}
+{"name":"cowonverter","vers":"2.1.0","deps":[],"cksum":"0b1e5fd0672cff1d2396a29920459fa73392ebc3a8d91b10af592f00864786cd","features":{},"yanked":false}
+{"name":"cowonverter","vers":"2.2.0","deps":[],"cksum":"1fa110ffc0742246c775655a2d11e2fa5900d95847cad874c65fa014372d8100","features":{},"yanked":false}
+{"name":"cowonverter","vers":"2.3.0","deps":[],"cksum":"a9d8a25c00b406c406dda8b386cd67d7da88ddc81541f0cf768633fbca2549b1","features":{},"yanked":false}
+{"name":"cowonverter","vers":"2.4.0","deps":[],"cksum":"6986e872c27a208008e0056a738d1782347d8814a7844a5435963d42f94d89be","features":{},"yanked":false}
+{"name":"cowonverter","vers":"2.5.0","deps":[],"cksum":"5173b02991a0ca957333d5ce78d97784e35d4fe86fe5737895d07e7c531ebeec","features":{},"yanked":false}

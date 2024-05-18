@@ -1,0 +1,1 @@
+{"name":"rustdoc-json-types-fork","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d608fa96be91dcc530ef8ff111beb0909936293597b22baf75174fc19974cd8d","features":{},"yanked":false,"rust_version":"1.57.0"}

@@ -1,0 +1,4 @@
+{"name":"faker","vers":"0.0.1","deps":[],"cksum":"b9f1ed1755b6cdf53e9434b913df61740e42fd7acc453b1e7d9a8a7e79e75656","features":{},"yanked":false}
+{"name":"faker","vers":"0.0.2","deps":[],"cksum":"aba224b15a74a82449a6fe4394e1d310c308111d3f7c9e529ecd9c249b974f80","features":{},"yanked":true}
+{"name":"faker","vers":"0.0.3","deps":[],"cksum":"16c45d7c1e973c3b2fae8e9b81ef292b44c047e23a5504d41bdff9aed9b37648","features":{},"yanked":false}
+{"name":"faker","vers":"0.0.4","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"92436ff60795ada9ee11185938c5a0efc38bfff6ba607f75adda177f883cc149","features":{},"yanked":false}

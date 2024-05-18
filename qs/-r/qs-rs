@@ -1,0 +1,5 @@
+{"name":"qs-rs","vers":"0.1.0","deps":[],"cksum":"80eb95ce4baf711a35cce06f54c120ffbf10979d17bee8b29d7320a8099d30d5","features":{},"yanked":false}
+{"name":"qs-rs","vers":"0.1.1","deps":[],"cksum":"c6a33833ebea3129519370b7d39fe7523fa2d3fa93814012149a1f6b88edbe4c","features":{},"yanked":false}
+{"name":"qs-rs","vers":"0.1.2","deps":[{"name":"urlencoding","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70aaed8c6924f9139b9f4afb2b6c6df5a674ff1b74326163ae6aba6f9864a31c","features":{},"yanked":false}
+{"name":"qs-rs","vers":"0.1.3","deps":[{"name":"urlencoding","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbfacd1044be7935880d7a6968f0347a570a8ff8b492a99b020dbe1a497cd4f5","features":{},"yanked":true}
+{"name":"qs-rs","vers":"0.1.4","deps":[{"name":"urlencoding","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0430fcf2ee87e2c9b35e0191e6c6964cf3ce584612161f25f3fae2b96086e10e","features":{},"yanked":false}

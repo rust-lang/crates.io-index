@@ -1,0 +1,1 @@
+{"name":"oodle-safe","vers":"0.1.0","deps":[{"name":"oodle-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dccbc93c025bd77d57cfbd547ee6dd5cd6c184044bc6cea606d9713ae61015f","features":{"bindgen":["oodle-sys/bindgen"]},"yanked":false}

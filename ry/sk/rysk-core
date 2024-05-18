@@ -1,0 +1,3 @@
+{"name":"rysk-core","vers":"0.0.1","deps":[],"cksum":"d7275d222d5bd2a9e043194b14ce2f167c5a396407661d6db78285f54b7a75c0","features":{"default":[],"ext-a":[],"ext-c":[],"ext-d":[],"ext-f":[],"ext-m":[],"ext-q":[],"rv32e":[]},"yanked":false}
+{"name":"rysk-core","vers":"0.0.2","deps":[],"cksum":"e92bf922f6af9de34df1598bc74327b0d57995750a16106fdd5de0c6b5a57661","features":{"default":["ext-csr"],"ext-csr":[],"ext-m":[],"rv32e":[]},"yanked":false}
+{"name":"rysk-core","vers":"0.0.3","deps":[],"cksum":"a749f39f65590e6d4da63f05e3db3913e94a4f10fd9a6850803b90844e3590a8","features":{"default":["ext-csr","ext-m"],"ext-csr":[],"ext-m":[]},"yanked":false}

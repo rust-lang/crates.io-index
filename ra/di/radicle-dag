@@ -1,0 +1,2 @@
+{"name":"radicle-dag","vers":"0.2.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf2f9da8f20e47901022d5a58c0ed1953d0b1dcdfbbb1ac8eee28b93d888a258","features":{},"yanked":false}
+{"name":"radicle-dag","vers":"0.9.0","deps":[{"name":"fastrand","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2a678c3049a88ae6a34dd9f52ea9a5f9f066a0af63466b75cf8c48840303067","features":{},"yanked":false}

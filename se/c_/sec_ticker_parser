@@ -1,0 +1,1 @@
+{"name":"sec_ticker_parser","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.10.8","features":["json","blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"270411d92dc55f22fd778d154095980a88ecef98104a54b568e6f284d9fd17aa","features":{},"yanked":false}

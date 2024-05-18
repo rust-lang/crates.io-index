@@ -1,0 +1,7 @@
+{"name":"numeral","vers":"0.1.0","deps":[],"cksum":"528cb7a5f139c52eeea7c70be694b3dbe7647bcf9aa0045dd95f399f094070ab","features":{},"yanked":true}
+{"name":"numeral","vers":"0.1.1","deps":[],"cksum":"e6543933592507a939d4f7fe5496efe9eee40eb8c2d614553c7bf8b26652988f","features":{},"yanked":false}
+{"name":"numeral","vers":"0.1.2","deps":[],"cksum":"4b431e6d574a3998de4f2787610ae04c56f541986e9837e71dc6dc7354ce601c","features":{},"yanked":false}
+{"name":"numeral","vers":"0.2.0","deps":[],"cksum":"25a9d7f24e6990d5a1668b44363d5aed0be3f62f6a1bee586eafa7ce594b9fab","features":{},"yanked":false}
+{"name":"numeral","vers":"0.3.0","deps":[],"cksum":"cedda0431c2de9bfd51395fde19757d125e7f593ac63a3d640bf69e417566d7c","features":{},"yanked":false}
+{"name":"numeral","vers":"0.3.1","deps":[],"cksum":"f7f9e1a6bfccf9954cef9de533f9a70e9671738e7cd61d867872b5fea208a0a8","features":{},"yanked":false}
+{"name":"numeral","vers":"1.0.0","deps":[{"name":"bencher","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"049950a25a8f69e9673ed52fc58749548cee71194f6c3a8a04b80863637ce722","features":{},"yanked":false}

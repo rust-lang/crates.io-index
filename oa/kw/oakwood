@@ -1,0 +1,5 @@
+{"name":"oakwood","vers":"0.1.0","deps":[],"cksum":"4eeff54103e24d8b387d2dcc28dd3c8ddab41867cce4cf3ce0fc2713414a9395","features":{},"yanked":false}
+{"name":"oakwood","vers":"0.1.1","deps":[],"cksum":"5cac59f61331903e52df1320bdd04b07c3165bbd14e9156ccfb94c276bd5b074","features":{},"yanked":false}
+{"name":"oakwood","vers":"0.1.2","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a5e250fd0b5313c0c2b7166642e348830a93b11ba16deefdac686d179b48230","features":{},"yanked":false}
+{"name":"oakwood","vers":"0.1.3","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91a3e7ca09d4f2f97d6e7225ee77af2eaf899643751dd43b7006768531124462","features":{},"yanked":false}
+{"name":"oakwood","vers":"0.1.4","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e96ee973068614779a2f4b470d0f94e0b460052a6900766dc54cee61b9db5fd","features":{},"yanked":false}

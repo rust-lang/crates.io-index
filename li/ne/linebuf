@@ -1,0 +1,2 @@
+{"name":"linebuf","vers":"0.0.1","deps":[{"name":"memchr","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12f069f8c78e8adfa79a13729747aa0ea98957ce8f76160b9ee032ff6553fb84","features":{},"yanked":false}
+{"name":"linebuf","vers":"0.0.2","deps":[{"name":"memchr","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6045418c3c4535eaf1bcec8d41b90fec3f1d90f7f3c831e117f2a7d7f98a4ae7","features":{},"yanked":false}

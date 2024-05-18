@@ -1,0 +1,4 @@
+{"name":"test8981","vers":"0.1.0","deps":[{"name":"rand_core","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f44ebd67d4bf726b0696653dbfc9f524930a2a19f3cea817daa8970613e91efc","features":{},"yanked":false}
+{"name":"test8981","vers":"0.1.1","deps":[{"name":"getrandom","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df13ee56fc7a22e4cb927b98d647b55aa9f9470cd36cea4afe05f18c12e2314","features":{},"yanked":false}
+{"name":"test8981","vers":"0.1.2","deps":[],"cksum":"65739338e5ba342aa808b5e57d9b26bba1f8374787cb252e65ef622829705382","features":{},"yanked":false}
+{"name":"test8981","vers":"0.2.0","deps":[],"cksum":"681e32cbb0cc9383db42c19c1e475ff8ff4b188063882abaaae859173418ff17","features":{},"yanked":false,"rust_version":"1.65"}

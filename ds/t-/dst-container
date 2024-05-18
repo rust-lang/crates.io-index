@@ -1,0 +1,2 @@
+{"name":"dst-container","vers":"0.1.0","deps":[{"name":"dst-container-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52b778414a16a8acd736e87ca34e50c9ddde52793838d3d8ee6a6a25ad7f9f7f","features":{},"yanked":false}
+{"name":"dst-container","vers":"0.1.1","deps":[{"name":"dst-container-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2336609e391a3004f005d3a97fbab97635ad30fc007b3b0dc3fdff4699ea2e03","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"shift-register-driver","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea73f61a8def5cc79dd0c6d1c25c29f724f284488e7d49c0d003065d3846ffa8","features":{},"yanked":false}
+{"name":"shift-register-driver","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6371aef410d1251486a2aa38b3860292c60ac9f87f3bbc5d50a68f81906928a5","features":{},"yanked":false}

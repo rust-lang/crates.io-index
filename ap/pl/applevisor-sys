@@ -1,0 +1,2 @@
+{"name":"applevisor-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ffd3faee5fc09ad225914a376af6aea268cafb37ef0eae70294270ff0b7a79f","features":{},"yanked":false}
+{"name":"applevisor-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db21d9ff0176d37010c1751beb11df3a03d7ed3e9cfd0505133c3917a5693388","features":{},"yanked":false}

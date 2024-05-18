@@ -1,0 +1,1 @@
+{"name":"ovo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0e4d86ffbffc8aace7f70294fe81eb8a6401005ab378100c1dbfc9a1c29871a","features":{},"yanked":false}

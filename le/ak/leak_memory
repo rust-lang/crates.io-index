@@ -1,0 +1,1 @@
+{"name":"leak_memory","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.146","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fe6c60bda1de03f138536b656d13bcb23950f064638593d06f13434c182022e","features":{},"yanked":false,"rust_version":"1.69"}

@@ -1,0 +1,4 @@
+{"name":"meltdown","vers":"0.0.0","deps":[],"cksum":"f8d7b9f96d470f2c3e669197c3fcc3425a26fae569287234ad94ef8b23fb1653","features":{},"yanked":false}
+{"name":"meltdown","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd7219e3e1829581ded9517696d1740b6b33be61c0a91caa28e3aca328d11095","features":{},"yanked":false}
+{"name":"meltdown","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bd38404603f628de98c2d212a660f9e23531dd55c610eab5f059c668b0ff5dc","features":{},"yanked":false}
+{"name":"meltdown","vers":"0.2.0","deps":[{"name":"futures","req":"^0.3.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07ee3f149f2ec1ad2b3256e9956229146a49dfaf3600f6e8c511c2d02e69fb7c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mhz19","vers":"0.1.0","deps":[{"name":"err-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serial","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ae7a5aa73bd173eacd83017ad1d64b1008bf36765d153d1695b866ef507c032","features":{},"yanked":false}

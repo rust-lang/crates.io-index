@@ -1,0 +1,5 @@
+{"name":"eurorack-oxide-utils","vers":"0.1.0","deps":[],"cksum":"857ca2428927392d768d6174a8572d1d58669370bb84edf8bce895f7786fcc9b","features":{},"yanked":false}
+{"name":"eurorack-oxide-utils","vers":"0.1.1","deps":[],"cksum":"51fd4e00fdbdea73154edf45daaaba07a41aa6754c720ebb7d0ba6564cc372c2","features":{},"yanked":false}
+{"name":"eurorack-oxide-utils","vers":"0.1.2","deps":[{"name":"micromath","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a0de2662427fece0e7e7624a8130aeb8bb5731fed0aa99e1a938b8de51ae43c","features":{},"yanked":false}
+{"name":"eurorack-oxide-utils","vers":"0.1.3","deps":[{"name":"micromath","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b04b780a8c370f92f025ec836e0bc0cae957469e8275eae7daae11c7284afc9","features":{},"yanked":false}
+{"name":"eurorack-oxide-utils","vers":"0.1.4","deps":[{"name":"micromath","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61e6e1e9b095019c06218ccad80cf7ec6f8b8c25c4840bcff418d323ffa2a452","features":{},"yanked":false}

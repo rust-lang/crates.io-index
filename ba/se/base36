@@ -1,0 +1,1 @@
+{"name":"base36","vers":"0.0.1","deps":[{"name":"base-x","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"failure","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9c26bddc1271f7112e5ec797e8eeba6de2de211c1488e506b9500196dbf77c5","features":{},"yanked":false}

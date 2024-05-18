@@ -1,0 +1,4 @@
+{"name":"hkt","vers":"0.0.0","deps":[],"cksum":"5950739d1ebdff9b0114b695c2f4f251bf47460209b106f4ed2887cf0fb26d39","features":{},"yanked":false}
+{"name":"hkt","vers":"0.0.1","deps":[],"cksum":"1496ab6c90eee2acf7624acf3fda85e0a18b62232528d2b9c844e530397ce9be","features":{},"yanked":false}
+{"name":"hkt","vers":"0.0.2","deps":[{"name":"shoggoth","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9c14696d4215c97ef3e0dc238a0d6678c63257686bc8896ce871377c2598a6d","features":{},"yanked":false}
+{"name":"hkt","vers":"0.0.3","deps":[{"name":"shoggoth","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1ab40f3285d76d90c5e4cde04e884435b476f036fb7ac1baa8580e682829684","features":{},"yanked":false}

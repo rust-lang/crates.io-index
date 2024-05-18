@@ -1,0 +1,1 @@
+{"name":"file_tools","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8592b5b86a2fc791eec2978028233679f7f176d5b1292439e19f5e2c8a4854b8","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":[]},"yanked":false}

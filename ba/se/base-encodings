@@ -1,0 +1,2 @@
+{"name":"base-encodings","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37ce11c5ab12763431bceff2367ed5e0f794cff3dcb8a7762df67b6595e666df","features":{},"yanked":false}
+{"name":"base-encodings","vers":"0.2.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8810a6dff88ec6955c966e8c91bc230983760d1ccbb66055b851a0600d2f97b0","features":{},"yanked":false}

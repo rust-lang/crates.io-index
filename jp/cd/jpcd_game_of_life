@@ -1,0 +1,2 @@
+{"name":"jpcd_game_of_life","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a271abe4ba5d8306a5327956b2de03973d13859ba38d140195c1d97e8fd39420","features":{},"yanked":false}
+{"name":"jpcd_game_of_life","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42cee3031797a48a3bc749dac9f2723c053d5bcb840d2007bcad057467df6e33","features":{},"yanked":false}

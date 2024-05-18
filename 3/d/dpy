@@ -1,0 +1,3 @@
+{"name":"dpy","vers":"0.0.1","deps":[],"cksum":"3154ea08de4110792698b7e4dfcf32ad754b093d85e8a26611cf45c52711f7c3","features":{},"yanked":false}
+{"name":"dpy","vers":"0.1.0","deps":[],"cksum":"ebda9fab60e1bcdb3dc5e1b89a655c18f6d08aca26311e604f61d26a6de0a660","features":{},"yanked":false}
+{"name":"dpy","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0.91","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"which","req":"^4.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d0589aff4daa3549a9128cefa66b5ff7b62a6eefb7fb7be6eaf79240d2518f7","features":{},"yanked":false}

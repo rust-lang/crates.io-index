@@ -1,0 +1,3 @@
+{"name":"unthbuf","vers":"0.1.0","deps":[],"cksum":"f2138cc84269bb90bbdbe936d9d346c38071c6d3281238a9171249a163a065e0","features":{},"yanked":false}
+{"name":"unthbuf","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e53ec70508a7fefa9b673c4777f8195872ad80fd94a9d4b20a6f48813c6f7612","features":{},"yanked":false}
+{"name":"unthbuf","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"82e2f5382b81f80e7c876465cd1e7f9aef10a9fccb9bfc37d93cbeb3c3707513","features":{},"yanked":false}

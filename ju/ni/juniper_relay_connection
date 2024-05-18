@@ -1,0 +1,2 @@
+{"name":"juniper_relay_connection","vers":"0.1.0","deps":[{"name":"juniper","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a8572e556442188d6a26a247dd92f9b24d3b59d2e0a78020ca10ef9f4abd6e9","features":{},"yanked":false}
+{"name":"juniper_relay_connection","vers":"0.1.1","deps":[{"name":"juniper","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e39e3bab58ad4a65274507985543abaa442478b2781ec8e20474519c980e8e0b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cosine-lsh","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3dd830cf0d581d5ee690ceab2b2487fdfe64a9b5fc17b4388debac59f1413dd","features":{},"yanked":false}
+{"name":"cosine-lsh","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b51564ad10f2328af2f0b302b0a881242c34c2142b8420c4bd0e5b4684b3c8f","features":{},"yanked":false}

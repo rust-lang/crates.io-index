@@ -1,0 +1,2 @@
+{"name":"gap_solver","vers":"0.1.0","deps":[],"cksum":"a1fbc65b58ad16c2563f57577f2c8d2e700d01db0cec9d36d750c49de3fc1d3c","features":{},"yanked":false}
+{"name":"gap_solver","vers":"0.2.0","deps":[{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e25e70451328780501a0dc0e75c03e9d5e19078e2a82b551262bf3732d7964dd","features":{},"yanked":false}

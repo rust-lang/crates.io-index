@@ -1,0 +1,1 @@
+{"name":"roblang","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d25f419802fe8e72bcf3a878b0c2c27a8e109d86a5603f7304e61f8d1c71466d","features":{},"yanked":false}

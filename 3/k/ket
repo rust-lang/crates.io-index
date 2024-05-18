@@ -1,0 +1,2 @@
+{"name":"ket","vers":"0.0.1","deps":[],"cksum":"edd54156946f236b37e69b4b482ca300be6926ce38ba8899a9b819144653e89b","features":{},"yanked":false}
+{"name":"ket","vers":"0.0.2","deps":[{"name":"wasm-bindgen","req":"^0.2.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yew","req":"^0.17.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f9424d9ce314a945b75672af96e45644ef27997ce82cfb40e30d790dddb6afc","features":{},"yanked":false}

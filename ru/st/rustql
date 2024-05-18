@@ -1,0 +1,1 @@
+{"name":"rustql","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b816cebbc6a08f9ff946d5a107af01f6b40bd0dd683f51b2dc4674db8f7c3761","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}

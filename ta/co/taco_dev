@@ -1,0 +1,1 @@
+{"name":"taco_dev","vers":"0.1.0","deps":[{"name":"clap","req":"^2.29.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glob","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"747eaf9a2fd48d5cd100d4d87c4acf63390f26b8931f5cd52fc3a43ab1624385","features":{},"yanked":false}

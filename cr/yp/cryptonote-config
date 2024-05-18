@@ -1,0 +1,2 @@
+{"name":"cryptonote-config","vers":"0.1.0","deps":[{"name":"cryptonote-basic","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a3c752bb11438f8e47c282a16c49de8ff881162e726c935f9d4b9e26677ac1b","features":{},"yanked":false}
+{"name":"cryptonote-config","vers":"0.1.1","deps":[{"name":"cryptonote-basic","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b4c422c45bf0a1dceb1e1a16f4871656546dfcd590cafbc362718913484327a","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cmdargs","vers":"0.1.0","deps":[{"name":"cmdargs-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8c2c4677b97ef9c1948f3419345ba4fca0d0aa394f7313869125f2421f70f01","features":{},"yanked":false}
+{"name":"cmdargs","vers":"0.1.1","deps":[{"name":"cmdargs-macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e920d4afb954c7a6c86430c8059749d4fe334bb0ac50b8bdae064d0514705d82","features":{},"yanked":false}

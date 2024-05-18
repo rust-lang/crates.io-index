@@ -1,0 +1,5 @@
+{"name":"lazer","vers":"0.1.0","deps":[],"cksum":"8640d14574acbeed1d93002b5b2869fcfd6fe75bcfb36ac64988968ddd81b467","features":{},"yanked":false}
+{"name":"lazer","vers":"0.1.1","deps":[],"cksum":"f4ba06631471f2cf48d7e4569ce0a23cd1ce01c91e5e9bfbfbcf3413707583ef","features":{},"yanked":false}
+{"name":"lazer","vers":"0.2.0","deps":[],"cksum":"92d8e2c934b84aed03f03f29f5367c27307b5300fc2a2374cf56e4bd20deb96a","features":{},"yanked":false}
+{"name":"lazer","vers":"0.3.0","deps":[],"cksum":"b199b0052eaef391da8aea1e0f258a45df7b39c73e80a7f5326dc62dc02a6479","features":{},"yanked":false}
+{"name":"lazer","vers":"0.3.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3383f4c9bd586ccf2e2b12ed242952d818af999ad0168402f718a4cc8ae2df9f","features":{},"yanked":false}

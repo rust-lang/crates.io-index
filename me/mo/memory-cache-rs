@@ -1,0 +1,4 @@
+{"name":"memory-cache-rs","vers":"0.1.0","deps":[],"cksum":"48fc542f0ebccef0a325bb6afe01825a73082f35201777d7dcd7054724f7b779","features":{},"yanked":false}
+{"name":"memory-cache-rs","vers":"0.1.1","deps":[],"cksum":"b1c8c2bbefba1d683a82c65d16cff60e99eed2c4a715bbaf5d71f66da65101fc","features":{},"yanked":false}
+{"name":"memory-cache-rs","vers":"0.1.2","deps":[],"cksum":"2702e320d7fcc5e42597a838fcc062af8f86aa111394f9c02a6d266008062dcf","features":{},"yanked":false}
+{"name":"memory-cache-rs","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a4098b4f50a8fe57ad06b9a125812c9b1e04b3f226f29642b7219e75ba33b1d","features":{},"yanked":false}

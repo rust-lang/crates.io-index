@@ -1,0 +1,10 @@
+{"name":"elo-multiplayer","vers":"0.1.1","deps":[],"cksum":"013b5689db280f8f0d1b22f3fd029213cb67fec0ad8d80b96a137ce8ddc89395","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.1.3","deps":[],"cksum":"d6bfc08c2ce39941ea380d0e4c8561df14dbbaa415815f3b611b446b1ac3aacd","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.1.4","deps":[],"cksum":"5d017d69b75f41b82fb03ac3432668502ddac7636fbab9ec2e2d4beed98ea086","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.1.5","deps":[],"cksum":"0b9704691fcaf345144fca1eb15dd52960ad10cb0785f7aacde129d9d22f7c88","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.1.6","deps":[],"cksum":"3ef039bd259f8b6ad9d9e63837fdae2c93ccae912a214eea5cf95e7c4386c0fc","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.2.0","deps":[],"cksum":"57b577afc99a3c9925f1f07b318bf8c3b25dda83a0297b31ec668e92e46cd500","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.2.1","deps":[],"cksum":"a08f55d7586f3499b3b40f1e25eee671a7200db39f9e39a381c2b8c206df7706","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.2.2","deps":[],"cksum":"03768c4587c99b09921db8c192e52f44c6aa6d3ad36d45e45c630fe3e0478a56","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.2.3","deps":[],"cksum":"3c50f86b7bfbaf0eccaf166168ebf4099a10f073010db92067e5df3d6174d53d","features":{},"yanked":false}
+{"name":"elo-multiplayer","vers":"0.2.4","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f1691eb6460a6c4863f458e49c7642981b4857bbe4cc021bafa2dce88f06456","features":{},"yanked":false}

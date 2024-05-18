@@ -1,0 +1,3 @@
+{"name":"nfd","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec9828d5d8470ef51dffe080593906c87597cfce793457fba9e44426ac48f161","features":{},"yanked":false}
+{"name":"nfd","vers":"0.0.3","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"69363d40280d1fc00f032220faf51cb773b5381eb373edca8f662e34955b2c2a","features":{},"yanked":false}
+{"name":"nfd","vers":"0.0.4","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8e752e3c216bc8a491c5b59fa46da10f1379ae450b19ac688e07f4bb55042e98","features":{},"yanked":false}

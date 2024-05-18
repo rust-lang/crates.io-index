@@ -1,0 +1,2 @@
+{"name":"disjoint-borrow","vers":"0.1.0","deps":[{"name":"compiletest_rs","req":"^0.3.22","features":["stable"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d7d7185b174366cfb415192dc76a46157016ba06d95387b6f6168926128d852","features":{},"yanked":false}
+{"name":"disjoint-borrow","vers":"0.1.1","deps":[{"name":"trybuild","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"89e0375731fe75075f3c3e4afe3d84b6b1c1862277ae0bd1da5fa18d188d0d47","features":{},"yanked":false}

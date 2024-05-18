@@ -1,0 +1,2 @@
+{"name":"imxrt1062-iomuxc","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b11c36bf66713410624d027298de5fb0575d6fc7e1049e3990bdc22815b8c7","features":{},"yanked":false}
+{"name":"imxrt1062-iomuxc","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51ec831fd29129ab878d04d463fc891f9aab697f244e847bb71cf9cfa4c37def","features":{},"yanked":false}

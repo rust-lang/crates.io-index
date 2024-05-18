@@ -1,0 +1,2 @@
+{"name":"basic_scheduler","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8fadc2be9bb3dda892e0b8167a805df30e3795ad91c5aa684b9463ac0d98fe","features":{},"yanked":false}
+{"name":"basic_scheduler","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00a2fb2f332e5c1a30153f4c44f2882af09c13573f4b421b16e6e99eefd79aac","features":{},"yanked":false}

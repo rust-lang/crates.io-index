@@ -1,0 +1,4 @@
+{"name":"bevy_interleave_interface","vers":"0.1.0","deps":[],"cksum":"e4743bbc26d312b15c709cff923fde0721c58f57581b80911849b4f96c272b18","features":{},"yanked":false}
+{"name":"bevy_interleave_interface","vers":"0.1.1","deps":[],"cksum":"8b71cdcd5b3dd9d985b3afaed1c570319240226429132e69a0bc7e0ae57a36fc","features":{},"yanked":false}
+{"name":"bevy_interleave_interface","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.13","features":["bevy_asset","bevy_render"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"30ec6c8f8701f4ee7a77cb64b6fb379fb55f65322f79e8a8a300e70efab3e57e","features":{},"yanked":false}
+{"name":"bevy_interleave_interface","vers":"0.2.1","deps":[{"name":"bevy","req":"^0.13","features":["bevy_asset","bevy_render"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3335baa213d97e31ba863ec89aae40f7f91dede3b1095dd7a833b18ec52f26ac","features":{},"yanked":false}

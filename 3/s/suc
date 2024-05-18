@@ -1,0 +1,1 @@
+{"name":"suc","vers":"0.1.0","deps":[{"name":"argon2","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54a00b7b04c2d0eaa8c85355f002e8a014628ce6afc1758af239d10e2ff8c85f","features":{},"yanked":false}

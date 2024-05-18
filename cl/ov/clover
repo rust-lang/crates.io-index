@@ -1,0 +1,6 @@
+{"name":"clover","vers":"0.0.1","deps":[],"cksum":"38454b53117c8924465a15d2ec6d25972a5c1e7060a045e528f6584781b89aed","features":{},"yanked":false}
+{"name":"clover","vers":"0.0.2","deps":[],"cksum":"be557bb12529c328c98db2fc6609ae03e9de4de850401733675f522273db15bd","features":{},"yanked":false}
+{"name":"clover","vers":"0.1.0","deps":[],"cksum":"dcd35dfb17c124bac74f86e1711413d8c7a7f63a5eedb97146477d42359989e6","features":{},"yanked":false}
+{"name":"clover","vers":"0.1.1","deps":[],"cksum":"1779faf10b90ad2e8cb955fc2ff20e0c0438d707c31f990edc12861cc030d141","features":{},"yanked":false}
+{"name":"clover","vers":"0.1.2","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"130dc84d17ec9b79d134c25e5d3bed604cf7166004892445985965154a0e6e7a","features":{},"yanked":false}
+{"name":"clover","vers":"0.1.3","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"748e1b48f83b7623b48d1182c9e2e7eb50a878a9de3117c009a8a14d79ed6559","features":{},"yanked":false}

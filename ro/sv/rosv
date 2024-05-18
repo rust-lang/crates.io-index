@@ -1,0 +1,4 @@
+{"name":"rosv","vers":"1.0.1","deps":[],"cksum":"69625966feabc8235f4ba5faa2808d3987b67e572b4456e8e907359b6186413d","features":{},"yanked":false}
+{"name":"rosv","vers":"1.0.2","deps":[],"cksum":"67c4f988b0be5352992eda4b3f220c1ddc8be5e26bcbeef97955e17692686b77","features":{},"yanked":false}
+{"name":"rosv","vers":"1.0.3","deps":[],"cksum":"39028d475a052ec34d7f8f790d65472f571ffccc50ac6bddbf58506065a4fc53","features":{},"yanked":false}
+{"name":"rosv","vers":"1.1.0","deps":[{"name":"clap","req":"^4.4.14","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"error-stack","req":"^0.4.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c904f7d97314aeade97382d830f6f0793569ee47bd3bdc52289e77b283d8509","features":{"default":["fs"]},"features2":{"fs":["dep:error-stack"]},"yanked":false,"v":2}

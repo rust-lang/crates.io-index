@@ -1,0 +1,1 @@
+{"name":"detect-wasi","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c828b5cb9f1dda1aa13d62719d0ec16acdb82ad2983ba7138c8e7026ed1f57b1","features":{},"yanked":false,"rust_version":"1.61.0"}

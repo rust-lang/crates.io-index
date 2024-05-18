@@ -1,0 +1,2 @@
+{"name":"cf_rh320u_93_reader","vers":"0.3.0","deps":[{"name":"rusb","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96c5277052be42bf85e6a1fe01fa8ff44c33b03d830d23181a09b2a9b41a74b7","features":{},"yanked":false}
+{"name":"cf_rh320u_93_reader","vers":"0.3.1","deps":[{"name":"rusb","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e04b810fd98226f69f289bc468e84230d2176792aab2a793b363d2df19857fe2","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"spine-sys","vers":"0.1.0","deps":[],"cksum":"3e85f5d32e643d4915b2e6bec77d2bb3e2c3350f91f3d20ef1a2ea557ab0b8f0","features":{},"yanked":false}
+{"name":"spine-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98b3ac96efeefd4b32ca2ff77516879eabfba17b1eb1d46325ae84e84a47fcbe","features":{},"yanked":false}

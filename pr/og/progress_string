@@ -1,0 +1,4 @@
+{"name":"progress_string","vers":"0.1.0","deps":[],"cksum":"cedd10c4657fca2badb53a0ad1218c75f7b8ee90efc6d561a55bfc1fea46fcb6","features":{},"yanked":false}
+{"name":"progress_string","vers":"0.1.1","deps":[],"cksum":"17153a6b52029090248203e0dde9b65e4fdc40b1f9a1fcb4e0326fd1724fc60b","features":{},"yanked":false}
+{"name":"progress_string","vers":"0.2.0","deps":[{"name":"termion","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4c47e8a9fc4c341c225c1f1246a8a51aa9090894149ec49b252507b0ece274df","features":{},"yanked":false}
+{"name":"progress_string","vers":"0.2.1","deps":[{"name":"termion","req":"^1.0","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"dev"}],"cksum":"0db8e3341851a340256919a14205ee9564f4a50ae4bdbeda14b970abc1b49b2f","features":{},"yanked":false}

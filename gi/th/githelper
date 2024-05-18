@@ -1,0 +1,4 @@
+{"name":"githelper","vers":"0.1.0","deps":[{"name":"git2","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d4096a464e5ba7599308e8443455b9f5423edf9113c442024d612e32fa824dc","features":{},"yanked":false}
+{"name":"githelper","vers":"0.1.1","deps":[{"name":"git2","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4492b9592c9a0980fadcdb74afd242f00f11efaf3202ce063c1342851d087228","features":{},"yanked":false}
+{"name":"githelper","vers":"0.2.0","deps":[],"cksum":"acab1ab25b637a2f28c43b6802c8c9b956cafc3622ce05250a1f7a2a16189e53","features":{},"yanked":false}
+{"name":"githelper","vers":"0.3.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11cbc0746d4ce09e8e36e73efa4bc05f3487aace8f53a412f679a68bc0b2dd2a","features":{},"yanked":false}

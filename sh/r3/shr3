@@ -1,0 +1,2 @@
+{"name":"shr3","vers":"0.1.0","deps":[{"name":"autocfg","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9f101fc795ace7b0274876ff780917250b593f26cb5825d12d1ca8172043eaba","features":{},"yanked":false}
+{"name":"shr3","vers":"1.0.0","deps":[{"name":"autocfg","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1afc0c74bad6bdf769dca3c4a666689a336214b8ecd191d0f5e441707cac0890","features":{"__devmode__":[],"default":[]},"yanked":false}

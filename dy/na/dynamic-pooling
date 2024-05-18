@@ -1,0 +1,1 @@
+{"name":"dynamic-pooling","vers":"1.0.0","deps":[{"name":"crossbeam-queue","req":"^0.3.5","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"99c6b957e4290bea7a834c4b174f1fe92a65b5776b7b266af1b6efd566a20987","features":{"default":["std"],"std":["crossbeam-queue/std"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sparklet","vers":"0.1.0","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"333b41fcd6b2e4142ee63381b0719c8772ca0c53dacc9670381cc77d4a6bdf70","features":{},"yanked":false}
+{"name":"sparklet","vers":"0.1.1","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"6d4c0626729372fbd879c29c685156cb77aa9bb6679ef576159102ad33e9808c","features":{},"yanked":false}

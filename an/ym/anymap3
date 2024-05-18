@@ -1,0 +1,1 @@
+{"name":"anymap3","vers":"1.0.0","deps":[{"name":"hashbrown","req":">=0.1.1, <0.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9316150bf847270bd54e404c3fb1c5d3c6af118b3f0c3b42097da5ceafbe7c27","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.36"}

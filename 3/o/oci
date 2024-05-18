@@ -1,0 +1,2 @@
+{"name":"oci","vers":"0.1.0","deps":[],"cksum":"7fa1a244211f75876499eae9359bb815a08f26bd681c37902e6e75c4a1b5fa60","features":{},"yanked":false}
+{"name":"oci","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6992b459088e44f76e0a5785fdc4d04bf7f1dad7dcca5457820c83c4e5dbbda8","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"deobfuscator","vers":"0.1.0","deps":[{"name":"base85","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72a52b5ad2ba1d90f540ea7ac84cc411c7e59ec9fd65319374eb931229c651d4","features":{},"yanked":false}
+{"name":"deobfuscator","vers":"0.1.1","deps":[{"name":"base85","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c33c2c8d9ca435d762b3513921f339ac0554ad595c67073b2d0b0470c59f74a","features":{},"yanked":false}

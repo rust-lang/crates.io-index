@@ -1,0 +1,2 @@
+{"name":"minhook-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8917a94fe8c2348f027fc0aa782deecedee525b10ab95cdb39bbe3ac7758a0b9","features":{},"yanked":false}
+{"name":"minhook-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dd5e3d769f50ac2ec0cbd86ec241d9aa219a080a74c0287ce781f46a8900fa18","features":{},"yanked":false}

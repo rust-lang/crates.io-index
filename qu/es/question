@@ -1,0 +1,4 @@
+{"name":"question","vers":"0.1.0","deps":[],"cksum":"081e0610e7fc3c1bcf0108c3a9972dd06749e4eb67ac053c0a653ac49e6d967c","features":{},"yanked":false}
+{"name":"question","vers":"0.2.0","deps":[],"cksum":"b5658f68cbc8eadfb0cc1ed447d721f9a9da740b611148f513d114997f36afa7","features":{},"yanked":false}
+{"name":"question","vers":"0.2.1","deps":[{"name":"clippy","req":"^0.0.169","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8cd16f7171d3c3d246b994e491d105f0dba9559e9b925c54ad136c49b2f6146","features":{"default":[],"strict":["clippy"]},"yanked":false}
+{"name":"question","vers":"0.2.2","deps":[{"name":"clippy","req":"^0.0.169","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acbb3ede7a8f9a8ab89e714637f2cf40001b58f21340d4242b2f11533e65fa8d","features":{"default":[],"strict":["clippy"]},"yanked":false}

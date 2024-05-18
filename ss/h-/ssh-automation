@@ -1,0 +1,2 @@
+{"name":"ssh-automation","vers":"0.0.0","deps":[],"cksum":"5f8d0d3275bcaab15073834a4d009220c3783d5facb05828175819db7660efbe","features":{},"yanked":true}
+{"name":"ssh-automation","vers":"0.1.0","deps":[{"name":"ssh-key","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0707b6f10387cc480a7071b7c45ede90cff7eeafb0726e05aa2f4bb0f68fd15f","features":{},"yanked":true}

@@ -1,0 +1,16 @@
+{"name":"connection-string","vers":"0.1.0","deps":[],"cksum":"d6b9fd9699bef7e151b9a4b07daf73456e15e71a80f9131a5a672976681275d4","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.1","deps":[],"cksum":"9212eda5aa1ff4d7aa91080645c532054f1a481d36e50f95d12eddca976e277c","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.2","deps":[],"cksum":"4e1b194fa1197e6f8f29e927361b03ec5ce28c11e933c6caa1918a9e838a8601","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.3","deps":[],"cksum":"cab4c2099dcf89b6632f0bdd07b33ce55216c1a6cb8cf701a16df646522b6b36","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.4","deps":[],"cksum":"35cf5f3c0edc50ae9d944eaf45b1926aa7544ff261024ab2d457e28dccfedfa1","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.5","deps":[],"cksum":"a2555ff83b2efc45e68efe0ea293ca20f800d3304d2838de9442671e091d2a92","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.6","deps":[],"cksum":"1d672ca0b0ad00e87bf383a2c68e76dc4408d198473fd221c44605f0e37af118","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.7","deps":[],"cksum":"4792f31bcb812a45b6776af34a2dc1d70d38fb93ab6f74548796afe43988eae9","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.8","deps":[],"cksum":"b1b8b718ba0e093a7b8ff77bd127844b3daf6439a74ab5226cbe24ce030e7fd5","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.9","deps":[],"cksum":"8cf9ff4ef35828f9e55249d69d57c1727c5409f168a4434d7bb6bb2c0e08bacc","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.10","deps":[],"cksum":"479c8a899d8b4fb4abe469c53f53e472131688245b0e3327537f36392b7b84e8","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.11","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"wasm32-unknown-unknown","kind":"normal"}],"cksum":"79aa20475246195fc855e1148804dab44e927bea2d50cf259fee335ad86e87f3","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.12","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"9c1a568f363cf011eacfb755d3d47f99859dfd4fcd6717b6d5739fd7d58388c3","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.13","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"b97faeec45f49581c458f8bf81992c5e3ec17d82cda99f59d3cea14eff62698d","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.1.14","deps":[{"name":"js-sys","req":"^0.3.56","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"},{"name":"wasm-bindgen","req":"=0.2.79","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"8c4ecb0dc8c35d2c626e45ae70bbfcb1050b302f42bcdf025d913cc0c5a0b443","features":{},"yanked":false}
+{"name":"connection-string","vers":"0.2.0","deps":[],"cksum":"510ca239cf13b7f8d16a2b48f263de7b4f8c566f0af58d901031473c76afb1e3","features":{},"yanked":false}

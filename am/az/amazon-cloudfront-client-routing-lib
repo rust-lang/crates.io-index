@@ -1,0 +1,1 @@
+{"name":"amazon-cloudfront-client-routing-lib","vers":"1.0.0","deps":[{"name":"twox-hash","req":"^1.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee02a2138cc8603c7759c647df53fdcc07b7dbf8bca95b219a2951aad7b9cfce","features":{},"yanked":false,"rust_version":"1.63"}

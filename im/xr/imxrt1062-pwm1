@@ -1,0 +1,2 @@
+{"name":"imxrt1062-pwm1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"748efd9f86f4890ebbaf4c78e79b161f3579cac1a716cb77e62642134659fa94","features":{},"yanked":false}
+{"name":"imxrt1062-pwm1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e00841add15b798f9c07f555589d0f4894e485eb0ab65e4f130f823c7a7498f8","features":{},"yanked":false}

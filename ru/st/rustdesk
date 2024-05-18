@@ -1,0 +1,2 @@
+{"name":"rustdesk","vers":"0.1.0","deps":[],"cksum":"1dc0695e2dfb95d2fba380df0851244ff0150d5a0a2fa8e41dd1b58192db6c5a","features":{},"yanked":false}
+{"name":"rustdesk","vers":"0.1.1","deps":[{"name":"penrose","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6702701ee3aa8a96d9b00cc77fdeccd82e72d48dae40a80866adcb89b1b25d4f","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"mil_std_1553b","vers":"0.2.0","deps":[],"cksum":"6de57e21ae2b7fda681321c26cd16fac1e4d579def9948b7d0add5a91b23890b","features":{},"yanked":false}
+{"name":"mil_std_1553b","vers":"0.3.0","deps":[],"cksum":"697d2d253ee075d90f0957196642ec008d48f861a5fdc5c5a546e73daa7332e3","features":{},"yanked":false}
+{"name":"mil_std_1553b","vers":"0.3.1","deps":[],"cksum":"d9cd455f521f1f3f8bd5269d70ad5446bb2e7f317d72fa79e8bc18d9fbc8e51b","features":{},"yanked":false}
+{"name":"mil_std_1553b","vers":"0.4.0","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6acab498423e19ebda41534d4a369cddfbf76c1c38ce243931ecd45feb582d07","features":{},"yanked":false}
+{"name":"mil_std_1553b","vers":"0.5.0","deps":[{"name":"mil_std_1553b_derive","req":"^0.5.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"970e3174638ea3d7e1a6d207a16bb3f95baf24ec7f87754900bb67620e64aa3d","features":{},"features2":{"derive":["dep:mil_std_1553b_derive"]},"yanked":false,"v":2}

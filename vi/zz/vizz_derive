@@ -1,0 +1,1 @@
+{"name":"vizz_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63e41993d3eac8524dbfc09400ce6a24b8b03028a5527ca381588c32abcf10ba","features":{},"yanked":false}

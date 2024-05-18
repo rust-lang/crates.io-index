@@ -1,0 +1,2 @@
+{"name":"ludogame","vers":"0.1.0","deps":[],"cksum":"3219c70e26e25bdc8a8ea4deaf02b3ea99be7a78625b86edd4e4358bef67a9aa","features":{},"yanked":true}
+{"name":"ludogame","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7172e03a712b06c051946f2852b5d5e73ffb25ac8818f7faf6c689912ff04eaf","features":{},"yanked":true}

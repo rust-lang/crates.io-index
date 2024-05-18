@@ -1,0 +1,1 @@
+{"name":"rwfile","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"23b28c625de7d3ef432ab2df37da3ab976c9d4ee3dd58a6fe49460fe6c61300c","features":{},"yanked":false}

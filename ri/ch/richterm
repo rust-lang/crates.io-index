@@ -1,0 +1,5 @@
+{"name":"richterm","vers":"0.1.0","deps":[],"cksum":"57e943129eadde2defa749f9a9bbc93139c0d6380cbc3bd663bab7311a6983f4","features":{},"yanked":false}
+{"name":"richterm","vers":"0.1.1","deps":[],"cksum":"891adedd841db2019c574cf54568e0f41a84d6134e6d36ef8639feac2bc8ddb3","features":{},"yanked":false}
+{"name":"richterm","vers":"0.3.0","deps":[{"name":"regex","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59028b7ca30c87b7bd928e33e548a6ed5c397c78e961af2e563482e6a93537c6","features":{},"yanked":false}
+{"name":"richterm","vers":"0.4.0","deps":[{"name":"regex","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f72a17322bcaa1e365d3da13cf791dc1331e66c49c24553068b28496f0ceecf5","features":{},"yanked":false}
+{"name":"richterm","vers":"0.5.0","deps":[{"name":"regex","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da62193a6c18b66b5d6d0079ef501968dd71e962df8bca059c0b26ad28b32661","features":{},"yanked":false}

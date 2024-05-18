@@ -1,0 +1,2 @@
+{"name":"deldup","vers":"1.0.0","deps":[{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfb6149a3ae027d7499da01bf7241f41aae689d14ec90f23b00ffa811b9181ea","features":{},"yanked":false}
+{"name":"deldup","vers":"1.0.1","deps":[{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d69cf8abff5af187e9d76b86903557b4ff37f325f12012ea19af5feeb40c4ed","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"emoji-printer","vers":"0.1.0","deps":[],"cksum":"43240b486121f04fa5a7af488e03e414afbbb3740711ccd104c6073a09eccd91","features":{},"yanked":true}
+{"name":"emoji-printer","vers":"0.2.0","deps":[],"cksum":"d459dc10a1a1c4a3e5e88ddc1f2fe649b78b44a5866ec2df129d91f9426ecf0c","features":{},"yanked":false}
+{"name":"emoji-printer","vers":"0.2.1","deps":[],"cksum":"07fbb58c2db7e42a532f63596cb3bdda2bd56e9803a68227a92c76dd6becf559","features":{},"yanked":false}
+{"name":"emoji-printer","vers":"0.3.1","deps":[],"cksum":"55014742e1ab793323c5f3c238d301be8001dd273ee32fa27f4b6ef8fdbbd54f","features":{},"yanked":false}
+{"name":"emoji-printer","vers":"0.4.1","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57663f328e86a2840175f471d543a6607776506d10d121d38710a11f8837b027","features":{},"yanked":false}
+{"name":"emoji-printer","vers":"0.4.2","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b10626822c8376cf860ba1c1ecd1d6843ca97e1ffd9366b95b8952d9b0b67872","features":{},"yanked":false}
+{"name":"emoji-printer","vers":"0.4.3","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a6505d5c2961f89aa1f95c1691aadd791e7667595a1502a15038c9e8fa3ef8","features":{},"yanked":false}

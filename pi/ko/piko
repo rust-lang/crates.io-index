@@ -1,0 +1,1 @@
+{"name":"piko","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gfx-hal","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dea6275eae856fba0fc496fc538fd7fbc9af3efeb4032bf70ce51788012c828a","features":{},"yanked":false}

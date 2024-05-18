@@ -1,0 +1,2 @@
+{"name":"systemd-jp","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c73a3b6823ccc81c3941a3353baead10b6cf4b9fd863f8ce39fae947ff55706","features":{},"yanked":false}
+{"name":"systemd-jp","vers":"0.1.1","deps":[{"name":"dbus","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecff74cc3414b59a2ce1921d976fc603a7c8d99043a39e909f509710dcb6dac2","features":{},"yanked":false}

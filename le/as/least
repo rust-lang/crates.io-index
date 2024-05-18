@@ -1,0 +1,2 @@
+{"name":"least","vers":"0.1.0","deps":[],"cksum":"63b40da5d2d164524dee0b54aa7d919a6a79d588349888dabf3ea65f7dd181e2","features":{},"yanked":true}
+{"name":"least","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"crossterm","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9edac701cf0d1c1835ea0bae24aa465d7eaa911e7305729a017a44996d82d4c","features":{},"yanked":false}

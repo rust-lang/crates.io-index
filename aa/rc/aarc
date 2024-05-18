@@ -1,0 +1,4 @@
+{"name":"aarc","vers":"0.0.1","deps":[],"cksum":"ea31b49a21c8f37fa333d4d9f24614d6e3f7c1a2bed0751824e6fda271641dc6","features":{},"yanked":true}
+{"name":"aarc","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0cab962a05288cba482154c7660e9b0543b785a451828e81ed774957848ed9c6","features":{},"yanked":false}
+{"name":"aarc","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8d727121305b34ba3e7e8b8a1a79ce95b9f51a2693e7ead747566e2666bfc9fb","features":{},"yanked":false}
+{"name":"aarc","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"afe0fed346d4329c60bb25a742281e3a3af3fc7c41bdd137d059072ec20101db","features":{},"yanked":false}

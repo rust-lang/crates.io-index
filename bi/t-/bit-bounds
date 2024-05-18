@@ -1,0 +1,2 @@
+{"name":"bit-bounds","vers":"0.1.0","deps":[{"name":"const-assert","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca0fdaf86a27ae2a90452e9cfe337acf2edb69bc085bc08e335777c62278dd5e","features":{},"yanked":false}
+{"name":"bit-bounds","vers":"1.0.0","deps":[{"name":"const-assert","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8a51c8db26695f5771a6299b6aa3f6f83a6bdc33ecbd8ea24a290d6d42a3e21","features":{},"yanked":false}

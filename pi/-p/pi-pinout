@@ -1,0 +1,4 @@
+{"name":"pi-pinout","vers":"0.1.0","deps":[],"cksum":"88d9374bc67103e31e6dcd272294dbcbad95aaf257185315741f2a794a7a4947","features":{},"yanked":false}
+{"name":"pi-pinout","vers":"0.1.1","deps":[],"cksum":"453022b2cade8b442cebdfd124d803bd5e0fecb60925ede6bcc9ebb410b5afd5","features":{},"yanked":false}
+{"name":"pi-pinout","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.145","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f04a811befbe145bf094b649589af45c61f72b4451c68deffcecfe2b37cce19","features":{},"yanked":false}
+{"name":"pi-pinout","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0.145","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"336d0dd270c73edec0b60626e0ef89bd781ad516a23a850af7dca8d7c19a7244","features":{},"yanked":false}

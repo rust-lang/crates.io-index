@@ -1,0 +1,2 @@
+{"name":"inline-const","vers":"0.0.1","deps":[],"cksum":"cb854dd562e6d680cbd0e9116809d203cad5173db2da51e9ca3c128dd2c66409","features":{},"yanked":false}
+{"name":"inline-const","vers":"0.1.0","deps":[{"name":"autocfg","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"doc-comment","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a8fd048352f45e1588dfe20c11036f7c98f176d3f7d73834ca95784f9f86ce6","features":{},"yanked":false}

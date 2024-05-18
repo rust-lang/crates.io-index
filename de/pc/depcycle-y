@@ -1,0 +1,1 @@
+{"name":"depcycle-y","vers":"1.0.0","deps":[{"name":"depcycle-x","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8536fabba6e489967b738425607a001d7d5b1e760022075bce3099b64456fe4","features":{"x":["depcycle-x"]},"yanked":false}

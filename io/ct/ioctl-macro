@@ -1,0 +1,2 @@
+{"name":"ioctl-macro","vers":"0.0.1","deps":[{"name":"rustc_version","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a69813de0be04779a757d18246a463092be1f89a623ee81a2cc337e3b0729248","features":{"default":[],"extern_fn":[]},"yanked":false}
+{"name":"ioctl-macro","vers":"0.0.2","deps":[],"cksum":"cdec1ce449a021ee01e0130978324dd6015c3ea63f6e1371883b43fbba527d21","features":{"default":[],"extern_fn":[]},"yanked":false,"rust_version":"1.64.0"}

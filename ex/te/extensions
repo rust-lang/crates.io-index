@@ -1,0 +1,2 @@
+{"name":"extensions","vers":"0.1.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41494fb42be95463d00c6ddcea67a434b3274d8e9cd390ef8fc9de25f01acba8","features":{},"yanked":false}
+{"name":"extensions","vers":"0.2.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"258f70bd2b060d448403a66d420e81dcac3e5247a4928a887404a5e03715e2e0","features":{},"yanked":false}

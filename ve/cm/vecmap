@@ -1,0 +1,1 @@
+{"name":"vecmap","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33e6da144f897f2b9b339022f64ffd5ae17faefee4e8b1a5dd7fe599a4a5424b","features":{},"yanked":false}

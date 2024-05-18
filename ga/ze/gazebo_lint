@@ -1,0 +1,2 @@
+{"name":"gazebo_lint","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcef01b1dd383917338f2a966b2cac10464f279ec368221bc4488256493194ee","features":{},"yanked":false}
+{"name":"gazebo_lint","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488536a9ca76c345d86d5d2168af815259cfb0681ac0c31c4c4cceab3723158d","features":{},"yanked":false}

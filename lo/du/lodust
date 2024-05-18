@@ -1,0 +1,3 @@
+{"name":"lodust","vers":"0.1.0","deps":[],"cksum":"ed3df8fbdbc0d1692ea74e96a30009c65688b2893f6c882bee31bbad85e45bb7","features":{},"yanked":false}
+{"name":"lodust","vers":"0.1.1","deps":[],"cksum":"80076e42c269f592aca812c1aa4f274fb97a5fff39cc088d18806d5ec695b1cc","features":{"default":["string"],"string":[]},"yanked":false}
+{"name":"lodust","vers":"0.1.2","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2852e39b779ece354ccd85ba8edf4a5834b6411bf6f36f7cfeeb89e8e9387f21","features":{"default":["string"],"string":[]},"yanked":false}

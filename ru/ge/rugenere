@@ -1,0 +1,2 @@
+{"name":"rugenere","vers":"0.2.0","deps":[{"name":"clap","req":"~2.33","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2294d0f4a9bf49919fb5fd9c9cbfb965b95edaa1274575603301ac4cf5952e4a","features":{},"yanked":false}
+{"name":"rugenere","vers":"0.2.1","deps":[{"name":"clap","req":"~2.33","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cda75a3b2eb2870152e4169f7cbcbe3c676b2d15f628b8dad8d9d69df6ca269a","features":{},"yanked":false}

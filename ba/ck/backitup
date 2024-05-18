@@ -1,0 +1,2 @@
+{"name":"backitup","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea80d47fecc8f8a34d9f2c36b8bd98bf796c9d2b7004d84eb5dae93f6e2645df","features":{},"yanked":false}
+{"name":"backitup","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a42e434f3c779825f3467207319c808863c7acae2d57d296faf1ebd6b7093d09","features":{},"yanked":false}

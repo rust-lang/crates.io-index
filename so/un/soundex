@@ -1,0 +1,2 @@
+{"name":"soundex","vers":"0.1.0","deps":[],"cksum":"0884092b8fe4c263bcacc5c28df10d624ecdeac8bf525c7b399893f109336364","features":{},"yanked":false}
+{"name":"soundex","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cb2858d06ea70c4c79a4f456c94643fee213a799bbff9fc9293b47550fc238c","features":{},"yanked":false}

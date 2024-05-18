@@ -1,0 +1,1 @@
+{"name":"heatshrink-lib","vers":"0.4.1","deps":[{"name":"hex-literal","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd595a0ca030d4e50596e7bc25d07cd71d3b820ff3d9db34debd3c3573ddf481","features":{"default":["heatshrink-use-index"],"heatshrink-use-index":[]},"yanked":false}

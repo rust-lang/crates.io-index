@@ -1,0 +1,1 @@
+{"name":"ssbc","vers":"0.1.0","deps":[{"name":"derive_more","req":"^0.99.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c34ecbc877d26cccb3e42b0691f21f914c3e06c8aeff4bf8afe66959d3f0a04","features":{"signedmagnitude_sub":[]},"yanked":false}

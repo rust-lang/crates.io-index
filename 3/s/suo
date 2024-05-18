@@ -1,0 +1,1 @@
+{"name":"suo","vers":"0.0.1","deps":[],"cksum":"95d649c79fd71c0233f32ada2c38f71b9caeff2c94d5e4b4082b6e6692f66d77","features":{"catch":[],"default":["osz","standard"],"mania":[],"osb":[],"osk":[],"osr":[],"osu":[],"osz":["osu","osb"],"standard":[],"taiko":[]},"yanked":true}

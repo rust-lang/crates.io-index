@@ -1,0 +1,2 @@
+{"name":"cfg_feature_groups","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0174eae327f5f3aaf3ac058da0f8f46c3f0ade1601f0a29c46e68505d43c3dae","features":{},"yanked":false}
+{"name":"cfg_feature_groups","vers":"0.1.1","deps":[{"name":"toml","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e4a3127b0de8354cead813a820d5cecfc5c969ce2557c6e15c1b9465c9baeb4","features":{},"yanked":false}

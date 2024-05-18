@@ -1,0 +1,1 @@
+{"name":"join_compile_commands_json","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.14.0","features":["fs","macros","rt","rt-multi-thread","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c75c92e94cf439ca81e6567f498dc049f85b97e7acc67d83e40012b559e04395","features":{},"yanked":false}

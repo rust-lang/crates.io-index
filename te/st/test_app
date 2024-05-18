@@ -1,0 +1,1 @@
+{"name":"test_app","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abff7a47c371fb72f7e3ba2e3756d13b374f75190cd45fb29dc0ab8c305e6785","features":{},"yanked":false}

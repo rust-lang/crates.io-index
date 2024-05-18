@@ -1,0 +1,4 @@
+{"name":"udl","vers":"0.1.0","deps":[],"cksum":"4915dcfcc9f0a432297fd3acd15e83c40974e219b3ba4896af7e3af36a8db5f1","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}
+{"name":"udl","vers":"0.2.0","deps":[],"cksum":"460a5975cdfe6353b47412850334d25f45a205d81433f1cb1e098edf3f3c3f1e","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}
+{"name":"udl","vers":"0.3.0","deps":[],"cksum":"5effeffc358d118d07f3a7e400fdf764f00d47a3cc3855db665437a84c230b67","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}
+{"name":"udl","vers":"0.3.1","deps":[],"cksum":"3e1217276f827999b80e251d2efe3635a403b71e291343ddb3ea5bdd981b6c1a","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false}

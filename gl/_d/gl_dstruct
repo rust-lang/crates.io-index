@@ -1,0 +1,2 @@
+{"name":"gl_dstruct","vers":"0.1.0","deps":[{"name":"gl_generator","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"de08a333a0cc6875274543350816d8b8c42da2cc1ee1c7d244e0f062a7f936b6","features":{"debug":[]},"yanked":false}
+{"name":"gl_dstruct","vers":"0.2.0","deps":[{"name":"gl_generator","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"290ec817c269a1630e3a0c262bc1f831fdf71d1e140b4ffd5086070339a2add5","features":{"debug":[]},"yanked":false}

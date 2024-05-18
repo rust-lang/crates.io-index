@@ -1,0 +1,2 @@
+{"name":"cargo-gpt","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dfefb39d5fd24ed3e7a8d906a025a4c3380e5d18a3980dce699bf1648865121","features":{},"yanked":false}
+{"name":"cargo-gpt","vers":"0.1.1","deps":[{"name":"ignore","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a40dbd3358c4aaa711ef95d282780211a01916e19728b62247acce6c3c45238c","features":{},"yanked":false}

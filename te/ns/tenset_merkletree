@@ -1,0 +1,2 @@
+{"name":"tenset_merkletree","vers":"0.1.0","deps":[],"cksum":"5573d38cf770ce47bc9c29823bbd1c33bb33ce421886df29f2a08ae4554dc19f","features":{},"yanked":false}
+{"name":"tenset_merkletree","vers":"0.1.1","deps":[{"name":"anchor-lang","req":"^0.30.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tiny-keccak","req":"^2.0","features":["keccak"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4aa6a167c41c951f8a5119d102740c505e60d8bba0a32979ae1495c3e44017e","features":{},"yanked":false}

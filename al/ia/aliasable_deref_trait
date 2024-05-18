@@ -1,0 +1,4 @@
+{"name":"aliasable_deref_trait","vers":"0.1.0","deps":[],"cksum":"e33a05baac7b2d27c00bffc5b309a7422b4ba7704137b579d7ec4e98f6314071","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"aliasable_deref_trait","vers":"0.2.0","deps":[],"cksum":"fc71d2b52416937066eb840812c2fb7de83c573cd99f6a50e1d58195faf04e4e","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"aliasable_deref_trait","vers":"0.2.1","deps":[],"cksum":"ab4b104ec50ee182c641f83f7354fd689ef7d1e456febc02a05d26d0bac67f29","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"aliasable_deref_trait","vers":"1.0.0","deps":[],"cksum":"3ef5bc2706078b5002e3d6adf45696cd43ad5659ec52900dcd45421ed72f1982","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

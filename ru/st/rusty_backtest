@@ -1,0 +1,3 @@
+{"name":"rusty_backtest","vers":"0.0.1","deps":[],"cksum":"c99acb28523eed46d9bcef0d036571385a76e68ca5e061a0af77a5301c5dd2e5","features":{},"yanked":false}
+{"name":"rusty_backtest","vers":"0.0.2","deps":[],"cksum":"b908ae3336ba758bd15adb4243d3c378463d77d0cd27ab26fad1851ca7c2fb7f","features":{},"yanked":false}
+{"name":"rusty_backtest","vers":"0.0.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"566c6986a1a5245f2e3093769f41f82d8ba0f2ae3409fafc9179f1995ca25305","features":{},"yanked":false}

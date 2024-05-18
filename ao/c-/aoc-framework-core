@@ -1,0 +1,1 @@
+{"name":"aoc-framework-core","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.13","features":["blocking","cookies"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35b81ff6ed9d2ac34307f70d505f11f4060c6890198e50a44c58903a404daf91","features":{},"yanked":false}

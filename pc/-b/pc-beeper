@@ -1,0 +1,2 @@
+{"name":"pc-beeper","vers":"0.1.0","deps":[{"name":"x86_64","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11568ebdebd7e850bbbf73b560bff24f5942ccf9ad842132b4722771cce1c787","features":{},"yanked":false}
+{"name":"pc-beeper","vers":"0.1.1","deps":[{"name":"x86_64","req":"^0.14.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"166655c92f37795c36c3de2fe3ff439dc46eb9a244dfb82147cd5cda1342cd1b","features":{},"yanked":false}

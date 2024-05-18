@@ -1,0 +1,15 @@
+{"name":"cargo-cats","vers":"0.1.0","deps":[],"cksum":"c466efbf7b751881ae91d319b93619c6acd65362f1c9627bb3fd3c6e2acb7068","features":{},"yanked":true}
+{"name":"cargo-cats","vers":"0.1.1","deps":[],"cksum":"fd6e5be240e9a104d32d89d31d023267d8bdc1da897a9f33fc049f22dbc5f128","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.2","deps":[],"cksum":"e89102d5ac2d5b783a0bff547dccd8c18df4030bbe1fa1cb68212b9ddcd66dc9","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.3","deps":[],"cksum":"c7982c516d304b2565a795aa9d9e94a79f8d24f1cb6c5004322615566e817f86","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"172.0.0","deps":[],"cksum":"983e4bc8e8688d4c685836ff72427bdead8a3676a0529d553c01caf92e06f6bd","features":{},"yanked":true}
+{"name":"cargo-cats","vers":"0.1.4","deps":[],"cksum":"d62f90444fb82f2b3e8b83d8f79ea8b8c644769d0733c0d992d9d12490f9a715","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.5","deps":[],"cksum":"5545d6978b3e28c29ea4f5203732d71d5bd3ea0fbdea93572ed39c57c57c1a1f","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.6","deps":[],"cksum":"10e9c0fa28ded638d9694963cee3ac14941f3488a5625b8076403b81e1641598","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.7","deps":[],"cksum":"5be3011659f6615321a54b022fe04d28d072ff5af8b1a6bd146f117eea6631f4","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.8","deps":[],"cksum":"9d0f75c12965643bad26b9895836d37fefb7cfce79759e09b788c2c2bc08eefa","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.9","deps":[],"cksum":"8a1a99e9970600bb62063ec3c24dc965eddbacb9adfceda4cb0e98cd4eb67f99","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.10","deps":[],"cksum":"7feec418ac034bcc09aea51edbfed099b97ecd8d6a7d640881a7f1549c5b6834","features":{},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.11","deps":[],"cksum":"a88ba278db5013d18cbe9d793427992eabe8839a5d9b003faa1193eb0158b53b","features":{"build":[],"default":["env-var","build"],"env-var":[]},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.12","deps":[],"cksum":"8ed0871fe4503557e6260f0b25abc4ba1e45ece1d129db3dc8edb801da4b7473","features":{"build":[],"default":["env-var","build"],"env-var":[]},"yanked":false}
+{"name":"cargo-cats","vers":"0.1.13","deps":[],"cksum":"aa2e33c349b5e7d06575f63e1eac4b4514a1a027fe365c4f812fe11d85e505a8","features":{"build":[],"default":["env-var","build"],"env-var":[],"nightly-features":[]},"yanked":false}

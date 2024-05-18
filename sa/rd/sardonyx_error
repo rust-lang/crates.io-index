@@ -1,0 +1,2 @@
+{"name":"sardonyx_error","vers":"0.0.1","deps":[{"name":"backtrace","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"352cf2c9f177546b2caafc3103e2d3cb1aeceec64375022e9afdcd234a4016d7","features":{},"yanked":true}
+{"name":"sardonyx_error","vers":"0.0.3","deps":[{"name":"backtrace","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"517e6b1b1274a2d1657351328b1727326248d72cf776f2db749fcc68a5bc5480","features":{},"yanked":true}

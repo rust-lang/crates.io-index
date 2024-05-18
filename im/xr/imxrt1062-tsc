@@ -1,0 +1,2 @@
+{"name":"imxrt1062-tsc","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8fb8e50b92e317f40a4ba9b14e5f1cdf009bf91f93480fa94024de880787d71","features":{},"yanked":false}
+{"name":"imxrt1062-tsc","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"683ddb58f52d667d6fe60b904c9813e0668d783e02548ba687af810758959fdd","features":{},"yanked":false}

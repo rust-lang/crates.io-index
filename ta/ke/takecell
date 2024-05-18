@@ -1,0 +1,2 @@
+{"name":"takecell","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d07775b3c007d74ee4ffbb323b8bcefa5d32fd48b1a51a73e0f5b2e6b7d02863","features":{},"yanked":false}
+{"name":"takecell","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20f34339676cdcab560c9a82300c4c2581f68b9369aedf0fae86f2ff9565ff3e","features":{},"yanked":false}

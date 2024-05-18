@@ -1,0 +1,2 @@
+{"name":"rfc7239","vers":"0.1.0","deps":[{"name":"uncased","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"087317b3cf7eb481f13bd9025d729324b7cd068d6f470e2d76d049e191f5ba47","features":{},"yanked":false}
+{"name":"rfc7239","vers":"0.1.1","deps":[{"name":"uncased","req":"^0.9.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b106a85eeb5b0336d16d6a20eab857f92861d4fbb1eb9a239866fb98fb6a1063","features":{},"yanked":false}

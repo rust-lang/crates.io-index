@@ -1,0 +1,2 @@
+{"name":"pl-hlist","vers":"1.0.0","deps":[{"name":"pl-hlist-derive","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9178cdf12fbc13a2c19d71674394e9f36b25c8b52ae2727f7bc3d39b45954f1","features":{},"yanked":false}
+{"name":"pl-hlist","vers":"1.0.1","deps":[{"name":"pl-hlist-derive","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"077307f544c85ffb0a854103e9428af021ca6ad06ba58ad7de7316c1c4a04784","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"escapade","vers":"0.0.1","deps":[],"cksum":"c23331d5236431b0afb1512159d1ba1c5afa3064c5f957ad39d2617f46e37535","features":{},"yanked":false}
+{"name":"escapade","vers":"0.0.2","deps":[],"cksum":"97140620c9775ffe456ac5f70bd4a4b78b22975b14de26044cc9429ad52d7f1d","features":{},"yanked":false}
+{"name":"escapade","vers":"0.0.3","deps":[{"name":"skeptic","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"skeptic","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35b9acc46ed70fdce0026d52968dc22a579ede823a495be8d62837efe8f76c45","features":{},"yanked":false}

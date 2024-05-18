@@ -1,0 +1,7 @@
+{"name":"plugger-macros","vers":"0.1.0","deps":[],"cksum":"00423abd2a86d759f2550a5c9837af5c9eb519f5aaca32c83128ac2a60f2d0d1","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.1.1","deps":[],"cksum":"11573080f89c2f43ff8c835b31a3114393429be49f97b3a086586795b5d3ec8f","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.1.2","deps":[],"cksum":"daf45a9ef976005a115fb95eda955dd9ea79e532db3dfc0e7dfe1f2614489624","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.1.3","deps":[],"cksum":"de9ebc94879b4d5c6bda114763a86022efaa0e5b593a64356cbf13fd11bbecd5","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.1.4","deps":[],"cksum":"ac2b4805dd54c454b0871feab51c28f044ae38172dc58b387766ed0399e07b6c","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.1.5","deps":[],"cksum":"5350cf36b9926fd12c2647a826af0b0b7c96fec615f7fed09d49c93a33a25e07","features":{},"yanked":false}
+{"name":"plugger-macros","vers":"0.2.0","deps":[{"name":"plugger-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"plugger-ruby","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73ff35d41ce2b2ca9ba3c77eb9770997966dfa60f2deec1128abc5b8de85ba87","features":{"default":["ruby"],"ruby":["plugger-ruby"]},"yanked":false}

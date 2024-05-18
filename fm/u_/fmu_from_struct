@@ -1,0 +1,2 @@
+{"name":"fmu_from_struct","vers":"0.1.0","deps":[{"name":"fmu_from_struct_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cf309f639dec17c98982f93eb107e97d14dcc6c26a23d55571c05e55ee75e99","features":{},"yanked":false}
+{"name":"fmu_from_struct","vers":"0.1.1","deps":[{"name":"fmu_from_struct_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c450cf5bc1b882d57c983d1832cb32e1c8f243097fd6a053447268cec426471e","features":{},"yanked":false}

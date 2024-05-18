@@ -1,0 +1,2 @@
+{"name":"color-science","vers":"0.0.0","deps":[],"cksum":"2d87416cec14d7e1cf5e9a66265bc5c8bc19773687e0e5759c7db56b03432d47","features":{},"yanked":true}
+{"name":"color-science","vers":"0.0.1","deps":[{"name":"ndarray","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"once_cell","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59c26565dfb4c8dfa467b9657af597087ac50259a481de5e18e388d01a2999d9","features":{},"yanked":true}

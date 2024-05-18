@@ -1,0 +1,1 @@
+{"name":"davros","vers":"0.0.0","deps":[{"name":"curve25519-dalek","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b48c4a6f321a0ca39a39378bffac37af132692896e90ac02debde808c019c33e","features":{"bench":[],"default":["std"],"nightly":["curve25519-dalek/radix_51"],"std":["curve25519-dalek/std"]},"yanked":false}

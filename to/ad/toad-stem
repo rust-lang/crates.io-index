@@ -1,0 +1,5 @@
+{"name":"toad-stem","vers":"0.1.0","deps":[],"cksum":"834a7cc46ed626b24dfb861d3de19cdd666fa945f5bd1b4d2d675551afef927c","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-stem","vers":"1.0.0","deps":[],"cksum":"545c4518d04e14f13a64acc7113f55168b59d935ab60c1bd7c02945fd2872638","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":true}
+{"name":"toad-stem","vers":"1.0.0-beta.1","deps":[],"cksum":"8d5599ad8f0685a7b21b47763a7b5d0801d6f21c54ff781e4473f4f3fa573a0a","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-stem","vers":"1.0.0-beta.2","deps":[],"cksum":"ca05fd8dd9feb4ef59019bf49349bb55676f1e1bad85ff061fa632be4b099ead","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-stem","vers":"1.0.0-beta.3","deps":[],"cksum":"1970fb795a2d18b407808d59ee8404d1dd839444ece05783c37a11298c509f0a","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}

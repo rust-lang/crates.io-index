@@ -1,0 +1,1 @@
+{"name":"bif","vers":"0.2.0","deps":[{"name":"clap","req":"^4.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0280582ef9dc0fdb92995eab6a7d9017c74153fe4b0e28b6043d907a52973fc8","features":{},"yanked":false}

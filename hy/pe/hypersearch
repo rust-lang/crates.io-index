@@ -1,0 +1,2 @@
+{"name":"hypersearch","vers":"0.1.0","deps":[],"cksum":"6ebf5bb9a2d4b94b9e1f5aa321c1109a693aeb79f983443398c070a114e8d708","features":{},"yanked":false}
+{"name":"hypersearch","vers":"0.2.0","deps":[{"name":"hypersearch_codegen","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a92cfd228f242d45d77801b622ff1920daf5b764c932589e28cfb2025d50c828","features":{},"yanked":false}

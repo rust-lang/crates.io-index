@@ -1,0 +1,1 @@
+{"name":"my","vers":"0.0.20","deps":[{"name":"regex","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"xcb","req":"^0.9","features":["randr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1cd3999742cfcfc0a8bf309d5951230ee510fc98d3c70135a014561142ab522","features":{},"yanked":false}

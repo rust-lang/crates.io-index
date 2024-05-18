@@ -1,0 +1,13 @@
+{"name":"moving_gc_arena","vers":"0.1.0","deps":[],"cksum":"de943bdf4f2a400b3cbdd21f5ca28b9e50374ded61c2218e0d4e7bd4a3c91374","features":{},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.1.1","deps":[],"cksum":"848eaa475b68a6ddd04d1cd766a126bb568cda49cab843049e5c50ffb17df76e","features":{},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.0","deps":[],"cksum":"4b9cf19df967786756ed6c626a82b844de9fad7c6d303d5aa258195b0d5b68c4","features":{"debug-arena":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.1","deps":[],"cksum":"93a97b134fb1a63c52cee029e68d2c21a74050575c118480703d3f9b039f9833","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.2","deps":[],"cksum":"a0d98eb0569938d750003ac0148107f9c93bbca4e5de4859f57ac3b9928fbed2","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.3","deps":[],"cksum":"a4758e91fad651a54b1419525dc2c76f24b81a95061d5095fc4d4d46ba822c3c","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.4","deps":[],"cksum":"57051fb71b3b1af481d8111d32ff7256fcbc2957e1d9bcc0670d118748af6bc9","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.2.5","deps":[],"cksum":"2cc9d4b1e2b30c87b5151ad9e3a149fbf9050a1bb178209b1a45f185ca9af919","features":{"debug-arena":[],"packed-headers":[]},"yanked":true}
+{"name":"moving_gc_arena","vers":"0.2.6","deps":[],"cksum":"c633f0cdeb914b2f78198b3721e1289a55fedaf503adee723dd50136ffb72833","features":{"debug-arena":[],"packed-headers":[]},"yanked":true}
+{"name":"moving_gc_arena","vers":"0.3.0","deps":[],"cksum":"36cc8fcc35bb68d4f488530820ce331ea6c26c5b86ab3b67f036f2c5d73e6828","features":{"debug-arena":[],"packed-headers":[]},"yanked":true}
+{"name":"moving_gc_arena","vers":"0.3.1","deps":[],"cksum":"6491e39b2dc2918174f366afdff7fdfbbe397c92bfbb9ca4b33f58b4369311f6","features":{"debug-arena":[],"packed-headers":[]},"yanked":true}
+{"name":"moving_gc_arena","vers":"0.3.2","deps":[],"cksum":"3198a7656b1b9677bc0a38fd4b0377bd655d4869ce47ee16935207e7e5013819","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}
+{"name":"moving_gc_arena","vers":"0.3.3","deps":[],"cksum":"e81ccfc89e9edb8a57c34d84d19c6a731fc79859a8af5807198ebd4900080a7e","features":{"debug-arena":[],"packed-headers":[]},"yanked":false}

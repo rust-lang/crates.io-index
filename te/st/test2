@@ -1,0 +1,2 @@
+{"name":"test2","vers":"0.1.0","deps":[],"cksum":"1a1214a48f5cca86f2bb3ed63d6eca06467f102b14d06ac90c097e654d307290","features":{},"yanked":false}
+{"name":"test2","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.164","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"570f5630bdf9aadd9d9100b076a0faae052b0e9b8c827a17901dc4334282e2da","features":{},"yanked":false}

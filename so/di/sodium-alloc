@@ -1,0 +1,2 @@
+{"name":"sodium-alloc","vers":"0.1.0","deps":[{"name":"libsodium-sys","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f35c6ed6907bd46fb2190e5aa7f5e5bc9c5b5e5c8e582597d75106f0c12d962","features":{},"yanked":false}
+{"name":"sodium-alloc","vers":"0.1.1","deps":[{"name":"libsodium-sys-stable","req":"^1.19.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b381c8df4c4171517854050cca9ce4fb34ae17208e6adec73cb96b3c7cf9475","features":{},"yanked":false}

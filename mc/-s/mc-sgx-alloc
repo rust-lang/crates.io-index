@@ -1,0 +1,1 @@
+{"name":"mc-sgx-alloc","vers":"0.1.0","deps":[{"name":"mc-sgx-tservice-sys","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"143dce2d13992a25f0109d31429e4244ace0b5d67ec8dd9357b33d34cf78d075","features":{},"yanked":false,"rust_version":"1.62.1"}

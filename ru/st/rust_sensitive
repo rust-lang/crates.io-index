@@ -1,0 +1,3 @@
+{"name":"rust_sensitive","vers":"1.0.0","deps":[],"cksum":"57a0c9af507bfa0f5b6a6dfd6b15a67e71b14939c9cfaf213106db6d888fa71b","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"rust_sensitive","vers":"1.0.1","deps":[],"cksum":"61d260e7e85cfb3c3847015ce810d800a3417d1531337284f51022920a3ba6f0","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"rust_sensitive","vers":"1.1.0","deps":[{"name":"aho-corasick","req":"^1.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41e9a57633a2617268a5ad43c2a3737b9bd585f8bf002efe44e88eaa6acd04b2","features":{},"yanked":false,"rust_version":"1.70"}

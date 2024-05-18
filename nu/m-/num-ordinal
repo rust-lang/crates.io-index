@@ -1,0 +1,2 @@
+{"name":"num-ordinal","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a231d0e18b96df696fd6296ec5043465827f92e72c2b6946d3ce0e5d8a48f1","features":{},"yanked":false}
+{"name":"num-ordinal","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b244f65fa4ff30000abd52b6f916061f852b907cc17de811639c1aa2418eab6","features":{},"yanked":false}

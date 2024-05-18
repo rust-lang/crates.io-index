@@ -1,0 +1,3 @@
+{"name":"io_operations","vers":"0.0.0","deps":[],"cksum":"0b2136e1dde95c77054b8604b47a2d112e4f3df2f295be7bc6965e6a879f6ce4","features":{},"yanked":false}
+{"name":"io_operations","vers":"0.1.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb0851ff91d5a1d8e364945ea2246b3d3006a4b3b5f7bfe770167c38c98d8160","features":{},"yanked":false}
+{"name":"io_operations","vers":"0.2.0","deps":[],"cksum":"c7baef0767aadfaa6d0c13ef08105aa2f44aa60162fc1acc5f85d69011deb521","features":{},"yanked":false}

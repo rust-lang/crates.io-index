@@ -1,0 +1,3 @@
+{"name":"mdka-rs","vers":"0.0.1","deps":[{"name":"html5ever","req":"^0.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"markup5ever_rcdom","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2563a9abe5f3382768969acaf4358bc023ecbb931d2658b2988a71dcaed8bd17","features":{},"yanked":true,"rust_version":"1.75.0"}
+{"name":"mdka-rs","vers":"0.0.2","deps":[],"cksum":"fb0618ba312aa15f3390b43bfd3b1d2542133645c86b070dc1c0392dd253959c","features":{},"yanked":true}
+{"name":"mdka-rs","vers":"0.0.3","deps":[],"cksum":"14e6d1f12435c9876090caac813681b80de289297526d8652932593dbe91d9b9","features":{},"yanked":true}

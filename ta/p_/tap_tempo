@@ -1,0 +1,2 @@
+{"name":"tap_tempo","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bb8274be36b334cc65ac207933a2a71096832679dc5468c1a961bde465a5844","features":{},"yanked":false}
+{"name":"tap_tempo","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41e3483706d3a31625cf7de3cf92a53343391f25454f43cca3ebd4c8fd39e2d7","features":{},"yanked":false}

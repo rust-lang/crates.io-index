@@ -1,0 +1,2 @@
+{"name":"rlvm","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a80d1717e773dce38dd267210088b1e87262938e7a4a17178bb9dbb4008175d0","features":{},"yanked":false}
+{"name":"rlvm","vers":"0.0.2","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2cd4953c39ff2363743347c1bea2d00b90f7839b8bf3268e848ee049bc3c4bd4","features":{},"yanked":false}

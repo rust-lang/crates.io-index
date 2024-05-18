@@ -1,0 +1,1 @@
+{"name":"lock_free_buddy_allocator","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f2b8256be05fb9612e0276693020bed985954c9e5c621f4ec6edec822af6b13b","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"adi_storage","vers":"0.1.0","deps":[],"cksum":"ff5e73473497788b29ccad35f95715289cdc217349d18291f6d3fb094ff055b2","features":{},"yanked":false}
+{"name":"adi_storage","vers":"0.2.0","deps":[{"name":"whoami","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd3d2b3891b008374a6fdaa22f05d78aa8b2564950037e5e7b2c747bb4e5e8d7","features":{},"yanked":false}
+{"name":"adi_storage","vers":"0.1.1","deps":[{"name":"whoami","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b2d9f776c9750669583edd1f6754f946cb37733e465288bbec1a847b6cc6c2","features":{},"yanked":false}
+{"name":"adi_storage","vers":"0.2.1","deps":[{"name":"whoami","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d76edb227b12e253fb17cb60fb13ea8abc191f87c8ec875fc0c4c6f1dcbf95a","features":{},"yanked":false}

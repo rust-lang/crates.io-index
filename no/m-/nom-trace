@@ -1,0 +1,3 @@
+{"name":"nom-trace","vers":"0.1.0","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b6ac6bf2d85eb0d123f21fa8ea37b9d8121c008370dc618cd47d29309716fc1","features":{},"yanked":false}
+{"name":"nom-trace","vers":"0.2.0","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20ff709b669cc67c179a3d06986c4054ab42fe319cdcee5968d2b687ff08d276","features":{},"yanked":false}
+{"name":"nom-trace","vers":"0.2.1","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5670812706767ed69c4a4b8f520e8743b3aeee70d9f22adf63d0194a386c12f2","features":{},"yanked":false}

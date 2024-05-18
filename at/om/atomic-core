@@ -1,0 +1,1 @@
+{"name":"atomic-core","vers":"0.0.1","deps":[{"name":"portable-atomic","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"101fe55221c4b0ba0d046108377af1698d5b0b81c6ba00aab0fde5886b55e71f","features":{"critical-section":["portable-atomic/critical-section"]},"yanked":false}

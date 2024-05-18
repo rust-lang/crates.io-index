@@ -1,0 +1,1 @@
+{"name":"pubnub-util","vers":"0.1.0","deps":[{"name":"percent-encoding","req":"^2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5be55a00b972fc4dcc8a9ef3f1b1c6caa124e105593ca9b16b3e140db0bc1fc8","features":{"default":["encoded-channels-list"],"encoded-channels-list":["percent-encoding"]},"yanked":false}

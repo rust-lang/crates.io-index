@@ -1,0 +1,2 @@
+{"name":"simple_vector2","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"000d79c26bd60a6743706205c599fb10c580c8d7e41110a8591c773ea102524e","features":{},"yanked":false}
+{"name":"simple_vector2","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5feebde9c66e2ef7aeb384e96dcc856b5433b1151a23e25d590f02b8c5ef7531","features":{},"yanked":false}

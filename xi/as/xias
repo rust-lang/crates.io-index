@@ -1,0 +1,4 @@
+{"name":"xias","vers":"0.1.0","deps":[],"cksum":"06b01af8b24115dbaee2ab9866b1fb89b001950a5f792494d9d222341202ad30","features":{},"yanked":false}
+{"name":"xias","vers":"0.2.0","deps":[{"name":"paste","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fb9ff7874c696b80b47e3444a4593ecfd82e83387499acc171d5212926c9e873","features":{},"yanked":false}
+{"name":"xias","vers":"0.2.1","deps":[{"name":"paste","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5201cb773bc9a9fd833a008ba79aa20a15b0b1cb3d0e774230576bee6ee3a08b","features":{},"yanked":false}
+{"name":"xias","vers":"0.3.0","deps":[{"name":"paste","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"87a9d9a23a25d459aee340f76fd8aedad24b5ec05e316cdd3c7d0f221f2d554e","features":{},"yanked":false}

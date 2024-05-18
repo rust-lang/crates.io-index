@@ -1,0 +1,1 @@
+{"name":"time-helper","vers":"0.1.0","deps":[{"name":"time","req":"^0.3.0","features":["formatting","local-offset"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"17c30f0091717eeeff0b556d830302d5563de8b72fd49127aa5899a06a369808","features":{},"yanked":false}

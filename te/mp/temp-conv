@@ -1,0 +1,5 @@
+{"name":"temp-conv","vers":"0.1.0","deps":[],"cksum":"b99ff19596e312936e0b568bf4fc3d638736dd984160bcfdc321c0a34e102254","features":{},"yanked":false}
+{"name":"temp-conv","vers":"0.1.1","deps":[],"cksum":"ab6ff5609c022cafef1b899b589edb3796f7b772dea3465777c8658f4be153e1","features":{},"yanked":false}
+{"name":"temp-conv","vers":"0.1.2","deps":[],"cksum":"3cd9234a2966e5eecd783e52fc34a67cdc25c47442d1e3dea16573535bb8099b","features":{},"yanked":false}
+{"name":"temp-conv","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3281dd0bbc2b7b91fcd9daa7fc778d497942e584e1ca895614fb9fdbbb390f4d","features":{},"yanked":false}
+{"name":"temp-conv","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d24c7fdbaf8218667c17de962405cb6ba1df8110406ca32b580d0b04bf212f3","features":{},"yanked":false}

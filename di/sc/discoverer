@@ -1,0 +1,3 @@
+{"name":"discoverer","vers":"0.0.0","deps":[],"cksum":"539c9bc90089850508e66d025ce5c85ca66982327f22effda4ce842240d087cf","features":{},"yanked":false}
+{"name":"discoverer","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd4b9f00f60f6e158eb430da3fbf788ec3ae88ebefcdb1226d90206c59a3c97d","features":{},"yanked":false}
+{"name":"discoverer","vers":"0.2.0","deps":[{"name":"walkdir","req":"^2.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09ecde3f8a87d8d518a8b9d8fc60d7b2baa5af30416de06f4aec0962fa0267a7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"coffeehouse","vers":"0.1.0","deps":[],"cksum":"b73866af0d37d555646e7d52c367c71d80b34df29ac9c609d9bdc38396397e99","features":{},"yanked":false}
+{"name":"coffeehouse","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"740392e4d8465189692892acd073bf27689dd65883d88782e0275b60847de260","features":{},"yanked":false}

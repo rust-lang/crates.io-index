@@ -1,0 +1,2 @@
+{"name":"panic-reset","vers":"0.1.0","deps":[{"name":"cortex-m","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acee8535a38487c5c70d61ee87284710452cb3b265304463f20a0c5327a4a8a5","features":{},"yanked":false}
+{"name":"panic-reset","vers":"0.1.1","deps":[{"name":"cortex-m","req":">0.6, <0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cf1ff2a5b1a478dd94572aa43476b6630e72071cbd016985003ad3903a3a4f5","features":{},"yanked":false}

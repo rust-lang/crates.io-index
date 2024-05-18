@@ -1,0 +1,13 @@
+{"name":"mini-math","vers":"0.1.0","deps":[],"cksum":"ead7dfe602a80020609c27dfc8b8a5b230b1ca7871e946a05144d1863abdbd33","features":{},"yanked":true}
+{"name":"mini-math","vers":"0.1.1","deps":[],"cksum":"b50d16fd440c3fc17f0b2bd8d8637360edaaecc60cb1836696deca943571c9c3","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.1.2","deps":[{"name":"zerocopy","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce1c2f05fc9a14844d903fdc614973dc52058997b7ef6dc346bd30c9831ffb24","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.1.3","deps":[{"name":"zerocopy","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb6f4d09789cbb79d63f918565383d7793e069d043af1958c47d133c63553705","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.1.4","deps":[{"name":"zerocopy","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbe7769ea40c50a5371d9a1a16c0ba5f6a37fa7364f3fcbd82356ca587454286","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.0","deps":[],"cksum":"cbf1f7185f5cfda0b54508ff627d5b24fd6757b646223aff1afa3c9fee734735","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.1","deps":[],"cksum":"e0c9b28ff2a87fc1e02371c6a7769e496d77d9f9227a52b6926ecc6e41367ddd","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.2","deps":[],"cksum":"d6830be55451cfd22cdc17301ea6fd5dcb3cdb311ac00e24d047a61733a36feb","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.3","deps":[],"cksum":"fd30de2bebb1c00010b7390690da8e831a90d1eb6201211994b7f6e5bee8e8c1","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.4","deps":[],"cksum":"18dc53bfe39e2c1c60a5d34b3e71081c9f14c27e3cc96a6f4aa787c3ebc41b74","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.5","deps":[],"cksum":"ee9ec23c85de2d8f7a3b3cd7c9658aee942eccd484445c7a35ab64ab503b4ee7","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.6","deps":[],"cksum":"24b63e8a02c589eee912470e1d1c2af06886ff4374f7de24dd4c2d1b7cc25624","features":{},"yanked":false}
+{"name":"mini-math","vers":"0.2.7","deps":[],"cksum":"4a037ceddb6f0027839906491867c1eb179f695f1c563b199429f416932378bb","features":{},"yanked":false}

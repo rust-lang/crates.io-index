@@ -1,0 +1,1 @@
+{"name":"nitride","vers":"0.0.1","deps":[{"name":"clap","req":"^4.0.7","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50e4c84aac5ba3072a4a2fcc0c9333980c389cab10ad002913360be2d9d371b0","features":{},"yanked":false,"rust_version":"1.61.0"}

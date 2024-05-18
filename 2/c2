@@ -1,0 +1,2 @@
+{"name":"c2","vers":"0.1.0","deps":[{"name":"c2-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab55ca1e86a4e0bbdab5cf23796e061875f700240988e2e1169409310e54c6e","features":{},"yanked":false}
+{"name":"c2","vers":"0.2.0","deps":[{"name":"c2-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa42ddac26775cdc330010551729ea38058da8d0012b5d1315a06aa10da47831","features":{},"yanked":false}

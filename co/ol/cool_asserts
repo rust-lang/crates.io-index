@@ -1,0 +1,10 @@
+{"name":"cool_asserts","vers":"1.0.0","deps":[],"cksum":"f87912aea91cf7af9604bdfdebc063ab3a1f4ff0c2856dd680799063d945ec43","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"1.0.1","deps":[],"cksum":"28fe2701d116600dd343c10abd6d4e921d98279311b350fa44b2579a907f17f4","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"1.0.2","deps":[],"cksum":"b75efc23af1bf8b55c992b98ddc77ff8a3e780846fc5a874c883cc1346629998","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"1.0.3","deps":[],"cksum":"c3f1d9611de73ad1cd3361ddc9da704eb8caca22a7f905a0976d96db35539176","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"1.1.0","deps":[],"cksum":"38ebc05dfb52d8103136796ad7d9d95d9f39d8ddec4f55249d40667d245f6486","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"1.1.1","deps":[{"name":"rustversion","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fea70c9cbd7d29920c31f511d12313838ba4678c7d7cac08e5cc42471ecec443","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"2.0.0","deps":[{"name":"indent_write","req":"^2.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1fd4240801c1f296cd14e445edf658d7db99594e661b50422ddd5818431b2705","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"2.0.1","deps":[{"name":"indent_write","req":"^2.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8743bebc57b5223e17d379c2f06e79222a81798296bb5df5106e128491d386be","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"2.0.2","deps":[{"name":"indent_write","req":"^2.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c6e37baa919382a04297d0520980f023b79cd573c442bd41aef1d2d071d671e5","features":{},"yanked":false}
+{"name":"cool_asserts","vers":"2.0.3","deps":[{"name":"indent_write","req":"^2.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ee9f254e53f61e2688d3677fa2cbe4e9b950afd56f48819c98817417cf6b28ec","features":{},"yanked":false}

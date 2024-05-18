@@ -1,0 +1,1 @@
+{"name":"rustility","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8f1028bab2520a6811ac3fb59b57ef0c7ae3200405e05dc886461235ae5fd622","features":{"default":["full"],"full":["macros","traits"],"macros":[],"traits":[]},"yanked":false}

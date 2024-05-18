@@ -1,0 +1,2 @@
+{"name":"chatui_server","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1780f846f58da3115dde05d442ad764f39290cef796f9afc003b080d90170e59","features":{},"yanked":false}
+{"name":"chatui_server","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b361dbdb0acc37821ce948d0c7a4e43130fd7189ee1596e51bfd23f46a83d5b","features":{},"yanked":false}

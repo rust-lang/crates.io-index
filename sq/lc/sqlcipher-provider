@@ -1,0 +1,2 @@
+{"name":"sqlcipher-provider","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1170b14335fbfb8c8dce671ef48a6a7be5bc650c69778d96b1ce953d4c3eb19f","features":{},"yanked":false}
+{"name":"sqlcipher-provider","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"669c1d109113b09b3afd122e452e02693dfe4083a1bb3a9784458db302bb5ec7","features":{},"yanked":false}

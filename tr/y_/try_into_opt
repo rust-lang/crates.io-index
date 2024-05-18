@@ -1,0 +1,1 @@
+{"name":"try_into_opt","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cdc9a0b0935d0bc8cfb8e076e160c04bc1244bd7163c0e7d3620cad29ae9717","features":{"nightly-testing":["clippy"]},"yanked":false}

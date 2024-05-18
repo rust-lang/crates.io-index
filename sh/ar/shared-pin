@@ -1,0 +1,1 @@
+{"name":"shared-pin","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e3fc96fa2e2639437ffd58e3c1bbba81c513539d76485608aa298473db8248","features":{},"yanked":false}

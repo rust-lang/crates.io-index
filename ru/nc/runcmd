@@ -1,0 +1,2 @@
+{"name":"runcmd","vers":"0.1.0","deps":[{"name":"execute","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c268044975349d708d0c7768a900ca58944d1e0b686098ecf4ea53c089637147","features":{},"yanked":false}
+{"name":"runcmd","vers":"0.1.1","deps":[{"name":"execute","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db07b7e618aad52adb63a93776b6671bf7772aeca73f0bea9e7d686b69238f0f","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"integer-sqrt","vers":"0.1.0","deps":[],"cksum":"8833702c315192502093b244e29c6ab9c55454adfe21b879a87a039ea8fe8520","features":{},"yanked":false}
+{"name":"integer-sqrt","vers":"0.1.1","deps":[],"cksum":"7536fe7f78abedb82f609d87f46f0e0ca0ad31e84597deb8dabd8ed9ad047257","features":{},"yanked":false}
+{"name":"integer-sqrt","vers":"0.1.2","deps":[],"cksum":"ea155abb3ba6f382a75f1418988c05fe82959ed9ce727de427f9cfd425b0c903","features":{},"yanked":false}
+{"name":"integer-sqrt","vers":"0.1.3","deps":[],"cksum":"f65877bf7d44897a473350b1046277941cee20b263397e90869c50b6e766088b","features":{},"yanked":false}
+{"name":"integer-sqrt","vers":"0.1.4","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d3038ef3da477fd70e6161006ef37f919c24bfe7244062f67a69defe72c02aa","features":{},"yanked":true}
+{"name":"integer-sqrt","vers":"0.1.5","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"276ec31bcb4a9ee45f58bec6f9ec700ae4cf4f4f8f2fa7e06cb406bd5ffdd770","features":{},"yanked":false}

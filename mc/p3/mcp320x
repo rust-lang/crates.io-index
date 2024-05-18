@@ -1,0 +1,2 @@
+{"name":"mcp320x","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ef635eb28e29d838438a4da64a6b12db6e265951b01ca2f1f514a910e5ea53e","features":{},"yanked":false}
+{"name":"mcp320x","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95f985c66c4c1e4c13c4f669267115dd7a5460348096472add6cf584de4a80f3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rome_json_syntax","vers":"0.0.0","deps":[{"name":"rome_rowan","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48114289e1f282d4c23b0211e0c509e8e7176fa5ae907705cee0e2c4821a06b3","features":{},"yanked":false}
+{"name":"rome_json_syntax","vers":"0.0.1","deps":[{"name":"rome_rowan","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d2675f444292909e2fcb07534f752016b5a8d1b7e2dfbba59ba96068826085a","features":{},"yanked":false}

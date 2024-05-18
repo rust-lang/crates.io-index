@@ -1,0 +1,7 @@
+{"name":"percent-encoding","vers":"1.0.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rustc-test","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de154f638187706bde41d9b4738748933d64e6b37bdbffc0b47a97d16a6ae356","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"1.0.1","deps":[],"cksum":"31010dd2e1ac33d5b46a5b413495239882813e0369f8ed8a5e266f173602f831","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"2.0.0","deps":[],"cksum":"ba4f28a6faf4ffea762ba8f4baef48c61a6db348647c73095034041fc79dd954","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"2.1.0","deps":[],"cksum":"d4fd5641d01c8f18a23da7b6fe29298ff4b55afcccdf78973b24cf3175fee32e","features":{},"yanked":false}
+{"name":"percent-encoding","vers":"2.2.0","deps":[],"cksum":"478c572c3d73181ff3c2539045f6eb99e5491218eae919370993b890cdbdd98e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.51"}
+{"name":"percent-encoding","vers":"2.3.0","deps":[],"cksum":"9b2a4787296e9989611394c33f193f676704af1686e70b8f8033ab5ba9a35a94","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.51"}
+{"name":"percent-encoding","vers":"2.3.1","deps":[],"cksum":"e3148f5046208a5d56bcfc03053e3ca6334e51da8dfb19b6cdc8b306fae3283e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.51"}

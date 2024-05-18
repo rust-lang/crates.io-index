@@ -1,0 +1,5 @@
+{"name":"smoke","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7d6dce45cadcfb7e9a6561a88a6f59b0c217ec0cb11e7a0f9f28fdd0f0d34d0","features":{"default":["random"],"random":["getrandom"]},"yanked":false}
+{"name":"smoke","vers":"0.2.0","deps":[],"cksum":"bb6890faf7dbd0dd6a202d86d4add65f07383fad32025b5292845367fef70162","features":{"default":[]},"yanked":false}
+{"name":"smoke","vers":"0.2.1","deps":[],"cksum":"289a26e591e4dba54f5e1b7bc7e1e1bf62bd9c16825b473dea3de8436e93c924","features":{"default":[]},"yanked":false}
+{"name":"smoke","vers":"0.3.0","deps":[],"cksum":"bd112e4ad72af7db3c2be28cc812bbf8d760a7706e0d4d49ed6c025ef2b858b7","features":{"default":[]},"yanked":false}
+{"name":"smoke","vers":"0.3.1","deps":[],"cksum":"debdb23aacfcda952daff6ed03267c5d6aa7e3961fbcdc83243857bbaa386bda","features":{"default":[]},"yanked":false}

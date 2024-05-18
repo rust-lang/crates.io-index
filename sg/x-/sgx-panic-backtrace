@@ -1,0 +1,1 @@
+{"name":"sgx-panic-backtrace","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.65","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"06abcbfe35077dbd9a87319479da1e01fd58b7c035b137a9c9b5c08a0cdf6c81","features":{},"yanked":false}

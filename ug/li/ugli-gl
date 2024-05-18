@@ -1,0 +1,2 @@
+{"name":"ugli-gl","vers":"0.1.0","deps":[{"name":"gl_generator","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b2077aa40a715309333370692045dbc0d00c5a9e9ff53cae64d2127a62dd48c7","features":{},"yanked":false}
+{"name":"ugli-gl","vers":"0.1.1","deps":[{"name":"gl_generator","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"18b308f08b8680f9aa45ea873bd52125c1f1828df12666b702f3767f2ce1149f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ash-direct-entry","vers":"0.1.0","deps":[{"name":"ash","req":"^0.32.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a2de31a57b26ad46bb8df361e9a77201483f6f996f6fe609478ba6af419fd68e","features":{},"yanked":false,"links":"vulkan"}
+{"name":"ash-direct-entry","vers":"0.2.0","deps":[{"name":"ash","req":"^0.33.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd6fd69a2cb81f6207a6fd819084aea8f12a636e79b59dc240c98b29652a0257","features":{},"yanked":false,"links":"vulkan"}

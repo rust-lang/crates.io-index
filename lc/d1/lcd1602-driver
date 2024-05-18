@@ -1,0 +1,2 @@
+{"name":"lcd1602-driver","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"0.2.*","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac2687105c19bc913b274ee5934f2d5f7186025c1c6dac1ee47006e4a562dc98","features":{},"yanked":false}
+{"name":"lcd1602-driver","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdb652c2baa6cb47531bf0b594d0a7c1de1d4a34a69e1c8fdd49a1f2d56a8929","features":{},"yanked":false}

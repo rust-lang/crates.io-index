@@ -1,0 +1,3 @@
+{"name":"mnt","vers":"0.2.0","deps":[],"cksum":"ae453004949f377acfd1943c8ba4b2187112f486ca6378c8fe28e389a4d6c25e","features":{},"yanked":false}
+{"name":"mnt","vers":"0.3.0","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43daa0eb417767aa91368f10142682b7be3570519badaf20aa7f5444700901ec","features":{},"yanked":false}
+{"name":"mnt","vers":"0.3.1","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1587ebb20a5b04738f16cffa7e2526f1b8496b84f92920facd518362ff1559eb","features":{},"yanked":false}

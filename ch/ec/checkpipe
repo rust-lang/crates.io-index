@@ -1,0 +1,2 @@
+{"name":"checkpipe","vers":"0.1.0","deps":[{"name":"cargo-release","req":"^0.24.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5992d53cc7316daa8def5b62aadf4f9df742db3dcae74e077d9db6ebf8ab8d18","features":{},"yanked":false}
+{"name":"checkpipe","vers":"0.1.1","deps":[{"name":"cargo-release","req":"^0.24.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8ce36345aefbf28db7683549a260d7870943a6c715af6a178943c01c3ef0579b","features":{},"yanked":false}

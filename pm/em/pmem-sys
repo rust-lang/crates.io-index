@@ -1,0 +1,2 @@
+{"name":"pmem-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a89519634946345e208e942e6db1c9159329f0a64de72e190d92aad8edfabcf6","features":{},"yanked":false}
+{"name":"pmem-sys","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a215c5cbbc86a4f3425cb08dc647b2346eafd0e706b8a6e3569b40ddbbdd842","features":{},"yanked":false}

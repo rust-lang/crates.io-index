@@ -1,0 +1,2 @@
+{"name":"thunderborg_driver","vers":"0.1.0","deps":[{"name":"rppal","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b73c7de0f698305003a5b85e93a1905ba6ad9b4e7cc7d38c5e9fe322671539f","features":{},"yanked":false}
+{"name":"thunderborg_driver","vers":"0.2.0","deps":[{"name":"rppal","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"564d4473b125d09b10ec7de2fa628acc12bdeb3856f514c89ab0c5379e9ec721","features":{},"yanked":false}

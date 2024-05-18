@@ -1,0 +1,1 @@
+{"name":"vbe","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f73065e94d56560724333b32738f015a50c53091d122e2c1c731df23a10a5f7f","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"cargo_calc","vers":"0.1.1-alpha","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"706a3ee50fb5e3ceed792095eabd81c684a616f4095a6302850ed525b7939370","features":{},"yanked":false}
+{"name":"cargo_calc","vers":"0.1.3-alpha","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91ab576f287d39b0b356113416d7a2982b0bf5b28b06f91e37bd16333510c95e","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"cargo_calc","vers":"0.1.5-alpha","deps":[],"cksum":"dd535de1fad24ffa7bedd8417bcd8d6f1112da8d89c2eb66e6fe59da6e5026ff","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"cargo_calc","vers":"0.2.0-alpha","deps":[],"cksum":"0b1e0455ceb810aea7af60388a38d6f02bfe1d03a00346f8552b709e4b9810a2","features":{},"yanked":false,"rust_version":"1.56"}

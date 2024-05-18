@@ -1,0 +1,1 @@
+{"name":"libftd3xx","vers":"0.0.1","deps":[{"name":"libftd3xx-ffi","req":"~0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30adaefd2707e620f59243e8ae610c773d8d12aefbd3fe8c87e7188d255bcfc4","features":{"static":["libftd3xx-ffi/static"]},"yanked":false}

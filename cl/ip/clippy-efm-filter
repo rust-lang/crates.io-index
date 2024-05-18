@@ -1,0 +1,1 @@
+{"name":"clippy-efm-filter","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-rc.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47fa66add3af964dc18249e5400d8799c040d60ab338d1491780c20a3242ab0d","features":{},"yanked":false}

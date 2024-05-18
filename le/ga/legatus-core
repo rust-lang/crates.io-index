@@ -1,0 +1,1 @@
+{"name":"legatus-core","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c84987859410bc0f17ddd00757994e4ad152335b4d42b03e3e64b86b2e637d12","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"llvm-bitcode","vers":"0.1.0","deps":[],"cksum":"b66c5b1f1ee83ee6743d4eb7e73452d6300145310e1d538b3526653112914f74","features":{},"yanked":false}
+{"name":"llvm-bitcode","vers":"0.1.1","deps":[],"cksum":"4295c1429ad06df16f933793c36c688d0543de33dae6378f656ff54a30560f56","features":{},"yanked":false}
+{"name":"llvm-bitcode","vers":"0.1.2","deps":[{"name":"num_enum","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b95dfd93cc39d3f09d996e5210905cf97f542aa54c08906a8e8b5f6ad5853bb","features":{},"yanked":false}
+{"name":"llvm-bitcode","vers":"0.1.3","deps":[{"name":"num_enum","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c879009bf7f924b109c7c4cde85b4230ef5df62a15d4c9d30ebe6cb200972165","features":{},"yanked":false}

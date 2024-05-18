@@ -1,0 +1,4 @@
+{"name":"json_comments","vers":"0.1.0","deps":[],"cksum":"74190e6ca5b06c0195f067f7a565b17103c5e82cd56497533f6ddfeb9f44af7e","features":{},"yanked":false}
+{"name":"json_comments","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab25c689752fbb49903458495d3e71853229e262a2e6136325359e0705606483","features":{},"yanked":false}
+{"name":"json_comments","vers":"0.2.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"41ee439ee368ba4a77ac70d04f14015415af8600d6c894dc1f11bd79758c57d5","features":{},"yanked":false}
+{"name":"json_comments","vers":"0.2.2","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9dbbfed4e59ba9750e15ba154fdfd9329cee16ff3df539c2666b70f58cc32105","features":{},"yanked":false}

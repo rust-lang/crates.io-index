@@ -1,0 +1,2 @@
+{"name":"cost","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"416d3c8454612f3995c147f3c061ba55ff38ea36920853c1cc92590f261d228b","features":{},"yanked":false}
+{"name":"cost","vers":"0.1.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3bc00aa95100e24d822485531728f46daff10f60918742ad5ec9bfe2b420e7fb","features":{},"yanked":false}

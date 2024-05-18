@@ -1,0 +1,4 @@
+{"name":"py-comp","vers":"0.1.0","deps":[],"cksum":"28ddd26b74b13d4aecdc325dd324393c0715b8920ae21c9050d8ee55eb3c7d54","features":{},"yanked":false}
+{"name":"py-comp","vers":"0.1.1","deps":[],"cksum":"38843b3050b07fdba7ea5894bef884dc17946719fee92769d587b0f38a64f115","features":{},"yanked":false}
+{"name":"py-comp","vers":"0.1.2","deps":[{"name":"doc-comment","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"486a16b3f996df47c51a6bfe423c9468fe95da7388f853a0531afaf908395df7","features":{},"yanked":false}
+{"name":"py-comp","vers":"0.1.3","deps":[{"name":"doc-comment","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1af040645b7a3ef389c5f6246b410dcec02205851c910a624643c3cd46b39729","features":{},"yanked":false}

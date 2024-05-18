@@ -1,0 +1,2 @@
+{"name":"secbox","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4d4927a2f66fcef157c536f542690f93ff81561127b29e462bac0d764be0155","features":{},"yanked":false}
+{"name":"secbox","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75c8a4b0ee2ad393051e584968cb4302eda0fef7b6b2046a5c5ac67826d48902","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"tinyring","vers":"0.1.0","deps":[],"cksum":"da3955cd76beab6df67ef2da2aa4cdf82a59e43356ca48d096ac9671fb9bfbb6","features":{},"yanked":true}
+{"name":"tinyring","vers":"0.2.0","deps":[],"cksum":"97a7ab7dede1450000d6497bd94b9a6f04ead9787349ab5cae6872d8167b66e3","features":{},"yanked":true}
+{"name":"tinyring","vers":"0.3.0","deps":[],"cksum":"637e151e1c0ec85144edc128e37d9d03bb1a62b3522e8dc9c57e72e5027787d2","features":{},"yanked":true}
+{"name":"tinyring","vers":"0.4.0","deps":[{"name":"do_syscall","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f3602e0e4a675c4d0b2d8a4b9fbc23139033d25b40d079105c3710199620212","features":{},"yanked":true}
+{"name":"tinyring","vers":"1.0.0","deps":[{"name":"do_syscall","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rawring","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5370a1c22d97af45324047e3a8869a0bb66937d7ffc700c6f73d53626e8064ab","features":{},"yanked":true}

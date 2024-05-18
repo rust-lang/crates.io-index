@@ -1,0 +1,2 @@
+{"name":"xml-creator","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b36eb3e165d3e36522dc4531747b196e7b44a1e6eea3fe235b48b640ae41bdca","features":{},"yanked":true}
+{"name":"xml-creator","vers":"0.1.1","deps":[{"name":"indexmap","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c45097b7472668ca1be079d502833a1e1d22e986733ea13b0a8872de4253bae","features":{},"yanked":false}

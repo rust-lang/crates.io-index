@@ -1,0 +1,2 @@
+{"name":"randomforests","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc2d4bbb58d42ecdbe66ff839122b75c939ce323960d214af09d04f06d7f5603","features":{},"yanked":false}
+{"name":"randomforests","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bee92f16f900ee059a4abed42149db335abd222ec1869cab2af032bcadcec0d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"corewars-core","vers":"0.0.0","deps":[],"cksum":"377dc681fbf37ea79d2599a74ec5aa241acf784185c2cdc1a40802952e907f42","features":{},"yanked":false}
+{"name":"corewars-core","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4690c27b446f4d0d3c652e3b536749e7f83ceaebf5b83e7216e18dba3ae11f23","features":{},"yanked":false}

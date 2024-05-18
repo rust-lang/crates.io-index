@@ -1,0 +1,2 @@
+{"name":"frombytes","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae7e64cd2f67c1c123d2f044a789f37856977f6c82525f8eca02df86e36a1fde","features":{},"yanked":false}
+{"name":"frombytes","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1b9d7b325bca9c1ae9c6879450eee21e7374ac37b748f3bcf31b776cee2d072","features":{"default":["std"],"std":["thiserror"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"roundrobin","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a3d54635422364c3807665e5f38eab9a91133dfd735dcd2c56be43581ebaad4","features":{},"yanked":false}
+{"name":"roundrobin","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaa9633ba9b4ea1ba74f4eb9f808ed68bee35239a19a6857eff51d7ef24eed69","features":{},"yanked":false}

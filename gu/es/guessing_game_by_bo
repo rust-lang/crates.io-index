@@ -1,0 +1,2 @@
+{"name":"guessing_game_by_bo","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d50930118f01d8787ff153aebef03b022a32716e23df0f9e0ed12dd76305b4de","features":{},"yanked":true}
+{"name":"guessing_game_by_bo","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"671c55b6c0d926eb4d3a000fece173414f0f78685648f45e5b6aa23595c0a8f0","features":{},"yanked":false}

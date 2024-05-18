@@ -1,0 +1,2 @@
+{"name":"datasus-dbc","vers":"0.1.0","deps":[{"name":"explode","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32bde6f74a5ae6a11b42b363a3b229be03aa0b8e1bf269b05f95cac81f3be5d7","features":{},"yanked":false}
+{"name":"datasus-dbc","vers":"0.1.1","deps":[{"name":"explode","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d271fe7d81346c0f41089c1427f3558dc31719a59a816b54ceb0f3667942e1a","features":{},"yanked":false}

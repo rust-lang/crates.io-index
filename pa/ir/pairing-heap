@@ -1,0 +1,1 @@
+{"name":"pairing-heap","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84b8dbffda1022d18ecdc44b5c7b6119135ce29639e542098de28f74157507ce","features":{"binary_heap_extras":[]},"yanked":false}

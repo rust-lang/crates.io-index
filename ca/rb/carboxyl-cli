@@ -1,0 +1,2 @@
+{"name":"carboxyl-cli","vers":"0.1.0","deps":[{"name":"carboxyl","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42260b429d6a6887e3021af05077191dc84b92056f97050cee8b3134f279a4f8","features":{},"yanked":false}
+{"name":"carboxyl-cli","vers":"0.1.1","deps":[{"name":"carboxyl","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d59658e62370dce5a5abbe744883000d6c420e10a2577cb6aa15b5f0e020056f","features":{},"yanked":false}

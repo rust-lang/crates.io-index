@@ -1,0 +1,2 @@
+{"name":"l8r","vers":"0.1.0","deps":[],"cksum":"e2ae9a4c18f98a36aa9a9b41a161ce1854779060592a06e0ccfcb56057af31ee","features":{},"yanked":false}
+{"name":"l8r","vers":"0.1.1","deps":[{"name":"hecs","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a79ad956a54daf5738722072ccac3e093d548eda6cbc36a14c45d46e427f4e0","features":{},"yanked":false}

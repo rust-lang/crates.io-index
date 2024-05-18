@@ -1,0 +1,2 @@
+{"name":"haiku-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f439e1f3c5cb6c4b2c1693befdff553ccd082a877e47568e1dda0a746eab4fc","features":{},"yanked":false}
+{"name":"haiku-sys","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22f41cd7ce8090fd38b890c135300e3e169484f451a9aea48cca1e3021f30dea","features":{},"yanked":false}

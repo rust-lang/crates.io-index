@@ -1,0 +1,2 @@
+{"name":"wrap","vers":"0.0.1","deps":[],"cksum":"2c466df85b7caf7db24ccf06906834db8a58fab61dd97f3722baa6d9d879efca","features":{},"yanked":false}
+{"name":"wrap","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe1448512ce8af61400abf971cf1ac3090ef0787caa31eb22c13a9a0d777a1ab","features":{},"yanked":false}

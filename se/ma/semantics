@@ -1,0 +1,1 @@
+{"name":"semantics","vers":"0.1.0","deps":[{"name":"semantics-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9584a83851bec6b6bec87361280f1a3c0e06a81e4179f2471b45f2b7c77a4cd","features":{"default":["semantics-derive"]},"yanked":false}

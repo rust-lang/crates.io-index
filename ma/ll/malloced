@@ -1,0 +1,7 @@
+{"name":"malloced","vers":"1.0.0","deps":[],"cksum":"0bff315479ea9c7f1cb0b603077030832f7841cfcf8de7ba3badc9b17b27451a","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
+{"name":"malloced","vers":"1.0.1","deps":[],"cksum":"16e64984de525a83b51a44f6561cba03cd22d9c4b7ad67913edc60cacdf525b8","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
+{"name":"malloced","vers":"1.1.0","deps":[],"cksum":"d1f1986e0c53fe06cc6ae463b1c2bb325cf13ad4d4aeca9fe567a0dd974e04c9","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
+{"name":"malloced","vers":"1.1.1","deps":[],"cksum":"05ded96cdb6fb20a136e12d15453d82617361197d584f7546b737a5e7cb22c52","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
+{"name":"malloced","vers":"1.2.0","deps":[],"cksum":"8406449b87975cd7fd43692b05cd957347c99fcebfb9210f8fcd70d40b92ebd0","features":{"default":["std"],"pin":[],"std":[]},"yanked":false,"rust_version":"1.42"}
+{"name":"malloced","vers":"1.3.0","deps":[],"cksum":"af97beab7d1ec1164466fb2c3d0fd9fcdbfb8b62f861bba25caa2109789736e9","features":{"default":["std"],"pin":[],"std":[]},"yanked":false,"rust_version":"1.64"}
+{"name":"malloced","vers":"1.3.1","deps":[],"cksum":"6dfebb2f9e0b39509c62eead6ec7ae0c0ed45bb61d12bbcf4e976c566c5400ec","features":{"default":["std"],"pin":[],"std":[]},"yanked":false,"rust_version":"1.64"}

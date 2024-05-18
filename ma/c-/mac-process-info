@@ -1,0 +1,2 @@
+{"name":"mac-process-info","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aedcdb7168e5c8f1d67f342dd6ed69963113039574bcd447c85a437e7dd625f1","features":{},"yanked":false}
+{"name":"mac-process-info","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bb6648b65cc40174967a26b2cd7a5d859a33a7cfeef7fd1007a50de62c1f2788","features":{},"yanked":false}

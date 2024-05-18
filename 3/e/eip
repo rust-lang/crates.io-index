@@ -1,0 +1,5 @@
+{"name":"eip","vers":"0.1.0","deps":[],"cksum":"1274e1df0e6d0bd4dd2654638d051a89a35a67690d4f2d549aa524fb65d8ccd0","features":{},"yanked":true}
+{"name":"eip","vers":"0.2.0","deps":[{"name":"nix","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"511ede1f386bb75eac6cba73cc749661e506da778ad1d1adeab77d9e4e2ed44b","features":{},"yanked":true}
+{"name":"eip","vers":"0.2.1","deps":[{"name":"nix","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"886820b584fa5b4343306332d07ccabb4e0f0c7fd43854e8da204e18672d9efc","features":{},"yanked":true}
+{"name":"eip","vers":"0.2.2","deps":[{"name":"nix","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e11da91b024b5f5b75a32c6daff7a654230949d58dc798344dfb251f0140a60","features":{},"yanked":true}
+{"name":"eip","vers":"0.2.3","deps":[{"name":"nix","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72cb6e67fe99d66e742d4983524aec8254dba37217a8ebe0a290bb52849e279d","features":{},"yanked":true}

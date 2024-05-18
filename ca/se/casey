@@ -1,0 +1,8 @@
+{"name":"casey","vers":"0.1.0","deps":[],"cksum":"92a7daa4deb1cd0b880a246d37477e17494e161d3f744994d63175710320b532","features":{},"yanked":false}
+{"name":"casey","vers":"0.1.1","deps":[{"name":"heck","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a7eaef24cf5d74eb1adafe3696d31638ee9119258b41b04d6475305f03bc97c","features":{},"yanked":false}
+{"name":"casey","vers":"0.2.0","deps":[],"cksum":"d231a40f6ac78c0b10257aa4be07708d323632eb9acd65911498892916e65bdf","features":{},"yanked":false}
+{"name":"casey","vers":"0.3.0","deps":[],"cksum":"20d9ee18af53e57701c9b9b2baafb1a9e9d2e749f1de6af021259255f47dde8b","features":{},"yanked":false}
+{"name":"casey","vers":"0.3.1","deps":[],"cksum":"5a17fc2ec7f349dd0223be053b0374bfb8718497b94934bd821107368158340b","features":{},"yanked":false}
+{"name":"casey","vers":"0.3.2","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd49ed9343931c40fd9d0d9787bda3ad10b00b455646a0d4239d00700a4b913","features":{},"yanked":false}
+{"name":"casey","vers":"0.3.3","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fabe85130dda9cf267715582ce6cf1ab581c8dfe3cb33f7065fee0f14e3fea14","features":{},"yanked":false}
+{"name":"casey","vers":"0.4.0","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"614586263949597dcc18675da12ef9b429135e13628d92eb8b8c6fa50ca5656b","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"epoch-converter","vers":"0.1.0","deps":[],"cksum":"4576d9fd6d026ab3a4a154bd6d542e66e9dc5a3c6b92fd00c880933327460e4e","features":{},"yanked":false}
+{"name":"epoch-converter","vers":"0.1.1","deps":[],"cksum":"82f36e03049327b02edc7e8224b54cc20cde398e46e99e3f0cc032ff315e9301","features":{},"yanked":false}
+{"name":"epoch-converter","vers":"0.1.2","deps":[{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bfd03edd6555d70141ee4991b43988c49b0ecbf10c2ca7e9f82308a6c6337cc","features":{},"yanked":true}
+{"name":"epoch-converter","vers":"0.1.3","deps":[{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0635f8c7494a7e8026e12531f3a32aee47c56a4c343b78f2e5ba63a067aff465","features":{},"yanked":false}

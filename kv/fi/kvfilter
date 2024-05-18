@@ -1,0 +1,3 @@
+{"name":"kvfilter","vers":"0.2.0","deps":[{"name":"slog","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a7317873530836f3ff592f3ec8608d5e465767ca4105d0574cdf164998c3ab7","features":{},"yanked":true}
+{"name":"kvfilter","vers":"0.3.0","deps":[{"name":"slog","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c836df917c71487424d11b51dab59c10ebbad3b5a0d69619998781be9d6243a9","features":{},"yanked":true}
+{"name":"kvfilter","vers":"0.3.1","deps":[{"name":"slog","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6f80b0f7e1d36b0753fa207073031db7ba84a9c6646c8e41e405feb95b74df","features":{},"yanked":true}

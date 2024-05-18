@@ -1,0 +1,2 @@
+{"name":"openfga_common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.145","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a0bb8ad5afe9b0c335d1703ec0b1477ecf22e59916f6a44dc4be8f46fd9597f","features":{},"yanked":false}
+{"name":"openfga_common","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.145","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21070ac992544ad682bbb491e7df77f7be46b658a014fa08396bb95da950cd5e","features":{},"yanked":false}

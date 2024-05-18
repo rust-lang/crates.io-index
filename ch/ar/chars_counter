@@ -1,0 +1,2 @@
+{"name":"chars_counter","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d543d5b3eb8d0b3eb69b33bcbfbdc1c6eee34117bf3bd54dca353902f69cc73b","features":{},"yanked":false}
+{"name":"chars_counter","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3c2af92ae29fb0ddd6af19fcadba3c7b22df02709455b231c04cacc2efebcbc","features":{},"yanked":false}

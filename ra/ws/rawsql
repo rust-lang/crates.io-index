@@ -1,0 +1,2 @@
+{"name":"rawsql","vers":"0.1.0","deps":[{"name":"postgres","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05a70b7d8022becb68df91a4d2d581bbc6207da21d536aa8e5e59f96e1b3555b","features":{},"yanked":false}
+{"name":"rawsql","vers":"0.1.1","deps":[{"name":"postgres","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f70b36c8415361d34d90adf494f45bc18e568f909b5946d27c79559ddd812fa8","features":{},"yanked":false}

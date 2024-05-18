@@ -1,0 +1,1 @@
+{"name":"pokeshell","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dfecae50520f0eec5d790648c0411d709da9a9698d9139f9eabfb40bb50c793","features":{},"yanked":false}

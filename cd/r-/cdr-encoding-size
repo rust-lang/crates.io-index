@@ -1,0 +1,2 @@
+{"name":"cdr-encoding-size","vers":"0.5.0","deps":[{"name":"cdr-encoding-size-derive","req":"~0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6284427c36501921fa5af3ef506ecc62bd068a48fe6c83b85a60a813cb70f9e9","features":{},"yanked":false}
+{"name":"cdr-encoding-size","vers":"0.5.1","deps":[{"name":"cdr-encoding-size-derive","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9ba34127578914d8674773f48f686c1df8f37bba0f5b88ab5c78ca04b7f2fb","features":{},"yanked":false}

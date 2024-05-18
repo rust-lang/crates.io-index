@@ -1,0 +1,2 @@
+{"name":"gen-vec","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.114","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"844f7d3c9639808fd446850ab984e4a5a1c64f58267e3d62db8b5ab763842870","features":{},"yanked":false}
+{"name":"gen-vec","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0.114","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6035fd4630046c6aca34713b768b340ace4d6b380883bb13c71d46ccde1fa4","features":{},"yanked":false}

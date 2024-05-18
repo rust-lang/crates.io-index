@@ -1,0 +1,2 @@
+{"name":"nitric","vers":"0.0.0","deps":[],"cksum":"3ea979025139e9d00bbaf5bcc15526a046f95e22ec47994351f9b194dc160577","features":{},"yanked":false}
+{"name":"nitric","vers":"0.0.1","deps":[{"name":"nitric-lock","req":"^0.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"336cbb9794cfdaee5ca2ea0596da47766c369c8e758d7ce6c53cfea4f0fede8e","features":{"lock":["nitric-lock"]},"yanked":false}

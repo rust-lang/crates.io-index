@@ -1,0 +1,1 @@
+{"name":"moto-rush","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"ee8996e18df5b033bc98dec6ec7678818abcc11c137bcb8d906b44f8a447c669","features":{},"yanked":false}

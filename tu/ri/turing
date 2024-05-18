@@ -1,0 +1,2 @@
+{"name":"turing","vers":"0.0.0","deps":[{"name":"bitvec","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35222c4c4dc5f18c6fc5a4e00f2417c2feb1e2bf9ebdaaf03bb5a7dbf88beb72","features":{},"yanked":false}
+{"name":"turing","vers":"0.1.0","deps":[],"cksum":"06a8e881c0636d5f41afc21a5b1c126ed752716d3dce417eee8804e79eeebd31","features":{},"yanked":false}

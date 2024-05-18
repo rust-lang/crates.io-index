@@ -1,0 +1,5 @@
+{"name":"localtime","vers":"1.0.0","deps":[],"cksum":"b58b1a2626b0920eec1d591e94c4feb3d1353695faad25c38f2a3c3efaf3db19","features":{},"yanked":false}
+{"name":"localtime","vers":"1.1.0","deps":[],"cksum":"f752d9826e5de9509879546e12b57259942fcbf2356bc2006f7da5f3fb2be587","features":{},"yanked":false}
+{"name":"localtime","vers":"1.2.0","deps":[],"cksum":"b2f2e37f115cdc432fcf760063d45a928f0ea80bcf10be3a6e516cbba883b15e","features":{},"yanked":false}
+{"name":"localtime","vers":"1.3.0","deps":[{"name":"serde","req":"^1","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71c67b83b03434bb31132aef0b314b8a49a0db55ce195c7e3c29d27bbf003819","features":{},"yanked":false}
+{"name":"localtime","vers":"1.3.1","deps":[{"name":"serde","req":"^1","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"016a009e0bb8ba6e3229fb74bf11a8fe6ef24542cc6ef35ef38863ac13f96d87","features":{},"yanked":false}

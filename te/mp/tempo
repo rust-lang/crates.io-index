@@ -1,0 +1,1 @@
+{"name":"tempo","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"756b137bc78c3d4f84da827e2b0afc81a3109b81c7ee1795a0ebe16d2580cb9d","features":{},"yanked":false}

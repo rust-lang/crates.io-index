@@ -1,0 +1,2 @@
+{"name":"totally-sound-ptr-int-cast","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.121","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db346d183f1e1e4a682f63a8aee2e7b1530bb044f7d4d9010d5600187d371460","features":{},"yanked":false}
+{"name":"totally-sound-ptr-int-cast","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.121","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daf0689fe3aa9bb6cb0b51ac67dec11eae7917a9a88542b15e924c3e2fd887f1","features":{},"yanked":false}

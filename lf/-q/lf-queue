@@ -1,0 +1,1 @@
+{"name":"lf-queue","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"4e2c450d70f884e4d9eab71db8b6228d2c1c51cc9847a3e15530b522d511ed68","features":{},"yanked":false}

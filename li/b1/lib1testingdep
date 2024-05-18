@@ -1,0 +1,2 @@
+{"name":"lib1testingDep","vers":"0.1.0","deps":[{"name":"lib2","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba9fd3c64c214be70a56a339e4660789f4bac7f823b4c92e4c040b41e3fd3b7a","features":{},"yanked":false}
+{"name":"lib1testingDep","vers":"0.2.0","deps":[],"cksum":"8d30188c65714368015de12fda819ffbd4c4051bc4f17e0517998a5ef11a9bf9","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"jkcenum_derive","vers":"0.2.0","deps":[{"name":"virtue","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa8c55a5005788939bd40ae7bb8a668a160973a71343bf144c697b53b74c10d","features":{},"yanked":false,"rust_version":"1.73"}
+{"name":"jkcenum_derive","vers":"0.2.1","deps":[{"name":"virtue","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26de351fa59ebd2fe8f6e2783deafca7254df2416435843d15f9f0cebb706442","features":{},"yanked":false}

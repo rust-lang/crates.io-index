@@ -1,0 +1,1 @@
+{"name":"dasp_frame","vers":"0.11.0","deps":[{"name":"dasp_sample","req":"^0.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b2a3937f5fe2135702897535c8d4a5553f8b116f76c1529088797f2eee7c5cd6","features":{"default":["std"],"std":["dasp_sample/std"]},"yanked":false}

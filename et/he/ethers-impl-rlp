@@ -1,0 +1,1 @@
+{"name":"ethers-impl-rlp","vers":"0.3.0","deps":[{"name":"rlp","req":"^0.5.2","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"66b459b53458261e9783d15e8aa924dae00ae4436ed35ffd3a6465dec626bc1d","features":{"default":["std"],"std":["rlp/std"]},"yanked":false,"rust_version":"1.56.1"}

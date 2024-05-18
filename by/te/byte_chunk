@@ -1,0 +1,2 @@
+{"name":"byte_chunk","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13d806769adb1fdd952ca677aea6b3a6243e5f08a02e96e78b1aa671a81b787c","features":{},"yanked":false}
+{"name":"byte_chunk","vers":"0.1.1","deps":[{"name":"bytes","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa9c0fee943551a5b063ababfa909e42e950cc9cbb89baeaf143c558a6551871","features":{},"yanked":false}

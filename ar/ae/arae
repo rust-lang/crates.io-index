@@ -1,0 +1,2 @@
+{"name":"arae","vers":"0.1.0","deps":[{"name":"loom","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39bc6ce1a7bbed0b55c8b5ec4d6a01602dc438cb3858be7428bef3fc7b187af9","features":{"atomic":[],"default":["atomic"]},"yanked":true}
+{"name":"arae","vers":"0.2.0","deps":[{"name":"loom","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf7873d41df226cb16cb7ce18c419a2eca90ae9720d07707f213fdf624f7e2e1","features":{"atomic":[],"default":["atomic"]},"yanked":false}

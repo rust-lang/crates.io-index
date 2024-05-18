@@ -1,0 +1,1 @@
+{"name":"taevus","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc56c5e3ef2b88f5108af45cc7d10ba08ab6f5c25f8449290aa9ef8f7623306f","features":{},"yanked":true}

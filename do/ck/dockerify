@@ -1,0 +1,2 @@
+{"name":"dockerify","vers":"0.0.1","deps":[{"name":"dialoguer","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c179ed6af20f6dcdcefb08c1596cf548fcccea9870d51cd37c209c13ee0632bb","features":{},"yanked":true}
+{"name":"dockerify","vers":"0.0.4","deps":[{"name":"dialoguer","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f0840089057d58d0188844a2e747d2aa31b491b8db8d7ad63ffc75b494300ef","features":{},"yanked":false}

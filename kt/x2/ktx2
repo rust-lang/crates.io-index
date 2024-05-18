@@ -1,0 +1,2 @@
+{"name":"ktx2","vers":"0.2.0","deps":[],"cksum":"31b4266a8007151e3f53486ec9dc8730638fcd8eaf262d2541cd47f9b92f753d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ktx2","vers":"0.3.0","deps":[{"name":"bitflags","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87d65e08a9ec02e409d27a0139eaa6b9756b4d81fe7cde71f6941a83730ce838","features":{"default":["std"],"std":[]},"yanked":false}

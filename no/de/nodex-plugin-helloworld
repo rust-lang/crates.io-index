@@ -1,0 +1,2 @@
+{"name":"nodex-plugin-helloworld","vers":"0.1.0","deps":[{"name":"nodex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"013bf7eba48dad039c9c41d9d9c119514d5a4e64a46c516e1a536e0d54d2057a","features":{},"yanked":false}
+{"name":"nodex-plugin-helloworld","vers":"0.2.0","deps":[{"name":"nodex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1d1925d31b7379a53b4dc8af806891b4e3982917ffcdb18439dce70799da0c","features":{},"yanked":false}

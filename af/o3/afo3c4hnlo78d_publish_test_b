@@ -1,0 +1,2 @@
+{"name":"afo3c4hnlo78d_publish_test_b","vers":"0.0.1-alpha.0","deps":[],"cksum":"627239196ea3565ec313f252da145da992dda7e826d9a04624b41472c1139217","features":{},"yanked":true,"rust_version":"1.69"}
+{"name":"afo3c4hnlo78d_publish_test_b","vers":"0.0.1-alpha.7","deps":[{"name":"afo3c4hnlo78d_publish_test_a","req":"^0.0.1-alpha.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56637c653b93e7e9d68f4971c958f8b6d7fd32ef903124f53e390a143415cb1b","features":{},"yanked":false,"rust_version":"1.69"}

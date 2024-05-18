@@ -1,0 +1,5 @@
+{"name":"cargo-build-git","vers":"0.1.0","deps":[],"cksum":"8c38aa496c677f23ed0bc10b4ea1b9131f87f98c95f3efb650e6fa819bcf43bf","features":{},"yanked":true}
+{"name":"cargo-build-git","vers":"0.1.1","deps":[],"cksum":"2c4d2c79821456088f9cb8879c094003a8f9322d7b3b4e86702fa6a5e5c3d54b","features":{},"yanked":true}
+{"name":"cargo-build-git","vers":"0.1.2","deps":[],"cksum":"91c10c84fcbe74df22609c3e39ea2a373c6e82f7ca592d7526f73f2c11f8e74c","features":{},"yanked":true}
+{"name":"cargo-build-git","vers":"0.1.3","deps":[],"cksum":"dda07967ad3d08ce5cd4728e2ed109d93d7134c3fe95c9376c8701f3ad90b0c3","features":{},"yanked":true}
+{"name":"cargo-build-git","vers":"0.2.0","deps":[{"name":"force_remove","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"622f3cf24faacf7993ec1c08de5829221b77b6b243bd59e507260e7d998e0bd0","features":{},"yanked":true}

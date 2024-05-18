@@ -1,0 +1,1 @@
+{"name":"cli-rng","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26470e2bde84370d5879782e5dc89d3344e20311f13a99e5eb08679dffaf9a2e","features":{},"yanked":false}

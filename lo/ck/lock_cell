@@ -1,0 +1,7 @@
+{"name":"lock_cell","vers":"0.1.0","deps":[],"cksum":"bb518795d6778bbb779c8c563bc91e83057cfa2c4034b2a3465d6c5cb3fcd694","features":{"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.2.0","deps":[],"cksum":"ef5de944dc77768f1856a73f759edc9cbd350f0e34b1f5f977549a5bc0e0583f","features":{"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.3.0","deps":[],"cksum":"d74765bc6743b031c9801dc85104f47538f3fb32c993b67de1717c5ff3bca795","features":{"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.4.0","deps":[],"cksum":"ede92bae54e7e2098cc77691463cdef55892c5c334269b74bdb9ab2a04d91496","features":{"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.5.0","deps":[],"cksum":"72075446c8d83fa133b0cdacfb53766333004df935ad7882fd4a2a3571a0c6d7","features":{"debug_lockcell":[],"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.5.1","deps":[],"cksum":"3ec29851f811f1c594d24cfa431bdd8f0399f980904c26d78a3f36806de90064","features":{"debug_lockcell":[],"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}
+{"name":"lock_cell","vers":"0.6.0","deps":[],"cksum":"20e800d20a92c1b54b647980eebaac9b047f4a39dfd246be42e96e6286948528","features":{"debug_lockcell":[],"default":["enable_std"],"enable_std":[],"logging":[]},"yanked":false}

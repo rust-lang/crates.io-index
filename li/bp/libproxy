@@ -1,0 +1,2 @@
+{"name":"libproxy","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5dd2de23c5959720811924d597f926f6dba5fc076ada85f35d361b252231fb1","features":{},"yanked":false}
+{"name":"libproxy","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"579703403a8f387e407bf0326c9ecd865bbd19bca62ca40f370870f8d8a0e7dc","features":{},"yanked":false}

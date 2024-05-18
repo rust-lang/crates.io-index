@@ -1,0 +1,5 @@
+{"name":"quick","vers":"0.1.0-alpha.1","deps":[],"cksum":"0581d3c84cc6338168249b5f7bad97866939680f48a9c1ce2192fcd4c76d98c1","features":{},"yanked":true}
+{"name":"quick","vers":"0.1.0-alpha.2","deps":[{"name":"libquickjs-sys","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e8798dadd9747e84745894bd0df132e56ebad9a3fac25010afc2841c87dcda2","features":{},"yanked":true}
+{"name":"quick","vers":"0.1.0-alpha.3","deps":[{"name":"libquickjs-sys","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1314fe1fe937834f39516bdaaa3e54ce60da1d2aa9ac610c07b4f6a21f15fd89","features":{},"yanked":true}
+{"name":"quick","vers":"0.1.0-alpha.4","deps":[{"name":"libquickjs-sys","req":"^0.1.0-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6c94a35a930f94be4071fc0f6aa239911ab15c6deb5acc6a5c4919da21e062a","features":{},"yanked":true}
+{"name":"quick","vers":"0.1.0-alpha.5","deps":[],"cksum":"826b06792a4da6fc1de31abcbdf021cc3c060764abeda6f1d3cf800159e1b90a","features":{},"yanked":false}

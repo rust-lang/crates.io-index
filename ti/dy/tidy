@@ -1,0 +1,2 @@
+{"name":"tidy","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ccc427931d6537208aa82a43850549fb0f64198f8198b77b679be695e5d3620","features":{},"yanked":false}
+{"name":"tidy","vers":"1.0.1","deps":[{"name":"clap","req":"^4.3.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8a801a6fc7029e67ce10f9134fd1f2103ccebc157387ea9990704b96f6a10df","features":{},"yanked":false}

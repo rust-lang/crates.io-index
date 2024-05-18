@@ -1,0 +1,2 @@
+{"name":"flash-mockstream","vers":"0.1.0","deps":[],"cksum":"030f5df9827b24eae1f84c3c038e69c5c9970cf38e363c0d1dfcf36962f05a2b","features":{},"yanked":false}
+{"name":"flash-mockstream","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio-io","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a815023491e876031b500ee28212d7afa52cb108f94710d356f15fead6e31cde","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hwio-types","vers":"1.0.0","deps":[{"name":"measurements","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38926a58836e62e3a4087906c2b9637445d85925f1c92cddd8c36a1b7b959be3","features":{},"yanked":false}
+{"name":"hwio-types","vers":"1.0.1","deps":[{"name":"measurements","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80ea73f7315c39b415f28730ee429b0c58138229e4872eb184aa4068530636c2","features":{},"yanked":false}

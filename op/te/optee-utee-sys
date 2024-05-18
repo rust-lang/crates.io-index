@@ -1,0 +1,2 @@
+{"name":"optee-utee-sys","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01ec00d2334accfede957af95c866bbf553eed3d32fd266efb92dc04885d8002","features":{},"yanked":false}
+{"name":"optee-utee-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f5eeba3ac40874361c210526959f7e2d274c96c7aeb8a5dd6f0921e12bc7c59","features":{},"yanked":false}

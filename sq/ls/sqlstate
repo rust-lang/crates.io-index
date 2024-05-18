@@ -1,0 +1,2 @@
+{"name":"sqlstate","vers":"0.0.0","deps":[],"cksum":"7d6cb2d7d2c7d5b1a7e03b866928dd6902ea70dbf14473dc9af573c9db360f37","features":{},"yanked":false}
+{"name":"sqlstate","vers":"0.1.0","deps":[{"name":"sqlstate-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a168b095dba67d954bc939e9c3fd056c5636cd063d51bb0b2d42610bcad675cf","features":{"postgres":[]},"yanked":false}

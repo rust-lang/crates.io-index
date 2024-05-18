@@ -1,0 +1,2 @@
+{"name":"finite-automata","vers":"0.1.0","deps":[{"name":"segment-map","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9aa10e98df2f5123c3fb2b9631b0241f27387643237975e2dbe0cebbaf8b805","features":{},"yanked":false}
+{"name":"finite-automata","vers":"0.1.1","deps":[{"name":"segment-map","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"420b72217e53a446f0282800cfe10330acb9142b7e8b4002936691f947a3cd40","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"smp","vers":"0.0.1","deps":[],"cksum":"613c12bf70e3dbd8bb506a9f434d1289af2805fb70c72e5272baf45b657b6184","features":{},"yanked":true}
+{"name":"smp","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2493e9aa24a18bbc3177f804e06d1047c44d863fada22788ea18e92d1a02b08a","features":{},"yanked":false}

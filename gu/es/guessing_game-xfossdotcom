@@ -1,0 +1,2 @@
+{"name":"guessing_game-xfossdotcom","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e44d7613fbb19d25efa3bee971995ea32a7257545ff0cae8fa48aca39f284d8","features":{},"yanked":true}
+{"name":"guessing_game-xfossdotcom","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b44046f692385cfd315043f02c85fc0e8cc716c8f0fbaea1c91a15c2767f3c7","features":{},"yanked":false}

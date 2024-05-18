@@ -1,0 +1,6 @@
+{"name":"grabbag_macros","vers":"0.0.1","deps":[],"cksum":"f75fae0de708340ed87bcdecdf154d3ca4a0e1efb0340846a88f3a668a4ef24e","features":{},"yanked":false}
+{"name":"grabbag_macros","vers":"0.0.2","deps":[],"cksum":"8b35d7cbdf9604fead0d04ccc5522746ada58fd4f7a43b888ad9162bcc8dc7f3","features":{},"yanked":false}
+{"name":"grabbag_macros","vers":"0.0.3","deps":[],"cksum":"12a3b52da727a78b67ca19e9a76697fe233a5b904f463ee6ff44be2b535652cc","features":{},"yanked":false}
+{"name":"grabbag_macros","vers":"0.0.4","deps":[],"cksum":"83395387345e68117dad04f424b0391688cb7c61ec5fc1f88ae52a0b2e066fc5","features":{},"yanked":false}
+{"name":"grabbag_macros","vers":"0.1.0","deps":[],"cksum":"320bfa39bf645cbdee3315c5eb482dc0b08bca676dbaace324e8d6eace67bfb2","features":{},"yanked":false}
+{"name":"grabbag_macros","vers":"0.1.2","deps":[{"name":"rustc_version","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7d195160117d038ccc7b7daecf26790296dc3a8fc40e1dd0fdd368e6c7deac6b","features":{},"yanked":false}

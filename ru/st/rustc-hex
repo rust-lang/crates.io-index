@@ -1,0 +1,4 @@
+{"name":"rustc-hex","vers":"1.0.0","deps":[],"cksum":"0ceb8ce7a5e520de349e1fa172baeba4a9e8d5ef06c47471863530bc4972ee1e","features":{},"yanked":false}
+{"name":"rustc-hex","vers":"2.0.0","deps":[],"cksum":"d2b03280c2813907a030785570c577fb27d3deec8da4c18566751ade94de0ace","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rustc-hex","vers":"2.0.1","deps":[],"cksum":"403bb3a286107a04825a5f82e1270acc1e14028d3d554d7a1e08914549575ab8","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rustc-hex","vers":"2.1.0","deps":[],"cksum":"3e75f6a532d0fd9f7f13144f392b6ad56a32696bfcd9c78f797f16bbb6f072d6","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"doc_consts","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dd0b4038e585d358273cf4c5e24f96c21997bc3008b2f4eec43e295705e7cd7","features":{},"yanked":false}
+{"name":"doc_consts","vers":"0.2.0","deps":[{"name":"doc_consts_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc5f9d3a31a423513ead19f38e4419dcdb8fce10ff86d4b3d056027e537d6446","features":{},"yanked":false}

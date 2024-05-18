@@ -1,0 +1,2 @@
+{"name":"file_log","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"961b9bb44eaf1ff2dd2eef5085517fe0ba5ceb100a72ab40f96a1b2dc4fdc841","features":{},"yanked":false}
+{"name":"file_log","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eb716a103b5bc0f022f30ec921cb8ee2e145855d11b17ff368c582ab011198d","features":{},"yanked":false}

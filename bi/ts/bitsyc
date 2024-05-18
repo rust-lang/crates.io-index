@@ -1,0 +1,2 @@
+{"name":"bitsyc","vers":"0.1.0","deps":[],"cksum":"6396dade01481016a9563a329a3030cf860ee1f5d229c7612ec838a78ba6a9f3","features":{},"yanked":false}
+{"name":"bitsyc","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4.3.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"593386cfa6f9a3f907cb95729956a5285c50deff2a279c9691aa831ce9dc805f","features":{},"yanked":false}

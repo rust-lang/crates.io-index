@@ -1,0 +1,4 @@
+{"name":"circle_buffer","vers":"0.1.0","deps":[],"cksum":"a4f27c267bb783a604242f182b9bf3b412168d3d819a860d988fb0046dfdab4c","features":{},"yanked":false}
+{"name":"circle_buffer","vers":"0.1.1","deps":[],"cksum":"976d4083e43c4e159cdbc1072236893b57c0cc74aff0c3a42edffbd9ba6ef659","features":{},"yanked":false}
+{"name":"circle_buffer","vers":"0.1.2","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d070bf4b3dc70c7d5b4e1eff6e4d8a5d020e7ba70541874c5a1490fc1ac18b76","features":{},"yanked":false}
+{"name":"circle_buffer","vers":"0.1.3","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"217bdf02ba6a5fe932e740e7df844da58791b618e221b0409e522dbc4f3139ca","features":{},"yanked":false}

@@ -1,0 +1,11 @@
+{"name":"cycle","vers":"0.0.1","deps":[],"cksum":"82ba6933b64353b2930550002738a51ff94388ef7636b253060eae635584fba5","features":{},"yanked":false}
+{"name":"cycle","vers":"0.0.2","deps":[],"cksum":"6443a5bd02b4113693fe73d4a627c5d8b37fe0e5bff0f8ca25ee3b7ec43fef2b","features":{},"yanked":false}
+{"name":"cycle","vers":"0.0.3","deps":[],"cksum":"74ab7ecb81cdbce6faf1f6f66b1cadd9b03091002e8a8f0f4af152723b818274","features":{},"yanked":false}
+{"name":"cycle","vers":"0.0.4","deps":[],"cksum":"26110ce785579f3de602b0e562d408d63482c465210ef2324e56c68f85615f89","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.1.0","deps":[],"cksum":"3ef548f7e24cccb2d3870a2f28b772e6df23a3dab18311a6cf5cf692eab6bf35","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.1.1","deps":[],"cksum":"6661cae95b81d82026bfb106b5182b230c849f6e1822f0623f400fd8b5b21e91","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.2.0","deps":[],"cksum":"dfc242d0dbc9f420c1c3c84ca84ae580bd75040ea0ae54019e93c990528c3e46","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.2.1","deps":[],"cksum":"7ca2d8cd1ebc2bd1324a01eb58b16a5a73e919db4415500c4d74cf160a9a83a8","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.3.0","deps":[],"cksum":"2bf22ffd3925d3e0c15754ca9e7b5812089a57fbe65341e0b844b9bbb3a59302","features":{"cycle_lang":[],"cycle_num":[],"cycle_plot":[],"default":["cycle_lang","cycle_num","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.4.0","deps":[],"cksum":"63525c91d110796b2f9d179ebfab405ca52a1e1721a0ad62f4a30665292bcabf","features":{"cycle_lang":[],"cycle_num":[],"cycle_plot":[],"default":["cycle_lang","cycle_num","cycle_plot"]},"yanked":false}
+{"name":"cycle","vers":"0.4.1","deps":[],"cksum":"9a201fd42feca1f6c1905a656397022fa9f6977741847b944849f84ad584b539","features":{"cycle_lang":[],"cycle_num":[],"cycle_plot":[],"default":[]},"yanked":false}

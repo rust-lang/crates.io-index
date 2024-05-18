@@ -1,0 +1,1 @@
+{"name":"crude","vers":"0.0.1","deps":[{"name":"clap","req":"~4.1.8","features":["derive","wrap_help"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e830ec93ecce344896371e54d8b8e2f4536cc732260b4567327eed4b3e3b347","features":{},"yanked":false,"rust_version":"1.67.0"}

@@ -1,0 +1,2 @@
+{"name":"pleingres-sql-plugin","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"303009b6bf8594461805dfebd3e7aa7c6636e7f57ffe491e1c29ccace1885754","features":{},"yanked":false}
+{"name":"pleingres-sql-plugin","vers":"0.2.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d55b48f85777ddf6ca8d60f52d8b8bae8777ee106983220c7c2b7a0c0886d6b","features":{},"yanked":false}

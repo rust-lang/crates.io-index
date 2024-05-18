@@ -1,0 +1,5 @@
+{"name":"hamming-heap","vers":"0.1.0","deps":[],"cksum":"79d69f3d69cd14ef048db0580f0707e11a4cdb45005a1144a39309dc166a92b9","features":{},"yanked":false}
+{"name":"hamming-heap","vers":"0.2.0","deps":[],"cksum":"fe66567cb5f90a95b269aa09a08418ef2f6a0cf45e6870794737174038fa4bed","features":{},"yanked":false}
+{"name":"hamming-heap","vers":"0.3.0","deps":[{"name":"generic-array","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a31b72fd949acbcc3e4b2ba01953dc75f95c399b43f3cb745157e5639c073cd","features":{},"yanked":false}
+{"name":"hamming-heap","vers":"0.4.0","deps":[],"cksum":"71f41b779949ca84c29e0cc47a554f48912913945a669a314923513cf33b7425","features":{},"yanked":false}
+{"name":"hamming-heap","vers":"0.4.1","deps":[],"cksum":"511067480a9ea6ce930baf896bb2e192e9ff9381b2b0f96703ff4956062592bf","features":{},"yanked":false}

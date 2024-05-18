@@ -1,0 +1,2 @@
+{"name":"bevy_cameraman","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a8e2e577fc7831b1b3b637cae39b14ef73289977c1654dacd9fb9ad9d08173b","features":{},"yanked":false}
+{"name":"bevy_cameraman","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3de6ad474574f0c57ec848f23bc8b623bfe432356a18abbc82406831fdad0146","features":{},"yanked":false,"rust_version":"1.73.0"}

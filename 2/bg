@@ -1,0 +1,3 @@
+{"name":"bg","vers":"0.1.0","deps":[],"cksum":"6d5f12c8071bda2f8af82d2943196bd55f395d799048ea06204da0e15398f8b4","features":{},"yanked":false}
+{"name":"bg","vers":"0.1.1","deps":[],"cksum":"4cfe75e297d4d6cb5387c13a627dca01620ab396791b7dcfbd6ec6ea2d539a6d","features":{},"yanked":false}
+{"name":"bg","vers":"0.2.0","deps":[{"name":"ghost-lite","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37a8c19859bd78a2d51f2aba8dac261bcd0dcb30881a89b4c8157c2cd1986982","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pel","vers":"0.1.0","deps":[{"name":"glutin","req":"^0.22","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"ogl33","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63b5b0d18ac236e38c03611a451e3033c2a1dc7f9c0780f28b87228ed65eb177","features":{},"yanked":false}

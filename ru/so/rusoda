@@ -1,0 +1,1 @@
+{"name":"rusoda","vers":"0.1.0","deps":[{"name":"env_logger","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"962e0d37963446d36ddfda793091d8899e8733aed85f306ebe6b9726097382a5","features":{},"yanked":false}

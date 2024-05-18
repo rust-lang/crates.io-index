@@ -1,0 +1,1 @@
+{"name":"slam","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c244b4cb5cb9ef26e114b1aa2ec4eb78806fc7a59961caa569efc7e6effa546d","features":{},"yanked":false}

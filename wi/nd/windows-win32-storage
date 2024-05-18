@@ -1,0 +1,5 @@
+{"name":"windows-win32-storage","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5df1308c137ae3f4e0a4d3a6f4ce1c4a7f9f1c074182741522988857cdc92248","features":{},"yanked":false}
+{"name":"windows-win32-storage","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a8b222251683bb798f78fe2023f6898910de614807d33b3d67e6d4db12a58c5f","features":{},"yanked":false}
+{"name":"windows-win32-storage","vers":"0.22.5","deps":[],"cksum":"5beea39189354cdb64b5575fdf332e7554235967b925620ab816b1544786de31","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-storage","vers":"0.22.6","deps":[],"cksum":"e9ab253221f689e4459690144367c51f7ed085791203bf2dfc8e93538f475479","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-storage","vers":"0.23.0","deps":[],"cksum":"26ef33b8e95a42baf3024c26cf617b5a2f33ca8a2f14dff1a8047f4765657a9f","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"takeable","vers":"0.1.0","deps":[{"name":"unreachable","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4554a4dd9b87496aa0b017f31d6dc91ea737b93c0f3794e079be32a95f1c2557","features":{"default":["microoptimization"],"microoptimization":["unreachable"]},"yanked":false}
+{"name":"takeable","vers":"0.2.0","deps":[],"cksum":"67acf4404418a2952b58d68e3afe88d589dbbffbbd0ef732d7aae3c66d94ec45","features":{},"yanked":false}
+{"name":"takeable","vers":"0.2.1","deps":[],"cksum":"9547e810f092dfda782605fc3559931d16e9052af01bd7e1e467393e73ed88a9","features":{},"yanked":false}
+{"name":"takeable","vers":"0.2.2","deps":[],"cksum":"7efe11d01772262041364ebf855e0c6c9e2bd0dd4f059083e540a5f1cda69477","features":{},"yanked":false}

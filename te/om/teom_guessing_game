@@ -1,0 +1,2 @@
+{"name":"teom_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb5b3509eb767a090d3e83a96e54930538c8bd6839ea62597b4160d0ca066ef","features":{},"yanked":false}
+{"name":"teom_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28be0a5dedc9da4970abe100f069aff8bb049cf24940d211f3dd695ed75f94f3","features":{},"yanked":false}

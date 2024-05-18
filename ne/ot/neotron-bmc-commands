@@ -1,0 +1,2 @@
+{"name":"neotron-bmc-commands","vers":"0.1.0","deps":[{"name":"num_enum","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3095bcf228a18ec534daa93d78c515304b2f6914b6698320df7444beef3ed2e1","features":{},"yanked":true}
+{"name":"neotron-bmc-commands","vers":"0.2.0","deps":[{"name":"num_enum","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6efa49a652e9172a28e0fecbf99f21ae7b320931fcef3a2638c8870428cadc01","features":{},"yanked":false}

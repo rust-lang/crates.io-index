@@ -1,0 +1,2 @@
+{"name":"altcoin-bech32","vers":"0.11.0","deps":[{"name":"bech32","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2773a38584cb982a5d36aca67a6843dffab99dd4df01314756148663299e4a4e","features":{"strict":[]},"yanked":false}
+{"name":"altcoin-bech32","vers":"0.12.1","deps":[{"name":"bech32","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f961a36f1fede93b8883aab9b51ae5a713ee56745dd1f4b9e47ac5d105226352","features":{"strict":[]},"yanked":false}

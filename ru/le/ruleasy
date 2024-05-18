@@ -1,0 +1,4 @@
+{"name":"ruleasy","vers":"0.1.0","deps":[],"cksum":"b306618ed062c7530bbd986cf1cb0e3f6f3adee9696e26a22065f24c09e1e6d7","features":{},"yanked":false}
+{"name":"ruleasy","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef05db546f620812d113ddaf4c2fdcca56f5747a3674f5d44ac71233dd52e1f","features":{},"yanked":false}
+{"name":"ruleasy","vers":"0.1.2","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7a3d25cb9da46c2fa78a22a81b5383adf298e80a881683c28eb94725b2425c2","features":{},"yanked":false}
+{"name":"ruleasy","vers":"0.1.3","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74b334ba7cd1288698a4314bc6348ccef3bb808a64779c542b7775778e331442","features":{},"yanked":false}

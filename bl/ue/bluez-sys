@@ -1,0 +1,1 @@
+{"name":"bluez-sys","vers":"0.4.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e9f344cd9b51853e561b7d70ebc48ac5c0589878533981de24ac0959758aa106","features":{},"yanked":false}

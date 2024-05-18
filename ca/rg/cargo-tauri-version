@@ -1,0 +1,2 @@
+{"name":"cargo-tauri-version","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0.108","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24e9314f3624f92eaca933fc1a4ae896b4713374a579165e7b681eac7a1039a9","features":{},"yanked":true}
+{"name":"cargo-tauri-version","vers":"1.0.1","deps":[{"name":"serde_json","req":"^1.0.108","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45df219a8b66ed813499150774a2bedadc58d18045294f6043c82c1272494296","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"laravel","vers":"0.1.0","deps":[],"cksum":"adee67f182ffcc74819d85a8fbeb9924d8809662bece898bc864b19bbc7567e0","features":{},"yanked":false}
+{"name":"laravel","vers":"0.1.1","deps":[{"name":"yaml-rust","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab5f95a21ef63350a94d2d4661e717fc6cf2901d6e95643ab3eec4499991c69","features":{},"yanked":false}
+{"name":"laravel","vers":"0.1.2","deps":[{"name":"yaml-rust","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ba377a8996438e07d9374b4b4f4aa77bba6ce446ca7f6b03168c11c98a8f3b","features":{},"yanked":false}
+{"name":"laravel","vers":"0.1.3","deps":[{"name":"yaml-rust","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c1d323782e6e1c96775ebebdb8910ab028d8c2e3325234c915d2b574807a14a","features":{},"yanked":false}
+{"name":"laravel","vers":"0.1.4","deps":[],"cksum":"fa3a8a346c9860395cf543c5f93abd2e9e2540cf70c549778f58cd1564656fa9","features":{},"yanked":false}

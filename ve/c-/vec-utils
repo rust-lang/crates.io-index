@@ -1,0 +1,7 @@
+{"name":"vec-utils","vers":"0.1.0","deps":[],"cksum":"b5387322bf9e5892c810649545e5dfaea88376c8167f5db2ec905e3000a41015","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.1.1","deps":[],"cksum":"6388976b78edf1e2555ad25fa061e885874d2a82c3a6cfed961d9a33fc346082","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.1.2","deps":[],"cksum":"2a953b52f7eb7ef1d439f48ec4f074251b42785a99229018b2ca47d2702006e5","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.1.3","deps":[],"cksum":"08f1b16336b1645b30f371be71e64e8adcf3c3d49b2e229366ac24445b5a9b27","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.1.4","deps":[],"cksum":"db729d6d9b743359e8425aef9418bceaeaf85d78e619ecda1442b73838789d07","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3868b2bf53cad2fac27ab790c8072df4d41cb4a37f543a4744646436bc2b03f","features":{},"yanked":false}
+{"name":"vec-utils","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6dac984aa016c26ef4ed7b2c30d6a1bd570fd40a078caccaf6415a2ac5d96161","features":{},"yanked":false}

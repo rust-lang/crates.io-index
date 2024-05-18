@@ -1,0 +1,1 @@
+{"name":"solana-workflow","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.29.0","features":["init-if-needed"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0478c40ee568fe2b16dba6bfa45b625d1798b136945f28b9e2eecb8c5100767","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

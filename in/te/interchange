@@ -1,0 +1,8 @@
+{"name":"interchange","vers":"0.0.0","deps":[],"cksum":"e0c848d9527a0918966ba3dc3f3c805f1828f33d1d84ff41c5130373079e6462","features":{},"yanked":false}
+{"name":"interchange","vers":"0.1.0","deps":[],"cksum":"91bbac5eb0205c6930a6467de89800d42ae9edd583f6cf0466ddfca3004c0a01","features":{},"yanked":false}
+{"name":"interchange","vers":"0.1.1","deps":[],"cksum":"e8edac3dbf91197d7eb362bcc6a0cbbc8be882349b6bf1b3d6fbae2e3407f7c7","features":{},"yanked":false}
+{"name":"interchange","vers":"0.1.2","deps":[],"cksum":"c8ce3616249379824bd12aaeab190fafc62cb8a2259a7d030bd854a91dcb9c14","features":{},"yanked":false}
+{"name":"interchange","vers":"0.2.0","deps":[],"cksum":"ec98c672a75e1c879989f744b4d36c68a15fc4a4dd6c9806d6ca24e8704a7bd3","features":{},"yanked":true}
+{"name":"interchange","vers":"0.2.1","deps":[],"cksum":"65d9ab155e6b8e53ae742a06a850b2645e333d40d89ef2e28f190763742d768c","features":{},"yanked":false}
+{"name":"interchange","vers":"0.2.2","deps":[],"cksum":"310d743c23f798f10d5ba2f77fdd3eff06aaf2d8f8b9d78beba7fb1167f4ccbf","features":{},"yanked":false}
+{"name":"interchange","vers":"0.3.0","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"92cfaa4be499da454ab279e04dee4837e71b3803eced4bd2b4cdec4bb3377b4f","features":{},"yanked":false}

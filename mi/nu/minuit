@@ -1,0 +1,2 @@
+{"name":"minuit","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.35.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc82992e5a83671cd6e1143a915e2ba9da4dfc1b5e6d04a1b4e352fe32adf3d2","features":{},"yanked":true}
+{"name":"minuit","vers":"0.2.0","deps":[{"name":"sdl2","req":"^0.35.1","features":["ttf"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5fb80924c5e33fa6d7daafee200b8bb3953f898178453e8d1c236319dfc6279a","features":{},"yanked":true}

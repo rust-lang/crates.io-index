@@ -1,0 +1,12 @@
+{"name":"releasetag","vers":"0.1.0","deps":[],"cksum":"463217038bab710a5838e06472552795ba7dcde0608af92d79bf28c44f66a7bb","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.2.0","deps":[{"name":"bytestool","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"485fb8d70d315aa7a7286f7ddcab689146d68b0972fe72e1d481cc50f624189d","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.3.0","deps":[{"name":"bytestool","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e61b06f5865f06dac231a1e4d3ca2f0f64b13a8724985414eb95705a6de0c99b","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.4.0","deps":[{"name":"bytestool","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d33b8214bab6f340de50b935c8ce57073974b09ff7a9041e149bb9cf5316d24e","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.5.0","deps":[{"name":"bytestool","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfaaf6fe7764a4999f763f0ed97654b029bbaba3c6a5ec81c2bd62c28241de0d","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.6.0","deps":[{"name":"bytestool","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06939b6f5b3c06e043809ad6d5754e1e747e84f7d7633d432b31630cdd538905","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.7.0","deps":[{"name":"bytestool","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b5147541c03bae2297e5940c19faa5f433394d8c99600b3337ea1e83edb09a0","features":{},"yanked":true}
+{"name":"releasetag","vers":"0.8.0","deps":[],"cksum":"3f078ad3c0bab2a7d3a28013aac2a3c044d44eb7f3f8f1a0a2ea7640e8b43943","features":{},"yanked":false}
+{"name":"releasetag","vers":"1.0.0","deps":[],"cksum":"dbb7be282a7a44291fbde603f3e52b2fbe4dbac8c1e047b11f4804655cce50b2","features":{},"yanked":false}
+{"name":"releasetag","vers":"1.0.1","deps":[],"cksum":"9dc9f3c1863767207087f9e66047673791656d28e3cfcd9a24d34aaddee5190c","features":{},"yanked":false}
+{"name":"releasetag","vers":"1.0.2","deps":[],"cksum":"75716b81b17f79aa1bef7e2e2e276b9577a496480d8483a706663f3cb480dbbb","features":{},"yanked":false}
+{"name":"releasetag","vers":"1.1.0","deps":[],"cksum":"2e81ef590dc29f05761106452f821e1731ccb92fd17d52aad00c5b9d76a7c951","features":{},"yanked":false}

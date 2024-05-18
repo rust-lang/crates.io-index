@@ -1,0 +1,5 @@
+{"name":"mars-t","vers":"0.0.0-alpha.1","deps":[],"cksum":"7a21b4b38023b926180f78f7921f7b44acb3ac74248481f6aab0cd932dfa7882","features":{},"yanked":true}
+{"name":"mars-t","vers":"0.0.0-alpha.2","deps":[],"cksum":"653e82875cb9fb389c43e854985d68570e775078d9f64dd931020af9b0af4956","features":{},"yanked":true}
+{"name":"mars-t","vers":"0.1.0","deps":[{"name":"hifitime","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c788f746a8a0f887506036c136fe6f9f329609bf2a899f75392bb524f54cca57","features":{},"yanked":false}
+{"name":"mars-t","vers":"0.2.0","deps":[{"name":"hifitime","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42f51ca4879a38fc754bbc4d4ce1929cb086bb611d0ea427274e0e6c27b4afdb","features":{},"yanked":false}
+{"name":"mars-t","vers":"0.2.1","deps":[{"name":"hifitime","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed260b3bf37ce8c1e6e115e6ff4c4d0093a6efcc8ac4096064e3be6bc2195706","features":{},"yanked":false}

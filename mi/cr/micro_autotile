@@ -1,0 +1,1 @@
+{"name":"micro_autotile","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.8.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78eda07db196df5c028f17242e7f5e9fd26efadf83d1e10d4927b56754155996","features":{"default":["impl_fastrand"]},"features2":{"impl_fastrand":["dep:fastrand"]},"yanked":false,"v":2}

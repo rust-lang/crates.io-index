@@ -1,0 +1,3 @@
+{"name":"rslexer","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b6156d77fb267ac0dbbdd7de73895c3e7be33c9e7114281558c8ebf9087875c","features":{},"yanked":true}
+{"name":"rslexer","vers":"1.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d258f09fc37419bf3c6b6d7ef1a1c6322864c96f8b4b815a1aac6090d093815f","features":{},"yanked":true}
+{"name":"rslexer","vers":"1.0.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb211ef386a2d25bddaa78d6ed579d6b48c2e878eca1ff2587d1b67d2a6ee61f","features":{},"yanked":true}

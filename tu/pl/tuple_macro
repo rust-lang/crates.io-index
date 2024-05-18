@@ -1,0 +1,4 @@
+{"name":"tuple_macro","vers":"0.1.1","deps":[],"cksum":"7a371eddad8e06f71ea90d650220d35e787f614253860636e75333566417171a","features":{"16":[],"32":[],"64":[]},"yanked":false}
+{"name":"tuple_macro","vers":"0.2.0","deps":[],"cksum":"cbffd725338992be71ff9abb3a8d373845bdff0254e5187cd9ca4497c2296453","features":{"tup_len_16":[],"tup_len_32":[],"tup_len_64":[]},"yanked":false}
+{"name":"tuple_macro","vers":"0.2.1","deps":[],"cksum":"f6ec7262878991ed53f2fb919eb9c8d16a6bbb7d0d1d188a81948cf85bae5a1a","features":{"from_tup_16":[],"from_tup_32":[],"from_tup_64":[],"tup_len_16":[],"tup_len_32":[],"tup_len_64":[]},"yanked":false}
+{"name":"tuple_macro","vers":"0.2.2","deps":[],"cksum":"c1c6ae5c14e8382459a954c425d64be7935c783e494203f2c240e44f685e398c","features":{"from_tup_16":[],"from_tup_32":[],"from_tup_64":[],"from_tup_8":[],"tup_len_16":[],"tup_len_32":[],"tup_len_64":[]},"yanked":false}

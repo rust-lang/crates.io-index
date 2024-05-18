@@ -1,0 +1,1 @@
+{"name":"url-decoder","vers":"0.1.0","deps":[{"name":"clap","req":"^2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"580f1ec53e12a7b1d265072d7b7b56b56c3377d7d73591abf8f09d73d5096380","features":{},"yanked":false}

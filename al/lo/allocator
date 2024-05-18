@@ -1,0 +1,1 @@
+{"name":"allocator","vers":"0.0.2","deps":[{"name":"checked_cast","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b2a35e7d3547aa1d67c520c86a6f3e458d72da43040bd94acdc5d7265bfc28b","features":{"default":["std"],"libc":[],"std":["libc"]},"yanked":false}

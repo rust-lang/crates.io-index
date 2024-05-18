@@ -1,0 +1,3 @@
+{"name":"pspsdk-sys","vers":"0.0.1","deps":[],"cksum":"17e43ebb1fc27158871767f35e5715ed492d011a6f4df2918db2ac33a1a1a285","features":{},"yanked":true}
+{"name":"pspsdk-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a47be07e24f5e43039c72269fd08cdc01c3d5fa06486cc24c15a7c4954664f","features":{},"yanked":true}
+{"name":"pspsdk-sys","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7d40b57b0fec406dc1febd76e468d1965c7a73233dab181edd7475daceb1f49b","features":{},"yanked":true}

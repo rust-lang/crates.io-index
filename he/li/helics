@@ -1,0 +1,1 @@
+{"name":"helics","vers":"0.1.0","deps":[{"name":"helics-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5d84f597f45009d3146e1ceb8262928346d9a09dcd91106b904c8513235062e","features":{},"yanked":false}

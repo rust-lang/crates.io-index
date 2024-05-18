@@ -1,0 +1,1 @@
+{"name":"fakeenv","vers":"0.1.0","deps":[{"name":"dirs","req":"^2.0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"308170aef09eac65d8798a06d6514e2a3cd8f28ecf5cd0fc7b17ed91033dcaca","features":{"__doc_cfg":[],"default":["dirs","fake"],"fake":[]},"yanked":false}

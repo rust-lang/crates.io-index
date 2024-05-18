@@ -1,0 +1,5 @@
+{"name":"rust-tfidf","vers":"1.0.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16ca94f2385184087256d2af27ff2068181f8b0eac6d3535f59d708ea777e0e4","features":{},"yanked":false}
+{"name":"rust-tfidf","vers":"1.0.3","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7981c88a72b78e374bc6c3780d02ac50737cdc40d2aec5cb765da7431e3a62e","features":{},"yanked":false}
+{"name":"rust-tfidf","vers":"1.0.4","deps":[{"name":"num","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cf6b9e6558fa0cfd3a1f25a7121f939567aa628a546b51d12254a56f14afc63","features":{},"yanked":false}
+{"name":"rust-tfidf","vers":"1.1.0","deps":[],"cksum":"4f91a0bd2f4285cc12ef341dee3e9d371de7b4a3d0776ca07488943836ac2031","features":{},"yanked":false}
+{"name":"rust-tfidf","vers":"1.1.1","deps":[],"cksum":"ba645a24c2f02d569e5bb4178e3ce8c82fce061888901e939d989ca67f2b4ce6","features":{},"yanked":false}

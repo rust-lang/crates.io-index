@@ -1,0 +1,1 @@
+{"name":"snake_cased","vers":"0.1.0","deps":[{"name":"snake_cased_derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4586c5a1e13fd7b00552c861116077f2f60ec4b94092671bf1998e6adb462d25","features":{"derive":["snake_cased_derive"]},"yanked":false}

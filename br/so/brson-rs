@@ -1,0 +1,1 @@
+{"name":"brson-rs","vers":"0.1.0","deps":[{"name":"brotli","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bson","req":"^2.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"686174b7518e9bf263b48e44df6b3e095f52ee1dfc4fbda070710f28c7e1f9a8","features":{},"yanked":false}

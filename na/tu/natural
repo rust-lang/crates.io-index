@@ -1,0 +1,6 @@
+{"name":"natural","vers":"0.2.0","deps":[],"cksum":"d0b0180abce66ac4d2466ccda4d24564ff59ac06fbcf5351342497dfb871aff5","features":{},"yanked":false}
+{"name":"natural","vers":"0.2.1","deps":[],"cksum":"944731b3565032ff2832452456db2b97d517b3c24d0913d8e96229e8945a28c8","features":{},"yanked":false}
+{"name":"natural","vers":"0.2.2","deps":[],"cksum":"3b2bb0c8e9f45c905076bbadc4cae881df59acdaf3dbe7c4f07512115df3645a","features":{},"yanked":false}
+{"name":"natural","vers":"0.3.0","deps":[],"cksum":"fd659d7d6b4554da2c0e7a486d5952b24dfce0e0bac88ab53b270f4efe1010a6","features":{},"yanked":false}
+{"name":"natural","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d805e37753eeaa9633971273ae1982e3d66bb10d352ce187a8ede494f45e911d","features":{"default":[],"serde_support":["serde"]},"yanked":false}
+{"name":"natural","vers":"0.5.0","deps":[{"name":"rust-stemmers","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65e6b44f8ddc659cde3555e0140d3441ad26cb03a1410774af1f9a19097c1867","features":{"default":[],"serde_support":["serde"]},"yanked":false}

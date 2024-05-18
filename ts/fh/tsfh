@@ -1,0 +1,1 @@
+{"name":"tsfh","vers":"0.75.0","deps":[{"name":"embed-resource","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"build"}],"cksum":"d2975ddbdc03c6dd27b37354b5d0b8883f2067d20afe71340425f82d79ff03f7","features":{},"yanked":true,"rust_version":"1.69"}

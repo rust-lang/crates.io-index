@@ -1,0 +1,2 @@
+{"name":"csq","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"249d2f6bee5c35bb2523e60f594b84632f59bbd4a1c8972c545c23e948b20618","features":{},"yanked":false}
+{"name":"csq","vers":"0.2.1","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf7885b7af7ee8f2f1380427f60658227ea76acf333140ca7a880bc05092555","features":{},"yanked":false}

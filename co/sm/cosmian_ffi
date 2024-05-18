@@ -1,0 +1,2 @@
+{"name":"cosmian_ffi","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4032ec32d5f388ec0e1b268179ea8210a336f2f093c6c4148bdd66b16b2aedd","features":{},"yanked":false}
+{"name":"cosmian_ffi","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf69aaf06b91023e2ec458f3a9370e63b45bc4f4abfef2cbb384c2d6505308e","features":{},"yanked":false}

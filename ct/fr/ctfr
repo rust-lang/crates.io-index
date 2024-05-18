@@ -1,0 +1,1 @@
+{"name":"ctfr","vers":"0.1.0","deps":[{"name":"axum","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.34","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce22970b729023da64acf91a7989ac53041fb4e71be7760d63104869e96cf68d","features":{},"yanked":false}

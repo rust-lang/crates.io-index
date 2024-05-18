@@ -1,0 +1,6 @@
+{"name":"alpm-sys-fork","vers":"0.1.2","deps":[{"name":"libarchive3-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1df0f7f29e4c2a5ec37ffcc80fbb58e8de4104089e6c1e1d6d5df70a08e938a6","features":{},"yanked":true}
+{"name":"alpm-sys-fork","vers":"0.2.0","deps":[],"cksum":"52c6ffbd2cd8f5f2a187007970530a07b144430ee167b9d5a793829f3e22d3d3","features":{"git":[]},"yanked":true}
+{"name":"alpm-sys-fork","vers":"0.2.1","deps":[],"cksum":"2bfb91f4da7f421aebaac73c66f69ca29058f7d5b646594ccfcdace7744f35f1","features":{"git":[]},"yanked":true}
+{"name":"alpm-sys-fork","vers":"0.3.0","deps":[],"cksum":"ac1ee9f5ba925491add07bc6236e714576551a4316c99bd77d535076fd7ff73a","features":{"git":[]},"yanked":true}
+{"name":"alpm-sys-fork","vers":"1.0.0","deps":[],"cksum":"ec7b55dfea0a6b63c8c465d15650ea50be7a85d70d22d95b8798e71114c40310","features":{"git":[]},"yanked":true}
+{"name":"alpm-sys-fork","vers":"1.1.0","deps":[],"cksum":"a2620e0ba91c67b70ab5e835d1d9dfcab373f5fc8186486842c6ce2c84038bc3","features":{"git":[]},"yanked":true}

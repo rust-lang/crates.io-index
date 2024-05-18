@@ -1,0 +1,4 @@
+{"name":"amd64_timer","vers":"1.0.0","deps":[],"cksum":"f79865fa928dad19c08fdde1658d0ec81242980b41bf319be57eec6dca754993","features":{},"yanked":false}
+{"name":"amd64_timer","vers":"1.2.0","deps":[],"cksum":"6d55f951c4beead58a3bfb3d56ca23e612df99a9d3e4f60aa6c8f7c3cb18fe89","features":{},"yanked":false}
+{"name":"amd64_timer","vers":"1.2.1","deps":[],"cksum":"8eb036346708d2ee07c02ce961fa927a73a86d7a4634381f76f2c326659770ac","features":{},"yanked":false}
+{"name":"amd64_timer","vers":"1.3.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ce5e4ed94558ec2df60da8cc818f74a6079b10150e69b66e7585ca09549a8b51","features":{"OLD_ASM":[],"default":[],"std":[]},"yanked":false}

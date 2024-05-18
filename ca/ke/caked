@@ -1,0 +1,2 @@
+{"name":"caked","vers":"0.0.1","deps":[],"cksum":"024a27f3ca2fc6dff4ad7f3df0fa713bac87d8bb1171eeb68d2b2e5bbfb609cd","features":{},"yanked":false}
+{"name":"caked","vers":"0.1.0","deps":[{"name":"observitor","req":"~1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"453261123b6224053609e07446e29f7e03f0ddd37a846ceef03728ddf7f089fc","features":{},"yanked":false}

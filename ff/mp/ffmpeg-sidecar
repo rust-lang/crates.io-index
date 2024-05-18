@@ -1,0 +1,14 @@
+{"name":"ffmpeg-sidecar","vers":"0.1.0","deps":[],"cksum":"1f6640ca1866574953fc6f335b974f2f44e9a456aa906be4e40232cdcf850dc4","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.2.0","deps":[],"cksum":"5b26124ff7835a166eac1de30dc4cbd903eed0aa3b7cff2b820cb0f21aface8b","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.2.1","deps":[],"cksum":"aa4781456a8623183c9ad8bbf379b7b5c5b49023d52a586461d8704a7962c5eb","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.3.0","deps":[],"cksum":"2ce493fc096c1bed15586b0d9b35206b6dbcf53aa828e48ab416084b357cfc43","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.3.1","deps":[],"cksum":"3b7c039452480a24ce306a2c5272417dcdb70cfab0ef98415fd9a7eb96e50ef2","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.3.2","deps":[],"cksum":"5be7154a416395010310373074ef470d82f26b2fa5299df3a7d73794e90deafb","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.3.3","deps":[],"cksum":"79b9eb79979c5d758985210051a4a32a241a1dad3e0e9e750adf826e4eb26906","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.4.0","deps":[],"cksum":"40a81b00196d2e220967aa1a239534e63335724036e786c1bd4899c24a7e2dd5","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.4.1","deps":[],"cksum":"4aa2dbe84f307b52b672941b88f3bd39a0b9d49c06dd0fcbdd5c22c6b60de254","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.5.0","deps":[],"cksum":"a26ba058dafa8c626cd8e4cc63a3b3ec4feff543f61ee377309289afd2189549","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.5.1","deps":[],"cksum":"a5b56b7872b0cbc828e83043a82268b111e3648dab25f29079fce448648e572a","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"1.0.0","deps":[{"name":"anyhow","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f58e54d21e9f4babfa194b424b90306648567af1c907ca7ffd2b17e6bd861e9","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"1.0.1","deps":[{"name":"anyhow","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b804c3b30a27aa028ac6cfc9a3cfe52dbb1232df88921a1964cbf5ef7a86ae0","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"1.1.0","deps":[{"name":"anyhow","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bec830aba6cd3da7621c58e8f06727e3b750e8383bcd934d789f2b9c3c4ea595","features":{},"yanked":false}

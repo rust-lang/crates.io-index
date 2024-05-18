@@ -1,0 +1,1 @@
+{"name":"droom-ui","vers":"0.0.1","deps":[{"name":"iup-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a9a3883e0cfbe36c5530490f2f847516da9c6b02705e2db5fd0c40851fc9e6","features":{},"yanked":true}

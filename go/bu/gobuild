@@ -1,0 +1,2 @@
+{"name":"gobuild","vers":"0.1.0-alpha.1","deps":[],"cksum":"8787823fd5d9a6233f81973381151e582cd260d6b4ec83a7d1b016b760c519ac","features":{},"yanked":false}
+{"name":"gobuild","vers":"0.1.0-alpha.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71e156a4ddbf3deb5e8116946c111413bd9a5679bdc1536c78a60618a7a9ac9e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"ft260","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rusb","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd9f4821861572aa6304cf910d01f086a87ab88177484bb0f5969d55ae4d7018","features":{},"yanked":false}

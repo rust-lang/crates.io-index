@@ -1,0 +1,4 @@
+{"name":"cargo-emit","vers":"0.1.0","deps":[],"cksum":"1d51781bbb5247077ab2cf94150c5751b42ac0b1eecb31183ce41a7289c8dd70","features":{},"yanked":false}
+{"name":"cargo-emit","vers":"0.1.1","deps":[],"cksum":"4d1d6b8077d27443822a547d1ef816eadd2dc4a75de9105aff614192729cf6d3","features":{},"yanked":false}
+{"name":"cargo-emit","vers":"0.2.0","deps":[{"name":"insta","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8f60204119099ea2d6c9ba66f84e6014ef7692f5d90a97094b31eda72de038b2","features":{},"yanked":false}
+{"name":"cargo-emit","vers":"0.2.1","deps":[{"name":"insta","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1582e1c9e755dd6ad6b224dcffb135d199399a4568d454bd89fe515ca8425695","features":{},"yanked":false}

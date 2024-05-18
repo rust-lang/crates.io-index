@@ -1,0 +1,1 @@
+{"name":"fw_env","vers":"0.1.0","deps":[{"name":"crc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scan_fmt","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6385f762f53027e929224eb2adf6f59e60705ca74872a3cce9fa19d98844cc6c","features":{},"yanked":false}

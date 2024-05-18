@@ -1,0 +1,2 @@
+{"name":"xtorrent","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfe405c313367ff0d7bf2df65b5b5e59abfff3c3149d42ed3a44e771400aec4f","features":{},"yanked":false}
+{"name":"xtorrent","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"895b10926ae5258b525285506e45d7e4b805f53f37588f8ffdf6f0ee1631faa1","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"percentage-rs","vers":"0.1.0","deps":[],"cksum":"53b71a58d8b4613679b2f5804440a36ae838ebb7000e9e13a5319497a6ed6fa8","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.1","deps":[],"cksum":"a4f7c559b426931acb1573c48a76fa2315ed09499b2a7a81fc433400868b92af","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.2","deps":[],"cksum":"7c52d1316ed43f78c53a0a5104734f8635787aaf0e5a858e63e54d26ee0167cd","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.3","deps":[],"cksum":"4b678ada4ae7d935e29b2d37118519066e9ea6463125171c6f40502edc636e35","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.4","deps":[],"cksum":"61a4add29efaa9681b549cd136a51f5974b9f1f040d6250f07aa978168a2505a","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.5","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b52178db83db43d37b28140c793332c3fcd07f2dfd3ab2b47a5fbbc878a4318","features":{},"yanked":false}
+{"name":"percentage-rs","vers":"0.1.6","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b66b85bdd1d1ff339b2491b0e3bb704e7f202ceb7dd16c8780adb1209dac628","features":{"serde_support":["serde"]},"yanked":false}

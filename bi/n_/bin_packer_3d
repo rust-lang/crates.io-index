@@ -1,0 +1,5 @@
+{"name":"bin_packer_3d","vers":"0.1.0","deps":[],"cksum":"4efa064f56546396ae1d1fc970d52371842121b70e1cd388030911f63cbc49d9","features":{},"yanked":false}
+{"name":"bin_packer_3d","vers":"0.1.1","deps":[],"cksum":"85a85e1517f3da442d1448bfe3052fa1c3dc3dba08d1f5ad8713ad6ef75e26c7","features":{},"yanked":false}
+{"name":"bin_packer_3d","vers":"0.1.2","deps":[],"cksum":"cda1e28fc340832b01e7dd6162ab69a71223ca9dd65fd43775566a483bfbf551","features":{},"yanked":false}
+{"name":"bin_packer_3d","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"998d521cd917885d69aba082e33749b1ae772e7d6de42869d86a923270efaf27","features":{},"yanked":false}
+{"name":"bin_packer_3d","vers":"2.0.0-beta-1","deps":[{"name":"thiserror","req":"^1.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2946cd1d20a060438d4739c75aebdd881539c2c6e57c788040a7d3e39f0d6b","features":{},"yanked":false}

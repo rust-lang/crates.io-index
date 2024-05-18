@@ -1,0 +1,2 @@
+{"name":"mineome","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"055258bca3264eddb68eac2ef89141d7e0b318574a26cecde17d54eeb38885db","features":{},"yanked":false}
+{"name":"mineome","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a31e9333ff540042182f925559fc5b039bfe95e378562af4746b2ac77e2a7a0","features":{},"yanked":false}

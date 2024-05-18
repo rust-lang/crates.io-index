@@ -1,0 +1,2 @@
+{"name":"drop-dir","vers":"0.0.0","deps":[{"name":"uuid","req":"^0.8.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ea4fe7c7f045e5c3c19a64d2c57ed623a655ea1c4c8682c122b6c528358efa46","features":{},"yanked":false}
+{"name":"drop-dir","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.8.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c9722a903920e844c70b1939ba50593b35b739baba7e75c84f27299cedb2cc9","features":{},"yanked":false}

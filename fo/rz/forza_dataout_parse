@@ -1,0 +1,2 @@
+{"name":"forza_dataout_parse","vers":"0.1.0","deps":[],"cksum":"3e273d3f00d79c43bbb7444a71827aa84bfb4ae7671a2e32b5ae811367c388a6","features":{},"yanked":false}
+{"name":"forza_dataout_parse","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5661cd957045c1a6cbcb1aed6ecb779420916992bab1448c6bc8163cf27d7af","features":{},"yanked":false}

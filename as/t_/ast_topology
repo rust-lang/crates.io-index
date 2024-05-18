@@ -1,0 +1,4 @@
+{"name":"ast_topology","vers":"0.0.1","deps":[],"cksum":"798d074ebee2144db115127f528d1b6f1a637d8c82ce062a8e030f15360f81e6","features":{},"yanked":true}
+{"name":"ast_topology","vers":"0.0.2","deps":[{"name":"autograd","req":"^1.0","features":["mkl"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13c2e663f319a45250e0c9e4440168923ec4c945451c524a7ede52c2f64d6ab3","features":{},"yanked":true}
+{"name":"ast_topology","vers":"0.0.3","deps":[{"name":"autograd","req":"^1.0","features":["mkl"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae6616cee232261232ea7ac10a8c62d4f674a350bffce65a9422f3c95e083fa","features":{},"yanked":true}
+{"name":"ast_topology","vers":"0.0.4","deps":[{"name":"autograd","req":"^1.0","features":["mkl"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5abbbb694e6dc38702ce64e6ef4c9b14d98139a798dfecc60d2abda5ed49033","features":{},"yanked":true}

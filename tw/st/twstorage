@@ -1,0 +1,2 @@
+{"name":"twstorage","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"a15ba355e27f272d896d2ecaacd4735a11d56424bf88eeb725ccb9d7be1a443d","features":{},"yanked":false}
+{"name":"twstorage","vers":"0.1.1","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"f133d8b934393576ab58f92bf0151385657a97e8d3b732d7aa39bbe2bd9f57bb","features":{},"yanked":false}

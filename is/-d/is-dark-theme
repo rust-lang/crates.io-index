@@ -1,0 +1,1 @@
+{"name":"is-dark-theme","vers":"1.0.0","deps":[{"name":"core-foundation-sys","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":"cfg(target_vendor = \"apple\")","kind":"normal"}],"cksum":"62606f85cea0a9382b6153a186603da0fb4e6a34032f1b6ab27c5f950bda29e0","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"phash","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b1844ee74bbd07b54545102ec9988f07ab1eec17ba6403280cf1913d0d50aa","features":{},"yanked":false}

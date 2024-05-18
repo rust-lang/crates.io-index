@@ -1,0 +1,3 @@
+{"name":"reflux","vers":"0.1.0","deps":[],"cksum":"13df6f5c87726896d4acd19cd9a8577e527d03c2c0861ef13393153f804baac9","features":{},"yanked":false}
+{"name":"reflux","vers":"0.1.1","deps":[{"name":"crossbeam-channel","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c4bc578ce8810403ebd0b704239756b00f147e4e816780abce0f565fb219222","features":{},"yanked":false}
+{"name":"reflux","vers":"0.1.2","deps":[{"name":"crossbeam-channel","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77ff43df8f442da869c3cf9d3d92a55e1a4951acddc2635979ee175f7a5272da","features":{},"yanked":false}

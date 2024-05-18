@@ -1,0 +1,1 @@
+{"name":"solute","vers":"0.1.0","deps":[{"name":"draw","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"775f59d4d28889e9bd379326c79f4b61f2e5d2590fcc8c935aa9f2787f34bc6c","features":{},"yanked":false}

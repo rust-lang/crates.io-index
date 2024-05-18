@@ -1,0 +1,3 @@
+{"name":"fun-folder-common","vers":"0.1.0","deps":[],"cksum":"6dfccb3f5160e91c03826c97f7e66dda9dd884fc18909ae8f79d3de271cf2abc","features":{},"yanked":false}
+{"name":"fun-folder-common","vers":"0.1.1","deps":[],"cksum":"68407f24345a1461acc35db81e6c8aa7445058e9fe241ea9fc7b7b8650cdc07d","features":{},"yanked":false}
+{"name":"fun-folder-common","vers":"0.1.2","deps":[{"name":"notify","req":"^4.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2d1e9c7b96ad94fb3f6f6847fa75af49fbd2cf0a7b6d48504fc29f0e5c510e8","features":{},"yanked":false}

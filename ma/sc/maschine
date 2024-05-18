@@ -1,0 +1,1 @@
+{"name":"maschine","vers":"0.1.0","deps":[{"name":"hidapi","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d920ba035bcf68ea481eb1bf9f3631a70c1b8dea933a9744e18663e15fdee90","features":{},"yanked":false}

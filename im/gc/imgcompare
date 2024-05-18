@@ -1,0 +1,2 @@
+{"name":"imgcompare","vers":"0.1.0","deps":[{"name":"image","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7fa262c3890b4d006e2a3fb82529d72fbe95b41636c7ef45c091cb8249c2c2a","features":{},"yanked":false}
+{"name":"imgcompare","vers":"0.1.1","deps":[{"name":"image","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59734ff7a5073ecf7f01734f795ccc035653a1055befb5a04649df1d9ea905d7","features":{},"yanked":false}

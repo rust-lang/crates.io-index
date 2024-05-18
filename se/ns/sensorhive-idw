@@ -1,0 +1,2 @@
+{"name":"sensorhive-idw","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a883c59d7bfc2750f40ea00a511d6f62221bdb4d231612ac264d1b7ca2610e","features":{},"yanked":false}
+{"name":"sensorhive-idw","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"704808ec828728c7e8234ddc8e514a168f2481fcc14ef6dfd7db505ea93a18bf","features":{},"yanked":false}

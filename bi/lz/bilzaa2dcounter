@@ -1,0 +1,5 @@
+{"name":"bilzaa2dcounter","vers":"0.1.0","deps":[],"cksum":"4428eaa684314d930689074530237ad7764b1b9c5e63d58035959d629927413f","features":{},"yanked":true}
+{"name":"bilzaa2dcounter","vers":"0.1.1","deps":[],"cksum":"1be48cc23842785dd27b9ed7dfa7336172282b35939ef2378c48948d40d5af58","features":{},"yanked":true}
+{"name":"bilzaa2dcounter","vers":"0.1.2","deps":[],"cksum":"b68681b481661d04f8b92042a4b296c32d13106c566628dd16a1bea643dc67b1","features":{},"yanked":true}
+{"name":"bilzaa2dcounter","vers":"0.1.3","deps":[],"cksum":"aff8537ad244138ec8ac63b0685b543f734a3b0a8e735f7153ea6b77678fb5aa","features":{},"yanked":true}
+{"name":"bilzaa2dcounter","vers":"0.1.4","deps":[{"name":"bilzaa2dattributes","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dec0e51a62688a59db7276fc91f077b9f9a8960c286e6a2b67ea829f5b474dd0","features":{},"yanked":true}

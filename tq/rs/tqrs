@@ -1,0 +1,1 @@
+{"name":"tqrs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tqdm","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19fedd9f584f19113a86f2692f6f7a04dda80a2cc08dfe6e0766f63dfc09a44a","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"nobs-vkmem","vers":"0.1.0","deps":[{"name":"nobs-vk","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f9cd565f17b67be84d18491cdc0cd907123b4ab5c912364d32ac16510a8e018","features":{},"yanked":false}
+{"name":"nobs-vkmem","vers":"0.2.0","deps":[{"name":"nobs-vk","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"747b3e3e6bdd740a67fcd6fa80770b4a257e674bd19e2a33e2899c0188e28e5e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"osmium","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eb54952955eb74cf999e65c50c5a98f1a36808f8b8d99282ffc71dd8f68210b6","features":{},"yanked":false}
+{"name":"osmium","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bb1b8693ab5cdee989066bf2e550ca5aaa297c824c84d8c7bb6fb6f3bab126a5","features":{},"yanked":false}

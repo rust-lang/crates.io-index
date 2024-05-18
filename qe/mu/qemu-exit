@@ -1,0 +1,13 @@
+{"name":"qemu-exit","vers":"0.1.0","deps":[{"name":"x86_64","req":"0.7.*","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"6eef8966dfa42074458b801f4ca70c0a070a84a500022584cc11d7a3c1fdb105","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"0.1.1","deps":[{"name":"x86_64","req":"0.7.*","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"c5781b3eb6b51aae8dad86f67885b7a7e55d14dcb47262c9f8f8bdc2622edfaa","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"0.1.2","deps":[{"name":"x86_64","req":"0.7.*","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"95533662c327a4b3be4203123662b7eca1c39d73d66020c52280e4ff0e9c9a41","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"0.1.3","deps":[{"name":"x86_64","req":"^0.11.4","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"4efb9448dbd33d917b918ef3f2ec287bd58286431b62dee911681a26734bf4a2","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"0.1.4","deps":[{"name":"x86_64","req":"^0.11.7","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"0eeecd38888003d8792e65ff57a9083bda873e50100e5789df84a0c9639e314d","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"1.0.0","deps":[],"cksum":"b73ae13954572c7ca0ec48ba9fe6a59c0392066eba62f8cb384ffd5addf538c5","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"1.0.1","deps":[],"cksum":"0e64f0ef443037525a562c4fa6ad3460a351ec10c7ebb0b6c49a87a576d0d1b5","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"1.0.2","deps":[],"cksum":"702abe3c3255be20a4d67bda326c4117081a49a57afaf752de4845091bc6b476","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"2.0.0","deps":[],"cksum":"e179da212ad772061d4120ad2a86a019f929362a477582d8c8014dbf7509cd83","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"2.0.1","deps":[],"cksum":"220eb94f40665452ab6114bf8a8d86aa1fd41c6dbfaa4ab71b5912c8adb80389","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"3.0.0","deps":[],"cksum":"0e0fa04276d522a40ed717bf874183a3b2a8bbb3fb4c646b03a7eb874ce5d543","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"3.0.1","deps":[],"cksum":"9ff023245bfcc73fb890e1f8d5383825b3131cc920020a5c487d6f113dfc428a","features":{},"yanked":false}
+{"name":"qemu-exit","vers":"3.0.2","deps":[],"cksum":"8bb0fd6580eeed0103c054e3fba2c2618ff476943762f28a645b63b8692b21c9","features":{},"yanked":false}

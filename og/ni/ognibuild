@@ -1,0 +1,2 @@
+{"name":"ognibuild","vers":"0.0.18","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705db305dac4984224c028acae6953736d06b99c17817896dbf602a2c79577d8","features":{},"yanked":false}
+{"name":"ognibuild","vers":"0.0.19","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e99d166c923b8d509c649b146dccfcfdd3e69899d0c318bf3656ba61d5c44c69","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"libx11","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ff2f96ebacfdce173ae43d4ee657d89c7a3fabe5b03a1531271b0d070f1fa42","features":{},"yanked":true}
+{"name":"libx11","vers":"0.2.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4516bd0f3bd8873e1a612d771e2df4c47815f41c6cb03e6ae67a6fc7a71fffe","features":{"keysym_extra":[],"xinerama":[]},"yanked":true}

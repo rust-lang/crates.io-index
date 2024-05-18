@@ -1,0 +1,4 @@
+{"name":"bdrk_geometry","vers":"0.0.1","deps":[],"cksum":"3a8e3acaf820b86082f2d4604187a7b84fa08acc1f58c71e1a249a928b2ce38d","features":{},"yanked":false}
+{"name":"bdrk_geometry","vers":"0.0.2","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11c4ddf8499797910f92e4c744e67e600f2d3b174d33aa107301300c76e2895f","features":{},"yanked":false}
+{"name":"bdrk_geometry","vers":"0.0.3","deps":[],"cksum":"c05fe3318afcc1c328083e494b34d115cb0bb3ddae448f8f0ff061cac4306700","features":{},"yanked":false}
+{"name":"bdrk_geometry","vers":"0.0.4","deps":[],"cksum":"945e1abf39d12134f18c8479fa02ff3aa0256ac4bbf9603bafc30ffed2d5e941","features":{},"yanked":false}

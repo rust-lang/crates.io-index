@@ -1,0 +1,2 @@
+{"name":"wave-insight","vers":"0.1.0","deps":[],"cksum":"d5558acf5d6339ddac349e0d5076526ccc211b3599b0722c10eec5d068ec81fd","features":{},"yanked":false}
+{"name":"wave-insight","vers":"0.1.1","deps":[{"name":"wave-insight-lib","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bc55e3389c6bd94c4205233ed1435a16eb6d802407e86bacfd14e5134847845","features":{},"yanked":false}

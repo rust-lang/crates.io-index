@@ -1,0 +1,1 @@
+{"name":"volcasample-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9e3a52e27371d5ae4ec4f25155851f4fe1ad6f91d92c1801f4db029259a0ab11","features":{},"yanked":false}

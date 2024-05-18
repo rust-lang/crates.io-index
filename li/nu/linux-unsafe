@@ -1,0 +1,9 @@
+{"name":"linux-unsafe","vers":"0.1.0","deps":[],"cksum":"0edd7f3ab9421f5be3acb4b5fa50db00c63596569839e5578d2eb296dab29447","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.2.0","deps":[],"cksum":"ac51b38ee8374e25d6e612bbecd8d8edafc9f6ff767b446bd44734c021a4b87b","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.3.0","deps":[],"cksum":"4e330305f5361ee60fec586951f3e2178ac280b36920b8fc8c08a0dfc2176fcd","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.4.0","deps":[],"cksum":"dbfc00ab86dfd9cfc75e88478d29a662d7222b0aa78f8527e6f6f8a42b58474f","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.5.0","deps":[],"cksum":"374a4c4659e0a6b0a172cfe23fd08fe3fd17dd863b552111e5795ee1e779e3c9","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.6.0","deps":[],"cksum":"4baeb769e50f35bc5bc07e099b30ba6b8faed599797b64d2f57420d11897764b","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.7.0","deps":[],"cksum":"b858ffead50fe857d6e3561245464cd571f972e8d55d95bee9dbe23f8590cb02","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.8.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"085b066decbd3c0d0a2d0293cced6a9e7936118061f54bfd07e945459bdad160","features":{},"yanked":false}
+{"name":"linux-unsafe","vers":"0.9.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8909f2eaa3bfcea1ca35e16018518a9bb4043ccff1696409c925775a002c914c","features":{},"yanked":false}

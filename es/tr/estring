@@ -1,0 +1,6 @@
+{"name":"estring","vers":"0.1.0","deps":[],"cksum":"02fac83a6247cb8647d2f0980d694f82659d1b648985ad271a5ac3adb8bc83fe","features":{"bool":[],"number":[],"vec":[]},"yanked":false}
+{"name":"estring","vers":"0.1.1","deps":[],"cksum":"5b7003d934881f51f9c5c1af07cdad0faea013ea6ac26618802079fd35c46831","features":{"bool":[],"number":[],"prim":["number","bool"],"vec":[]},"yanked":false}
+{"name":"estring","vers":"0.1.2","deps":[],"cksum":"72ea7e904ef7cb950eee02f9332b6a5c24c33bebeca6c027651b04f6c20658d9","features":{"bool":[],"number":[],"prim":["number","bool"],"vec":[]},"yanked":false}
+{"name":"estring","vers":"0.2.0","deps":[],"cksum":"515fc26a9876dfa25822d8cc040c6e4497ff9f5be96f101ee136d6ece160d2cc","features":{"aggs":[],"low-level":[],"structs":[]},"yanked":false,"rust_version":"1.59.0"}
+{"name":"estring","vers":"0.2.1","deps":[],"cksum":"5d0069d8a2500e291e248b96dc353cf71e2693b278058fd2954b5ed90c836e77","features":{"aggs":[],"low-level":[],"structs":[]},"yanked":false,"rust_version":"1.59.0"}
+{"name":"estring","vers":"0.3.0","deps":[],"cksum":"a7cc7b476dae2894e7fb8d37102acc505c8981f754d1cf44aaf666f20cf21e74","features":{"aggs":[],"low-level":[],"structs":[]},"yanked":false,"rust_version":"1.59.0"}

@@ -1,0 +1,1 @@
+{"name":"apic","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"x86_64","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9420d6db6aa3f3624071f2c7b69dc30888abb491def87e9ef74a9d326a77b39c","features":{},"yanked":false}

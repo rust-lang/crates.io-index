@@ -1,0 +1,2 @@
+{"name":"randsym","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.2.2","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dfcf93522f9fd770b4a5e6de4f4a71c61ef9e908046763a8d35345ce764175b","features":{},"yanked":false}
+{"name":"randsym","vers":"0.1.1","deps":[{"name":"uuid","req":"^1.2.2","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efe45e8923a4ed86215e5622887f189ee9492b93e5823eff5129cd9b326bf4b0","features":{},"yanked":false}

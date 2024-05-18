@@ -1,0 +1,4 @@
+{"name":"bracoxide","vers":"0.1.0","deps":[],"cksum":"218d42d1e9cdf071a7badff501a139dd6f598fe21348e5e5c4e2302e43bdcefb","features":{},"yanked":false}
+{"name":"bracoxide","vers":"0.1.1","deps":[],"cksum":"ae76c117551a0459f61c57b573271778214287482c346d14591d2ea250ecbea5","features":{},"yanked":false}
+{"name":"bracoxide","vers":"0.1.2","deps":[],"cksum":"d8654ced31d3071e01cee9112fb25f241798b17b08d083512f8da2afa3da076b","features":{},"yanked":false}
+{"name":"bracoxide","vers":"0.1.3","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ada7f35ca622a86a4d6c27be2633fc6c243ecc834859628fcce0681d8e76e1c8","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"eigensdk-contract-bindings","vers":"0.0.1-alpha","deps":[{"name":"ethers","req":"^2.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"367144155444935956af59d6a03f423f323875e5db29e882dd227fb94724324a","features":{},"yanked":false,"rust_version":"1.76"}

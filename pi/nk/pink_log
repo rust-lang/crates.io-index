@@ -1,0 +1,2 @@
+{"name":"pink_log","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.6.1","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b3199b7f61de0e862e4c2172cb0563074415a96eb84c96605c19c927ea0cffd","features":{},"yanked":true}
+{"name":"pink_log","vers":"0.1.1","deps":[{"name":"uuid","req":"^1.6.1","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81f4287da9e199cb798a8a8aa25754f42fc8bb027c1e9c293bb9c5131b8ebe2f","features":{},"yanked":false}

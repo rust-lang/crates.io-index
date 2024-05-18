@@ -1,0 +1,1 @@
+{"name":"fkl_mir","vers":"0.4.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e330edbc384bce72a88faf1f3b3240147c10152fbf708005c5aca5fbfaaa309","features":{},"yanked":false}

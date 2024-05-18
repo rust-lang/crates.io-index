@@ -1,0 +1,1 @@
+{"name":"anyctx","vers":"0.1.0","deps":[{"name":"ahash","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dashmap","req":"^5.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fe5a3722bef0d71b976d7ed31de07523d1359e944e174e4c1af24ee8a4755e3","features":{},"yanked":false}

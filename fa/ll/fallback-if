@@ -1,0 +1,2 @@
+{"name":"fallback-if","vers":"1.0.0","deps":[{"name":"yare","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e50ce39d86befacde471925f0ba82cf38b81fa1072f77f54eee72ce8f158f8f6","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"fallback-if","vers":"1.0.1","deps":[{"name":"yare","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33fed2f4fdc42fc179e32a5abec7650a4945452de75e70e42910cdccb14b5807","features":{},"yanked":false,"rust_version":"1.60"}

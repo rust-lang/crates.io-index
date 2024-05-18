@@ -1,0 +1,1 @@
+{"name":"xdd","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31e71abb0be049267a31ab02d5548178d3da4f0ac9d3f6da61c4414ea9c33e9b","features":{},"yanked":false}

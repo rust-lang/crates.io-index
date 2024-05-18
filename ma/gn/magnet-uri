@@ -1,0 +1,2 @@
+{"name":"magnet-uri","vers":"0.1.0","deps":[{"name":"serde_urlencoded","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac975f250d7a44ddf230bb8c2d774c806253a790509c0892da36397457dfecab","features":{},"yanked":false}
+{"name":"magnet-uri","vers":"0.2.0","deps":[{"name":"serde_urlencoded","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ded8a654bb8db4526b81c3385ed1db0591623ec38c8aefd46a2534f6a598844","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"iter-flow","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a82df6d0c000684eda0af9b284c38933c4e0e388b0f16307997122c737a590da","features":{"default":["use_alloc"],"use_alloc":[]},"yanked":false}

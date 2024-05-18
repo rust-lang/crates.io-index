@@ -1,0 +1,2 @@
+{"name":"max30205","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c0739cf2137e2cb1c048c4878b3788d8d2630720a090ead2eec1fc517dc1662","features":{},"yanked":false}
+{"name":"max30205","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48927f7ab899f1d7768de35d122ea0e0f8cdf202ab79229755b892b2352ee43a","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"hds","vers":"0.1.0","deps":[],"cksum":"cadbd64f93efc235c77424c2d101c6d9a158271f440ed9de4fb252d05ff5ee7f","features":{},"yanked":false}
+{"name":"hds","vers":"0.2.0","deps":[],"cksum":"b29046d4f656f9e341ce6cc098f5c5defd1dc5973a917a06472d1fb6c7d64171","features":{"default":[],"std":[]},"yanked":false}
+{"name":"hds","vers":"0.2.1","deps":[],"cksum":"62a9348e49551179925b9d50a08c182134a0a9a515fc7d5edf1db86ef1f60af6","features":{"default":[],"std":[]},"yanked":false}
+{"name":"hds","vers":"0.3.0","deps":[],"cksum":"068d8c1bb464c01874e9044f9d27763adc0ce82dab7a7d59e1178c9086ab62c8","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}

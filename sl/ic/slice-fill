@@ -1,0 +1,2 @@
+{"name":"slice-fill","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0b013688aeae5069489dd11ca44dc680b3630463ffe41a4db6554e6dbe892db","features":{},"yanked":false}
+{"name":"slice-fill","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b701c55069ca742533f62831a34b52eafc0be0fddfb8f03d027fd01c9c2e2b58","features":{},"yanked":false}

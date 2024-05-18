@@ -1,0 +1,1 @@
+{"name":"supercut","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45c35c566a107c4e29750ac757cf02f405ab60ca2f075b735f811144cbe82b1e","features":{},"yanked":false}

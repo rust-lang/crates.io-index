@@ -1,0 +1,1 @@
+{"name":"mlem-asm","vers":"0.1.0","deps":[{"name":"mlem","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_cbor","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6a60cba503840c5f5591a7c1002f28078866ff01c30a8b2547612bad93b03b5","features":{},"yanked":false}

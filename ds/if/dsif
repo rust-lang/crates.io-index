@@ -1,0 +1,1 @@
+{"name":"dsif","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"traceidr","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c3b01295531fbd8996f4042008b9f7c0bd8ecc617f41272cb3614a604875b2d","features":{},"yanked":false}

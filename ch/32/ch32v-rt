@@ -1,0 +1,4 @@
+{"name":"ch32v-rt","vers":"0.0.0","deps":[],"cksum":"e8f6195d443ff562037b9a43af9a575ba4d29327ac0993666ea21059eeea3304","features":{},"yanked":false}
+{"name":"ch32v-rt","vers":"0.0.1","deps":[{"name":"riscv-rt-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1f164ed1e5de12540557c113350d9173f8ee55a1e4b9e9350fc825eb2aad014","features":{},"yanked":false}
+{"name":"ch32v-rt","vers":"0.0.2","deps":[{"name":"ch32v-rt-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0010bc4a6927e60df736c6385b6fc2bcd6fe77ab8f6be3d8654eb2f72f21684","features":{},"yanked":false}
+{"name":"ch32v-rt","vers":"0.0.3","deps":[{"name":"ch32v-rt-macros","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efab07715421e015f93493bb78d8d59b2c17a77d17b25bb3598d5a06a7b3061b","features":{},"yanked":false}

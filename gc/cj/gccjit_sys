@@ -1,0 +1,2 @@
+{"name":"gccjit_sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f79f2e9c27c5ad4eef4a4769dac2563613a70d7a3b3475184ba4d996877a291","features":{},"yanked":false}
+{"name":"gccjit_sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"406a66fba005f1a02661f2f9443e5693dd3a667b7c58e70aa4ccc4c8b50b4758","features":{"master":[]},"yanked":false}

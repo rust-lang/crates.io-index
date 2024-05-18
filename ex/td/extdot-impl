@@ -1,0 +1,2 @@
+{"name":"extdot-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d0956306e680dbf8f42f6ec06cc5dbbda1f3bd8678185109ec60fd17747caaf","features":{},"yanked":false}
+{"name":"extdot-impl","vers":"0.2.0","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"792be9450aaaf75ce202b3ea9817c53fbea419d2f18fad739884da83fff108d6","features":{},"yanked":false}

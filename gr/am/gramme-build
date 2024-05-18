@@ -1,0 +1,2 @@
+{"name":"gramme-build","vers":"0.1.0","deps":[],"cksum":"9ee1dc6dad597815afbf770c154a0390b0582dd1bf2b10fbad9cfd4efdeefc92","features":{},"yanked":false}
+{"name":"gramme-build","vers":"0.2.0","deps":[{"name":"crc32fast","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6a8445fae195145c68bdff3c12935b9009b30a7f2d22716baea23e1268ae670","features":{},"yanked":false}

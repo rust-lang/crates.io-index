@@ -1,0 +1,2 @@
+{"name":"tinygrad","vers":"0.0.0","deps":[],"cksum":"4e3a5bd1333a2bab7d0d5ff5679d2b4ccc8b1f3fc9996950241bf42673c1ccb8","features":{},"yanked":false}
+{"name":"tinygrad","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc8951e9ced45095eb3ad7342c4e74b038bda930833df79b7debb019bb653c18","features":{},"yanked":false}

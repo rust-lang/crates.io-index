@@ -1,0 +1,12 @@
+{"name":"tongue","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8970b4b4fc6c95a1809b3ae80c3ad37b4a2db757c6d856a1bb71cdd2ee35f5b","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"135a83f5609cd11d3db8726d2297b03ad7a3c8ad3655fb99eaad1b631381f9b6","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.3","deps":[],"cksum":"71a72e82d6506ce3d892137648c9f2e30a7e46eac2496762d5e838577800ac01","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.4","deps":[],"cksum":"c3052faa8ba06f8b5277e827e2b3950ab08df3f133548d7a2f178813d6ac2708","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.5","deps":[],"cksum":"1dc61a6ceeb74f9c0b158f4b20caafae74c94cd5ddf92d2f58f49f6c1cfcf87d","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.6","deps":[],"cksum":"2f730c5361b69cc6ad4067a5470708802beac0583a674d8b335c7055e75636a2","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.7","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65a7723a6cc23f158ea45266a57f4538874e0470f62e42c8d0c2994f031078cc","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.8","deps":[],"cksum":"b261de7ee587c083148c2bc3bc347ae7a7f1052741bbc403585a7c985fad91dd","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.9","deps":[],"cksum":"6375f8d54e68fd6c18337c7b8e2b5db415a426aac7afffd0a1f5f1f9c0ebf022","features":{},"yanked":false}
+{"name":"tongue","vers":"0.1.0","deps":[],"cksum":"a1d50b66a25d2c5c0a289656bf4fdf307a0d5f3ee5915997af4b3a592a988657","features":{},"yanked":false}
+{"name":"tongue","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26b5d8277a26efa71c33da1fe55071dd5ed8c8f01b5516b00418af161d90e0a1","features":{},"yanked":false}
+{"name":"tongue","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb112af85a869291e68ca275f0b30497e16d6f19292eb0b88495ffc185e825c8","features":{},"yanked":false}

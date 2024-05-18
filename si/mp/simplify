@@ -1,0 +1,3 @@
+{"name":"simplify","vers":"0.1.0","deps":[],"cksum":"4e11caf5f3e1014fa2188ccedf80455c8e596944db910ef75b2617e9c394a3bb","features":{},"yanked":false}
+{"name":"simplify","vers":"0.1.1","deps":[],"cksum":"53f279a626bdd8908c162c47c234a13380073aa52b089ae6bb38bf3a48f54fb3","features":{},"yanked":false}
+{"name":"simplify","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"04202fa47ee1d583a67c2502f48407d7371a1d9537188b259996f1edcb5a1447","features":{},"yanked":false}

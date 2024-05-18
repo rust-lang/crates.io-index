@@ -1,0 +1,5 @@
+{"name":"logistics","vers":"0.1.0","deps":[],"cksum":"1154f739467e49cef4f678b14c7c4218f6b87f3e539e24c8b5b857515bf6189e","features":{},"yanked":true}
+{"name":"logistics","vers":"0.0.0","deps":[],"cksum":"88ea970838d7e6d9d5b9922237b7fe21dd9ca26501df53023169e0dfcd64e1f7","features":{},"yanked":false}
+{"name":"logistics","vers":"0.0.1","deps":[],"cksum":"08b16d6c11164aadd428b4c4f7c0f32773d0e9ffa081159039e9160efdb24127","features":{},"yanked":true}
+{"name":"logistics","vers":"0.0.2","deps":[],"cksum":"41e4433e20ada8dccedc63573bdac4f76dd575b71474cf818c529570755dde25","features":{},"yanked":false}
+{"name":"logistics","vers":"0.0.4","deps":[{"name":"solver","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6101ff70892a0dffbfba7c66615cfe1ae7d2b77f78917de58c8b6752f88edb10","features":{},"yanked":false}

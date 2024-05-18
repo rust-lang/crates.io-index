@@ -1,0 +1,1 @@
+{"name":"kakistocracy","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.9","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"9e5bf960dd6314ca99e76ddcdf65c2ee2b41c91eb9f351766ed94bc00ffb412e","features":{},"yanked":false}

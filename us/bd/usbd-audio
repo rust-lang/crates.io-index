@@ -1,0 +1,1 @@
+{"name":"usbd-audio","vers":"0.1.0","deps":[{"name":"usb-device","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac88667b47ea82e0cb19b7341d7c4cc7f21f68e5cd4382f090f84c25b4bebc7d","features":{},"yanked":false}

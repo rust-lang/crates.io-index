@@ -1,0 +1,2 @@
+{"name":"rs-graphs","vers":"0.1.1","deps":[],"cksum":"5ccec85c6d25fc3f487688ed74a62d8bed0a705cebf1c7829dc75b85e25ee5ed","features":{},"yanked":false}
+{"name":"rs-graphs","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d153e27d3442b88e2efa52e7fa4e774b77fae470456c929eec6555dceebebe3e","features":{},"yanked":false}

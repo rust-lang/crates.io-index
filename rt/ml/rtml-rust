@@ -1,0 +1,1 @@
+{"name":"rtml-rust","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10bb4045da273277a6df79f8f01ff0e29395e774f6e87ccb739b012fbcac22cd","features":{},"yanked":false}

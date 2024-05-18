@@ -1,0 +1,2 @@
+{"name":"validiter","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05f69ce51d15f0221e8527d29d57b167e7874ca09fadcde1604c480d9e62b732","features":{},"yanked":false}
+{"name":"validiter","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8db17bfc3aec1ce1581628540f2d23c71a1a28d6377a8f0bb9e204cb49e91183","features":{},"yanked":false}

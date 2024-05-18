@@ -1,0 +1,1 @@
+{"name":"llvm_link","vers":"0.0.1","deps":[{"name":"llvm-sys","req":"^39.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7519d72ec4456aae17f17d42d54d2295570748f35d3faf02b8653aa895a5977","features":{},"yanked":false}

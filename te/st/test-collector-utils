@@ -1,0 +1,2 @@
+{"name":"test-collector-utils","vers":"0.1.0","deps":[{"name":"inventory","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bf6df6eff1b0954390fb4aeae7b51fa636be6beae2955a310e194e921f7aa6f","features":{},"yanked":false}
+{"name":"test-collector-utils","vers":"0.1.2","deps":[{"name":"inventory","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e33beb05706bb6d18fea7486c92d1123c5decb69535812d80547c6d544138c8d","features":{},"yanked":false}

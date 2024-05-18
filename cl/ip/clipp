@@ -1,0 +1,1 @@
+{"name":"clipp","vers":"0.1.0","deps":[{"name":"clipboard-win","req":"^4.5.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_family = \"windows\")","kind":"normal"}],"cksum":"9c63e1c05adfbcb24b68101635a1c833024249279a1d0e451944a776fcd184f4","features":{},"yanked":false}

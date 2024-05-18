@@ -1,0 +1,10 @@
+{"name":"psyche-utils","vers":"0.2.10","deps":[],"cksum":"ac5bbaf16ac6617c5c6440cfcaab72c895b0279ed5aeabc96e6baae98dd8c307","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.11","deps":[],"cksum":"65671a688443b70adb9ee2794e2063fef4177ec8b8f3a49d0656547b7582d650","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.12","deps":[],"cksum":"f562dd2293a1cb2f8044b7cc85e522eb345eb106a2a9d1da19a7b94f4a53291a","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.13","deps":[],"cksum":"d2d1c2ac42db67dc133f262e59a13488aaff0d52d34d53dec0d8b766aa014b9a","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.14","deps":[],"cksum":"50fc4a3c78fe7a16b69ac67505e309087762da372ff67ed4cd2bfad8d8f348c5","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.15","deps":[],"cksum":"5f399d26d61e65f1e774d8c1d1cbd60b3c9f6cce54cce97c1e801d6975fe3134","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.16","deps":[],"cksum":"a4576d83769d10a15045864bcdc02d26b641b91cb40e1abd9ea5d65b2fe30570","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.17","deps":[],"cksum":"c0444fc4a9558f8ab3408907a1b9b320f60859c65d55f3ecfd15f7383a104c11","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.18","deps":[],"cksum":"cf6bdf7b055b645a830c206d8e0f0249b6d76c1b4ee4ea8302d94ea5c7196a84","features":{},"yanked":false}
+{"name":"psyche-utils","vers":"0.2.19","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9900469fe39e02d8791541df6e9b52131da46db96b613acf690ed7ad0ef962b","features":{},"yanked":false}

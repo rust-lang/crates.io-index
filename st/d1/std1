@@ -1,0 +1,2 @@
+{"name":"std1","vers":"0.1.0","deps":[],"cksum":"54a4e824839949fe5067220c2460d7f807d2b5907850e377b380f980f5447b52","features":{},"yanked":true}
+{"name":"std1","vers":"0.2.0","deps":[{"name":"either","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c116a6d6d52ff1843fdda1948fe3dd2aabbebb9f17a54baad7d92df6ac55dd","features":{},"yanked":false}

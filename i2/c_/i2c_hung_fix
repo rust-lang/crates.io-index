@@ -1,0 +1,1 @@
+{"name":"i2c_hung_fix","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"841b0d56724fff6efffe456229a481769b9ac6a4341509449b8abb3707855370","features":{},"yanked":false}

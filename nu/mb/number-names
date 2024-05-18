@@ -1,0 +1,3 @@
+{"name":"number-names","vers":"0.1.1","deps":[],"cksum":"f7790f846dcbef3a39b733f244b317fba79bfb6c322a4c99a5c6604309b55099","features":{},"yanked":false}
+{"name":"number-names","vers":"0.1.2","deps":[],"cksum":"84005b47b917a206258c4110a0a22f28b0d178efbf469e9ca941aea3ada5bf47","features":{},"yanked":false}
+{"name":"number-names","vers":"0.2.0","deps":[{"name":"rstest","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8514324ace52befd9127884ed7330fae864eebbeb8ab9402e87087a302d086d7","features":{},"yanked":false}

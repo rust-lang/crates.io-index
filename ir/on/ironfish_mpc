@@ -1,0 +1,2 @@
+{"name":"ironfish_mpc","vers":"1.0.1","deps":[{"name":"regex","req":"^0.1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30b72872395a0165543e9147e55ba2a319b77cffed9f11f2d5f9d75d2c6a5978","features":{},"yanked":false}
+{"name":"ironfish_mpc","vers":"1.1.1","deps":[{"name":"regex","req":"^0.1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e876243b0f879b422ff25864e677f826047bc8d1167cb1e012e12ed7c0bd6a1f","features":{},"yanked":false}

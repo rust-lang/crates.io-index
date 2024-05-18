@@ -1,0 +1,2 @@
+{"name":"ctcore","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c7161f8eab75e13371939412e6533091eefc705d85c942987a60f2c56ac40ea2","features":{},"yanked":false}
+{"name":"ctcore","vers":"0.2.0","deps":[{"name":"pretty_assertions","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c855701ae726c545e97f9b08f34df77465c751d9f7e05251cf25688684cfe941","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"xlang_host","vers":"0.1.0","deps":[],"cksum":"5770623dfd9646655e7bc7e2bc08737af038919348cb0a5b2b5fded8184ee47c","features":{},"yanked":false}
+{"name":"xlang_host","vers":"0.1.1","deps":[],"cksum":"dab85a87c6ba8843634b33973ee6e24e534c8cc620e6455ffea5fc660e5725c9","features":{},"yanked":false}
+{"name":"xlang_host","vers":"0.2.0","deps":[{"name":"cfg-match","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"549c79609274d59195ac89501536941d3157e10240613399f912a0fab641f71f","features":{},"yanked":false}
+{"name":"xlang_host","vers":"0.2.1","deps":[{"name":"cfg-match","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68cc1f26db4deb3b6d217d82fbe02d15d069784be42162efc876baed874b1207","features":{},"yanked":false}

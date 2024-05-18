@@ -1,0 +1,2 @@
+{"name":"strunc","vers":"0.1.0","deps":[{"name":"unicode-segmentation","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"840a5eb4a27844f80e263e225765d24adaf9577108d5bf0147858a41a73caa8c","features":{},"yanked":false}
+{"name":"strunc","vers":"0.1.1","deps":[{"name":"unicode-segmentation","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5db2aed81b71006790fe4f41cbb177df7d635f110ad71ad51d9cc29d78a1f64d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"standard_allocator","vers":"0.1.0","deps":[{"name":"loca","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fd0b1ba4c8f3f4134dbb3f4ef9c9708a3727e0e4bd26cfa1c7cd5e2f96ee319","features":{"stable-rust":["loca/stable-rust"]},"yanked":false}

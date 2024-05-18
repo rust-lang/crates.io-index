@@ -1,0 +1,5 @@
+{"name":"particle_id","vers":"0.1.0","deps":[],"cksum":"647a0461d98261d93c0d3c231e904e40a6e79c16d8af2b61d9d937704f13dff0","features":{},"yanked":false}
+{"name":"particle_id","vers":"0.2.0","deps":[],"cksum":"3819b4571b11d891fa44ed29babf405b06b16ce20d3f6e6daca9f7f641f0ea04","features":{},"yanked":false}
+{"name":"particle_id","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01e397ac56113c90d0e651d573d8389d3c5d2e90b07b9b0bbbccb52efe3dbbdb","features":{},"yanked":false}
+{"name":"particle_id","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e07fd8905703413ff0790b91496cb3a92c8f4b84f5172860309048641049847","features":{},"yanked":false}
+{"name":"particle_id","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f23a9aba80f3fe9d6f5b568468157f34476aae27ebc85941ebbab0510e0977d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"probabilities","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c702f786be8bc431368f6783ae2b7cce646d5c27bdb0ef8ee1509c355f8bc3ce","features":{},"yanked":false}
+{"name":"probabilities","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d79234afddc490f123ee2fd41d4cc3bc78ee676f6c399c3f71de738969cb20ca","features":{},"yanked":false}

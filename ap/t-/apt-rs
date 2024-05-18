@@ -1,0 +1,3 @@
+{"name":"apt-rs","vers":"0.1.0","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fde79a7f510de1ba3960a8aa0289bdc9f5a377dd7a97930bdce6e39de78c854","features":{},"yanked":false}
+{"name":"apt-rs","vers":"0.1.1","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b02f046034b555ee394068c49ae8faf33ff53a852dd09b925e66e96295d13f37","features":{},"yanked":false}
+{"name":"apt-rs","vers":"0.2.1","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36c8a59374712051789cf3d2aae1b128cb5a4ca8df76c13e80b67aa711797416","features":{},"yanked":false}

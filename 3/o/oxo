@@ -1,0 +1,1 @@
+{"name":"oxo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2491adda909c00ed3a7b88576d3dd2d73b7bde4c30ca36db431780710176c13","features":{},"yanked":false}

@@ -1,0 +1,11 @@
+{"name":"httpdate","vers":"0.1.0","deps":[],"cksum":"70e1a0d7cd39973bd7c9e7398dc7af0cc2dee65248bc1ec48cb05165e1451ff7","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"0.2.0","deps":[],"cksum":"6e585fb44715e516a5cdbfc1d9f31c94b0b1efa41e2a7134cae554f0a7643c90","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"0.2.1","deps":[],"cksum":"5dc7e2460c0537001a109094493ab5ce38e929248d36d07b77ab16f87e81b46e","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"0.3.0","deps":[],"cksum":"aeba69f4ee421f9530076beb8257e35cf51f85c862b42e1ab90289d3da10ae00","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"0.3.1","deps":[],"cksum":"e9e60d3d57a8179d98b72275cabf9cf27865e58feb83c1941019b6a0c7d004d0","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"0.3.2","deps":[],"cksum":"494b4d60369511e7dea41cf646832512a94e542f68bb9c49e54518e0f468eb47","features":{"unstable":[]},"yanked":false}
+{"name":"httpdate","vers":"1.0.0-alpha","deps":[],"cksum":"7e2e3f03d1c995f74764c084cc01fa8a9b893c759e9a6ec6211349854d2bd26e","features":{},"yanked":false}
+{"name":"httpdate","vers":"1.0.0","deps":[],"cksum":"05842d0d43232b23ccb7060ecb0f0626922c21f30012e97b767b30afd4a5d4b9","features":{},"yanked":false}
+{"name":"httpdate","vers":"1.0.1","deps":[],"cksum":"6456b8a6c8f33fee7d958fcd1b60d55b11940a79e63ae87013e6d22e26034440","features":{},"yanked":false}
+{"name":"httpdate","vers":"1.0.2","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4a1e36c821dbe04574f602848a19f742f4fb3c98d40449f11bcad18d6b17421","features":{},"yanked":false}
+{"name":"httpdate","vers":"1.0.3","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"df3b46402a9d5adb4c86a0cf463f42e19994e3ee891101b1841f30a545cb49a9","features":{},"yanked":false,"rust_version":"1.56"}

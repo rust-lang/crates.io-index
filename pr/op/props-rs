@@ -1,0 +1,2 @@
+{"name":"props-rs","vers":"0.1.0","deps":[{"name":"nom","req":"^6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98889d35c5ddc0cdc09375526f1095b02bead93b623a4d256438e26e8215a61f","features":{},"yanked":false}
+{"name":"props-rs","vers":"0.1.1","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f5435f87c2eb298bf63648f122d94a3070a1f0b0384bba99c2960bd86bce86f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"libyaml","vers":"0.1.0","deps":[{"name":"libyaml-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c8217f2b1152098e6bb2e75951b1f1293a33e2532e90f1923e6885baa5f35a4","features":{},"yanked":false}
+{"name":"libyaml","vers":"0.2.0","deps":[{"name":"unsafe-libyaml","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32988842c4499c8f20857137eae4d949fa84963d745406e2f6a66cef72eee1fc","features":{},"yanked":false}

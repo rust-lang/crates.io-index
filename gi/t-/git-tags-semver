@@ -1,0 +1,1 @@
+{"name":"git-tags-semver","vers":"0.3.0","deps":[{"name":"regex","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7e470a01ea30a226b3bbb3e62c5ef13fe956fd54aaaab9c98608a894574869a","features":{"build":["regex"]},"yanked":false,"rust_version":"1.51"}

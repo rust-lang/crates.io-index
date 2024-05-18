@@ -1,0 +1,1 @@
+{"name":"enutil","vers":"0.1.0","deps":[{"name":"enutil_macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1be55494ad3673b9536e5f972f3c9ae994f835041fd20a13b3d2d8f73c32c92b","features":{"derive":["enutil_macros"]},"yanked":false}

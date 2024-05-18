@@ -1,0 +1,3 @@
+{"name":"tokio-trace-core","vers":"0.0.0","deps":[],"cksum":"0ff72e20a0da1a6afae17e0ba55ab3086047d2c459ca6efc60d99b0634bba37e","features":{},"yanked":false}
+{"name":"tokio-trace-core","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"350c9edade9830dc185ae48ba45667a445ab59f6167ef6d0254ec9d2430d9dd3","features":{},"yanked":false}
+{"name":"tokio-trace-core","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9c8a256d6956f7cb5e2bdfe8b1e8022f1a09206c6c2b1ba00f3b746b260c613","features":{},"yanked":false}

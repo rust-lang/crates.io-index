@@ -1,0 +1,2 @@
+{"name":"memusage","vers":"0.1.0","deps":[],"cksum":"aa568b8142fb1e9faee83701dad3c767d20275b975ba5aaf9b25dab25f952a4d","features":{},"yanked":false}
+{"name":"memusage","vers":"0.2.0","deps":[],"cksum":"5a06116ba758dcaa9a272fa3f9e1c039e86ae5262bddab8544aeb15068c01dab","features":{"alloc":[],"default":["alloc","std"],"std":[]},"yanked":false}

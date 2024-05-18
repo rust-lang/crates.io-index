@@ -1,0 +1,1 @@
+{"name":"arcon_util","vers":"0.2.0","deps":[{"name":"mur3","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e91424e1271482aff111d79d3c506e185c556e59f33316b9cc1d738347973940","features":{"default":[],"hasher":["mur3"]},"yanked":false}

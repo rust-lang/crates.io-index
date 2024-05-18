@@ -1,0 +1,1 @@
+{"name":"dexd","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.32.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"903314f45c68956e780a333f4208dc954ae71d1196e12cd4bf46bc3e0132502e","features":{},"yanked":false}

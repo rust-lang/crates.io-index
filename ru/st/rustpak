@@ -1,0 +1,1 @@
+{"name":"rustpak","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa4a0e742d29b197094586a7d3415bdda20b7d75f57c7e5229294bb08fb1cdb3","features":{},"yanked":false}

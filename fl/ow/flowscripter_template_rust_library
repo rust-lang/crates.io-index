@@ -1,0 +1,13 @@
+{"name":"flowscripter_template_rust_library","vers":"0.1.0","deps":[{"name":"deno_bindgen","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b99371ee391c7ddd0feee5270d09f2c1085fde5e798bb25a9bc2e6c7d75977c","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.0.0","deps":[],"cksum":"5d862cc14397b4c6d7f173ef2db00db013ba3b6606108d6e168fd3d1d9ae72bd","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.0.1","deps":[],"cksum":"b199eccb233fc1c38dd7c3ec24aea0cae06e175143294fac560997114e738ff1","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.0.2","deps":[],"cksum":"737bb6ec7783b611a052413848e394eedcb5a4a0b4825f16a8a43e2aafdbdcb3","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.0.3","deps":[],"cksum":"5a7b495d3fb7976056dd513d668c45bced918d5a49f6aa8c38cb46e011ae8b13","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.0","deps":[],"cksum":"8b8841ac1dc9f3b0ad486453b509a0355dc18caf8beeff866a904a45a5a6bef2","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.1","deps":[],"cksum":"dea353b4de4c31c8cc20f14f6d97cf09f8bd68f8aa14b29d61566c0f077356a7","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.2","deps":[],"cksum":"f9de2add9af04dac6cb13c933c2d497384d4efd4c15f48f639548adf35f17d81","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.3","deps":[],"cksum":"e27b36e3a3a5f5d3bbb046e377f2925b67f0281c654432b68e60630b77ec613b","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.4","deps":[],"cksum":"44993292b43e53c793b961c14aa48c3a6d4a48467bc839ebac1fe55e64ef7dc7","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.5","deps":[],"cksum":"5731ad924b2d67d02a3afc2ccd3133b656ea851fa7ea402562d5bd57bdfdf062","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.6","deps":[],"cksum":"c364a7d29d3bcd3fea6cd84e5fcf48b2c060e37bce5dccb3543850c4a3137591","features":{},"yanked":false}
+{"name":"flowscripter_template_rust_library","vers":"1.1.7","deps":[],"cksum":"3e5a34d127add564b82251ea68ff485ab34cea96e52b7c03ffd7f53660cd27ff","features":{},"yanked":false}

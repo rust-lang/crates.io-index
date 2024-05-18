@@ -1,0 +1,3 @@
+{"name":"futures-polling","vers":"0.0.0","deps":[],"cksum":"42ff2e254f31ca418b92705e87a0df8644251ce668d438a34849fbd7d2432ee5","features":{},"yanked":false}
+{"name":"futures-polling","vers":"0.1.0","deps":[{"name":"futures-lite","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ffc80c657d23ee40415decc85c49fbf0d11b80debd5cf3ad94ce532c22eeddae","features":{},"yanked":false}
+{"name":"futures-polling","vers":"0.1.1","deps":[{"name":"futures-lite","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb4776c5efe2b846f5f92e8bfec9f6fc3ebff89de3ceeb1da83c75ba6bc9a51c","features":{},"yanked":false}

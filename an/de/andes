@@ -1,0 +1,1 @@
+{"name":"andes","vers":"0.1.0","deps":[{"name":"iced","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"once_cell","req":"^1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8138b5d8cba2ca80282c232391d1adadfc53e039a663e2c8dd670fe90a56510a","features":{},"yanked":true}

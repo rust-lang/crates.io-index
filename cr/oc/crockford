@@ -1,0 +1,11 @@
+{"name":"crockford","vers":"0.1.0","deps":[],"cksum":"d97f8a6ba4ddb16ea47d4df11b1159dfbd04ca5eca45481a800ba25e93d45ce3","features":{},"yanked":false}
+{"name":"crockford","vers":"1.0.0-beta.1","deps":[],"cksum":"c2ca203db6cd297a1c1fffc938137d6fff5b05dc6ad8b3bf5b8c49eb85f2372b","features":{},"yanked":false}
+{"name":"crockford","vers":"1.0.0-beta.2","deps":[],"cksum":"be811c55805093de9c096bfeec79c2a53e123f0ce6e5ad2a24c8eb038adcd0ff","features":{},"yanked":false}
+{"name":"crockford","vers":"1.0.0-beta.3","deps":[],"cksum":"2a606f191737c5e68dc7c886c9ceb380dbd94394fe7bed2f2bc4d9191fd992cd","features":{},"yanked":false}
+{"name":"crockford","vers":"1.0.0","deps":[],"cksum":"bcc792cd43274e6f6e0e731d7971604d62b31c5d4ffe5c35dbb26cb3fb270846","features":{},"yanked":false}
+{"name":"crockford","vers":"1.0.1","deps":[],"cksum":"479393b2138a406a7f33473708988550bee3fd1effbb6a8c997a18ef421cfdec","features":{},"yanked":false}
+{"name":"crockford","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a9eed012e40bdf938b79d21ee0d59f24e8d75d80f172528385b9755c4202f57","features":{},"yanked":false}
+{"name":"crockford","vers":"1.1.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9288e210a2b8693e868bd2fb04407536d4fa8432c4aba1cc8fadf3f69f2a42fc","features":{},"yanked":false}
+{"name":"crockford","vers":"1.1.2","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4a39e5d3a228d65251f96d188da6fb36f3944137c776953077ecc6f41498b19","features":{},"yanked":false}
+{"name":"crockford","vers":"1.2.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c5e48cced273f994e06e920fad9c5dce7d9b6b770a0ec64cd6f584c6cb0e6329","features":{},"yanked":false}
+{"name":"crockford","vers":"1.2.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1f5b8c2e7977312ea8b57b92df14c4ecf5d1af056f5d71974ce970b38697f140","features":{},"yanked":false}

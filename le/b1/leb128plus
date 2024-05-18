@@ -1,0 +1,6 @@
+{"name":"leb128plus","vers":"0.2.0","deps":[],"cksum":"3db6d020d2d175092fc3ad766d0ad5a9b42202b8454f60d65cdb91df5341170e","features":{},"yanked":false}
+{"name":"leb128plus","vers":"0.3.0","deps":[],"cksum":"20f8118c058e447d5a9014c233630640bf24b183cec6cbe0f07c1d4d9d9b627d","features":{},"yanked":false}
+{"name":"leb128plus","vers":"0.4.0","deps":[],"cksum":"7f8815ef913bbc3946e1a75c0ad652e2f53620faca4e7f8671ba1e6a80d02d45","features":{},"yanked":false}
+{"name":"leb128plus","vers":"0.5.0","deps":[{"name":"int","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccb188dce2ff113259165ccdb0a4fa546bfd872589bd43cc2ea07c9b7bf98913","features":{},"yanked":false}
+{"name":"leb128plus","vers":"0.5.1","deps":[{"name":"int","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b46d3bb23316b563abc74fe7083a404a110737832c11ec084c55c29991ace936","features":{},"yanked":false}
+{"name":"leb128plus","vers":"0.6.0","deps":[{"name":"int","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e9b75bcfa93ad9c34ad9fb0a1046e84597d73801ffd49bc0a2d55e91f4aa2b2","features":{},"yanked":false}

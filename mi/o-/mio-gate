@@ -1,0 +1,2 @@
+{"name":"mio-gate","vers":"0.1.1","deps":[{"name":"mio","req":"^0.8.4","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2335fd6be1ccf5fb14e9001e11fceee0b97193e7dd7b289627781ff5b6ce013e","features":{},"yanked":false}
+{"name":"mio-gate","vers":"0.1.2","deps":[{"name":"mio","req":"^0.8.4","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54041c2e29ee87b64332ee3a30f0631358bf5f3758edcc5b171360aa344b6187","features":{},"yanked":false}

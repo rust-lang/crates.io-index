@@ -1,0 +1,2 @@
+{"name":"guidhouse_guessing","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b73856afd2fc711613d6fc1dc42def4239768666b51880cf564546c8b53b626","features":{},"yanked":false}
+{"name":"guidhouse_guessing","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab3b9fef14d56b26838cc5f4463d83a260fbb74dd51fd340f83b306cd9b5a259","features":{},"yanked":false}

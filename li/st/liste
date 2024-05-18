@@ -1,0 +1,1 @@
+{"name":"liste","vers":"0.0.1","deps":[{"name":"feed","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ncurses","req":"^5.85.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f627f34fa2e7c564f4ac09cbf356f892743e5aef9a26e43a9bb89d0748043db","features":{},"yanked":false}

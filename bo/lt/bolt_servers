@@ -1,0 +1,3 @@
+{"name":"bolt_servers","vers":"0.11.11","deps":[],"cksum":"165c64c3c47bbe50cc6059011790e9be76cd81051c00720233b0694b445b7565","features":{},"yanked":false}
+{"name":"bolt_servers","vers":"0.12.4","deps":[{"name":"bolt_common","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81de2891abcb45a400e3af55c088114fee9427416da6f3b08551dbe365bf03b0","features":{},"yanked":false}
+{"name":"bolt_servers","vers":"0.12.5","deps":[{"name":"bolt_common","req":"^0.12.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"955e4bac8786adc95fa435d4c788150a6f5826faa5c38159b929e63c7ccd1d37","features":{},"yanked":false}

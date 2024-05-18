@@ -1,0 +1,1 @@
+{"name":"mosquitto-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"02c1941ea1f182c0783e137d929ab48eb051717884a19664f16c1d2aad728452","features":{},"yanked":false}

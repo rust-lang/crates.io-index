@@ -1,0 +1,5 @@
+{"name":"elaru","vers":"0.1.0","deps":[],"cksum":"7749b9693de42e01572a87d6a8e75137b800a7dfb94dbf91713393b92e4b56c3","features":{},"yanked":false}
+{"name":"elaru","vers":"0.1.1","deps":[],"cksum":"2dcb4b07580a3290ac388ad466c39c1a59668d14a649c061b8293e70589d5ac1","features":{},"yanked":false}
+{"name":"elaru","vers":"0.1.2","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e88b3f8807842a02ebd63b6a666d0521bac84008411413210a1b2710ef839838","features":{"default":[]},"yanked":false}
+{"name":"elaru","vers":"0.2.0","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0890a7bb750fbb579f7889021cc6afa8bb4f51ec47371850e8bd94966388f3f","features":{"default":[]},"yanked":false}
+{"name":"elaru","vers":"0.2.1","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"335fd202b6002e067091e48d4e3fbc0035c1559ffce8011a31af42c7ca4dc772","features":{"default":[],"unbound":[]},"yanked":false}

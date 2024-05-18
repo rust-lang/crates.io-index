@@ -1,0 +1,5 @@
+{"name":"ovr-mobile-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2433bf542d52355f8e8ca96f874ebaedcb76e54747c161304d28e95a63ee9fca","features":{},"yanked":false}
+{"name":"ovr-mobile-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b28cde4009b66665ada6b607a0887b458505c192163f245cf10b1a4cf12285a4","features":{},"yanked":false}
+{"name":"ovr-mobile-sys","vers":"0.3.0","deps":[],"cksum":"b71ba2647ea3c301b1a4f9bb81df79d2d6f336273945433ac65e485630221b26","features":{},"yanked":false}
+{"name":"ovr-mobile-sys","vers":"0.3.1","deps":[],"cksum":"b7b5f9389b2015f8340f0566c488f3e96735e2e8fd7b85d571832cd274ac2998","features":{},"yanked":false}
+{"name":"ovr-mobile-sys","vers":"0.4.0","deps":[],"cksum":"a69b517feac6fc640f0679625defa0998bbcb32871a6901e63063c2abf9c4cbe","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"bitcoin_keys","vers":"0.1.0","deps":[{"name":"secp256k1","req":"^0.24.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31ef5744991c82dd49f03a000f5e210fe457b2c0fca89267ef6a9a93ad28c600","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"turbochess","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term-table","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00767ec4bb572196959bd3862273796952043b1b68b0e40b07cfc8e70f336884","features":{},"yanked":false}
+{"name":"turbochess","vers":"0.2.0","deps":[],"cksum":"921f9d904723c4bbe2b965e2712b08095f3b82e228da3eac644148a8433afd40","features":{},"yanked":false}

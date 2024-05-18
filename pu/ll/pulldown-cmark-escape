@@ -1,0 +1,3 @@
+{"name":"pulldown-cmark-escape","vers":"0.10.0","deps":[],"cksum":"d5d8f9aa0e3cbcfaf8bf00300004ee3b72f74770f9cbac93f6928771f613276b","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"pulldown-cmark-escape","vers":"0.10.1","deps":[],"cksum":"bd348ff538bc9caeda7ee8cad2d1d48236a1f443c1fa3913c6a02fe0043b1dd3","features":{"simd":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"pulldown-cmark-escape","vers":"0.11.0","deps":[],"cksum":"007d8adb5ddab6f8e3f491ac63566a7d5002cc7ed73901f72057943fa71ae1ae","features":{"simd":[]},"yanked":false,"rust_version":"1.70"}

@@ -1,0 +1,1 @@
+{"name":"audio_checker","vers":"0.1.0","deps":[{"name":"symphonia","req":"^0.5","features":["mp3","aac","alac","flac","isomp4","mkv","ogg","pcm","vorbis","wav"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20234f0225492ef6ee5b9258277720993b343c694873da45b3c46221816d8831","features":{},"yanked":false}

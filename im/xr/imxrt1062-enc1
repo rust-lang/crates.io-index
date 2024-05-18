@@ -1,0 +1,2 @@
+{"name":"imxrt1062-enc1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edd2ae4d6df44356452ddc21740bb39f57ea5c5293dfc6e27aabe772b8fdab76","features":{},"yanked":false}
+{"name":"imxrt1062-enc1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b690b8f97b5c67c662b6128f8499a7c9a8d54d5bc51b63aca5bab1809b3b1ac2","features":{},"yanked":false}

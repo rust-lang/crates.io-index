@@ -1,0 +1,1 @@
+{"name":"mos","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.16.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66f6af435ffc10e2693a8812d6f5fbe3f937cc445048d78a482edeadd82be48a","features":{},"yanked":false}

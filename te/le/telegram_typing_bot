@@ -1,0 +1,1 @@
+{"name":"telegram_typing_bot","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"128d598d5e36d8b2a15eb03b4a837bfea9707b0fe1db0efd82a8ec59f5340a1b","features":{},"yanked":false}

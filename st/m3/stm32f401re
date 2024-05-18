@@ -1,0 +1,2 @@
+{"name":"stm32f401re","vers":"0.1.0","deps":[],"cksum":"e32ee721405a88561d847051629de1f2c2eef52240125fa352ca7a88f409b115","features":{},"yanked":true}
+{"name":"stm32f401re","vers":"0.2.0","deps":[{"name":"bitflags","req":"^2.5.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"977058c2355517feb69a90fec02fcfc06c729c99717f34f181ce052070b97228","features":{},"yanked":true}

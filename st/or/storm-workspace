@@ -1,0 +1,2 @@
+{"name":"storm-workspace","vers":"0.2.2","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e919d1cf0bda3e1eebb0de8adf58c9aed7bd51c44c27b0ffc4e4140f144e5ea","features":{},"yanked":false}
+{"name":"storm-workspace","vers":"0.2.3","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88c3af2437146283b105b9a780a2fae19ca5df3df92ca706936d798dbaef306d","features":{},"yanked":false}

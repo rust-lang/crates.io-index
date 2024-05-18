@@ -1,0 +1,1 @@
+{"name":"libnzrng","vers":"1.0.0","deps":[{"name":"getrandom","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8a9230b9ae77473842d295860c535c833e1be567867b9d0b479c3c18b68670","features":{},"yanked":false}

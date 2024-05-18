@@ -1,0 +1,2 @@
+{"name":"stratus-macros","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0.8","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77afa9606014e248de598e514966ada48a9a82c3c7495524abbfd642cab23677","features":{},"yanked":false}
+{"name":"stratus-macros","vers":"0.1.1","deps":[{"name":"syn","req":"^1.0.8","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f700958b2ea2211271c9718dd4d62d18e7ae65114b6a7be9c26a7574146a7c81","features":{},"yanked":false}

@@ -1,0 +1,14 @@
+{"name":"http_header","vers":"0.3.0","deps":[],"cksum":"cec9c84398df0b11829dc7349d899073f6dfae760df1ebd680fdcde385f7db2a","features":{},"yanked":false}
+{"name":"http_header","vers":"0.3.1","deps":[],"cksum":"9724dded011ac6da38be06fc3199b28dc5d44659358609e2b54db4659a9ede4d","features":{},"yanked":false}
+{"name":"http_header","vers":"0.3.2","deps":[],"cksum":"b8825cdcd8c785181d697828110a30c7fa507da52592b283198aacc49dad2340","features":{},"yanked":false}
+{"name":"http_header","vers":"0.4.0","deps":[],"cksum":"0cd306c8a40ab729d26658d452df8698d3b7c7b2125b8ea35833afcba83c8069","features":{},"yanked":false}
+{"name":"http_header","vers":"0.5.0","deps":[],"cksum":"b6102187899767f81a7fee40bbc04fa547c0342aa93af1264f6f02696bf3a7c7","features":{},"yanked":true}
+{"name":"http_header","vers":"0.5.1","deps":[],"cksum":"1377b716932e64b0e672b9f830b9740db6305a248fb1268d9f14c71654d9dcb8","features":{},"yanked":false}
+{"name":"http_header","vers":"0.6.0","deps":[],"cksum":"3a9add2a79cb7058b817e3cc5fd4670c24e8d373eeec25ef6fef4bea422a1fcb","features":{},"yanked":false}
+{"name":"http_header","vers":"0.6.1","deps":[],"cksum":"1870137f46757f7b488732daf07403271e89ed3367f8ed9eb9c626721e4776b1","features":{},"yanked":false}
+{"name":"http_header","vers":"0.6.2","deps":[],"cksum":"d80afbf6768b496c8040db977006c2c0ca3fdd492e6c8df9fca02ed254b314bc","features":{},"yanked":false}
+{"name":"http_header","vers":"0.6.3","deps":[],"cksum":"59345af4dc929218bd0ff98bcbda445e3556e82bf0b5045284b4107f99f4ddb9","features":{},"yanked":false}
+{"name":"http_header","vers":"0.7.0","deps":[],"cksum":"78c6f9114a9800e4a902db734795fe51a756b7e1a717b70f87da1764300dffe4","features":{},"yanked":false}
+{"name":"http_header","vers":"0.8.0","deps":[{"name":"ebacktrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b28215c253e396f2ef88b60327bd9d4720eac2726ecdf35959d14f167558c99","features":{},"yanked":false}
+{"name":"http_header","vers":"0.8.1","deps":[{"name":"ebacktrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bc821d0bdf991b1da51f85bd752c2122e49c891b6c89f8bc73b00d76bc150aa","features":{},"yanked":false}
+{"name":"http_header","vers":"0.8.2","deps":[{"name":"ebacktrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b513c5f3d9e0add3fc7acd7a62fa59a27e151358883f082da5fc9d958f3d4fad","features":{},"yanked":false}

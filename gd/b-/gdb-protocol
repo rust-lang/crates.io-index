@@ -1,0 +1,1 @@
+{"name":"gdb-protocol","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b8b88b222a91266bb192222d46d0da29addbc423d0a9910aec233dce875eb6e","features":{"unstable":[]},"yanked":false}

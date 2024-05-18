@@ -1,0 +1,1 @@
+{"name":"rust_graphics_packer","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35c129754386da1dad824eeab4650a6f8622708fd0bb09bbc90478151f1d7176","features":{"debug_derive":[],"verbose_log":[]},"yanked":false}

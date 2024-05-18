@@ -1,0 +1,3 @@
+{"name":"openpol","vers":"0.1.0","deps":[],"cksum":"faaf8e3e2f1863e4b8280aa87ba715e47a64fe5ec1806fd01ba831aff4f70569","features":{},"yanked":false}
+{"name":"openpol","vers":"0.2.0","deps":[],"cksum":"f3040267c8de9f401e211685457e9db2fe5474a7c4f2114ad6dac5ee06893744","features":{},"yanked":false}
+{"name":"openpol","vers":"0.3.0","deps":[{"name":"flic","req":"> 0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl2","req":"> 0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fb2d5699effde52e8e1a5f64d875241b7f0b1d3a2d06add0dfaf97cef842d4d","features":{},"yanked":false}

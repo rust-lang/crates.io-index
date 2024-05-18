@@ -1,0 +1,2 @@
+{"name":"ado-test","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18f1214a3b35025cf908a7b92911181b159954a41e6adf6bb2790c004c7b5072","features":{},"yanked":false}
+{"name":"ado-test","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd83801a79c88be118aaa5342487b607fa632d2c74944663187ce738ec7c6cf2","features":{},"yanked":false}

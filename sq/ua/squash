@@ -1,0 +1,1 @@
+{"name":"squash","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ca73364e16d6cf8abc0d4d2e03b6567748701275107854b1cca64385132e37e","features":{"default":["std"],"std":[]},"yanked":false}

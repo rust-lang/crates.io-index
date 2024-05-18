@@ -1,0 +1,2 @@
+{"name":"r-ls","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"971dcb3f052c17af42f056ef467e425dc80a4d6087ac640a62a9428120b16e1d","features":{},"yanked":false}
+{"name":"r-ls","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a23a6e2ac7cd4008c64bfe3ddfe6c583ca683fb9c189f3cf848fd2ac2b76a11c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"svgx","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"svg","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5862040183da53caa5c133aed09bd7420d43cf36cc2ffe8f444616642601ea81","features":{},"yanked":false}

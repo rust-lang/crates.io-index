@@ -1,0 +1,2 @@
+{"name":"rbench","vers":"0.1.0","deps":[],"cksum":"67afc047d2876b2e4f29f7aa1a3f898c7fdb49cf1d08ec0ded22ad0fc138e264","features":{},"yanked":false}
+{"name":"rbench","vers":"1.0.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c32b9daa76e54006fc5bfb680bfbfecb00b6dc71250bbd0ff60b49fc79de875f","features":{},"yanked":false}

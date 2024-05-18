@@ -1,0 +1,1 @@
+{"name":"env_ast","vers":"1.0.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"971e1c04fc53dd7ec05486bd6f25234094a92afe888510920a9e81e96f245d46","features":{},"yanked":false}

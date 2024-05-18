@@ -1,0 +1,8 @@
+{"name":"sketches-rust","vers":"0.1.0","deps":[],"cksum":"4e50d15a76151f80579c7ffdee09fc12b02f55ffb57537f10a230f1906ef2645","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.1.1","deps":[],"cksum":"a01b15feee8c67228fb8dee6df34092b6d6e65e258b3333c9c8350c24949fe69","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.1.2","deps":[],"cksum":"7d031beb3f2f36174f7bc5d1d96f8ef0e42cace01c7cfbf3c79674b9f52e7fe9","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.1.4","deps":[],"cksum":"78b20d006235313e3899935627d291e44669d829398cb5eeaeadbb91e32f9491","features":{},"yanked":true}
+{"name":"sketches-rust","vers":"0.1.5","deps":[],"cksum":"15a901d13916ac7f06e4fa77354ab2a0de65a722b1faa5ab7f2f3b61b1d5ef5d","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.2.0","deps":[],"cksum":"76f46bd97ad38e84fcd3cb28fdc12f879c7d378f5d43bfef2e8c870e15847290","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.2.1","deps":[],"cksum":"5a3a82342781f49b6ee631f6d1eafcd10da49c5cc53ef61c7bff483d590f6ede","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.2.2","deps":[{"name":"rust-strictmath","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed75e840dd1b389244ed226b986793e05b450dfd68c2f371ca1344c08ba56324","features":{},"yanked":false}

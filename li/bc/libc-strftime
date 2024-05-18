@@ -1,0 +1,2 @@
+{"name":"libc-strftime","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e481610fa830e1ba1463010c19d1a5b3be499e9527b62ca86b0f4adf2ed8364f","features":{},"yanked":false}
+{"name":"libc-strftime","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3badb12f3d8623017f2cff9de476ff32f426ef45419253366fa088b8df6364cf","features":{},"yanked":false}

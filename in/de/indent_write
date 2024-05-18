@@ -1,0 +1,4 @@
+{"name":"indent_write","vers":"1.0.0","deps":[],"cksum":"9ff1c68e65f3c8d1962de1426c5417d9bc65318eae16fb59ddd04d8253e20eba","features":{},"yanked":false}
+{"name":"indent_write","vers":"2.0.0","deps":[],"cksum":"80406a495a19a297b9d2331969027e6e670534ccd2fe541da3c0e53b6a96ffc7","features":{},"yanked":false}
+{"name":"indent_write","vers":"2.1.0","deps":[],"cksum":"f904df79de8a269c9817aab5c7a0f2dc91e4ddad067729c4a27c7712bee1e70e","features":{},"yanked":false}
+{"name":"indent_write","vers":"2.2.0","deps":[],"cksum":"0cfe9645a18782869361d9c8732246be7b410ad4e919d3609ebabdac00ba12c3","features":{"default":["std"],"std":[]},"yanked":false}

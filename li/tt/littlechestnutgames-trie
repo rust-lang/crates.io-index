@@ -1,0 +1,3 @@
+{"name":"littlechestnutgames-trie","vers":"1.0.0","deps":[],"cksum":"b793ee940964fff86023d64d1c1332251dabbab6610ed252337a8537ba72e83e","features":{},"yanked":false}
+{"name":"littlechestnutgames-trie","vers":"2.0.0","deps":[{"name":"unicode-segmentation","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4347b745f0c074b0effe1deea94f9af92384b829bfe508e6602a8b604e51d65b","features":{},"yanked":false}
+{"name":"littlechestnutgames-trie","vers":"3.0.0","deps":[{"name":"unicode-segmentation","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"480686782e5f75559670f7c02d093ce5c3c8b67f645e72771adf337ed23f0ad8","features":{},"yanked":false}

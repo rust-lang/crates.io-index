@@ -1,0 +1,3 @@
+{"name":"osb-pono","vers":"0.1.0","deps":[],"cksum":"7037ea3618163d22d14332ff6ed71e285ed578561d275b8d9a937bb4900ba42c","features":{},"yanked":false}
+{"name":"osb-pono","vers":"0.1.1","deps":[{"name":"osb","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9d1d09f47d5e1148825a9838b50e6e388eda662165975e73a721d556b800e9d","features":{},"yanked":false}
+{"name":"osb-pono","vers":"0.1.2","deps":[{"name":"osb","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"761d2fea623dfb561d739e3d5bc4cb758a405ac4e656efa6c207fccfaa9668a6","features":{},"yanked":false}

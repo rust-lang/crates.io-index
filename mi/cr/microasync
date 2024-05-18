@@ -1,0 +1,14 @@
+{"name":"microasync","vers":"0.1.0","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5e8bb4f5525ecb547a512a62068d7a3c64c749565ffac86a05630cb0d40c7c7","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.0","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e0413513bc85d0053a798d59127d03de504319605077d0d15153bf6a8465cee","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.1","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"575f5e9f21d4e9e705d74fe6c968686fad64f92ff82bfdbf5517d42a295e5cfe","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.2","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63875583a62b684ffdc809af1eb39b0d5aa84febb52e538d38ab3d851c45ea2d","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.3","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6cc33567d9e663ab8e75007b60ec999808d5f0c831c62373aec10fc7387d5cb","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.4","deps":[],"cksum":"9da582cfea6674b971a8963b8bcc9f46f3da90044fa675f431f1dcf22e2f85f8","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.5","deps":[],"cksum":"7bcfc73833447c9cef7e7ec3734b7c0e098c7938f6edc2504ecea5118899c30d","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.6","deps":[],"cksum":"3d9461360d0dd47f8a35a8b69268dd06ab83cf997905ae3c0f63339fb33a58c5","features":{},"yanked":false}
+{"name":"microasync","vers":"0.2.7","deps":[],"cksum":"426f9fdaf09f8b0105b96c01dc0120663c3bf46334aeddb4da123a2e84d27b6d","features":{"no_std":[]},"yanked":false}
+{"name":"microasync","vers":"0.3.0","deps":[],"cksum":"6c1b8483a19c397cba9e2cd8b522c04ad56b44890ba1177aab909500bc587d8c","features":{"no_joiner":[],"no_std":[]},"yanked":false}
+{"name":"microasync","vers":"0.3.1","deps":[],"cksum":"1f5996d4364a3687a62ec956920ff64c80fef9e391b204f266bdc40db8879aa3","features":{"no_joiner":[],"no_std":[]},"yanked":false}
+{"name":"microasync","vers":"0.4.0","deps":[],"cksum":"2d892acb615552294e669f7a6ad7fe3e98a634f783ed363eddc30b311b9efe6f","features":{"no_joiner":[],"no_std":[]},"yanked":false}
+{"name":"microasync","vers":"0.4.1","deps":[],"cksum":"5a8f50171874f2d88ad43ac680fe36d0201e8c9a054d220e4a2d1f97dffe0aff","features":{"no_joiner":[],"no_std":[]},"yanked":false}
+{"name":"microasync","vers":"0.4.2","deps":[],"cksum":"32961086c50379c74782380e5cace085d6cf466fefa0183c3e8437e5e438fa4f","features":{"no_joiner":[],"no_std":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"binpack2d","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f44f5ab61d4484ab2918bc4ff76ea2402560adb1136581c852e594c8b5f4d2d7","features":{},"yanked":false}
+{"name":"binpack2d","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4c3793db1a9ea79234eac9513713a00ca32751417046d92db5320f0b2574394f","features":{},"yanked":false}

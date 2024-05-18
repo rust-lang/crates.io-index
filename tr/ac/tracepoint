@@ -1,0 +1,1 @@
+{"name":"tracepoint","vers":"0.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"92536f9f33905adc8203fda89e8055cb02daf4cebc470fbd0d9593856ba0f1d0","features":{"default":["user_events"],"user_events":[]},"yanked":false,"rust_version":"1.63"}

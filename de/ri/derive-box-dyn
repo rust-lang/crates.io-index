@@ -1,0 +1,2 @@
+{"name":"derive-box-dyn","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0.53","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a30d966c6a09f51a69ad1391f733181dc8882ed40dbb0d0fced9385f7b6e7392","features":{},"yanked":false}
+{"name":"derive-box-dyn","vers":"0.1.1","deps":[{"name":"syn","req":"^2.0.53","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee5abad73a79524f7b729d0948141d3b63773ee0c5786db4956c54187c8fe878","features":{},"yanked":false}

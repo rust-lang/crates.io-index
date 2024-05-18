@@ -1,0 +1,2 @@
+{"name":"imxrt1062-usb-analog","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e30c7a6f2327a1b7e9802007e3fb418305bb7b2ff600892373050d02f4f0431","features":{},"yanked":false}
+{"name":"imxrt1062-usb-analog","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26823bd7dbb3ec1310663880ef9dfa3467b7b2dac86196e63bd94dfd81403905","features":{},"yanked":false}

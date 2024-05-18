@@ -1,0 +1,1 @@
+{"name":"lathe","vers":"0.0.0","deps":[{"name":"crossbeam-queue","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"796271c0ef52e746b59a33dbe70002fe30c701667f4f211c20a210db737ceaaa","features":{"lock_free_delays":[]},"yanked":false}

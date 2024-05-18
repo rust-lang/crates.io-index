@@ -1,0 +1,1 @@
+{"name":"batch-recv","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f966e9843f2688274010b8cb1cd8bfb049e7abce55334a458c20c6bcee0081e","features":{"crossbeam":["crossbeam-channel"]},"yanked":false}

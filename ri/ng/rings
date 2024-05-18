@@ -1,0 +1,2 @@
+{"name":"rings","vers":"0.1.0","deps":[{"name":"sauron","req":"^0.60.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48fff6155e809fb78cfb64496ff3949c0f8fa4881bd454813994c613d415f869","features":{},"yanked":false}
+{"name":"rings","vers":"0.2.0","deps":[{"name":"sauron","req":"^0.60.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f2a1d82c3a797cc39765c615749aaecfc09d05cf04a08a55e5c90a355b38a6d","features":{},"yanked":false}

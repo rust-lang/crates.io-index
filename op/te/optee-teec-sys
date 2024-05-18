@@ -1,0 +1,2 @@
+{"name":"optee-teec-sys","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0897587d5ad56061b9ba13dc28b1900d4f09bc2aa33701b5563af4b4ed72c88b","features":{},"yanked":false}
+{"name":"optee-teec-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"849d4b11c7feaddab09a7cafaa8e100e30d408567be439932f6f00f10a5b4511","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"windows-win32-security","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6bb069d6a2c0e3f3b2f41f90795f56e8db28ccebb7cf4b074a2d273bbfeb3eb2","features":{},"yanked":false}
+{"name":"windows-win32-security","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"163a7133535c04f21929e2fef7fbf4fccd1b9c21923a535e4659de46f58da1b1","features":{},"yanked":false}
+{"name":"windows-win32-security","vers":"0.22.5","deps":[],"cksum":"7e3e1c9546b969b1faa30af05daf611315f99be761fd7c81a26146a82d708259","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-security","vers":"0.22.6","deps":[],"cksum":"09ddc329d4030e54a79b3ddd43c37fb2cc9eb47363594e90fb09d5453460c932","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-security","vers":"0.23.0","deps":[],"cksum":"ffb5228d9ca32d25d223126ab4bee066bd452919b9fa76862618e2e974de9d22","features":{},"yanked":false}

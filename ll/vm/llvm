@@ -1,0 +1,1 @@
+{"name":"llvm","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"llvm-sys","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33aeaf0ea7501b22c79ee4aa733ccbabdfce05e99021942c3e0beef838676ce7","features":{},"yanked":false}

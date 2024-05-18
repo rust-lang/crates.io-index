@@ -1,0 +1,3 @@
+{"name":"nimble-assent","vers":"0.0.1","deps":[],"cksum":"372826810b51169399f255aac0221c7f4e9cf3320faa2f0bba019ff78686c841","features":{},"yanked":false}
+{"name":"nimble-assent","vers":"0.0.2","deps":[{"name":"nimble-steps","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24a8eec2663024fc161d74aef54f787576d8a958407670d226ef034fc652d942","features":{},"yanked":false}
+{"name":"nimble-assent","vers":"0.0.3","deps":[{"name":"nimble-steps","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7571f9d3ce13048fa006dd940f3fb36f5e95206fc7e3267250b60b2fbd381f55","features":{},"yanked":false}

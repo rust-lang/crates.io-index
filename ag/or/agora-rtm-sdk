@@ -1,0 +1,2 @@
+{"name":"agora-rtm-sdk","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d10895a9a816c5a11bfe158e91ab8453639893b089fcab400c33bc00c138d77b","features":{},"yanked":false}
+{"name":"agora-rtm-sdk","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3a7ba6d556622a7f551b53c538e78c8e4a6c7914d6c3f7cbc9ecb693501bed2a","features":{},"yanked":false}

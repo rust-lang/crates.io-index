@@ -1,0 +1,2 @@
+{"name":"minifb_geometry","vers":"0.1.0","deps":[{"name":"bresenham","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"299a98ec9e6fd1c3138345cc20de01fa68aa7b63648d14adcac185d6a91126d4","features":{},"yanked":false}
+{"name":"minifb_geometry","vers":"0.1.1","deps":[{"name":"bresenham","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50c7284a5756b223bd1c13b8668a73d8b7539ad08b4b1102944fe7940251091b","features":{},"yanked":false}

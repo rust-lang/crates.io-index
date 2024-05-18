@@ -1,0 +1,2 @@
+{"name":"guiver","vers":"0.0.1","deps":[{"name":"druid-shell","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"780fae46e76d63d05cf215ff0055caf90187c5b2ccfd974cfd129537f266b0cc","features":{},"yanked":false}
+{"name":"guiver","vers":"0.1.0","deps":[{"name":"druid-shell","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba24ed36550587061be81b2cd23f33fa1b165b25a14be73c1f9f70d39c682d82","features":{},"yanked":false}

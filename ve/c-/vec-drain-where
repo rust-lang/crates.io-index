@@ -1,0 +1,2 @@
+{"name":"vec-drain-where","vers":"1.0.0","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"23e040e1865e2f5fe63254b6077ef27361eb9048f607842091ecad3ce7fa5cab","features":{},"yanked":false}
+{"name":"vec-drain-where","vers":"1.0.1","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a31e425b0dab548c1d00c0b1233646127a635fd2592135fc9c48ebd5646cf982","features":{},"yanked":false}

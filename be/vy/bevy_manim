@@ -1,0 +1,1 @@
+{"name":"bevy_manim","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lyon","req":"^0.17.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4d7785bf84565249c164ed4ea9d47a7901413c3560c50de0b0fb5615684bc55","features":{},"yanked":false}

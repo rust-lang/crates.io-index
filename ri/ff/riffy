@@ -1,0 +1,2 @@
+{"name":"riffy","vers":"0.1.0","deps":[],"cksum":"b37066a12ca413976f87b64b3b9ca330ac17455a856e5ca05298dcdc473349db","features":{},"yanked":false}
+{"name":"riffy","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8e8f9f1e47342323b101c7a38eb1a5d1fc9167d0baae896bf96bc28c2e9e0f1f","features":{},"yanked":false}

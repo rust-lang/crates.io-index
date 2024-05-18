@@ -1,0 +1,1 @@
+{"name":"cocopy","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"806e4d939ef1b064dccb6a34cffc3f87f2ca7a1e2c25537cb4fa6e333e4393a9","features":{},"yanked":true,"rust_version":"1.60"}

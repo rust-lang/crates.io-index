@@ -1,0 +1,2 @@
+{"name":"top_n_tail","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d15831721d1fe84203c8c685ad5680c534b4f72a1b197a499ad5ebfe15e3394e","features":{},"yanked":false}
+{"name":"top_n_tail","vers":"0.1.1","deps":[{"name":"clap","req":"^3.2.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb9cb5f5c373d77d8ee1b2e4657163564ac7d8ade2bf9a13510114a8774f2b53","features":{},"yanked":false}

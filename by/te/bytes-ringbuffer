@@ -1,0 +1,2 @@
+{"name":"bytes-ringbuffer","vers":"0.0.0","deps":[],"cksum":"a58bdb0d6b0a460e86f958524db8b50726d6eb00946c38895f900842ef50aada","features":{},"yanked":false}
+{"name":"bytes-ringbuffer","vers":"0.1.0","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d5ecdde79b4df9c70024bc8ce4e1a61ec592509119d8d26ead420b4d7d5ad89","features":{},"yanked":false}

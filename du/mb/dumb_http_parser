@@ -1,0 +1,2 @@
+{"name":"dumb_http_parser","vers":"0.1.1","deps":[{"name":"url","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd8935c270a29d199b1928c150c722ea4eec8e820ec92de952f92256708e6fba","features":{},"yanked":false}
+{"name":"dumb_http_parser","vers":"0.1.2","deps":[{"name":"url","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39b77d50091029c48ec7bbefc703eae8e43d35549beefef6cd5ccb3e5de3d320","features":{},"yanked":false}

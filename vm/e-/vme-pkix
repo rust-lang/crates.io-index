@@ -1,0 +1,1 @@
+{"name":"vme-pkix","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkix","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0094d326ace6eb52aa06d28e7bf811085aba5f0a6ab90dea91620c7abc2cb881","features":{},"yanked":false}

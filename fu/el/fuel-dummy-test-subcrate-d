@@ -1,0 +1,3 @@
+{"name":"fuel-dummy-test-subcrate-d","vers":"0.2.20","deps":[],"cksum":"b3bfcac051ab37a6f0fc728e36a41d59930bc9a0e60d3d54a5cd8c6f2416adcc","features":{},"yanked":false}
+{"name":"fuel-dummy-test-subcrate-d","vers":"0.2.21","deps":[{"name":"bincode","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ada6076a2d8462067a0d862bb1e7fe325e97fa3911bee83fa3333ef3c66276d","features":{},"yanked":false}
+{"name":"fuel-dummy-test-subcrate-d","vers":"0.2.22","deps":[{"name":"bincode","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b92c097e68ebb383a30bf149f69cd9f42f0218660e9e0f6729ba691a353306cc","features":{},"yanked":false}

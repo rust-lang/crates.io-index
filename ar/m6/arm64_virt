@@ -1,0 +1,1 @@
+{"name":"arm64_virt","vers":"0.1.0","deps":[{"name":"simink_entry","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdd66720213adc69442e5a8eb45f018a3d33c575eaee1b05d3dc29f647581f0a","features":{},"yanked":false,"rust_version":"1.71"}

@@ -1,0 +1,4 @@
+{"name":"file_cat","vers":"0.1.0","deps":[],"cksum":"e2fc4595b5bad744e042c178ba83c2055497ee4976ed452d45a5d7a9f9c88bc4","features":{},"yanked":false}
+{"name":"file_cat","vers":"0.1.1","deps":[],"cksum":"da0a054626d4cb9abbd21a99f19c7d728265c007e5b54ec1a139d748bfe0c274","features":{},"yanked":false}
+{"name":"file_cat","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9492227960ac8ef174512893d9022503b070138c43148a43571901152809f588","features":{},"yanked":false}
+{"name":"file_cat","vers":"0.3.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"csv","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6adc2f217351c0152fb241258490ac3f1e7a540397a37ef15fdb30c13e458302","features":{},"yanked":false}

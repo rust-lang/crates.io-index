@@ -1,0 +1,2 @@
+{"name":"rust_study0","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f995cbd48a23b1e9a1055fc1fae52c333b61a953dbe2510104ec2add61a319e","features":{},"yanked":false}
+{"name":"rust_study0","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff23f7d2cdf6f66a48def98cbdcbf75a791de0c537cdb1bc51650350351b60ba","features":{},"yanked":false}

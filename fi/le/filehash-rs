@@ -1,0 +1,2 @@
+{"name":"filehash-rs","vers":"1.0.0","deps":[],"cksum":"d5e2798ab9747319fe4f98c5e1a3f9c56abcf7028b7cfa057e4ffc51b711b86e","features":{},"yanked":false}
+{"name":"filehash-rs","vers":"1.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58222cc4e02fe6351f24fa215f065a4757ecfcada6c510ec1ea25652a2b8a3b8","features":{},"yanked":false}

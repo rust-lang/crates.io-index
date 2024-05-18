@@ -1,0 +1,2 @@
+{"name":"raitech2020_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c02b135b497499acfab27b0b6cc0a9bf6f49b332a591583c65a23b8a0e7e068c","features":{},"yanked":false}
+{"name":"raitech2020_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fbee0297c8a1000227d959071c73f9ee814318c91f1a3e4df68aead408ce9d8","features":{},"yanked":false}

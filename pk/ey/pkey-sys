@@ -1,0 +1,1 @@
+{"name":"pkey-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f439c9ca139c1bcbda8e5b3c7cfb4fb9286d395047d71545313b83db658b7ee","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"linked-list","vers":"0.0.1","deps":[],"cksum":"3139745ed84ac033f656d0271330ab418db55448f04b9e5d055ad2c8553dda31","features":{},"yanked":false}
+{"name":"linked-list","vers":"0.0.2","deps":[],"cksum":"93bacb07d0bcd9108a7d90c6a44e66e3f71d27bcdca6aa07a03fe1d8d4953f8a","features":{},"yanked":false}
+{"name":"linked-list","vers":"0.0.3","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4dacf969043dc69f1f731b5042eb05e030d264bcf34f2242889fcbdc7a65f06","features":{"nightly":[]},"yanked":false}

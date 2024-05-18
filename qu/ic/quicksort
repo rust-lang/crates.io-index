@@ -1,0 +1,2 @@
+{"name":"quicksort","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"74d614d14578130fb31d9ed62ca6442968a3a0e81216ebd2b67d924eb6aaf45d","features":{},"yanked":false}
+{"name":"quicksort","vers":"1.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"22128d5c185eef35844bb5d13a1454ce06280b18d3f1b481d516054a0c0f1918","features":{},"yanked":false}

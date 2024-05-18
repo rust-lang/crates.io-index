@@ -1,0 +1,2 @@
+{"name":"address_translation","vers":"0.1.1","deps":[{"name":"ipnet","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01da549a5054f0323bf5f3af45169b60fb6a85d11eba4efcb63eed2f948fecd7","features":{},"yanked":false}
+{"name":"address_translation","vers":"0.1.2","deps":[{"name":"ipnet","req":"^2.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f57776f238ee7df0d178ac5997eccb81f9cbd10d2998f8f6f2947bf4707d976","features":{},"yanked":false}

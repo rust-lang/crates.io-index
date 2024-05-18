@@ -1,0 +1,4 @@
+{"name":"catalist","vers":"0.6.4","deps":[],"cksum":"99c00b7fd001ee17b9c9b3d25badd5bcf08de5aefd05c5b29380dfa7bc015aaf","features":{},"yanked":false}
+{"name":"catalist","vers":"0.6.5","deps":[],"cksum":"900ee8d4db689ef124143b288099a1475436b4a1c53b6d2132e96254dce12deb","features":{},"yanked":false}
+{"name":"catalist","vers":"0.7.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e24f8ebcdb59e4e92eaeca8f731a06ec563ea32d6ef73dc48797e89832ac6a80","features":{},"yanked":false}
+{"name":"catalist","vers":"0.8.0","deps":[{"name":"paw","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":["paw"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fc408257524cb1fbb69d9c67aa40436fc025632c26df7698b6a3fc366507c31","features":{},"yanked":false}

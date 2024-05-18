@@ -1,0 +1,2 @@
+{"name":"diceware-rs","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d9cc971bd59e367906b56abcd1c31cae1d51a8af161275eb708fa35cef0272","features":{},"yanked":false}
+{"name":"diceware-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94eb1cb658234fb8cec536454bd60cc6d37b23720d538dba5bb80c6b1cefa48c","features":{},"yanked":false}

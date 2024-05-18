@@ -1,0 +1,1 @@
+{"name":"twodee","vers":"0.1.0","deps":[{"name":"glium","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lyon","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f524731c86767d902d0fdc7f214da2048f85d1d9ae57989bd233eb743ef200b","features":{},"yanked":false}

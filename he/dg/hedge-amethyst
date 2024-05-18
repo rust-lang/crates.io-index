@@ -1,0 +1,1 @@
+{"name":"hedge-amethyst","vers":"0.0.1","deps":[{"name":"env_logger","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e3a8d43b1345591c6b7aae3cbcea04a9503ce52769267518b5a9c1f99070693","features":{},"yanked":true}

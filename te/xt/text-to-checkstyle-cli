@@ -1,0 +1,4 @@
+{"name":"text-to-checkstyle-cli","vers":"0.0.1","deps":[],"cksum":"c4e576428d145e7a304a5d47150e7d20af08ec574cb35e2538b6d82126edba33","features":{},"yanked":true}
+{"name":"text-to-checkstyle-cli","vers":"0.0.2","deps":[],"cksum":"5de9334a105e1722946b4e66eb7da3c7fa927e48e2447cf8be3b3b72ab6eb944","features":{},"yanked":true}
+{"name":"text-to-checkstyle-cli","vers":"0.0.3","deps":[],"cksum":"e60bcf88f01e36f84f6a70342d46edfe542df30204ff902c5a9865c85aa3f556","features":{},"yanked":true}
+{"name":"text-to-checkstyle-cli","vers":"0.0.4","deps":[{"name":"atty","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quick-xml","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"704f3172842b6fb706146dc4acf6b2c385d16e231ea82ee356a0ddd43be48f41","features":{},"yanked":true}

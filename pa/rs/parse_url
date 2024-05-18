@@ -1,0 +1,1 @@
+{"name":"parse_url","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0df8ca5607c3e892a576ba3f2f5ecfb2c2a3a00fc42bb8f4bf924eeb61fedb06","features":{},"yanked":false}

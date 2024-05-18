@@ -1,0 +1,10 @@
+{"name":"cabocha","vers":"0.0.1","deps":[],"cksum":"95f6c7369001b8fc43ef838df544a3eb0f8d3817b1864ecf5a0a7f4a6b94087b","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.0","deps":[],"cksum":"37b591990d407b31a6bea8fc18c1453360a1694dba4f0ba4b9188e8c7673e7d2","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.1","deps":[],"cksum":"28a7fce572975cd4b0f238c76ec27b09ca4145264e8a330d1abdb5565127015e","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.2","deps":[],"cksum":"84e32c098277adcb6a0a0f466669b8f21a4cd13d4dd6a3ea0365a502a86b7873","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.3","deps":[],"cksum":"ce9bf9f4ff177fc2ded683d36cc56aec24a9faebff9705acb1fe276266ff0d71","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.4","deps":[],"cksum":"8b81688808d7238fd25db4fe1fff0ff5fccc5ad5aea9e9476714d35ae0d0214e","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.5","deps":[],"cksum":"719141f85aabc32af46401671f13aca2fc0daf6f5efef593e48d070fa1fb33f9","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.6","deps":[],"cksum":"39b69a6004e52792fdaee059e67e854afdbc042995375cd3718322fc4436ad20","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.1.7","deps":[],"cksum":"603bb5467a67e1e009618d70fe49d2375d991f05d85d77e66b2e156fc7799e8d","features":{},"yanked":false}
+{"name":"cabocha","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50dc7377caad314d5bc667343a763995a0c1c3488dc6a9ad1af80a8154957d1f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"doc-writer","vers":"0.1.0","deps":[],"cksum":"7b031c407c36f1a7587c3c860536e1b44c17a1ba11b77f31d2c492095a29cf71","features":{},"yanked":false}
+{"name":"doc-writer","vers":"0.2.0","deps":[{"name":"pulldown-cmark","req":"^0.8.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44d9f505a01954c7d32610ca7cef416002ffa229abaa4eee83a988dbe624d3bf","features":{"parse-markdown":["pulldown-cmark"]},"yanked":false}

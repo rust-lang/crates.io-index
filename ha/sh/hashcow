@@ -1,0 +1,2 @@
+{"name":"hashcow","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.1.8","features":["rayon"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bb3f587232e8204c554b69b0cafeabb50086887c1f9507c6ee0095a16541bc5","features":{},"yanked":false}
+{"name":"hashcow","vers":"0.2.0","deps":[{"name":"hashbrown","req":"^0.1.8","features":["rayon"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0fe95bb034c65293e49de49ab6429795e7cf509d2427395b4fde93b162b0c46","features":{},"yanked":false}

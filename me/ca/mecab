@@ -1,0 +1,8 @@
+{"name":"mecab","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ea8b6698d699a490ea9f98e582b5babdad37a1961ff2a734a89be300d905cb","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"286b527b2a32b0ee47271cc32808fe6ef082b23fa5f9c68c602b83039801fa12","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ae302caa02521f3cbde81511cc1541de028b26b71761a158be60283ab66d811","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.2","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84622b24cabcefe67aaabdf849d8a869e178bb767f5e51056f24a05386aa32a2","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.3","deps":[{"name":"libc","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c07aa196e914cfd2c5946f3c1008f45d6a87bd2f260223d8d68fc9961857dc1","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.4","deps":[],"cksum":"70851fe1fef45770a28c07790f054f62fd8c0e73cecd5fd8aa6d0a36fb078f5f","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.5","deps":[],"cksum":"580882e6a98cf6c399ef426e8352ee4f7e026925e80aff000099ef5096456774","features":{},"yanked":false}
+{"name":"mecab","vers":"0.1.6","deps":[],"cksum":"ea47523038076ea0d856cee454421c69aa7d6ad549262a2088f12bfcc385cebb","features":{},"yanked":false}

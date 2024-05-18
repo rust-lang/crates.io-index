@@ -1,0 +1,2 @@
+{"name":"ecgen-rs","vers":"0.1.0","deps":[{"name":"genawaiter","req":"^0.99.1","features":["futures03"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc05bc68a7383168e60fddddcd1252ab6d26af39207d19da5f0ab07f2904c978","features":{},"yanked":false}
+{"name":"ecgen-rs","vers":"0.1.1","deps":[{"name":"genawaiter","req":"^0.99.1","features":["futures03"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e11e7c710f1c18ba3b7ca5914a1f5f8e45414a977a43502503196a12a08cf21","features":{},"yanked":false}

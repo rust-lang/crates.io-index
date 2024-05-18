@@ -1,0 +1,2 @@
+{"name":"field-matrix-utils","vers":"0.1.0","deps":[{"name":"ark-ff","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d9eeb6a9aa5754db0f2d526b32a9422fe2f259c635822c990dc15f6b98b19e3","features":{},"yanked":false}
+{"name":"field-matrix-utils","vers":"0.1.1","deps":[{"name":"ark-ff","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c97c1b6b1d094f17895f48b64a4333c57833234996e98b3b484f4150f338840e","features":{},"yanked":false}

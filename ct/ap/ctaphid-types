@@ -1,0 +1,3 @@
+{"name":"ctaphid-types","vers":"0.1.0","deps":[],"cksum":"f54c80abcfaa1cbdd5fa3ce2729814a11532aa77e047b5259d95e8ed1cb40156","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ctaphid-types","vers":"0.1.1","deps":[],"cksum":"cf9cf937ae71fc2151364ccf8231079054b38353f6a3743c80196e5e8e4eed91","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ctaphid-types","vers":"0.2.0","deps":[{"name":"bitflags","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4714cdd86d5134532b9decaa6774db0a6851ecd07e96a2f239332ae1f3239350","features":{"default":["std"],"std":[]},"yanked":false}

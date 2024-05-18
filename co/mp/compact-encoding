@@ -1,0 +1,2 @@
+{"name":"compact-encoding","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"508701f584597140375ff1ee4c045ef290f48568c39720ac666036156e9820e3","features":{},"yanked":false}
+{"name":"compact-encoding","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b2d5be4898d87e1ce07d30f93de999a5a0aca181c65e7a33467292482a62e84f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"animus","vers":"0.1.0","deps":[{"name":"lerp","req":"^0.4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73ca83ff18b23a4a33adec9c6135091184ebddcfcf3af492a4cfe346a62b1e2f","features":{},"yanked":true}
+{"name":"animus","vers":"0.2.0","deps":[{"name":"lerp","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3ae9d365eb5ff581c31dbe7686b3387352497d5c1f969086f99f528a4ba7374","features":{},"yanked":true}

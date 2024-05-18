@@ -1,0 +1,2 @@
+{"name":"photonix","vers":"0.1.0","deps":[{"name":"photonix_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44200cbb5179ea0f379991b469808d2bf08276493b0372e3a1ce9cecdee077a7","features":{},"yanked":true}
+{"name":"photonix","vers":"0.1.1","deps":[{"name":"photonix_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6d93b32b15931fb341500325ad755eb1d94a16456117766cd21c628779ba782","features":{},"yanked":false}

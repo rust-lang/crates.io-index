@@ -1,0 +1,2 @@
+{"name":"ops-core","vers":"0.1.0","deps":[],"cksum":"7a4892ad598005d3105f3cb27878f562d934fc1673afc360beaddb31b1e8196a","features":{},"yanked":false}
+{"name":"ops-core","vers":"0.2.0","deps":[{"name":"async-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d57465be38a13e24528c3c821514029e9b6171b8e86cb04cfa481c78bc7af57","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"range-regex","vers":"0.1.0","deps":[{"name":"bumpalo","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b640b5e6f52278a4f0be1ecc41c06e0a06848369ce922277e445af896c524f09","features":{},"yanked":false}

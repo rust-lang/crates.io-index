@@ -1,0 +1,2 @@
+{"name":"capture-logger","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9063abb4a827ec12ef8d707f760bd66fac79d10a2fc16c580907da99c06b3da4","features":{},"yanked":false}
+{"name":"capture-logger","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"605a59c5054ce9e87cd329251bcc4c04579d5edbd206b1e4c45fbfe24b13ff82","features":{},"yanked":false}

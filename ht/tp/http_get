@@ -1,0 +1,1 @@
+{"name":"http_get","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.23","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77bd719b8e9e413c5c5a29be4e7903cf72c38cedd2642b708a30b829fc8f54be","features":{},"yanked":true}

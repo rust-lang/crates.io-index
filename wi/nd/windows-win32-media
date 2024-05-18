@@ -1,0 +1,5 @@
+{"name":"windows-win32-media","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b11abb5117ab19f9a7fd773124f3c936e88c516dee53387672dd970115b72cd9","features":{},"yanked":false}
+{"name":"windows-win32-media","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b51ffea362c928b54a0edd763b74163afc31652aee9363d850edc040a33ff81b","features":{},"yanked":false}
+{"name":"windows-win32-media","vers":"0.22.5","deps":[],"cksum":"60f9f840b230d5ca2e96c7d6cb850aa965d5afb0f0c64ce9127beffd0c8b28eb","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-media","vers":"0.22.6","deps":[],"cksum":"530f4e80142bd23513f7e779f7eb343c7cd7718b6ad897d8e0e85be05a8218b5","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-media","vers":"0.23.0","deps":[],"cksum":"19ffacb732f6f29f2d2052031351dafc76dafe09c00a0f8d6e222e59131e854e","features":{},"yanked":false}

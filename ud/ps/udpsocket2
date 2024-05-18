@@ -1,0 +1,1 @@
+{"name":"udpsocket2","vers":"0.0.1","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f0de6baeafbb3830f3e0d0077a236d318a4d81dd69444a75de55895958e4c30","features":{},"yanked":false}

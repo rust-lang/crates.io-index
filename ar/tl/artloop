@@ -1,0 +1,1 @@
+{"name":"artloop","vers":"0.0.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glob","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac762a3e5ad88d4d48408ee4e2895686d487e7cbdad8a12cf4d247595cd8ce55","features":{},"yanked":false}

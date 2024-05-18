@@ -1,0 +1,3 @@
+{"name":"mattr","vers":"0.0.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9433eb99fcf9ddb786d72a433806eb1a113fa2548df34690279393522f79a594","features":{},"yanked":true}
+{"name":"mattr","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a14aedfcdafda86df7421e41bbdd23e148e91d1d13da15856633f235a231864b","features":{},"yanked":true}
+{"name":"mattr","vers":"0.0.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f63dc7ec862e5d146c89d104d437548fef5216a6a653f4afc4b87c581970677","features":{},"yanked":false}

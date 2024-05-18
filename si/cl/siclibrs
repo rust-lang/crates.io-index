@@ -1,0 +1,1 @@
+{"name":"siclibrs","vers":"0.1.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cxx-build","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"53a8fe5b4d46dbcc4f282ebfce4bb2f9620477c56969529aa5877300765970f3","features":{},"yanked":false}

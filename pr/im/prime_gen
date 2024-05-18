@@ -1,0 +1,2 @@
+{"name":"prime_gen","vers":"1.0.0","deps":[{"name":"integer-sqrt","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b958e89c7df98177879a8cf1df3db9c2ed43a0ab5f3f5221c028ebec5749b7b","features":{},"yanked":false}
+{"name":"prime_gen","vers":"1.0.1","deps":[{"name":"integer-sqrt","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ac3c9d1bb5c20e8433b39bcf78249ebd6b782bfbd3b3f26c78571d7913e9fff","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"enontekio","vers":"0.1.0","deps":[],"cksum":"60a3974f0d7687cafcc14110101bd3cf4675bea5cbbb0d50437fd23d8ac3408e","features":{},"yanked":false}
+{"name":"enontekio","vers":"0.1.1","deps":[],"cksum":"6bfe1c1948a560d00927093aff4bfc0897702e0d8f9aed06c437c5dda6bc7c65","features":{},"yanked":false}
+{"name":"enontekio","vers":"0.1.2","deps":[],"cksum":"0c1b4c265c44ae5b2f5afbd149e5617159d63814de216df11672e574f203afd0","features":{},"yanked":false}
+{"name":"enontekio","vers":"0.1.3","deps":[{"name":"num-integer","req":"^0.1.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1687ae70c92a560529c1543b861d52a3dfcfdf8085a68abca4bf6350a8e85879","features":{},"yanked":true}
+{"name":"enontekio","vers":"0.2.0","deps":[{"name":"num-integer","req":"^0.1.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2474702029312bafff696f3b94c4ee5bb2fdd02a1daa9d9283ca59c9ff731ac","features":{},"yanked":false}

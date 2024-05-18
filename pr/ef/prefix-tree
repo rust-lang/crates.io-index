@@ -1,0 +1,5 @@
+{"name":"prefix-tree","vers":"0.1.0","deps":[],"cksum":"90e64bd5cc25a8e63838e11f9d7c9339b3cefba0a6bd5efd125a827a70e53192","features":{},"yanked":false}
+{"name":"prefix-tree","vers":"0.2.1","deps":[],"cksum":"4e2c03934b70a8e4a807b0d9a8594cfb22ab8ca1b876ab92ad0fb863203a8629","features":{},"yanked":false}
+{"name":"prefix-tree","vers":"0.3.0","deps":[],"cksum":"31e08a49cd2c8e61cf39d2124dfae0911fa5a7d4b60b023372cf202dc3caae40","features":{},"yanked":false}
+{"name":"prefix-tree","vers":"0.4.0","deps":[],"cksum":"1759ec85330b354c779ebc642cfa8fec83234ecc3bb4547fd248b019d953d1b8","features":{},"yanked":false}
+{"name":"prefix-tree","vers":"0.5.0","deps":[{"name":"quickcheck","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0f499660c89b7cfbbf11bb2faefe26a187062d7ff0f06bc4aba434328213f044","features":{},"yanked":false}

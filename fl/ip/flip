@@ -1,0 +1,1 @@
+{"name":"flip","vers":"0.1.0","deps":[{"name":"phf","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"phf_codegen","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8d850b7350c9b8070a6bdbcf25ed5ecda3d99662f71eb97d0e316a66f623631a","features":{},"yanked":false}

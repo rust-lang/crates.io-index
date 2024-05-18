@@ -1,0 +1,1 @@
+{"name":"gentex","vers":"0.0.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faba4f28c1cebdab637eb34c0aca750daf09e8613dd33cbde2ee167939dd5673","features":{"default":["tikz"],"tikz":[]},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"uf_rush","vers":"0.1.0","deps":[],"cksum":"834c1a20339e2e79279f148bddb59a91ff7db11c0fdaef0aebd7715e7193c743","features":{},"yanked":false}
+{"name":"uf_rush","vers":"0.1.1","deps":[],"cksum":"8337df5fb62e7ee6aede626db43966bbd54ea8c797f830427fa55b3837455da3","features":{},"yanked":false}
+{"name":"uf_rush","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f33da7dcab4d43eb39af602de243fa68f2837b9cd987c2df9365a4008a21ae02","features":{},"yanked":false}
+{"name":"uf_rush","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bde3fc3c012a03d5e25f6f5dbbb0240ad4fb5c749dbaa6614c138319670d2d20","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"air-interpreter-wasm_wasm_log","vers":"0.0.1","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3c5f5b02edc70b5163b307e0f796a3b4a854f689f9e31656872cca35df61fa4","features":{},"yanked":false}
+{"name":"air-interpreter-wasm_wasm_log","vers":"0.0.2","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6629b07479bf16f89f7dd14f4c1d1246f654d6689883d2d461380a83358b720e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"ctre-sys","vers":"5.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aefd92b95a48c0d24936530284c5ed474a7e019a28faa0b091821fb66d3ee3fc","features":{},"yanked":false,"links":"CTRE_PhoenixCCI"}

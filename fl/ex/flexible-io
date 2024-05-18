@@ -1,0 +1,3 @@
+{"name":"flexible-io","vers":"0.1.0","deps":[],"cksum":"5a12248bb40f7dbf78f19af21f9620bd231424dd0decc1732bd00c7b3c3297bc","features":{},"yanked":false}
+{"name":"flexible-io","vers":"0.1.1","deps":[],"cksum":"2b776ad5c6742c5f519b769c5ba574e24629204f007ce14c48781481e3e7862b","features":{},"yanked":false}
+{"name":"flexible-io","vers":"0.2.0","deps":[],"cksum":"831597882f7b083cb0705af34c4b3179b63b7d53fa8e4109ab36d31345134417","features":{"unstable_set_ptr_value":[],"unstable_with_metadata_of":["unstable_set_ptr_value"]},"yanked":false}

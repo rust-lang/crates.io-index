@@ -1,0 +1,1 @@
+{"name":"highlighter-languages","vers":"0.1.1-alpha","deps":[{"name":"highlighter-core","req":"^0.1.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e7bf1d0990f3cb112a164df7342c95542c939701e08dec0ac900b3e8b1e9f7","features":{"all-languages":["brainheck"],"brainheck":[]},"yanked":false}

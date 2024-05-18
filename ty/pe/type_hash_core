@@ -1,0 +1,2 @@
+{"name":"type_hash_core","vers":"0.1.0","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f196cb4b2319cb825cc6254eade58af174350994e4ab0c1be6d098403d04e8f7","features":{},"yanked":false}
+{"name":"type_hash_core","vers":"0.2.0","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87b1e93e2cd97790892dbe2d2813fbaa6eebaeb960265f59e363e79e51e4997a","features":{},"yanked":false}

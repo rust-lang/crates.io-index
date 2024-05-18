@@ -1,0 +1,1 @@
+{"name":"taro-cli","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.12","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a49c3b2a67119fc6d4342dc4eea241006d617002866b6c4929451478180ddda","features":{},"yanked":false}

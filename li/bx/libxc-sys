@@ -1,0 +1,2 @@
+{"name":"libxc-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"05af78f91eb2dd5b4c61694db3fc0bc28e3e9ccc681d7f9662529b26ca168924","features":{},"yanked":true}
+{"name":"libxc-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2907d3ccfbe2338487b684833420fbe287477d5887bb9ab1cbac6653830d4ebd","features":{},"yanked":false}

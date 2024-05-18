@@ -1,0 +1,5 @@
+{"name":"definitive","vers":"0.0.0-alpha.0","deps":[],"cksum":"bc3b493d038290d20c45001e6fc196c1d62078d6501fe2adb9f2de5246978959","features":{"default":["simd"],"simd":[]},"yanked":false}
+{"name":"definitive","vers":"0.0.0-alpha.1","deps":[],"cksum":"ea601acd247c135a9b2f6e8c0353f7983eb86cb55a000992257ec58f690aff2b","features":{"default":["simd"],"simd":[]},"yanked":false}
+{"name":"definitive","vers":"0.0.0-alpha.2","deps":[],"cksum":"be47b211c2f62a9a57366640b4b503993cc4d37735396a9d35e1e94742d8e8fc","features":{"default":["simd"],"simd":[]},"yanked":false}
+{"name":"definitive","vers":"0.0.0-alpha.3","deps":[],"cksum":"438af999a18f33f0f802b2cca70583233b7d301131c2cf1b7b494621c9080aac","features":{"default":["std","simd"],"simd":[],"std":[]},"yanked":false}
+{"name":"definitive","vers":"0.1.0","deps":[],"cksum":"b2e346cb8379d85743cb4a5450b55a1a25dc3de21a50fc0a5dfde19d2e5dfcbd","features":{"default":["std","simd"],"simd":[],"std":[]},"yanked":false}

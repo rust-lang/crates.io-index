@@ -1,0 +1,1 @@
+{"name":"redis_r2d2","vers":"0.17.0","deps":[{"name":"r2d2","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"redis","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c9b4cb5299542b6a59724a76475b14e014401c85a4d767779fd9e2975e51a4e","features":{},"yanked":false}

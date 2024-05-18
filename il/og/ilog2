@@ -1,0 +1,7 @@
+{"name":"ilog2","vers":"0.0.1","deps":[],"cksum":"0c264d4d395beca6bba7319eb95d4ae303e45dd01e1a9dc4902b5576f2341c68","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.0.2","deps":[],"cksum":"6b1b89ccb98df6de2a8c5113870b40c70baabcccd611c0f3638ca5d44a7e0019","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.1.0","deps":[],"cksum":"1c6975294d9f0ec18e99f70ec68ad01014a05611aadf9962513f31ff1d6b9568","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.1.1","deps":[],"cksum":"56679597175f8010a92968b3e85525fb2316e659b5307eecc01eb53132e1d55a","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.2.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cc3e73a9fcc329f3792e7c3c7aade8c5aff561fc34d9dd59c6baa160bce9ab0","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.2.1","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"422b3ad800a02579675c2f96170d82c7ad16a41cc266e7df0c99d33e49a02654","features":{},"yanked":false}
+{"name":"ilog2","vers":"0.2.2","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca35faa88d86a0c075a4465ca7fae3a16ea028e75f185e2d9b58634039052d33","features":{},"yanked":false}

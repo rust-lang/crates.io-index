@@ -1,0 +1,5 @@
+{"name":"avrisp","vers":"0.1.0","deps":[],"cksum":"21b8d449fdb9f2b7527cc25b282d1458e967b4626bdc4b88bfd5a90dbebb22d1","features":{},"yanked":false}
+{"name":"avrisp","vers":"0.2.0","deps":[],"cksum":"9fe38e74019e2d1819412f5d003c0b3ce978cf056a54c7fcb8aeea45f9f118e5","features":{},"yanked":false}
+{"name":"avrisp","vers":"0.2.1","deps":[],"cksum":"0b31392f132066874260e04816d4484f9892deac4265ff239aba30a9d9790261","features":{},"yanked":false}
+{"name":"avrisp","vers":"0.3.1","deps":[],"cksum":"96dace54bd486529840e001206019c7d5d2ef10a77934013467f39beddb6caf5","features":{},"yanked":false}
+{"name":"avrisp","vers":"0.3.0","deps":[{"name":"claim","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serial","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bd2e879bb951c136649ca3af40e29610acd16e8f28ebe4db625cfaef8ca3d6a","features":{},"yanked":false}

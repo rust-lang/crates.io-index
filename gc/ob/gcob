@@ -1,0 +1,2 @@
+{"name":"gcob","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d854c17552dfaefd28a7b0a2f6e11abf538340b1eda6ec5416c186ba4fee385c","features":{},"yanked":false}
+{"name":"gcob","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac95f680fa96c2b33b97fc75983dafa6685c8898c8d0c205b589d33c7625e311","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"polib","vers":"0.0.1","deps":[],"cksum":"7a7f9fc145819b2dd2c721a7dd62d9bdea4070097c97221cf415126e5ff704fa","features":{},"yanked":true}
+{"name":"polib","vers":"0.1.0","deps":[],"cksum":"17009af1604eef4137497a743594fbe8f37e52f004cb5d8f7cf5130dc74a5644","features":{},"yanked":false}
+{"name":"polib","vers":"0.2.0","deps":[{"name":"linereader","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b393b155cf9be86249cba1b56cc81be0e6212c66d94ac0d76d37a1761f3bb1b","features":{},"yanked":false}

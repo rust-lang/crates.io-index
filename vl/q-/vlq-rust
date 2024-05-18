@@ -1,0 +1,5 @@
+{"name":"vlq-rust","vers":"0.1.0","deps":[],"cksum":"aa597a27cef44edae2ff6234bcac7e85da83a4afa06ee569498902eac237d909","features":{},"yanked":false}
+{"name":"vlq-rust","vers":"0.1.1","deps":[],"cksum":"f434656cb99c78d4848183b5eb04346039496a8b086bfe7f3f9cfba3263604a2","features":{},"yanked":false}
+{"name":"vlq-rust","vers":"0.2.0","deps":[],"cksum":"1c2f24977c400a9411331c3ce2e558e29b36789d40da31ddaf7f14bb71332083","features":{},"yanked":false}
+{"name":"vlq-rust","vers":"0.3.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"92df9f304db3c3e6f98cbddda21acf5b7d2fd6e2334a9a6ee02fc18554fc17b8","features":{},"yanked":false}
+{"name":"vlq-rust","vers":"0.4.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"089fb9f9689f6a4e8bd6555cc862e383c045981bacfefb0a8dfec06911787b9b","features":{},"yanked":false}

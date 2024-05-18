@@ -1,0 +1,8 @@
+{"name":"entropy","vers":"0.1.0","deps":[],"cksum":"b774b3e682525e38692df60bd22d7a6e881c9a23c41d42a5bba290981f9d580a","features":{},"yanked":true}
+{"name":"entropy","vers":"0.1.1","deps":[],"cksum":"2e42163b37703174cc37a7b3ca4a41c801232ed2e69569ca45e1acf2211528a4","features":{},"yanked":false}
+{"name":"entropy","vers":"0.2.0","deps":[],"cksum":"4765a97b5cacb9ce8aab6c38bdc6c4fdc9c3fa9efdbc5c434c9e989634afc2a1","features":{},"yanked":false}
+{"name":"entropy","vers":"0.2.1","deps":[],"cksum":"36562d456e2979f54c504c2ec2e76d0e4e196ee9ff958dae5cad0a0e0e2eb7c9","features":{},"yanked":false}
+{"name":"entropy","vers":"0.3.0","deps":[],"cksum":"e1769427d0c2b3744756471248e129fa81e1b0b853f243dc44c6a249a3f985d6","features":{},"yanked":false}
+{"name":"entropy","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d84b43e0cc11fe16e8dd0478bca2e380b09154b0dba637a3c3c3bcc248c0d34e","features":{},"yanked":false}
+{"name":"entropy","vers":"0.4.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e885f8dca86fbf1999f9b4643d6e94e984c5c8b36073404dd227be3e5255f1d5","features":{},"yanked":false}
+{"name":"entropy","vers":"0.4.2","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d68716e45ef572f351be6fad93a7bbf35242b4289a2ff75434032e5d73d74cc2","features":{},"yanked":false}

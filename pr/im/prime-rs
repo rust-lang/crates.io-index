@@ -1,0 +1,2 @@
+{"name":"prime-rs","vers":"0.1.0","deps":[],"cksum":"595a77b8ecf6407e3f09ba1c78f47aab91877e5920ae9c9736ca887e8817a0a7","features":{},"yanked":false}
+{"name":"prime-rs","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"865d8ed4424fd99b87d26d0f274aa24f859fd7a12641c5505434b95c7bd06365","features":{},"yanked":false}

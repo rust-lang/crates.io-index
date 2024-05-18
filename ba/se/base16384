@@ -1,0 +1,1 @@
+{"name":"base16384","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c81fb0b757d33aa2a07ee0f07800e5e529aac2a78a474f1816174516e23a1d62","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.60"}

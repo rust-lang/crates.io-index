@@ -1,0 +1,1 @@
+{"name":"embercat","vers":"0.0.0","deps":[{"name":"chandra","req":"^0.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"043a3e1c0a5f5a6d1d477acc9225ebda68855b317376ea72f4a1d67b98b56480","features":{"default":["gpu","std"],"gpu":["chandra/gpu"],"nightly":["chandra/nightly"],"std":["chandra/std"]},"yanked":false}

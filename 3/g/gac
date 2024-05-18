@@ -1,0 +1,3 @@
+{"name":"gac","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.19","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b5e1a55983cb3ebf352e4321d2be4608efdffc9c6c5092297e8e154b6cee4ba","features":{},"yanked":false}
+{"name":"gac","vers":"0.1.1","deps":[{"name":"clap","req":"^4.3.19","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e45f818bf93643d06ee97965a1e53606319a7c405882ddef08deba9eca6deb4","features":{},"yanked":false}
+{"name":"gac","vers":"0.1.2","deps":[],"cksum":"f32834d10f45ed34d464aba59b3806f1d268e4c32cc576e965621ce101887240","features":{},"yanked":false}

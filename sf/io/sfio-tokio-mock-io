@@ -1,0 +1,1 @@
+{"name":"sfio-tokio-mock-io","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"258bfa6a7160e6e19effd9dcd3601c10432eda4b36daa45b58030605ad332586","features":{},"yanked":false}

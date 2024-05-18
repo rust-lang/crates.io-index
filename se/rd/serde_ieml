@@ -1,0 +1,1 @@
+{"name":"serde_ieml","vers":"0.1.0","deps":[{"name":"nom","req":"7.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3ad59aa2b031a6ed0e295b50755755c3ca6454968ee00343a4bf131b7b1f76a","features":{},"yanked":false}

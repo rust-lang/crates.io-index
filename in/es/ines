@@ -1,0 +1,4 @@
+{"name":"ines","vers":"0.1.0","deps":[],"cksum":"aca410de636c7bc47c4a7f752b83c4ff14f044ac484b8968812fc8136fdedefa","features":{},"yanked":false}
+{"name":"ines","vers":"0.1.1","deps":[],"cksum":"dd4e3adf8d583bdf8bacb49c2e02e980251ad798a35eb4577d18d36bedd28135","features":{},"yanked":false}
+{"name":"ines","vers":"0.2.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47b9efb5bf7860019aaa8142c64a55dfa98975d8c66026729c8f55f38a54cffd","features":{},"yanked":false}
+{"name":"ines","vers":"0.3.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"929a8b322a4ba174e7afcdce3bdca387b1f3552664ba324a5f503f4200e0cadf","features":{},"yanked":false}

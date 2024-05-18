@@ -1,0 +1,5 @@
+{"name":"psci","vers":"0.1.0","deps":[],"cksum":"02b63e2f0d5eebc41334d776d728152edb742740759d192f7d14e7ca484ee007","features":{"default":["hvc"],"hvc":[],"smc":[]},"yanked":false}
+{"name":"psci","vers":"0.1.1","deps":[],"cksum":"3374e3ae47f134467227a48be93b929e5d304efcd25ce5d176006403ca1d9bab","features":{"default":["hvc"],"hvc":[],"smc":[]},"yanked":false}
+{"name":"psci","vers":"0.1.2","deps":[],"cksum":"49a496e5df1933d955e753c093e18a652c43775e7fc27344ead11c8a4d51425c","features":{"default":["hvc"],"hvc":[],"smc":[]},"yanked":true}
+{"name":"psci","vers":"0.1.3","deps":[],"cksum":"3b6fb7be1022539b1ea394ff4bcbad807a55c93841bb12c733f0be1048ea3e53","features":{"default":["hvc"],"hvc":[],"smc":[]},"yanked":false}
+{"name":"psci","vers":"0.2.0","deps":[],"cksum":"f1bfb750d114c06e343416380fe327db287ed798427129a4dea5ec7f3bffe1d4","features":{},"yanked":false}

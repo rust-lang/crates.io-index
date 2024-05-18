@@ -1,0 +1,2 @@
+{"name":"hash2hwaddr","vers":"0.0.0","deps":[{"name":"quickcheck","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4840f33d306ddb5e33ce9cb5928c8c489fb4914ef87f0670eee9e7734bdef4f","features":{},"yanked":false}
+{"name":"hash2hwaddr","vers":"0.0.1","deps":[{"name":"quickcheck","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"857afb5ee9e767c3a73b2ad7212b6deea0c3761a27db1e20ea0ed57ee352cfef","features":{},"yanked":false}

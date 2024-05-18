@@ -1,0 +1,2 @@
+{"name":"pp-rs","vers":"0.1.0","deps":[],"cksum":"66a7375c4eaa30c469c90a4e20904047342600605ed116f217cdd077f3910c6d","features":{},"yanked":false}
+{"name":"pp-rs","vers":"0.2.1","deps":[{"name":"unicode-xid","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb458bb7f6e250e6eb79d5026badc10a3ebb8f9a15d1fff0f13d17c71f4d6dee","features":{},"yanked":false}

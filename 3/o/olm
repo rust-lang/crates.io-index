@@ -1,0 +1,3 @@
+{"name":"olm","vers":"0.1.0","deps":[],"cksum":"9f2307e087ac7ca65998cc67a09fa90771be4cee27d9bc3f973123ff7a8a3977","features":{},"yanked":true}
+{"name":"olm","vers":"0.1.1","deps":[],"cksum":"053d0e742d5fd3242deef40d38a49cb3c21bd233ac93a4b57c85a528f9aadbe6","features":{},"yanked":true}
+{"name":"olm","vers":"0.1.2","deps":[{"name":"ed25519-dalek","req":"^1.0.0-pre.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ed826e45a0528fed63411495bb988e52ccdaad98bdbee5515560127535da7e","features":{},"yanked":true}

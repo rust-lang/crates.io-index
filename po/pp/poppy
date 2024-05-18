@@ -1,0 +1,1 @@
+{"name":"poppy","vers":"0.0.1","deps":[{"name":"hound","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"opus-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ffa15110a148e58a0219a3bb00cc968126482e21ca9534a15d6d187811d0a1b","features":{},"yanked":false}

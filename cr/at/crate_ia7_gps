@@ -1,0 +1,2 @@
+{"name":"crate_IA7_GPS","vers":"0.1.0","deps":[{"name":"rpi_embedded","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"959edd74044ff1815c76aaa5b99f630c87a7435f804880d4a6ec4cbe961a8f10","features":{},"yanked":false}
+{"name":"crate_IA7_GPS","vers":"0.2.0","deps":[{"name":"rpi_embedded","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc7e54445b9767671b058e226544ec16a17bf970b8c8f99ca72f6916226a9382","features":{},"yanked":false}

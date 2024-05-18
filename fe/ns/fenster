@@ -1,0 +1,1 @@
+{"name":"fenster","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proptest","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f300c19a2aa163c8fd313c21d195065dcda3bd3e0419a4f49ba42cce8353774","features":{},"yanked":false}

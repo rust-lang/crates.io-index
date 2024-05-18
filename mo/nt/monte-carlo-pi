@@ -1,0 +1,2 @@
+{"name":"Monte-Carlo-Pi","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df1022b5f4adca230e48e22b0fd26644aa3f55df779679fe4d386a66daa4af38","features":{},"yanked":false}
+{"name":"Monte-Carlo-Pi","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dc46c86656d6625bc9e1bc1ba22784a8a6dd745aac96519d3af83024bfdb61f","features":{},"yanked":false}

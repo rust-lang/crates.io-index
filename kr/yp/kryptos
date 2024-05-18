@@ -1,0 +1,9 @@
+{"name":"kryptos","vers":"0.1.2","deps":[],"cksum":"9a6f007b664ee128f35be94a809816319501ddcd72b8b060d9f734f4e2e6a59c","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.3.0","deps":[],"cksum":"75cb0d21010a5a4566c858548f196452c372ead7308800056023a12dd44700f7","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.4.0","deps":[],"cksum":"28fb9056a7bf66719221ed53df02910eed12a2e882131e7665248fb54b8c4bae","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.4.1","deps":[],"cksum":"9104a04550ed42023931b34c5db1c49e9b57e51c954c34e69050b97e942c5b02","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.5.0","deps":[],"cksum":"0cf881a97fed414b7ce699320b07941af9fc527cd06e934d81c020a6863def24","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.6.0","deps":[{"name":"regex","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"506514f40b6eed5184bd305c84e66f30047196b427a3a23912e67baf2a735ab0","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.6.1","deps":[{"name":"regex","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6857405096df5efaf4b95ae70e6439fd90c513b4c185475f98156ac569aa2d44","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.6.2","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80efcf2f550775ae97040e08aa2669e3c097439e753abd2601ac1dd802389026","features":{},"yanked":false}
+{"name":"kryptos","vers":"0.6.3","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"892c568609c4440ae04252790ca1aa0c5e7d810fb82e70d401a0b7208a1dc58d","features":{},"yanked":false}

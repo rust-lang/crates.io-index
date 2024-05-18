@@ -1,0 +1,1 @@
+{"name":"crypto-permutation","vers":"0.1.0","deps":[],"cksum":"d8850742ef43809f767a01abb6d93217f56c8c1793d00a521a7a4f692b3f19ed","features":{"alloc":[],"default":[],"io_le_uint_slice":[],"io_uint_u128":[],"io_uint_u16":[],"io_uint_u32":[],"io_uint_u64":[],"std":["alloc"]},"yanked":false,"rust_version":"1.65"}

@@ -1,0 +1,2 @@
+{"name":"drop_tracer","vers":"0.1.0","deps":[{"name":"test_panic","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af373af803a6a776b63375e73a62fcec9a214e41c7dcb7e6c503cfd09417b959","features":{},"yanked":false}
+{"name":"drop_tracer","vers":"0.1.1","deps":[{"name":"test_panic","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5aaeb2c05f39a7ab2951d7a747ff6958bef141abc5ad1d79cd55840253365801","features":{},"yanked":false}

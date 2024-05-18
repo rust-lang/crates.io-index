@@ -1,0 +1,1 @@
+{"name":"farbraum","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d141d180762a92172c24a42aa5f98f28fe1f8b42deac674808306b126d2f4888","features":{"default":["double-precision"],"double-precision":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rust-sdl2-extras","vers":"0.0.1","deps":[{"name":"sdl2","req":"^0.31","features":["ttf","image"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3c2fd8630f50791700f88bf43a1b61f4ca589bc4e27cd8765bf4a167d873c89b","features":{},"yanked":true}

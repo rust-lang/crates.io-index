@@ -1,0 +1,1 @@
+{"name":"oao","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2e10a0a7458b0b4b87cd8f9c073ae0b774dcc7fe8d4a4ee151792e916fe241c","features":{},"yanked":false}

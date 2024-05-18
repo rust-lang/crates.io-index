@@ -1,0 +1,5 @@
+{"name":"fiveo","vers":"0.1.0","deps":[{"name":"strsim","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d1c3e30052e4cd6813d35951209c64fb8cc639c2790e3985075bcc8fef0655a","features":{},"yanked":false}
+{"name":"fiveo","vers":"0.2.0","deps":[{"name":"strsim","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5cc6b42a9c8448ab1a2536434eee278918c53b14586c6b5822a03b8f5fac808","features":{},"yanked":false}
+{"name":"fiveo","vers":"0.3.0","deps":[],"cksum":"aaa9d272e352da6196c117461abca0256e7201230dc438a51eea98a4d25bb6f6","features":{"webassembly":[]},"yanked":false}
+{"name":"fiveo","vers":"0.3.1","deps":[],"cksum":"a687cb5518e8e9961d8e285e55d3c27251939915230fe1000dc60ecfb17c6a72","features":{"webassembly":[]},"yanked":false}
+{"name":"fiveo","vers":"0.3.2","deps":[],"cksum":"079706dc92dd3f42031258ea843b2b86ae7b652022dc72d644f411f474a92f48","features":{"webassembly":[]},"yanked":false}

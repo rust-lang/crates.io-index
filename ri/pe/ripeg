@@ -1,0 +1,4 @@
+{"name":"ripeg","vers":"0.1.0","deps":[],"cksum":"0dac7e2abd658ce41b86eacc5eed988bb10c914bfda11e22f340311414140cd1","features":{},"yanked":false}
+{"name":"ripeg","vers":"0.1.1","deps":[],"cksum":"27351e728edd672cb95b09d26a352070738c0aec9c5ff0039eec30aaa8abe759","features":{},"yanked":false}
+{"name":"ripeg","vers":"0.1.2","deps":[{"name":"bitvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"618777c7c5a326c6a323f7d2ceba64eb34d5402172517162526efc319ee501cc","features":{},"yanked":false}
+{"name":"ripeg","vers":"0.1.3","deps":[{"name":"bitvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"118db767e23d70eee9ae8d044c84b487d05dd91026ca2281e2314a57b1b7ef33","features":{},"yanked":false}

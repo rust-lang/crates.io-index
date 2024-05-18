@@ -1,0 +1,1 @@
+{"name":"struf","vers":"0.0.1","deps":[{"name":"struf_derive","req":"^0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc94a0e8898279c55bbb83b42da1d3fca8f85aec5dc4be715132dc47fc4a8e14","features":{"default":["derive"],"derive":["struf_derive"]},"yanked":false}

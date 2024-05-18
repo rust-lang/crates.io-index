@@ -1,0 +1,4 @@
+{"name":"terminalgl","vers":"0.1.0","deps":[],"cksum":"f1b50e4fb3952b4400e6abadff715efaf9c0fe968dc0adeaeb57d843f7bdecb0","features":{},"yanked":false}
+{"name":"terminalgl","vers":"0.2.0","deps":[{"name":"termsize","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50d2e26f7d52922841b4f4c438d311021d4bdaec1bf05234205d6d6ee0bf47e7","features":{},"yanked":false}
+{"name":"terminalgl","vers":"0.2.1","deps":[{"name":"termsize","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d612d8e7bbc9a7a841d84f10cb1241aeeecce8bb4ffd3d7eb1f2721c94641764","features":{},"yanked":false}
+{"name":"terminalgl","vers":"0.2.2","deps":[{"name":"termsize","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2c7a29e061a6fd0c63f2d4f61a341eb4a17e7cbacebe3552f9a1a425937e105","features":{},"yanked":false}

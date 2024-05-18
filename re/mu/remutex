@@ -1,0 +1,2 @@
+{"name":"remutex","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43c26496032ea5263af07cc124e1a8297b04dd740b007e42ef782754fe430a52","features":{},"yanked":false}
+{"name":"remutex","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f8f9c1b24b3b27fb74d67527665a6ef0e3910720c1d19ee64d78b8d628e2d36","features":{},"yanked":false}

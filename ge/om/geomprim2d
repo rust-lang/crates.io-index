@@ -1,0 +1,2 @@
+{"name":"geomprim2d","vers":"0.1.0","deps":[{"name":"scalar","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d15ba932ac13bfd0fc6a409d12abb15cf380c39a6ac80780f4f50b430b39c08","features":{},"yanked":false}
+{"name":"geomprim2d","vers":"0.1.1","deps":[{"name":"scalar","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"396b220a59a905471acfa76424038349e09cfaee503dfdf5c268f2943bda337d","features":{},"yanked":false}

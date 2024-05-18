@@ -1,0 +1,2 @@
+{"name":"aoc23_parser","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.22","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0ab04acc2bfbedc6f1903781334b10d6d0c47a604f1f4e335b6bf5f969b5794","features":{},"yanked":false}
+{"name":"aoc23_parser","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11.22","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c155ea13801dc9a40c211ab142ea8fcb9d5e0da6c41b631af994fbc384a8970","features":{},"yanked":false}

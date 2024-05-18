@@ -1,0 +1,1 @@
+{"name":"tubular","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc70835ad4f82548d77fa19370a6de96ae74c084cdefac3a611cdfbf697aaeba","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"tomt_async","vers":"0.1.0","deps":[],"cksum":"bccab42a4f813e7591ac79012ab576f7746582f434e59ee665116c682b31bb86","features":{"default":["sync"],"sync":[]},"yanked":false}
+{"name":"tomt_async","vers":"0.1.1","deps":[],"cksum":"b7e2910dcc2c402d8fe926114acc1419a68897ff0b4d97c577361cafb0140015","features":{"default":["sync"],"sync":[]},"yanked":false}
+{"name":"tomt_async","vers":"0.1.2","deps":[],"cksum":"b6faa537ba91f55b4225a70ddc9b0fbf7db9072531135a1fa99e3e26d526ede8","features":{"default":["sync"],"sync":[]},"yanked":false}
+{"name":"tomt_async","vers":"0.1.3","deps":[],"cksum":"0c0a521358e5e3f97a3bed02794ffc258f6af771fb63a293e8c93ba5f6103d4e","features":{"collections":[],"default":["collections","sync"],"sync":[]},"yanked":false}

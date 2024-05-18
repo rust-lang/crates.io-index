@@ -1,0 +1,1 @@
+{"name":"netutil","vers":"0.0.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84953eb3439a69ea361298f13a256fed7925398c9f8c8cf25b540dd733fae87d","features":{},"yanked":false}

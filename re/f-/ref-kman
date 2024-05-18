@@ -1,0 +1,2 @@
+{"name":"ref-kman","vers":"0.0.1","deps":[{"name":"atomic-wait","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2e79d4a976e46af8795ebc4e6b948c640f32748fd0f88772d0a3b54952598f4","features":{},"yanked":false}
+{"name":"ref-kman","vers":"0.0.2","deps":[{"name":"atomic-wait","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f63de89ac51e25c0c02e45d87d11f8a3fd8b877788411be4970e05ae1640c69e","features":{},"yanked":false}

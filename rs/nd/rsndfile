@@ -1,0 +1,2 @@
+{"name":"rsndfile","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f59b242bda5281dfad8043619699001456f3019efe6aeb9abf3e6d2c4113ba8","features":{},"yanked":false}
+{"name":"rsndfile","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"594fa68ddc2a27bd858aa1a793f08232e33cbef7d8c0bbe87dee434e974d6970","features":{},"yanked":false}

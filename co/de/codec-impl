@@ -1,0 +1,1 @@
+{"name":"codec-impl","vers":"0.2.0","deps":[{"name":"susy-codec","req":"^3.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"be2cc656aa28b8b86159dfd736c90800edfff9d9e92bfa8258f9bca4a60b473b","features":{"default":["std"],"std":["susy-codec/std"]},"yanked":false}

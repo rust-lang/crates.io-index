@@ -1,0 +1,2 @@
+{"name":"loli_lib_dev","vers":"0.0.1","deps":[],"cksum":"6af1887982dd513cb82ef0d2b7555bb3e3ff9a884f0e15c153d98ef63286b613","features":{},"yanked":false,"rust_version":"1.68.0"}
+{"name":"loli_lib_dev","vers":"0.1.1","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f296716cdb2bd89b28272041c2ff194f6f3982027cf6cc62760aa04c4f9d8c72","features":{},"yanked":false,"rust_version":"1.68.0"}

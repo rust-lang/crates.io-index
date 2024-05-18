@@ -1,0 +1,2 @@
+{"name":"launchpad","vers":"0.1.0","deps":[{"name":"portmidi","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79cc83defa9cc94427857dcc14523f69d761fa785201c941c4eb13f3e6e9bc41","features":{},"yanked":false}
+{"name":"launchpad","vers":"0.1.1","deps":[{"name":"portmidi","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"095df368afc771c34403f5dfdbd763508567bdb84d2e633c901c42e74a980553","features":{},"yanked":false}

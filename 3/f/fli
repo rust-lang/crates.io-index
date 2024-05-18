@@ -1,0 +1,4 @@
+{"name":"fli","vers":"0.0.1","deps":[],"cksum":"804b442418fe21e39b23ab04692f8d5d303784ff3de305252fab8d0790af5fc8","features":{},"yanked":false}
+{"name":"fli","vers":"0.0.2","deps":[],"cksum":"798601564d7a5967f62cae4d46cba6d0f8c121dce7ee1ae2f23c6356f7ba3b52","features":{},"yanked":false}
+{"name":"fli","vers":"0.0.3","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d9ab1703f6fb252a7b38275b0db11df9535fd59118e8128585484131cf552eb","features":{},"yanked":false}
+{"name":"fli","vers":"0.0.4","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78541a1ac4068a14fe0245f9a89f02b12d27612cdfdd6856aa4dca9c75a7a8b7","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"rtp-rs","vers":"0.1.0","deps":[],"cksum":"054f04d8fcb6e8bd509d5b8d25ea7652788e00cd8c28f7274946568929888544","features":{},"yanked":false}
+{"name":"rtp-rs","vers":"0.2.0","deps":[],"cksum":"bc86f35c9a0b6ad4395cbd4c157705a7d8804a3394ae07f0878bd801326e8161","features":{},"yanked":false}
+{"name":"rtp-rs","vers":"0.3.0","deps":[],"cksum":"e78db1179f207610e377451c3e81cfe177cc101a738430c9bc400729563c598c","features":{},"yanked":false}
+{"name":"rtp-rs","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d75f487be7f906c1220d2bfeb266d8c08023c3696ec3014a008b3e9d227720bb","features":{},"yanked":false}
+{"name":"rtp-rs","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e1110d695193d446e901de09921ffbf2d86ae351bbfde9c5b53863ce177e17f5","features":{},"yanked":false}
+{"name":"rtp-rs","vers":"0.6.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4ed274a5b3d36c4434cff6a4de1b42f43e64ae326b1cfa72d13d9037a314355","features":{},"yanked":false}

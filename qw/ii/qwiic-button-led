@@ -1,0 +1,2 @@
+{"name":"qwiic-button-led","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72c26c1f918a86a8e04e8fc8208d8e92e708b1e876341552a445348042b1e9ab","features":{},"yanked":false}
+{"name":"qwiic-button-led","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbf9bc648e021a2bc2d9b9cbe45af7b58380ccbed23afc79c297cd3dd95962ea","features":{},"yanked":false}

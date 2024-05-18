@@ -1,0 +1,2 @@
+{"name":"shell2bin","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97bf251b1e24e467b43f592e670f6ce71eeed06d7915684626f074bec4cfcda7","features":{},"yanked":false}
+{"name":"shell2bin","vers":"2.0.0","deps":[{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb6a75c6c490432775ae8de4183e225b47c8d22e54e895dce794804d41600339","features":{},"yanked":false}

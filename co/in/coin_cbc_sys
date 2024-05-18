@@ -1,0 +1,3 @@
+{"name":"coin_cbc_sys","vers":"0.1.0","deps":[],"cksum":"14a368596759b3d8b42a349485c3757f78941aa188ef6f123ff8f2eff4c9c02b","features":{},"yanked":false}
+{"name":"coin_cbc_sys","vers":"0.1.1","deps":[],"cksum":"4902c2c164ed74da85aa8472c4a754de1d8164c1fd16d672ec0faf22da482fa9","features":{},"yanked":false}
+{"name":"coin_cbc_sys","vers":"0.1.2","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"085619f8bdc38e24e25c6336ecc3f2e6c0543d67566dff6daef0e32f7ac20f76","features":{},"yanked":false}

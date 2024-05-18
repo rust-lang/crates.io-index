@@ -1,0 +1,2 @@
+{"name":"utils-soeur","vers":"0.1.0","deps":[],"cksum":"3af13c2f203f7e0ad657cd35262cbe7093cd0889d88e670ef14c6867a1fcbd5d","features":{},"yanked":false}
+{"name":"utils-soeur","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"102acc486e2159e40cdb7ca04a51601214da54b7bae5c59d3ba1d9657c0e3b66","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"partial-default","vers":"0.1.0","deps":[{"name":"partial-default-derive","req":"=0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"124dc3c21ffb6fb3a0562d129929a8a54998766ef7adc1ba09ddc467d092c14b","features":{},"features2":{"derive":["dep:partial-default-derive"]},"yanked":false,"v":2}

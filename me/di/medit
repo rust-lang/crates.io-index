@@ -1,0 +1,3 @@
+{"name":"medit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6572f306066516c1e40a05bcd426f3e7fc42162f8bad11a109d5c50cdf1303e1","features":{},"yanked":true}
+{"name":"medit","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"580a344adeaee19e62e877ab061e4aced769c7212e75907a2e17979e24d94c60","features":{},"yanked":true}
+{"name":"medit","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2790b30a9f3703651dc9c5a243f123f61e6a2e96b07e19b8830f20b25a9d9e9","features":{},"yanked":true}

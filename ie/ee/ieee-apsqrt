@@ -1,0 +1,2 @@
+{"name":"ieee-apsqrt","vers":"0.1.0","deps":[{"name":"rustc_apfloat","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a37b28e2c2df8d42b16e007542a035a0d47ed387cd15bc79d2ee2457ef1103a","features":{},"yanked":false}
+{"name":"ieee-apsqrt","vers":"0.1.1","deps":[{"name":"rustc_apfloat","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4328941c554aaeea28ca420cd1f10e932fa38874faf8c75e3ed184c64c5c6cec","features":{},"yanked":false}

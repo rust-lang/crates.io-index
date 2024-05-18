@@ -1,0 +1,1 @@
+{"name":"imxrt1060evk-fcb","vers":"0.1.0","deps":[{"name":"imxrt-boot-gen","req":"^0.3","features":["imxrt1060"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87841acc44ef7fb1e0f667d7261b61fb9d91722ef5a9975f1d9514c9876c9b94","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cpp-pack","vers":"0.1.0","deps":[{"name":"zip","req":"^0.6.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a829e1b23feab393444853bf9cc4e2e7b94ad06a1f5f836cb7d5c0038b0f51b","features":{},"yanked":false}
+{"name":"cpp-pack","vers":"0.1.1","deps":[{"name":"zip","req":"^0.6.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35eec3a3832c834334d483bee3a34d60563484ca05c83e07e149306690177ebb","features":{},"yanked":false}

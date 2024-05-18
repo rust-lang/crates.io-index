@@ -1,0 +1,2 @@
+{"name":"goldilocks-json-fmt","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e88b3bab1b829cc2ac92363d13b6e3f0dfc8fc4df0b10eb02d22eb31459d2341","features":{},"yanked":false}
+{"name":"goldilocks-json-fmt","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3789ceaa220a1f6e232676d9dbb9fc65e1c0e1c2573f7015bf34a9904f1bd666","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jp_graph","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proptest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5bda4160e87184424fb78d8eabd0bfb515b71c5848cede98ca50f238c0b3213c","features":{},"yanked":false}

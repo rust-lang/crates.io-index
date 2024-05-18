@@ -1,0 +1,2 @@
+{"name":"libknot-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.37.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7504e1d51b29f52492726e91915a959130679a38aee60bf35f7baa8f74920964","features":{},"yanked":false}
+{"name":"libknot-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.37.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"01389eba3e91e4041391ca2d371b8cbf5e52d8f2cca68a4e3953fd08d9555c0a","features":{},"yanked":false}

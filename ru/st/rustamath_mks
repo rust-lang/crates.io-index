@@ -1,0 +1,2 @@
+{"name":"rustamath_mks","vers":"0.1.0","deps":[{"name":"assert_float_eq","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9903a4ea41a2e8032dcf7438a3820044fcef0b4b7d04f57c1763de90a1a9ba","features":{},"yanked":false}
+{"name":"rustamath_mks","vers":"0.1.1","deps":[{"name":"assert_float_eq","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eae51712edeb4ba512eefbf76d8eef4130b24013d44dddd040cbe7c4463752a2","features":{},"yanked":false}

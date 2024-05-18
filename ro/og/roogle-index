@@ -1,0 +1,1 @@
+{"name":"roogle-index","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b3fd7b772abded2ca449c40d92d0de1ec7d2a1a30830e95fa869a414a988d95","features":{},"yanked":true}

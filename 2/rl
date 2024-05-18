@@ -1,0 +1,2 @@
+{"name":"rl","vers":"0.1.0","deps":[],"cksum":"46380ea27cda795b2476afbe6135c3380c5e742f52b6e61aa8bd76b0b92c1604","features":{},"yanked":false}
+{"name":"rl","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfbaf78f9d556534a77dc239158d3c294aeb83be5fe29ac3fefc8b8f99f338be","features":{},"yanked":false}

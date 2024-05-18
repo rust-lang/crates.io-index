@@ -1,0 +1,2 @@
+{"name":"gtk_widget_macro","vers":"0.1.0","deps":[{"name":"gtk_widget_macro_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40a7b0dd4dda21f63f653fb72f8cd8dd21cf564915faed950a4d2d73ff38fb9e","features":{},"yanked":false}
+{"name":"gtk_widget_macro","vers":"0.1.1","deps":[{"name":"gtk_widget_macro_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33092c7a4747f09054a63d7a2ba0f4c1b8ea16f865d48e9ec05275dbbc33470e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"crmprs","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"crc64","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c12db6d96d7ee6663712fb52f1432e42be2ffc5a3820717a85149cf39ef40c47","features":{},"yanked":false}

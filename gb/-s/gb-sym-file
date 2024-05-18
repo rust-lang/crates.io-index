@@ -1,0 +1,2 @@
+{"name":"gb-sym-file","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbc5aa5d6b0c46775a3cf86661ce3446de4e33e7cb02dd3be8b86dc25710e5e2","features":{},"yanked":false}
+{"name":"gb-sym-file","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"133c33466a196aedbfe8e7f4f25068dea97a49a97e2e1e707e8847bb07ab7891","features":{},"yanked":false}

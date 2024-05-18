@@ -1,0 +1,2 @@
+{"name":"ubpf-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad238b2ee9aa51566e5f38e82ec135cb6c93546eceaae1d160f6c1ab625a569d","features":{},"yanked":false}
+{"name":"ubpf-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad3da05af153f65c350edaafe9be7ea50a781f991de516b8bf8ac38ae7d03a2b","features":{},"yanked":false,"links":"ubpf"}

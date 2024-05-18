@@ -1,0 +1,2 @@
+{"name":"cargo-lts","vers":"0.3.0-alpha.1","deps":[{"name":"lts","req":"=0.3.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ee844b0ed0d202912d0bf4d7e62b94f8c1902aa577eaaffe0f7ba33dcf268e5","features":{},"yanked":true}
+{"name":"cargo-lts","vers":"0.3.0","deps":[{"name":"lts","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec34f170b6858c3a5e7d4f2ec34df2f297a3b37070019a3daa43f554b63268a3","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"signal-future","vers":"0.0.1","deps":[],"cksum":"fd7f53ace1d1c322ccf78f25c9f90229e6866bc79dbf1c4e31d5c9ac6c546c7f","features":{},"yanked":false}
+{"name":"signal-future","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc8a041f0249954b67227876b18605ee89c5db7bc7af6c5bfbf536d2c605e182","features":{},"yanked":false}
+{"name":"signal-future","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ec1dd1773569e191377e13e882cdd6b8e50811b43212d31d613fa869f6a5658","features":{},"yanked":false}

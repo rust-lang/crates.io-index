@@ -1,0 +1,6 @@
+{"name":"fccs","vers":"0.1.0","deps":[],"cksum":"55d79559bedbba3a2f4bb7de088b970dd6e5fc3b71d49d914bdf078baa7f2ff2","features":{},"yanked":false}
+{"name":"fccs","vers":"0.1.1","deps":[],"cksum":"4487ae42e47939c773ed0a32cc53371afc1babfdc720c5895417e8421211e31c","features":{},"yanked":false}
+{"name":"fccs","vers":"0.1.2","deps":[],"cksum":"dfd97824e1609e69ab4a4e9aaf94ba8b0378a3ec89fcdb11697b57f9d17846b6","features":{},"yanked":false}
+{"name":"fccs","vers":"0.1.3","deps":[],"cksum":"9449a2039db0be20cba25004853b9f65a2fcc3fe84a74a9c6df3066ab89cd3c9","features":{},"yanked":false}
+{"name":"fccs","vers":"0.1.4","deps":[{"name":"windows","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"windows","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ab946994009ea63008a67f44a0ce6fa965ba38f3fe22ae1a625c9e5abb7f79b6","features":{},"yanked":false}
+{"name":"fccs","vers":"0.1.5","deps":[{"name":"windows","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"windows","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6bc706b061472983a4bf66dacd06db97437fb91c4edf79dcf656e709e941f2f3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"red-it","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd8cb65381e2a0dd2baa0c404cad94da2d5f677840683e7fc358c017bf622b79","features":{},"yanked":false}
+{"name":"red-it","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cfd8c60ecdd4773c1c587abeab4686cc46a44225ba17de112bca0f358cea93c","features":{},"yanked":false}

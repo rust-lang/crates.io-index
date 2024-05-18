@@ -1,0 +1,3 @@
+{"name":"pipeliner","vers":"0.1.1","deps":[],"cksum":"c65cbe097ddbf8099ac593aa7bfa4ae1204229e36db2261b0af5efab582516d5","features":{},"yanked":false}
+{"name":"pipeliner","vers":"1.0.0","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24decb45d46418979273ca971fc47b23109818ab6bd882db0fcd2db0c7189c06","features":{},"yanked":false}
+{"name":"pipeliner","vers":"1.0.1","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f4c655fb499b01043432c9371aaf6fa834b3abec631ab97646e7e842aaafe76","features":{},"yanked":false}

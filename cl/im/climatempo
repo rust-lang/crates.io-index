@@ -1,0 +1,1 @@
+{"name":"climatempo","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scraper","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb92bdf33c2600207aeb2ee62b5f086e5f02bb62cd0b2ca9385a8ecf7b7f170c","features":{},"yanked":false}

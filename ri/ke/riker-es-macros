@@ -1,0 +1,1 @@
+{"name":"riker-es-macros","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3ccf53b918bb4bc3d86850d68c4abe25783c9eeeffb5db51b75fccb617d93ed","features":{},"yanked":true}

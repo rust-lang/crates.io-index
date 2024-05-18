@@ -1,0 +1,1 @@
+{"name":"pea-api-internal-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8958b3417a21babc0776fe0b615924c9b462c41e418595d3cef71fdfe2319a4e","features":{},"yanked":true}

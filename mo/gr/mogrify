@@ -1,0 +1,2 @@
+{"name":"mogrify","vers":"0.1.0","deps":[{"name":"mogrify_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a4bcd62613e267db78db56088eb115f67bc70bc7fbe5266535863767bbf10ae","features":{},"yanked":false}
+{"name":"mogrify","vers":"0.1.1","deps":[{"name":"mogrify_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec74a83748c2bc16481686dc84496ca78337a6b58d15b963537be9e3dafd3ee7","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"png_ect","vers":"1.0.0","deps":[{"name":"rayon","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ff457d3814a2fa258a1ef18e6c780512cfa73a0591de2da8ce00d0a030ccf04","features":{},"yanked":false}

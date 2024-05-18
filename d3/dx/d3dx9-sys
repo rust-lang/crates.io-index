@@ -1,0 +1,1 @@
+{"name":"d3dx9-sys","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.9","features":["d3d9","d3d9types","d3d9caps","minwindef","unknwnbase","winnt","winbase"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c53bb83915bf1fa06a9ebb28a6b09f869b6bed76c4dc7bbc0bc70a757154ebe5","features":{},"yanked":true}

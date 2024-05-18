@@ -1,0 +1,1 @@
+{"name":"custom-try","vers":"0.1.0-rc1","deps":[{"name":"custom-try-proc_macros","req":"^0.1.0-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db612321b58e3cf4c5fe36052496d6336f793c9098dafd364817f4c2dfad3a71","features":{"better-docs":[],"ui-tests":["better-docs"]},"yanked":false}

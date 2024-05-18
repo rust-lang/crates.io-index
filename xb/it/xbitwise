@@ -1,0 +1,1 @@
+{"name":"xbitwise","vers":"0.1.0","deps":[],"cksum":"8024109541b37b7ae075cc11fde3210db955bfd8a76056e5cbff9aabf1ba9143","features":{"default":["signed","unsigned"],"i128":[],"i16":[],"i32":[],"i64":[],"i8":[],"signed":["i8","i16","i32","i64","i128"],"u128":[],"u16":[],"u32":[],"u64":[],"u8":[],"unsigned":["u8","u16","u32","u64","u128"]},"yanked":false,"rust_version":"1.31.0"}

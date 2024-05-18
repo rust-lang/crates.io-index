@@ -1,0 +1,8 @@
+{"name":"executable-finder","vers":"0.1.0","deps":[],"cksum":"a8ecccbad2f5564c80f70888b6403acb9d5eaf8521a9faf9ca57413eec6207c6","features":{},"yanked":false}
+{"name":"executable-finder","vers":"0.1.1","deps":[],"cksum":"6539fced54bb0cb0e06981d4e50ae6a201f93e2106cf2ae6c95470f61648a528","features":{},"yanked":false}
+{"name":"executable-finder","vers":"0.1.2","deps":[],"cksum":"b9c0ebfd70468e0a3e1641bf0a7345386da57b5095f06064829242e7d0fa9ede","features":{},"yanked":false}
+{"name":"executable-finder","vers":"0.1.3","deps":[],"cksum":"dccf7c4fd539f23eb21466181597da20af62c0739c080a3494f92df5675d2807","features":{},"yanked":false}
+{"name":"executable-finder","vers":"0.2.0","deps":[{"name":"rayon","req":"^1.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48e64036e495644ca9eb0c2d8f3c696be09c6931c6251865fd63e0a4dce45759","features":{"default":[]},"yanked":false}
+{"name":"executable-finder","vers":"0.2.1","deps":[{"name":"rayon","req":"^1.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1397b742e853af9ca917c22f94f958bf658c02052d9468890b0acbf45b5b0f3b","features":{"default":[]},"yanked":false}
+{"name":"executable-finder","vers":"0.2.2","deps":[{"name":"rayon","req":"^1.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b27523afa203a2adcf94073bb126644eac7ace9dfe0f15f69694e89bae0dc457","features":{"default":[]},"yanked":false}
+{"name":"executable-finder","vers":"0.3.0","deps":[{"name":"rayon","req":"^1.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45943b6741f667be9e10d04ce86bb0b8c9f0c3f9a9263310c7537aa0b8a014d9","features":{"default":[]},"yanked":false}

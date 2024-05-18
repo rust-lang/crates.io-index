@@ -1,0 +1,4 @@
+{"name":"strs","vers":"0.1.0","deps":[],"cksum":"bf1684f45b057f45a6a2cbd2fbab0912ad611b716b0eb5fba9fd88577b6f43b9","features":{},"yanked":false}
+{"name":"strs","vers":"0.1.1","deps":[],"cksum":"4a5834fd4a86e8ea95fdac0c20457101a496bc13a4ad9179762b6c9102d5649f","features":{},"yanked":false}
+{"name":"strs","vers":"0.1.2","deps":[{"name":"structopt","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c34400f56e2956d551dee2b1e3c621e9701a5295fd1abbddca822c5108ef142","features":{},"yanked":false}
+{"name":"strs","vers":"0.1.3","deps":[{"name":"structopt","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0137fdca4af38809008af415485cba519cca0cc975189aab1ca820e74517519b","features":{},"yanked":false}

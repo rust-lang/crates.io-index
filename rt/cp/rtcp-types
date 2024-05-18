@@ -1,0 +1,2 @@
+{"name":"rtcp-types","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ac8d434cafe0ecc4dec2b58bdc8fa5835670641b76b5fa7fac4b4f6411540a4","features":{},"yanked":false}
+{"name":"rtcp-types","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce5248489db464de29835170cd1f6e19933146b0016789effc59cb53d9f13844","features":{},"yanked":false}

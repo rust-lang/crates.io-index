@@ -1,0 +1,2 @@
+{"name":"nmf","vers":"0.1.0","deps":[{"name":"rulinalg","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c02681a7d5dcb416f2098011e85a4a029bec573a948bdc3f97b831704ae370f","features":{},"yanked":false}
+{"name":"nmf","vers":"0.1.1","deps":[{"name":"rulinalg","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58bfc41019f3ea025dcd670eefdc67cf053b2321b2896b27c85be82869ba70fc","features":{},"yanked":false}

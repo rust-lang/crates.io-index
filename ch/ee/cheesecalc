@@ -1,0 +1,1 @@
+{"name":"cheesecalc","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d8d6c6de9d340c3a735e36c062fd82702f1514433b96c7b35e97a39588589e","features":{},"yanked":false}

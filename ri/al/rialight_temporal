@@ -1,0 +1,2 @@
+{"name":"rialight_temporal","vers":"0.1.0","deps":[],"cksum":"1c2446a323de760b72176cd2e271713f3eb085119d3217bb60233e37a1c02bde","features":{},"yanked":false}
+{"name":"rialight_temporal","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67890629d32e2642b4d63a1205b22794d6ff2351e132f3ffc5032d1727787dd4","features":{},"yanked":false}

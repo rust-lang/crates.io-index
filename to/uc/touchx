@@ -1,0 +1,1 @@
+{"name":"touchx","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"xdg","req":"^2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a7b98770f03d13ab87a091a113548fbef3fac291f031d12a62c3cd2c780fb54","features":{},"yanked":false}

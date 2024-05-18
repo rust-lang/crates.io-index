@@ -1,0 +1,1 @@
+{"name":"winter","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.4","features":["consoleapi","wincon","processenv","winbase"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f91281fa956030bc27cf08a68fc3b3fa88c827805fd17d646b38e4c451b58d1","features":{},"yanked":false}

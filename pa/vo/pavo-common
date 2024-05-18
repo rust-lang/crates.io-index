@@ -1,0 +1,2 @@
+{"name":"pavo-common","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"e5b8e62cbc7db18932e6372429b52b0eb2ac8874ab9f71223ee110d5871882e0","features":{},"yanked":false}
+{"name":"pavo-common","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"7a5a36cca1b30565e79e4151c3613952def2f7ad76d949bf82f9a960ce4d2b10","features":{},"yanked":false}

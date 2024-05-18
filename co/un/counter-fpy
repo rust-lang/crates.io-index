@@ -1,0 +1,2 @@
+{"name":"counter-fpy","vers":"0.1.0","deps":[],"cksum":"e0380144384e571c3594abe8c39653e9c0b0913367e41501458aae495f287421","features":{},"yanked":false,"rust_version":"1.74.0"}
+{"name":"counter-fpy","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b149f5b443e07f9c5f63e1f506508eace2df449ce98bdaa4c1b39540a3cd033","features":{},"yanked":false,"rust_version":"1.74.0"}

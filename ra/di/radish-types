@@ -1,0 +1,1 @@
+{"name":"radish-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89e970822b10492e85ec6bab4db5047087849e4b8573d0f6e74cefac3a54a717","features":{},"yanked":false}

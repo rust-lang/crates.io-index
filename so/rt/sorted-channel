@@ -1,0 +1,2 @@
+{"name":"sorted-channel","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"452ba4419d88ace7df26e0de2e6c96743efd0366aca45df0a6eb6fd9842e15a0","features":{},"yanked":false}
+{"name":"sorted-channel","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba45c72638c2616968e7f4cb74a55b4f1da3363b20cdfc86994868ba8db049b8","features":{},"yanked":false}

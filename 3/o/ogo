@@ -1,0 +1,1 @@
+{"name":"ogo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec9ca4caadde396b3549b0e8c169ebe7e3f9842045fcddd2a050d57e199d75df","features":{},"yanked":false}

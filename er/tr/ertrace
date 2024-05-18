@@ -1,0 +1,3 @@
+{"name":"ertrace","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f50b958b86e8b91f21d519950ea189c65c341c9c80a92d47392ad3fd66509f0c","features":{"alloc":[],"default":["alloc","std"],"std":[]},"yanked":false}
+{"name":"ertrace","vers":"0.2.0","deps":[],"cksum":"332a12a83c67043dde5123dfba90abc9c43537e165e0e9fd3c459bace25fad35","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ertrace","vers":"0.2.1","deps":[],"cksum":"9b3042a3ace360b035348075fa06cd42373f625570ba42572057bbd464203f5b","features":{"default":["std"],"std":[]},"yanked":false}

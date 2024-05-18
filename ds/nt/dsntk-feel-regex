@@ -1,0 +1,3 @@
+{"name":"dsntk-feel-regex","vers":"0.0.0","deps":[{"name":"onig","req":"^6.4.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5bfabc592fa91ad3b04853a866bd70e346dbe61413200401d97481be8533bdeb","features":{"default":[],"oniguruma":["onig"]},"yanked":false}
+{"name":"dsntk-feel-regex","vers":"0.0.4","deps":[],"cksum":"156f099dc1245aef2b170ab3c489cbdd7bc6e3cbcecb9f677e25b485dcfad13b","features":{},"yanked":false}
+{"name":"dsntk-feel-regex","vers":"0.0.5","deps":[],"cksum":"9daad7c69933cfd18d1a39f4939f4238c63ed96354a06d8ae6606330b6a9f430","features":{},"yanked":false}

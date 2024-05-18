@@ -1,0 +1,1 @@
+{"name":"rnm","vers":"0.1.0","deps":[{"name":"clap","req":"^2.32.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8b3d6f823a73958e1f29b41c4a65a7bbc80a4e2eea0513430ecdc4fb3c5399a","features":{},"yanked":false}

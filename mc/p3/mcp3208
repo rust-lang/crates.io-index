@@ -1,0 +1,1 @@
+{"name":"mcp3208","vers":"0.1.0","deps":[{"name":"spidev","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"7b5c903f5fb6578f60c29adf19270402713196cd2447ab0f59c4e699ec576175","features":{},"yanked":false}

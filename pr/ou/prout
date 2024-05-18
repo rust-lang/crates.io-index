@@ -1,0 +1,3 @@
+{"name":"prout","vers":"0.2.0","deps":[{"name":"chumsky","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d68d073cf769c8fd5bf0b011859f6656e9462e2b057132c617303773ac86d7ff","features":{},"yanked":true}
+{"name":"prout","vers":"0.3.0","deps":[{"name":"chumsky","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a08a7dff00abc345e118fc75dd00d1750895f8d83d324f0b83b719d1533f1b5","features":{},"yanked":true}
+{"name":"prout","vers":"0.3.5","deps":[],"cksum":"6ad389fe19722e2c08b3946cb106e5d56b8a55640b02293865b3e15f5b2b3cdc","features":{},"yanked":false}

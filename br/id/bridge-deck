@@ -1,0 +1,2 @@
+{"name":"bridge-deck","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e492d8c58b06c2897d02e8b22267fc0c35ebffdbab1c6d92454332814ee4a79","features":{},"yanked":false}
+{"name":"bridge-deck","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47ff92d3d387d330645e6fe6c0b7d0e13619407cd37b8233ee049a971947c0c1","features":{},"yanked":false}

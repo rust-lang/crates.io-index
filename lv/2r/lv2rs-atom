@@ -1,0 +1,4 @@
+{"name":"lv2rs-atom","vers":"0.0.0","deps":[],"cksum":"2b7b4c7c4df0cde8d13c1d847f8e4894a25aadb52bc9a82a6ac9d86028b3cbdd","features":{},"yanked":false}
+{"name":"lv2rs-atom","vers":"0.1.0","deps":[{"name":"lv2rs-urid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"389f65a79ffc393285f5bce7462088a6c94fcdd7470220bd6583f3d452554eee","features":{},"yanked":false}
+{"name":"lv2rs-atom","vers":"0.1.1","deps":[{"name":"lv2rs-urid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18dc5285ea2634be220c2df554b0bdef6f2f5a54a99cbc94c3e613e76bb4c1ce","features":{},"yanked":false}
+{"name":"lv2rs-atom","vers":"0.1.2","deps":[{"name":"lv2rs-urid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6748b2b7ac40124bf9d83e03dca5be007a9ff414044a29e26aaf9e81b67ee336","features":{},"yanked":false}

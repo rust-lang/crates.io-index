@@ -1,0 +1,2 @@
+{"name":"fs_util","vers":"0.1.0","deps":[{"name":"generic_error","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2012d1333e2f5e3a66acbb3b7abf1acf95d1da6fbd1f9602c4f6447d1704bfaf","features":{},"yanked":false}
+{"name":"fs_util","vers":"0.1.1","deps":[{"name":"generic_error","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4078ce955d6f54df75ab0ebe7265dd3d03d9daa4f778d209e90f56f9fa795996","features":{},"yanked":false}

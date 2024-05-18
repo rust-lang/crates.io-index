@@ -1,0 +1,1 @@
+{"name":"ebpf-histogram-ebpf","vers":"0.1.0","deps":[{"name":"aya-ebpf","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcc3cf5497d9dfa4ab7d6048d80aa00494bf8eba253a145a6debb2f09b19b7fb","features":{},"yanked":false}

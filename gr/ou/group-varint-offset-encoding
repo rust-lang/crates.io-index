@@ -1,0 +1,2 @@
+{"name":"group-varint-offset-encoding","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc822c193a02d7f6429e5434c715333fe0f603129a8c61c2eccd77bf359c29b9","features":{},"yanked":false}
+{"name":"group-varint-offset-encoding","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c77f80d89dbbbbf80e2276f84573a3a12b3224a274a4cf525cef20d36ab34323","features":{},"yanked":false}

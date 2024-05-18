@@ -1,0 +1,2 @@
+{"name":"modinfo","vers":"0.0.1","deps":[],"cksum":"8d265d4d06572f6f0e26fa14a58ce979c682ad01da171a629869ad3bef147e96","features":{},"yanked":false}
+{"name":"modinfo","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.137","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80716cfbc633d4f68187724d6f04c26b4b7e86b4e970671a1f5dab7fef7dbf57","features":{},"yanked":false}

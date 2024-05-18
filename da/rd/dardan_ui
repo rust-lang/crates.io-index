@@ -1,0 +1,2 @@
+{"name":"dardan_ui","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d486a1f8768e0da0b8c8712d8d7de9f263116d555ef1b1fb6be6ae7d09ceb19d","features":{},"yanked":false}
+{"name":"dardan_ui","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8410b65da282603a064f1342cd73347d59c5c204e7b7b50d767ff3de560cc3fe","features":{},"yanked":false}

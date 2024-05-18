@@ -1,0 +1,3 @@
+{"name":"sbus-parser","vers":"0.0.1","deps":[],"cksum":"24dcd61de74278892532bb91c76c2f96b8071376d730c5130c217a44ab7ca813","features":{},"yanked":false}
+{"name":"sbus-parser","vers":"0.0.2","deps":[],"cksum":"04b32b82ccc808a171126d26a134a960d8dc09da4b2d59fca6af8a6956b223b0","features":{},"yanked":false}
+{"name":"sbus-parser","vers":"0.1.0","deps":[{"name":"hex-literal","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d500756cd4e2ced307eddb8050478eceda8713b14fa2f3bbb63a1cf15db0ad6d","features":{},"yanked":false}

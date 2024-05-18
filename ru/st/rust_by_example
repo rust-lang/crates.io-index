@@ -1,0 +1,2 @@
+{"name":"rust_by_example","vers":"0.1.0","deps":[],"cksum":"0a0c76f04c8fdb3cfccc61cf1bebca639ce805ac9283e9973c4d9933e20ec0cf","features":{},"yanked":false}
+{"name":"rust_by_example","vers":"0.2.0","deps":[{"name":"ferris-says","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d55ea76831ad25964d66313bf502f8952328ede075afb50e51502b8daf5b8c8","features":{},"yanked":false}

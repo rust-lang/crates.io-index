@@ -1,0 +1,2 @@
+{"name":"cpio_reader","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd420c52d86c5b08c494e7e3d16bce23f08f3f6544cccce2d6cc986d3144dca1","features":{},"yanked":false}
+{"name":"cpio_reader","vers":"0.1.1","deps":[{"name":"bitflags","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"625db7965478dc700951b2e15e9144863a0dacb31f60b0eb799c7a7b975afb5c","features":{},"yanked":false}

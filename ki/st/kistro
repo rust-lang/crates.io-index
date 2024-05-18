@@ -1,0 +1,2 @@
+{"name":"kistro","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f31b859dc3e396379b242d52456008f16d9b4d264ce7fc08b5c2df26e44f7bc7","features":{},"yanked":false}
+{"name":"kistro","vers":"0.1.1","deps":[{"name":"clap","req":"^4.3.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9f6e8362d589200ab67fda2eca8f4b34d671bb17be6bcce6ac05fd703697e92","features":{},"yanked":false}

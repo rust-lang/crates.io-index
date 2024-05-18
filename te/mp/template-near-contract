@@ -1,0 +1,2 @@
+{"name":"template-near-contract","vers":"0.1.0","deps":[{"name":"near-sdk","req":"^4.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39becbd1dba76ee53a888a9cccb84c8932602f4eddfc898da9e0708167dbf84b","features":{},"yanked":false}
+{"name":"template-near-contract","vers":"0.1.1","deps":[{"name":"near-sdk","req":"^4.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35d9bac2a1a87fadf880c958ec9347f38cb7bdbece8e9c02e08e528ab17ed328","features":{},"yanked":false}

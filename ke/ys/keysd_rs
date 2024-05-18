@@ -1,0 +1,1 @@
+{"name":"keysd_rs","vers":"0.1.0","deps":[{"name":"prost","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"prost-build","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"41d21dafcda4c62f4727224888afa4f8179469c2fe7f359e187b6d9a2ad40763","features":{},"yanked":false}

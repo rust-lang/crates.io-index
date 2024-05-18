@@ -1,0 +1,5 @@
+{"name":"simple-rijndael","vers":"0.1.1","deps":[],"cksum":"9665fc3c5ff7fd9a0b60f32044c502d0c9b8d637f39c29f698fa810017f1abc0","features":{},"yanked":true}
+{"name":"simple-rijndael","vers":"0.2.0","deps":[],"cksum":"d2e17a3fb3ca2c800549e09a7a6246f11986d7521872bdb27a4fa0f87c8c342d","features":{},"yanked":false}
+{"name":"simple-rijndael","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6aac75d5a4b74f4414d1b41c0782a7790754b8c600e14b3b013221c55cf7f432","features":{},"yanked":false}
+{"name":"simple-rijndael","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0087e888ebe38cd1614135454be4ee7f6f52471591d3815868c2dcaaaea6fdbd","features":{},"yanked":false}
+{"name":"simple-rijndael","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"843fc9945b08a629a18fb7eaf7d76d9e2ef2fa628c5ea1b7782627fc21bb2285","features":{"default":["std"],"std":[]},"yanked":false}

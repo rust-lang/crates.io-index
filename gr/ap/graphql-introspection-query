@@ -1,0 +1,2 @@
+{"name":"graphql-introspection-query","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"610aac641dbd2a457ad4cef34aa2827dae3f035fd214cb38c2d62d8543f3973f","features":{},"yanked":false}
+{"name":"graphql-introspection-query","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f2a4732cf5140bd6c082434494f785a19cfb566ab07d1382c3671f5812fed6d","features":{},"yanked":false}

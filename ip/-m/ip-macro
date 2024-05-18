@@ -1,0 +1,1 @@
+{"name":"ip-macro","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01d2d4201c6241b8f8c25e27024b98447abf31cdef716afba406a988493fd733","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rtnorm-rust","vers":"0.1.0","deps":[{"name":"GSL","req":"4.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9164753476e036a981e69b323fa4bb353b7fbc16f158b5dd2ebe69b6cef523c","features":{},"yanked":false}

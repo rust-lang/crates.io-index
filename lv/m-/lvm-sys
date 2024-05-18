@@ -1,0 +1,2 @@
+{"name":"lvm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"86564c1285dc0236ec4dfa9134b7f145c6ffa5a2ce4ab37f4703c1bd20059478","features":{},"yanked":false}
+{"name":"lvm-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"~0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1d4b235a603c00a497762f086a3f63470171b1103586159363f2265c9ffd5919","features":{},"yanked":false}

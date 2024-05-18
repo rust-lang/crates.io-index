@@ -1,0 +1,2 @@
+{"name":"moore-neighborhood","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ce3ccef5f3984b9b02f518333f1d9022ea3cc60e59c277e86e1e69f0b973f143","features":{},"yanked":false}
+{"name":"moore-neighborhood","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c514d65db5a79427cc637ad576fd9a1f0a3a178deafade8369c97cac2421d6d4","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"thcon_trait","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a4d63f4bb5a1551269855e6b97a223c3e521ed1a1454af704cb601c38d5ab46","features":{},"yanked":false}

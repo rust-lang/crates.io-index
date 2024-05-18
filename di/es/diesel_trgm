@@ -1,0 +1,2 @@
+{"name":"diesel_trgm","vers":"0.1.0","deps":[{"name":"diesel","req":"^1.3","features":["postgres"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f5f95b49dc12960509c939d2a3d59763f4594513a5edaca5ac52fd3dc439b48","features":{},"yanked":false}
+{"name":"diesel_trgm","vers":"0.1.1","deps":[{"name":"diesel","req":"^1.3","features":["postgres"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9772ad64b173acf04bceca884d991413a61457a29bebe3b7c32ae786af32bd54","features":{},"yanked":false}

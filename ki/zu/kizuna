@@ -1,0 +1,1 @@
+{"name":"kizuna","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.27.0","features":["rt","rt-multi-thread","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d2189b9363c35f0daba5fc701c81d54769bbba2c025d08f1eb365198470a794a","features":{},"yanked":false}

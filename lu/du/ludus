@@ -1,0 +1,4 @@
+{"name":"ludus","vers":"0.1.0","deps":[],"cksum":"02ca2cbea4c2a3108671d4cc73c8031ac46673ae0c16d7919ca2118d11c7f710","features":{},"yanked":false}
+{"name":"ludus","vers":"0.2.0","deps":[],"cksum":"66716a5f12a1d13ed0510a55f12ffbe544da6fc6e8a0e9b5b97d42082f80ff24","features":{},"yanked":false}
+{"name":"ludus","vers":"0.2.1","deps":[],"cksum":"bf96318eb90324b38596408ecca7c6906a39855a3c5536866e58af5d2835a986","features":{},"yanked":false}
+{"name":"ludus","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"76f7ec3028b5e8edf86928292bf98e7f1556671a228614be6d7dc1f73bf3f33c","features":{},"yanked":false}

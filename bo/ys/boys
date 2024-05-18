@@ -1,0 +1,1 @@
+{"name":"boys","vers":"0.1.0","deps":[{"name":"GSL","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f03c2832bc2772cae5748420bcea7af018dc38c4eab96bebc896f6e061d3a5b9","features":{},"yanked":false}

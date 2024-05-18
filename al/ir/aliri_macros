@@ -1,0 +1,2 @@
+{"name":"aliri_macros","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a8e10b8ea78abf2c27a6677fbe939368d958f2fa8053e2ad8392b3bb3d4384d","features":{},"yanked":false}
+{"name":"aliri_macros","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4115cdb0115d5ccefcc48dae9fff2c55af81de9dd6c5236da17276f8269fb3b9","features":{},"yanked":false}

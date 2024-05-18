@@ -1,0 +1,5 @@
+{"name":"windows-win32-graphics","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3ea03d7b4a4396c5e5a9c2e8eb91199293235f1d6fe5dad9dbc7e36a36cbf877","features":{},"yanked":false}
+{"name":"windows-win32-graphics","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"15a3fd7fbdc3057bada5826a4d3a3a2a3dd24dca7e37b02cde6ff87c06877c70","features":{},"yanked":false}
+{"name":"windows-win32-graphics","vers":"0.22.5","deps":[],"cksum":"6ea8da585d14f46e20e6f217b2545e80934da37af53934d4db55f1ae965b9091","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-graphics","vers":"0.22.6","deps":[],"cksum":"a20f56010bc14a34478e998d24162879cf1689136b08e712a52a48de5ef89fe8","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-graphics","vers":"0.23.0","deps":[],"cksum":"0252b4abe7070bb42a48e093fda43663cd943d916536f52023f849fdbe0f1f6e","features":{},"yanked":false}

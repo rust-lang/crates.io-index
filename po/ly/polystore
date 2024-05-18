@@ -1,0 +1,1 @@
+{"name":"polystore","vers":"0.1.0","deps":[{"name":"rustc-hash","req":"^1.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11f3b6d74c4b802420576dae1c0ad733610e178a6be3ca4ce13ac987b63b4509","features":{"fxhash":["rustc-hash"]},"yanked":false}

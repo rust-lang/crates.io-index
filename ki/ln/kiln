@@ -1,0 +1,5 @@
+{"name":"kiln","vers":"0.1.0","deps":[],"cksum":"6fbbd67bfabe7296ca328503627b8a79152d714a97ae708b9a7b43cc339c7653","features":{},"yanked":false}
+{"name":"kiln","vers":"0.1.1","deps":[],"cksum":"a6d5c9b180b0e6570f1257e51c2e97c388155b366f7c47485aaa43830c890d60","features":{},"yanked":false}
+{"name":"kiln","vers":"0.1.2","deps":[],"cksum":"f1282e1d9625aea097a5dcbb81e2710b2fd517793bbb53b88ae76b88593cc3ae","features":{},"yanked":false}
+{"name":"kiln","vers":"0.1.3","deps":[{"name":"uuid","req":"^0.7","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5b51f1e6419cae86fab5262655119e14833c03ce83618a4429620cb6f8ba913","features":{},"yanked":false}
+{"name":"kiln","vers":"0.2.0","deps":[{"name":"uuid","req":"^0.7","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca340c0e5fd43f2d85d622bba7d53b290c43bd8b33f0951415ec7ca8d429a7d7","features":{},"yanked":false}

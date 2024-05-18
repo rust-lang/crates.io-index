@@ -1,0 +1,1 @@
+{"name":"vgs","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0.136","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff13d3f8bee9740b91cc70f3bd766b33041c16c9594ae2a5aeaf3eaf3282f3a4","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"nyan","vers":"0.0.1","deps":[],"cksum":"91f6a9eeb15ed7aff68edc47319a9b79781251d6fdc4ef1097db49b37a21b6b4","features":{},"yanked":true}
+{"name":"nyan","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.10.0","features":["wav"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6aa3699c6ad98422a7e00cbca89d1789129cc8a1a419da6621d130f19e9014d6","features":{},"yanked":true}
+{"name":"nyan","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.10.0","features":["wav"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c055e1170361f63debf2ca5e2353886bbee170a78aa3092c01494f06341920aa","features":{},"yanked":true}
+{"name":"nyan","vers":"0.1.2","deps":[{"name":"rodio","req":"^0.10.0","features":["wav"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f2d62d9837b7bebc7857b7137783c1d6d26ce15710197abcc6407625057b2a90","features":{},"yanked":true}

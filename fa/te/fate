@@ -1,0 +1,1 @@
+{"name":"fate","vers":"0.1.0","deps":[{"name":"dmc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vek","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"615f81e010e8aa7638013e60e45fb3f42f42d4b319032144fdfb3e30b6f11c13","features":{},"yanked":false}

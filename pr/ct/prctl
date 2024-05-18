@@ -1,0 +1,6 @@
+{"name":"prctl","vers":"0.0.1","deps":[],"cksum":"b5f31214b27b3864dece5f0e85898b8fda7fd97d94d5db8de550def7f5818373","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"0.0.2","deps":[],"cksum":"530cc380afaf9735a4e9e8aba455e54f9785dd3d6ff5ba3ed77ff6575ed84b47","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"0.1.0","deps":[],"cksum":"5134363bef0981c2e3b2b9b8340cca3cf602ec3ac5ad8a7af42ff11559263541","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"0.1.1","deps":[],"cksum":"0a2e7dfe9f3edfd3be139a56d7bbbaeeaeb9c06921620a9623827113381d2830","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"0.2.0","deps":[],"cksum":"2f91b995c2a4c2b3e9c78c54715f010b11b03e10cc930e08cd58f16cf9b7f3be","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"1.0.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"059a34f111a9dee2ce1ac2826a68b24601c4298cfeb1a587c3cb493d5ab46f52","features":{"not_travis":[],"root_test":[]},"yanked":false}

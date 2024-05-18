@@ -1,0 +1,10 @@
+{"name":"bigbit","vers":"0.0.0","deps":[],"cksum":"fb4aeb131bc7e11371261b649358deb7387eec6860e5c9a5f2cbbb80129324b6","features":{},"yanked":true}
+{"name":"bigbit","vers":"0.0.1","deps":[],"cksum":"af084690f7a22ec515ef9ff30519bd88c41f7b25264f2ed5fc2b45bd6cedf6a5","features":{},"yanked":true}
+{"name":"bigbit","vers":"0.0.2","deps":[],"cksum":"922cc4ccbc8d78c09ccadcba851e8da08a0f2eed310929ef6513b15950aac4bc","features":{},"yanked":true}
+{"name":"bigbit","vers":"0.0.3","deps":[],"cksum":"ce20158d7c88d04dd5e96775d7a9c26b00ac7e6db6b602a2a384f1f812bade7d","features":{},"yanked":false}
+{"name":"bigbit","vers":"0.0.4","deps":[],"cksum":"3ffb4b5016c393b8a63de0f8ce5cb6973fbd266bb06057a56c931ffb240bfd54","features":{"clippy":[],"default":["clippy"]},"yanked":false}
+{"name":"bigbit","vers":"0.0.5","deps":[],"cksum":"1b928cc54cca3c242a7d863c148d14599088f45cf535fdb35af8805cb5900ad4","features":{"clippy":[],"default":["clippy"]},"yanked":true}
+{"name":"bigbit","vers":"0.0.5-r","deps":[],"cksum":"024e3d6ce6a5ef9ec424d55e8fcb2b84123cb141926c7a3be47ef2c8de1d2433","features":{"clippy":[],"default":["clippy"]},"yanked":false}
+{"name":"bigbit","vers":"0.0.6","deps":[],"cksum":"359219c1ef757e9583803a3f86e9e43e200334c1f3f7cc5776afe1427c103623","features":{"clippy":[],"default":["clippy"]},"yanked":false}
+{"name":"bigbit","vers":"0.0.7","deps":[],"cksum":"82cfa3c29af578c6ede68ed4de9a217d5539dcf2f50226f9240b2903f0a2cf0d","features":{"clippy":[],"default":["clippy"]},"yanked":false}
+{"name":"bigbit","vers":"0.0.8","deps":[],"cksum":"c53bcca1f9334d8aced083e43d209afcf5489d5f9b247641995d1b5ac0d448c7","features":{"clippy":[],"default":["clippy","std"],"std":[]},"yanked":false}

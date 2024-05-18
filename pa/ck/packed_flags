@@ -1,0 +1,1 @@
+{"name":"packed_flags","vers":"0.9.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d94537cce52968b0001ea454ad44187723a3a6863e9055a6aa3c67ce65181456","features":{},"yanked":false}

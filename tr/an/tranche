@@ -1,0 +1,2 @@
+{"name":"tranche","vers":"0.1.0","deps":[],"cksum":"d4d407d3d7769d1d6eb46d21fb90aafba0e394897eec154fc847bb34d36e2901","features":{"std":[]},"yanked":false}
+{"name":"tranche","vers":"0.1.1","deps":[{"name":"passive","req":"^0.1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fd20fb8785a9b6b0457f38dc406040ca37c99587491420c7919dd61a70d853e","features":{"std":[]},"yanked":false}

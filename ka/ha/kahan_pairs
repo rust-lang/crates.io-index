@@ -1,0 +1,1 @@
+{"name":"kahan_pairs","vers":"1.0.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"267ee7125a68871d5ae8ed452b4e20c5d84ff955eefb0792ffea0d12dc9d6406","features":{"default":["std"],"std":[]},"yanked":false}

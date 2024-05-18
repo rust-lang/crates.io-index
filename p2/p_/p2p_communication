@@ -1,0 +1,1 @@
+{"name":"p2p_communication","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8811df7e5a2f7ca0c8cc9ab4b92979967e57bb4733b9ddd123603dae8274d2c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"dharithri-sc-modules","vers":"0.43.3","deps":[{"name":"dharithri-sc","req":"^0.43.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3d1fda0018f0e4322d66df40f4991ea1e6e11003a03f98738cc234005639cc6","features":{"alloc":["dharithri-sc/alloc"]},"yanked":false}

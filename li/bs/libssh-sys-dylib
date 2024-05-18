@@ -1,0 +1,1 @@
+{"name":"libssh-sys-dylib","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ea450381502fb4a510ffb4230c70a7744057e4127215d6ac3769172dc6c8be3f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"without_div_sym","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3e4002cddd5c4e942adf49c560ea14a335d4ebe31b3b76d50dcef2c476e26ab","features":{},"yanked":true}
+{"name":"without_div_sym","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c2998e73e92b2c01158e6c545d7ff9c335f8f87fa3b4b01fcf7269c4bbe094a","features":{},"yanked":false}

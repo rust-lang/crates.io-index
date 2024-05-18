@@ -1,0 +1,3 @@
+{"name":"ada","vers":"0.1.0","deps":[{"name":"minifb","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9932c73a22044c566b7ab2ce14b7c758a5251406d4f6a5fae800a1127c33c4a4","features":{},"yanked":false}
+{"name":"ada","vers":"0.2.0","deps":[{"name":"minifb","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"59f815d5b08c8a91782c8e3f0a125e907ba4b4c67eb70479a7b116fe6bc4ce93","features":{},"yanked":false}
+{"name":"ada","vers":"0.3.0","deps":[{"name":"minifb","req":"^0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8553ae1cbd1aa41d46a0e988e39ad3417ae130f1132fafb02849f10b3ed9001f","features":{},"yanked":false}

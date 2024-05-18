@@ -1,0 +1,2 @@
+{"name":"sanitizeable","vers":"0.1.0","deps":[{"name":"sanitizeable_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a8af4789770f3cb60ea958c8e93953aa4acf5b431d4869a987cc62b123a62e","features":{},"yanked":false}
+{"name":"sanitizeable","vers":"0.1.1","deps":[{"name":"sanitizeable_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bf40a2fb654c150ea350d5ec4f312d431785dc9447f9c34e3b38daa165ddfba","features":{},"yanked":false}

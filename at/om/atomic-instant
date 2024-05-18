@@ -1,0 +1,2 @@
+{"name":"atomic-instant","vers":"0.1.0","deps":[{"name":"quanta","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec82cc90dea4ebaf0686e0b442c6ce12faed0eefeadf3cbcc3c246a06f512068","features":{},"yanked":false}
+{"name":"atomic-instant","vers":"0.1.1","deps":[{"name":"quanta","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c57f2bf06696363ae3ad54a6948a1477bbdeda55b15ff7930baf2d7ebac3aa6","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"melcome","vers":"0.0.1","deps":[{"name":"ang","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^1.1.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"423740f7d252304d3507dd2cdf3322855d9f86bca9b735124dfd74607a397ebe","features":{},"yanked":false}

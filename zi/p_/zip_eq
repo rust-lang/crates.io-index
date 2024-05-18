@@ -1,0 +1,1 @@
+{"name":"zip_eq","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"lipsum","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4cc0a75ae1cfa22cfb7b9ada6570d7e8dee12b9fbbaa1fabc41645e584a70ae","features":{},"yanked":false}

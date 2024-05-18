@@ -1,0 +1,3 @@
+{"name":"querystring_tiny","vers":"0.1.0","deps":[{"name":"ebacktrace","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c694c1aa91df276398f3286c794ce39e2bcc73cfd0b7bb73afb32a9a515ea8a1","features":{"default":[]},"yanked":false}
+{"name":"querystring_tiny","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc208838473b4086b8f28deec06f61f2c278e813de9323b4e1b88eb62e29caee","features":{"default":[]},"yanked":false}
+{"name":"querystring_tiny","vers":"0.2.1","deps":[],"cksum":"88b4ac702c104b328107af65720c0237d652f163ccec6007dbb9fdfed1759d58","features":{"default":[]},"yanked":false}

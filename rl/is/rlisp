@@ -1,0 +1,2 @@
+{"name":"rlisp","vers":"0.1.0","deps":[],"cksum":"e2a3b80cb1bbbb78cf68fbb71c3db9e13ba5641eecc8312956682d1d13f407f9","features":{},"yanked":false}
+{"name":"rlisp","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"349621472b0d509b7c01b7a598d8da84524a62b48dd7284e1633a43466e390cb","features":{},"yanked":false}

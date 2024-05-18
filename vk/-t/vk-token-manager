@@ -1,0 +1,2 @@
+{"name":"vk-token-manager","vers":"0.1.0","deps":[{"name":"async-trait","req":"^0.1.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d63191912bac78cd24ce51c97bad3bf471c450625169ece02ce3557578ba39bc","features":{},"yanked":false}
+{"name":"vk-token-manager","vers":"0.2.0","deps":[{"name":"async-trait","req":"^0.1.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c933c53ab9b894f0c5edb10ad71e8f1dfbfd4249641cb69b71b3f558409e5b26","features":{},"yanked":false}

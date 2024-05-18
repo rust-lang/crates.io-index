@@ -1,0 +1,1 @@
+{"name":"ddg_cli","vers":"0.1.1","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d63e4a5116e4db836f36394409cc6fedfa8517c6c2ac7c45214966c1fcee350","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"handoff_counter","vers":"0.8.4","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d048d540fc3a34cc90c5b6dcb5676086523b58ba3a9620bc0ad8fcbcc7e75b3d","features":{},"yanked":false}
+{"name":"handoff_counter","vers":"0.8.5","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6cd318df099d0fef23be2764c5b8833e52177b918e2bbe59fd03b8a675fe092","features":{},"yanked":false}

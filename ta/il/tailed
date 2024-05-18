@@ -1,0 +1,1 @@
+{"name":"tailed","vers":"0.0.1","deps":[{"name":"static_assertions","req":"^1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"563114ed107ae33cdff431e6fcbc578966db4bb55ca09bd35958d83f50a203d7","features":{"default":[],"static-assert":["static_assertions"]},"yanked":false}

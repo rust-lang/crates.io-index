@@ -1,0 +1,1 @@
+{"name":"re0","vers":"0.0.0","deps":[{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e75b8545d27961404dce38f6e6d93a84b83be0c2ae088b2d6afd958a0fa3624a","features":{"default":[]},"yanked":false}

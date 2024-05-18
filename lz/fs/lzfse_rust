@@ -1,0 +1,2 @@
+{"name":"lzfse_rust","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ffc2095be74311878249fa999efb21d2190262a63f454f5da66d5fe52a2b50a","features":{},"yanked":true}
+{"name":"lzfse_rust","vers":"0.2.0","deps":[{"name":"version-sync","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f83f33419c2e88f255346b71ebb03b02a5aa1214ecd28c82179dee6f3a01bfcf","features":{},"yanked":false}

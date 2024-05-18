@@ -1,0 +1,1 @@
+{"name":"kdl2","vers":"0.0.0","deps":[{"name":"kii","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl2","req":"^0.34.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afa927f52edd8cdac9f0377fbcf15d4f9adcc836a18ba6501574eb6c120fe376","features":{},"yanked":false}

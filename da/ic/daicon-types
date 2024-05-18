@@ -1,0 +1,1 @@
+{"name":"daicon-types","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.13.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e9498fc5ea79b7f9a0b1ce123200eed5c730b02647c89e7482b56e17abbc1ef","features":{},"yanked":false}

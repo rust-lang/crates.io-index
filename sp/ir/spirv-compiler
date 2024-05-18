@@ -1,0 +1,2 @@
+{"name":"spirv-compiler","vers":"0.1.0","deps":[{"name":"shaderc","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd80041bed8b122f4a91763384fd7f332c41bcc9ffb5be77fc40c978a0f186e0","features":{},"yanked":false}
+{"name":"spirv-compiler","vers":"0.2.0","deps":[{"name":"shaderc","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54e486e713586666af4d282efed7e648fa856bc5975cb0fea43a4d7f9cb1dc15","features":{},"yanked":false}

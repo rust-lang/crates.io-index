@@ -1,0 +1,8 @@
+{"name":"port_check","vers":"0.1.0","deps":[],"cksum":"07b35c1e72f8aa543d10c69ed0fa63356cbe8521a5ac7288a50fb1b4d683977a","features":{},"yanked":false}
+{"name":"port_check","vers":"0.1.1","deps":[],"cksum":"4ccc6916e8946fafa1adc22feaff3461ef1a81f4d5a9b19d5a701d887ce699ea","features":{},"yanked":false}
+{"name":"port_check","vers":"0.1.2","deps":[],"cksum":"4eea6831323e5f958c4296bb21d76c788eabc209fd5f53964084ecc4bc3a9960","features":{},"yanked":false}
+{"name":"port_check","vers":"0.1.3","deps":[],"cksum":"a7b2cdda9a48b80e8d5e125544d2bb7b4a96503de41bd73071bdb6e50b0263db","features":{},"yanked":false}
+{"name":"port_check","vers":"0.1.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44a73aef855729bfdbef8519a7eb1b89fbf5e584f2259eec349d1d366fb10936","features":{},"yanked":false}
+{"name":"port_check","vers":"0.1.5","deps":[],"cksum":"f6519412c9e0d4be579b9f0618364d19cb434b324fc6ddb1b27b1e682c7105ed","features":{},"yanked":false}
+{"name":"port_check","vers":"0.2.0","deps":[{"name":"serial_test","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e956b3af7a0107123acd498bc9dde7113e452e0c3b156ba97381291241b0943e","features":{},"yanked":false}
+{"name":"port_check","vers":"0.2.1","deps":[{"name":"serial_test","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2110609fb863cdb367d4e69d6c43c81ba6a8c7d18e80082fe9f3ef16b23afeed","features":{},"yanked":false}

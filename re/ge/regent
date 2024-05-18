@@ -1,0 +1,3 @@
+{"name":"regent","vers":"0.1.0","deps":[{"name":"regent-internals","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79bed5bcce11cb1848f1fd22a2c071d2440b6bc417cb1ace8bf6c13ba3af8cf9","features":{},"yanked":false}
+{"name":"regent","vers":"0.2.0","deps":[{"name":"regent-internals","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b27d7fc07f7be15ff2eb311906dff4eccee5f26807766324633e5575d2de80d","features":{},"yanked":false}
+{"name":"regent","vers":"0.3.0","deps":[],"cksum":"bad00af57da27a69374f07f6033460af5cab3277f1635c655d107b88d7d0bde4","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"static-array","vers":"0.1.0","deps":[],"cksum":"b4fd4dedd2fe6ecc8d6cfdeff7813342f5f62909e35e9366ebc6d81e76c230c5","features":{},"yanked":false}
+{"name":"static-array","vers":"0.2.0","deps":[],"cksum":"6c3a4528a259ca8c9b67886f2f46d91c52aa3605be8a63ea493ea620559850af","features":{},"yanked":false}
+{"name":"static-array","vers":"0.3.0","deps":[],"cksum":"3ca19b5bc01ed39c59f4d5e683fc8814c03171a42c96e491c41d08231b272897","features":{},"yanked":false}
+{"name":"static-array","vers":"0.4.0","deps":[{"name":"rayon","req":"^1.8.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"366814f88d72fb97eb7b0da4d544fa1f34cbf077e0bc0a67ce447e731bb322a5","features":{},"features2":{"rayon":["dep:rayon"]},"yanked":false,"v":2}
+{"name":"static-array","vers":"0.5.0","deps":[{"name":"rayon","req":"^1.8.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c9374e1ca0d90b2c02b05e02d4190538608bff9a8017081fa3d93038f7034f2","features":{},"features2":{"rayon":["dep:rayon"]},"yanked":false,"v":2}

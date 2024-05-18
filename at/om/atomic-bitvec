@@ -1,0 +1,2 @@
+{"name":"atomic-bitvec","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"45c543db3eccbd67e0a754bc3d51dfcee02b2fea270361304eea79d2b331acde","features":{},"yanked":false}
+{"name":"atomic-bitvec","vers":"0.1.1","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"416ea34925aeabe4be0a6dbfc951ab704f514828b2ac33db3b57a3a27d3f43c0","features":{},"yanked":false}

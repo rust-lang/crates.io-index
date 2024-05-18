@@ -1,0 +1,2 @@
+{"name":"imxrt1062-rtwdog","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f74aaf5fe6efa531a5238eddd135b2221042949a7ded099c78588d8650bb9806","features":{},"yanked":false}
+{"name":"imxrt1062-rtwdog","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38c112fd3b5e4b39fc42b38474b1cc0b8a1b7abcaf4d81873e27bb8be217f3cc","features":{},"yanked":false}

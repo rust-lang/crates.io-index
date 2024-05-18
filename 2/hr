@@ -1,0 +1,2 @@
+{"name":"hr","vers":"0.1.0","deps":[{"name":"term_size","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90093a193868e61ba5b2a7748524c7f678567c2ee1262a2651f3b17e6e7e0b13","features":{},"yanked":false}
+{"name":"hr","vers":"0.1.1","deps":[{"name":"term_size","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c9d556fb9b4b4da1db2586d7713756ef3bd8649f88709da45541e08697e9b92","features":{},"yanked":false}

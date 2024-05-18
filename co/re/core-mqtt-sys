@@ -1,0 +1,2 @@
+{"name":"core-mqtt-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3dc7699ea7f6bb847b9e6279f503a4432987b31ba675421d7218b5bb596ae6c5","features":{},"yanked":false}
+{"name":"core-mqtt-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d32b7d68bfebd2efd527ad080992a248b244bb57f46c3aa5d9257d66985bcbe3","features":{},"yanked":false}

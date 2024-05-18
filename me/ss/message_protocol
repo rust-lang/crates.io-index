@@ -1,0 +1,2 @@
+{"name":"message_protocol","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6547ae389079cf4dfa2a715ae9797dbf56a218ff12d8f54bd539728a82fe6fa1","features":{},"yanked":false}
+{"name":"message_protocol","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85fc300f77a82e0478b949163209102471ba7652d817fc1c753571a9402cce70","features":{},"yanked":false}

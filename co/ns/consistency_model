@@ -1,0 +1,1 @@
+{"name":"consistency_model","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89d26c21429dd60ea58b0ba6f8d4639b08a273ac52c9d9df327699ef202d289a","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

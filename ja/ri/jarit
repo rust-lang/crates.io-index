@@ -1,0 +1,2 @@
+{"name":"jarit","vers":"0.0.0","deps":[{"name":"goolog","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"jni","req":"^0.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78bea9d36e22684d5d052cfced6ae6b2c373bddf0f51919425c52cfebaf2e790","features":{},"yanked":true}
+{"name":"jarit","vers":"0.0.1","deps":[],"cksum":"848802928351745e6382bb7b83a6d30850fa40baede9729fea5b24d4d0986054","features":{},"yanked":true}

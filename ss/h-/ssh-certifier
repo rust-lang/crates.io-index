@@ -1,0 +1,2 @@
+{"name":"ssh-certifier","vers":"0.0.0","deps":[],"cksum":"4580f4f9354e57acdf5efef633da13cf5349ddbdfa90a665df4425aba34c473d","features":{},"yanked":true}
+{"name":"ssh-certifier","vers":"0.1.0","deps":[{"name":"ssh-key","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf262ee66ab6bf950773f24d5562e41d0c747b98fe66e0e9845ed1144705239b","features":{},"yanked":true}

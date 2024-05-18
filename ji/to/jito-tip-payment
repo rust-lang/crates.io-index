@@ -1,0 +1,1 @@
+{"name":"jito-tip-payment","vers":"0.1.1","deps":[{"name":"anchor-lang","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc96698eaad784d83acc65723830043072b2eb0edf97714cd25c8e68d423e1d9","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

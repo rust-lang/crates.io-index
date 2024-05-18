@@ -1,0 +1,5 @@
+{"name":"syntax-tree","vers":"0.1.0","deps":[],"cksum":"eacdecc3ed4e9ca69ce9021a6fb8f1434ed06dc42017da65c29a9f14e88a8d1f","features":{},"yanked":false}
+{"name":"syntax-tree","vers":"0.2.0","deps":[],"cksum":"b2a3132bd23409e47efb7647a44c14c4bbc77c5807044662fd0516d4f28eb374","features":{},"yanked":false}
+{"name":"syntax-tree","vers":"0.3.0","deps":[{"name":"uuid","req":"^0.8","features":["v4","wasm-bindgen"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b965208101b077b6ec16ff9f0b810b6be0b2f09262137067664795be911a04d","features":{},"yanked":false}
+{"name":"syntax-tree","vers":"0.3.1","deps":[{"name":"uuid","req":"^0.8","features":["v4","wasm-bindgen"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"660f643974038ec19c0c441046a7cf182884f8873a6c1e660de5572e3cc26312","features":{},"yanked":false}
+{"name":"syntax-tree","vers":"0.3.2","deps":[{"name":"uuid","req":"^0.8","features":["v4","wasm-bindgen"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"576cfbba9f041ce45e4b7230cffd960cd149072dab2f80bd2a28373680944ebb","features":{},"yanked":false}

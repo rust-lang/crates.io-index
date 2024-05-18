@@ -1,0 +1,1 @@
+{"name":"repr-trait-derive","vers":"1.0.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8512d52df656782c3ba2efa23ad296564a2d7b58ee8d74e9f502542b95dffdbb","features":{},"yanked":false}

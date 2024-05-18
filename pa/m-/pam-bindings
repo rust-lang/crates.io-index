@@ -1,0 +1,2 @@
+{"name":"pam-bindings","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b4a93753fc6703aead57c3dcffee26a2e5f4ecfe1d72ee4da8016821b67b2e5","features":{},"yanked":false}
+{"name":"pam-bindings","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95c337e922acb6ab9c3ddd1016fed13957a5bf14f51b6caa293ddc8dd47660ca","features":{},"yanked":false}

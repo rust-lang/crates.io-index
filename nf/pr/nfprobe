@@ -1,0 +1,1 @@
+{"name":"nfprobe","vers":"0.0.1","deps":[{"name":"elf_rs","req":"<=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d35d0fe10791434b5f30ec73e82d5f8a0c571b144205cadc93b01bc32fd38e","features":{},"yanked":false}

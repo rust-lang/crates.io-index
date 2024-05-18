@@ -1,0 +1,2 @@
+{"name":"kinesin","vers":"0.1.0","deps":[{"name":"kinesin-rdt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bff94b5b8241007b8f4ab166006d986c183ee632019f6a63eec443c63bb5a46","features":{},"yanked":false}
+{"name":"kinesin","vers":"0.1.1","deps":[{"name":"kinesin-rdt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e071f1ec5fab7a5d420d482fd3fb1687bf381a582312e1d297062fbcda29ac7","features":{},"yanked":false}

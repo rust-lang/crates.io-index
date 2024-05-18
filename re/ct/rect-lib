@@ -1,0 +1,2 @@
+{"name":"rect-lib","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9645417c6835f656b323b28454317edad3e039aa7c9fdcc2c0860374786f1d1a","features":{},"yanked":true}
+{"name":"rect-lib","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29644a76449680639f67828679f07745d960877cee66d93d2b5062516ef00cc9","features":{},"yanked":false}

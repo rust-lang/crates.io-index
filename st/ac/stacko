@@ -1,0 +1,2 @@
+{"name":"stacko","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffafab7d6b0303effbf3d840a892deafebc09682ece7bdfdd75dac997ca1b978","features":{},"yanked":true}
+{"name":"stacko","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acd2c8646f4c7a108cfe1ac4bf2f619dd8b3c19cbb0ff2bb754cf97802551499","features":{},"yanked":true}

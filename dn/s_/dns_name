@@ -1,0 +1,2 @@
+{"name":"dns_name","vers":"1.0.0","deps":[{"name":"trust-dns-proto","req":"^0.22.0","features":["dnssec"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00f8fd83b911977926aabd9ab6f60e07e55c35d6cd6be22d10ed03a373219f71","features":{},"yanked":false}
+{"name":"dns_name","vers":"1.0.1","deps":[{"name":"hickory-proto","req":"^0.24.0","features":["dnssec"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ec683cc108602b300fedddbf4f4baeafc3fb7dcfd4394530a9805c8deb09f4e","features":{},"yanked":false}

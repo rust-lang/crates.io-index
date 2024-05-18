@@ -1,0 +1,5 @@
+{"name":"bint","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.302","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d04eb80354ecbc0e3c69181b073fb6ea1880b168e8243325e3c67b977a1a1eb","features":{"default":[]},"yanked":false}
+{"name":"bint","vers":"0.1.2","deps":[],"cksum":"b8b9363847566c82ea6af6b44ff32c784d37068656ab2d68be5937ae31b108e6","features":{},"yanked":false}
+{"name":"bint","vers":"0.1.3","deps":[],"cksum":"6706028583aaa09faf52d232779c5577bb18b385d06ffcfef91d5cec7323b78d","features":{},"yanked":false}
+{"name":"bint","vers":"0.1.4","deps":[],"cksum":"f04e85a0241da303a1b2efdf6d685b59b04b4fbfbaded4da058f6d88139a372e","features":{},"yanked":false,"rust_version":"1.34"}
+{"name":"bint","vers":"0.1.5","deps":[],"cksum":"3ae43c085b65fe6323b3f7c4513d4228f19484654e3ad18840e5ca0c06207ea9","features":{},"yanked":false,"rust_version":"1.34"}

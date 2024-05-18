@@ -1,0 +1,3 @@
+{"name":"patchelf","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe61393410efa8fe4e562ee2d1dc2584eba204fda10d46a298ad3c4dd1acd7ff","features":{},"yanked":true}
+{"name":"patchelf","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0e5fad5b2ae2989f83a0855c1f2f97a73526fc8e5815eac5742ef2f9ee58afd7","features":{},"yanked":true}
+{"name":"patchelf","vers":"0.2.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dad9ad0be261cb118cb6ee66675910ce718da9e600746b0427a81521e5a91524","features":{},"yanked":false}

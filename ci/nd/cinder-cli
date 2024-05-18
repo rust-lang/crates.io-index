@@ -1,0 +1,1 @@
+{"name":"cinder-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^2.33","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dcc1e5ae6ed87a5e639be75908cc933d12093c5e960b4694cc1757dc203ec35","features":{},"yanked":false}

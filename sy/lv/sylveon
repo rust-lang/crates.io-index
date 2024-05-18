@@ -1,0 +1,4 @@
+{"name":"sylveon","vers":"0.0.1","deps":[],"cksum":"f8c8cd26bd6ed228c0b3eb75222316d5119dee6334992fbcfc4be21ba9357114","features":{},"yanked":true}
+{"name":"sylveon","vers":"0.1.0","deps":[],"cksum":"3480292382d00586a251b074bef5b1814b9f6b698bf2c89a9206819ec6dc5416","features":{},"yanked":false}
+{"name":"sylveon","vers":"0.2.0","deps":[],"cksum":"32f25a6fac82cace9e68147701d71d7ad68217798a64599257bfc84e9f953937","features":{},"yanked":false}
+{"name":"sylveon","vers":"0.2.1","deps":[{"name":"sylveon_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"723967f64ce583e9db469180cab743df703b23f4ebef52ffbf880cd04a44ed2b","features":{},"yanked":false}

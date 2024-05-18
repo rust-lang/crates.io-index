@@ -1,0 +1,1 @@
+{"name":"externc-libm","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a92d5ce4982632e52cebdfdef7580f2f1b3dc02f541a74ac8838412bb3e9b123","features":{"libm-unstable":["libm/unstable"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"afio","vers":"0.1.0","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mio","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8faf36430186c209757276c01a8950122242170c72a6caa7136dee4dbab9453","features":{},"yanked":false}

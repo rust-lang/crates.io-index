@@ -1,0 +1,2 @@
+{"name":"rxqlite-notification","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d179ae38b166ed88fe1593abcbbda8b389b61d515bf084a16fe41f358e952ec0","features":{},"yanked":true}
+{"name":"rxqlite-notification","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e63c6f9244cb096facb4557e3ad83034d64266dc1e2cc1184aab156f8c7035b","features":{},"yanked":false}

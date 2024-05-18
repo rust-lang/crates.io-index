@@ -1,0 +1,1 @@
+{"name":"fd_bs58","vers":"0.1.0","deps":[{"name":"bs58","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fdaac1b30ff95de4562a79ae990f91ac7bf2062d7313cc25c58987762c8e8160","features":{},"yanked":false}

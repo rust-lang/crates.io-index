@@ -1,0 +1,4 @@
+{"name":"abort","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"032906c62fa2084915b77449a92782d1bedef8af234039e5f689cb51156ddcc1","features":{},"yanked":true}
+{"name":"abort","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"086c9f1f25436fe0a2d21f5b5b7b01bc631be4c2f8225d92a9a0a4a5060c093e","features":{},"yanked":false}
+{"name":"abort","vers":"0.1.2","deps":[],"cksum":"ffc10ce60e21c78d697e2381c4872c79c12575a712a9a7d2c9ea30da56aa30fc","features":{},"yanked":false}
+{"name":"abort","vers":"0.1.3","deps":[],"cksum":"addde1f7d1104254aa8cd4293f8478b1783462b7cb33815c19cb1bbbb51277ba","features":{"nightly":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"bolt_tcp","vers":"0.11.11","deps":[],"cksum":"7587807cc4286c5ae6a14321b22d4669afe6287d160df6e8ab3052d5e077b714","features":{},"yanked":false}
+{"name":"bolt_tcp","vers":"0.12.4","deps":[{"name":"bolt_common","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c28ca4dd3d571fbebb433bb0272fe4b7bc3b3927276449395c1acba6470f7d5f","features":{},"yanked":false}
+{"name":"bolt_tcp","vers":"0.12.5","deps":[{"name":"bolt_common","req":"^0.12.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d900d171949e6351a59303e062c173c72cbe2176b9b5b9d73e147e6fc47e40","features":{},"yanked":false}

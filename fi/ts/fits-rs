@@ -1,0 +1,3 @@
+{"name":"fits-rs","vers":"0.1.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75c04c59e272f29d54993a9d47763467ffce14be0053dbc696fa0a85611fdc0d","features":{},"yanked":false}
+{"name":"fits-rs","vers":"0.2.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66ec9cfce31872eaede5d153c5675c04f883211f33a5a4e91d28cbaca0119822","features":{},"yanked":false}
+{"name":"fits-rs","vers":"0.3.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"895298b8b374ae52cb0bf1ab4f34f359f666e44d08424e49f63247f97955da91","features":{},"yanked":false}

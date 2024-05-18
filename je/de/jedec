@@ -1,0 +1,5 @@
+{"name":"jedec","vers":"0.0.0","deps":[],"cksum":"98cdd234d4b471af3d284056318f24e1a024545897505381d59428aee5831b1e","features":{},"yanked":false}
+{"name":"jedec","vers":"0.0.1","deps":[],"cksum":"0daa536101d754b7bb0111c2d7f62fd9263787c6c327d0793d691acb2d2b6f66","features":{},"yanked":false}
+{"name":"jedec","vers":"0.0.2","deps":[],"cksum":"86466629867ecd322e0561f698a06ff7dd06a1d053a5d728bf2c8ddfdffabc91","features":{},"yanked":false}
+{"name":"jedec","vers":"0.0.3","deps":[],"cksum":"0306c89eb520652728e2f6a3155a0f3e6f8919e2762a416b7f5d1b070e7e1312","features":{},"yanked":false}
+{"name":"jedec","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"74d139e303e5696e05d692fe29a2afb6ac5c3d5a46705bf4f3beb45a0ea3cd67","features":{"default":["std"],"std":[]},"yanked":false}

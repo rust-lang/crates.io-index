@@ -1,0 +1,16 @@
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0+1","deps":[],"cksum":"bc2f8f6679af2ac36c7f841dc0e2495aa8cca8d01a8d4886972ffe53b94aee80","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0+2","deps":[],"cksum":"6f6e40006239fa1be04903b403c1675905533329ac9f6a2b1c56eb6ce11ecb9d","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0+3","deps":[],"cksum":"588547ec555391bdecc1810246d6b1a0087305c7a52e5053ed21528be8825554","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0","deps":[],"cksum":"2d810ac8a3038fc255fcfdf2e449e0e35f850fb56439ae5f4c649b23744fe5ce","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0","deps":[],"cksum":"23c01f6bb8ae06e333ec33bc220c9179ca73a9bb33709d7ba6200c1b33a4753c","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0+1","deps":[],"cksum":"7c04810e419badecdf9d8935d0c154a358f23a736fc055b3aa6e52849bc1a940","features":{},"yanked":true}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0-1","deps":[],"cksum":"cfb59efab73730e359b747aba767c8048729f8bad19337f44f7b3bc229685ba5","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.3.0","deps":[],"cksum":"92804c7e7fe8fc2b70e0e0d7969763cb204280634419539ae3c1b9981227b3be","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.3.0-1","deps":[],"cksum":"a30224e853fea6b4ff54769c7bfd2ee4ebd8d8560adede8d7590f59515a17bcf","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.3.0-rc.1","deps":[],"cksum":"fe890d81defe865b6e263c4f0999e1dcd3691b6cc0780c9aa3452aa048949390","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.4.0-1","deps":[],"cksum":"6a327b75ea3094084cbd18fa1e07210d6e0f5462f599633b443725fd4e57ba77","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.4.0-rc.1","deps":[],"cksum":"1fb090d326bde94d1dd836d3c6b6b30ec58bb3530e38fd23397235bbe75f1d5f","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.4.0-rc.2","deps":[],"cksum":"c699a690fa55380309c1d31dc09f3e8e377358ba517a0812268fa69ee281902f","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.4.0-rc.3","deps":[],"cksum":"5b40c86946316a9d7bfc7d87aae42b0aa797575c1572e9e5628ce61dddf37682","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0-rc.1","deps":[],"cksum":"d421b588f27015cf51c6121df1a48887147fc4e9fba0d7cbe58958033e4cc4b7","features":{},"yanked":false}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.5.0","deps":[{"name":"bindgen","req":"^0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cty","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3db52fa23a0704bcec16d23e00588dcd26661e749f3aa15c51e1ff99d89d5427","features":{"cmake-ninja":[],"cmake-vs2017":[],"cmake-vs2017-win64":[],"default":["nng-stats"],"legacy-111-rc4":[],"nng-stats":[],"nng-tls":[]},"yanked":false}

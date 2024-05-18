@@ -1,0 +1,2 @@
+{"name":"gita","vers":"0.0.1","deps":[{"name":"git2","req":"^0.13.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28f1563115eb1b0dd55ac38fe0882784ca3bbd2add440f1089cf3a909d553f83","features":{},"yanked":false}
+{"name":"gita","vers":"0.0.2","deps":[{"name":"git2","req":"^0.13.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b66021bb2be1fa1cb536915116eb3d5fcbcc822ddf7fe1559df56ac807e0e1a2","features":{},"yanked":false}

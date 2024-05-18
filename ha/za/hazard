@@ -1,0 +1,4 @@
+{"name":"hazard","vers":"0.1.0","deps":[{"name":"clippy","req":"0.0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c669ef8055a49dba7ae04bf1f3c6e2fb210b0f0eae339ba899e839f25d0ad6b6","features":{},"yanked":false}
+{"name":"hazard","vers":"0.2.0","deps":[{"name":"clippy","req":"0.0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b50270226de3f9e8192641109eb5ae0bb8405b778d55f6bbc101e8fab2bda89","features":{},"yanked":false}
+{"name":"hazard","vers":"0.3.0","deps":[{"name":"clippy","req":"0.0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1db0308da1852582825ccfc1b36a264f5e3e473ddd80a8edd4404085c485ba77","features":{},"yanked":false}
+{"name":"hazard","vers":"0.3.1","deps":[],"cksum":"0de21a47b2ccd944b16d6cc6b8e40ecf212099b5cd03ada2ae2e733f8cb802f1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ktensor","vers":"0.0.1","deps":[],"cksum":"54f452fdf6b99dbd3282e39a5ac0ca92d5d5a594789044dc8596252e629dd7c6","features":{},"yanked":false}
+{"name":"ktensor","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d77b521001a00307a428942e04c7585cd333be39678b0613b30e4e6773ca415","features":{},"yanked":false}

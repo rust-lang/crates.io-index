@@ -1,0 +1,3 @@
+{"name":"edo","vers":"0.1.0","deps":[{"name":"nom","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5e716106423f1dd18b174e887d4b9ba5e835cf58c2ab12d63b610bf86fc981b","features":{},"yanked":false}
+{"name":"edo","vers":"0.2.0","deps":[{"name":"nom","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aefc36a8fe7b01c037b223c31168541027f2be0c2cb54239595b5490e4f45b7b","features":{},"yanked":false}
+{"name":"edo","vers":"0.3.0","deps":[{"name":"nom","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"422f00ef8cba8610768a14583d5bcb36875a5a8641bff12b9ac8d2cbb6eb5671","features":{},"yanked":false}

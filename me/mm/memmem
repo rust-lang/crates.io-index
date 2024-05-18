@@ -1,0 +1,2 @@
+{"name":"memmem","vers":"0.1.0","deps":[],"cksum":"c6bc91f7975542a80095fff3b1a7ed7d83f276713c498fc024022d95973ea16a","features":{},"yanked":false}
+{"name":"memmem","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a64a92489e2744ce060c349162be1c5f33c6969234104dbd99ddb5feb08b8c15","features":{},"yanked":false}

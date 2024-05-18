@@ -1,0 +1,2 @@
+{"name":"ctron","vers":"0.1.0","deps":[],"cksum":"1ec4185fbd867725b6b5b42974f74a01355478126ef8d92b78d20420ed5b3918","features":{},"yanked":false}
+{"name":"ctron","vers":"0.2.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e10c0f8d873ace832423bf512d89ce710bae947da2150c40c6ff9c69815983e","features":{},"yanked":false}

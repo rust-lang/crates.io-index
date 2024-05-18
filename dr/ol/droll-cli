@@ -1,0 +1,1 @@
+{"name":"droll-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"droll","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3adfe832194306673f8c5eff53272aad8f1f99d9e501250ceb4f80931ebec3a5","features":{},"yanked":false}

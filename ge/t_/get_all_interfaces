@@ -1,0 +1,2 @@
+{"name":"get_all_interfaces","vers":"0.1.0","deps":[{"name":"pnet","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a3974296949fda3293993e5bd80928600e8d342e68ea9bb54e25a075051a8a","features":{},"yanked":true}
+{"name":"get_all_interfaces","vers":"0.1.1","deps":[{"name":"pnet","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae64a3eefefe68f9f6479a778a2da566e6a8181664759e540e600d1ed0b1f24d","features":{},"yanked":false}

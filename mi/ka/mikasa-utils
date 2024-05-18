@@ -1,0 +1,1 @@
+{"name":"mikasa-utils","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e85af55b571ee57efb77d6af06cf9c5f3faf88babcb87be23d40e4f6788c602","features":{},"yanked":false}

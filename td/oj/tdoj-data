@@ -1,0 +1,1 @@
+{"name":"tdoj-data","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.85","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2f31367b11981eba0dadad3bd7512cb9714079221cdcbf25f81dfa60b9655b2","features":{},"yanked":false}

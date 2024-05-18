@@ -1,0 +1,2 @@
+{"name":"dyn_object","vers":"0.1.0","deps":[{"name":"downcast-rs","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"787f88c8c45f0bceb7378e504b4e7537ea2c48af7b51b5d1dbfc3b7bf1f2e8a0","features":{},"yanked":true}
+{"name":"dyn_object","vers":"0.2.0","deps":[{"name":"downcast-rs","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6671e5c2339088ae11bb790639f62184b683dd8d5d5559337bfd60631d623a7b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"csaparser","vers":"0.3.0","deps":[{"name":"usiagent","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a8374ef869e8021ce39b06eddaf8c70c3f49dffcca7231d38326610b9f3adb7","features":{},"yanked":false}
+{"name":"csaparser","vers":"0.3.1","deps":[{"name":"usiagent","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e53c04e508d8f4a0adef84a25ddae873da3737e7666499740d3c9ddd32ae15c","features":{},"yanked":false}

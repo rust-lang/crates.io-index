@@ -1,0 +1,1 @@
+{"name":"stack-program","vers":"0.0.1","deps":[{"name":"anchor-lang","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"900d6c728319d23dfc20bf7ff904e49939f312f2342e3ff43f4d86e0e836eefa","features":{"cpi":["no-entrypoint"],"no-entrypoint":[]},"yanked":true}

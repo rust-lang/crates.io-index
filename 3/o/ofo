@@ -1,0 +1,1 @@
+{"name":"ofo","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64762ebe349abe38627f72e6abc6835cf7e5fb903b232876837b18bfdead957e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mocha_audio","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"52163dc4dc6eb6234a34411b00eb50c03a5627437a4355f1e7b8dae4f8f51603","features":{},"yanked":false}
+{"name":"mocha_audio","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3b9dc2ac1e64c01c806aed8c158915b86bfd7ff5d1244141fdf68344090c0b02","features":{},"yanked":false}

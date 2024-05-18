@@ -1,0 +1,4 @@
+{"name":"dictionary-1024","vers":"0.1.0","deps":[],"cksum":"6bd30b9c506794990ff63fef7171c25803571acc72bb4d544d954691cc626709","features":{},"yanked":false}
+{"name":"dictionary-1024","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1990f9da9255de3470f403c119f072c81fae640bd7c36b3e57842b594d124c9a","features":{},"yanked":false}
+{"name":"dictionary-1024","vers":"0.2.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f87d194ee7ceb41dd2a17911edeefb71d725c4ded6d44ab6c4f6cb27925adda","features":{},"yanked":false}
+{"name":"dictionary-1024","vers":"0.3.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2d6f8e3836253096eec32a4c11deb0179b626c73b012130e6bbe948ca86808e","features":{},"yanked":false}

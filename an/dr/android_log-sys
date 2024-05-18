@@ -1,0 +1,6 @@
+{"name":"android_log-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37e19fbefe3a684a203b4f9d73ccb59bd31d967adc8560a215708c4ba4e4144e","features":{},"yanked":false}
+{"name":"android_log-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b9f183ca2315ac55e98c40c1bf095cb36a67fbc3e551e61e31c06b6938d6107","features":{},"yanked":false}
+{"name":"android_log-sys","vers":"0.1.2","deps":[],"cksum":"b8052e2d8aabbb8d556d6abbcce2a22b9590996c5f849b9c7ce4544a2e3b984e","features":{},"yanked":false}
+{"name":"android_log-sys","vers":"0.2.0","deps":[],"cksum":"85965b6739a430150bdd138e2374a98af0c3ee0d030b3bb7fc3bddff58d0102e","features":{},"yanked":false}
+{"name":"android_log-sys","vers":"0.3.0","deps":[],"cksum":"27f0fc03f560e1aebde41c2398b691cb98b5ea5996a6184a7a67bbbb77448969","features":{},"yanked":false}
+{"name":"android_log-sys","vers":"0.3.1","deps":[],"cksum":"5ecc8056bf6ab9892dcd53216c83d1597487d7dacac16c8df6b877d127df9937","features":{},"yanked":false}

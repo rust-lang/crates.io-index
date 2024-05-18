@@ -1,0 +1,7 @@
+{"name":"delaunay_creator","vers":"0.2.0","deps":[],"cksum":"92048943544eae8f525580ffe5a81e8069cdef1effa0e158519b10d9ad163aa0","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.1","deps":[],"cksum":"92735ed8fc91f3f46d9b324128929652edb2ba21d910949c5c76229f738e8cbb","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.2","deps":[],"cksum":"ae7d2938efbf521d959537994910f04b59e1397cf02a8f6c730e119b9a8b2ad9","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.3","deps":[],"cksum":"5d999ece9a055b2db77a142c4e8e6dba79cbf351d38772133f38143861e4556a","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.4","deps":[],"cksum":"5d327b402468d04e779bf775d288fb2a5599b5c4609cf1ae964597787dc44fe9","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.5","deps":[{"name":"plotters","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e55483e3c03bda2abc46c27cd874a20d61a2c1840d06f8d76839a7580df7485","features":{},"yanked":false}
+{"name":"delaunay_creator","vers":"0.2.6","deps":[{"name":"plotters","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e1ff6f5a6383fc63e4ff12c908cae1a1bd6d07ce340ea7e79a8a457f1c7f94be","features":{},"yanked":false}

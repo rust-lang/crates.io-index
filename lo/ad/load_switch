@@ -1,0 +1,1 @@
+{"name":"load_switch","vers":"0.1.0","deps":[{"name":"tm4c123x-hal","req":"^0.10.2","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8efeccf6467f8c93742640661034b0325da105db77706e74b44a87940d56e14","features":{},"yanked":false}

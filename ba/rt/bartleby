@@ -1,0 +1,2 @@
+{"name":"bartleby","vers":"0.2.2","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7b7a4a3520447e335d3e9a046a0de4f45efb227ef1d21a3eb2ae12a4ad8fec61","features":{},"yanked":true}
+{"name":"bartleby","vers":"0.2.3","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eb3158ee0564cef7d05903351da2ad56d2e7a0c89a57608ceb0d06cd3a944782","features":{},"yanked":false}

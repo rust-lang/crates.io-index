@@ -1,0 +1,1 @@
+{"name":"rocat","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.4","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b1af14d380fec15729ff94f09ca6e413d01f2fe34ab5e432f0bf4ad67c6f671","features":{},"yanked":false}

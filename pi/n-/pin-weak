@@ -1,0 +1,2 @@
+{"name":"pin-weak","vers":"1.0.0","deps":[],"cksum":"02ba61b21fb669f7b20a53cc8a38901531c9e9656e695406bd7cffeddde41e4d","features":{},"yanked":false}
+{"name":"pin-weak","vers":"1.1.0","deps":[],"cksum":"b330c9d1b92dfe68442ca20b009c717d5f0b1e3cf4965e62f704c3c6e95a1305","features":{"default":["sync"],"sync":[]},"yanked":false}

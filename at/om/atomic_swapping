@@ -1,0 +1,1 @@
+{"name":"atomic_swapping","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b49fc8739e0392f7fef8c943d0d23958446c7feaba410a59339b5d7ac0eb8619","features":{"default":[],"never_unchecked":[]},"yanked":false}

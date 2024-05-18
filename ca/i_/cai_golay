@@ -1,0 +1,2 @@
+{"name":"cai_golay","vers":"0.1.0","deps":[{"name":"binfield_matrix","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c8926c8c0b1111304cdb7b76a7239639b7df35280a66886d7377acdf360466c","features":{},"yanked":false}
+{"name":"cai_golay","vers":"0.1.1","deps":[{"name":"binfield_matrix","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb662354a5193c9c521599ed9b59d13e51900b06716a15b6528e9ef045b2c81c","features":{},"yanked":false}

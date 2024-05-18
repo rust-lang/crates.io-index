@@ -1,0 +1,2 @@
+{"name":"cvars-console","vers":"0.1.0","deps":[{"name":"cvars","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ba8817e19912e8807edbf0df3e7660d159cfcbe06461f40cf07617799ba3083","features":{},"yanked":false}
+{"name":"cvars-console","vers":"0.2.0","deps":[{"name":"cvars","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4eb07ffaf92ae325f51087a4b5636c84cd4535c200d7b1611ce2c35cc4958ea9","features":{},"yanked":false}

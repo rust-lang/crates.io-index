@@ -1,0 +1,3 @@
+{"name":"bytewise","vers":"0.1.0","deps":[],"cksum":"a4ef6c1b320b443e9a970d6236db5a40c632afa8beb50698401ff2b82cfe4cce","features":{},"yanked":true}
+{"name":"bytewise","vers":"0.2.0","deps":[],"cksum":"2cd2d4d38a03846d830fc304224134a8e463ab35c572700b92a9e12d79ce1cb6","features":{},"yanked":true}
+{"name":"bytewise","vers":"0.3.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"993368d49ef970df4c38ec19ea57bc294af33289e4cae7c93a40de768b3a77aa","features":{},"yanked":true}

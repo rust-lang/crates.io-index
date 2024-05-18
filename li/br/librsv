@@ -1,0 +1,2 @@
+{"name":"librsv","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c5a1f280fc115735e7a3bb01cfbbd849707250370db5c9916ee334459a37203","features":{},"yanked":false}
+{"name":"librsv","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4c33e4e06cc0a864c7fde9d2d339daa957127a46efc661b03f578d739b70967","features":{},"yanked":false}

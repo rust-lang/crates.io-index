@@ -1,0 +1,1 @@
+{"name":"thrive-ipc","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdb9cd15e04c7326f56dc0b1686092d374c9283dd47af7e2966a59bf1ca41a19","features":{},"yanked":false}

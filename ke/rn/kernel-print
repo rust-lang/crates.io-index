@@ -1,0 +1,1 @@
+{"name":"kernel-print","vers":"0.1.0","deps":[{"name":"ntapi","req":"^0.3.4","features":["kernel"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d7beb9d8f61a1f5f9a29869bedc096e63e4136b8a324a667cffc857dae3641a0","features":{"default":["format"],"format":[],"std_name":[]},"yanked":false}

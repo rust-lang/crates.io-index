@@ -1,0 +1,2 @@
+{"name":"portman_client","vers":"0.1.0","deps":[{"name":"whoami","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e51712347ddfc9ca6092017201f19220e0765d45ce9f4a18418ff30cecf40b6e","features":{},"yanked":false}
+{"name":"portman_client","vers":"0.2.0","deps":[{"name":"whoami","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"caf9e09542f78053057180b438298de2bc586f2201fdfa548d53fc2c4ba7ab78","features":{"test_with_portman":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tetkey","vers":"0.0.0","deps":[],"cksum":"46cd867ea7293d83cc0d92cdd2842f4762d583e9e46c4ae86d0d9b9487cc7049","features":{},"yanked":true}
+{"name":"tetkey","vers":"2.0.0","deps":[{"name":"structopt","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tc-cli","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b94f9eda20b3b92f0082d50623a43ff51809b8fa27fa8b1d2cd1169d03f092e9","features":{},"yanked":false}

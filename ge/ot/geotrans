@@ -1,0 +1,5 @@
+{"name":"geotrans","vers":"0.1.0","deps":[],"cksum":"987812fc3589b10177a2375a53398876083074d3472f7c99a1b095d71dc9c57f","features":{},"yanked":false}
+{"name":"geotrans","vers":"0.1.1","deps":[],"cksum":"3237277dbaf611664120f4f1267531d01ec3883c98018de26941e8918b24874f","features":{},"yanked":false}
+{"name":"geotrans","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d79ab073aac82f33c74f3dc6606428c010c1c4c04513117516a877c9aca01905","features":{},"yanked":false}
+{"name":"geotrans","vers":"0.2.1","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6125af3ecbfcbd54448e857ad895b20bc36149556f0a51181b56af229af24454","features":{},"yanked":false}
+{"name":"geotrans","vers":"0.2.2","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d791e216517eb08f3717cc87af4134a23d824eda5dee14e05c6846d2491b97a","features":{},"yanked":false}

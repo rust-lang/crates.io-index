@@ -1,0 +1,8 @@
+{"name":"bitvec-rs","vers":"0.1.0","deps":[],"cksum":"d359a1fff588424ad221fa6e3c233e47b3d82bc74a81093d427fa53450f5907e","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.1.1","deps":[],"cksum":"e654f8b4e2bdd039bef6515d0de0dedfc553c9fbbae09aaab0e4960719bf91c6","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.1.2","deps":[],"cksum":"19a5a31abb9b479639bdf8d33c570a00ce7547c0dae264a42194741c2c05d5bd","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.1.3","deps":[],"cksum":"4c3ab542f0227d025a87d48345b40033d576d54c41030b2e2e5d39b99eb69c06","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.1.4","deps":[],"cksum":"8dc7e9916c70870aea580d802922e5d7fd214df122c821804beb2f1eef601ec8","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.1.5","deps":[],"cksum":"5057be52b6777525e3867eb0e26cbe7ebb54988aed40e551c0439a06a3ff42dc","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.2.0","deps":[],"cksum":"1bbe38840a1d54d686f7da5da2a34529c16e81c2e7742140f09359580694d35c","features":{},"yanked":false}
+{"name":"bitvec-rs","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0.94","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c2d713722e2cb980962a6e18b1a5fa83e31da20d72fa345644870b9b7c1e66b","features":{"default":[],"unstable":[]},"yanked":false}

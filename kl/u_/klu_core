@@ -1,0 +1,3 @@
+{"name":"klu_core","vers":"0.1.0","deps":[{"name":"image","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4aea6134327bf105edf4ef4ea0fc89cf99d28c1c686c83155ae863d32808eeaf","features":{},"yanked":false}
+{"name":"klu_core","vers":"0.2.0","deps":[],"cksum":"4968dc990361289f1508cbf273a7bd6d9fbbb59b6b794163418f8d1a598d877d","features":{"all":["virtual_fs"],"virtual_fs":[]},"yanked":false}
+{"name":"klu_core","vers":"0.2.1","deps":[],"cksum":"cb48837e7da9996f4e07e4754760e4f5ee1767c80748eaf8d6d2a7e4525d77cb","features":{"all":["virtual_fs"],"virtual_fs":[]},"yanked":false}

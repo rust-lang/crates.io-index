@@ -1,0 +1,2 @@
+{"name":"ripwc","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"020966e94ffcf25ff036f26a468a803f22c5be48095f456573c2467a9aa161c4","features":{},"yanked":false}
+{"name":"ripwc","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdde7a4814681f14937cdbca0cbf29b12448230ad01c45881ae0378080e37d74","features":{},"yanked":false}

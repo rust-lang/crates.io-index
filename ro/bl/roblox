@@ -1,0 +1,3 @@
+{"name":"roblox","vers":"0.9.0","deps":[{"name":"chrono","req":"^0.4.11","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sodiumoxide","req":"^0.2.5","features":["std"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"08a91b679854c86db159dcb4a148ecbb3a6158ee918b523270fedc5e8e1a5191","features":{},"yanked":false}
+{"name":"roblox","vers":"1.0.0","deps":[],"cksum":"f13d935eb79084f046d4095e192ba756a1b365559cbd1df9d0bcf24eafca62f7","features":{},"yanked":false}
+{"name":"roblox","vers":"1.0.1","deps":[],"cksum":"7fae22ba6403ac084b92b685ad7c47fb0d4847cecd200a08ce073a128a624fcf","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"asserter","vers":"0.0.0","deps":[{"name":"asserter-macros","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f17643cc938e547ea07f6f89e9676ffc9f40ce6c2dd90f889f4ae05ed8b479c1","features":{},"yanked":false}
+{"name":"asserter","vers":"0.1.0","deps":[{"name":"asserter-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0affaeda343cda38ca9aaa787fc61e4317ec7a64cf9cdbaeb3f6f01f7b57e495","features":{},"yanked":false}

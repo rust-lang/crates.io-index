@@ -1,0 +1,2 @@
+{"name":"rostend","vers":"0.1.0","deps":[],"cksum":"b8af1e1d6e10285768b2897514ec5304720397ea4b5db51c7935692543818d74","features":{},"yanked":false}
+{"name":"rostend","vers":"0.1.1","deps":[{"name":"rust-ini","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e05bb08379151a303713a01429d56ed692f0a7cff13f6a2b355d1df7e5823aa0","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"rsmemoryapi","vers":"0.0.1","deps":[],"cksum":"d8878a546d7ee18c1eac0c0a5ae3520a327c6882da6189be2738f8e83387d8f1","features":{},"yanked":false}
+{"name":"rsmemoryapi","vers":"0.0.2","deps":[],"cksum":"b4e04618aa05d225cc24867a43e1971986cebea65f928139960f1c2981110df8","features":{},"yanked":false}
+{"name":"rsmemoryapi","vers":"0.0.3","deps":[{"name":"rsmemoryapi","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87b505299b261d4e2fab4501264f326e2a5541d525d0c1b6be3a9afe3e558b94","features":{},"yanked":false}
+{"name":"rsmemoryapi","vers":"1.0.0","deps":[{"name":"winapi","req":"^0.3.9","features":["wincon"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"175e3dfae1699a0813301ff85e3f12a93857c23a8a614cd3c3ba10d425c384f5","features":{},"yanked":false}
+{"name":"rsmemoryapi","vers":"1.0.1","deps":[],"cksum":"e31f334b4677f8eb736965c7648c45d8f6d2fe0c88d77666399ea3b0e0a7595a","features":{},"yanked":false}

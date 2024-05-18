@@ -1,0 +1,5 @@
+{"name":"simple-symbol","vers":"0.1.0","deps":[],"cksum":"13d6efb8b67bcaf04422ff7ed3a5061b05776c643097b57f9df237f38d82d777","features":{},"yanked":false}
+{"name":"simple-symbol","vers":"1.0.0","deps":[],"cksum":"aac709ae28579601a5c8848f7291bc3f341a2bec36d297ead9650176c7a54702","features":{},"yanked":false}
+{"name":"simple-symbol","vers":"2.0.0","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"052a22c461c5e2a3e871caa18f97b9a15d85418843f2726f07359c2b3d99df2a","features":{},"yanked":false}
+{"name":"simple-symbol","vers":"3.0.0","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d1b7b9f2b6d3f7dd66b2fdd0c65dfc4c172ad9dc02c107e4e12e30b38fde1e2","features":{},"yanked":false}
+{"name":"simple-symbol","vers":"3.1.0","deps":[{"name":"once_cell","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"058c1083c6bb5fff5de57bf877894f178516afdec27a9839bfc7fa6543b8f90a","features":{},"yanked":false}

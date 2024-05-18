@@ -1,0 +1,2 @@
+{"name":"libsix","vers":"0.0.1","deps":[],"cksum":"7b2875a73b2cf9d4f982f17d055619c479a82339b10943d79c2ebe6fa6d02030","features":{},"yanked":false}
+{"name":"libsix","vers":"0.0.2","deps":[{"name":"unmem","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2008a801a934091c0b7225afc27e157362eacdaf1a8a73f389ee0693f334a165","features":{},"yanked":false}

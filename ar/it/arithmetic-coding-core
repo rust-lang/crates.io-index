@@ -1,0 +1,2 @@
+{"name":"arithmetic-coding-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1993952b615d9cf32da7c362194ad26131d39b7a1254a9b97dcd27cbe5d0e9d9","features":{},"yanked":false}
+{"name":"arithmetic-coding-core","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e0b490238610864e5d16e5cc405de8547a93f94bcff13cd6d518d1eb4fc58ad","features":{},"yanked":false}

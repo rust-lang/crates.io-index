@@ -1,0 +1,2 @@
+{"name":"console-input","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4caebbaa234b35fd2e12e8038d2b78dd979d8e380e477504d66ac875cc1689da","features":{},"yanked":false}
+{"name":"console-input","vers":"0.1.2","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c4270c12d1d6d8ef564d35236489ddaebcb57084dba29b0cc38b1c6377c12cb","features":{},"yanked":false}

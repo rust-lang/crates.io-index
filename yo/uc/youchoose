@@ -1,0 +1,2 @@
+{"name":"youchoose","vers":"0.1.0","deps":[{"name":"ncurses","req":"^5.101.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d87cf33b7c5bea7de1b5f378bbb97338334c9f08e11c0f73b3cdeec49bdeb73","features":{},"yanked":false}
+{"name":"youchoose","vers":"0.1.1","deps":[{"name":"ncurses","req":"^5.101.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38603aee8738ef227e6c1418bf1870738b5a84882e6736319def6c7ee6b65983","features":{},"yanked":false}

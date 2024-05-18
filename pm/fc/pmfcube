@@ -1,0 +1,1 @@
+{"name":"pmfcube","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libpolymesh","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee6868194a0a8d0d63dc0ec0948b772721718a431e7a34fee49bb1a0898451e2","features":{},"yanked":false}

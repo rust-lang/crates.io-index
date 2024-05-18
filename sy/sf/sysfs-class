@@ -1,0 +1,4 @@
+{"name":"sysfs-class","vers":"0.1.0","deps":[],"cksum":"707c54ffaca994dd969c997baf068c9fae49799b19cd99655968662f51f479f9","features":{},"yanked":false}
+{"name":"sysfs-class","vers":"0.1.1","deps":[],"cksum":"48eda022981a576eb4a94023ac833ef425be8d1237cef6515654347feaccf612","features":{},"yanked":false}
+{"name":"sysfs-class","vers":"0.1.2","deps":[{"name":"numtoa","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"718e4a5d0e144ff01e05bb8618a4997d8901cdec74cf25826bca2535ef406f3e","features":{},"yanked":false}
+{"name":"sysfs-class","vers":"0.1.3","deps":[{"name":"numtoa","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e1bbcf869732c45a77898f7f61ed6d411dfc37613517e444842f58d428856d1","features":{},"yanked":false}

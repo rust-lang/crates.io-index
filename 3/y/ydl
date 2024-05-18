@@ -1,0 +1,2 @@
+{"name":"ydl","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.13.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffd1f382a2b1a4dbae7cd7f1281ac212212b9ceadb6f146d39678d92a9c64656","features":{},"yanked":true}
+{"name":"ydl","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.13.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d9f1aebbedfebe12c728dbf841cdaf020b62d149a3d1a6b7145e31a535bf28d","features":{},"yanked":true}

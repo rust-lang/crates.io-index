@@ -1,0 +1,2 @@
+{"name":"net-literals-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6debc920113f682d4768a728a62211a4a91669783542ad07a920b49615f10bd1","features":{},"yanked":false}
+{"name":"net-literals-impl","vers":"0.1.2","deps":[{"name":"proc-macro-hack","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25b5934be849eabab2b5098b22e7c11e8cde098815735d783d548bf26011e2fa","features":{},"yanked":false}

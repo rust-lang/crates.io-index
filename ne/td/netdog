@@ -1,0 +1,2 @@
+{"name":"netdog","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b8ba6b76afa7a22420ca0497a58bf4d2b8c6d26c694dcd3c6b550b680dc5168","features":{},"yanked":true}
+{"name":"netdog","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f628588f1072fd34bd3b7a8e7cdd0973f68d9091291cc1558b510320555fddd","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"libferroxid","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db57e00e3d19c525b157109da359276f41b9d54554b1def4fa23d1b6f3d859e1","features":{},"yanked":false}
+{"name":"libferroxid","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00645a1148661778cdcea3f56f817ad526610e463f4e1022eb62d4a6f91ee475","features":{},"yanked":false}

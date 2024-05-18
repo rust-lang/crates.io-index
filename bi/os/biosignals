@@ -1,0 +1,1 @@
+{"name":"biosignals","vers":"0.1.0","deps":[{"name":"dsp","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"matfile","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef374e9bbae45f0e46f40b2fbc71e846d59f692731fc623dd88d51a6acf77647","features":{},"yanked":true}

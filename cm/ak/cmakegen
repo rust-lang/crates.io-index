@@ -1,0 +1,2 @@
+{"name":"cmakegen","vers":"0.1.0","deps":[],"cksum":"053f39c69ab0e9034c9e1f15a2855fc0f3b2c9eea9073ff613d45d6f460f1ba3","features":{},"yanked":false}
+{"name":"cmakegen","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98955d0485ef79fce23e44cb4acb7e51da5222912206d0c5c70f1fa1f0c845ce","features":{},"yanked":false}

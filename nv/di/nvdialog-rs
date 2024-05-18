@@ -1,0 +1,2 @@
+{"name":"nvdialog-rs","vers":"0.1.0-rc0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0afa25ca6ea050961f6354e717771973538cc3de517f58f98a13cc6f5e3648d2","features":{},"yanked":false}
+{"name":"nvdialog-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33c816f1e73864c3ee591ae84e4350e980a703ccf5ff6e789770f145ff0982cf","features":{},"yanked":false}

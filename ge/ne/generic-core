@@ -1,0 +1,2 @@
+{"name":"generic-core","vers":"0.0.1","deps":[],"cksum":"cdb3b552f6439e37fda7059713c38b79b39ca0524012943cc354cd82c3adf1c0","features":{},"yanked":false}
+{"name":"generic-core","vers":"0.0.2","deps":[{"name":"uuid","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3645fbae51f172ecb91096b7fd7b56656dd96e2e355b452fde446c1453bab20","features":{},"yanked":false}

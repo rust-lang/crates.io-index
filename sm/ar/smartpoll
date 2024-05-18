@@ -1,0 +1,4 @@
+{"name":"smartpoll","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12","features":["hardware-lock-elision"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6458e9ad6992c7cf6d157a0b6c1da6359c98199a0ec99a1d49abad1bbc6f6b9e","features":{},"yanked":false}
+{"name":"smartpoll","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12","features":["hardware-lock-elision"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abb2a85d5587f412034a6fec91f34188ea04bdeb06562459ffbb520a92e5c46d","features":{},"yanked":false}
+{"name":"smartpoll","vers":"1.0.0","deps":[],"cksum":"7b7ebb72edb9a86280b330fc820d430c7dc68642ddb515f6d8921d0e65eea6cb","features":{},"yanked":true}
+{"name":"smartpoll","vers":"2.0.0","deps":[],"cksum":"29e95c5a96cdaf541e0b2fd2da2dcdc0b7a815eaab1aece8da6f228b44b6563d","features":{},"yanked":false}

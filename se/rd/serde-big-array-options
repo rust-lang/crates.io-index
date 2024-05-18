@@ -1,0 +1,2 @@
+{"name":"serde-big-array-options","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.189","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc2727af7a53c2f837dec27ec5fb5a555ae3af1d78dfce6f9c1922543a2f9805","features":{},"yanked":false}
+{"name":"serde-big-array-options","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.189","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b334f1a48619ed2f9f798e3d2832e2769b76beb6d086f29dedc6b1454072513","features":{},"yanked":false}

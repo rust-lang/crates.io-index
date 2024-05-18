@@ -1,0 +1,2 @@
+{"name":"embeddy","vers":"0.1.0","deps":[],"cksum":"4d713095f5b0391ecbd9ca1a6d72f8e42cb3085565706c3adfe7e7d9076bdcf4","features":{},"yanked":false}
+{"name":"embeddy","vers":"0.1.1","deps":[{"name":"embeddy-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0d04be9188776729de8d4f5ef682f7dbfd8e86221c7284b6415b2ef86d83283","features":{},"yanked":false}

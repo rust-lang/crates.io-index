@@ -1,0 +1,5 @@
+{"name":"srws","vers":"0.1.0","deps":[],"cksum":"e7fbc5b67979390c2d5aecf762ae8c68c89db8a9087b4f84f813a1c3dab61c93","features":{},"yanked":false}
+{"name":"srws","vers":"0.1.1","deps":[],"cksum":"5874a97f0cd3db1113d0580a7466c03cefb0105b4779b480cdb5ec7de5c9cf81","features":{},"yanked":false}
+{"name":"srws","vers":"0.1.2","deps":[],"cksum":"f78eda69a59557fa2032d48e1d2f2b59b88680d1dadaa0b3ea14af2d25e972bc","features":{},"yanked":false}
+{"name":"srws","vers":"0.2.2","deps":[{"name":"readconfig","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ae5eab457be5fde0653d2800311e4daa49f93ec5fba4c9e09ba98d0c7bb9ca5","features":{},"yanked":false}
+{"name":"srws","vers":"0.2.3","deps":[{"name":"readconfig","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"608ac53e7a1de10bdf1c46ee21c22eb9a3b790496c52d2bac9e3b604559dee6e","features":{},"yanked":false}

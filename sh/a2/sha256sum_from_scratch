@@ -1,0 +1,2 @@
+{"name":"sha256sum_from_scratch","vers":"0.1.1","deps":[{"name":"sha_256_scratch","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22d40a76da46c7714de9439314fb4fc841ce6fc30f2d8e2ed4da7479811f7cfc","features":{},"yanked":false}
+{"name":"sha256sum_from_scratch","vers":"0.1.2","deps":[{"name":"sha_256_scratch","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"451829e32eca7027eef9b977208477ba66c34f9b964b5ae1a3000585d372f5e6","features":{},"yanked":false}

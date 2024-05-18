@@ -1,0 +1,1 @@
+{"name":"arcon_build","vers":"0.2.0","deps":[{"name":"prost-build","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2933b357be68a5dbc3b8d3b99eb20d12028260e47ce13db94d45e493ed301a11","features":{"arcon_serde":[],"unsafe_flight":[]},"yanked":false}

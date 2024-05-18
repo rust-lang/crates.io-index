@@ -1,0 +1,1 @@
+{"name":"easypub","vers":"0.0.0","deps":[{"name":"async-std","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tar","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99cf5c8bede1772f914e31424dfe26c5fbfba0e121e964c32b41e6913e8ed26a","features":{},"yanked":false}

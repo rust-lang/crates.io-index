@@ -1,0 +1,2 @@
+{"name":"printy","vers":"0.1.0","deps":[],"cksum":"a439d5feddf1d29bb1cff27ecab58ef79c9e8660b893057f9f3d2b433e9ddc57","features":{},"yanked":false}
+{"name":"printy","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a584298bd1dbc03c9fcc44fc5645e12bb4f8e9f0c64766d9756dfc56a858040d","features":{},"yanked":false}

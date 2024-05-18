@@ -1,0 +1,1 @@
+{"name":"bytecheck_test","vers":"0.6.5","deps":[{"name":"bytecheck","req":"^0.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0044d1a034b4f06ec2c4ab6f042defa54fca544683a62a3525b34e25dad1006b","features":{"default":["std"],"std":["bytecheck/std"],"verbose":["bytecheck/verbose"]},"yanked":false}

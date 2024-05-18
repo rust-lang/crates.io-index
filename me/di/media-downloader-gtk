@@ -1,0 +1,1 @@
+{"name":"media-downloader-gtk","vers":"0.1.4","deps":[{"name":"gio","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gtk","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c0aa9f32d622c96834f84b2525d0ce5adba03948c8fbfae326e1e4aad62803a","features":{},"yanked":false}

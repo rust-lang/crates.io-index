@@ -1,0 +1,2 @@
+{"name":"performance-timing","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb47a2220368c73404a575d45a1a7a787e030a1fe7e9ce9a0901257271e161a","features":{},"yanked":false}
+{"name":"performance-timing","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ce24bc8cc4e682a393cba232db8b01b44df30ec0c7b1af517ff171483af70ab","features":{},"yanked":false}

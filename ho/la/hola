@@ -1,0 +1,2 @@
+{"name":"hola","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3381ff737d57eb281b63e49a3122994f53d7b3ed2eebf1e263b832001045335f","features":{},"yanked":true}
+{"name":"hola","vers":"0.1.1","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb5dc81e62cef35a3c21e5c9973e0be971b61b8f99ea41b00829582160df6a0e","features":{},"yanked":false}

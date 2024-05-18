@@ -1,0 +1,2 @@
+{"name":"sacabase","vers":"1.0.0","deps":[{"name":"num-traits","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f856a5e32d0e42b10e218a1fc1257defed0bf08b8bdba14e0b80a45ff8c48d","features":{},"yanked":false}
+{"name":"sacabase","vers":"2.0.0","deps":[{"name":"num-traits","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9883fc3d6ce3d78bb54d908602f8bc1f7b5f983afe601dabe083009d86267a84","features":{},"yanked":false}

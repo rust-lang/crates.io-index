@@ -1,0 +1,2 @@
+{"name":"libfastdl","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6debe8b09ab940ae50be395d1df3345d87614d1c4687a5940ba56f7d8ac9b7c3","features":{},"yanked":false}
+{"name":"libfastdl","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f71e528ace1766ba1f3a60329b1b3703fdb28a30a16adaa1ed941bdb3c8f30c7","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mh","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"388f7cf366d46006e4faae9e2b1bb95d60b02b129a608092056a6aaa7e6dc871","features":{},"yanked":false}

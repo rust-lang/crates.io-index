@@ -1,0 +1,4 @@
+{"name":"moco_abm","vers":"0.1.0","deps":[],"cksum":"5f7c51dfcd9a15fa1744022732aaf37c70b7d496f111756791135c05f6a9c507","features":{},"yanked":false}
+{"name":"moco_abm","vers":"0.1.1","deps":[{"name":"clap","req":"^2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c89e617c0321f42a2dc38692e709c673fa6e5371bda6e3c1a64708e87dc33919","features":{},"yanked":false}
+{"name":"moco_abm","vers":"0.1.2","deps":[{"name":"clap","req":"^2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb261e6602012bae5e870c8267d24325a5340340f1cfb35d136fb300aa1575aa","features":{},"yanked":false}
+{"name":"moco_abm","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc72d580adf2c9dd6aa74c7e59af32b0bd6bfdf7d0dc7bb8450dc03605373d97","features":{},"yanked":false}

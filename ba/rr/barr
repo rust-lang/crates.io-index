@@ -1,0 +1,2 @@
+{"name":"barr","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0b4a1aa333c2bab291d0c10ce261ecbea3e8d05099b238f1103987e750ec2e7","features":{},"yanked":false}
+{"name":"barr","vers":"0.1.1","deps":[{"name":"clap","req":"^3.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f51c3be2856ca28ad481414242e29cd9825682e739e76f3dd8383e6b6ecbd698","features":{},"yanked":false}

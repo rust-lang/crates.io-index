@@ -1,0 +1,4 @@
+{"name":"libzbase32","vers":"1.0.0","deps":[],"cksum":"2cd566e15627820f46a8635cf438dbfd563acc48be8e1f519917eac8cd78543c","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"libzbase32","vers":"1.1.0","deps":[],"cksum":"6292b86161a4a80be59312ebbff4e1f5c6231717df5eebcc510c4e9fc128542c","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"libzbase32","vers":"2.0.0","deps":[],"cksum":"edddf58254fe2cb381242474387a6f1a94ff6f3ba362075050e2b5a410c59771","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"libzbase32","vers":"2.0.1","deps":[],"cksum":"bf2037e0ee122c29556a9c8d81105de47542883a4f7793438e23cf4a91e58250","features":{"default":["std"],"std":[]},"yanked":false}

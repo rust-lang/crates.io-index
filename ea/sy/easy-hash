@@ -1,0 +1,1 @@
+{"name":"easy-hash","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.4.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"987bc38c36e26e57610c30cd5fd81e758d0acfbd652c164bf9824dc1aa0876a7","features":{"SHA2":["sha2"],"default":["SHA2"]},"yanked":false}

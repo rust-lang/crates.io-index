@@ -1,0 +1,4 @@
+{"name":"ilyaraz_test_crate_1","vers":"0.1.0","deps":[],"cksum":"57c6ab25e4acfbe9642591b380c82f9f5d5b604ae77b790727c0d0ffe93bea7c","features":{},"yanked":false}
+{"name":"ilyaraz_test_crate_1","vers":"0.1.1","deps":[],"cksum":"53f8ef554319634feabac70d3e9d4b2da6f77f1fc3639b92b838124dce069d2d","features":{},"yanked":false}
+{"name":"ilyaraz_test_crate_1","vers":"0.1.2","deps":[{"name":"serde_json","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32723cc9a141dfc94b1c7b1bf65120ef06000c77a5d1729ca54dc14caa36e70d","features":{},"yanked":false}
+{"name":"ilyaraz_test_crate_1","vers":"0.1.3","deps":[{"name":"serde_json","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ad5826197d39f87801151757899b2b97c72507af59797e181f21eb8ad7fe856","features":{},"yanked":false}

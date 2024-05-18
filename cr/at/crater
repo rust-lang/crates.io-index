@@ -1,0 +1,2 @@
+{"name":"crater","vers":"0.1.0","deps":[],"cksum":"4e28827e6edf980d9c071e07870368b4e941da64ab3b93ab0a8cc687320019bb","features":{},"yanked":false}
+{"name":"crater","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41b12e0fc2036da4b3f74c99dec2e38ef27add1af488e115eb2a01f135b45aeb","features":{"stress_tests":[]},"yanked":false}

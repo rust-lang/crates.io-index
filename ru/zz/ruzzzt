@@ -1,0 +1,2 @@
+{"name":"ruzzzt","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcff1824aa0322cdfb48a72f7e33903b7a6de97babceaa689c6c70b5e17b6485","features":{},"yanked":false}
+{"name":"ruzzzt","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20eec9a151ae49510418de2905122eb2603069657d75db037ba469012a83088b","features":{},"yanked":false}

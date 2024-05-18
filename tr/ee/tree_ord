@@ -1,0 +1,1 @@
+{"name":"tree_ord","vers":"0.1.0","deps":[{"name":"rand_xoshiro","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9bc0cb44d72c11f116a3ac9d5ad860c6599c077cc166fe43ff885572840707bf","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

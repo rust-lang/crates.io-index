@@ -1,0 +1,1 @@
+{"name":"rcss-layers","vers":"0.2.0","deps":[{"name":"rcss","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de0f9605465701cc1271fa5b800401d28b843ba6bfb2c0fd7aa8e549a7a60e8a","features":{"default":["rcss_enable"]},"features2":{"rcss_enable":["dep:rcss"]},"yanked":false,"v":2}

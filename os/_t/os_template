@@ -1,0 +1,2 @@
+{"name":"os_template","vers":"0.1.0","deps":[{"name":"bootloader","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a88a22749c9fc47c323b0cb4877c9cf305852593bd68103ffd26b2538edf9584","features":{},"yanked":false}
+{"name":"os_template","vers":"0.1.1","deps":[{"name":"bootloader","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b92ebc16c1a50163d0464108f01f6dd109e9b1ae594115f469e78dae6433dad","features":{},"yanked":false}

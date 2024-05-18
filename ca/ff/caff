@@ -1,0 +1,3 @@
+{"name":"caff","vers":"0.1.0","deps":[],"cksum":"a430f80e2c780c7c64462aa965b49711d7b60bbc17f34206ac6c80105dbd9b14","features":{},"yanked":false}
+{"name":"caff","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3.9","features":["winuser","impl-default"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a7cf733ed996aa0add0494393e44ac9dbcb8b4911dd123162022c19a6ac08ac9","features":{},"yanked":false}
+{"name":"caff","vers":"0.1.2","deps":[{"name":"winapi","req":"^0.3.9","features":["winuser","impl-default"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"926f3ad6d1082c22fbb788a948a21278cd637d90702b4d1b3f488821c735ff0f","features":{},"yanked":false}

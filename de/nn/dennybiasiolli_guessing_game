@@ -1,0 +1,2 @@
+{"name":"dennybiasiolli_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9764de7cad0cbaddd3c30468398098705eb5735323290a4053ef7b01d093d10f","features":{},"yanked":false}
+{"name":"dennybiasiolli_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b7500f05d17d77e7ff0e7c5b1bdeae1f054ee197d9037899dab26e81f19a1e6","features":{},"yanked":false}

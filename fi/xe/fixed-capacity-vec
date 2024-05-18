@@ -1,0 +1,4 @@
+{"name":"fixed-capacity-vec","vers":"0.0.1","deps":[],"cksum":"ac84aea7b63035743be34d11087df89721c4ca3c28f7e52a076ecfc6474e7191","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"fixed-capacity-vec","vers":"0.1.0","deps":[],"cksum":"66c4723aaf0696328be5d052584e992cfef2b4fe04b22d21eb5a0194b4c97d47","features":{"default":["minimal-1"],"full":["default"],"minimal-1":[]},"yanked":false,"rust_version":"1.58"}
+{"name":"fixed-capacity-vec","vers":"1.0.0","deps":[],"cksum":"30818fcf1ffc47e9531fa6880b268121ba98b32594abae0b2e06d3303d8bc985","features":{"default":["minimal-1"],"full":["default"],"minimal-1":[]},"yanked":false,"rust_version":"1.58"}
+{"name":"fixed-capacity-vec","vers":"1.0.1","deps":[],"cksum":"6b31a14f5ee08ed1a40e1252b35af18bed062e3f39b69aab34decde36bc43e40","features":{"default":["minimal-1"],"full":["default"],"minimal-1":[]},"yanked":false,"rust_version":"1.58"}

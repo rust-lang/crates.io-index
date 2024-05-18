@@ -1,0 +1,2 @@
+{"name":"gbm-rs","vers":"0.1.0","deps":[],"cksum":"3eac01793305aa58c3503c74740dbfb0d72f1bbad1e51411889700c6849569e4","features":{},"yanked":false}
+{"name":"gbm-rs","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4713833bdb1ce5b5469c09230bb5097cd9738bbbe5282d8428d37feecfc7a16d","features":{},"yanked":false}

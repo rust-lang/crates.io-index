@@ -1,0 +1,2 @@
+{"name":"i18n-rs","vers":"0.0.1","deps":[{"name":"toml","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57bc344b78adfe0fbc95a19d0038c036582abba3150afbd50e0600a3852b3eea","features":{},"yanked":false}
+{"name":"i18n-rs","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e8d44538e0ee66f6843dceb4d336cc90e991af63459fedd9d3d2036cc597c96","features":{},"yanked":false}

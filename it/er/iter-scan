@@ -1,0 +1,3 @@
+{"name":"iter-scan","vers":"0.0.0","deps":[],"cksum":"3a257417f2d781373768cd0d852dd0cdb1b68199b2d7231ea83d6ac6ca1bcdeb","features":{},"yanked":false}
+{"name":"iter-scan","vers":"0.1.0","deps":[],"cksum":"b6bcd655d3ddb232ad6b077d33a6f2b1d3f3eea84db7e62d82242fc7f4152763","features":{},"yanked":false}
+{"name":"iter-scan","vers":"0.2.0","deps":[{"name":"replace_with","req":"^0.1.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"263fd95d8aeca030839199211538845a9968c359217d360bb49ddbdf92d1623c","features":{"default":["std"],"std":["replace_with/std"]},"yanked":false}

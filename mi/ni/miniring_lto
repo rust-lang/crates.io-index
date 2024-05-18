@@ -1,0 +1,2 @@
+{"name":"miniring_lto","vers":"0.0.1+58ec7c1","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ea2c04135297a8623053abf0195a980011f683f7ba47051109f9744832ee42e0","features":{},"yanked":true}
+{"name":"miniring_lto","vers":"0.0.2+58ec7c1","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"71fb0c72140c75917271e6bfb15050a0960bf7d67d25c6a37f705213ff3e0ab6","features":{},"yanked":true}

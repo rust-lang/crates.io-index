@@ -1,0 +1,1 @@
+{"name":"arm7tdmi_aeabi","vers":"0.2.0","deps":[{"name":"bytemuck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"70f14d45816a90f997987a591d75aba9fe1c1b763393cdcdd016a4f89e9e4949","features":{},"yanked":false}

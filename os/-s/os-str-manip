@@ -1,0 +1,4 @@
+{"name":"os-str-manip","vers":"0.0.1","deps":[],"cksum":"85c8fb6dd930a7edf0d5e80a05c0d089c6b6d967861051219d94fe50cac2dcf3","features":{"unchecked_index":[]},"yanked":true,"rust_version":"1.56.1"}
+{"name":"os-str-manip","vers":"0.0.2","deps":[],"cksum":"d2d1ecc6a1e08871acff3cc2eb6e4b0923c12faef2ca18415631802bb3f8cf36","features":{"unchecked_index":[]},"yanked":true,"rust_version":"1.56.1"}
+{"name":"os-str-manip","vers":"0.0.3","deps":[],"cksum":"54a267ae3869e6ad61d267878cb59835f2db0ba19bb52225c8f4538139329a78","features":{"unchecked_index":[]},"yanked":true,"rust_version":"1.56.1"}
+{"name":"os-str-manip","vers":"0.0.4","deps":[{"name":"proptest","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f5428c83b65a159e7ca360d880c870962950edc65245bc76801ecc6293d73cb","features":{"unchecked_index":[]},"yanked":true,"rust_version":"1.56.1"}

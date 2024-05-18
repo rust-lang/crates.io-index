@@ -1,0 +1,2 @@
+{"name":"arcu","vers":"0.1.0","deps":[],"cksum":"fcc8edcf64447f5bd13b534b1a0462ef33cf88e1090cd15a14ca050d0e6f6426","features":{"global_counters":["std"],"std":[],"thread_local_counter":["std","global_counters"]},"yanked":true,"rust_version":"1.65.0"}
+{"name":"arcu","vers":"0.1.1","deps":[],"cksum":"f8727c0fb4c436605c8f11c579ec86edcb729134aec4ee66e454efd99a91859f","features":{"global_counters":["std"],"std":[],"thread_local_counter":["std","global_counters"]},"yanked":false,"rust_version":"1.65.0"}

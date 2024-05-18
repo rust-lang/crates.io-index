@@ -1,0 +1,1 @@
+{"name":"hide-glue","vers":"0.1.0","deps":[{"name":"fs3","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3246455891674d38f966b39176bab9ac96beb93d6a9cd8ae9571c2f0bb9fa5a","features":{},"yanked":false}

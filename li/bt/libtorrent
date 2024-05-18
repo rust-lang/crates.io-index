@@ -1,0 +1,2 @@
+{"name":"libtorrent","vers":"0.1.0","deps":[{"name":"libtorrent-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"767738f5266af8861e0ee81ed249816ed9ac1597830b5a22c299b0c445f66c7e","features":{},"yanked":false}
+{"name":"libtorrent","vers":"0.1.1","deps":[{"name":"libtorrent-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29c76963eecb5b118a7f79b291a6c4f0b7aec7227d4bcdeff4eaa3dd1d22131f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hget","vers":"0.0.0","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7ad0be7ce1cb846a5274cdda2e0fe9bc1887bc37eba0e21711e7d1808a836c6","features":{},"yanked":false}
+{"name":"hget","vers":"2.0.1","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"394be6925c180bc9b332eac3a572ae6216bf9efe548ba3587ad89d7b69b43a57","features":{},"yanked":false}

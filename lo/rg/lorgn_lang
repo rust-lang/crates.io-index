@@ -1,0 +1,1 @@
+{"name":"lorgn_lang","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfae3c4c7dbc531bd2afc5f9aad1159bc227990e92fa58414ec1a3a6f2e561ef","features":{},"yanked":false}

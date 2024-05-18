@@ -1,0 +1,1 @@
+{"name":"xxhash2","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"xxhash-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd368887430370379c1453cf25ed4517f176aa1d5bc3877f35d6de6e1784b183","features":{},"yanked":false}

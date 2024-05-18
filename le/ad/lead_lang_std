@@ -1,0 +1,2 @@
+{"name":"lead_lang_std","vers":"0.0.1","deps":[{"name":"lead_lang_interpreter","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6ab7d398b2c918ccddde2c57eac809099e5ee6db56a6ac7a9d26149ff880211","features":{},"yanked":true}
+{"name":"lead_lang_std","vers":"0.0.2","deps":[{"name":"lead_lang_interpreter","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68f90b2cbd290360a8c8e21f6cd36d40a69743c315cd31e4af3c6c9d629cccf5","features":{},"yanked":true}

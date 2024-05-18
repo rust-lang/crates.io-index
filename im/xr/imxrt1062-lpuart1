@@ -1,0 +1,2 @@
+{"name":"imxrt1062-lpuart1","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2627e559226677706a48b90cf738411e521fe5c04881b7050ff34ad854dd0348","features":{},"yanked":false}
+{"name":"imxrt1062-lpuart1","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"015134b8d16c4430ba03cf09c778ed9e5196e0a2fefef9915af422a6731a488d","features":{},"yanked":false}

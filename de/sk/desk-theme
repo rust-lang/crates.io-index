@@ -1,0 +1,1 @@
+{"name":"desk-theme","vers":"0.0.0","deps":[{"name":"bevy","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c3c97c3d171e6dde4441d089f09ba68741308a28d4565b068831ec7d9032c7a","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"lpwstr","vers":"0.1.0-alpha1","deps":[{"name":"winapi","req":"^0.3.6","features":["errhandlingapi","winbase","winerror"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"72f24c8c546cb9e1b6b3ae71f115687d1c585b71bb713bdf71272942042a447d","features":{},"yanked":true}

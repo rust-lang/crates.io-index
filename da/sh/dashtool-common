@@ -1,0 +1,1 @@
+{"name":"dashtool-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf1571ac62640e3ed23c553647027bf4acb84bd93ae86c5584ced3a33b53db3b","features":{},"yanked":false}

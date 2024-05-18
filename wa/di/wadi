@@ -1,0 +1,4 @@
+{"name":"wadi","vers":"0.0.1","deps":[],"cksum":"0ff6c0cbd89a55bd3a67456a856d6f27afdadaf319960b802ac728ce0fb38bdc","features":{},"yanked":false}
+{"name":"wadi","vers":"0.0.2","deps":[{"name":"cstring","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85052393185fdeedf59c9d96088ce65cb937b257404fbcdf636df4e70186ffda","features":{},"yanked":false}
+{"name":"wadi","vers":"0.0.3","deps":[{"name":"cstring","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c089c7d78adae17531c5928c16a03cd32e19d2eaca9627a951646603759606ca","features":{},"yanked":false}
+{"name":"wadi","vers":"0.0.4","deps":[{"name":"cstring","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3cadb4c3bc0f3693bbb628777d9660f0140949948ff606730128357347b6ab7","features":{},"yanked":false}

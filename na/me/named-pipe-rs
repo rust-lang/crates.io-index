@@ -1,0 +1,1 @@
+{"name":"named-pipe-rs","vers":"0.0.1","deps":[{"name":"windows","req":"^0.28.0","features":["std","Win32_System_Pipes","Win32_Foundation","Win32_Security","Win32_Storage_FileSystem","Win32_System_IO"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d3a8cb3c7c5ee9a3e4c5b411454640ebae228d3a70155adf4ac417e7ff05df0","features":{},"yanked":false}

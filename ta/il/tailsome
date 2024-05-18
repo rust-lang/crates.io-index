@@ -1,0 +1,2 @@
+{"name":"tailsome","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c8e274bbec6aa464f50e4b2268f12108ad97ca4900bb11b095e785bf38b7ab45","features":{},"yanked":false}
+{"name":"tailsome","vers":"1.0.0","deps":[{"name":"rstest","req":"^0.16.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"e9d8fd6b88f6d3719b57c5bbab4bdf2566be821dedd071199ddb71dadaf85542","features":{},"yanked":false}

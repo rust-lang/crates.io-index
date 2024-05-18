@@ -1,0 +1,2 @@
+{"name":"imxrt1062-romc","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb8d2e8161287d4f3cd2dbe78d0a4f121e31fe6fe59bd5366f089dffde3984a2","features":{},"yanked":false}
+{"name":"imxrt1062-romc","vers":"0.1.1","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af4aa3f21119c8ad8b5b937a1c75f330baa2428bfff52d2d4a195533b4de0ca6","features":{},"yanked":false}

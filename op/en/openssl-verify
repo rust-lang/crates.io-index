@@ -1,0 +1,2 @@
+{"name":"openssl-verify","vers":"0.1.0","deps":[{"name":"openssl","req":"^0.7.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ed86cce894f6b0ed4572e21eb34026f1dc8869cb9ee3869029131bc8c3feb2d","features":{},"yanked":false}
+{"name":"openssl-verify","vers":"0.2.0","deps":[{"name":"openssl","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d58c0494a0a51babcc2c30b19f54dfffcca7c4af5adb557ae078ca63ce933d4","features":{},"yanked":false}

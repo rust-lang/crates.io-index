@@ -1,0 +1,1 @@
+{"name":"spanned_error_message","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1.0.60","features":["span-locations"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79b2cf95724fc09c75b58a9ffb9d23a1cb4ad4b6a564daffc102202797f36532","features":{},"yanked":false}

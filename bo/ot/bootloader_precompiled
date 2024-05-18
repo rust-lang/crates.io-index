@@ -1,0 +1,8 @@
+{"name":"bootloader_precompiled","vers":"0.2.0-alpha-001","deps":[],"cksum":"3ef222a6a7622381e9d2e1560418ea4d09265f51e7ccb283a4ef0eb7e8078c25","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0-alpha-002","deps":[],"cksum":"366afd23230ee9dffa5215cd7f585ee9f33ad3edd82c1ac96a2c8930b8f5387b","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0-alpha-003","deps":[],"cksum":"8a38fc4cac6d8fe3538d6f063b2424547c61e4f24b344107ebd5a906b1069f94","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0-alpha-004","deps":[],"cksum":"12e50c760d5217ebf329f6bb32fb4eb796f78141daba866666c707ea0201a672","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0-alpha-005","deps":[],"cksum":"5a1ec5fe009074243a4f44fc31e4918c63569f8088bbab734c72be2140fc1deb","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0-beta","deps":[{"name":"os_bootinfo","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa099b249c6510a338b951d906d124851f18d74bea44019869511b5ca487128c","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.2.0","deps":[{"name":"os_bootinfo","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245362094f3e7e5c801e71646a672c1fa895c033ca47473278e3d99af6300be6","features":{},"yanked":false}
+{"name":"bootloader_precompiled","vers":"0.3.0","deps":[{"name":"x86_64","req":"= 0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0edd528c538ea18c7aa31c3678a22d01d1a5598e83c5e9ec88cc1738484bd374","features":{},"yanked":false}

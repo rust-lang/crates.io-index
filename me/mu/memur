@@ -1,0 +1,3 @@
+{"name":"memur","vers":"0.1.0","deps":[],"cksum":"11a4ff682c5e9e14877aeb4506c72f0211365287197a5875b857ac26793c3b2d","features":{},"yanked":false}
+{"name":"memur","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6adf461f30be93e2602567ce89b6fa0fac5aac0bef560217eee44130d4c36524","features":{"default":[],"logging":["log"]},"yanked":false}
+{"name":"memur","vers":"0.1.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f363b902b498e33c7c755523c5fff7caa51976f53dcd90622d1b02c54199aa5b","features":{"default":[],"logging":["log"]},"yanked":false}

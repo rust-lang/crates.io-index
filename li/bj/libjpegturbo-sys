@@ -1,0 +1,2 @@
+{"name":"libjpegturbo-sys","vers":"0.0.1","deps":[{"name":"cmake","req":"^0.1.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf2940cf4bcca83bdfb560a7b2a7cf23ea8321497b02e8d9145d358f9f2ffea2","features":{},"yanked":false}
+{"name":"libjpegturbo-sys","vers":"0.0.2","deps":[{"name":"cmake","req":"^0.1.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7377f53dbcbd08624706ffbec4c61d7ea53c6a74fa844031e743601235f0a32c","features":{},"yanked":false}

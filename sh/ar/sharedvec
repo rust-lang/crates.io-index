@@ -1,0 +1,2 @@
+{"name":"sharedvec","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f379b555dc16b112581672bf173d0ba75b5de7a62b8beb5c0a1ae182c8ba3073","features":{},"yanked":false}
+{"name":"sharedvec","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2ab72278bda3316fcc4a5d385b3235fe6004901a7174fcc9f747df613669dcd","features":{},"yanked":false}

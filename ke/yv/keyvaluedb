@@ -1,0 +1,2 @@
+{"name":"keyvaluedb","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8833bc9e937f44bac0e8d129b3ccda60dee6ca5fa2757d7e05a5e04503df02fb","features":{},"yanked":false}
+{"name":"keyvaluedb","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bdcaabe14fa83eaae1fb92480f619c5a8b413580723153da0334848eb2dff24","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"only_torch","vers":"0.0.1","deps":[],"cksum":"1aefce4c684f35878e145ad07dc27d3f51fc56ce57f6adf2bcb309d383301fbc","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.2","deps":[],"cksum":"4cad74271b2affcdc995ca3164ab104dfd04871abb008317ccb9b9c88af646c7","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.3","deps":[],"cksum":"edde55004ac01a713f862195fdaf61cbce17d82d69c9d22ffc9e9cdf619b44fc","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.5","deps":[],"cksum":"733d17c1d38c38344ce9bd5c9b7a5e55c793101cb2a360392468c8d9104da376","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.6","deps":[],"cksum":"5c886c5a6c285f3b05b35fbaeae2fa37b7c12b55f3968b100179b2ae47c96bf3","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.7","deps":[],"cksum":"693a4449492e7d198b5c4342b85b64c49cb41410f6a9e07354d6ca071a75fc5a","features":{},"yanked":false}
+{"name":"only_torch","vers":"0.0.8","deps":[{"name":"nalgebra","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f9f1123b3603934cdc52c608351b62b641a4a98f68055be3ba763872e86acf9","features":{},"yanked":false}

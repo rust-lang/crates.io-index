@@ -1,0 +1,1 @@
+{"name":"heredity","vers":"0.2.0","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"snafu","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16a2d189b58aaf88fbe2f0ec22687a431e1a76bb93205a0b6dfd8f9d9b094006","features":{},"yanked":false}

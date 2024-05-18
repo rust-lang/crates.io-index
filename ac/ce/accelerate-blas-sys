@@ -1,0 +1,1 @@
+{"name":"accelerate-blas-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.63.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0056e12758d9521bce13b9b12aab6bb6d1b61254ac3c7e2515b967082b1668c0","features":{},"yanked":false}

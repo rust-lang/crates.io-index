@@ -1,0 +1,2 @@
+{"name":"yew-accordion","vers":"0.1.0","deps":[{"name":"yew","req":"^0.21.0","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bd2abb6847c6781b4d3fcaf25bdb59d09d0e26537dd8f6363040f61f00982f1","features":{},"yanked":false}
+{"name":"yew-accordion","vers":"0.1.1","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245b3f3b7fe4b82513e42f146adf9a118796ef4175a5229d7ef1d7d7a38664c9","features":{},"yanked":false}

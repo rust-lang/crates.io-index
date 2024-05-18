@@ -1,0 +1,1 @@
+{"name":"makepad-zune-jpeg","vers":"0.3.17","deps":[{"name":"makepad-zune-core","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4368140a5ef74be396801b3c22eae15ad7a846aecd143bf6847008fc85a4c6e3","features":{"default":["x86","neon","std"],"neon":[],"std":["makepad-zune-core/std"],"x86":[]},"yanked":false}

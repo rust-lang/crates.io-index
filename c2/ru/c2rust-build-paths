@@ -1,0 +1,2 @@
+{"name":"c2rust-build-paths","vers":"0.17.0","deps":[{"name":"print_bytes","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d3185aa9d479c29c03d9fcc7db6b7531a610bc234832dae6dbf0ce22b71baed","features":{},"yanked":false}
+{"name":"c2rust-build-paths","vers":"0.18.0","deps":[{"name":"print_bytes","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"603f3dc5b2ccb19c051d1dfb0beac1f433a362630a9a5cf5724f4fbcba8a542c","features":{},"yanked":false}

@@ -1,0 +1,9 @@
+{"name":"crunchy","vers":"0.1.0","deps":[],"cksum":"b56bdac907d4b64254aed43964b11dd334bc46e0826a0e3add75caddfaf90175","features":{},"yanked":false}
+{"name":"crunchy","vers":"0.1.1","deps":[],"cksum":"803315676d3fc09db67636977586262e7d1a6c5bdb291810efd5ceb48a0d5d58","features":{},"yanked":false}
+{"name":"crunchy","vers":"0.1.2","deps":[],"cksum":"b9245862b61aec79db82cbf893d001b321452fe83294cdc8d5d4175abf475db1","features":{},"yanked":false}
+{"name":"crunchy","vers":"0.1.3","deps":[],"cksum":"e6aa9cb5f2d7bffc4eecfaf924fe450549dc4f0c3a6502298dc24f968b1eabbe","features":{},"yanked":false}
+{"name":"crunchy","vers":"0.1.4","deps":[],"cksum":"94f284902e3f4f07ee1e363bdf205b77f84014926448221cd5b3649cf872d8ed","features":{},"yanked":false}
+{"name":"crunchy","vers":"0.1.5","deps":[],"cksum":"2c8a3d9dfaeba9607e6833fa88b0f8d2d03e81d3e7cae2250e368f2411618263","features":{"default":["limit_64"],"limit_1024":[],"limit_128":[],"limit_2048":[],"limit_256":[],"limit_512":[],"limit_64":[]},"yanked":false}
+{"name":"crunchy","vers":"0.1.6","deps":[],"cksum":"a2f4a431c5c9f662e1200b7c7f02c34e91361150e382089a8f2dec3ba680cbda","features":{"default":["limit_128"],"limit_1024":[],"limit_128":[],"limit_2048":[],"limit_256":[],"limit_512":[],"limit_64":[]},"yanked":false}
+{"name":"crunchy","vers":"0.2.1","deps":[],"cksum":"c240f247c278fa08a6d4820a6a222bfc6e0d999e51ba67be94f44c905b2161f2","features":{"default":["limit_128"],"limit_1024":[],"limit_128":[],"limit_2048":[],"limit_256":[],"limit_512":[],"limit_64":[],"std":[]},"yanked":false}
+{"name":"crunchy","vers":"0.2.2","deps":[],"cksum":"7a81dae078cea95a014a339291cec439d2f232ebe854a9d672b796c6afafa9b7","features":{"default":["limit_128"],"limit_1024":[],"limit_128":[],"limit_2048":[],"limit_256":[],"limit_512":[],"limit_64":[],"std":[]},"yanked":false}

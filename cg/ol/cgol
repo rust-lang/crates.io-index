@@ -1,0 +1,2 @@
+{"name":"cgol","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.7","features":["png"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fa4b6984d81a867128b3cbac350c2af9bc2d991bf67a2789fe4159ca9bd63c65","features":{},"yanked":false}
+{"name":"cgol","vers":"0.1.1","deps":[{"name":"image","req":"^0.24.7","features":["png"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ee0bdc02cebd86687148ad66ca612432e5bbae34c76af6be80a10642a3133d78","features":{},"yanked":false}

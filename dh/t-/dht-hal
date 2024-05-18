@@ -1,0 +1,1 @@
+{"name":"dht-hal","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb5423e6132fe67189d1aeac8a7412e7d09816a7374e22201a49a2d5081c8549","features":{},"yanked":false}

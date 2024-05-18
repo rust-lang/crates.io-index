@@ -1,0 +1,2 @@
+{"name":"matcha","vers":"0.1.0","deps":[{"name":"memcmp","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2cb659b571f892c303ca25a522aa73fe07ebc2e364f3f526756b659037a785a","features":{},"yanked":true}
+{"name":"matcha","vers":"0.1.1","deps":[{"name":"memcmp","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b79b4b3d730dcf9f2588f85b1901f082e18eb0ddad1785010d5094d3c15e43c","features":{},"yanked":true}

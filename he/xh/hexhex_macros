@@ -1,0 +1,2 @@
+{"name":"hexhex_macros","vers":"1.0.0","deps":[{"name":"hexhex_impl","req":"^0.1.0","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4be14289347b0bcff5e279a8fd723e9f3f4a313f75220a297c1bab66dd7a30b","features":{},"yanked":false}
+{"name":"hexhex_macros","vers":"1.0.1","deps":[{"name":"hexhex_impl","req":"^0.1.0","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd0ae2c93351a14664ef0fa185c434a56783fb83a71b158a3389d594dd391e1f","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mruby3-sys","vers":"3.2.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4368dad86597b63b68d8c8569b4e7e219c5a9f07759c180338e647744c5bccf6","features":{},"yanked":false}

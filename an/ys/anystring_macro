@@ -1,0 +1,2 @@
+{"name":"anystring_macro","vers":"0.0.0","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ebe090869beec69d0a9a4c8596d75bad9294d715e095b9dd0909434db80c474","features":{},"yanked":false}
+{"name":"anystring_macro","vers":"0.0.1","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"017b7ab0dd69075acb48c5a697748033218fdc40f2f10d3ad2e52600075f2bd0","features":{},"yanked":false}

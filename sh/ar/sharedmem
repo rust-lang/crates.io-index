@@ -1,0 +1,2 @@
+{"name":"sharedmem","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa5574a720bf292ed4c6c3547605efc18b36534420716522db9e40efca4c1044","features":{},"yanked":true}
+{"name":"sharedmem","vers":"0.1.1","deps":[{"name":"memmap","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d086f7a8596e23a38fc3b765c1ede397fd309ad852d3f481d9359fd2a199fe9","features":{},"yanked":false}

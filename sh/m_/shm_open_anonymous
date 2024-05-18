@@ -1,0 +1,2 @@
+{"name":"shm_open_anonymous","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0714397a63aa84b0dd2ea4366096d1fcd1f879b551e54eb9c4b5a8c92e639e69","features":{},"yanked":false}
+{"name":"shm_open_anonymous","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"00f9e2868558ee54e78af6b791b7be4752715866130764a7994c3bd77d322040","features":{},"yanked":false}

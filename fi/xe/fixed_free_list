@@ -1,0 +1,2 @@
+{"name":"fixed_free_list","vers":"0.1.0","deps":[],"cksum":"c759bcd5d2303390cb9f0061f51060cd842b63cf2b8de39378638b8ea18bef04","features":{"default":[],"strict":[],"unstable":[]},"yanked":false}
+{"name":"fixed_free_list","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6f0c0ebeeba4a4f8f42f75d9a84d79e60866efe8d254def7d533a632506b3d5","features":{"default":[],"strict":[],"unstable":[]},"yanked":false}

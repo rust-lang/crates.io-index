@@ -1,0 +1,4 @@
+{"name":"m68000","vers":"0.1.0","deps":[],"cksum":"b8bd52ba0c6eab70ff2671bdc4d291cb53a3ce164c8e930d352c16540ec622a1","features":{"cpu-mc68000":[],"cpu-scc68070":[]},"yanked":false}
+{"name":"m68000","vers":"0.1.1","deps":[],"cksum":"95517c384b256cf4a7123906c923e2d22c45c46286669c3b1e2e4246f84c80f2","features":{"cpu-mc68000":[],"cpu-scc68070":[]},"yanked":false}
+{"name":"m68000","vers":"0.2.0","deps":[],"cksum":"ada28259e8a9e373261b819500c1b0b42e15ae1de479ca739ff4563fd9f7f9fe","features":{"default":[],"ffi":[]},"yanked":false}
+{"name":"m68000","vers":"0.2.1","deps":[],"cksum":"fa7807749044c52d0a25119090f31976a32318bc1778bdc77aec53a7c2c71eed","features":{"default":[],"ffi":[]},"yanked":false}

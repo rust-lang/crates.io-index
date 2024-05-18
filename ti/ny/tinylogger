@@ -1,0 +1,2 @@
+{"name":"tinylogger","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1d352702269565e37c960ee88aa81c2e9801f3b19a137157da34484f9123209","features":{},"yanked":false}
+{"name":"tinylogger","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e92fd256f078bf6aa8e7bb622b0f1d715d09e6619a768684692fab7720142e3d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"stable-pattern","vers":"0.1.0","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4564168c00635f88eaed410d5efa8131afa8d8699a612c80c455a0ba05c21045","features":{"default":["std"],"std":["memchr/std"]},"yanked":false}

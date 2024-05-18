@@ -1,0 +1,2 @@
+{"name":"build-version","vers":"0.1.0","deps":[{"name":"quick-error","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e07b5019855909806cc03b3ab8376098a45e92d587adab70f79ea8b0500a6240","features":{},"yanked":false}
+{"name":"build-version","vers":"0.1.1","deps":[{"name":"quick-error","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c4b6b239e6a9ea095d1e6dff939ec5be77a2a76ed67eada185b284a60e44ba8","features":{},"yanked":false}
