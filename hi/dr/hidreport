@@ -1,1 +1,2 @@
 {"name":"hidreport","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9c7df1b46b8e8c9fbf6f1d8e1fedf42e2443b379cd683e927363b4d2749b7f","features":{},"yanked":false}
+{"name":"hidreport","vers":"0.2.1","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60db19f72b2c9957a5f6939e9a422b4b3e67a5c5c3d3b06e5e1db95035c3a84c","features":{},"yanked":false}
