@@ -1,1 +1,2 @@
 {"name":"gscaler","vers":"1.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54cd873c2502075cf477fe3a64d1ae339db5a792ab6a2949f0d49106f3d01a0b","features":{},"yanked":false}
+{"name":"gscaler","vers":"1.3.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47965abb53cd294e66d197301398fe1b4d1484b512ca78af395ab49b29d267fe","features":{},"yanked":false}
