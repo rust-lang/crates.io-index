@@ -1,1 +1,2 @@
 {"name":"neurons","vers":"0.0.1","deps":[],"cksum":"912030082797fc9190e9c252c114419c26f80c53ae1928b53617213626844b5c","features":{},"yanked":false}
+{"name":"neurons","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6b42a1bf8ed69117424387092bc0b9cd34df777130dfb8ee5ee3219a2f26cab","features":{},"yanked":false}
