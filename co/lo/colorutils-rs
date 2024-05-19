@@ -1,1 +1,2 @@
 {"name":"colorutils-rs","vers":"0.1.0","deps":[{"name":"half","req":"^2.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab26b1245957058fc9376c6b62919e1cac306c28cb282fe4695021bd04a22cd","features":{},"yanked":false}
+{"name":"colorutils-rs","vers":"0.1.1","deps":[{"name":"half","req":"^2.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"136b4363eb8fbb0e75ff348684f42e7a8c88ba4ca4938b346386160c23a01084","features":{},"yanked":false}
