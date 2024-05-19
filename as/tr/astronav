@@ -3,3 +3,4 @@
 {"name":"astronav","vers":"0.2.1","deps":[],"cksum":"a6c914a8a8686d3174a6abb3905775d584889d526ad23a12996b721804b9ecb3","features":{"default":["noaa-sun"],"noaa-sun":[]},"yanked":true,"rust_version":"1.69.0"}
 {"name":"astronav","vers":"0.2.2","deps":[],"cksum":"a5a73b6224d03cd76e7910e2b58cbe6823d5e3ee4a2f96cc682817196ace0915","features":{"default":["noaa-sun"],"noaa-sun":[]},"yanked":true,"rust_version":"1.69.0"}
 {"name":"astronav","vers":"0.2.3","deps":[],"cksum":"e1aa85f0075ba53be046a293f35945acd1f88ca37455b03d7d1af6513fc975d3","features":{"default":["noaa-sun"],"noaa-sun":[]},"yanked":false,"rust_version":"1.69.0"}
+{"name":"astronav","vers":"0.2.4","deps":[],"cksum":"60ee8d275283b1c50f6e0662357fffb4e6e10a96bf95c39c0db2a9d0b4e660e9","features":{"noaa-sun":[]},"yanked":false,"rust_version":"1.69.0"}
