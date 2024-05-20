@@ -1,1 +1,2 @@
 {"name":"omp","vers":"0.1.0","deps":[{"name":"omp-gdk","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16d43147890dc245adf38f24f9817a2e015865eb5eba0e49d4a9e116e2845e03","features":{},"yanked":false}
+{"name":"omp","vers":"0.2.0","deps":[{"name":"omp-gdk","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"148db4b457687087b6e4437b6cc04fdadf7bfed210826b776b3872dfa23c5161","features":{},"yanked":false}
