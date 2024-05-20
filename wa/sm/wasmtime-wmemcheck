@@ -23,3 +23,4 @@
 {"name":"wasmtime-wmemcheck","vers":"20.0.0","deps":[],"cksum":"786de8d595687085bd698fa9e444b3bc0c36446e854329ea922e5b327ac7d555","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"20.0.1","deps":[],"cksum":"2a79ae5ff4671316315feb8a270f24c990d02ec5699f4ea8ef1090ca72089c48","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"20.0.2","deps":[],"cksum":"d852e9c9caa2ad9825c5589666add80cfd0c1e7c95ef605d81376ba2e7e25f75","features":{},"yanked":false}
+{"name":"wasmtime-wmemcheck","vers":"21.0.0","deps":[],"cksum":"ef82ebbd47282d5671606c91b72d514aaf2b242d064876330b3eff77f7f4dfae","features":{},"yanked":false}
