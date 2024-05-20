@@ -3,3 +3,4 @@
 {"name":"licensing","vers":"0.1.2","deps":[],"cksum":"bae76a7234636431795cf057e823d6b4d101a3a84e68f76efa7ba3a17354e022","features":{},"yanked":true}
 {"name":"licensing","vers":"0.1.3","deps":[],"cksum":"7ffdf2401f205d0f10008dc00d174e7d39d9bd15e3641e61a8ea640e491a96c2","features":{},"yanked":true}
 {"name":"licensing","vers":"0.1.4","deps":[],"cksum":"d56835a06383d1b35b1574f55f61a87694cdae16f607c15cc29bde1b0b866806","features":{},"yanked":false}
+{"name":"licensing","vers":"0.2.0","deps":[{"name":"toml","req":"^0.8.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9137647ba6cae46cf07f254a0ac2dfa6215c2f1c697c3cedaa8855b8cfca6059","features":{},"yanked":false}
