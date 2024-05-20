@@ -1,0 +1,1 @@
+{"name":"pagebrowse_types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c53c5bc2412a31f6938b8062bad0ea611d394fe954a62bc7763705b73d618d2","features":{},"yanked":false}
