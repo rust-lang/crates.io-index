@@ -1,1 +1,2 @@
 {"name":"lonelyradio_types","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"389a7431689b32cec95455dd89c62039fe2222e93be9480029b464f9d6435a44","features":{},"yanked":false}
+{"name":"lonelyradio_types","vers":"0.4.1","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d7b1e8d58ac20ae6cef8ff33df8e64c3f3c5f156bd422b7241a6c66541bf108","features":{},"yanked":false}
