@@ -15,3 +15,4 @@
 {"name":"safe-transmute","vers":"0.11.0","deps":[],"cksum":"50b8b2cd387f744f69469aaed197954ba4c0ecdb31e02edf99b023e0df11178a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"safe-transmute","vers":"0.11.1","deps":[],"cksum":"1d95e7284b4bd97e24af76023904cd0157c9cc9da0310beb4139a1e88a748d47","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"safe-transmute","vers":"0.11.2","deps":[],"cksum":"98a01dab6acf992653be49205bdd549f32f17cb2803e8eacf1560bf97259aae8","features":{"alloc":[],"const_generics":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"safe-transmute","vers":"0.11.3","deps":[],"cksum":"3944826ff8fa8093089aba3acb4ef44b9446a99a16f3bf4e74af3f77d340ab7d","features":{"alloc":[],"const_generics":[],"default":["std"],"std":["alloc"]},"yanked":false}
