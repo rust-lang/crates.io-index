@@ -1,1 +1,2 @@
 {"name":"replace-types","vers":"0.1.0","deps":[{"name":"syn","req":"^2","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e29a7be6f57493e1756021314f93fb95187e61671f4288498a62e72cfa3174","features":{},"yanked":false}
+{"name":"replace-types","vers":"0.1.1","deps":[{"name":"syn","req":"^2","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a02aedc71cf083653a53f29482d1ddbe88bd5f086f4bdc5134503b82389771ff","features":{},"yanked":false}
