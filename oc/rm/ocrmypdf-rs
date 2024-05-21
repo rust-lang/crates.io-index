@@ -1,1 +1,2 @@
 {"name":"ocrmypdf-rs","vers":"0.0.1","deps":[],"cksum":"7c77b2385dc9d75118b8b0523b6fa960ae187628d1fa84e5f741994f54076f79","features":{},"yanked":false}
+{"name":"ocrmypdf-rs","vers":"0.0.2","deps":[{"name":"indicatif","req":"^0.17.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9d8a835940ee486c6e6feb727b4f9abd2b5ad514f892975928560ab862c992","features":{},"yanked":false}
