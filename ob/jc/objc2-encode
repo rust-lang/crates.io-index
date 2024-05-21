@@ -13,4 +13,4 @@
 {"name":"objc2-encode","vers":"3.0.0","deps":[],"cksum":"d079845b37af429bfe5dfa76e6d087d788031045b25cfc6fd898486fd9847666","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
 {"name":"objc2-encode","vers":"4.0.0","deps":[],"cksum":"2ff06a6505cde0766484f38d8479ac8e6d31c66fbc2d5492f65ca8c091456379","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
 {"name":"objc2-encode","vers":"4.0.1","deps":[],"cksum":"88658da63e4cc2c8adb1262902cd6af51094df0488b760d6fd27194269c0950a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
-{"name":"objc2-encode","vers":"4.0.2","deps":[],"cksum":"69e5cb54df7a186d9b7730b4f6d94a8579108e7a01e9ec246796bf07a8aeecba","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"objc2-encode","vers":"4.0.2","deps":[],"cksum":"69e5cb54df7a186d9b7730b4f6d94a8579108e7a01e9ec246796bf07a8aeecba","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true,"rust_version":"1.60"}
