@@ -1,0 +1,1 @@
+{"name":"android-build","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.52","features":["Win32_UI_Shell","Win32_Foundation","Win32_Globalization","Win32_System_Com"],"optional":false,"default_features":false,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"a133d38cebf328adaea4bc1891d9568e14a394b50e4f4ba5f63dc14e8beaaee9","features":{},"yanked":false}
