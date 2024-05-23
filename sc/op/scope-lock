@@ -1,2 +1,3 @@
 {"name":"scope-lock","vers":"0.1.0","deps":[],"cksum":"17749601596d065670df80515fe4c47b75f6bc8169558303b8481aed22c2e16e","features":{},"yanked":true}
 {"name":"scope-lock","vers":"0.2.0","deps":[],"cksum":"24f410115ba370d6578765d1487276f6a6e007bbde6bb0349505c7621737c001","features":{},"yanked":false}
+{"name":"scope-lock","vers":"0.2.1","deps":[{"name":"parking_lot","req":"^0.12.2","features":["send_guard"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c841d783bbdab3499374b6947bceb1b9355ae53add73f4f2bb36ec23963bb9c","features":{},"yanked":false}
