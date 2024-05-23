@@ -5,3 +5,4 @@
 {"name":"nuts-backend","vers":"0.5.0","deps":[{"name":"nuts-bytes","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84feb024932a1b13e9208f568e9c744f09c5339fe7ae3b2ef842ef8d1dacfc45","features":{},"yanked":false}
 {"name":"nuts-backend","vers":"0.6.0","deps":[],"cksum":"e15ca33c64397e5b741338ba1db8abb5b4fa90a7883528184e9e7537755d3c3e","features":{},"yanked":false}
 {"name":"nuts-backend","vers":"0.6.1","deps":[],"cksum":"fddb0eb9a0548ad0ad119477a6075d58b5527e63a25c0830fc5b53f362541b1e","features":{},"yanked":false}
+{"name":"nuts-backend","vers":"0.6.2","deps":[],"cksum":"929f5be389140cebb45361d5f8eaece3390b11e5dfa769e499502d25553a2aae","features":{},"yanked":false}
