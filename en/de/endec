@@ -1,0 +1,1 @@
+{"name":"endec","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce02c5cccb8b570208e83e7ab647844f215720bdaeedc220a003ec61419ddf7b","features":{},"yanked":false}
