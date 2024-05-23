@@ -1,1 +1,2 @@
 {"name":"orbweaver","vers":"0.1.0","deps":[],"cksum":"e5f8624bbc5392618c21b544067ab9565c9add169a2998cb5f1b81455aea87f1","features":{},"yanked":false}
+{"name":"orbweaver","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.202","features":["derive","rc"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81146688a5437cbd2ee7b8a2c101f03add6f93f84780013590af304ced4cc150","features":{"default":["serde"]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
