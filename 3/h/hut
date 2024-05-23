@@ -1,1 +1,2 @@
 {"name":"hut","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f6a3603d4a44f9f4b6fb5791a0821b63d38c81bc019aa779e11f65caeef6ecf","features":{},"yanked":false}
+{"name":"hut","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a66113865444a37fbb412b1eea4dc25836ee6c23b164340474c299db439f19","features":{},"yanked":false}
