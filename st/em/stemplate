@@ -10,3 +10,4 @@
 {"name":"stemplate","vers":"0.1.9","deps":[],"cksum":"d183a0eee945b7a66bfe1118174864842ddae148fc1f98873848469d908bb27c","features":{},"yanked":false}
 {"name":"stemplate","vers":"0.1.10","deps":[],"cksum":"eee57407374d08fe693975d040fa1b762b082e3085caf62ecc98e272ae3b223b","features":{},"yanked":false}
 {"name":"stemplate","vers":"0.1.11","deps":[{"name":"regex","req":"^1.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ea1ea722e28d2ed95357e7c441160a249d5be3d258ba91aacb0ab9ff10121ff","features":{},"yanked":false}
+{"name":"stemplate","vers":"0.1.12","deps":[],"cksum":"786e670ac1af8cab20795b7458a69fd447eb233f03a1188514938e10f9e31366","features":{},"yanked":false}
