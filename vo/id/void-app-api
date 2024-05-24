@@ -7,3 +7,4 @@
 {"name":"void-app-api","vers":"0.0.7","deps":[],"cksum":"400ce6d0044ad348baebeab5020b3908bdd522163e60c224880035f1dcade6a5","features":{},"yanked":false}
 {"name":"void-app-api","vers":"0.0.8","deps":[],"cksum":"2ed6d1fa7d3ffc68aeac81554cb8153b5487be9bd56c0b43bc73214cafe0a324","features":{},"yanked":false}
 {"name":"void-app-api","vers":"0.0.9","deps":[],"cksum":"3ea5c9c97286eda9ad49c3f8b36068c5e8edcc7571b11ea6bbad19f20e737c94","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.10","deps":[{"name":"egui","req":"^0.27.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a4143a5ad9fda3f2369125bcbc12bbe84ea2b29c2e16434e3568b3c8ff8b838","features":{},"yanked":false}
