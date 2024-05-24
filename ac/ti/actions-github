@@ -1,1 +1,2 @@
 {"name":"actions-github","vers":"0.1.0","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf22eee1ba09797e9062dc524a37597f8629476c24b09ba98bb6501baab4a67a","features":{},"yanked":false}
+{"name":"actions-github","vers":"0.0.2","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54cfa069e168421d28bb30ba6e74241d134e2659b1fd3eef05ba7b5e54cf25f6","features":{},"yanked":false}
