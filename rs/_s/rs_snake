@@ -1,0 +1,1 @@
+{"name":"rs_snake","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termion","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2050b60ba9d8a330738a51976aa547f453b2d5e7ce1771514ef96965965ffcf","features":{},"yanked":false}
