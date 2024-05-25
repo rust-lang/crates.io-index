@@ -1,0 +1,1 @@
+{"name":"winwin","vers":"0.0.1","deps":[{"name":"windows","req":"^0.56","features":["Win32_Graphics_Gdi","Win32_System_LibraryLoader","Win32_UI_WindowsAndMessaging"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19088717644d43139777ece85a1ec387fcc3f7aa42f50859ca3acbf7fc0b78d0","features":{},"yanked":false}
