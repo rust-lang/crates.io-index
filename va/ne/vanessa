@@ -1,0 +1,1 @@
+{"name":"vanessa","vers":"0.1.0","deps":[],"cksum":"48565332e74a5558730076d6848524214b70946fd1ed29f9addd9f179932c6dd","features":{"default":["workers","file-log"],"file-log":[],"multilog":["file-log"],"workers":[]},"yanked":false}
