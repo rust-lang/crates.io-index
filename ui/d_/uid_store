@@ -8,3 +8,4 @@
 {"name":"uid_store","vers":"0.1.3","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dfe124fa72c8df4a748f31149b6a00b2443394d900b5234bb61d08bd9a908e5","features":{},"yanked":false}
 {"name":"uid_store","vers":"0.1.4","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d039ba883eae9448bc18e81e0f02d3e6f33f4c6e8ea7387e166809c86b24f50e","features":{},"yanked":false}
 {"name":"uid_store","vers":"0.1.5","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aa0e70cd415fe16599967f1807778286ccd030fbc41846844e20898f668a260","features":{},"yanked":false}
+{"name":"uid_store","vers":"0.1.6","deps":[],"cksum":"c73ed3e1b0990c81bd633bf41223274eeb6cd871dc49c1f0ceb475cfe9a48312","features":{},"yanked":false}
