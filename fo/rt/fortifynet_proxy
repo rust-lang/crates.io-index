@@ -7,3 +7,4 @@
 {"name":"fortifynet_proxy","vers":"1.1.6","deps":[{"name":"url","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5872804ff4ae377d81afc4ebd3e2e82f145b9ae0871f387ed56b6bc93403e27b","features":{},"yanked":false}
 {"name":"fortifynet_proxy","vers":"1.1.7","deps":[{"name":"url","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d26f94449ccd688b21ca5c3b97fa0be9678de0f735f93f9079d56241e507d2cd","features":{},"yanked":false}
 {"name":"fortifynet_proxy","vers":"1.1.8","deps":[{"name":"url","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0f273101ef3121e7fc564e9beccc3ed4949f90d00da6915bc791ffbdf4ae4ae","features":{},"yanked":false}
+{"name":"fortifynet_proxy","vers":"1.1.9","deps":[],"cksum":"a17fd99c8255aaa75649f6c8ccb92c0eee2aaaffcbaab3b691d14ae360d09409","features":{},"yanked":false}
