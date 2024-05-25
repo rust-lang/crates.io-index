@@ -1,0 +1,1 @@
+{"name":"followfile","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.37.0","features":["time"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a3ba6deaf304ac92232187b290c413f7d64983f8fc1955cd2fb56bb003600b7","features":{"tail":["tokio/macros","tokio/rt","tokio/fs","tokio/io-util"]},"yanked":false}
