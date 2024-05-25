@@ -1,0 +1,1 @@
+{"name":"rust-env-sorter","vers":"0.1.0","deps":[{"name":"color-eyre","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aed485c068cfb513aba1486b14bdc7cda882b97f175a11f22ac559f908dee99","features":{"default":["windows-only"],"windows-only":[]},"yanked":false}
