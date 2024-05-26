@@ -12,3 +12,4 @@
 {"name":"cbvm","vers":"0.6.3","deps":[{"name":"cbasm","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ca7fb5aa9d6d92d94e0c4af42a37ba437a9a24f6a0c2d3ac037592ac5ac0ea2","features":{},"yanked":false}
 {"name":"cbvm","vers":"0.6.4","deps":[{"name":"cbasm","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c6b94afe817635c758b0c008df0d4cc293e924e1302dadb0576f59907a66ed3","features":{},"yanked":false}
 {"name":"cbvm","vers":"0.6.5","deps":[],"cksum":"00a96c19b113387acb2e7cf10d2f83d3f68e098dc236ae8a8214cfc5c41c9802","features":{},"yanked":false}
+{"name":"cbvm","vers":"0.6.6","deps":[],"cksum":"f89c95689a6e094976a9fdc5a846b8586ee368542e9a2132a099ebd4da638434","features":{},"yanked":false}
