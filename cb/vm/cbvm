@@ -10,3 +10,4 @@
 {"name":"cbvm","vers":"0.6.1","deps":[{"name":"cbasm","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea6e2106a07d37b80028346118e4ca71d059b63bb4cfe0d9c74d017465d61277","features":{},"yanked":false}
 {"name":"cbvm","vers":"0.6.2","deps":[],"cksum":"fcafdd0c1973532dde968e76731b19c397ec84aa3a343754eb837ea6036607ea","features":{},"yanked":false}
 {"name":"cbvm","vers":"0.6.3","deps":[{"name":"cbasm","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ca7fb5aa9d6d92d94e0c4af42a37ba437a9a24f6a0c2d3ac037592ac5ac0ea2","features":{},"yanked":false}
+{"name":"cbvm","vers":"0.6.4","deps":[{"name":"cbasm","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c6b94afe817635c758b0c008df0d4cc293e924e1302dadb0576f59907a66ed3","features":{},"yanked":false}
