@@ -1,0 +1,1 @@
+{"name":"redis-wrapper","vers":"0.1.0","deps":[{"name":"redis","req":"^0.25.2","features":["tokio-comp","tokio-native-tls-comp"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f1c6546f18d2eb0e15d2e4b0592c84962eecf2f590e3436dde7fe4d3708ea43","features":{},"yanked":false}
