@@ -3,3 +3,4 @@
 {"name":"scoped_thread_local","vers":"0.1.2","deps":[{"name":"scopeguard","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe24239f4a77ad48ec0a9ef004c69b7a759a8a7e895503b75ad06832596a4168","features":{},"yanked":false}
 {"name":"scoped_thread_local","vers":"0.1.4","deps":[],"cksum":"2ded69ce806ab0e54fca6ce4c24703109b5828c2a7cf91f230bf5b4e5c5f568f","features":{},"yanked":false}
 {"name":"scoped_thread_local","vers":"0.1.5","deps":[],"cksum":"74edb69979ea0142d8a265eb617847fa849f60ca3534d703ef01cdc6c5283c83","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.6","deps":[],"cksum":"29320381d4cc81d67bde5f19695b693ce59b8816aa465d8e544a7244da34fa64","features":{},"yanked":false}
