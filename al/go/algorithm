@@ -1,1 +1,2 @@
 {"name":"algorithm","vers":"0.1.0","deps":[],"cksum":"c2a4ec83380bcc2e7e280b23a49bd76929616333716fd741e130a3047786b0e2","features":{},"yanked":false}
+{"name":"algorithm","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2287ca3b3c4e035c65fded8a4b3737a8a9ab4a690b1db0ad699053485ff12e87","features":{},"yanked":false}
