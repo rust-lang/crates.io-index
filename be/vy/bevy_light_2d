@@ -1,0 +1,1 @@
+{"name":"bevy_light_2d","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.13","features":["bevy_render","bevy_core_pipeline","bevy_winit","bevy_sprite","x11"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4aa5d37dbcfd66a6fab2c10a7e4678a13caa5a8c7efd1434c8cd18dcd4b376ea","features":{},"yanked":false}
