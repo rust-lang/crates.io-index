@@ -1,2 +1,3 @@
 {"name":"thunk-rs","vers":"0.1.0","deps":[],"cksum":"e786c3008a433fa8e13e294a71a070089bcf7f821b44e55106dfc8d3fe6bbd21","features":{},"yanked":false}
 {"name":"thunk-rs","vers":"0.3.0","deps":[],"cksum":"398a607d7e97836634640e9d47a9a30e060b0ad0d8c1a58a2ce4eee352b60b7e","features":{"default":["windows_xp"],"lib":[],"subsystem_windows":[],"vc_ltl_only":[],"windows_vista":[],"windows_xp":[]},"yanked":false}
+{"name":"thunk-rs","vers":"0.3.1","deps":[],"cksum":"bf77724da7ad3317356aadd0dccc72459bb38aec7d7f6fdb9bc44dcf599df71d","features":{"default":["windows_xp"],"lib":[],"subsystem_windows":[],"vc_ltl_only":[],"windows_vista":[],"windows_xp":[]},"yanked":false}
