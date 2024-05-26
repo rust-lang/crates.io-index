@@ -1,1 +1,2 @@
 {"name":"cbasm","vers":"0.1.1","deps":[{"name":"cbvm","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55cb138621a5e4a05cd76ababcee644f27efd8538862c0338ef9bbeb09fd249e","features":{},"yanked":false}
+{"name":"cbasm","vers":"0.1.2","deps":[{"name":"cbvm","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4d9ed0db8987c4af744255efd169f5f8ea6fe31c11b95394bf66c820a9e27cb","features":{},"yanked":false}
