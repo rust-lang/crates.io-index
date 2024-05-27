@@ -1,0 +1,1 @@
+{"name":"benemalloc","vers":"0.1.0-BETA","deps":[{"name":"allocations","req":"^0.1.0-BETA","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b7a89d3a27c3dc8967e83fcdc1e9ccf5ec9d4172b93dc07fbcf11f23f71de1d","features":{"default":[],"track_allocations":[]},"yanked":false}
