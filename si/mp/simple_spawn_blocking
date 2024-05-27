@@ -1,0 +1,1 @@
+{"name":"simple_spawn_blocking","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1b31ed96d1593e129cc76cb7aca364fb5c173558bfda922c15aac4e2f2f5844e","features":{},"yanked":false}
