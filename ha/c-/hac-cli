@@ -1,0 +1,1 @@
+{"name":"hac-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fe8ba9352b306da682c30865eb0a37408db4523e1d3494a3a570ca41965d1fa","features":{},"yanked":false}
