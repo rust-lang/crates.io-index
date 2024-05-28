@@ -2,3 +2,4 @@
 {"name":"checs","vers":"0.1.0","deps":[],"cksum":"596c7e2633394cdc1b944f0041fef6e2c3720c376907e69e33d8cfafd6e296c8","features":{},"yanked":false}
 {"name":"checs","vers":"0.2.0","deps":[],"cksum":"b2bab07c1e26e1bb5ccfc88c8889ea3ddf19d8cf7505d57d10f508c6b6e60d2b","features":{},"yanked":false}
 {"name":"checs","vers":"0.3.0","deps":[],"cksum":"525a34ff45204071545f6950389bc13237e434b3408489ec6fac1efdb40d5434","features":{},"yanked":false}
+{"name":"checs","vers":"0.4.0","deps":[{"name":"checs_proc","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"147a22ed03926fd55a2ae8625a659e387dbf8ee0c20a587c042b7dd709f437d9","features":{"default":["proc"],"proc":["checs_proc"]},"yanked":false}
