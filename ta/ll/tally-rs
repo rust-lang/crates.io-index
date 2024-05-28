@@ -1,0 +1,1 @@
+{"name":"tally-rs","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.8.2","features":["v4_12"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"12f12437fc6f30eee7e1e633e932d100bcbf651a33f16fd1624899e4ff705c9c","features":{},"yanked":false}
