@@ -7,3 +7,4 @@
 {"name":"libmem","vers":"4.2.1","deps":[],"cksum":"f820a18a59fcd9e383eda8e3b9ccf2675ae5ae040821922fdeaba9779592d156","features":{"static":[]},"yanked":false}
 {"name":"libmem","vers":"4.3.0","deps":[],"cksum":"dc18b22cf60bc7509d746395c580cda69e58a4288986d8612a3dcbadb7df67c6","features":{"static":[]},"yanked":false}
 {"name":"libmem","vers":"4.4.0","deps":[],"cksum":"6a452a673fb3dcdb947c3cb795129c6efe9a9d3c9c023bb0416e795877d4e05a","features":{"static":[]},"yanked":false}
+{"name":"libmem","vers":"5.0.0-pre5","deps":[{"name":"bitflags","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libmem-sys","req":"^5.0.0-pre5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5c096681eb2757948ecece63374b1a0662b3fb5bf05d89725ec33697928515b9","features":{"default":["fetch"],"fetch":["libmem-sys/fetch"],"static":["libmem-sys/static"]},"yanked":false}
