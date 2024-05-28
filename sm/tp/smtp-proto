@@ -3,3 +3,4 @@
 {"name":"smtp-proto","vers":"0.1.2","deps":[],"cksum":"0f7278d054ed6844babe3d760d03ccae24e26207c3c27b68d8385a03d3324619","features":{},"yanked":false}
 {"name":"smtp-proto","vers":"0.1.3","deps":[],"cksum":"20b37ae016fedcac2174dd0e3029870154830a4d3fb10f533317f2604e72b343","features":{},"yanked":false}
 {"name":"smtp-proto","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34344dcc7dd10b3de9224fd68e5f019fff2246d9cdf8e4322f770f48030e0c83","features":{"default":[],"serde_support":["serde"]},"yanked":false}
+{"name":"smtp-proto","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51b8ad3dd187f0d4debab02ad65405a9919d6a4f7bce25bd64a258781063a53a","features":{"default":[],"serde_support":["serde"]},"yanked":false}
