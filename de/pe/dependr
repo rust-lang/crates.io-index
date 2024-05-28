@@ -1,0 +1,1 @@
+{"name":"dependr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eeef1818e4b6ceea7287c0bfd619ec4962a4fd8594d65665e2f0f388fed0e1e","features":{},"yanked":false}
