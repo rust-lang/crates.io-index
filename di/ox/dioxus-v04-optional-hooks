@@ -1,1 +1,2 @@
 {"name":"dioxus-v04-optional-hooks","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6a361830420b435da416454b10956a82c70ef0c5785e73526f68cac733e734a","features":{},"yanked":false}
+{"name":"dioxus-v04-optional-hooks","vers":"0.1.1","deps":[{"name":"dioxus","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb78380147bea1002ed298a9a8827979d0fc03d2c0a9da15c10146edf32f9d4b","features":{},"yanked":false}
