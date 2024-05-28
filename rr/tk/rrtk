@@ -9,3 +9,4 @@
 {"name":"rrtk","vers":"0.3.0-alpha.2","deps":[],"cksum":"b82c4fe2d58f1a63280aedb31f8c2c72b11a8cb14143d2c5fd5ba60df62c853f","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.3","deps":[],"cksum":"ab78abb98132df05f62d688611c3ffdb41eb54102dad39e533814e9945155631","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.4","deps":[],"cksum":"17bf86e0d57c7202387325212f828ce7d27528d3cf733ea5e996eb49f76305fb","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.5","deps":[],"cksum":"21c14a5758b2c6cafb3b30144a52249db19a9f20aab5728d790a29035d11b6c0","features":{"default":["std"],"motionprofile":[],"std":[]},"yanked":false}
