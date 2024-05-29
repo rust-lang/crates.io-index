@@ -1,0 +1,1 @@
+{"name":"versa_unstable_schema","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.203","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"455247306544b556d6438ee0b2760d669fc50b3cbafadc996b8420a340f2a17f","features":{},"yanked":false}
