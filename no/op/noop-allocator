@@ -1,0 +1,1 @@
+{"name":"noop-allocator","vers":"0.1.0","deps":[],"cksum":"d144e25b2197549f50274b3b95093b832d3c2c0a6cd860d82d1f19ff23497dda","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
