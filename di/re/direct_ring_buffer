@@ -1,1 +1,2 @@
 {"name":"direct_ring_buffer","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95119f6e1772cb1ad3989783bdb1bb233deda581b23b3aa1336ea53b9122c731","features":{},"yanked":false}
+{"name":"direct_ring_buffer","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bcfb4580968c222aa57c078cd7197f661541e4e6c21ab89d191137f815f25606","features":{},"yanked":false}
