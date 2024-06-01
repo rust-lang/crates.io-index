@@ -1,0 +1,1 @@
+{"name":"trackpad_haptic","vers":"0.1.0","deps":[{"name":"icrate","req":"^0.1","features":["AppKit_all","Foundation_NSThread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47f0d4e9a1d6ebc1488661e44d310f5aae31bdf6123cfb911547d8a4942c942c","features":{},"yanked":false}
