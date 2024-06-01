@@ -56,3 +56,4 @@
 {"name":"gitnu","vers":"0.7.4","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbe441db80ccbc92fcc5225e96a3b478394ef6bcadb68dbe2d170eaa5f7d277e","features":{},"yanked":false}
 {"name":"gitnu","vers":"0.7.5","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3fb61c3d61d9777bb6e023150033a2e61678853f5e9306402242eaa3e96ebb9","features":{},"yanked":false}
 {"name":"gitnu","vers":"0.7.6","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a094489c12684e53b1992e8de723cc90ed55afac1edef13ba9bb705d8b54ca","features":{},"yanked":false}
+{"name":"gitnu","vers":"0.7.7","deps":[],"cksum":"0a5315b688693eb098d5c2f24723eda5e1d299a8168fd5f9a0dbbd2f562663db","features":{},"yanked":false}
