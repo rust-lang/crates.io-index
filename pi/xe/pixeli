@@ -1,0 +1,1 @@
+{"name":"pixeli","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bb7f63f35709a69f68d6c01995fadc263b62763de38c2d74944f4e2f7e908fa9","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
