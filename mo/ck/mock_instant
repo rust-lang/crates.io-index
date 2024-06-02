@@ -7,3 +7,4 @@
 {"name":"mock_instant","vers":"0.3.2","deps":[{"name":"once_cell","req":"^1.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9366861eb2a2c436c20b12c8dbec5f798cea6b47ad99216be0282942e2c81ea0","features":{"default":[],"sync":["once_cell"]},"yanked":false}
 {"name":"mock_instant","vers":"0.4.0","deps":[],"cksum":"6c356644192565524790740e4075307c2cfc26d04d2543fb8e3ab9ef43a115ec","features":{},"yanked":false}
 {"name":"mock_instant","vers":"0.5.0","deps":[],"cksum":"b336fe1ceb0554372c7b043a21efbfcf4400d6e3de88b0e7f1b4c32860a5db32","features":{},"yanked":false}
+{"name":"mock_instant","vers":"0.5.1","deps":[],"cksum":"cdcebb6db83796481097dedc7747809243cc81d9ed83e6a938b76d4ea0b249cf","features":{},"yanked":false}
