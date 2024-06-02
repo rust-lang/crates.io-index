@@ -1,1 +1,2 @@
 {"name":"rmin","vers":"0.1.0","deps":[],"cksum":"38f515e80cf4899ab749d192a5c2bb353bc252a1833b06cf9900f63b6db105bf","features":{"std":[]},"yanked":false}
+{"name":"rmin","vers":"0.2.0","deps":[],"cksum":"cb8bec2e02837a3dab68aeda7c05e06837e96808387c744b25da0801061071f2","features":{"default":["std"],"std":[]},"yanked":false}
