@@ -1,1 +1,2 @@
 {"name":"easy-tree","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6678b7b2d01a86d8da09c1499f1fd4a418fa84b049d4b2c83810dba42bdb00d2","features":{"default":[]},"yanked":false}
+{"name":"easy-tree","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d244956b3e9d086587e855e3163d84337f06650eaf3c5a9c97ae387e4f88553","features":{"default":[]},"yanked":false}
