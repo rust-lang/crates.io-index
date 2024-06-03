@@ -1,0 +1,1 @@
+{"name":"advanced-random-string","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e16429f2d1078602ddbc29056146da1f8edecf1aff06a9790b7da9d0f5dde816","features":{},"yanked":false}
