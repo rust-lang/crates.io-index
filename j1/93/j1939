@@ -17,3 +17,4 @@
 {"name":"j1939","vers":"0.1.29","deps":[],"cksum":"012e071cfc430effcf7ebd3554d1f1249874d459ca7c49931c5a8ca4b3845760","features":{},"yanked":false}
 {"name":"j1939","vers":"0.1.30","deps":[],"cksum":"36fe98711308ddc23cce99ef0b2f1a7164c38a1d5c5112c019ca1e266eeec4a4","features":{},"yanked":false}
 {"name":"j1939","vers":"0.1.31","deps":[],"cksum":"cbae74994c47dcf3487835b2c1370bf9cce4f8c4a147e2f301488aa3d7fb69a9","features":{},"yanked":false}
+{"name":"j1939","vers":"0.1.32","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d9b48dbc580d2c3927ce00e93665895b83ae17e6d888f7876bceb144429406a1","features":{"default":["chrono"]},"features2":{"chrono":["dep:chrono"]},"yanked":false,"v":2}
