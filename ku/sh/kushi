@@ -1,1 +1,2 @@
 {"name":"kushi","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7faf98b18f9ae175e474610f50a68a8cc61cab8da96adbe51d55739dfb1fe771","features":{},"yanked":false}
+{"name":"kushi","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14cbc421ed6aff1e5db278bab43f8c51477592d9e89bd466ad772f3ca49db03b","features":{},"yanked":false}
