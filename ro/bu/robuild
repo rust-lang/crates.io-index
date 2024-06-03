@@ -5,3 +5,4 @@
 {"name":"robuild","vers":"0.0.5","deps":[],"cksum":"8e4a8323c6efd44c1853e81c2ca13cd16cea2588eb247fc3068051cfb4ddf48f","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"robuild","vers":"0.0.6","deps":[],"cksum":"f101cfe41ae4e7201925532b31ffabefa9ffc3abdb3bc0ce19f57e47e6440ddc","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"robuild","vers":"0.0.7","deps":[],"cksum":"068f3e0827cb1ef20bf319fd8894ea7255397a988adc44717f63944b42cb5521","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"robuild","vers":"0.0.8","deps":[],"cksum":"400b7064f985bdc05e5fa30c016825794e0cf29409701bcb7c768527994beea2","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
