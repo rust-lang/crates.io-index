@@ -1,0 +1,1 @@
+{"name":"typeon","vers":"0.1.0","deps":[{"name":"typeon_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53eae198e858ab4b7e344913a7bfb42e157ba73f64fe65f3f9e01b0a83106a62","features":{"derive":["typeon_derive"]},"yanked":false}
