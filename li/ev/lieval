@@ -5,3 +5,4 @@
 {"name":"lieval","vers":"0.2.1","deps":[],"cksum":"a9d0e1036ebec6b5851b6c99b937ba121327edeaed8c3490e22cc7506173cc44","features":{},"yanked":false}
 {"name":"lieval","vers":"0.2.2","deps":[],"cksum":"d5ef1da63affd6e0c32b4297f934724f4fb068a45d9c5ec937e2a20545f89bbe","features":{},"yanked":false}
 {"name":"lieval","vers":"0.2.3","deps":[],"cksum":"e1405feebc42ef2e4084a37ce6b6f8c7cf8ea21596c511cd2c03598a85c14952","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.4","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e872c923ab0a53efc251b0d26a622ad587ba6e36e027186d26bae79a5930bf9b","features":{"default":[]},"features2":{"fxhash":["dep:fxhash"]},"yanked":false,"v":2}
