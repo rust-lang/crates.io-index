@@ -1,1 +1,2 @@
 {"name":"rocketmq-rust","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.35","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba18147e7af8d77671ed0676d8f265ff16823c595f90958c13e109fbfe86f8e9","features":{},"yanked":false}
+{"name":"rocketmq-rust","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.35","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc6644a174cca2225e2434a1716ab0b5ab7ff686a3c034f7090ad8b2361c5540","features":{},"yanked":false}
