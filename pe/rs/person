@@ -1,0 +1,1 @@
+{"name":"person","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"958033126715be637e2ef71ebec3963fb63b04f6371a160fd48713c6326fb548","features":{},"yanked":false}
