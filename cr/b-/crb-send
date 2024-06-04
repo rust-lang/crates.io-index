@@ -1,1 +1,2 @@
 {"name":"crb-send","vers":"0.0.4","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01b1f3ac5051718e9f85ed3e5b1af658b3c4a63095f1595c9c5abfbaf8bcfe1a","features":{},"yanked":false}
+{"name":"crb-send","vers":"0.0.5","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d325e85a9cc2d30833ae0a200559ad0938e2fb4617ed844bafda68a15ca6215","features":{},"yanked":false}
