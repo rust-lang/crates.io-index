@@ -1,1 +1,2 @@
 {"name":"bevy_scrolling_2d_camera","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e97b4882562141f6fb33b784c0687c921d56e2551e434040678c3adea8bd02d","features":{},"yanked":false}
+{"name":"bevy_scrolling_2d_camera","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aa79ab022ce7db5768e1b5b9bb117ed132a4cc7c91c95c462deb21cf4cc4962","features":{},"yanked":false}
