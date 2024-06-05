@@ -1,1 +1,2 @@
 {"name":"oxidd-core","vers":"0.6.0","deps":[{"name":"nanorand","req":"^0.7.0","features":["wyrand"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c3da372b0c33c8292ca5a6225c279ed73473eb03d2b277f64c788965aced592a","features":{},"yanked":false}
+{"name":"oxidd-core","vers":"0.7.0","deps":[{"name":"nanorand","req":"^0.7.0","features":["wyrand"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2b6d4e8827cc3b1956ab99f3e23a2ec1879bfc567745b0aa14eacc3a9f715354","features":{},"yanked":false}
