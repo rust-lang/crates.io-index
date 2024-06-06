@@ -5,3 +5,4 @@
 {"name":"iron_learn","vers":"0.3.0","deps":[],"cksum":"86b57145a96f4b288746f0cb3b65bde01481a8396147a35ffb94160a4968b1d7","features":{},"yanked":false}
 {"name":"iron_learn","vers":"0.3.1","deps":[],"cksum":"649f487c8f9bcd2bac0c1b7a6ec6ddd50b2e6a2b62d8cfce2fc4b6c487d44e7c","features":{},"yanked":false}
 {"name":"iron_learn","vers":"0.3.2","deps":[],"cksum":"6bc2efae5bb78845d7f602407d9c10a53e34fd0ad54d75972853e5e2cf5cd572","features":{},"yanked":false}
+{"name":"iron_learn","vers":"0.4.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"404ff7079eb750efd918e590ff55e6ed1c5997850efc907bc059d4e5d8fa5f86","features":{},"yanked":false}
