@@ -13,3 +13,4 @@
 {"name":"rusty_dumb_tools","vers":"0.1.11","deps":[{"name":"unicode-segmentation","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbb166b59366161387c11f69e64b811d08a985914e3ffb46b34b4520faf54c10","features":{},"yanked":false}
 {"name":"rusty_dumb_tools","vers":"0.1.12","deps":[],"cksum":"9415ecfc8554b6022cd5cb2330743eea19aab950428e854e61d2452631f6d350","features":{},"yanked":false}
 {"name":"rusty_dumb_tools","vers":"0.1.13","deps":[],"cksum":"cdf6923168fe5505842d9de549c4fd764cffcf932d547264f4412ef7e647850f","features":{},"yanked":false}
+{"name":"rusty_dumb_tools","vers":"0.1.14","deps":[],"cksum":"6554cdb0e3dd7def2daace4a5129115280c50253883e83ba2d8b583269956fed","features":{},"yanked":false}
