@@ -1,0 +1,1 @@
+{"name":"irox-builder","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive","wrap_help","string","cargo","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e198f156774a54c0ca19e8bdeb32f0f2cf1e6cb05f2a828c4c330402b09951ad","features":{},"yanked":false}
