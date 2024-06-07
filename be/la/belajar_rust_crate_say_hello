@@ -1,0 +1,1 @@
+{"name":"belajar_rust_crate_say_hello","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb3dd68db609947225dd6dd2678ba5dc54c10b57f00a848e840a7603e0b581e7","features":{"all":["greet","jam"],"default":["greet"],"greet":[],"jam":[]},"yanked":false}
