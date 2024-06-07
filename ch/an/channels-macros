@@ -1,0 +1,1 @@
+{"name":"channels-macros","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"df9d9c1bcaa5f4a5a047ad450903aa2a1d283ec654841c520fd814c007f37295","features":{},"yanked":false}
