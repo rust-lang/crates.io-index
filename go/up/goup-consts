@@ -1,5 +1,5 @@
 {"name":"goup-consts","vers":"0.2.3","deps":[],"cksum":"bbe7ff69edd78fca18fb430f8f105da99ef8b14422e92d4d36933d8cc505c3e8","features":{},"yanked":true,"rust_version":"1.70.0"}
-{"name":"goup-consts","vers":"0.2.4","deps":[],"cksum":"7ea09b13bccf88055033a7def2fb52584e4cf023d2f50da2386d3f56f957a7b6","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"goup-consts","vers":"0.2.4","deps":[],"cksum":"7ea09b13bccf88055033a7def2fb52584e4cf023d2f50da2386d3f56f957a7b6","features":{},"yanked":true,"rust_version":"1.70.0"}
 {"name":"goup-consts","vers":"0.2.5","deps":[],"cksum":"3afdc57f4925e1d1807a47bfcbfc81f8dc7f43686c25541c2cca74fbba57dcee","features":{},"yanked":true,"rust_version":"1.70.0"}
 {"name":"goup-consts","vers":"0.2.6","deps":[{"name":"temp-env","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"159cfc3ec061ddd59d1b600c23c86ec139c00957b880cc07adecf578dc73c46f","features":{},"yanked":true,"rust_version":"1.70.0"}
 {"name":"goup-consts","vers":"0.2.7","deps":[{"name":"temp-env","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f352325adc114d982f1560ba4117510198ed74e9be61202c5ab329b76599de9","features":{},"yanked":true,"rust_version":"1.70.0"}
