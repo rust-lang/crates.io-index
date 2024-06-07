@@ -12,3 +12,4 @@
 {"name":"primes","vers":"0.2.3","deps":[],"cksum":"b86865a31cec4ff702cb1e8fe2bc0ca4b31228f85156ebb2cf117c2b96d0c589","features":{},"yanked":false}
 {"name":"primes","vers":"0.2.4","deps":[],"cksum":"9db3ff766be19f62c387049c64fb11dd940020350824915fe323f3a09c34f266","features":{},"yanked":false}
 {"name":"primes","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68a61082d8bceecd71a3870e9162002bb75f7ba9c7aa8b76227e887782fef9c8","features":{},"yanked":false}
+{"name":"primes","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0466ef49edd4a5a4bc9d62804a34e89366810bd8bfc3ed537101e3d099f245c5","features":{},"yanked":false}
