@@ -4,3 +4,4 @@
 {"name":"default-constructor","vers":"0.1.3","deps":[],"cksum":"5462e2c0568ebbe652c48c894e5e760c591fe565cab773202f7043db00f85fd7","features":{},"yanked":false}
 {"name":"default-constructor","vers":"0.2.0","deps":[],"cksum":"f5f05219acb665fea3e7c39b100f9e3442fe2cb036082f98a1f46d6e5b617407","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"default-constructor","vers":"0.2.1","deps":[],"cksum":"3afe88d1e7e9824f44c2b75b582222e064d32c5d6fbb562587af05de782f1df5","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"default-constructor","vers":"0.3.0","deps":[{"name":"default-constructor-macros","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b18614d34f7b0113bc197d084faa462e878bf6b5074a1cfead708ce08d9ef90","features":{"default":["std"],"std":[]},"yanked":false}
