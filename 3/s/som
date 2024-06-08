@@ -1,0 +1,1 @@
+{"name":"som","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7d393c574bea4cae7dc1962c1578ff0392fb12f7df032a34995ed23cde2890c","features":{},"yanked":false}
