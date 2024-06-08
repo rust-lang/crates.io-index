@@ -1,1 +1,2 @@
 {"name":"sparse_set_container","vers":"1.0.0","deps":[],"cksum":"c97b0a71ce60957617778fe7eeb9d39b8e87e1f50b8374c398cd3d853c5acc1a","features":{},"yanked":false}
+{"name":"sparse_set_container","vers":"1.0.1","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16dec3b46baec94180625f1b4b44690a2cb9b81d8517e44540c59b884daf2209","features":{},"yanked":false}
