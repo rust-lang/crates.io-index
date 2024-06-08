@@ -1,0 +1,1 @@
+{"name":"creche","vers":"0.1.0","deps":[{"name":"nix","req":"^0.29","features":["fs","process"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9be90016cd0374d59f31d351cf967da63bc7c72fe6b14d24c917ade4dcde2c2f","features":{},"yanked":false}
