@@ -9,3 +9,4 @@
 {"name":"vu64","vers":"0.1.8","deps":[],"cksum":"1ecf9c401264d39ee674aaa06ec0b9945ce26221bc48ec9464be30d9315598b4","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.56.0"}
 {"name":"vu64","vers":"0.1.9","deps":[],"cksum":"56a2aa84952e58c1478f9f12a473f00fc6d70b78ae3bf551f63bcde710edf8f5","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.58.0"}
 {"name":"vu64","vers":"0.1.10","deps":[],"cksum":"e518bf73fa097e297105364f776e0f67c4ac7a06dee8c3db7dcec6975adf5643","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.58.0"}
+{"name":"vu64","vers":"0.1.11","deps":[],"cksum":"99730d1707658514522f13e96962d7c143592c4ab26ff351366c274051049cea","features":{"default":["io"],"io":[],"vu64_debug":[]},"yanked":false,"rust_version":"1.58.0"}
