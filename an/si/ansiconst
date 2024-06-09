@@ -1,0 +1,1 @@
+{"name":"ansiconst","vers":"0.1.0","deps":[{"name":"bitflags","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1f800940a70406f2b593ce88a330189594a0f764cc38d00f19f144e07509521","features":{"ansi256":[],"rgb":["ansi256"]},"yanked":false,"rust_version":"1.73"}
