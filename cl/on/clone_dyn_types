@@ -1,0 +1,1 @@
+{"name":"clone_dyn_types","vers":"0.18.0","deps":[{"name":"test_tools","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52fcd495e7a9a69b19961f3a8f44950144a9cb7b2b00ca6ac2d4603cec333a18","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":["no_std"]},"yanked":false}
