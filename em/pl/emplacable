@@ -10,3 +10,4 @@
 {"name":"emplacable","vers":"0.1.0-alpha.10","deps":[],"cksum":"e16f3b553dfddbf1ee711ce3cdce0f011b3ce82c876ddd1d2c5ec7639ccde3a9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"emplacable","vers":"0.1.0-alpha.11","deps":[],"cksum":"81b5d89e3c1dcca7d4f7f666c2582621ae89b7b72e15b7a1d80da68d4a5e315e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"emplacable","vers":"0.1.0-alpha.12","deps":[],"cksum":"c27dd6b4c5b95762cb1e15f6bf8a5dfae05efd350f1245293ef5b16873a7f66b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"emplacable","vers":"0.1.0-alpha.13","deps":[],"cksum":"bca27c56914613c7dcab3804ecbe0a33bff721a7c11486301c52b191a6fb9bdc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
