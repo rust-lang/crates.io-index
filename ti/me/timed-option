@@ -1,2 +1,3 @@
 {"name":"timed-option","vers":"0.1.0","deps":[],"cksum":"39c59baf4264a668132d7d32b1c519fea1fc47cf99986fdbfaf66c46cbad2c7b","features":{},"yanked":false}
 {"name":"timed-option","vers":"0.1.1","deps":[],"cksum":"10793273daa2b480563d902433b3d497b175acd9abd9e6a7d9f5568fada4914a","features":{},"yanked":false}
+{"name":"timed-option","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":["now"],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"84e603f88fc0e2170f898e077b5ad8a43d506865fc83b6e58e15e6dcc5a1b44a","features":{"default":[]},"features2":{"chrono":["dep:chrono"],"serde":["dep:serde"]},"yanked":false,"v":2}
