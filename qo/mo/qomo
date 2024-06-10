@@ -1,0 +1,1 @@
+{"name":"qomo","vers":"0.0.0","deps":[{"name":"nalgebra","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a16596740e388cebac8a4a1037b92e19c507fcf0d279c4c50ed3f8efa86f11b9","features":{},"yanked":false}
