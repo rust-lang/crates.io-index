@@ -1,1 +1,2 @@
 {"name":"cargo-green","vers":"0.2.0","deps":[],"cksum":"d04add1464980a76b91738ca9053502308d5536296848b263027daf0992c0383","features":{},"yanked":false}
+{"name":"cargo-green","vers":"0.3.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"which","req":"^6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"741bf0d5dc06db3d0de115b10cabfcf9778d8087e8d4b7f3eb6b14d7e150b96a","features":{},"yanked":false}
