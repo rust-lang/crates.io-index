@@ -1,0 +1,1 @@
+{"name":"roussillon-memory","vers":"0.1.0","deps":[{"name":"roussillon-type-system","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f7c7a7e6e5ce5cf7281f68e93b97cd9030b2655a898fe1f2f861cc4b916de55","features":{"default":["heap","stack"],"heap":[],"stack":[]},"yanked":false}
