@@ -11,3 +11,4 @@
 {"name":"rrtk","vers":"0.3.0-alpha.4","deps":[],"cksum":"17bf86e0d57c7202387325212f828ce7d27528d3cf733ea5e996eb49f76305fb","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.5","deps":[],"cksum":"21c14a5758b2c6cafb3b30144a52249db19a9f20aab5728d790a29035d11b6c0","features":{"default":["std"],"motionprofile":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-beta.1","deps":[],"cksum":"9ceaa361cdcca76295cd918f9534c81943884f469a7c30f501a2d359ebb9fd22","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0","deps":[],"cksum":"4d18cf4bac473604e5c48eae0c966c3edfe31f4d6f450a9aab090fa11c748fec","features":{"default":["std"],"std":[]},"yanked":false}
