@@ -11,3 +11,4 @@
 {"name":"robuild","vers":"0.0.11","deps":[],"cksum":"0654f3d1ff6c9d6576c7938bfdde176f46658535f948e7ed6d5b0f4f30564487","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
 {"name":"robuild","vers":"0.0.12","deps":[],"cksum":"189226520ba50ba9bed1aa781a7df38ff6988bb13a802957f2b24a505eb150ed","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
 {"name":"robuild","vers":"0.0.13","deps":[],"cksum":"ace961f8008fa7626f854a72e5c7f439b9868088950519a9f1a60ffc565fa096","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"robuild","vers":"0.0.14","deps":[],"cksum":"647a4e0dde99add37e5c2f996e59fc5115d5038c1ee2b7d4a9fb64021113da4a","features":{"clang":[],"clangxx":[],"gcc":[],"gxx":[],"mingw32":[]},"yanked":false,"rust_version":"1.56.0"}
