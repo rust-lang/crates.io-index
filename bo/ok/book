@@ -1,0 +1,1 @@
+{"name":"book","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdd8a4890309bc8e091b27ad87beed81a05f69d96913a8cfcbaa217c298b024e","features":{},"yanked":false}
