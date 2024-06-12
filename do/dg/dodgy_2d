@@ -1,1 +1,2 @@
 {"name":"dodgy_2d","vers":"0.4.0","deps":[{"name":"glam","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a68e197baf0bdb702fa1b83785aeb774e403acab68e0aa73d231a1a26f4dacf1","features":{},"yanked":false}
+{"name":"dodgy_2d","vers":"0.5.0","deps":[{"name":"glam","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91d7956e273d706b810f583b84888725219f80a7ad910e8784abda80d7d9e842","features":{},"yanked":false}
