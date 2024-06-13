@@ -1,0 +1,1 @@
+{"name":"app-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.7","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1addded1ae605902260589b836e8c681adab0e69e9662f4b8eb64d47c3a49bf9","features":{},"yanked":false}
