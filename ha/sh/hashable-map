@@ -1,1 +1,2 @@
 {"name":"hashable-map","vers":"0.1.0","deps":[],"cksum":"184a6efc5ead10aeaea1119b8985b394b95c45e0b458c2042fcfa98fe002e9ff","features":{},"yanked":false}
+{"name":"hashable-map","vers":"0.2.0","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39c17ea8ff69ed27f1749a1d2afda6dce7b65daca1d06b71d81a7a0f547e7fab","features":{},"yanked":false}
