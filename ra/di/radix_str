@@ -1,1 +1,2 @@
 {"name":"radix_str","vers":"0.1.1","deps":[{"name":"radix_fmt","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de8969f5647ec386b308b01577ee8f2f920346553bbda51efcef8e9bf944508c","features":{},"yanked":false}
+{"name":"radix_str","vers":"0.1.2","deps":[{"name":"radix_fmt","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53cbf8ebb64119cd0ef3e95244fb4d42a1968cc882b4c180a261b09b674c583e","features":{},"yanked":false}
