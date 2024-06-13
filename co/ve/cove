@@ -4,3 +4,4 @@
 {"name":"cove","vers":"0.4.0","deps":[],"cksum":"8142d87ea937cd046011e7192fd9c9285fd8554102a6007cedd9a36c077bd42f","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"cove","vers":"0.5.0","deps":[],"cksum":"39289b00eb9719d897944b5ada4ab227738cb0e700794bd82f3d6926f818899d","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"cove","vers":"0.6.0","deps":[],"cksum":"84825a15a8364e3ade2de245a079f847e12d7d21babb9fdde7bf3d35e230a2db","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"cove","vers":"0.7.0","deps":[],"cksum":"7dfe284f5e9b50db720a3f27cac503424539efabb1b7f2be8276c603a0848ac5","features":{"default":["std"],"std":[]},"yanked":false}
