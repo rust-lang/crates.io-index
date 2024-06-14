@@ -32,3 +32,4 @@
 {"name":"bitstream-io","vers":"2.1.0","deps":[],"cksum":"97493a2557e2d5d3c58676a9bde387fc8431973d703c07165c43501258398e3e","features":{},"yanked":false}
 {"name":"bitstream-io","vers":"2.2.0","deps":[],"cksum":"06c9989a51171e2e81038ab168b6ae22886fe9ded214430dbb4f41c28cf176da","features":{},"yanked":false}
 {"name":"bitstream-io","vers":"2.3.0","deps":[{"name":"core2","req":"^0.4","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c12d1856e42f0d817a835fe55853957c85c8c8a470114029143d3f12671446e","features":{"alloc":["core2"],"default":["std"],"std":[]},"yanked":false}
+{"name":"bitstream-io","vers":"2.4.0","deps":[{"name":"core2","req":"^0.4","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1bdba4ac537b9346c50122b6e9f9b0d2bd721e04c6032e1d15f53ce0747b054c","features":{"alloc":["core2"],"default":["std"],"std":[]},"yanked":false}
