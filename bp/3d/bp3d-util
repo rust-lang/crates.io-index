@@ -1,0 +1,1 @@
+{"name":"bp3d-util","vers":"1.0.0-rc.1.0.0","deps":[{"name":"bytesutil","req":"^0.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3df8a4a0ff4458b92d9c751f637168f59b3cfdaf276d8feac5342f51a035f633","features":{"env":[],"format":[],"path":[],"result":[],"simple-error":[],"tzif":["bytesutil"]},"yanked":false}
