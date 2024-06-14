@@ -1,0 +1,1 @@
+{"name":"io-tether","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca8c7d526ee537a9b95ea88860dac57c2de0cea40fcb450e0873e3a6a6745084","features":{"default":["tcp"],"tcp":["tokio/net"]},"yanked":false}
