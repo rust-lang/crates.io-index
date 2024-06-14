@@ -1,1 +1,2 @@
 {"name":"cli-justify","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17279f3010fea13596b84083ab2a4f007b6c25bc0704cd04cef692833d3325a7","features":{},"yanked":false}
+{"name":"cli-justify","vers":"0.1.1","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44681e47e307452d39ae05779883ab83734e1e3f6befe14e00a2fda5d5c7eeae","features":{},"yanked":false}
