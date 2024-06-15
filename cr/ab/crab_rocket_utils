@@ -1,0 +1,1 @@
+{"name":"crab_rocket_utils","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84ccbf6fc141dfb9a2a8471200af39a44ba3346dc17b5431ba2f711457e09cbb","features":{},"yanked":false}
