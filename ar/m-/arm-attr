@@ -1,1 +1,2 @@
 {"name":"arm-attr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa8282236828250b50085a8cc6f13bc23d68539019b7b99972e168b1ec2e29b8","features":{},"yanked":false}
+{"name":"arm-attr","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d0cabd3a7d2dfa96ab3faa7b532a83c5e090061bf6d83197ca2bc91f5afac6c","features":{},"yanked":false}
