@@ -1,1 +1,2 @@
 {"name":"xrt","vers":"0.1.0","deps":[],"cksum":"279687034f2a11b6197e3beadf3035452bf3e85ab2b52f6e4538eed36a684f03","features":{},"yanked":false}
+{"name":"xrt","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fb68f1e101b3e5b5db7c4154587b3b9531a0b181e51351dc8556d44c1a5862ca","features":{},"yanked":false}
