@@ -20,3 +20,4 @@
 {"name":"yuvutils-rs","vers":"0.2.5","deps":[],"cksum":"4514053f11dc1838ca3356286dee31cb119dbc11ef1b1e17a93ccac3692f38e1","features":{"default":[],"nightly_avx512":[]},"yanked":false}
 {"name":"yuvutils-rs","vers":"0.2.6","deps":[],"cksum":"612b4a6baf384f7536cc49d357b5f431a68df0badf2848b32686771662a33c3f","features":{"default":[],"nightly_avx512":[]},"yanked":false}
 {"name":"yuvutils-rs","vers":"0.2.7","deps":[],"cksum":"c2f1b553efe1c2ee6965d3e0272e7a9fbcf36159b2190867d96755b334426a7d","features":{"default":[],"nightly_avx512":[]},"yanked":false}
+{"name":"yuvutils-rs","vers":"0.3.0","deps":[],"cksum":"30b579307cc265a693bc908bf2dbde8578ba7e7fe1a7dcc71dbd6b84e063f356","features":{"default":[],"nightly_avx512":[]},"yanked":false}
