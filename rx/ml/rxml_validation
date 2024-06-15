@@ -9,3 +9,4 @@
 {"name":"rxml_validation","vers":"0.9.0","deps":[],"cksum":"c31aacd4b60bb4c149cfd8b77649e2c728bc36cb231d656a4d47b3cb780445eb","features":{},"yanked":false}
 {"name":"rxml_validation","vers":"0.9.1","deps":[],"cksum":"22a197350ece202f19a166d1ad6d9d6de145e1d2a8ef47db299abe164dbd7530","features":{},"yanked":false}
 {"name":"rxml_validation","vers":"0.10.0","deps":[],"cksum":"1562ddff46efab0822a2407768eed232345a32de8cfe3534d034c90737bdbd4f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rxml_validation","vers":"0.11.0","deps":[{"name":"compact_str","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"826e80413b9a35e9d33217b3dcac04cf95f6559d15944b93887a08be5496c4a4","features":{"default":["std"],"std":["compact_str"]},"yanked":false}
