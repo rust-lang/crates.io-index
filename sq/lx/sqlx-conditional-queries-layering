@@ -3,3 +3,4 @@
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.2","deps":[],"cksum":"3f0b283da1257f4f50c8c1f2afb93edae930e9e8e33c57fd57c262a5c0e957a0","features":{},"yanked":false}
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.3","deps":[],"cksum":"082ab32aa9479a39cf48b2d7155c06ccb07e99d62682edd9bbad0c502e399239","features":{},"yanked":false}
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.4","deps":[],"cksum":"9119e0c3f2a12e4b80cd8c4e41c0ea9c84663b7254830722d3e17dbb0e8a7678","features":{},"yanked":false}
+{"name":"sqlx-conditional-queries-layering","vers":"0.1.5","deps":[{"name":"with_builtin_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55b4a1b0f55a7c8b12080d0f978fd9cfc815c23ecf86fa0dbfd68bbcc6042ee0","features":{},"yanked":false}
