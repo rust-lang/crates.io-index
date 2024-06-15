@@ -1,3 +1,4 @@
 {"name":"waker-waiter","vers":"0.1.0","deps":[],"cksum":"c932c8f6bdcaa5c3cc7602085606f0bcbb701f3c23f53ec67bc2c03572ae9037","features":{},"yanked":false}
 {"name":"waker-waiter","vers":"0.2.0","deps":[],"cksum":"9afd66781684fc5b155668d55993102e96f18ff26ef9cd7d61d0e0cb34aee253","features":{},"yanked":false}
 {"name":"waker-waiter","vers":"0.2.1","deps":[],"cksum":"1d4fab49a5952f72b24541814f3867af8c20d8bf5e664a90bfcbb80686f6478a","features":{},"yanked":false}
+{"name":"waker-waiter","vers":"0.3.0","deps":[{"name":"env_logger","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c0e5648eb32a8b7b2e24ec93729ccbecdb7b9ff498f24ecbd30a096e439469a7","features":{},"yanked":false}
