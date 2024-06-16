@@ -4,3 +4,4 @@
 {"name":"sbi","vers":"0.1.2","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7f6b1e6e22a53ce5c5bc84041bd41c8e86646c60187417ca62e67687f4c66cf","features":{},"yanked":false}
 {"name":"sbi","vers":"0.1.3","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e120c8922d521cc54ff15b04081546fa1d5afef4ea4fb2c98b48f6ba121d5e9","features":{},"yanked":false}
 {"name":"sbi","vers":"0.2.0","deps":[],"cksum":"29cb0870400aca7e4487e8ec1e93f9d4288da763cb1da2cedc5102e62b6522ad","features":{},"yanked":false}
+{"name":"sbi","vers":"0.3.0-rc1","deps":[],"cksum":"ca9ce74152e5bf2b38b074d156d3c94b869ca7f19020b479729353b6d9b1d055","features":{},"yanked":false}
