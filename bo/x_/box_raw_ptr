@@ -16,3 +16,4 @@
 {"name":"box_raw_ptr","vers":"0.4.1","deps":[],"cksum":"d36a2a3556fd83b987157e51e8831098fe3e153ddfcbc125ca6b6900dbf4a77f","features":{},"yanked":false}
 {"name":"box_raw_ptr","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0.99","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"59c2bc3f49e3b5f4afbe60381c2023070994c149d3ee3f88ecdc501ba0f6bd14","features":{},"yanked":false}
 {"name":"box_raw_ptr","vers":"0.5.1","deps":[{"name":"cc","req":"^1.0.99","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b8c97e65dc2e9b8d82c326f8b4ce90bbb11ef4dba75e6760c063d29882adf007","features":{},"yanked":false}
+{"name":"box_raw_ptr","vers":"0.5.2","deps":[{"name":"cc","req":"^1.0.99","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7aa06e0495be100f574602b52de6c8e7ac030d1b3ee06a0a6295484ad1140fc1","features":{},"yanked":false}
