@@ -1,1 +1,2 @@
 {"name":"nullable-utils","vers":"0.1.0","deps":[{"name":"nullable-utils-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e21d9919ee1d43729cfc8729c1d7fa0a7c7e4dc2dbae003bfe4eb608fcae0da9","features":{},"yanked":false}
+{"name":"nullable-utils","vers":"0.1.1","deps":[{"name":"nullable-utils-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bda10d4246d5310fd12e1752b30c97a081e6a3483a23f7ace090a33a9970b101","features":{},"yanked":false}
