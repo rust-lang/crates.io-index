@@ -1,1 +1,2 @@
 {"name":"feanor-mempool","vers":"1.0.0","deps":[{"name":"slice-dst","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fffdb1c8c3b89820f51a3f0c667f1e966ea6a5d861fc6132b329b86e6fca75f","features":{"log_memory":[]},"yanked":false}
+{"name":"feanor-mempool","vers":"2.0.0","deps":[{"name":"slice-dst","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eee5e2c2c791a2b24be1d38c6fb3fceeee4e8f9111bca46057f0c20c8866aaf1","features":{"log_memory":[]},"yanked":false}
