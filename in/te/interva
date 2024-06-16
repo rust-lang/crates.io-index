@@ -1,1 +1,2 @@
 {"name":"interva","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.203","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b0bfba412b7b09f374740ffd3bc36007c4cc3d16bcbca69d0f2e56fd053cc13","features":{"default":["serde"]},"yanked":false}
+{"name":"interva","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.203","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88170a729e9dd436a1bc6c9ef603335a55b6175afae0bb4c4601987c817f65b6","features":{},"yanked":false}
