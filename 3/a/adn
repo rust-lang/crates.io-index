@@ -1,1 +1,1 @@
-{"name":"adn","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.7","features":["derive","string"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2560733e680a0f46bee3866ccfc71c5c15090267fd34be8d8a12701d641b7ecc","features":{},"yanked":true}
+{"name":"adn","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.7","features":["derive","string"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2560733e680a0f46bee3866ccfc71c5c15090267fd34be8d8a12701d641b7ecc","features":{},"yanked":false}
