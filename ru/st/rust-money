@@ -1,1 +1,2 @@
 {"name":"rust-money","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f23d5aa3c1a56812bb93fb2d77f0f7ba9f230c441b0c06f72e6f9e70f4f91a3","features":{},"yanked":false}
+{"name":"rust-money","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c22cd39663e2e7b4588da2a02be1269b8feec5c2f86a65446ff4e307fe2874f8","features":{},"yanked":false}
