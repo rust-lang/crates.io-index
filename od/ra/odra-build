@@ -3,3 +3,4 @@
 {"name":"odra-build","vers":"0.9.1","deps":[],"cksum":"f40bbcd5d07da957bb98d490d17b9c2da1db179b07b312c63855a1680f6c124c","features":{},"yanked":false}
 {"name":"odra-build","vers":"1.0.0-rc.1","deps":[],"cksum":"a1ad77ff8ce832c1a68ee81e9f20b7e857da83b6002a008ebd55eb8ed081ff97","features":{},"yanked":false}
 {"name":"odra-build","vers":"1.0.0","deps":[],"cksum":"7cc26984014f5e957087ae07b66e7af14a01fd778852f7e0fbfa0ff6c7e38284","features":{},"yanked":false}
+{"name":"odra-build","vers":"1.1.0","deps":[{"name":"serde","req":"^1.0.195","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.113","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d2a4acf5cf236f42e1a7ef5a6a6569f4c5cb3515948eeb0e1fbc0cfb805f3d80","features":{},"yanked":false}
