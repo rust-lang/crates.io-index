@@ -5,3 +5,4 @@
 {"name":"cahya-test","vers":"0.1.4","deps":[],"cksum":"f1ecf217cb05013e0b379a6ee2247cb38267ad3f8b5ca0ba5c8296c395fe51fc","features":{},"yanked":false}
 {"name":"cahya-test","vers":"0.1.5","deps":[],"cksum":"9512d1262cbd61afbe7a8d93c2219a576ed1116cd977f967e45b908efaa2f188","features":{},"yanked":false}
 {"name":"cahya-test","vers":"0.1.6","deps":[],"cksum":"149b4554ecac984611aa4137fb138481d01358253ad68460114beb235577d0b2","features":{},"yanked":false}
+{"name":"cahya-test","vers":"0.1.7","deps":[{"name":"log","req":"^0.4.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"212095d699aff91172a911f8e5a42c2095dd0b51e4bef28c8bd598b93219ba60","features":{},"yanked":false}
