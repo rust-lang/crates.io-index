@@ -5,3 +5,4 @@
 {"name":"cfg-iif","vers":"0.2.4","deps":[],"cksum":"17370da389f9518998671906b2400c04a8e4f699578d2963b2ec974b563f7389","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"cfg-iif","vers":"0.2.5","deps":[],"cksum":"e8ac10a020177289bd4d59cf56eb6458b86436fa9b6cfe4fae4f75ad72825f4d","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"cfg-iif","vers":"0.2.6","deps":[],"cksum":"068494611101e5750de5d753e8cda5e92ef34eb285c4d194e7f1dd6e88830f2d","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"cfg-iif","vers":"0.2.7","deps":[],"cksum":"255dfdb83a1981beccf87f59985047a3dce3c33e7de298e20d57b4004068a7e5","features":{"has_abc":[]},"yanked":false,"rust_version":"1.56.0"}
