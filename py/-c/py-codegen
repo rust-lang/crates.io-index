@@ -1,1 +1,2 @@
 {"name":"py-codegen","vers":"0.0.1","deps":[{"name":"py-ir","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef071067c976568a2e9f72cd1433059a8d6ed1c657f2e189edf98d0b6de2b66","features":{},"yanked":false}
+{"name":"py-codegen","vers":"0.0.2","deps":[{"name":"py-ir","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8157b17476b27f4c9c0a4f126512a1768f16102e526185cedde12fc67040fb25","features":{},"yanked":false}
