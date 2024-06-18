@@ -1,0 +1,1 @@
+{"name":"typed-i18n","vers":"0.6.0","deps":[{"name":"typed-i18n-derive","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d93b426c8f1aef9a2dc4c0cd49fc01f20caff67005bc6548ac54533828c3289","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64.0"}
