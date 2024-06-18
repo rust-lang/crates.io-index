@@ -1,1 +1,2 @@
 {"name":"ehttpd-querystring","vers":"0.1.0","deps":[{"name":"ehttpd","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"44232d42b46deb0d2d636b99bc4e3b5fc9236894f0cc670917445f5645dc9fbc","features":{"default":[]},"yanked":false}
+{"name":"ehttpd-querystring","vers":"0.1.1","deps":[{"name":"ehttpd","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c23359ef9b8773cdf9d37cd2738e36dffb9d1ac5c3153c4dda5d04722f962db2","features":{"default":[]},"yanked":false}
