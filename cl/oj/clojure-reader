@@ -1,0 +1,1 @@
+{"name":"clojure-reader","vers":"0.1.0","deps":[{"name":"ordered-float","req":"^4.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4fe72db90a90a91de4a9fbd79542538caa0445ebdebcd3112589cab4c1e0e10b","features":{"default":["floats","std"],"floats":["ordered-float"],"std":[]},"yanked":false}
