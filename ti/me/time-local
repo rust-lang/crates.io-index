@@ -1,0 +1,1 @@
+{"name":"time-local","vers":"0.3.0","deps":[{"name":"time","req":"^0.3.18","features":["local-offset"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe438224e818a74b68881eb0be9e8f1d17a1a682324233312143cbeed5f8cd84","features":{},"yanked":false}
