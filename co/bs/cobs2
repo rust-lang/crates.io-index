@@ -1,0 +1,1 @@
+{"name":"cobs2","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4de8d526e5091b587f562a1e3a46fb99d4f5fa0ba3f53fb2ff1ae1a9cfcf77f4","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
