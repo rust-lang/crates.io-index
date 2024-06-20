@@ -1,3 +1,4 @@
 {"name":"cov-mark","vers":"1.0.0","deps":[],"cksum":"e6f90a0281a7ce78cfa25b49eb53d362da5a023aced41244589c895a7f9f0e3e","features":{},"yanked":false}
 {"name":"cov-mark","vers":"1.1.0","deps":[],"cksum":"9ffa3d3e0138386cd4361f63537765cac7ee40698028844635a54495a92f67f3","features":{"thread-local":[]},"yanked":false}
 {"name":"cov-mark","vers":"2.0.0-pre.1","deps":[],"cksum":"0d48d8f76bd9331f19fe2aaf3821a9f9fb32c3963e1e3d6ce82a8c09cef7444a","features":{"default":["enable"],"enable":[]},"yanked":false}
+{"name":"cov-mark","vers":"2.0.0","deps":[],"cksum":"0570650661aa447e7335f1d5e4f499d8e58796e617bedc9267d971e51c8b49d4","features":{"default":["enable"],"enable":[]},"yanked":false,"rust_version":"1.63"}
