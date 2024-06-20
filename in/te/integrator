@@ -5,3 +5,4 @@
 {"name":"integrator","vers":"0.1.22","deps":[],"cksum":"4dccbfea23eb45ddb020407653b93de0ccb8aaa917187be190dd66116653abd6","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
 {"name":"integrator","vers":"0.1.23","deps":[],"cksum":"96282630784ef48a012f3e025d1e9fb0c81fb21963a17575d5988a7ce853feeb","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
 {"name":"integrator","vers":"0.1.24","deps":[],"cksum":"c59ef9b2bed8a22f71c92890fc0b728bd4ec035d3ad6c6bc2b6ccab87a781de0","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
+{"name":"integrator","vers":"0.1.25","deps":[],"cksum":"cfb102ae7252e9b5878c1cdd5174a14fa170bf91c1cb5ea5ab5031794b6be8e5","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
