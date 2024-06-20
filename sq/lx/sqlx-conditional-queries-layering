@@ -7,3 +7,4 @@
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.6","deps":[{"name":"with_builtin_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c7ba2dc067e362993a88316515da9c848170c779c3431211ab57cecd4fb37a5","features":{},"yanked":false}
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.7","deps":[{"name":"with_builtin_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80dc919c2a7e69a7b3a7f109a88a1dc9fca23e4dca8dae17ff66d83d2c73c2f9","features":{},"yanked":false}
 {"name":"sqlx-conditional-queries-layering","vers":"0.1.8","deps":[],"cksum":"18aa820fe79745e5eaf20e62fede262c3976687b86226a765d46542c8d5ea903","features":{},"yanked":false}
+{"name":"sqlx-conditional-queries-layering","vers":"0.1.9","deps":[],"cksum":"26d165b7b4ee2dba647b82fe814907e419af43fec09df112ff46f1f5766d5234","features":{},"yanked":false}
