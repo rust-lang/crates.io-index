@@ -6,3 +6,4 @@
 {"name":"interchange","vers":"0.2.1","deps":[],"cksum":"65d9ab155e6b8e53ae742a06a850b2645e333d40d89ef2e28f190763742d768c","features":{},"yanked":false}
 {"name":"interchange","vers":"0.2.2","deps":[],"cksum":"310d743c23f798f10d5ba2f77fdd3eff06aaf2d8f8b9d78beba7fb1167f4ccbf","features":{},"yanked":false}
 {"name":"interchange","vers":"0.3.0","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"92cfaa4be499da454ab279e04dee4837e71b3803eced4bd2b4cdec4bb3377b4f","features":{},"yanked":false}
+{"name":"interchange","vers":"0.3.1","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"88dbb1ed0e8ee048061aa628677fd30712e76635fa51b3987693a93fa3dc23b2","features":{},"yanked":false}
