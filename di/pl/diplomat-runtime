@@ -9,3 +9,4 @@
 {"name":"diplomat-runtime","vers":"0.6.0","deps":[],"cksum":"d0c0116d8e7fea6b2554fdb90289782b1e4e5e35d259525e4882a48ce09cbe7a","features":{},"yanked":false}
 {"name":"diplomat-runtime","vers":"0.7.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7b0f23d549a46540e26e5490cd44c64ced0d762959f1ffdec6ab0399634cf3c","features":{},"yanked":false}
 {"name":"diplomat-runtime","vers":"0.8.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5124bed7f5a5bc993adc24b2ef2df45514f005c31c198e62fceb1b2fe8cdf9a9","features":{},"yanked":false}
+{"name":"diplomat-runtime","vers":"0.8.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70d66a5fdb3489033de203ae0f91be39235e651b79ac0b8ad60ad84b37bcc104","features":{},"yanked":false}
