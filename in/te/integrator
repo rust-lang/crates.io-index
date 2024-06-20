@@ -3,3 +3,4 @@
 {"name":"integrator","vers":"0.1.2","deps":[],"cksum":"07120014fd918a798b8e3b443bec45130b22482ec0790eb305b87709f5b48ea1","features":{},"yanked":false}
 {"name":"integrator","vers":"0.1.21","deps":[],"cksum":"74e11ac265828f5a8c850acf0fd3843d0afc8237770bd6b6788992699a3cd7e5","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
 {"name":"integrator","vers":"0.1.22","deps":[],"cksum":"4dccbfea23eb45ddb020407653b93de0ccb8aaa917187be190dd66116653abd6","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
+{"name":"integrator","vers":"0.1.23","deps":[],"cksum":"96282630784ef48a012f3e025d1e9fb0c81fb21963a17575d5988a7ce853feeb","features":{"default":["high_precision"],"high_precision":[],"low_precision":[]},"yanked":false}
