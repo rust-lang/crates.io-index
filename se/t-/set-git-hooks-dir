@@ -1,0 +1,1 @@
+{"name":"set-git-hooks-dir","vers":"0.0.0","deps":[{"name":"tempfile","req":"^3.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4eed7d4cd73a05323b036d56c76420b6b5add3e0e0a1907357a24d7d8b08f53","features":{"default":["setup-on-build"],"setup-on-build":[]},"yanked":false}
