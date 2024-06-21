@@ -1,0 +1,1 @@
+{"name":"digit-layout","vers":"0.0.0","deps":[{"name":"half_","req":"^2.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"half"}],"cksum":"44759675b5a17c396897988ccd1a5fdd6186f4fd8c06b503944b08140dc11602","features":{"default":["half"],"half":["half_"]},"yanked":false}
