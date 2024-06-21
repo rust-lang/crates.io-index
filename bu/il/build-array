@@ -1,0 +1,1 @@
+{"name":"build-array","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e89a3c977c865a1cdee82debb72e4c2568876e69382c1f00b85bfa3a61849852","features":{"default":["std"],"std":[]},"yanked":false}
