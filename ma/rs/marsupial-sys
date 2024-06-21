@@ -1,0 +1,1 @@
+{"name":"marsupial-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2956e484400d5a37ae393d6345da3829285770e8c1a5015ce4e6cd6ea002447d","features":{},"yanked":false}
