@@ -3,3 +3,4 @@
 {"name":"sleepview","vers":"0.1.2","deps":[],"cksum":"cc5488f89be5906091147f215aae66642532e9f0fc0ef1a2fa65274893058487","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"sleepview","vers":"0.1.3","deps":[],"cksum":"1a580eb06980c5a3d2ccd7b2d3bbce387bbda531569c3837cb3a2c98a24a5b61","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"sleepview","vers":"1.0.0","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20607047689ff0f01b7afcf125b4e237b5b3ce9ebbca1d3f6eed3054b99af9fc","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"sleepview","vers":"1.0.1","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5ae684474c84085494cd5257deca2fcc2210f0227d942caaadc6d4b949040ad","features":{},"yanked":false,"rust_version":"1.78.0"}
