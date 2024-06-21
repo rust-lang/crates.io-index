@@ -1,1 +1,2 @@
 {"name":"be_eloistree_hellocrate","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c82d017b90274cf2d18d9716e8de1ac894c3ebeb1c167ca3f4f4a4f4d057f859","features":{},"yanked":false}
+{"name":"be_eloistree_hellocrate","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec1fe8118cd03d4f6fbbda6dbb3aab6a98bfde499ed288378b6f90fa0abca992","features":{},"yanked":false}
