@@ -8,3 +8,4 @@
 {"name":"rcu_128","vers":"0.1.7","deps":[],"cksum":"ce4c9a326a3f40cc9b56df1978bfed672add4b2a1688b89f99b2846087293719","features":{},"yanked":false}
 {"name":"rcu_128","vers":"0.1.8","deps":[],"cksum":"cb01b6e6997d2960ab9f58497faeabaeb77c8ba79f67d5bda52ea79eb064f30a","features":{},"yanked":false}
 {"name":"rcu_128","vers":"0.1.9","deps":[],"cksum":"06d03ef2231127277ab1bcb7eb7f63642fd0a78fd92e8b5e2b8ccc386097def3","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d37f5c89dd60f5535830c7f0d8b706e991959fa4356d09c99e35fe9e2d989e9","features":{},"yanked":false}
