@@ -17,3 +17,4 @@
 {"name":"opentelemetry-semantic-conventions","vers":"0.25.0","deps":[],"cksum":"9b8e442487022a943e2315740e443dc5ee95fd541c18f509a5a6251b408a9f95","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"opentelemetry-semantic-conventions","vers":"0.26.0","deps":[],"cksum":"db945c1eaea8ac6a9677185357480d215bb6999faa9f691d0c4d4d641eab7a09","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.65"}
 {"name":"opentelemetry-semantic-conventions","vers":"0.27.0","deps":[],"cksum":"bc1b6902ff63b32ef6c489e8048c5e253e2e4a803ea3ea7e783914536eb15c52","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"opentelemetry-semantic-conventions","vers":"0.28.0","deps":[],"cksum":"2fb3a2f78c2d55362cd6c313b8abedfbc0142ab3c2676822068fd2ab7d51f9b7","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.75.0"}
