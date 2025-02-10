@@ -7,3 +7,4 @@
 {"name":"shm_ring","vers":"0.3.1","deps":[],"cksum":"c738d28ba4b34902d291b048bbedf00e16b132dc710fc03baeeb80dc1caf1205","features":{"avx2":[]},"yanked":false}
 {"name":"shm_ring","vers":"0.3.2","deps":[],"cksum":"c3a698d9843eb2ac9bb6b96f0b12206406c570cfc4e253943e60c7bf3b9fd3cc","features":{"avx2":[]},"yanked":false}
 {"name":"shm_ring","vers":"0.3.3","deps":[],"cksum":"73ce3e867c04df209ffda96a1af78ffedf5df5a7333e77f9a118420ea77e51a2","features":{"avx2":[]},"yanked":false}
+{"name":"shm_ring","vers":"0.3.4","deps":[],"cksum":"e6491f64352196b96d7a4dfa50468bff4234f21824fd71b22cddcfea95c449b4","features":{"avx2":[]},"yanked":false}
