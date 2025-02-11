@@ -1,0 +1,1 @@
+{"name":"server-manager","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e37de63071c305348b00907f5b2210e1121f4e4049f84e77932246fb1a0a8503","features":{},"yanked":false}
