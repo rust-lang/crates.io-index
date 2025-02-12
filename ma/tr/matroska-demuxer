@@ -4,3 +4,4 @@
 {"name":"matroska-demuxer","vers":"0.3.0","deps":[{"name":"once_cell","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16ce40fe0ac9df8f9c9a79faa3dafe86e8b7214973b53445d67a63dbcbcc3f21","features":{},"yanked":false}
 {"name":"matroska-demuxer","vers":"0.4.0","deps":[{"name":"once_cell","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c235543f6a5590232d984559f6f2c53f1fde7e97d7577878847d6b62a6af5dad","features":{},"yanked":false}
 {"name":"matroska-demuxer","vers":"0.5.0","deps":[],"cksum":"329a4d8d9b4366dd12dcc99c8916f08a011a7a48aab40b5dcaead6174c8e7a90","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"matroska-demuxer","vers":"0.6.0","deps":[],"cksum":"4d62ca6ff378b07542b477763bea55c3540733fc2db537a0caa45cd5ea2c59f6","features":{},"yanked":false,"rust_version":"1.70"}
