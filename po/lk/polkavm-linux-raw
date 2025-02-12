@@ -18,3 +18,4 @@
 {"name":"polkavm-linux-raw","vers":"0.18.0","deps":[],"cksum":"23eff02c070c70f31878a3d915e88a914ecf3e153741e2fb572dde28cce20fde","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"polkavm-linux-raw","vers":"0.19.0","deps":[],"cksum":"136ae072ab6fa38e584a06d12b1b216cff19f54d5cd202a8f8c5ec2e92e7e4bb","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"polkavm-linux-raw","vers":"0.20.0","deps":[],"cksum":"be71d93774fef36046d3707e84081e9e5dc65e046d7ea34f2d422b149ac0a9c8","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.75.0"}
+{"name":"polkavm-linux-raw","vers":"0.21.0","deps":[],"cksum":"be6cd1d48c5e7814d287a3e12a339386a5dfa2f3ac72f932335f4cf56467f1b3","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.75.0"}
