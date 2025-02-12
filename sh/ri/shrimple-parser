@@ -2,3 +2,4 @@
 {"name":"shrimple-parser","vers":"0.0.2","deps":[],"cksum":"dd002c1eeb3b7976bf53bd89fe6df1de599925b787c308722d466a845214fb3e","features":{"nightly":[]},"yanked":false}
 {"name":"shrimple-parser","vers":"0.0.3","deps":[],"cksum":"275865985d2ed1e290f9aad3064beec61e26172b76b047642ab905de02058b6e","features":{"nightly":[]},"yanked":false}
 {"name":"shrimple-parser","vers":"0.0.4","deps":[],"cksum":"a75da96151f7c1c2cd45c914e28b71eef652317f1fcb5495b8b5fbf36bb2a1ec","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false}
+{"name":"shrimple-parser","vers":"0.0.5","deps":[],"cksum":"1758c3cbd873bfeb33a3b64eaa8cf3206e88c52fae80540f9647e2a7fa106615","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false}
