@@ -1,1 +1,2 @@
 {"name":"wgpu_dyn_buffer","vers":"1.0.0","deps":[{"name":"wgpu","req":"^22.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74e1115ecf4fd97cc5d5b983ee31bcf5e26a16bfdb7aecab5f9dfee4da23e2c3","features":{},"yanked":false}
+{"name":"wgpu_dyn_buffer","vers":"2.0.0","deps":[{"name":"wgpu","req":"^24.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4c1c9e94b023d276cd29e0e42b8d0494c599540ecf14e3164f616cd258b84bb","features":{},"yanked":false}
