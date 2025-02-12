@@ -1,0 +1,1 @@
+{"name":"vdf-serde-format","vers":"1.0.8","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a0cf980c5c30ae7a8c542efc4e1dc419b6c2730c594b85ac22302a92796fa01","features":{},"yanked":false,"rust_version":"1.81.0"}
