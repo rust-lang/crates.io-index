@@ -9,7 +9,7 @@
 {"name":"bzipper","vers":"0.4.3","deps":[],"cksum":"6e30474c8e186426a20be5b91418922ef00f1e0cf2c938d87a92af560ee06890","features":{},"yanked":true}
 {"name":"bzipper","vers":"0.4.5","deps":[],"cksum":"40c51024c176bf6b07519a17cfe17b391892fa03f36fbcfb5197087054f70a03","features":{},"yanked":true}
 {"name":"bzipper","vers":"0.4.6","deps":[],"cksum":"1124ff5521988eea2e084283f22c56f35199af46ece2c13d3d126e0bdb6aea04","features":{},"yanked":true}
-{"name":"bzipper","vers":"0.4.7","deps":[],"cksum":"38e256ac1bd1244948ce7866d90b07d7b9989f7ecf982e320e85e55d4dc37901","features":{},"yanked":false}
+{"name":"bzipper","vers":"0.4.7","deps":[],"cksum":"38e256ac1bd1244948ce7866d90b07d7b9989f7ecf982e320e85e55d4dc37901","features":{},"yanked":true}
 {"name":"bzipper","vers":"0.5.2","deps":[{"name":"bzipper_macros","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dccb59220eb6ab4a30974c2189c8be12e3521a6d1edc04f2666780ee5c0efdf6","features":{"alloc":[],"std":[]},"yanked":false,"rust_version":"1.81"}
 {"name":"bzipper","vers":"0.6.0","deps":[{"name":"bzipper_macros","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b536eefc9397a1627944dcfe38db2be3de2d186e64a02090f6332e4196b2f87","features":{"alloc":[],"std":[]},"yanked":false,"rust_version":"1.81"}
 {"name":"bzipper","vers":"0.6.1","deps":[{"name":"bzipper_macros","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45bedb51382313136778f7cbb885e1e31be74251965e7fe579739e5680b652be","features":{"alloc":[],"std":[]},"yanked":true,"rust_version":"1.81"}
