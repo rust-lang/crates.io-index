@@ -5,3 +5,4 @@
 {"name":"anpa","vers":"0.5.0","deps":[],"cksum":"1f7dfd1f7d454c9e1e4f3594547f194165a621f795bdb5512d6e0339f329040c","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"anpa","vers":"0.6.0","deps":[],"cksum":"95c74561f3ef0e0c7456472255b13f8e527292d27a65014800e74622635bcb1c","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
 {"name":"anpa","vers":"0.7.0","deps":[],"cksum":"3674c30f9abe40803a0755a8ea2c42cd0a4b8dc0c4b0253f8d3dfd2e3cdc6c81","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"anpa","vers":"0.8.0","deps":[],"cksum":"09cc10868d7021cf487c57acf6ce7fa6bbf740506629d19ebe02a840231ab7e6","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
