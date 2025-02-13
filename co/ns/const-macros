@@ -1,1 +1,2 @@
 {"name":"const-macros","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"30adcbcb62448b05f2be2e4766f867576a029b558900a434aca8d57dbeefabcd","features":{},"yanked":false}
+{"name":"const-macros","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"83914bb84637b03b2a6001d51a3c968225596c373096ffb309c14e3c9e01997d","features":{},"yanked":false}
