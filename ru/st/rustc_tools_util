@@ -4,3 +4,4 @@
 {"name":"rustc_tools_util","vers":"0.2.1","deps":[],"cksum":"598f48ce2a421542b3e64828aa742b687cc1b91d2f96591cfdb7ac5988cd6366","features":{"deny-warnings":[]},"yanked":false}
 {"name":"rustc_tools_util","vers":"0.3.0","deps":[],"cksum":"8ba09476327c4b70ccefb6180f046ef588c26a24cf5d269a9feba316eb4f029f","features":{"deny-warnings":[]},"yanked":false}
 {"name":"rustc_tools_util","vers":"0.4.0","deps":[],"cksum":"3316159ab19e19d1065ecc49278e87f767a9dae9fae80348d2b4d4fa4ae02d4d","features":{},"yanked":false}
+{"name":"rustc_tools_util","vers":"0.4.1","deps":[],"cksum":"96ee2079ae7c88fd0489164e7b0a72f1bcbb9927155d7592db8fbc0d75d5913e","features":{},"yanked":false}
