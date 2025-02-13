@@ -1,0 +1,1 @@
+{"name":"hadris","vers":"0.1.0","deps":[{"name":"hadris-fat","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3ed95482e4fe8f6a9400d8fd3ccfa5b999a06974937dc05497dff638edba3f0","features":{"default":["fat","write"],"fat":["hadris-fat"],"write":["hadris-fat/write"]},"yanked":false}
