@@ -1,0 +1,1 @@
+{"name":"wang_utils_map","vers":"0.5.0-beta.0","deps":[{"name":"serde","req":"^1.0.217","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca8bef951e774d94ab963eb644ac8d60175f0c0e52336660e394a50d4b860928","features":{},"yanked":false}
