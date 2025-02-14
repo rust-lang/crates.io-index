@@ -12,4 +12,4 @@
 {"name":"azure_template_core","vers":"1.0.0-beta.4563165","deps":[],"cksum":"9a78cd676796964e0cfb88a3afa1314c35a66f34f5e23c0c5e7b9f84dfd090ff","features":{},"yanked":true,"rust_version":"1.80"}
 {"name":"azure_template_core","vers":"1.0.0-beta.4563385","deps":[],"cksum":"c4898cbd549fa2e4f4543249a564c8b930c96ec1317a4724e999373799cd9f5b","features":{},"yanked":true,"rust_version":"1.80"}
 {"name":"azure_template_core","vers":"1.0.0-beta.4563612","deps":[],"cksum":"543aa1ef62248be8b1fe2bec96abe9bfdd1a51b95ea9fd04f51631f842b81f3b","features":{},"yanked":true,"rust_version":"1.80"}
-{"name":"azure_template_core","vers":"1.0.0-beta.4566510","deps":[],"cksum":"9220d339b9b2d91b86b8e7661ccbb871e5957b7228f35b78f89cff36f35f4e5c","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"azure_template_core","vers":"1.0.0-beta.4566510","deps":[],"cksum":"9220d339b9b2d91b86b8e7661ccbb871e5957b7228f35b78f89cff36f35f4e5c","features":{},"yanked":true,"rust_version":"1.80"}
