@@ -1,3 +1,4 @@
 {"name":"rs2io","vers":"0.1.0","deps":[],"cksum":"1dc1495fed3684d476fb9f3ae6e2d620a4be46073d3e321b366be1cd09e80d74","features":{},"yanked":true}
 {"name":"rs2io","vers":"0.1.1","deps":[{"name":"packet","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de0a04e66ac5185fc57e77d020a26e924c148e59705f908807fbe6de0934b480","features":{},"yanked":true}
 {"name":"rs2io","vers":"0.1.2","deps":[],"cksum":"b479dfb287a76f7a7abea53a206932ca1d2e4f352b45acf91ce4dc7dd93218be","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"rs2io","vers":"0.1.3","deps":[],"cksum":"1d5f6dbff0a9e2228aee81f951e49a536713c8a1cb6f2fbdbf136112908f3472","features":{},"yanked":false,"rust_version":"1.80.0"}
