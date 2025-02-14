@@ -1,1 +1,2 @@
 {"name":"wang_utils_map","vers":"0.5.0-beta.0","deps":[{"name":"serde","req":"^1.0.217","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca8bef951e774d94ab963eb644ac8d60175f0c0e52336660e394a50d4b860928","features":{},"yanked":false}
+{"name":"wang_utils_map","vers":"0.5.1","deps":[{"name":"serde","req":"^1.0.217","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"850b81e90087ab785d4ad14651afca6dcba8789466a0b6209fbe831d1a2f86ae","features":{},"yanked":false}
