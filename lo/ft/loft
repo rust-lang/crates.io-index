@@ -2,3 +2,4 @@
 {"name":"loft","vers":"0.0.1-alpha.1","deps":[],"cksum":"f102c2f2609cae562daa63eeec43025cafdf66d9f42c411d99504fc36c7d4f43","features":{},"yanked":false}
 {"name":"loft","vers":"0.0.1-alpha.2","deps":[{"name":"macros-rs","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59a03a4232e16d0e2bad0b377d1843ae3787802bbfa143747ecedb88566a6f4c","features":{},"yanked":false}
 {"name":"loft","vers":"0.0.1-alpha.3","deps":[{"name":"macros-rs","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64b7785f1fde3de79a03006f48452cdd464a296bb8a4eda5b28db0fdc5227cde","features":{},"yanked":false}
+{"name":"loft","vers":"0.0.1-alpha.4","deps":[{"name":"macros-rs","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a42ddaf01e4fdfb87c47f706a86c04cf076c3768b3e3b291e3c68513376b0154","features":{},"yanked":false}
