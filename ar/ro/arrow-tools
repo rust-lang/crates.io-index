@@ -26,3 +26,4 @@
 {"name":"arrow-tools","vers":"0.21.0","deps":[],"cksum":"85d4b1b74e51b24b106d2022a9aea3f479afbc1282986b8a380bf6999a1a3f12","features":{},"yanked":false}
 {"name":"arrow-tools","vers":"0.21.1","deps":[],"cksum":"8ea2d45a21c5a17d20ab8925dc5460c1086686277fcd51fbffb13fe95a563575","features":{},"yanked":false}
 {"name":"arrow-tools","vers":"0.22.1","deps":[{"name":"flate2","req":"^1.0.35","features":["zlib-ng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b53c76a6bca9db721d0af23113f5bf3346b4126dd8295842b991a70e090730c","features":{},"yanked":false}
+{"name":"arrow-tools","vers":"0.22.2","deps":[{"name":"flate2","req":"^1.0.35","features":["zlib-ng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"700f38cbc72aab7c6a7bd6ed19452e63c73943018358476840de5671ad98e73a","features":{},"yanked":false}
