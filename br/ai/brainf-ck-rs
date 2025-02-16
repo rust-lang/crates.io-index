@@ -1,1 +1,2 @@
 {"name":"brainf-ck-rs","vers":"0.1.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c1bd15447b5934851a99d8a052b1bdd0cd80470287d8a9afe70f135091d0412","features":{},"yanked":false}
+{"name":"brainf-ck-rs","vers":"0.1.1","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d63a527cb24bc0f92f37703a684c87d523938337ca83e9900f5fc0fcd032aa1","features":{},"yanked":false}
