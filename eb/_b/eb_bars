@@ -1,1 +1,2 @@
 {"name":"eb_bars","vers":"0.1.0","deps":[],"cksum":"813a040efbffda514b8b20fd1606a90fd915e3bd1de5c2879ff9ce96a16e7cbf","features":{},"yanked":false}
+{"name":"eb_bars","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b657e359da1c6d4e4a9d9c4916b09c4f780cb9093bdff26463d01da84bcf1c7","features":{},"yanked":false}
