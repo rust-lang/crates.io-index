@@ -1,1 +1,2 @@
 {"name":"mr_dotenv","vers":"0.1.0","deps":[{"name":"mr_env_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49ce38880557f2f6f6ac64302cdac0662e014b6685466ff409edb3d2b28305fb","features":{},"yanked":false}
+{"name":"mr_dotenv","vers":"0.1.1","deps":[{"name":"mr_env_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d13e2ff55e2ba0fac228086acac46f62758b5cc8263de0f2143d6587af31f0b0","features":{},"yanked":false}
