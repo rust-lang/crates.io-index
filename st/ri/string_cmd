@@ -1,0 +1,1 @@
+{"name":"string_cmd","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca88efa954e1f6d7c378a9ed7ddb529be885617fe928751db4749f6054c552ad","features":{"crossterm":[],"default":[]},"yanked":false}
