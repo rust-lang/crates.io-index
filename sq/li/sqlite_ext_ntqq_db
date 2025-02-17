@@ -1,0 +1,1 @@
+{"name":"sqlite_ext_ntqq_db","vers":"0.1.0","deps":[{"name":"libsqlite3-sys","req":"=0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aa3257717d8fcf179332095b04452ab8bf3d26bff6e3955b36bac972282215c","features":{"_cdylib":["libsqlite3-sys/loadable_extension"]},"yanked":false}
