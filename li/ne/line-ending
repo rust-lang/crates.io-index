@@ -1,1 +1,2 @@
 {"name":"line-ending","vers":"1.0.0","deps":[{"name":"doc-comment","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf125945a7f2c7f6e6421989092e114cb9946540858b95e2de47eeb0f10e4113","features":{},"yanked":false}
+{"name":"line-ending","vers":"1.0.1","deps":[{"name":"doc-comment","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"553d09af164e35635188a438ce8e81ed8adc7d3e436d2a17f0c7dbcf3fb1f82e","features":{},"yanked":false}
