@@ -1,1 +1,2 @@
 {"name":"ratchjob-web-dist-wrap","vers":"0.1.0","deps":[{"name":"rust-embed","req":"^6.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1210830ae98754be3ca63ac7de4a1feb3d048f35abc6f467ece3824ab738a38","features":{},"yanked":false}
+{"name":"ratchjob-web-dist-wrap","vers":"0.1.1-alpha.2","deps":[{"name":"rust-embed","req":"^6.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c00776b5fbcf44c5b5e2131620523c43986104e8fd4550082a21a60d16de7fe8","features":{},"yanked":false}
