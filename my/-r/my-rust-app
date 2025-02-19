@@ -3,3 +3,4 @@
 {"name":"my-rust-app","vers":"0.1.21","deps":[],"cksum":"c2c70531009b3e4ba7b306d26940b5d2d1d752c8411cc8ff8b645a43e7ebda3f","features":{},"yanked":false}
 {"name":"my-rust-app","vers":"0.1.22","deps":[],"cksum":"9c57bc4bcdfee09c6abd6fc66c09216666716df5080fbaabfea16c43046b60b1","features":{},"yanked":false}
 {"name":"my-rust-app","vers":"0.1.23","deps":[],"cksum":"0f07c800648fef817c752a1a0622ae3a580df8bce39537d5e48b001dbb7dfd53","features":{},"yanked":false}
+{"name":"my-rust-app","vers":"0.1.24","deps":[{"name":"openssl","req":"^0.10.71","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ssh2","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"addb1c6d19d4c105fbb47bc469a661bb7e87079a5c5c4c894cbea297b58697db","features":{},"yanked":false}
