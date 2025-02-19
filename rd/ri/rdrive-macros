@@ -1,1 +1,2 @@
 {"name":"rdrive-macros","vers":"0.1.0","deps":[{"name":"rdrive-macro-utils","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a81b4a7857048b6b80eaa9400482aafbca61ed537c63eb877cacf3a78ced904e","features":{},"yanked":false}
+{"name":"rdrive-macros","vers":"0.1.1","deps":[{"name":"rdrive-macro-utils","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbcb2e02c9dee6e641cc071af48e35a77337edcdc489af58e2a22a1322c113dd","features":{},"yanked":false}
