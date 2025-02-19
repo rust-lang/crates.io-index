@@ -17,3 +17,4 @@
 {"name":"color-output","vers":"6.1.7","deps":[],"cksum":"24f0c747d1a569b61d8739deec45f884380f5f95a00ba6076c13c4cbfc80bee0","features":{},"yanked":false}
 {"name":"color-output","vers":"6.1.8","deps":[],"cksum":"d641a3a8617977a6612e52206fa673bae5e248f2764868453cf1eb0ed8d4e98a","features":{},"yanked":false}
 {"name":"color-output","vers":"6.2.0","deps":[{"name":"hyperlane-time","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f3c36fc8c6139a78a22a676edf5082bd8e251b5b726c087165f5eb75316dcdf","features":{},"yanked":false}
+{"name":"color-output","vers":"6.3.0","deps":[{"name":"hyperlane-time","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5f69900f169956e7a371e2a1df37d727f7c00e367615a563e69a8d1a44d34aa","features":{},"yanked":false}
