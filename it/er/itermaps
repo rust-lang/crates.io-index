@@ -10,3 +10,4 @@
 {"name":"itermaps","vers":"0.2.10","deps":[],"cksum":"2f5cbb695aa2a11f8e32a97fc3955767c1b49f7c22bbe4fe26301f0097a9735f","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.3.0","deps":[],"cksum":"7b44b19a829e1d5fa5b9afac732f2c3c3d4f3416103545c9ce33b716edddeae3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.3.1","deps":[],"cksum":"db210bc7b7cfa8972281c5b647fe6663efe37bc8d60c7bb8c647716fdbc5aa5e","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"itermaps","vers":"0.3.2","deps":[],"cksum":"6d0ae5d31f1e1b645cace64c96a6fc186783108725affdf5c17d42655cdb308b","features":{"default":["std"],"std":[]},"yanked":false}
