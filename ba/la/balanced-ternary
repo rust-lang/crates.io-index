@@ -1,1 +1,2 @@
 {"name":"balanced-ternary","vers":"0.1.0","deps":[],"cksum":"7c643961753f054611656e90b0fd5f7f5289b6e65da6593f30d0652740c10fbd","features":{},"yanked":false}
+{"name":"balanced-ternary","vers":"0.1.1","deps":[],"cksum":"64abcdd53cd65b54dda5eb7c4ea6856974fc423fe491f44f2d0ae4d9e5fdd8d9","features":{"default":["tryte"],"tryte":[]},"yanked":false}
