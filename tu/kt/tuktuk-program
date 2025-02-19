@@ -1,1 +1,2 @@
 {"name":"tuktuk-program","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6633606723bf43db7073786a779d65034e831ec9c6f03c9ba9815307ea33a83d","features":{"default":[]},"yanked":false}
+{"name":"tuktuk-program","vers":"0.2.0","deps":[{"name":"anchor-lang","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74eb993c460b02ab8cd42968dca66907aff0558f558f50a0a7435ae8e9a6a88e","features":{"default":[]},"yanked":false}
