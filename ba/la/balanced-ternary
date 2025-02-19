@@ -1,3 +1,4 @@
 {"name":"balanced-ternary","vers":"0.1.0","deps":[],"cksum":"7c643961753f054611656e90b0fd5f7f5289b6e65da6593f30d0652740c10fbd","features":{},"yanked":false}
 {"name":"balanced-ternary","vers":"0.1.1","deps":[],"cksum":"64abcdd53cd65b54dda5eb7c4ea6856974fc423fe491f44f2d0ae4d9e5fdd8d9","features":{"default":["tryte"],"tryte":[]},"yanked":false}
 {"name":"balanced-ternary","vers":"0.1.2","deps":[],"cksum":"fc2a0b0a0c6266a4707be6737f284516c5b54abf2d8070eb5e5428b3b6fd81f1","features":{"default":["tryte"],"tryte":[]},"yanked":false}
+{"name":"balanced-ternary","vers":"0.1.3","deps":[],"cksum":"394241ee59605ca45c0626f70372aec004b2173fbfd34de9b3e612c4f41127d1","features":{"default":["tryte"],"tryte":[]},"yanked":false}
