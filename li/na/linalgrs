@@ -1,1 +1,2 @@
 {"name":"linalgrs","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"befa54d887e208ccbbdc9af7676760f3c7f19af8511ea65219d51431236adde1","features":{},"yanked":false}
+{"name":"linalgrs","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf5b9255809fb2a4e81c6ed2473cad6c33777fbf94e9916c4c60aba7b5ddec08","features":{},"yanked":false}
