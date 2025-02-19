@@ -7,3 +7,4 @@
 {"name":"loft","vers":"0.0.1-alpha.6","deps":[{"name":"macros-rs","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba0772b5a899d7d4825bfa2ec21885b37b1b2102d7c237b6d3d2b4f657bf56bc","features":{},"yanked":false}
 {"name":"loft","vers":"0.0.1-alpha.7","deps":[{"name":"macros-rs","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f090358d15ba10340fa7e3ab2f23dd3733ad957c75d8b4befa47a2e7ce55720f","features":{},"yanked":false}
 {"name":"loft","vers":"0.0.1-alpha.8","deps":[],"cksum":"ba83f13b7d770b65ac83dd05085e89fde8f0c8a79be3a4001b80ef074283947a","features":{},"yanked":false}
+{"name":"loft","vers":"0.0.1-alpha.9","deps":[],"cksum":"99a7cd21474b3e1d2d9236974f303fe49799806da0dba5b5817ab30496837b5d","features":{},"yanked":false}
