@@ -1,0 +1,1 @@
+{"name":"flexcell","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db215cf6305c9b6bc6d2bc4f88e0569cce3a2ec836381ce79a3c47746193f169","features":{},"yanked":false}
