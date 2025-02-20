@@ -1,0 +1,1 @@
+{"name":"crypto-paillier","vers":"0.0.1-pre.0","deps":[{"name":"crypto-bigint","req":"^0.6.1","features":["rand_core"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03585ff1d516cb65ef7a1a1af38d8ab239bb12ff618d4331c09767698b2536b5","features":{},"yanked":false,"rust_version":"1.84"}
