@@ -1,1 +1,2 @@
 {"name":"realhydroper-path","vers":"1.0.0","deps":[{"name":"lazy-regex","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"881fea0384653fe6ccb7596955acec71d36c10e1d40dc5a4713f83a389d19aa1","features":{},"yanked":false}
+{"name":"realhydroper-path","vers":"1.0.1","deps":[{"name":"lazy-regex","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84dda2d893388fe235ff7e29b66a049d2118548e05193aa91ff9d69437447a07","features":{},"yanked":false}
