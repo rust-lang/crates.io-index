@@ -1,1 +1,2 @@
 {"name":"titanite","vers":"0.1.0","deps":[],"cksum":"2e6958fb65209d6d051a8c39aa5aac540e0e0b55cbd00a3e8632139dc2e92a7f","features":{},"yanked":false}
+{"name":"titanite","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f17210b8505ac0dacf782f2ed0e7145c7d77ec68a9d722f371fbfecb51f732b1","features":{},"yanked":false}
