@@ -1,1 +1,2 @@
 {"name":"windows-collections","vers":"0.0.0","deps":[],"cksum":"afdb7f2ef2d8d9abcb2b5175c8cdff632a08dbff3a0ae55a859e43e86514c1fc","features":{},"yanked":false}
+{"name":"windows-collections","vers":"0.1.0","deps":[{"name":"windows-core","req":"^0.60.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"89c659543b640f152791f10f9827c0b4f795afdd16c1bf382f03717e567e8db8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74"}
