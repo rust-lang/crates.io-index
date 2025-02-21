@@ -9,3 +9,4 @@
 {"name":"kolorz","vers":"0.8.0","deps":[],"cksum":"363e53c2795a5561610b974063dbc22e735737c9fb8b0704bfc31ef8cc93ab95","features":{},"yanked":false}
 {"name":"kolorz","vers":"0.9.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"225e7ce60dda5c1ed5da2da4d4adf840c4de137839ceac7c2865a8f518cca0f5","features":{},"yanked":false}
 {"name":"kolorz","vers":"0.10.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58584168978aae0a2f60159e49c817830f58dcdd24ab230fc76dee7a1d83afc2","features":{},"yanked":false}
+{"name":"kolorz","vers":"0.10.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"461bbbb4d1537616ad2eb77ab1f4fa0332cfc993f4d9f5e343ffa88bfa11fcf9","features":{},"yanked":false}
