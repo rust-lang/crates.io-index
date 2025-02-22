@@ -13,3 +13,4 @@
 {"name":"hex-literal","vers":"0.2.2","deps":[{"name":"hex-literal-impl","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proc-macro-hack","req":"^0.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d70693199b3cf4552f3fa720b54163927a3ebed2aef240efaf556033ab336a11","features":{},"yanked":false}
 {"name":"hex-literal","vers":"0.4.0","deps":[],"cksum":"4bcb5b3e439c92a7191df2f9bbe733de8de55c3f86368cdb1c63f8be7e9e328e","features":{},"yanked":false,"rust_version":"1.57"}
 {"name":"hex-literal","vers":"0.4.1","deps":[],"cksum":"6fe2267d4ed49bc07b63801559be28c718ea06c4738b7a03c94df7386d2cde46","features":{},"yanked":false,"rust_version":"1.57"}
+{"name":"hex-literal","vers":"1.0.0","deps":[],"cksum":"bcaaec4551594c969335c98c903c1397853d4198408ea609190f420500f6be71","features":{},"yanked":false,"rust_version":"1.85"}
