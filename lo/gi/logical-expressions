@@ -1,1 +1,2 @@
 {"name":"logical-expressions","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"752569590d3df004ab36658ad44bec4d15358a1a5275f8f936d6c378870e78de","features":{},"yanked":false}
+{"name":"logical-expressions","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"976e156e012202715bdd4b0df1a03bcdb262690f972b4013e2bdc8ebac2f0a4c","features":{},"yanked":false}
