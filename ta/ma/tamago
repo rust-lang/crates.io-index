@@ -1,1 +1,2 @@
 {"name":"tamago","vers":"0.1.0","deps":[{"name":"tamacro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ec823d75457ae745f75e2f29685e1a07eaa1f5650242b5295d53ad475a8aa62","features":{},"yanked":false}
+{"name":"tamago","vers":"0.1.1","deps":[{"name":"tamacro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3151ec944b030fc92b8c76ea721936b4d586be94ea59621e27a87bdd15f0b568","features":{},"yanked":false}
