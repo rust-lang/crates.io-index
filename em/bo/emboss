@@ -3,3 +3,4 @@
 {"name":"emboss","vers":"0.3.0","deps":[],"cksum":"9c9d96d2ff99717092d08015e9ba42854bae5cbb299ee5c2433554433f1ee1f3","features":{},"yanked":false}
 {"name":"emboss","vers":"0.3.1","deps":[],"cksum":"409333b1f344a359754b5e99949a4b170e58c60e5bbc2e5f8c03e733dc32f788","features":{},"yanked":false}
 {"name":"emboss","vers":"0.3.2","deps":[],"cksum":"4207ae37897656f81929c5f45d074a0e61ef0b2dc16efd67ca5db297703a5033","features":{},"yanked":false}
+{"name":"emboss","vers":"0.4.0","deps":[{"name":"emboss_common","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"emboss_macros","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bbdcef67d45352e0682afdda3fd32c1ffd09fe0f1e5ff447ab6e3e6a5eb4dba","features":{},"yanked":false}
