@@ -1,0 +1,1 @@
+{"name":"picochat","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d66c42b55ff7d1b2a259056b39000121e8393b4e76c975d09c8e69481380d436","features":{},"yanked":false}
