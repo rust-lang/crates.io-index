@@ -1,1 +1,2 @@
 {"name":"jprect","vers":"0.0.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1ad20a0320896a3ceea497d5fd9c1d74eef27bb6896f599f7b0c9da7306cbec","features":{},"yanked":false}
+{"name":"jprect","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2debd3279f4c863ddb953198d7862e6ae7fc0049ee644f0444fd440b0c24182","features":{},"yanked":false}
