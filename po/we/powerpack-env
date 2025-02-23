@@ -2,3 +2,4 @@
 {"name":"powerpack-env","vers":"0.5.0","deps":[],"cksum":"858cdd1a7982ce911d7f308f967880c28af8d343e1121ba384b9f532b7347d76","features":{},"yanked":false}
 {"name":"powerpack-env","vers":"0.6.0","deps":[],"cksum":"70677891e7685a1187b9f2a1368677bf84c8045b35df3a61982b8b0cc63aeee9","features":{},"yanked":false}
 {"name":"powerpack-env","vers":"0.6.1","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"becbd1963398192176759d87f0cd6b8cc852d9fee85a09764014b2afe013a08d","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.6.2","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f89ce0e201e072e1ca243557766095c01a41e5ff02e993db4747024e8aaf8a","features":{},"yanked":false}
