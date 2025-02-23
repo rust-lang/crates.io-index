@@ -13,3 +13,4 @@
 {"name":"emplacable","vers":"0.1.0-alpha.13","deps":[],"cksum":"bca27c56914613c7dcab3804ecbe0a33bff721a7c11486301c52b191a6fb9bdc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"emplacable","vers":"0.1.0-alpha.14","deps":[],"cksum":"0977d30db6256af131a1bd7e68d101636a1024237c6c8a4da48da8738afd57fc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"emplacable","vers":"0.1.0-alpha.15","deps":[],"cksum":"657ea0b6da833e0e9a7c4f4cdaf6c54519c57160431c1e5bc94129d296b480dc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"emplacable","vers":"0.1.0-alpha.16","deps":[],"cksum":"08390d5ebf945c7e87ea9d19880ab64d9cec37df8ce5fdcc1de9486e697842b2","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
