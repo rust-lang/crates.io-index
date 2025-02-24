@@ -29,3 +29,4 @@
 {"name":"argyle","vers":"0.9.0","deps":[],"cksum":"9485a7d47cab008237481f89d2738b500f3d7ff0b778426da53824ebd40e053b","features":{"default":[],"dynamic-help":[]},"yanked":false,"rust_version":"1.81"}
 {"name":"argyle","vers":"0.10.0","deps":[],"cksum":"006dca12d3d1fc95393d230a1f2380ad67bc2b6479367b0f63ae172eceb04ac3","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"argyle","vers":"0.10.1","deps":[],"cksum":"de3b43494d558f8dea9065f7107efdd939975f8728b82751aff3aa55b87c8bbd","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"argyle","vers":"0.11.0","deps":[],"cksum":"3d568b0d86062ec43b3d7db7ec32e18278b4de4f1ae5ad6808821ade0330346f","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.85"}
