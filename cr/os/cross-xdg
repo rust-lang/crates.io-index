@@ -1,1 +1,2 @@
 {"name":"cross-xdg","vers":"0.1.0","deps":[{"name":"serial_test","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f4f7428ec10c2b661cfefc19159c7cbf96a0ca102e79eb10ca93acfdb0a992c4","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"cross-xdg","vers":"0.1.1","deps":[{"name":"serial_test","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f46f5c5baf9bf06ef93b9d29e28d562757fe178e81e8588b686f358cb0447c5","features":{},"yanked":false,"rust_version":"1.85"}
