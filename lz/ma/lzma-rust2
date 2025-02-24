@@ -1,0 +1,1 @@
+{"name":"lzma-rust2","vers":"0.1.7","deps":[{"name":"byteorder","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcc9a5636b115f72222221f688b8f8c73e9ed2e90ea041540a86405565a04e49","features":{"default":["encoder"],"encoder":[]},"yanked":false,"rust_version":"1.74.0"}
