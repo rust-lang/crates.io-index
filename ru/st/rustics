@@ -25,3 +25,4 @@
 {"name":"rustics","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"050dc081c72ebac5213e03d00556a68ac35f6c120f94359b3c2683f0e49abe15","features":{},"yanked":false}
 {"name":"rustics","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c631160a98b8647024a77f93378d1224868d6847248b1082c10db563a7e8bfa8","features":{},"yanked":false}
 {"name":"rustics","vers":"1.0.2","deps":[],"cksum":"0b22fc31977669312e9bbfbc3e09fe0716c77bf0c34d16607fc8aa5043e02dd9","features":{},"yanked":false}
+{"name":"rustics","vers":"1.0.3","deps":[],"cksum":"ca0aa384635f58582ba147aa352e341437dbfa41c2177246a585278cc745fc0b","features":{},"yanked":false}
