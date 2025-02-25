@@ -1,1 +1,2 @@
 {"name":"rdd","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57893c63279c4e902af5a29f313347406b6dac7ef99f78362711b67f8773b59e","features":{},"yanked":false}
+{"name":"rdd","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7286ab4b19273d89647984495968f5c65f40f5a730ffe3521e618230b9393229","features":{},"yanked":false}
