@@ -19,3 +19,4 @@
 {"name":"Lion-cli","vers":"0.2.6","deps":[],"cksum":"e7c89d74582463a6414d31bf877bc232703fe3d278a53586fe0b75f463570ad3","features":{},"yanked":false}
 {"name":"Lion-cli","vers":"0.2.7","deps":[{"name":"setter","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc94f3d3d8d936ececd5ad178f78f17f2a7dc6ec7c0fdc7833e5187c427f592d","features":{},"yanked":false}
 {"name":"Lion-cli","vers":"0.2.8","deps":[{"name":"setter","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f690122b79b4cdeaee1cd4fdf1252b256524ea0e6eff671da8e2551ae6c2352e","features":{},"yanked":false}
+{"name":"Lion-cli","vers":"0.2.9","deps":[{"name":"setter","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bc6ef213c53f726a4a584b52cfa8fecea4336a2b7818aacd60a2cf68954382e","features":{},"yanked":false}
