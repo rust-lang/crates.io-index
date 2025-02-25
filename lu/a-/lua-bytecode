@@ -1,2 +1,3 @@
 {"name":"lua-bytecode","vers":"0.1.0","deps":[],"cksum":"bd8e9ef905ee3e242c34ee72215b367e0c00ac9ec689c0e3b090b67514b314e2","features":{"lua51":[],"luau":[]},"yanked":false}
 {"name":"lua-bytecode","vers":"0.2.0","deps":[],"cksum":"6b318a4b80ab820dbb9794882832127db5f9a5bb275aff88fb73a726cb77220c","features":{"lua51":[],"luau":[]},"yanked":false}
+{"name":"lua-bytecode","vers":"0.3.0","deps":[],"cksum":"86a50cbeb8fbb78728049237dfe37e300ce847e3c01db9d1fcdae503c1d8138c","features":{"lua51":[],"luau":[]},"yanked":false}
