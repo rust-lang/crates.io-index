@@ -21,3 +21,4 @@
 {"name":"via-router","vers":"3.0.0-beta.15","deps":[{"name":"smallvec","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7259e77c3cf7547f4104223ff230f238749a37f33cacb868e163fd4e55941195","features":{"default":[],"lru-cache":[]},"yanked":false}
 {"name":"via-router","vers":"3.0.0-beta.16","deps":[],"cksum":"3bcd11becf706c5d8c4caa0bc2a067700b185bf0356e3f8b689b9e30bcdfb5ad","features":{"default":[],"lru-cache":[]},"yanked":false}
 {"name":"via-router","vers":"3.0.0-beta.17","deps":[],"cksum":"d93db8699942c9e2dc62c64e0f863edc1fa21526a51f5378a2b09c58b1cb19f0","features":{"default":[],"lru-cache":[]},"yanked":false}
+{"name":"via-router","vers":"3.0.0-beta.18","deps":[],"cksum":"23192644a3c9a46bce7ab0c32c6e29f53b8973a06d9d452e2193208aed312c9c","features":{"default":[],"lru-cache":[]},"yanked":false}
