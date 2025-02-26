@@ -1,0 +1,1 @@
+{"name":"icu_time_data","vers":"2.0.0-beta2","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5b15e682b25e7f4b790941d29f014e0581e00d9565e052ce0e3476b1f2a94332","features":{},"yanked":false,"rust_version":"1.81"}
