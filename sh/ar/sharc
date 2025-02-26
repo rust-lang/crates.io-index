@@ -1,2 +1,0 @@
-{"name":"sharc","vers":"0.0.1","deps":[{"name":"density-rs","req":"^0.16.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a943dbec631f361b49c92d2fed38a0c955b685fdc987128af11f7c54201c436a","features":{},"yanked":true}
-{"name":"sharc","vers":"0.0.2","deps":[{"name":"density-rs","req":"^0.16.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"119530d07e42321cfa47e27a5bc4b051613b3d34e5fa199af2d116c20272b1e3","features":{},"yanked":false}
