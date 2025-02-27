@@ -1,0 +1,1 @@
+{"name":"enum-table","vers":"0.1.0","deps":[{"name":"enum-table-derive","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f41a1904c7878188983fa222918219d02178ba4f28991448753629af17be249d","features":{},"features2":{"default":["derive"],"derive":["dep:enum-table-derive"]},"yanked":false,"rust_version":"1.80","v":2}
