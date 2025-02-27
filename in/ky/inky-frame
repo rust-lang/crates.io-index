@@ -1,0 +1,1 @@
+{"name":"inky-frame","vers":"0.1.0","deps":[{"name":"rpsp","req":"^0.1.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fa15ba387b2522541ac5e680399306da38104d1a115bcdb7df31210ece8b2f5d","features":{"cyw":["rpsp/cyw","rpsp/pico"],"debug":["rpsp/debug"],"default":["rpsp/pico"]},"yanked":false}
