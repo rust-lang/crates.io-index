@@ -1,0 +1,1 @@
+{"name":"lets-network","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de2b45559a13306c2a8d0155d667b5d3d5b050203129dcc6fbf7974ea3b35b3d","features":{},"yanked":false}
