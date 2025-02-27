@@ -12,3 +12,4 @@
 {"name":"balanced-ternary","vers":"1.0.1","deps":[],"cksum":"5ef5d037907fccf66fe731bb5b22cd7300874024830f72986a6f0d57f5c6d4b9","features":{"default":["tryte"],"tryte":[]},"yanked":false}
 {"name":"balanced-ternary","vers":"1.0.2","deps":[],"cksum":"b55f7eb7b728c6e6789f9f0e941c3e9f901d419ea2b39d35cb4195828acb4e37","features":{"default":["tryte"],"tryte":[]},"yanked":false}
 {"name":"balanced-ternary","vers":"1.0.3","deps":[],"cksum":"dab20b19a94e73245944f8d976de7cd5cfc83963385d4cb9125aed7839fd1df6","features":{"default":["tryte"],"tryte":[]},"yanked":false}
+{"name":"balanced-ternary","vers":"1.1.0","deps":[],"cksum":"e7b6a1e4405487fe371fcc26dc0fd16d6df77fb90ebb419282165b8553136f1c","features":{"default":["tryte"],"ternary-string":[],"tryte":["ternary-string"]},"yanked":false}
