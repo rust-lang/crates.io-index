@@ -3,7 +3,7 @@
 {"name":"hebrew_unicode_script","vers":"0.2.0","deps":[{"name":"is-even","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f22a4b8e93947722adcfe503208f6c6c87e18c4bebd56838a8ef4017f7618b7d","features":{},"yanked":true}
 {"name":"hebrew_unicode_script","vers":"0.3.2","deps":[],"cksum":"2e381a40cbf347f7939192a8b681ad8ddfd83a7b1a32f9bd1b137bce7529a577","features":{},"yanked":true,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"0.4.0","deps":[],"cksum":"c7ce5158121269e7d40700e5af3f38e0f2d2d06abe69bc27922464b1eca39bb8","features":{},"yanked":true,"rust_version":"1.56.1"}
-{"name":"hebrew_unicode_script","vers":"0.4.1","deps":[],"cksum":"bca6a76446659c31fa068635764fe749de4c40a1838b96152d5fed09b864580d","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"hebrew_unicode_script","vers":"0.4.1","deps":[],"cksum":"bca6a76446659c31fa068635764fe749de4c40a1838b96152d5fed09b864580d","features":{},"yanked":true,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"0.4.2","deps":[],"cksum":"77bccc64821cf91fbf9145a6cfa8bc4e04ceea1939aa757c422f6a23a502b813","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"0.5.0","deps":[],"cksum":"e9a49bed3cf48e5cb5e543d8066e2737fba51af4bfd864b49ddd08b69991799f","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"1.0.0-beta","deps":[],"cksum":"ea294c5d406d0b39f89bc400908592c3db4616a75cc4d664b8f4d4e5824d9b69","features":{},"yanked":false,"rust_version":"1.56.1"}
