@@ -1,0 +1,1 @@
+{"name":"libffi-sys2","vers":"2.3.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf6587bb2effaa6ac95d1d79bd181cc156ca0b39c364cbc0fe1ed77a4f6123aa","features":{"complex":[],"system":[]},"yanked":false,"links":"ffi"}
