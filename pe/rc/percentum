@@ -1,0 +1,1 @@
+{"name":"percentum","vers":"0.0.1","deps":[{"name":"rust_decimal","req":"^1.36","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95eeb56f7786161f674f6d9efffda3c0a2b5ddd2e2c1e8c32f48bf4c36b84214","features":{"decimal":["rust_decimal"],"default":["decimal"]},"yanked":false}
