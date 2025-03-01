@@ -2,3 +2,4 @@
 {"name":"fef","vers":"0.0.2","deps":[],"cksum":"2e7bb82b904fe6c0eeae56a3ba40286328d21f616fc1e4583dabdbca668bd7ef","features":{},"yanked":false}
 {"name":"fef","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d75ca992bb17100289bdbc354d3c9a3f47d9172685fb2b9980065883d74424db","features":{"v0":[]},"yanked":false}
 {"name":"fef","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ac337cf6ffcd711587015114dc0a83afe4750e5eb22c9a7e6687cf9c846a80","features":{"v0":[]},"yanked":false}
+{"name":"fef","vers":"0.2.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50919547a727eef667a08734fd9fe2c2ccfd5df1fa17a9ef778ca8ee2f117cda","features":{"v0":[]},"yanked":false}
