@@ -1,0 +1,1 @@
+{"name":"ssstretch","vers":"0.1.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cxx-build","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b4ee31a0a494b76c8d3047aac804c5f4eb4b6e96c75414e3043b2212301bb8c6","features":{},"yanked":false}
