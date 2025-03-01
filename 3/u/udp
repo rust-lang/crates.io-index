@@ -1,0 +1,1 @@
+{"name":"udp","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24bc9d3289199d0dc138a7aa8f16e45399ef7b0b8ee36120e16b7b5d82d35feb","features":{},"yanked":false}
