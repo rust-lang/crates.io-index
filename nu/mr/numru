@@ -1,2 +1,2 @@
-{"name":"numru","vers":"0.1.0","deps":[],"cksum":"88eeac10a5702008f30b4dff5737c4cba467c0188f14ef6b77aa3ad3993c70e3","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"numru","vers":"0.1.0","deps":[],"cksum":"88eeac10a5702008f30b4dff5737c4cba467c0188f14ef6b77aa3ad3993c70e3","features":{},"yanked":true,"rust_version":"1.83.0"}
 {"name":"numru","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eea545b028116163943f5aa60644dc2ff6e2672edad1213b1cb8438e199be1bf","features":{},"yanked":false,"rust_version":"1.83.0"}
