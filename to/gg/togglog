@@ -1,0 +1,1 @@
+{"name":"togglog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05fc0692bb7fe4267d3992e64166cd39351c1c0b6d74c7ea4f436360c96e1da6","features":{},"features2":{"enabled":["dep:log"]},"yanked":false,"v":2}
