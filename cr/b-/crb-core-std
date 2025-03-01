@@ -1,0 +1,1 @@
+{"name":"crb-core-std","vers":"0.0.30","deps":[{"name":"tokio","req":"^1.43.0","features":["sync","rt","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12a7ca99a07d724e38ee1e11da52fc457dac4a2f0edd10841114290d1ecc17a9","features":{},"yanked":false}
