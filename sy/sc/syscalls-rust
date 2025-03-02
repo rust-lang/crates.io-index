@@ -1,1 +1,2 @@
 {"name":"syscalls-rust","vers":"0.1.1","deps":[],"cksum":"e6909090ffa3ed86c3fd1a7820ab28641efd97ece65792644decef6757a461e1","features":{"default":["x64_86"],"x64_86":[]},"yanked":false}
+{"name":"syscalls-rust","vers":"0.1.2","deps":[],"cksum":"9028d4ca6c0a1f3e2ef96e6b76d526d44e4f5c39f94e170545265c37204e73e5","features":{"default":["x64_86"],"x64_86":[]},"yanked":false}
