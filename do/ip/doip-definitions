@@ -6,3 +6,4 @@
 {"name":"doip-definitions","vers":"3.0.0","deps":[],"cksum":"9f27630d3eea7ebb6637493ea00c3c51051bd83f49b939dd8d622707f54be514","features":{},"yanked":true}
 {"name":"doip-definitions","vers":"2.0.1","deps":[],"cksum":"20b22b295639ced0b4ffbf6acc6bcab0483c0f10af28e5b08c8a6e37d14f83f5","features":{},"yanked":false}
 {"name":"doip-definitions","vers":"3.0.1","deps":[],"cksum":"a42a1f957c26b7effe020c5cd6011e73c0ab5c5617c73056230bcbdf8979f948","features":{},"yanked":false}
+{"name":"doip-definitions","vers":"3.0.2","deps":[{"name":"pyo3","req":"^0.23.5","features":["abi3-py311","extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"228dc2084ee2fde5f088a417c1890d1f895c1480abdb23f12ea671cac8d5ef2a","features":{"default":["std"],"std":["pyo3"]},"yanked":false}
