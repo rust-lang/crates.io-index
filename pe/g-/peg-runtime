@@ -7,3 +7,4 @@
 {"name":"peg-runtime","vers":"0.8.1","deps":[],"cksum":"9fa00462b37ead6d11a82c9d568b26682d78e0477dc02d1966c013af80969739","features":{},"yanked":false}
 {"name":"peg-runtime","vers":"0.8.2","deps":[],"cksum":"36bae92c60fa2398ce4678b98b2c4b5a7c61099961ca1fa305aec04a9ad28922","features":{"std":[],"unstable":[]},"yanked":false}
 {"name":"peg-runtime","vers":"0.8.3","deps":[],"cksum":"e3aeb8f54c078314c2065ee649a7241f46b9d8e418e1a9581ba0546657d7aa3a","features":{"std":[],"unstable":[]},"yanked":false}
+{"name":"peg-runtime","vers":"0.8.5","deps":[],"cksum":"132dca9b868d927b35b5dd728167b2dee150eb1ad686008fc71ccb298b776fca","features":{"std":[],"unstable":[]},"yanked":false}
