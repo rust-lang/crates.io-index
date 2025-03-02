@@ -1,0 +1,1 @@
+{"name":"axboe-liburing","vers":"2.10.0-alpha","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"build"}],"cksum":"98dd529c5acdc04d1b96bb8b88bf974fd0e45a2934f6668fff4d1926c355fb9b","features":{"sanitizers":[]},"yanked":false}
