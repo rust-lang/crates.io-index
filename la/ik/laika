@@ -1,2 +1,0 @@
-{"name":"laika","vers":"0.1.3","deps":[{"name":"tokio","req":"^1.43","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3006971718a1164fc5ad20c8e806c44e003cef31043568531582cc0c580f388e","features":{"shotgun":[]},"yanked":false}
-{"name":"laika","vers":"0.1.4","deps":[{"name":"tokio","req":"^1.43","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6777f56b3401db06f3290b702cc7d9987c3636a861183a0e4e509db2a7a60134","features":{"shotgun":[]},"yanked":false}
