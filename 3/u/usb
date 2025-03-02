@@ -7,3 +7,4 @@
 {"name":"usb","vers":"0.2.0","deps":[],"cksum":"00d2ddfffed05c2e72c43a20fd5e41cf73ecd99caaaacfc4763aab85f7576ccb","features":{},"yanked":false}
 {"name":"usb","vers":"0.2.1","deps":[],"cksum":"51b1e0e62cd5dfae8b9d61fa71990ada7064191c7fe546e685e7840dd1dd210d","features":{},"yanked":false}
 {"name":"usb","vers":"0.2.2","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b820defcfa7e92eb919c626b0d55be571bc4974e0b549d15532fedde8361418","features":{},"yanked":false}
+{"name":"usb","vers":"0.3.0","deps":[],"cksum":"1351842cf47c13bf2169636357eea4ebf831dc29485fbe64963583b8e74b59a9","features":{},"yanked":false}
