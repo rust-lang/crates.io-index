@@ -3,3 +3,4 @@
 {"name":"syscalls-rust","vers":"0.1.3","deps":[],"cksum":"2fd37742347fad6fa8813ae491ff42210239a755af0c2fe113e37baf54f4880e","features":{"default":["x64_86"],"x64_86":[]},"yanked":false}
 {"name":"syscalls-rust","vers":"0.1.4","deps":[],"cksum":"aa3bc6451d22d1cd2577d8ec64690b1774a2a221863d7b95b83e5b973b2dee92","features":{"default":["x64_86"],"x64_86":[]},"yanked":false}
 {"name":"syscalls-rust","vers":"0.1.5","deps":[],"cksum":"224db43624a6de9218f6262c84a4a9b48df759dbcc51692c084e3b963797d255","features":{"default":["x64_86"],"x64_86":[]},"yanked":false}
+{"name":"syscalls-rust","vers":"0.1.6","deps":[],"cksum":"0fcefcaa9d8c5a2757c8ad3cb5ca91f8004b6ac6acbd40747da0a38df69bcc01","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false}
