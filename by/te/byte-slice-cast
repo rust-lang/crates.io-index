@@ -11,3 +11,4 @@
 {"name":"byte-slice-cast","vers":"1.2.0","deps":[],"cksum":"1d30c751592b77c499e7bce34d99d67c2c11bdc0574e9a488ddade14150a4698","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"byte-slice-cast","vers":"1.2.1","deps":[],"cksum":"87c5fdd0166095e1d463fc6cc01aa8ce547ad77a4e84d42eb6762b084e28067e","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"byte-slice-cast","vers":"1.2.2","deps":[],"cksum":"c3ac9f8b63eca6fd385229b3675f6cc0dc5c8a5c8a54a59d4f52ffd670d87b0c","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"byte-slice-cast","vers":"1.2.3","deps":[],"cksum":"7575182f7272186991736b70173b0ea045398f984bf5ebbb3804736ce1330c9d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.51.0"}
