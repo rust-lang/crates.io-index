@@ -1,1 +1,2 @@
 {"name":"alpha-micrograd-rust","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dbebbe0ce9f28ffdb2ac93e4f788f79f1d0a0994fc1421b3f7a57d69693bb2c","features":{},"yanked":false}
+{"name":"alpha-micrograd-rust","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c365681c72192230a67f786f45016e1fa22e093428675b53aedbab1a8edba494","features":{},"yanked":false}
