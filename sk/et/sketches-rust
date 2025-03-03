@@ -6,3 +6,4 @@
 {"name":"sketches-rust","vers":"0.2.0","deps":[],"cksum":"76f46bd97ad38e84fcd3cb28fdc12f879c7d378f5d43bfef2e8c870e15847290","features":{},"yanked":false}
 {"name":"sketches-rust","vers":"0.2.1","deps":[],"cksum":"5a3a82342781f49b6ee631f6d1eafcd10da49c5cc53ef61c7bff483d590f6ede","features":{},"yanked":false}
 {"name":"sketches-rust","vers":"0.2.2","deps":[{"name":"rust-strictmath","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed75e840dd1b389244ed226b986793e05b450dfd68c2f371ca1344c08ba56324","features":{},"yanked":false}
+{"name":"sketches-rust","vers":"0.2.3","deps":[],"cksum":"637d8e1b0995144f3432c9410126718605beb15191e1d7f3199daeabee648bbc","features":{},"yanked":false}
