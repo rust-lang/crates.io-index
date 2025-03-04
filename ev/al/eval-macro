@@ -1,1 +1,2 @@
 {"name":"eval-macro","vers":"0.1.0","deps":[{"name":"eval-macro-internal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f1a3b8f1baac86621c0ace59a5d7a353dea0455b5b8ff30ccc34b5c9e282f29","features":{},"yanked":false}
+{"name":"eval-macro","vers":"0.2.0","deps":[{"name":"eval-macro-internal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb1284fe16bb1d8c49e045c02526bc51e16252342ac74ed42c45b87b04860f94","features":{},"yanked":false}
