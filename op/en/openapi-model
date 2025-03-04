@@ -1,0 +1,1 @@
+{"name":"openapi-model","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5623860fa8754d50b8c7b1d6c0efbaea2919554bd752a7ec917e4bd28c240f64","features":{},"yanked":false}
