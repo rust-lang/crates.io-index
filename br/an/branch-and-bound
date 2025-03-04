@@ -1,1 +1,2 @@
 {"name":"branch-and-bound","vers":"0.1.0","deps":[],"cksum":"4e1b20bc04904747937cf449dfc415d20dba6c75ce86decdf8d3c4e41be119be","features":{},"yanked":false}
+{"name":"branch-and-bound","vers":"0.2.0","deps":[{"name":"binary-heap-plus","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"compare","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9db6d172f2a37c8ef1206f167f750f0195b188301570690ffb5edaaac9edfe44","features":{},"yanked":false}
