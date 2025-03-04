@@ -4,3 +4,4 @@
 {"name":"xdp","vers":"0.3.0","deps":[],"cksum":"664a35c1f9d84e842c879830f95e22738bef9617aa5ff238ad9e19245733c4e5","features":{},"yanked":false,"rust_version":"1.82.0"}
 {"name":"xdp","vers":"0.4.0","deps":[],"cksum":"9a12401b134551216dc3d4b339eaf75cc0e8770cbe3ba394b55ce8f0451925de","features":{},"yanked":false,"rust_version":"1.82.0"}
 {"name":"xdp","vers":"0.5.0","deps":[],"cksum":"72d708e57a28420cd3b1d0898e2dc7930384d6507586275e097abefa3688ee4d","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0"}
+{"name":"xdp","vers":"0.6.0","deps":[],"cksum":"7e033e861c55386d35a176792bfe78a614bfc97aebc1ebe41f1039ac0604e8c2","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0"}
