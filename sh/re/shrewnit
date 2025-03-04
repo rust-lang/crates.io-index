@@ -1,1 +1,2 @@
 {"name":"shrewnit","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e9a4fc3bb996c497235ca53bb9f5cb4c5d16c4cf2e63d923f25ffda182020b13","features":{},"yanked":false}
+{"name":"shrewnit","vers":"0.1.1","deps":[{"name":"num-traits","req":"=0.2.16","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"35e8bb19f6187bd8ef783153726cfa80b10980d677ac5b61d1717dfcac0faae1","features":{},"yanked":false}
