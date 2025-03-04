@@ -1,1 +1,2 @@
 {"name":"mu_lib","vers":"0.1.0","deps":[],"cksum":"b8893ed8fe981fe03a8f4deafe8b093fea1138706cc88e556a94ff549341752d","features":{},"yanked":false}
+{"name":"mu_lib","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.70.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e670ec8a4f1ea856fed55eba407df993c50c569fe671bf2d462e7dd5d758c031","features":{},"yanked":false}
