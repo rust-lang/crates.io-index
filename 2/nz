@@ -9,9 +9,9 @@
 {"name":"nz","vers":"0.3.0","deps":[],"cksum":"b4ad4c6c6b43f37e2e1d4f0d5b805af3aaec49af6d25c84bf3261818aca89dcd","features":{},"yanked":true,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.3.1","deps":[],"cksum":"8bc5ed6392f7f2d45dc4516680ea0d7213b824c95a056d988da1cdd0b163593a","features":{},"yanked":true,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.3.2","deps":[],"cksum":"28ba9cab725a7d7ece4bbf38968a1717ed73abf0516f7ff90a4127d016bebd51","features":{},"yanked":true,"rust_version":"1.56.0"}
-{"name":"nz","vers":"0.3.3","deps":[],"cksum":"cb749eec2b3be2f169dd4facfec40a28cc40f2b02ad3c4d2c51ce578c3f635b0","features":{},"yanked":true,"rust_version":"1.56.0"}
-{"name":"nz","vers":"0.3.4","deps":[],"cksum":"419ee4a1fac7e5833affe33409c2f51d8e496fc40103ab64707560a1fd8e7d89","features":{},"yanked":true,"rust_version":"1.56.0"}
-{"name":"nz","vers":"0.4.0-beta.0","deps":[],"cksum":"1f622cd1c72d944464a5446c9a43c751a22ec4e5f0ac35bbcbba7610cadfc150","features":{},"yanked":true}
+{"name":"nz","vers":"0.3.3","deps":[],"cksum":"cb749eec2b3be2f169dd4facfec40a28cc40f2b02ad3c4d2c51ce578c3f635b0","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"nz","vers":"0.3.4","deps":[],"cksum":"419ee4a1fac7e5833affe33409c2f51d8e496fc40103ab64707560a1fd8e7d89","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"nz","vers":"0.4.0-beta.0","deps":[],"cksum":"1f622cd1c72d944464a5446c9a43c751a22ec4e5f0ac35bbcbba7610cadfc150","features":{},"yanked":false}
 {"name":"nz","vers":"0.3.5","deps":[],"cksum":"d1e9655df3f51323812726b25a00d787562c5fa64177d286603429787b4386a9","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.4.0-beta.1","deps":[],"cksum":"841620d509abbdc392791c12d2e2d7c2ebc6f390daf367ac94c9ac925ec06cd5","features":{},"yanked":false}
 {"name":"nz","vers":"0.4.0-beta.2","deps":[],"cksum":"8a0a7f9e15deef66d677ed6f3302bb0bb780d201d65752b386c5204f130a939f","features":{},"yanked":false}
