@@ -16,4 +16,4 @@
 {"name":"nz","vers":"0.4.0-beta.1","deps":[],"cksum":"841620d509abbdc392791c12d2e2d7c2ebc6f390daf367ac94c9ac925ec06cd5","features":{},"yanked":true}
 {"name":"nz","vers":"0.4.0-beta.2","deps":[],"cksum":"8a0a7f9e15deef66d677ed6f3302bb0bb780d201d65752b386c5204f130a939f","features":{},"yanked":true}
 {"name":"nz","vers":"0.4.0","deps":[],"cksum":"8315dd39363def7ad0df259ece528ceab8973bf15f84c22cbab6f74916ac67a8","features":{},"yanked":true,"rust_version":"1.79.0"}
-{"name":"nz","vers":"0.4.1","deps":[],"cksum":"ef6851b8e9dc0c2b4ebe0551ff127d9c58a0959f45142cf60a4121a6e5667070","features":{},"yanked":false,"rust_version":"1.79.0"}
+{"name":"nz","vers":"0.4.1","deps":[],"cksum":"ef6851b8e9dc0c2b4ebe0551ff127d9c58a0959f45142cf60a4121a6e5667070","features":{},"yanked":true,"rust_version":"1.79.0"}
