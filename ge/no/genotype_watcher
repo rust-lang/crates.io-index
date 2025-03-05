@@ -1,1 +1,2 @@
 {"name":"genotype_watcher","vers":"0.6.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a7335702c359deea2e17b39f662690624ff2653d031f14e43d647613ab0cdccc","features":{},"yanked":false}
+{"name":"genotype_watcher","vers":"0.7.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7609e96fa022a553f40c0b99e93cd0409acfc95f0ed3b405273c0fa968835e66","features":{},"yanked":false}
