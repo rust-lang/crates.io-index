@@ -4,3 +4,4 @@
 {"name":"clipanion-core","vers":"0.4.1","deps":[],"cksum":"ec918cd3535ec1f99d6a2284e7cace4832b310fc8573a4eab6bbcfbde5e0c192","features":{},"yanked":false}
 {"name":"clipanion-core","vers":"0.5.0","deps":[],"cksum":"5a7ce25facacc9137754b651b198cf099c1d61931cb6ba3b40836cf88eb9a0ce","features":{},"yanked":false}
 {"name":"clipanion-core","vers":"0.6.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"078fca95984ebaaca89cf7832a55b80fe97b6ca20493d32e09326c91bb53ef5c","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a221ae8946a35cb9e5fd79c11d781a89bb815e323d508f3f1104ea58b006c07","features":{},"yanked":false}
