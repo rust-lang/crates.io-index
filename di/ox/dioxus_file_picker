@@ -1,0 +1,1 @@
+{"name":"dioxus_file_picker","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4aa03da9f2dcbbe44cf4fdcd3b7f8b717d6f82517876cb163187b696b668b9f","features":{"default":["web"],"desktop":["dioxus/desktop"],"mobile":["dioxus/mobile"],"web":["dioxus/web"]},"yanked":false}
