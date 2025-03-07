@@ -23,3 +23,4 @@
 {"name":"number-theory","vers":"0.0.22","deps":[],"cksum":"fedefc953fab9360ddcc136905685e1a7d3bd397b93de36d7685c87baeb2f9c8","features":{"parallel":[]},"yanked":false}
 {"name":"number-theory","vers":"0.0.23","deps":[],"cksum":"b4a00ee537662eb4e177e8c2ab75454cbf3db75bbe858e94ef039416c82882b3","features":{"parallel":[]},"yanked":false}
 {"name":"number-theory","vers":"0.0.24","deps":[{"name":"machine-prime","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6385dec3acbd7b01418b110c7df8c0bf077d254e075a0dcebb87d49b38bf4776","features":{"parallel":[]},"yanked":false}
+{"name":"number-theory","vers":"0.0.25","deps":[{"name":"machine-prime","req":"^1.5.5","features":["internal","wide","ssmr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c82900cc558779e85d6b341c632cba58caf6846b4baa8d17f5fc74e70eefd38a","features":{"parallel":[]},"yanked":false}
