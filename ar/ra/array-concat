@@ -10,3 +10,4 @@
 {"name":"array-concat","vers":"0.5.2","deps":[],"cksum":"e9180feb72ccbc07cfe5ef7fa8bbf86ca71490d5dc9ef8ea02c7298ba94e7f7d","features":{},"yanked":false}
 {"name":"array-concat","vers":"0.5.3","deps":[],"cksum":"68b4d2c47ea522f4135657904891e533727daca3d2d852f29f5e4cc50960c77c","features":{"const_panic":[]},"yanked":false}
 {"name":"array-concat","vers":"0.5.4","deps":[],"cksum":"06376fff0c29c5292f22b1ddf12e881fce9fdf417556862739881251d5b7ed00","features":{"const_panic":[]},"yanked":true}
+{"name":"array-concat","vers":"0.5.5","deps":[],"cksum":"de9067cfeb22d851858da2a5af9a82e385d363623094efa61cef7a45e651fc81","features":{"const_panic":[]},"yanked":false}
