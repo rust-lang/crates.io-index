@@ -9,4 +9,4 @@
 {"name":"array-concat","vers":"0.5.1","deps":[],"cksum":"7ae7fbe44301f50fc4b1e58131a0a71e40fd4c48c7231e2dc05b595145a29134","features":{},"yanked":false}
 {"name":"array-concat","vers":"0.5.2","deps":[],"cksum":"e9180feb72ccbc07cfe5ef7fa8bbf86ca71490d5dc9ef8ea02c7298ba94e7f7d","features":{},"yanked":false}
 {"name":"array-concat","vers":"0.5.3","deps":[],"cksum":"68b4d2c47ea522f4135657904891e533727daca3d2d852f29f5e4cc50960c77c","features":{"const_panic":[]},"yanked":false}
-{"name":"array-concat","vers":"0.5.4","deps":[],"cksum":"06376fff0c29c5292f22b1ddf12e881fce9fdf417556862739881251d5b7ed00","features":{"const_panic":[]},"yanked":false}
+{"name":"array-concat","vers":"0.5.4","deps":[],"cksum":"06376fff0c29c5292f22b1ddf12e881fce9fdf417556862739881251d5b7ed00","features":{"const_panic":[]},"yanked":true}
