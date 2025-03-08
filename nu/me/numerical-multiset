@@ -1,1 +1,2 @@
 {"name":"numerical-multiset","vers":"1.0.0","deps":[],"cksum":"886588225c045afd38707076de6d4741e1fe1964f2d9772c3f7f05576e0d9061","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"numerical-multiset","vers":"1.0.1","deps":[{"name":"proptest","req":"^1.6.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"475bd3d7b2895dc163584bc6f99e914d0fc4d18e091eb43c102373265c383400","features":{},"yanked":false,"rust_version":"1.85"}
