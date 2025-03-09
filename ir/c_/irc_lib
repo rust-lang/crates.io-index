@@ -1,1 +1,2 @@
 {"name":"irc_lib","vers":"0.1.0","deps":[{"name":"derive_more","req":"^2.0.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"585f3dd5ca21c0adbd2fe52b52d130648ddf7d1a13fe5d9b351d0c28749ebee6","features":{},"yanked":false}
+{"name":"irc_lib","vers":"0.1.1","deps":[{"name":"derive_more","req":"^2.0.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c918c8c2b43cc138f1c6f98a92766ed28c32e0950fa8efddf38297239b5085b4","features":{},"yanked":false}
