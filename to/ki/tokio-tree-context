@@ -1,0 +1,1 @@
+{"name":"tokio-tree-context","vers":"0.1.5","deps":[{"name":"tokio","req":"^1.44.0","features":["macros","sync","time","rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9de1d915082f780ec9f531766f5700b51dc9bf57dfcc02ef08fa39abb96dbedd","features":{},"yanked":false}
