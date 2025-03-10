@@ -1,1 +1,2 @@
 {"name":"lscpu","vers":"1.0.0","deps":[],"cksum":"3e711dd6c6ad95df7bc77c3a3f02b4730d4ca3355c3e2565dd31d0b46877374c","features":{},"yanked":false}
+{"name":"lscpu","vers":"1.0.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58a1e69f2ec2cc3586dae6e9da0bce922adfe8a7900c3a7a3065ab72a4efa658","features":{},"yanked":false}
