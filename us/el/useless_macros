@@ -1,1 +1,0 @@
-{"name":"useless_macros","vers":"0.1.0","deps":[{"name":"useless_setter_maker","req":"0.1.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a893247cb889daf9ecdc1d8897b3b27bfe13f8929efc51fca44f63858c3ee57","features":{"default":["setter_maker"],"setter_maker":["useless_setter_maker"]},"yanked":false,"rust_version":"1.85.0"}
