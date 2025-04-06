@@ -7,3 +7,4 @@
 {"name":"stalloc","vers":"0.5.0","deps":[],"cksum":"4c599e4649bc3f7181fdce1f0a968fcff3d36049e90f4b6fb582d596e5be488b","features":{"allocator-api":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"stalloc","vers":"0.5.1","deps":[],"cksum":"7f9485f9478104d50e0c368239e48dc9a02273d54ceb340ab4e9f0819360e65a","features":{"allocator-api":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"stalloc","vers":"0.5.2","deps":[],"cksum":"b2c41caa914fd9bcbc7c400f4b8d3e550e787831d574be7d8eeee635b697729b","features":{"allocator-api":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"stalloc","vers":"0.5.3","deps":[],"cksum":"1daeff500c1c2cfd8111a321a92942a8f29e72d0770033ba3169d51ae686f9d2","features":{"allocator-api":[],"default":["std"],"std":[]},"yanked":false}
