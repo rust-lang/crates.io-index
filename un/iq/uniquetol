@@ -1,1 +1,1 @@
-{"name":"uniquetol","vers":"0.1.0-beta","deps":[{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5c1031d47224d0a55390466274eef6e3f3b0365437ce4398d94905dc5788a1c","features":{},"yanked":false}
+{"name":"uniquetol","vers":"0.1.0-beta","deps":[{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5c1031d47224d0a55390466274eef6e3f3b0365437ce4398d94905dc5788a1c","features":{},"yanked":true}
