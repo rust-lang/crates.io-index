@@ -4,3 +4,4 @@
 {"name":"akari","vers":"0.1.3","deps":[],"cksum":"7cd12b5b0fbe6992fddd7bf88366a45b3300ee650c0b72e786eebe35804bb317","features":{},"yanked":false}
 {"name":"akari","vers":"0.2.0-rc1","deps":[{"name":"akari_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90754b8a2902e691ce7847672766b9c49833a4a05d71fa17b74a520b0bf42316","features":{},"yanked":false}
 {"name":"akari","vers":"0.2.0","deps":[{"name":"akari_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e660cbf55f82eca51c3064a974d56029bb31cd2889658b89341e79d0b2517655","features":{},"yanked":false}
+{"name":"akari","vers":"0.2.1-rc1","deps":[{"name":"akari_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37698b43af23eed79e73a31ffe0403268fcce882c79cec6b8b9eb6d1f1e22f13","features":{},"yanked":false}
