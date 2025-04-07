@@ -1,1 +1,2 @@
 {"name":"iter_variants","vers":"0.1.0","deps":[{"name":"iter_variants_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3a8798033cd9fb7345d2c8793646670372a81da9d8dd07f216348cd53e90064","features":{},"yanked":false}
+{"name":"iter_variants","vers":"0.1.1","deps":[{"name":"iter_variants_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"227f5874e4950a1bedcc007f95fd9cfdf41c35fe3dcc2637bc97dd2c5ac0695c","features":{},"yanked":false}
