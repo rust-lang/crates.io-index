@@ -1,3 +1,4 @@
 {"name":"deezconfigs","vers":"0.0.0","deps":[],"cksum":"d682e4672a348e5f58631ef30c0be875e44ff95a5e76e2f3717df1a068ffd0e4","features":{},"yanked":false}
 {"name":"deezconfigs","vers":"0.1.0","deps":[{"name":"ignore","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01a9eceb56b0c4011625ec898f6d8a5efd58d0d66d1e0973ef8767875050146c","features":{},"yanked":false}
 {"name":"deezconfigs","vers":"0.2.0","deps":[{"name":"ignore","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84d095c5a0d6a754e2bce589732a8e06793112348e43fbbe2c7ce056a1d585fb","features":{},"yanked":false}
+{"name":"deezconfigs","vers":"0.3.0","deps":[{"name":"ignore","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19351d4d4d7045c720c8e7572faa1ccdf1291fc94edc4831cef8666cd7a5c064","features":{},"yanked":false}
