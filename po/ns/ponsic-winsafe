@@ -1,0 +1,1 @@
+{"name":"ponsic-winsafe","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.9","features":["winuser","wingdi","libloaderapi","errhandlingapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"c4fa8551228d1de0b6eef9b1b7c3153291d4ba7ba7830884a797a55a606b7507","features":{},"yanked":false}
