@@ -1,1 +1,2 @@
 {"name":"mireforge-examples","vers":"0.0.19","deps":[{"name":"mireforge","req":"^0.0.19","features":["audio"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c4e587d46d8443f98600403f2bffebc2d80a00ee1a0196529596e8a53518857","features":{},"yanked":false}
+{"name":"mireforge-examples","vers":"0.0.20","deps":[{"name":"mireforge","req":"^0.0.20","features":["audio"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2c49455af603346c8d840785b7af1eaec0bd3cc81e1eb72135047959bffe61e","features":{},"yanked":false}
