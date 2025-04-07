@@ -1,1 +1,2 @@
 {"name":"mettrics","vers":"0.0.1","deps":[],"cksum":"3b110d6806c4c4dbd15bf549dbb94c5967967414fd36890062e4677697ca530f","features":{},"yanked":false}
+{"name":"mettrics","vers":"0.0.2","deps":[{"name":"mettrics-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02b2026ab529c374ec9dabf2cbfa39f2d6ffbe740f38c45edfade9e08d29a7e3","features":{},"yanked":false}
