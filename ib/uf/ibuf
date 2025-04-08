@@ -1,1 +1,2 @@
 {"name":"ibuf","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"62f9084a696a123b9b942c9683884fbb34f658bced9fe08a5666b2dde7278f57","features":{"default":[]},"yanked":false}
+{"name":"ibuf","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8afad29355821b7616cb36b9c3e73b89960be18bec82264d540744f27cfe2b18","features":{"default":[]},"yanked":false}
