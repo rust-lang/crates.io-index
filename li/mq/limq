@@ -3,3 +3,4 @@
 {"name":"limq","vers":"0.1.2","deps":[],"cksum":"2c4783125f7760e35aba968a8462e41451763ea569a8adee4fd9fa818ef0798a","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"limq","vers":"0.1.3","deps":[],"cksum":"c35d68257a002d5edcd126b11ba9f44a6f6dd053f468d845dab81bc35bfc674c","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"limq","vers":"0.1.4","deps":[],"cksum":"6fccaaf09f5f3b4ef27b475b0f784f98e2ef69e7315d605b9d62a783addb419a","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"limq","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6249c40cbee9951b0b3a67eb80d1bd79d05265935bfd3b1a9ed30208294b2355","features":{},"features2":{"bytes":["dep:bytes"]},"yanked":false,"rust_version":"1.85","v":2}
