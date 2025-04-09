@@ -1,0 +1,1 @@
+{"name":"blueprint-build-utils","vers":"0.1.0-alpha.1","deps":[{"name":"blueprint-std","req":"^0.1.0-alpha.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0e52a0a312ac29a005d3be2742ce43dc45a9fb4f6308798ef373954030cd38e9","features":{},"yanked":false,"rust_version":"1.86"}
