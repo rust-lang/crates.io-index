@@ -1,0 +1,1 @@
+{"name":"cal-billing","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64cfbac87ca8aafd9b930f39d797994c57586ee8d12f6c1e5c6e778be6b50920","features":{},"yanked":false}
