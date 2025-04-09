@@ -4,3 +4,4 @@
 {"name":"mini-server","vers":"0.1.1","deps":[],"cksum":"9d951fa4c87a07e0519f9ea1997ef3a80e528273eb2146aa70fd659c1a831e6d","features":{},"yanked":false}
 {"name":"mini-server","vers":"0.1.2","deps":[],"cksum":"d282a007c200d5ed81005b83ab75cf872668874c5297d11c212b34bb4a15e27c","features":{},"yanked":false}
 {"name":"mini-server","vers":"0.2.0","deps":[{"name":"httparse","req":"^1.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729699ee492745219951aff1fb4f7694e85894ba9e91c4ec75decb851012f667","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.2.1","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ea35aa719501f5724ff3fa8e4cbdda210b633ebae0c12844d4ca0f12a8cd61d","features":{},"yanked":false}
