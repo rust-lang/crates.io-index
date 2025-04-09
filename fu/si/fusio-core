@@ -1,0 +1,1 @@
+{"name":"fusio-core","vers":"0.3.8","deps":[{"name":"bytes","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"22299eb44e5d6935c5efd046e26a9c7fb8fa48838aa579ba94aea3b84a65e401","features":{"alloc":[],"completion-based":[],"no-send":[]},"features2":{"bytes":["dep:bytes"],"default":["alloc","bytes"]},"yanked":false,"v":2}
