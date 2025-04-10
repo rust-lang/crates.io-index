@@ -1,0 +1,1 @@
+{"name":"wgpu-core-deps-emscripten","vers":"25.0.0","deps":[{"name":"wgpu-hal","req":"^25.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"emscripten\")","kind":"normal"}],"cksum":"f09ad7aceb3818e52539acc679f049d3475775586f3f4e311c30165cf2c00445","features":{"gles":["wgpu-hal/gles"]},"yanked":false,"rust_version":"1.76"}
