@@ -1,0 +1,1 @@
+{"name":"brine-fp","vers":"0.1.0","deps":[{"name":"uint","req":"^0.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b1f639406538370da180fa4f99fd6a753bed98ac97399c88bb398aa21bd7362e","features":{"default":["std"],"std":["uint/std"]},"yanked":false}
