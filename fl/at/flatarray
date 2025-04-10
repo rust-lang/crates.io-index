@@ -5,3 +5,4 @@
 {"name":"flatarray","vers":"0.5.0","deps":[],"cksum":"9dc61d199b4135ebede5d9aaca4d9e85142433739bfde82645b1d92f6990f0e3","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"flatarray","vers":"0.6.0","deps":[],"cksum":"4d81c41c8249b73f15bb83373c4a3a12f6d8299778edea9eac5eb39d52513fe0","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"flatarray","vers":"0.7.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78f7ab7c23769ebd93c3999fabab23f0e981b7371fa29b390e731445c64f2c42","features":{"serde":[]},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.7.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9981e90f3dc23628fd89bedcaff9788a9b44bff64f4c6949062dfd18fba70a4","features":{"serde":[]},"yanked":false,"rust_version":"1.78.0"}
