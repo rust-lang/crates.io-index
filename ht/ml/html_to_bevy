@@ -16,3 +16,4 @@
 {"name":"html_to_bevy","vers":"0.7.0","deps":[{"name":"convert_case","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c18e21877909f80dd9b813531007ec56dfa7f74f3e13f2e259eb5abb7efb063a","features":{"default":[]},"yanked":false}
 {"name":"html_to_bevy","vers":"0.8.0","deps":[{"name":"convert_case","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1fc8ce989b45b7133a84812bc975b9c1793e3c1470a0149b6036201ee2e9412","features":{"default":[]},"yanked":false}
 {"name":"html_to_bevy","vers":"0.8.1","deps":[],"cksum":"bf3b216a8d2b16d4d96e80e38969136dd53957ae0ae8285ddd872fb891c49b8e","features":{"default":[]},"yanked":false}
+{"name":"html_to_bevy","vers":"0.8.2","deps":[],"cksum":"eaddde4265c0b9f896e98f1392462f4271e0e1d1abc02ac39558029edb152b3d","features":{"default":[]},"yanked":false}
