@@ -1,1 +1,2 @@
 {"name":"elara_log","vers":"0.1.0","deps":[{"name":"sys-time","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f8955ac85f4b34a8cea66ebf9bf8b3b20c7bc5cc929ef0393ca504294cf882d","features":{},"yanked":false}
+{"name":"elara_log","vers":"0.1.1","deps":[{"name":"sys-time","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d3ce3b07206d20ce9ab986256a1d64cc4938f60bef5d8a19ffc6bc1aff49132","features":{},"yanked":false}
