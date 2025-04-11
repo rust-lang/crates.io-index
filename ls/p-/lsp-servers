@@ -1,1 +1,2 @@
 {"name":"lsp-servers","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2283e7a572527ba323f9632e7ce78da23c5478dff495fa95a6dbf25df717029b","features":{},"yanked":false}
+{"name":"lsp-servers","vers":"0.1.1","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"753e701fdfa3b885eab8ed227d1fd5f8e8d9214af9a2791dbce75e9091a1fcf9","features":{},"yanked":false}
