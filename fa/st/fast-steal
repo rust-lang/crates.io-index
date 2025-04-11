@@ -7,3 +7,4 @@
 {"name":"fast-steal","vers":"1.2.0","deps":[{"name":"crossbeam-channel","req":"^0.5.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9fb256c0f53378b903633502f279faa5a5e12bc411b7da6cdf88011f2a1363","features":{},"yanked":false}
 {"name":"fast-steal","vers":"1.2.1","deps":[{"name":"crossbeam-channel","req":"^0.5.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68acfe01e5602912eaabaa9522451b1d8aaf5d2865cf7da91e0bece88c9b14ca","features":{},"yanked":false}
 {"name":"fast-steal","vers":"2.0.0","deps":[],"cksum":"374e3425556dfa13b3cab136893e6f2ffa20d320e9c95027476de2dc267f7613","features":{},"yanked":false}
+{"name":"fast-steal","vers":"2.1.0","deps":[],"cksum":"275ea8268a77c9937faf7fc3be5a5dfc4de8cd59c9cde7a718f974d8dcd4dfc6","features":{},"yanked":false}
