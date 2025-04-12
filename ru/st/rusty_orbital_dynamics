@@ -1,0 +1,1 @@
+{"name":"rusty_orbital_dynamics","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.20","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51028c2edeec4de4f6d01d4ea7fbd5320b86a1f54552aaab24bb6dfd0bc7ff56","features":{},"yanked":false}
