@@ -1,0 +1,1 @@
+{"name":"async-safe-defer","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.2","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe8f152f19fb677f2f9bff6eb7f2a278abbc68659b999759f85a4fdd12a25afe","features":{"default":[],"no_alloc":[]},"yanked":false}
