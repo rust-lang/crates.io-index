@@ -2,3 +2,4 @@
 {"name":"minparser","vers":"0.2.0","deps":[],"cksum":"0f2a309dbda8a9d0f3a330da41c3991b7c083d3650baaa47bbf814f9c96d86e1","features":{"alloc":[]},"yanked":false}
 {"name":"minparser","vers":"0.2.3","deps":[],"cksum":"56e653ca5b047fed3e5eb37d773d5491d920354185f014298f0eee18c0484753","features":{"alloc":[]},"yanked":false}
 {"name":"minparser","vers":"0.3.0","deps":[],"cksum":"6b87b1da85972de18e8db8dce2c2a8cddd2cc581daf0305b044ae6481a3292c6","features":{"alloc":[]},"yanked":false}
+{"name":"minparser","vers":"0.4.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"03341a444ac3a60b16229d950c7bca8e2394ece48c8bf2e7c81ee1192e68da72","features":{"alloc":[]},"yanked":false}
