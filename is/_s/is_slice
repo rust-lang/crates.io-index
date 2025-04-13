@@ -14,3 +14,4 @@
 {"name":"is_slice","vers":"0.10.0","deps":[{"name":"test_tools","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3363d7a5202903dbc27e0e385fc3e8ece2539186a29508f5e985eb3be7240cfa","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
 {"name":"is_slice","vers":"0.11.0","deps":[],"cksum":"2ad1fb4c70b4fc68861e7e47c75222d480a6a1e02f37164cccfc7837f9d946b7","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
 {"name":"is_slice","vers":"0.12.0","deps":[],"cksum":"a950274599034d8851c64cc92b17b1739c0aed4443eefa3bd7c776e959fcda00","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
+{"name":"is_slice","vers":"0.13.0","deps":[],"cksum":"dcaf1c3931f92f5c48e3b836d7b4c2fc127c16cd8f23f74d192230e392a4f31d","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
