@@ -1,0 +1,1 @@
+{"name":"typeflow","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e1f33ce74f72c24e3c905c0383847ec2277da894229f1b42113a2a9309dc132","features":{},"yanked":false}
