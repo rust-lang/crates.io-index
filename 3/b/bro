@@ -1,0 +1,1 @@
+{"name":"bro","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.36","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fec228e12b7f5bc79b87b01d11aee3c174126df78f15fa88a9d7a19d4270ae7","features":{},"yanked":false}
