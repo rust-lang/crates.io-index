@@ -1,0 +1,1 @@
+{"name":"recore","vers":"0.1.0","deps":[],"cksum":"53c497efed11c2b69091f1f9350d2492fdf5c7e527d3414a1d648580a34566d8","features":{"alloc":[],"default":["std","rs-std"],"rs-alloc":[],"rs-std":["rs-alloc"],"std":["alloc"]},"yanked":false}
