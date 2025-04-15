@@ -1,0 +1,1 @@
+{"name":"serde_hash_derive","vers":"0.1.0","deps":[{"name":"quote","req":">=1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":">=2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cf2a1fe709e024c93d1ac534e64a2d9863e0114358243b5b3fd41e9437a1784","features":{},"yanked":false}
