@@ -1,0 +1,1 @@
+{"name":"jam-program-blob","vers":"0.1.13","deps":[{"name":"scale","req":"^3.6.12","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"parity-scale-codec"}],"cksum":"e0952093355fe710fa4738eafca7ae6eeff8c91426283e86c9210b1725dd1b0b","features":{"default":["std"],"std":["scale/std"]},"yanked":false}
