@@ -1,3 +1,4 @@
 {"name":"coa-website","vers":"0.1.0","deps":[],"cksum":"bb93b20a47e26a5bdfad162b751f96818c7b261c5a8d11172de0b25e9ef4d5b1","features":{},"yanked":false}
 {"name":"coa-website","vers":"0.1.2","deps":[{"name":"httpdate","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df1db30f8ac60aa2f8a1a4252161f1d0968c80065ae4496799557ed387883618","features":{},"yanked":false}
 {"name":"coa-website","vers":"0.1.3","deps":[{"name":"httpdate","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c355d124e27c24ccab9b2fe2e9db5a07b45ce12fc2a0c15f800015a4fd8da590","features":{},"yanked":false}
+{"name":"coa-website","vers":"0.1.4","deps":[{"name":"httpdate","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07cc3e98c3c248ff7794f1568e1dadec796e3f502ec18f9e5a2132691620b56c","features":{},"yanked":false}
