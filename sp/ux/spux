@@ -1,0 +1,1 @@
+{"name":"spux","vers":"0.1.0","deps":[{"name":"leptos","req":"^0.7.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11506a0c1bee21671319ee439b253f3b0bff698c2fd468ec24605027d8ac6b21","features":{"csr":["leptos/csr"],"hydrate":["leptos/hydrate"],"pulsers":[],"spinners":[],"ssr":["leptos/ssr"]},"yanked":false}
