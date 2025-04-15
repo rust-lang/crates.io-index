@@ -1,0 +1,1 @@
+{"name":"openmp-reducer","vers":"0.2.3","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cbe4b0038b98b0d7639b2e46311a08882633b72d1718ee1ad8f35ccf28e7b6d1","features":{},"yanked":false}
