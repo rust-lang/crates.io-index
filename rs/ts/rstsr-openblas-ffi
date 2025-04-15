@@ -8,3 +8,4 @@
 {"name":"rstsr-openblas-ffi","vers":"0.2.5","deps":[],"cksum":"6e6b4b2f7b5387e85b226d6323aadfdb6065aa23cad3ed0488bd29a1a1af9100","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
 {"name":"rstsr-openblas-ffi","vers":"0.2.6","deps":[],"cksum":"8309a822a0849bb2d23745f0a3c281d0fd5a98e3de071e92dfeb91c40e8d4073","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
 {"name":"rstsr-openblas-ffi","vers":"0.3.0","deps":[],"cksum":"5d7daa620b7977855af0e80724ce0d09e619673c03a4933b2155d5df1c1cf76c","features":{"default":[],"ex_precision":[],"ilp64":[],"quad_precision":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.3.1","deps":[],"cksum":"e337d79052512362d157edc9e097ba7fae2732d0b99b1f3aad2c8a4043c8a214","features":{"default":[],"ex_precision":[],"ilp64":[],"quad_precision":[]},"yanked":false}
