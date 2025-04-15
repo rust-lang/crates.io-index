@@ -1,1 +1,2 @@
 {"name":"coa-website","vers":"0.1.0","deps":[],"cksum":"bb93b20a47e26a5bdfad162b751f96818c7b261c5a8d11172de0b25e9ef4d5b1","features":{},"yanked":false}
+{"name":"coa-website","vers":"0.1.2","deps":[{"name":"httpdate","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df1db30f8ac60aa2f8a1a4252161f1d0968c80065ae4496799557ed387883618","features":{},"yanked":false}
