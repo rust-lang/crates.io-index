@@ -1,1 +1,2 @@
 {"name":"optionally_const","vers":"0.1.0","deps":[],"cksum":"0cdca6fd23fd6be5582df660e9058b3e0035324c05da679db9e6791fec44cb2e","features":{},"yanked":false}
+{"name":"optionally_const","vers":"0.2.0","deps":[{"name":"optionally_const_macros","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e4a0bb1c1fa0a88ac13c425e57fdbe59734a5645625112a5b08d9f318a9f9b7","features":{},"features2":{"derive":["dep:optionally_const_macros"]},"yanked":false,"v":2}
