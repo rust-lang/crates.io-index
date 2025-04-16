@@ -1,1 +1,2 @@
 {"name":"int-div-cum-error","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"652f993553ac0f4764afbf36558602a5d71acb3ee978b0b8baf09bc7c80ca1ef","features":{},"yanked":false}
+{"name":"int-div-cum-error","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75c8a0922e5f2859a67785c7a0fec9b52048ba175e9501033254d2df523cc8d8","features":{},"yanked":false}
