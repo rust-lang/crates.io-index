@@ -23,3 +23,4 @@
 {"name":"pi_share","vers":"0.5.0","deps":[],"cksum":"742e062482784999bca4084462c09bed05cc3210ea50c29e6c6fa640a85d961e","features":{"rc":[],"serial":[]},"yanked":false}
 {"name":"pi_share","vers":"0.4.16","deps":[],"cksum":"bb2bd575b1ebe837b9c802fe30192212299e45d3f3774b2fdae15833b7f61974","features":{"rc":[],"serial":[]},"yanked":false}
 {"name":"pi_share","vers":"0.5.1","deps":[],"cksum":"d0482a0d1f3f8858dc2e7bf9e4446c5a5775db9105f37f183bd7214d249bddb5","features":{"rc":[],"serial":[]},"yanked":false}
+{"name":"pi_share","vers":"0.5.2","deps":[{"name":"pi_null","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d05f49f68abc528bb2a0a766e34e3e3cda3d4c4aeebb9dd985d6e0bff437d117","features":{"rc":[],"serial":[]},"yanked":false}
