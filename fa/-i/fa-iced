@@ -1,1 +1,2 @@
 {"name":"fa-iced","vers":"0.1.0","deps":[{"name":"iced","req":"^0.13.1","features":["advanced"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f244472489ee18886c4231e9f32c017abbd7e9bc2fdb4a58a1e17139e02168e","features":{},"yanked":false}
+{"name":"fa-iced","vers":"0.1.1","deps":[{"name":"iced","req":"^0.13.1","features":["advanced"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ecc959b01cab0aaff5c1656be65f7ca9c1833ecdf907ca79b192eb2233c2e71","features":{},"yanked":false}
