@@ -1,1 +1,0 @@
-{"name":"percas-metrics","vers":"0.0.1","deps":[{"name":"opentelemetry","req":"^0.29.1","features":["trace","metrics"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d36c5b788d7921473eb3ba9f66e8a9be41c6bc61ee83dcc438f2acc69f41e135","features":{},"yanked":false}
