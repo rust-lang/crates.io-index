@@ -1,2 +1,3 @@
 {"name":"say-hello-rm","vers":"0.1.0","deps":[],"cksum":"d88e97d67f1828890bc0239b34b96e362e47853b7186e3ad7fd6facf57492a39","features":{},"yanked":false}
 {"name":"say-hello-rm","vers":"0.3.0","deps":[],"cksum":"c32821522919108e650da090e6efa2809855a95678073d73ca4de9d4071b3927","features":{},"yanked":false}
+{"name":"say-hello-rm","vers":"0.4.0","deps":[],"cksum":"08f55d3abc1133dfea54079573a66c6f48fc87c451268485c3bdb4b02c48563c","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
