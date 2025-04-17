@@ -1,0 +1,1 @@
+{"name":"dory","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"75c0780b45a7ef42e982b17396d440b2e3ebc691b35ba1593a62e8ec04502460","features":{},"yanked":false}
