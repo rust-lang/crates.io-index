@@ -1,0 +1,1 @@
+{"name":"shutup","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.2","features":["sync"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"824113940e95d91337e5cf7a64e413d6ab091681c320748c5816d79de9938099","features":{},"yanked":false}
