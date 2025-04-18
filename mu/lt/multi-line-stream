@@ -1,0 +1,1 @@
+{"name":"multi-line-stream","vers":"1.0.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72ccdcbca08cc852c1c0e11e5f3b350743df1d152349cef3d9f4393b627a0621","features":{"default":[],"full":["regex"]},"yanked":false}
