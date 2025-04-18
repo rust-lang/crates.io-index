@@ -1,0 +1,1 @@
+{"name":"getenv","vers":"0.0.1","deps":[{"name":"dogma","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1098bf55ddd6f8d9555b4d5d56557fc4078aafd4d91ae9423056a624f7590d3c","features":{"all":[],"default":["all","std"],"std":["dogma/std"],"unstable":[]},"yanked":false,"rust_version":"1.81"}
