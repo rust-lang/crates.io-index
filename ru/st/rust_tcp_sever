@@ -2,8 +2,8 @@
 {"name":"rust_tcp_sever","vers":"0.1.1","deps":[],"cksum":"3387dcd87873a93297e2ecafd518f64756bfa856251cd6012936d037a9474444","features":{},"yanked":false}
 {"name":"rust_tcp_sever","vers":"0.1.2","deps":[],"cksum":"730108998fd8fe251b4571014596482eb6f5d400e4d91a4106c0e744745ec3bc","features":{},"yanked":false}
 {"name":"rust_tcp_sever","vers":"0.1.3","deps":[],"cksum":"37a7cc1a80ded4c6fd1163fd43183f92794ca9237852f81f0258e5533a11e81a","features":{},"yanked":false}
-{"name":"rust_tcp_sever","vers":"0.1.4","deps":[],"cksum":"39128403bd64a2eace89fa059014034e1fa20aaf9ff0e6558dc6f865c36ae617","features":{},"yanked":false}
-{"name":"rust_tcp_sever","vers":"0.1.5","deps":[],"cksum":"189311a5353b2b36b3e48c9db5307227339b0eab7d4b1fb540a2a6d68510d435","features":{},"yanked":false}
+{"name":"rust_tcp_sever","vers":"0.1.4","deps":[],"cksum":"39128403bd64a2eace89fa059014034e1fa20aaf9ff0e6558dc6f865c36ae617","features":{},"yanked":true}
+{"name":"rust_tcp_sever","vers":"0.1.5","deps":[],"cksum":"189311a5353b2b36b3e48c9db5307227339b0eab7d4b1fb540a2a6d68510d435","features":{},"yanked":true}
 {"name":"rust_tcp_sever","vers":"0.1.6","deps":[],"cksum":"4701fc8497e095e5ab945f63678b2b61ab051f8fefd15de7f6e1a8e439a0cc15","features":{},"yanked":true}
 {"name":"rust_tcp_sever","vers":"0.1.7","deps":[],"cksum":"fbb002fed88decb31fbf53beea38138bfd68420db05b84bf683a645ca1c7caf7","features":{},"yanked":true}
 {"name":"rust_tcp_sever","vers":"0.1.8","deps":[],"cksum":"3b03a310d914941795e57a7ec6022653e84717056fe4782b302b1541c50d3f16","features":{},"yanked":true}
