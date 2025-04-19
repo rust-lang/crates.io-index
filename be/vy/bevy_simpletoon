@@ -1,1 +1,2 @@
 {"name":"bevy_simpletoon","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c3cdcecc9d809de5323d2f40fae5412aafbc43c8a39de7e162a3e4ce08a234b","features":{},"yanked":false}
+{"name":"bevy_simpletoon","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dab9a59c0a474e6207c004d8c7a1c59db19d0646222e1fabf2586098cd99ced","features":{},"yanked":false}
