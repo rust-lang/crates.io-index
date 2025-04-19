@@ -1,0 +1,1 @@
+{"name":"lucide-icons","vers":"0.443.0","deps":[{"name":"iced","req":"^0.13","features":["advanced"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"769d9dc782ee41f1c913a070cda4abc8e8bc1380ffb67c81276eb0e5c87fa30d","features":{"default":[]},"features2":{"iced":["dep:iced"]},"yanked":false,"v":2}
