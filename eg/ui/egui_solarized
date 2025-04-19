@@ -1,1 +1,2 @@
 {"name":"egui_solarized","vers":"0.1.0","deps":[{"name":"egui","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34252406107de743750ea08ed65bdcb3e22e088224e583a7e5005a816240f3c4","features":{},"yanked":false}
+{"name":"egui_solarized","vers":"0.2.0","deps":[{"name":"egui","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf5d6c559a2950eea63e9145e29f569aa4302e94ccdcf56b44359f6e1787b59d","features":{},"yanked":false}
