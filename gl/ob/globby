@@ -1,0 +1,1 @@
+{"name":"globby","vers":"0.1.0","deps":[{"name":"parsy","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12160fe85b56dd80349a4c72aba128a6363604ffbafd491cb30fa10eb3daf775","features":{},"yanked":false}
