@@ -1,0 +1,1 @@
+{"name":"globetrotter-python","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05f7a552073cc08c22850ccba8fde5eaa902a22edfec155e645cd31fe7efa85b","features":{"default":[]},"yanked":false}
