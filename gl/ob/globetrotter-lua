@@ -1,0 +1,1 @@
+{"name":"globetrotter-lua","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37377aae236a1e30190c605e887e23f1b25bbfd0a2713f12a715951a36cb0926","features":{"default":[]},"yanked":false}
