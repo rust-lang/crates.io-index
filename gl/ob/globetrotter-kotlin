@@ -1,0 +1,1 @@
+{"name":"globetrotter-kotlin","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"758d5effd97a6f919e0e03a05d16048a03a37592e349ba80a0e51620f17c2017","features":{"default":[]},"yanked":false}
