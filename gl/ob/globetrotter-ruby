@@ -1,0 +1,1 @@
+{"name":"globetrotter-ruby","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7228e4dd8fcb2900c4b67b6c681de5272f10d2b3db34d837e7bf5368710bb59f","features":{"default":[]},"yanked":false}
