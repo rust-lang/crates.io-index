@@ -1,0 +1,1 @@
+{"name":"globetrotter-golang","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3f5c34d06cef64afa027b8186d6969129f0bf53a0b9fef990f053fe99c40337","features":{"default":[]},"yanked":false}
