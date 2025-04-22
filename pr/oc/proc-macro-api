@@ -1,2 +1,3 @@
 {"name":"proc-macro-api","vers":"0.1.0","deps":[],"cksum":"96f6738f27252e888af06ec18f7a6ae26e125370373e0f9247cca3284c745ce7","features":{"auto_transform":[],"default":["deny_shadow"],"deny_group_attr":[],"deny_override":[],"deny_shadow":[]},"yanked":false}
 {"name":"proc-macro-api","vers":"0.1.1","deps":[],"cksum":"aad2fea68a9c30fcf6fc11ba3fc8a7f68745d102a22d7e3ea1381e2781cde54f","features":{"auto_transform":[],"default":["deny_shadow"],"deny_group_attr":[],"deny_override":[],"deny_shadow":[]},"yanked":false}
+{"name":"proc-macro-api","vers":"0.1.2","deps":[],"cksum":"c4d549c3af508455e0b7a124e380a3571bad619d5b8a85c2820bbd67cf5236f8","features":{"auto_transform":[],"default":["deny_shadow"],"deny_group_attr":[],"deny_override":[],"deny_shadow":[]},"yanked":false}
