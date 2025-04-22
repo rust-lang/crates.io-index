@@ -1,0 +1,1 @@
+{"name":"lerc","vers":"0.1.0","deps":[{"name":"lerc-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70a107bb4f299c6205a055b2041bf180533062c19a588f56e8cde2118a9ae372","features":{"default":["vendored"],"vendored":[]},"yanked":false,"rust_version":"1.85.0"}
