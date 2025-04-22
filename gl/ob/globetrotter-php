@@ -1,0 +1,1 @@
+{"name":"globetrotter-php","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d82c5d0726f70e24c1807ba1a0dc9e18697637c1b08ac67663e1f1950a555569","features":{"default":[]},"yanked":false}
