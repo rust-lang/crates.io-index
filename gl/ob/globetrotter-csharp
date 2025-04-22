@@ -1,0 +1,1 @@
+{"name":"globetrotter-csharp","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15e82c4250c3b9566d3a4d9d6a2f0fd1172b4b5adc8c64b6d0d91dcc55c35093","features":{"default":[]},"yanked":false}
