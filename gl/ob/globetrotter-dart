@@ -1,0 +1,1 @@
+{"name":"globetrotter-dart","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"273a42036bfc7007fc493606c15700f6a317e24ad0f9cd08951f7e2727336133","features":{"default":[]},"yanked":false}
