@@ -1,0 +1,1 @@
+{"name":"globetrotter-zig","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f13c0636d6fe62be84c299763dd81dee0271e647e3eafa473886dca91a169e8","features":{"default":[]},"yanked":false}
