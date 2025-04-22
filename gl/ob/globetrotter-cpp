@@ -1,0 +1,1 @@
+{"name":"globetrotter-cpp","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e345673937b5c8717c8891febe111b43f9128acd28d70663f4fa4fcfd32a0033","features":{"default":[]},"yanked":false}
