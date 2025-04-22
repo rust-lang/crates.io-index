@@ -1,1 +1,2 @@
 {"name":"globetrotter-java","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b34c9b1506e3f8a9c23e85724a91bc2245bba8908cd5c21e60757f0c802dc44","features":{"default":[]},"yanked":false}
+{"name":"globetrotter-java","vers":"0.0.4","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7f4d590760f2f558183d672c17d01354a7441dfd4201010af86b96017846d3b","features":{"default":[]},"yanked":false}
