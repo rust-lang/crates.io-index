@@ -1,0 +1,1 @@
+{"name":"globetrotter-elixir","vers":"0.0.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957d52ac19d2ee3c7a8a4fd634a0b06fe2ebd47b15c4cefb88a9681c8c3e9043","features":{"default":[]},"yanked":false}
