@@ -1,1 +1,2 @@
 {"name":"rust-curl","vers":"0.1.0","deps":[{"name":"native-tls","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de470fbfcf3bf53f13c643ca90d5f6fcf4d7d42c22bc6586250469e3ae7a28c4","features":{},"yanked":false}
+{"name":"rust-curl","vers":"0.1.1","deps":[{"name":"native-tls","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f87418c5dc0dd264b41ae0ef0bf45d46802f00c7de061bb579eeac5eeb14953","features":{},"yanked":false}
