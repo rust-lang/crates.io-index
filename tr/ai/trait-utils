@@ -1,0 +1,1 @@
+{"name":"trait-utils","vers":"0.0.0","deps":[{"name":"smallvec","req":"^2.0.0-alpha.11","features":["extract_if","specialization"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d49c0153ecbfef1c9eb1d1c8eb980233707493653f792500fb730f46e9d243d","features":{},"features2":{"smallvec":["dep:smallvec"]},"yanked":false,"rust_version":"1.85.0","v":2}
