@@ -1,1 +1,2 @@
 {"name":"autotrait","vers":"0.1.0","deps":[{"name":"unsynn","req":"^0.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e3ebf03408fe30644da420192f9df5fbcfd9d4c54bda10f49e619f24cce0df5","features":{},"yanked":false}
+{"name":"autotrait","vers":"0.1.1","deps":[{"name":"unsynn","req":"^0.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb41fe0981c83c2feaf130775d23a738774aa6e5b90d2a3c9037c9e4faffeb15","features":{},"yanked":false}
