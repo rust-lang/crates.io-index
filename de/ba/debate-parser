@@ -1,0 +1,1 @@
+{"name":"debate-parser","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.7.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8a63c8e4fa553ef2160302d6b3ff9b75a1557143e9a6a09229894b9aa6a9d826","features":{"std":["memchr/std"]},"yanked":false}
