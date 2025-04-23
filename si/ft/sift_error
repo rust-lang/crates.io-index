@@ -1,1 +1,2 @@
 {"name":"sift_error","vers":"0.1.0","deps":[{"name":"indoc","req":"^2.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68d1634883718582772f5273d3b7837e0ffebbc87e572ed9b87a6297d6ba802f","features":{},"yanked":false}
+{"name":"sift_error","vers":"0.2.0","deps":[{"name":"indoc","req":"^2.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"98335b32525e6d1c2624e80845110ae870e1f18d220fe8a3781425e069ae1051","features":{},"yanked":false}
