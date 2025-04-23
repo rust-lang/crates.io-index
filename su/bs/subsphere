@@ -3,3 +3,4 @@
 {"name":"subsphere","vers":"0.3.0","deps":[{"name":"insta","req":"^1.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f9b5e2a1f5897222e12260ab886546f5a8440ccf9c6f0f6e0875fa89bbbc8f8f","features":{},"yanked":false}
 {"name":"subsphere","vers":"0.4.0","deps":[{"name":"insta","req":"^1.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97049665656add26d1b586eed8ad2c8ccb1eb6e72ed65d35b2e0e48da442b308","features":{},"yanked":false}
 {"name":"subsphere","vers":"0.5.0","deps":[],"cksum":"86ca43dd970fe8903e4ff2095b2ef9d93afd8227b9233c75746d3f9e176b5080","features":{},"yanked":false}
+{"name":"subsphere","vers":"0.5.1","deps":[],"cksum":"d91d57344a2a998d7a347edbed7ce5055b607274ad4ae6214a880447029fee2f","features":{},"yanked":false}
