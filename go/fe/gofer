@@ -1,0 +1,1 @@
+{"name":"gofer","vers":"0.0.0","deps":[{"name":"dogma","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f1a3cfe85a92cfc24b218f53e5129836d78e17726e4e124e46987da002903a30","features":{"all":[],"default":["all","std"],"std":["dogma/std"],"unstable":[]},"yanked":false,"rust_version":"1.81"}
