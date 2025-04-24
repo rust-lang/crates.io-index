@@ -1,1 +1,2 @@
 {"name":"lsonar","vers":"0.1.0","deps":[],"cksum":"ef3ae14f4ad0f6ee3509303d4abe815a9b88054c67a23817c6e8487413254445","features":{},"yanked":false}
+{"name":"lsonar","vers":"0.2.0","deps":[],"cksum":"991ef3d7270bce52ea5c88704306d5262e2c42b8cd05fd09d15d1106eb0981a4","features":{"0-based":[],"1-based":[],"default":["1-based"]},"yanked":false}
