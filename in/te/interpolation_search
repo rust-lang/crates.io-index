@@ -7,3 +7,4 @@
 {"name":"interpolation_search","vers":"0.2.2","deps":[],"cksum":"3ffe3167f2d9f7fcc69fc8bf40608b4a92d9815b57f7fb2468546a91b7a82c5d","features":{},"yanked":false}
 {"name":"interpolation_search","vers":"1.0.0","deps":[],"cksum":"668b5e1e6963c44d6199e7d1bf2525636a0d340baa239cd28c131454df79fc21","features":{},"yanked":false}
 {"name":"interpolation_search","vers":"1.1.0","deps":[],"cksum":"611becb646c7fdbf5d57593cc39e8092b9b55ff5b9b1bff5bccac8903a55c20b","features":{},"yanked":false}
+{"name":"interpolation_search","vers":"1.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a330316a19dfb70e3a8df597eb15e41dcd5d45372cfb98f6a6486f0bd751c8e5","features":{},"yanked":false}
