@@ -1,0 +1,1 @@
+{"name":"async_limiter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"792a9c3c68824a6dea972abd9ffd2eb75452fc2f541f5ebb69073672692401e0","features":{},"yanked":false}
