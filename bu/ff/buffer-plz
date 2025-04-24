@@ -1,1 +1,2 @@
 {"name":"buffer-plz","vers":"0.0.1","deps":[{"name":"bytes","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7babe110aac624ca20966125798c2c834784cb0ae16802ca3dd82dee6f09f50","features":{},"yanked":false}
+{"name":"buffer-plz","vers":"0.0.2","deps":[{"name":"bytes","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32b71d9230fe8b40f9736014ff6d9dfb3701440bb575f112b704b9bee98e4388","features":{},"yanked":false}
