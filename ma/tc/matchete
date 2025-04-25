@@ -1,2 +1,3 @@
 {"name":"matchete","vers":"0.0.1","deps":[],"cksum":"4963facc298eb279311030e74f01bd4dd7d83b7ab101ed368bc5bea2cc35691b","features":{},"yanked":false}
 {"name":"matchete","vers":"0.0.2","deps":[],"cksum":"d98057c33b7d5e5d73f4834140e1a6e9904225f19809e48e63cc7a7af7b79c99","features":{},"yanked":false}
+{"name":"matchete","vers":"0.0.3","deps":[{"name":"hashish","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3195b00584a4244ad57506e6283361c946369a66082b61d8a8c50ee5ee166ee","features":{},"yanked":false}
