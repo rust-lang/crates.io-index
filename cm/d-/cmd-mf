@@ -1,0 +1,1 @@
+{"name":"cmd-mf","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53f278c73d461d5fa674d532e2f6bcfbf5866bce5d2abc0e8ffa00ba168b9583","features":{},"yanked":false}
