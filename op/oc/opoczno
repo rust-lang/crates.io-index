@@ -1,1 +1,2 @@
 {"name":"opoczno","vers":"0.1.1","deps":[{"name":"rickroll","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"720db0a05257d65b7e6e42d8ca16a0ee2b3acfc412d39786b0d1bdc9fad0402c","features":{},"yanked":false}
+{"name":"opoczno","vers":"0.1.2","deps":[{"name":"srede","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee7c6f9f8271bb746f9858e49a0b4c95d56081e32dfea474fe47d94dd78c0f11","features":{},"yanked":false}
