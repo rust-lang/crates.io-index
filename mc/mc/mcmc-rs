@@ -1,1 +1,1 @@
-{"name":"mcmc-rs","vers":"0.1.0","deps":[{"name":"smol","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6869dea890fba5a6e89345452b0b28c9510acec5562754a7d358ca72e194d77","features":{},"yanked":true}
+{"name":"mcmc-rs","vers":"0.1.0","deps":[{"name":"smol","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6869dea890fba5a6e89345452b0b28c9510acec5562754a7d358ca72e194d77","features":{},"yanked":false}
