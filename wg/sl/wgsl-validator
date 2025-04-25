@@ -1,0 +1,1 @@
+{"name":"wgsl-validator","vers":"0.1.0","deps":[{"name":"naga","req":"^25.0.1","features":["wgsl-in"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"005e86cf0b058b6115d84b720d4f5e47de809410c5721cfab17273ba3778adde","features":{},"yanked":false}
