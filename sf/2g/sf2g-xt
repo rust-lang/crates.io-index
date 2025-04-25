@@ -1,1 +1,2 @@
 {"name":"sf2g-xt","vers":"0.1.0","deps":[{"name":"sf2g","req":"^0.1","features":["graphics"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ca78a587c974c49be79aafcec95d92cb2e42921b6a2dca862cf6edef5a0a55f2","features":{},"yanked":false}
+{"name":"sf2g-xt","vers":"0.2.0","deps":[{"name":"sf2g","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92d0a1d86b2958618ddb389ce7fcc69f05f141c6e3e5e0232ebef9571c887d98","features":{},"yanked":false}
