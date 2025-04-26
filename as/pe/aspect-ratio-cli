@@ -1,2 +1,2 @@
 {"name":"aspect-ratio-cli","vers":"0.1.0","deps":[],"cksum":"aa4efb731e17a38a3611c53d036604a8636971d8bddd86ca130ee187de453f19","features":{},"yanked":false}
-{"name":"aspect-ratio-cli","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36a388ccb84feb97b765c930c5cfb6cafd3bfdc4701339bf9a6b1442737c1736","features":{},"yanked":false}
+{"name":"aspect-ratio-cli","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36a388ccb84feb97b765c930c5cfb6cafd3bfdc4701339bf9a6b1442737c1736","features":{},"yanked":true}
