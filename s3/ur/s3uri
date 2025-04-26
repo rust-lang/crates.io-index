@@ -1,1 +1,2 @@
 {"name":"s3uri","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dff2e5f36e3de9e319f48123049c146fcfb73f36bcc64a8eb0c3056682bad0ca","features":{},"yanked":false}
+{"name":"s3uri","vers":"1.0.0-beta.2","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f5ca8c315ae673c46c4cfb9c273de660e8e8efe3047eab579d61218f909afaa","features":{},"yanked":false}
