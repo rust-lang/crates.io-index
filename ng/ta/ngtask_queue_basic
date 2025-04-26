@@ -1,0 +1,1 @@
+{"name":"ngtask_queue_basic","vers":"0.1.0","deps":[{"name":"ngtq","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"953f1b1a30e18ada183d83cf55db1bd64c25ce950ac26aa4f89c5d3e0557b7d8","features":{"default":[]},"yanked":false,"rust_version":"1.70.0"}
