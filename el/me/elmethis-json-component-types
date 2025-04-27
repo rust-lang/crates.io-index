@@ -1,0 +1,1 @@
+{"name":"elmethis-json-component-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d19cdc27a25ef7f6f3244d98f7d919b850dd21466e01e10c05179fbfdb6e298a","features":{},"yanked":false}
