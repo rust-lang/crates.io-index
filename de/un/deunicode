@@ -20,3 +20,4 @@
 {"name":"deunicode","vers":"1.4.4","deps":[],"cksum":"322ef0094744e63628e6f0eb2295517f79276a5b342a4c2ff3042566ca181d4e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
 {"name":"deunicode","vers":"1.6.0","deps":[],"cksum":"339544cc9e2c4dc3fc7149fd630c5f22263a4fdf18a98afd0075784968b5cf00","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
 {"name":"deunicode","vers":"1.6.1","deps":[],"cksum":"dc55fe0d1f6c107595572ec8b107c0999bb1a2e0b75e37429a4fb0d6474a0e7d","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.65"}
+{"name":"deunicode","vers":"1.6.2","deps":[],"cksum":"abd57806937c9cc163efc8ea3910e00a62e2aeb0b8119f1793a978088f8f6b04","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.66"}
