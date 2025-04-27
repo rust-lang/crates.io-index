@@ -1,0 +1,1 @@
+{"name":"ctaes","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4cbca3712c15d1e2dcc77f4eea8c838fb98f54ffe272d13a72516d488b098ce","features":{},"yanked":false}
