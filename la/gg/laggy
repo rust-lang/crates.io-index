@@ -1,1 +1,2 @@
 {"name":"laggy","vers":"2025.4.20","deps":[{"name":"reqwest","req":"^0.12.15","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc7ed301994eedeb0461a7300cf2d08e898bee5d22c1905fbbeb8dc5b60ba6c8","features":{},"yanked":false}
+{"name":"laggy","vers":"2025.4.25","deps":[{"name":"reqwest","req":"^0.12.15","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5535b9c0acbd3961379e56a74533a2a17ada2d63a4d04a9ffcbbe961f5985a7","features":{},"yanked":false}
