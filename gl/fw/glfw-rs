@@ -1,0 +1,1 @@
+{"name":"glfw-rs","vers":"0.1.1","deps":[{"name":"gl","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"glfw-rs-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00b062d1c627257f50aa10e358dc7a317f737f0990d997bd2ca948663b950b70","features":{},"yanked":false}
