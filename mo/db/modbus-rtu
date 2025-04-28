@@ -8,3 +8,4 @@
 {"name":"modbus-rtu","vers":"0.2.5","deps":[],"cksum":"74b5f698037056016f93a6c9896586864a18f0f58e52d0eca1c20af4a5813ac7","features":{"bypass":[],"default":["slave","bypass"],"master":["std"],"slave":[],"std":[]},"yanked":false}
 {"name":"modbus-rtu","vers":"0.2.6","deps":[],"cksum":"2925a17af17afe74fd408de7635716b0fa97c159c7de5420fb23d9b7f5d187ef","features":{"bypass":[],"default":["slave","bypass"],"master":["std"],"slave":[],"std":[]},"yanked":false}
 {"name":"modbus-rtu","vers":"0.2.7","deps":[],"cksum":"04158e5db4ff9940ab932f47ed7038634b6d34bbfc82a8f2d367829e7ed43ee4","features":{"bypass":[],"default":["slave","bypass"],"master":["std"],"slave":[],"std":[]},"yanked":false}
+{"name":"modbus-rtu","vers":"0.2.8","deps":[],"cksum":"e61da300a8a69b69f7cfa653d79991124bb71bbfc38d1f6e35cc4c50452b04e9","features":{"bypass":[],"default":["slave","bypass"],"master":["std"],"slave":[],"std":[]},"yanked":false}
