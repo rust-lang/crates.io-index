@@ -8,3 +8,4 @@
 {"name":"cmark-writer","vers":"0.3.0","deps":[],"cksum":"75a7aeeb22824a81303e9c255b0933f150cfd6272fcfb77a5103c3040fe0a385","features":{},"yanked":false}
 {"name":"cmark-writer","vers":"0.4.0","deps":[],"cksum":"da0c7631fab5279729a74bc242476b3997b0e64df4e6efc5d1ac8aabf3413671","features":{},"yanked":false}
 {"name":"cmark-writer","vers":"0.5.0","deps":[],"cksum":"c04d6eede32337383d0f4cc77924895ee1e3318f11f040fac979cca6b4233c06","features":{},"yanked":false}
+{"name":"cmark-writer","vers":"0.6.0","deps":[{"name":"cmark-writer-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cc5039243ce0d20c200604c3d220cfcb979fe7b25df1c55a942e53001f71866","features":{},"yanked":false}
