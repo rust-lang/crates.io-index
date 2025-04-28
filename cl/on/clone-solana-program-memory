@@ -1,0 +1,1 @@
+{"name":"clone-solana-program-memory","vers":"2.2.1","deps":[{"name":"clone-solana-define-syscall","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"solana\")","kind":"normal"}],"cksum":"945d8e08f98842c29e9ef32f6d2e5df5c02b80406554f7dc4754e8ed56683c21","features":{},"yanked":false}
