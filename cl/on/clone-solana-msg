@@ -1,0 +1,1 @@
+{"name":"clone-solana-msg","vers":"2.2.1","deps":[{"name":"clone-solana-define-syscall","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"solana\")","kind":"normal"}],"cksum":"533ba282c310d854d58d1c5fc1f3ace66d54c5533d23f12b90a78fb966c59265","features":{},"yanked":false}
