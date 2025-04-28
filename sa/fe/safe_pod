@@ -1,2 +1,0 @@
-{"name":"safe_pod","vers":"0.0.1","deps":[{"name":"safe_pod_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ec8eb51c718d0420839c01eb4f3fe0e83da54a0e6e5a4082674d077ec01020c","features":{},"yanked":false}
-{"name":"safe_pod","vers":"0.0.2","deps":[{"name":"safe_pod_derive","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8f61801727bea456924123497d9699dd24209ed0719a51a71af12cd066c22eb","features":{},"yanked":false}
