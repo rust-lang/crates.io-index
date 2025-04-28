@@ -1,0 +1,1 @@
+{"name":"resampler-rs","vers":"0.0.1","deps":[{"name":"rustfft","req":"^6.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aece4fc0dc3aca4ab0e2e56e3828116b3194f99e1a8436ff1a6179a46e038f24","features":{},"yanked":false}
