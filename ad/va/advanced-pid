@@ -4,3 +4,4 @@
 {"name":"advanced-pid","vers":"0.2.0","deps":[],"cksum":"69f7884d623374e252c2b835f7fcd0819886a694e57d8d1cdd8714bf23e459b4","features":{"default":["std"],"f64":[],"std":[]},"yanked":false}
 {"name":"advanced-pid","vers":"0.2.1","deps":[],"cksum":"ef75c8272c03e396edbee076e48a45630ab2070946908df6cebac85a18c2039d","features":{"default":["std"],"f64":[],"std":[]},"yanked":false}
 {"name":"advanced-pid","vers":"0.2.2","deps":[],"cksum":"1f362a7a18d309d27ab34dbea24aa0635c313162ebb6053f94939aa155d56c5b","features":{"default":["std"],"f64":[],"std":[]},"yanked":false}
+{"name":"advanced-pid","vers":"0.2.3","deps":[],"cksum":"986177142ac2ef4b1016d51129475d740c2826e0192900eaee2a592d23118ba1","features":{"default":["std"],"f64":[],"std":[]},"yanked":false}
