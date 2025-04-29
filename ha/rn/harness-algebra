@@ -1,1 +1,2 @@
 {"name":"harness-algebra","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a6b9dc6b83a9431622bd7722b91114393d6a2c6fc23f5f943c978d5de9fcae0","features":{},"yanked":true}
+{"name":"harness-algebra","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d02b94bc5680e3073b3c704c17c2edfa7f0e1d686d31b1143871706fd1d7d64e","features":{},"yanked":false}
