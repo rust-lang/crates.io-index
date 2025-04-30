@@ -7,3 +7,4 @@
 {"name":"Fasma","vers":"1.0.6","deps":[],"cksum":"0887377e404e00ecda48c8a1436ce6091859a1931d59b0419b97026dc4c786b7","features":{"default":[],"eFunc":["eSIMD"],"eSIMD":[]},"yanked":false,"rust_version":"1.58.0"}
 {"name":"Fasma","vers":"1.0.7","deps":[],"cksum":"a4890d8471b82c7ac9966934875dbfecebf4fd590bbe8d377f7e0cb1d15fd003","features":{"default":[],"eFunc":["eSIMD"],"eSIMD":[]},"yanked":false,"rust_version":"1.58.0"}
 {"name":"Fasma","vers":"1.0.8","deps":[],"cksum":"804edfbae1c800741176a0bc0df4f845df8f89d76fe35bb7d2e872e4889c734c","features":{"default":[],"eFunc":["eSIMD"],"eSIMD":[]},"yanked":false,"rust_version":"1.58.0"}
+{"name":"Fasma","vers":"1.0.9","deps":[],"cksum":"c030940eb040a786df8bf0a3f19f63ea9b62bced8d16d1ef61516f1da80e88fb","features":{"default":[],"eFunc":["eSIMD"],"eSIMD":[]},"yanked":false,"rust_version":"1.58.0"}
