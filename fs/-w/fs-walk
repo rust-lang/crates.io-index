@@ -3,3 +3,4 @@
 {"name":"fs-walk","vers":"0.1.2","deps":[],"cksum":"b916d76dbd9446be6a7266359cf633cad350b61a96ac7ff936d13c24f88cf4bc","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"fs-walk","vers":"0.1.3","deps":[],"cksum":"a8418cfcfe26dd2e7d413774d113f77f647ba9b19804b542b374ba7cbfb7ef1d","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"fs-walk","vers":"0.1.4","deps":[],"cksum":"a99b2af184b2f8f48bd0735323b1d7246b18df5345fb42242819319c71a42bf6","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"fs-walk","vers":"0.1.5","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c950a8172c366d64424ae15455ac18264260d505d17b2e7583dac2757aa298d","features":{"default":[]},"features2":{"regex":["dep:regex"]},"yanked":false,"rust_version":"1.70.0","v":2}
