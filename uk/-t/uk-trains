@@ -1,0 +1,1 @@
+{"name":"uk-trains","vers":"0.1.0","deps":[{"name":"yaserde","req":"^0.12.0","features":["yaserde_derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11e6be572c1ab7798612c1d5bd518856f5ee1cce2e433a59e5849a7f39387067","features":{},"yanked":false}
