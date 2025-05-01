@@ -1,0 +1,1 @@
+{"name":"ui-events","vers":"0.0.1","deps":[{"name":"keyboard-types","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a1d322f532c551df553d80cef499afc1507a06e2fe82eb412c0a824e53070e2c","features":{"default":["std"],"std":["keyboard-types/std"]},"yanked":false,"rust_version":"1.73"}
