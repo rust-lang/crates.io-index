@@ -1,1 +1,2 @@
 {"name":"rsmoji","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f5d81956b735611a30379e82debb5b2b49b4499eaca78824bb50a0b46780a44","features":{},"yanked":false}
+{"name":"rsmoji","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a36727a8df722fefa03a4908a91491f0563ac5eb6736b540cc18070149640c97","features":{},"yanked":false}
