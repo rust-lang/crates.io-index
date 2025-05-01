@@ -23,3 +23,4 @@
 {"name":"libsyd","vers":"3.4.0","deps":[{"name":"itoa","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"81debb1d85783d25a63ce871397da84fe3002013c9ef96bb6940fd8f04e66938","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"libsyd","vers":"3.5.0","deps":[{"name":"itoa","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a0e62031b085c9866c757bbd86e9bd1f0138871755a57618ac885616dfbd2b77","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"libsyd","vers":"3.6.0","deps":[],"cksum":"29a3afc9987b2635165d3b4ad8b1e5d4f8cf0fcd06762ca2675d352d25b4db36","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"libsyd","vers":"3.6.1","deps":[],"cksum":"e5e024696573f5ea450081db8b98e407e30edc5385b26d4f20092e6ec3d822f5","features":{},"yanked":false,"rust_version":"1.56.1"}
