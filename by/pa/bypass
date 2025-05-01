@@ -1,3 +1,4 @@
 {"name":"bypass","vers":"0.1.0","deps":[{"name":"scoped-tls","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ef36828777e3959310e68ab493cf5642d9e749127f287baece6ed2248d35eb","features":{},"yanked":false}
 {"name":"bypass","vers":"0.1.1","deps":[{"name":"scoped-tls","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a7874a638bb18edf2617d0a18777907e06cfdfe46e5fb6a564402f8fecf251e","features":{},"yanked":false}
 {"name":"bypass","vers":"0.1.2","deps":[{"name":"scoped-tls","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ad952e9faf71063eddcbdd40012b7a647707a2f652b8228f207601cf27f6755","features":{},"yanked":false}
+{"name":"bypass","vers":"0.2.0","deps":[],"cksum":"aa0f23654eb5f3a674789ed0e8e1ed9bf6bf9f8aa00f3d1fb03a0c5e69b15561","features":{},"yanked":false}
