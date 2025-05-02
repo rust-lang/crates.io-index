@@ -1,1 +1,2 @@
 {"name":"ser_nix","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.216","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d641b15dd8f559b3e0b98178fcdcd081ed56ade974cbfbec2768e0857ca5634","features":{},"yanked":false}
+{"name":"ser_nix","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.216","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5527a4ac5975fa8588bf2f3e549f96b8a3fdea510f8a81f13510561176bc7c3b","features":{},"yanked":false}
