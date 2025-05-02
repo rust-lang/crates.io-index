@@ -1,0 +1,1 @@
+{"name":"may_cpi","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb734be653651027f0da0d2b22b144843eee540f389375652e808d1273db5797","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}
