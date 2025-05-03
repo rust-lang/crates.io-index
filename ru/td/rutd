@@ -2,3 +2,4 @@
 {"name":"rutd","vers":"0.2.0","deps":[],"cksum":"2b78243e14790cca1c9adf5cd0b62bff01ce089fe7478c0f7ce19b1a1cab89b8","features":{},"yanked":false}
 {"name":"rutd","vers":"0.2.1-rc.2","deps":[],"cksum":"cde07a88797c87a3fe99d105f8e20c2cc211a5c1b0a5e732d6f266e495be6a3e","features":{},"yanked":false}
 {"name":"rutd","vers":"0.2.1-rc.3","deps":[],"cksum":"404bb1089c23cb474d921bbe645f855b87b7909d4de45b94d4dfe28069030122","features":{},"yanked":false}
+{"name":"rutd","vers":"0.2.1","deps":[{"name":"rutd-cli","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06b993439dd1f5cf83dbd602156730856bb42be9cd4764a4c03c3aa07dbca550","features":{},"yanked":false}
