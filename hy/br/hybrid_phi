@@ -1,3 +1,3 @@
 {"name":"hybrid_phi","vers":"0.1.0","deps":[],"cksum":"803646181dbed475e686d502e43d57e4b400f466ea516c7ccbad05e7f336fdb1","features":{},"yanked":true}
-{"name":"hybrid_phi","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c73ab3568a84ffc3eee2f411e1e7eb28d398689aa7604ae8a90e41776cb99fb","features":{},"yanked":false}
+{"name":"hybrid_phi","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c73ab3568a84ffc3eee2f411e1e7eb28d398689aa7604ae8a90e41776cb99fb","features":{},"yanked":true}
 {"name":"hybrid_phi","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3c77011225c7d0e260d49b3de95c311ebd044ee232a7fb3ba746a513bfcc120","features":{},"yanked":false}
