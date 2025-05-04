@@ -15,3 +15,4 @@
 {"name":"testbench","vers":"0.8.1","deps":[{"name":"crossbeam-utils","req":"<0.8.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c54406b8e94a2ae2d2d46370ac74eeb98a58b232d97df18529c3863d590e86c1","features":{},"yanked":false,"rust_version":"1.36.0"}
 {"name":"testbench","vers":"0.9.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afc5c5d972bbb571a0e13cceb8f68957d5a8d77ff61085f0e2fcabbc378fa2c6","features":{},"yanked":false,"rust_version":"1.38.0"}
 {"name":"testbench","vers":"1.0.0","deps":[],"cksum":"6f42aea0e7814e8c520bb46ccc27df2b52af257cad23b9af9218410feac294e3","features":{},"yanked":false,"rust_version":"1.63.0"}
+{"name":"testbench","vers":"1.0.1","deps":[],"cksum":"4e102f3aa6b7242c8029c115def70364a064de5a11b49fade2b4a3cdbc8aa28f","features":{},"yanked":false,"rust_version":"1.63.0"}
