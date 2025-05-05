@@ -1,1 +1,2 @@
 {"name":"jclass","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4ad00e7188457e49f5717ea42768b7d6408706d8e9818ba82c6c07f4ececee9f","features":{},"yanked":false}
+{"name":"jclass","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c4fbd6e2476b7587fc076a1df6c9b8b143dfb026ede80f733bebb8e08cdc1fe3","features":{},"yanked":false}
