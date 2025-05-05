@@ -1,0 +1,1 @@
+{"name":"quadrant","vers":"0.0.0","deps":[{"name":"nav","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d159decab675df28473333c8d7a650f92c285a1e15cf6958d961541229406f2","features":{},"yanked":false}
