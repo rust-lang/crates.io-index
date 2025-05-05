@@ -1,1 +1,2 @@
 {"name":"cstl-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"81b728494db4ead4c4c0e351deb8742915054ba70a77832e80c0f2abeeed4d71","features":{},"yanked":false,"links":"CSTL"}
+{"name":"cstl-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6b3bfca820f00ab207514b53de7fc38da05b76c478938f4ff79064a37c553511","features":{},"yanked":false,"links":"CSTL"}
