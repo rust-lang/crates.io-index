@@ -1,1 +1,2 @@
 {"name":"ps-promise","vers":"0.1.0-1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7ddaaac33910e17408268395b16aefe9c5b8ea30f77d660e6f1eb557512bafa","features":{},"yanked":false}
+{"name":"ps-promise","vers":"0.1.0-2","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c068e5a8fed3b02c0e470e0f3c7edc0951a67c2d71d913a80ce496d9392f3574","features":{},"yanked":false}
