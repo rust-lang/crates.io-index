@@ -1,0 +1,1 @@
+{"name":"floxide-macros-support","vers":"3.2.0","deps":[{"name":"syn","req":"^2","features":["full","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b4e014217858e1bd50912154d1c7cb8f55f9fbd9121daf9f00cb8e18fae81e0","features":{},"yanked":false}
