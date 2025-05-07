@@ -1,1 +1,2 @@
 {"name":"set-span","vers":"0.1.0","deps":[{"name":"proc-macro-tool","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5e78c899decab3b56c2fca059937b91f8655efd8eb12b552f5e3fdac0e36a19","features":{},"yanked":false}
+{"name":"set-span","vers":"0.1.1","deps":[{"name":"proc-macro-tool","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d5c67332c5a9e77278469eda5409e6df819ad20ab6b68a967765e516b76bfe8","features":{},"yanked":false}
