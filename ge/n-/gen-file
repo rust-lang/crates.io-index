@@ -1,0 +1,1 @@
+{"name":"gen-file","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7157d53a9837f9dcb2b3177694dc1ffe70ba4a5dee524234c61e30878c0853b9","features":{},"yanked":false}
