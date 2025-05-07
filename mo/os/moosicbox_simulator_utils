@@ -1,0 +1,1 @@
+{"name":"moosicbox_simulator_utils","vers":"0.1.1","deps":[{"name":"tokio-util","req":"^0.7.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"233f1d2f760647765c2d38cfb6a5126fceaa28f7d141003dc74d010bba6fd496","features":{"default":[],"fail-on-warnings":[]},"yanked":false}
