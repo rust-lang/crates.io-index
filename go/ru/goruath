@@ -1,2 +1,0 @@
-{"name":"goruath","vers":"0.0.0","deps":[],"cksum":"f9c7bd88da68e91d60027fa0cee1fd392294e6934a2b65182dd84f37c0495883","features":{},"yanked":true}
-{"name":"goruath","vers":"0.0.1","deps":[{"name":"winit","req":"^0.30.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e961277b88b263bfc4e59b03afe14bee5653dae4134caa9c7182068c8cff85ac","features":{},"yanked":true}
