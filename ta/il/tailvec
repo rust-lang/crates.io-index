@@ -16,3 +16,4 @@
 {"name":"tailvec","vers":"0.3.0","deps":[],"cksum":"7dbe3ba53e6f34b61f1295e8205d8f77a9cd019b1ba13826a9324ca24540fc7b","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"tailvec","vers":"0.2.11","deps":[],"cksum":"c44517adf2a4165907b66bea716ba9d7474ed756f0325ead50e1b73804bb51f9","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"tailvec","vers":"0.2.12","deps":[],"cksum":"54b696f44e1566f06b17a3d846e865635e745e90053d20a0046bf5591273c7e5","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"tailvec","vers":"0.2.13","deps":[],"cksum":"6b6b8740fbb7157db79817a9d1b1a7090b9d4afbbd550b8bd9268f8248ed226a","features":{"default":["std"],"std":[]},"yanked":false}
