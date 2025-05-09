@@ -1,0 +1,1 @@
+{"name":"known-types-openai","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"919df80d57ed80999857bfd82b235072238df7962c43e30c8716610657999d40","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
