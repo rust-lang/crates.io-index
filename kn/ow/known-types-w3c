@@ -1,0 +1,1 @@
+{"name":"known-types-w3c","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"70b78b7e4936669a6a35db5b8f28cc00c82112f4bf790029755ec5f0f6aac75b","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
