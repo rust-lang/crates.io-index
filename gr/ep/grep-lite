@@ -1,0 +1,1 @@
+{"name":"grep-lite","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"276cf2c707ef09eb2b324d5426904483f32fefd4353a8e01d988f71588dd2225","features":{},"yanked":false}
