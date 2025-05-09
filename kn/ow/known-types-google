@@ -1,0 +1,1 @@
+{"name":"known-types-google","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ec6d4d4597cbd6b586bf896a9ff2b97c9a8bef7dbea869956ad39edca45714d9","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
