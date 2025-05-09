@@ -1,0 +1,1 @@
+{"name":"usbpd-traits","vers":"1.0.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cafa512c8b7628f48a9ec2649d6346c745ec3d059cc5b2069df57c2fde23d1d5","features":{"default":[]},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}
