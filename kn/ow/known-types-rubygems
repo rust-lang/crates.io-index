@@ -1,0 +1,1 @@
+{"name":"known-types-rubygems","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"853d13769633f44cd4cfa29f4f5f6295f8c561e001a6e5098fc7a254165b9d3f","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
