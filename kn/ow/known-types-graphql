@@ -1,0 +1,1 @@
+{"name":"known-types-graphql","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b1d99783f97ead3962ec3c7f635ab91514edb7069c52775d772e39d9d7d99fe9","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
