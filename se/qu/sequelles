@@ -1,0 +1,1 @@
+{"name":"sequelles","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.8.2","features":["runtime-tokio","macros","sqlite"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fb3ae00fc9ccb0a0f83c9c8f835907727fdd3e6d47953ba709ce228068e99dd","features":{},"yanked":false,"rust_version":"1.85.0"}
