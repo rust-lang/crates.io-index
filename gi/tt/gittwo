@@ -1,1 +1,2 @@
 {"name":"gittwo","vers":"0.0.0","deps":[{"name":"git2","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3b3187a156a117db0d72d76e9538ae0ade4af2cc33528f57c589a51775a1481","features":{},"yanked":false}
+{"name":"gittwo","vers":"0.0.1","deps":[{"name":"git2","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43c258133c634b8f3ec668644dff7703ee51b73c742db84720a1243947a7e8df","features":{},"yanked":false}
