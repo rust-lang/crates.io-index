@@ -1,0 +1,1 @@
+{"name":"known-types-anthropic","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce1d6af1d0a63caeae6dec7af57dbf13245673abb63d5b610e68b20b163ee899","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}
