@@ -1,0 +1,1 @@
+{"name":"rgbcx-sys","vers":"1.1.3+0.1.0","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6120a225810e4aca8617151dfe17448e247409cd86c755695c957332387a2284","features":{},"yanked":false}
