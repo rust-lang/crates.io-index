@@ -1,0 +1,1 @@
+{"name":"serde_sono","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c652f338db696d90b26f2e051a984d9ad9d462ab110c90901ef67992ad8ed6c7","features":{},"yanked":false}
