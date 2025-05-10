@@ -5,3 +5,4 @@
 {"name":"cowboy","vers":"0.1.4","deps":[],"cksum":"b416df2c47991dded5e74482831665b9ed0e7613818ae6a8396274c02d62bafc","features":{},"yanked":false}
 {"name":"cowboy","vers":"0.1.5","deps":[],"cksum":"5b0542eafc06709397884f7890d63a1c19c102258a7acdd80a6406d58a766775","features":{},"yanked":false}
 {"name":"cowboy","vers":"0.1.6","deps":[],"cksum":"85d733a400eb89e6102898e7f88cbaf71db316c9ae369b03f9fd7374b7d2d1b7","features":{},"yanked":false}
+{"name":"cowboy","vers":"0.1.7","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7f873eb247e403aa4625d7a3b370af3dd6f1dc315c0e1a51752e81ed93a9ac8","features":{"evil":[]},"features2":{"serde":["dep:serde","dep:serde_json"]},"yanked":false,"v":2}
