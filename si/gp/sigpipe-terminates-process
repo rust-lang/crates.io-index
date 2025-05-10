@@ -1,0 +1,1 @@
+{"name":"sigpipe-terminates-process","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.169","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad612ff8b0e96a3e4a98f95e01372494997e7011dfeeca18fb421c2acca146bd","features":{},"yanked":false}
