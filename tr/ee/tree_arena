@@ -1,0 +1,1 @@
+{"name":"tree_arena","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"763eff3405d1a42f646c08a8139bdebd5311f3a84319468cdd212d96cfa0dc2d","features":{"default":["safe_tree"],"safe_tree":[]},"yanked":false,"rust_version":"1.86"}
