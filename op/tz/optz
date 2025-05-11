@@ -1,1 +1,2 @@
 {"name":"optz","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92b61b6345db6d0321be412377a95fa93563b6d83a478d495bf5352a80975bba","features":{},"yanked":false}
+{"name":"optz","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9151faf1596af41e1a81f0cea925578e81fc295ccfbecda186df80860dce1a51","features":{},"yanked":false}
