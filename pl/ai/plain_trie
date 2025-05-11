@@ -28,3 +28,4 @@
 {"name":"plain_trie","vers":"7.2.4","deps":[],"cksum":"b820a1f2b315d2ff6bd22ccc0379c2754f41ff26fa883cf5bc211806c65b0c51","features":{"test-ext":[]},"yanked":false}
 {"name":"plain_trie","vers":"8.0.0","deps":[],"cksum":"b0153a4eb5b6576d35edddc2029f21dcf54f4391fb069bc976dfcad8e7f06f3b","features":{"test-ext":[]},"yanked":false}
 {"name":"plain_trie","vers":"8.0.1","deps":[],"cksum":"e5454532f5f63a208dfe8e5c224e6926cb17ffd5b03fec54cba6181604a7816c","features":{"test-ext":[]},"yanked":false}
+{"name":"plain_trie","vers":"8.0.2","deps":[],"cksum":"8e3411bb28a0abae36a74e84c94abf4e8f2d7d48a782aac51f4dcdbb1cca53c9","features":{"test-ext":[]},"yanked":false}
