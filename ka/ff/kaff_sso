@@ -1,0 +1,1 @@
+{"name":"kaff_sso","vers":"0.1.0","deps":[{"name":"napi","req":"^2.16.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3cd5a80a4fb4c4152d2595712571c4d857eafb13a6d25acb5fc7b7a727e3929","features":{},"features2":{"napi":["dep:napi"]},"yanked":false,"v":2}
