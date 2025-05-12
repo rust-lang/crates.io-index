@@ -1,0 +1,1 @@
+{"name":"rquant","vers":"0.0.1","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef56262c49eb24c873a16c35e93d4ce1672d014a13021c662126a5dacd71f642","features":{},"yanked":false}
