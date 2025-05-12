@@ -3,3 +3,4 @@
 {"name":"graph-base","vers":"0.1.2","deps":[],"cksum":"97818a84e65f02545f38aae643f16779e54c186b442f084f138c53e1c981e32c","features":{},"yanked":false}
 {"name":"graph-base","vers":"0.1.3","deps":[],"cksum":"ec4920d12ab1c93e23774e1cce1416637f6e1692aaccb6662599baf8cf0772f7","features":{"default":[]},"yanked":false}
 {"name":"graph-base","vers":"0.1.4","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba8e8edc737e414d93967b980bec201483665240bd709c5f9fcdc71f326a0971","features":{"default":[]},"yanked":false}
+{"name":"graph-base","vers":"0.1.5","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba964956ad4358498a81c0f6a35ab2238cd9b678f7e6e0d9588a60a06e00e40b","features":{"default":[]},"yanked":false}
