@@ -1,0 +1,1 @@
+{"name":"xstring","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48671cfa2491c03a1096afa0438572df1b322675f4f2bbf8b7112674cfdbc7d8","features":{"allocator_api":[],"std":[]},"features2":{"default":["std","serde"],"serde":["dep:serde"]},"yanked":false,"v":2}
