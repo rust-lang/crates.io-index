@@ -1,1 +1,2 @@
 {"name":"arc-metrics","vers":"0.1.0","deps":[{"name":"pkg-details","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85c6c13f7dbadf8ed911585a3cf0e88fe614d8583026ad6fc2cc9f0da59fc1d0","features":{},"yanked":false}
+{"name":"arc-metrics","vers":"0.1.1","deps":[{"name":"pkg-details","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b0a14b94683bfc4fff17856120af1c01bed9601d3612d9d4fa01aa6ed7571a6","features":{},"yanked":false}
