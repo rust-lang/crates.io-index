@@ -1,0 +1,1 @@
+{"name":"pvz_rust_wsll","vers":"0.1.0","deps":[{"name":"ggez","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6aab83a9689b2a43a10509496aaa87ec77df01839a79698f0f5a11379b73a6b","features":{},"yanked":false}
