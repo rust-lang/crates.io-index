@@ -1,0 +1,1 @@
+{"name":"craft_logging","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1.40","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a3ce2620925cbd429ff28d469e51b28763e5a46d1548da4ea850f88dc165261e","features":{},"yanked":false}
