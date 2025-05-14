@@ -1,1 +1,2 @@
 {"name":"depinfo","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a889bf4cc6f99017bfd9407f2bba4806abd88fdf804610cdd5d14ae21374817b","features":{},"yanked":false}
+{"name":"depinfo","vers":"0.7.0-alpha.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa370bee8f7bdcd8ce939dc2f711425cd0afced127f946d7b37e4dbed32e48c7","features":{},"yanked":false}
