@@ -1,0 +1,1 @@
+{"name":"utf8-supported","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.59.0","features":["Win32_System_Console","Win32_Globalization"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"2fae8f6b8de4639b90224e176edab02e569587e0ac7d3a8de20622682c5f1109","features":{},"yanked":false}
