@@ -1,0 +1,1 @@
+{"name":"batnet","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25678fe31d9f8005881b12f6a560930203e24dff10da569130e0ccb5756b390d","features":{},"yanked":false}
