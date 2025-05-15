@@ -1,1 +1,2 @@
 {"name":"armyknife","vers":"0.1.0","deps":[],"cksum":"d994d0f93883a68233776ad85659f41fb88d069917d8a09258d4d296532ab280","features":{},"yanked":false}
+{"name":"armyknife","vers":"0.2.0","deps":[{"name":"urlencoding","req":"^2.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf34bb420a135f62acd102693ac1afaad2521fc7243b30e8fca52a6acdb9a7a3","features":{},"yanked":false}
