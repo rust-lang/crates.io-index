@@ -3,3 +3,4 @@
 {"name":"txtweb","vers":"0.1.2","deps":[],"cksum":"0a576ce95ea074e6a081165565230db6dab5813d39e9c9c818462aa07f125462","features":{},"yanked":false}
 {"name":"txtweb","vers":"0.1.3","deps":[],"cksum":"d91c20ee69a93a107a098a83988aab3c28ef7fda8c97622e955de6780f77a57d","features":{},"yanked":false}
 {"name":"txtweb","vers":"0.1.4","deps":[{"name":"txtlib","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"398c628e0e50e14add668af87098dbed8f517f2a41fa8baa6b31184c4a4411dd","features":{},"yanked":false}
+{"name":"txtweb","vers":"0.1.5","deps":[{"name":"txtlib","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4206d09065b38a6fb95a456f0e94074bca0b8200eb826403fa648e1d93745f8","features":{},"yanked":false}
