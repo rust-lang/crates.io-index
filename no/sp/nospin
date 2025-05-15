@@ -1,0 +1,1 @@
+{"name":"nospin","vers":"0.1.2","deps":[{"name":"just","req":"^1.40.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9578da45761703533a0a457ae608ace29d448ffcb1dcc309133e8018dbdb7925","features":{"default":["lazy","mutex","once"],"lazy":[],"mutex":[],"once":[]},"yanked":false,"rust_version":"1.85"}
