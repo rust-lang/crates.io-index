@@ -1,0 +1,1 @@
+{"name":"microscpi-common","vers":"0.5.0-beta.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32a0c70c38b957bee41a1c4f50ceb5f0580fc0992fa5f52666c6c6cf18cf7ea3","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
