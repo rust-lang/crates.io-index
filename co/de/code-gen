@@ -9,3 +9,4 @@
 {"name":"code-gen","vers":"0.3.1","deps":[],"cksum":"36925362fa9f0ba7e1a89e99635b058291ca49c8e91012127209afb014618ab1","features":{},"yanked":false}
 {"name":"code-gen","vers":"0.4.0","deps":[],"cksum":"732560870653c4f4926e65620196a86ba26524892dd0148c2ffc6de8df0edc2f","features":{"rust":[]},"yanked":false}
 {"name":"code-gen","vers":"0.5.0","deps":[],"cksum":"1331a1bb1c40fc218e0e12e1d8ba7c2f61b8f13cf50111408df28c2903a0d7ea","features":{"rust":[]},"yanked":false}
+{"name":"code-gen","vers":"0.6.0","deps":[],"cksum":"a9ec1243c14d1d3eb3aa3e86047b50c983d7bcf980cb027d96de244d06be13e8","features":{"rust":[]},"yanked":false}
