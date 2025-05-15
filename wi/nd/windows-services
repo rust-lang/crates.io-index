@@ -6,3 +6,4 @@
 {"name":"windows-services","vers":"0.22.5","deps":[],"cksum":"3542ddf35625d93db5170db77bd34aaed07885b76831090e04b8820e3830fe7e","features":{},"yanked":false,"rust_version":"1.46"}
 {"name":"windows-services","vers":"0.22.6","deps":[],"cksum":"3f41b9606eca580a5650587a34de6bdcaaf7d624446f1a34b88bef7f5e211134","features":{},"yanked":false,"rust_version":"1.46"}
 {"name":"windows-services","vers":"0.23.0","deps":[],"cksum":"7658baa586e74938d6fa900f64cd9bcb6974b94de3671fb30e86518d67b56e18","features":{},"yanked":false}
+{"name":"windows-services","vers":"0.24.0","deps":[{"name":"windows-link","req":"^0.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9089524f2581700a26ab666b2594f4dd9774e588788b064eb05ae09e798c41f7","features":{},"yanked":false,"rust_version":"1.75"}
