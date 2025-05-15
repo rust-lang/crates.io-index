@@ -1,1 +1,2 @@
 {"name":"clerr","vers":"0.1.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6914abcdeb061a1567d77d65eedd27d8df374e36c8e062da58639eefedfed6aa","features":{},"yanked":false}
+{"name":"clerr","vers":"0.2.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef8d95eff4bb638ea8f68594a4b191c8e521db5e0b3f6e9fe1209f01e52614a5","features":{},"yanked":false}
