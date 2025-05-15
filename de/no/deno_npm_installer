@@ -1,0 +1,1 @@
+{"name":"deno_npm_installer","vers":"0.0.1","deps":[{"name":"sys_traits","req":"=0.1.10","features":["memory","real","serde_json"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"699924cde73124b2611ca897642d490f739359efc8f29f199973ad983b798b37","features":{},"yanked":false}
