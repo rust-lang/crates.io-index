@@ -1,1 +1,2 @@
 {"name":"hicc","vers":"0.1.0","deps":[{"name":"hicc_macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36a93fc0d2057e3eed76c713ac5a59336e29fdc9890ae5ec6a049cd856c334ea","features":{},"yanked":false,"links":"hicc"}
+{"name":"hicc","vers":"0.1.1","deps":[{"name":"hicc_macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47bd5e2d85ad6f6c09ba37a26ebabf6fe4eddf8205ca4009419f703c7744ba73","features":{},"yanked":false,"links":"hicc"}
