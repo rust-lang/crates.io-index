@@ -1,1 +1,2 @@
 {"name":"zensical","vers":"0.0.0","deps":[],"cksum":"7f395f3ea300c2016f47621443137adbac8d404a4755ac52dc10b754cdf177b2","features":{},"yanked":false}
+{"name":"zensical","vers":"0.0.1","deps":[{"name":"zense","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zrx","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f94cf13c3aa002a4c46b43720cddef6bbd8f2f232b189cf333463585caf09aa2","features":{},"yanked":false}
