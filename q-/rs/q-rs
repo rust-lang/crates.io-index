@@ -1,0 +1,1 @@
+{"name":"q-rs","vers":"0.0.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcdc889ea83a1ecbfb2e282275a574eef3e758533df20a344d6744c33cc3b245","features":{},"yanked":false}
