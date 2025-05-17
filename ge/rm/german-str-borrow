@@ -1,1 +1,2 @@
 {"name":"german-str-borrow","vers":"0.1.0","deps":[],"cksum":"3e3a92ca2d46012ba4be2a84ac9f0b0709fa04fc73e6cfcb0864c8e5007565f5","features":{},"yanked":false}
+{"name":"german-str-borrow","vers":"0.2.0","deps":[{"name":"bumpalo","req":"^3.17.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be10d89f5783c12b302afad7f33e7e74fb38d621d1dab1641e9b6e2b8b6fee5c","features":{},"yanked":false}
