@@ -1,2 +1,0 @@
-{"name":"qfin","vers":"0.0.0","deps":[],"cksum":"0a79730c0e0ed1506b9daaef532203d8724caa5ce18071aa30206d926bf18722","features":{},"yanked":false}
-{"name":"qfin","vers":"0.0.1","deps":[{"name":"qfin-api","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qfin-error","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05a9c83fdd2f2585875c19a3e9112fd65f540505a737d05f6936978f6efa03d9","features":{},"yanked":false}
