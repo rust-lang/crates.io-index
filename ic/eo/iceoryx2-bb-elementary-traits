@@ -1,0 +1,1 @@
+{"name":"iceoryx2-bb-elementary-traits","vers":"0.6.0","deps":[{"name":"iceoryx2-pal-concurrency-sync","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad4b48adb38a1cf5fa6d1133f9852dd31d10a094a714c8c7a9006e4f050dc59d","features":{},"yanked":false,"rust_version":"1.81"}
