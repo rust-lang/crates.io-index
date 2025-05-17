@@ -12,3 +12,4 @@
 {"name":"iceoryx2-pal-configuration","vers":"0.4.0","deps":[],"cksum":"b20c28b5872b6b12c2c847034da45a4cea2f6679dc007ded3764fff2cc2d526b","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"iceoryx2-pal-configuration","vers":"0.4.1","deps":[],"cksum":"b9b61d9620508c53fc3fa31f821e5784d0c04abda7e46a2407b40a6a92f37ad0","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"iceoryx2-pal-configuration","vers":"0.5.0","deps":[],"cksum":"d900aa8f9c5b661a9c5ddfbdc28eb87ac8c32be5375ca9b055b087d1c89c984d","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"iceoryx2-pal-configuration","vers":"0.6.0","deps":[],"cksum":"d988bdc9261cfd4671720b73ac0a83bdbb9ea050254a6182e5ada4bcb6af13da","features":{},"yanked":false,"rust_version":"1.81"}
