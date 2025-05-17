@@ -4,3 +4,4 @@
 {"name":"minstd","vers":"0.9.3","deps":[],"cksum":"922c68e2054f3ff85ea74b46469dd1bc11751e15d0f8536fa3c4f5d0f7c61dba","features":{"default":[]},"yanked":false,"rust_version":"1.56.0"}
 {"name":"minstd","vers":"0.9.4","deps":[],"cksum":"6c599aa574ce4451fe51ee33cff3124011ad939c33e2f94e2a6f2fd2b562af34","features":{"default":[]},"yanked":false,"rust_version":"1.56.0"}
 {"name":"minstd","vers":"0.9.5-alpha.1","deps":[],"cksum":"42aab12142add444e18b892aae63a0276fcfb750977b76dc10e4867198a7ce4b","features":{"default":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"minstd","vers":"0.9.5-alpha.2","deps":[],"cksum":"9568d177b175802c8190f625f771ab1f8417afdfc5ac0b82b15b429e4561b60c","features":{"default":[]},"yanked":false,"rust_version":"1.56.0"}
