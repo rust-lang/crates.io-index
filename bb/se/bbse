@@ -1,1 +1,2 @@
 {"name":"bbse","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ad22fdbda2cdb76cb3aca770b4b53c395c5c653b111e9a82bd1dbdb54aa6d7c","features":{},"yanked":false}
+{"name":"bbse","vers":"0.2.0","deps":[{"name":"bitvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8fe4257ae9d24991b1d016026bf81c4873bd9c1a792026f9242136b74062f3f","features":{},"yanked":false}
