@@ -1,1 +1,2 @@
 {"name":"brokerage-messages","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07c22f67de2f6043ef19e92c37cd3644a0782ae0702671c6a809fa9230f635fa","features":{},"yanked":false}
+{"name":"brokerage-messages","vers":"0.1.1","deps":[{"name":"version-sync","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ae3063811aa940802a7d6b4e7219f358c9a97fd56becff6e1b6ab349ea5a4f9","features":{},"yanked":false}
