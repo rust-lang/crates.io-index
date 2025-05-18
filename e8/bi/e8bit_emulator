@@ -22,3 +22,4 @@
 {"name":"e8bit_emulator","vers":"0.3.1","deps":[],"cksum":"961e3923a3d15030c266028f712e0e570350bde9eda653a1ac4ea40d7d601068","features":{},"yanked":false}
 {"name":"e8bit_emulator","vers":"0.3.2","deps":[],"cksum":"72ce24caaaf998e9bea257d7a22306cf692e001deb3e1184d68b2a2669681815","features":{},"yanked":false}
 {"name":"e8bit_emulator","vers":"0.3.3","deps":[],"cksum":"0a2c8d46ff69af095fbaf5d0201fb707b890a7091313f173041d7f97b3e20b53","features":{},"yanked":false}
+{"name":"e8bit_emulator","vers":"0.3.4","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"679d645806b25f0af3265bcd5d326e45fd5119823de53ae0106f2aa39b95830a","features":{},"yanked":false}
