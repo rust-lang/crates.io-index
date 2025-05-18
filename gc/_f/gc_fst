@@ -1,1 +1,2 @@
 {"name":"gc_fst","vers":"0.1.0","deps":[],"cksum":"350fd984e498936a0efe298da7eb291895ba4c192c8189dc14d69ada994529e9","features":{},"yanked":false}
+{"name":"gc_fst","vers":"0.1.1","deps":[{"name":"lodepng","req":"^3.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e3b0ad5234db7fb7d7c6c5f9f675b97a92220ba4029c48429a1bb15f07b7c5b4","features":{},"yanked":false}
