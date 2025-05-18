@@ -1,0 +1,1 @@
+{"name":"murmur_migrate","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"795b77093de451e96bd4bf8fd693e8538ba9454f36f2c18daec489ec3aa26ac9","features":{},"yanked":false}
