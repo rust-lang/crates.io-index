@@ -1,0 +1,1 @@
+{"name":"mimicore","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e0f92299da4d863b0ea7ed210d4a698d1cb1c696cdba90d6793de71b7d82877","features":{},"yanked":false}
