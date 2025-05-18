@@ -6,3 +6,4 @@
 {"name":"euma","vers":"1.2.1","deps":[],"cksum":"a1914974c1fa3a82f781e8f945e4446ebd959bdbb77eddd5551d2077ed0cc3c6","features":{},"yanked":false}
 {"name":"euma","vers":"2.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e5a45859bb2198de5f5fedebba8a0a031e8ed5181b35792878d1e618b20d6bd","features":{},"yanked":false}
 {"name":"euma","vers":"2.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e5b462c46650cc83a9006973b7524950f26244238422b1411354f1bb59db0fb","features":{},"yanked":false}
+{"name":"euma","vers":"2.0.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1a77aa17d23e2a0f2b99d66c2a5ba4de82c80702b305edaa8058a62d9a30c91","features":{},"yanked":false}
