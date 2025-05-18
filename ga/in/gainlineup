@@ -2,3 +2,4 @@
 {"name":"gainlineup","vers":"0.0.2","deps":[],"cksum":"ef0fa6cd6e7b20d8a693756e1f7c707a261de24e4b596d789e501e01075ad517","features":{},"yanked":false}
 {"name":"gainlineup","vers":"0.1.0","deps":[],"cksum":"cf057ab552d82f9ae808ead54a265bf9657b1a36bee49740ea2a016d3faa90a1","features":{},"yanked":false}
 {"name":"gainlineup","vers":"0.2.0","deps":[{"name":"rfconversions","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a66074bef724fe34154ee5855f80e8fa085c064ac529ef339055b53b1c726886","features":{},"yanked":false}
+{"name":"gainlineup","vers":"0.3.0","deps":[{"name":"rfconversions","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acc4bc4ec8d64a7fc3cc625cbca66245df9814a9a09b4c9536c6a40e2ddaf84e","features":{},"yanked":false}
