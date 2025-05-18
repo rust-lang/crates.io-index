@@ -3,3 +3,4 @@
 {"name":"egm96","vers":"0.1.3","deps":[],"cksum":"e17e1f0ca308b9f696d71947e4d5edb32027630ea0f5e8e17b205ea664b1cac6","features":{},"yanked":false}
 {"name":"egm96","vers":"0.1.4","deps":[],"cksum":"4dadb0c1b4d72705105d243084986ea5ab216122845dd766f384d7f4239444ec","features":{},"yanked":false}
 {"name":"egm96","vers":"0.1.5","deps":[],"cksum":"271c2eb2b8ed4012d0ce923af7261855045ec6d9aa5a1d19735a15447c419f9d","features":{},"yanked":false}
+{"name":"egm96","vers":"0.1.6","deps":[{"name":"criterion","req":"^0.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"848143dc424516eac397c13a874da5d750f377a61e7b66e2fea26e29883e719a","features":{},"yanked":false}
