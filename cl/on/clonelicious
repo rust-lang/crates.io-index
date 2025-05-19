@@ -8,3 +8,4 @@
 {"name":"clonelicious","vers":"1.0.5","deps":[],"cksum":"2c61986b9f0347d401ef41468e7aadba2ab6dfc2547df1862f2563250fbfa8d3","features":{},"yanked":false}
 {"name":"clonelicious","vers":"1.1.0","deps":[],"cksum":"a108566181f396d010052b1b80a9dddba22f9a1614f132da38bcb3d7f9a57353","features":{},"yanked":false}
 {"name":"clonelicious","vers":"1.1.1","deps":[],"cksum":"fc3dfae702af156917c65f4ccc70687088331f0b694e5e687453e4d68a16b496","features":{},"yanked":false}
+{"name":"clonelicious","vers":"2.0.0","deps":[{"name":"tokio","req":"^1.45.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a3f47cc54a45a662ddeb671d132d4273381366f3f3348e78f409bb9d41adfca6","features":{},"yanked":false}
