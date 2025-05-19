@@ -1,1 +1,2 @@
 {"name":"secondbest","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2810f4ca804f32f2c6511e520c90e7c8c771cb68bf6010686b38481f4a691e5a","features":{},"yanked":false}
+{"name":"secondbest","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1728178b031667833d066e31e941c7e73e6ee55aa25a4a5321a8d419f865839","features":{},"yanked":false}
