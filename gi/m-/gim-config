@@ -1,0 +1,1 @@
+{"name":"gim-config","vers":"0.1.0","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.8.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad5c5ea44764c7f8c5cc994bfb6ee008b2ce7f91226f92915120ef07e7c05471","features":{},"yanked":false}
