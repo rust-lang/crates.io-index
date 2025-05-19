@@ -27,3 +27,4 @@
 {"name":"my-rust-app","vers":"0.1.45","deps":[],"cksum":"f75986c9dfddbeb116f4e32ce85e06bb29085b32167caea82c9ecbf2671ff2e6","features":{},"yanked":false}
 {"name":"my-rust-app","vers":"0.1.46","deps":[],"cksum":"3da029248170469dcd39be8d11b8dc79547ff7294b636c48b3292aca0087f545","features":{},"yanked":false}
 {"name":"my-rust-app","vers":"0.1.47","deps":[],"cksum":"08571b6b229d59ab24ba5a0f8f13ac58e588688cbe311d1f213eaa0fed12dc1a","features":{},"yanked":false}
+{"name":"my-rust-app","vers":"0.1.49","deps":[{"name":"ssh2-config","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a6931163c8299012b2e8d4ba63641ed8a095dd6b5c174af0f08f4a7487399e3","features":{},"yanked":false}
