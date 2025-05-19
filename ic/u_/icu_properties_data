@@ -9,3 +9,4 @@
 {"name":"icu_properties_data","vers":"2.0.0-beta2","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c2e35a8b7b4647edd7905c9e38c54bf699214fdd143a5df8cecd82d444ec3b94","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"icu_properties_data","vers":"1.5.1","deps":[],"cksum":"85fb8799753b75aee8d2a21d7c14d9f38921b54b3dbda10f5a3c7a7b82dba5e2","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_properties_data","vers":"2.0.0","deps":[],"cksum":"8197e866e47b68f8f7d95249e172903bec06004b18b2937f1095d40a0c57de04","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"icu_properties_data","vers":"2.0.1","deps":[],"cksum":"298459143998310acd25ffe6810ed544932242d3f07083eee1084d83a71bd632","features":{},"yanked":false,"rust_version":"1.82"}
