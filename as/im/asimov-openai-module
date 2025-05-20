@@ -1,0 +1,1 @@
+{"name":"asimov-openai-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"95ea9169c8056bda71a8a9ecea0f4531729bdb86358aa1ca62fd343d9abd6809","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}
