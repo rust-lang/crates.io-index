@@ -1,1 +1,2 @@
 {"name":"s3-path","vers":"0.0.1","deps":[{"name":"assertr","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e480f2383691d5abc22ba8f3abb77cbafd589e5ce1f0b5a42f51fb820834e53c","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"s3-path","vers":"0.0.2","deps":[{"name":"assertr","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"260dca9fb2119ece57c272718b210f23cde55bc7c442878a6f9dc2a76a792a32","features":{},"yanked":false,"rust_version":"1.78.0"}
