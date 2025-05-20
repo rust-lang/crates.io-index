@@ -1,0 +1,1 @@
+{"name":"asimov-ollama-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c06b5208b14383869a87312568452d065aeebde0c66185f332f312e7c21635e8","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}
