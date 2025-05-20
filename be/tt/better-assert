@@ -1,0 +1,1 @@
+{"name":"better-assert","vers":"0.3.1","deps":[{"name":"better-logger","req":"^1.0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1db7523fb434cad1931021b761076191dc2d5ae7200ec6292170aa6f0a085958","features":{"native":["better-logger/native"],"wasm":["better-logger/wasm"]},"yanked":false,"rust_version":"1.85.1"}
