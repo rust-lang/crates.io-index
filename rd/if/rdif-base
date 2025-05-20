@@ -4,3 +4,4 @@
 {"name":"rdif-base","vers":"0.1.4","deps":[],"cksum":"f1525e2b3fb72098cb2b882ded25829fb68f153f6408fa4a27fbba5098f890ac","features":{},"yanked":false}
 {"name":"rdif-base","vers":"0.2.0","deps":[],"cksum":"88dfa4f4f43bb0a7d0464c4bcbbd7e8d2aa7c8db551f9fd18e609729e1e9b481","features":{"alloc":[]},"yanked":false}
 {"name":"rdif-base","vers":"0.2.1","deps":[],"cksum":"646f76de5c5a02b0cf2677f99d5216b9fc301d47dbac8d056f7e74f8c0e89008","features":{"alloc":[]},"yanked":false}
+{"name":"rdif-base","vers":"0.2.2","deps":[],"cksum":"023bd968dcec1d1d01092fdf0e6473cd4fee4b3a4140e524d5952cf332882a36","features":{"alloc":[]},"yanked":false}
