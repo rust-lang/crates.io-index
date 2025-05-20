@@ -1,1 +1,2 @@
 {"name":"fx-rs","vers":"0.1.0","deps":[],"cksum":"fe1bba5a0b8b9a1b536628ca212d5381638b48dccb4515e06e36916bbebb22d2","features":{},"yanked":false}
+{"name":"fx-rs","vers":"0.1.0-dev0","deps":[{"name":"dyn-clone","req":"^1.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b5a5387e62bb3541795b2092be4682cc54a71edf25a81d2761a6e4ffbabb6d0","features":{},"yanked":false}
