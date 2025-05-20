@@ -8,3 +8,4 @@
 {"name":"rdif-base","vers":"0.3.0","deps":[],"cksum":"6f315b9e91dab0e1d82fadb683b7e431235d0002eba36986426915b55a49078a","features":{},"yanked":false}
 {"name":"rdif-base","vers":"0.3.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"196701d72f25d99daa4313a2bc9b510ce1c0938131421443f296e82c90e050a4","features":{},"yanked":false}
 {"name":"rdif-base","vers":"0.3.2","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eb6d6f3dd30437e48ed888a695d0b3980816669800dfe48cc3b42b7217eb4540","features":{},"yanked":false}
+{"name":"rdif-base","vers":"0.3.3","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b1d01b4c028e22ec8eba518dba81b592d8571b80b00dd1853265255a0666a2fb","features":{},"yanked":false}
