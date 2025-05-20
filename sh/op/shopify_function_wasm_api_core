@@ -1,0 +1,1 @@
+{"name":"shopify_function_wasm_api_core","vers":"0.1.0","deps":[{"name":"strum","req":"^0.27.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4842376f01b3abe6c78596085f29ea0d1b605873d2855f812738072c38e32c34","features":{},"yanked":false}
