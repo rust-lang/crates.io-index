@@ -1,0 +1,1 @@
+{"name":"asimov-apple-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"930a62c6d9a3971851d9c501637873077e678765850bbca54991d46235fd4a67","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}
