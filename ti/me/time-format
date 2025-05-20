@@ -5,3 +5,4 @@
 {"name":"time-format","vers":"1.1.1","deps":[],"cksum":"fa28fd598e357b8b928eb30d5e7b0035a8bb6f0ea4e7aee19d900749b8132a2e","features":{},"yanked":false}
 {"name":"time-format","vers":"1.1.2","deps":[],"cksum":"42baec394ad2773a90e037d7b6dfc7518d1f121b9dbaeebad42e19568c39f196","features":{},"yanked":false}
 {"name":"time-format","vers":"1.2.0","deps":[],"cksum":"d07502ede0f77d010d6415b08ec80ecaeadfe018a3d6ed2f999edc051f7d7339","features":{"bench":[],"default":[]},"yanked":false}
+{"name":"time-format","vers":"1.2.1","deps":[],"cksum":"0a70bbfd9d497fe1c46d9a5051f03c73d253b14a9abf6645d32781592b719f9f","features":{"bench":[],"default":[]},"yanked":false}
