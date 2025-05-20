@@ -4,3 +4,4 @@
 {"name":"memapi","vers":"0.3.6","deps":[],"cksum":"721013d1430abcc3166c85d6bc10ac3b9e911b69da95c87a45a16c071ab6a36b","features":{"nightly":[]},"yanked":false}
 {"name":"memapi","vers":"0.4.6","deps":[],"cksum":"a75f686712500b0521cc3c5a821b6c4e1a061a7dd56c637bf25a76cc558c20d3","features":{"alloc_ext":[],"nightly":[],"std":[]},"yanked":false}
 {"name":"memapi","vers":"0.4.7","deps":[],"cksum":"f9b8e7f956aa026587505846e81227e1690c7e42e6f7d8f846f6f75d8f6c74f8","features":{"alloc_ext":[],"nightly":[],"std":[]},"yanked":false}
+{"name":"memapi","vers":"0.4.8","deps":[],"cksum":"6e926137b83acd858378b462b507daf7f5c49b8f0be6ded17ab80fab19c49094","features":{"alloc_ext":[],"nightly":[],"std":[]},"yanked":false}
