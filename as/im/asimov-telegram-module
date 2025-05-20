@@ -1,0 +1,1 @@
+{"name":"asimov-telegram-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1865ebd53aae6d81f6178d87b6324690e41d4faa24bc5957de11e42612e8637f","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}
