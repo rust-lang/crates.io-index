@@ -1,0 +1,1 @@
+{"name":"rustscrub","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afca49f4a2a55b40f241f297541eace4b2b69fb780f393dc670dc934feb3409f","features":{},"yanked":false}
