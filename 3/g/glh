@@ -1,1 +1,2 @@
 {"name":"glh","vers":"0.1.0","deps":[{"name":"gl","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdb722e6cdf10596729e9c79345ca4d8d93b64cc06e6ddbd33cf867dded4376e","features":{},"yanked":false}
+{"name":"glh","vers":"0.1.1","deps":[{"name":"gl","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68260f3fc7ccda4febecdb7b631676061e8f7e147876a4b79b8a0e40ba89f859","features":{},"yanked":false}
