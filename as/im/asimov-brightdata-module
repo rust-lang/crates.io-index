@@ -1,0 +1,1 @@
+{"name":"asimov-brightdata-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"800c447a265dc69eeeb643939532dbe400c4dd1f18371326bba4b27d5b28960a","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}
