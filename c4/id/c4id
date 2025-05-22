@@ -1,0 +1,1 @@
+{"name":"c4id","vers":"0.1.0","deps":[{"name":"bs58","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.10.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18f52fa4383d19527f9449aab7ec0642fd793c07f2153c8843189bb0805a9a4c","features":{},"yanked":false}
