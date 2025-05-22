@@ -1,0 +1,1 @@
+{"name":"lens","vers":"0.1.0","deps":[{"name":"pest","req":"^2.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6d34c13ca8b2e6e9d5cc638abbb90c4a385a18356cc46d58037bd6a16053476","features":{},"yanked":false}
