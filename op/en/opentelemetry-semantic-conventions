@@ -19,3 +19,4 @@
 {"name":"opentelemetry-semantic-conventions","vers":"0.27.0","deps":[],"cksum":"bc1b6902ff63b32ef6c489e8048c5e253e2e4a803ea3ea7e783914536eb15c52","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"opentelemetry-semantic-conventions","vers":"0.28.0","deps":[],"cksum":"2fb3a2f78c2d55362cd6c313b8abedfbc0142ab3c2676822068fd2ab7d51f9b7","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"opentelemetry-semantic-conventions","vers":"0.29.0","deps":[],"cksum":"84b29a9f89f1a954936d5aa92f19b2feec3c8f3971d3e96206640db7f9706ae3","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.75.0"}
+{"name":"opentelemetry-semantic-conventions","vers":"0.30.0","deps":[],"cksum":"83d059a296a47436748557a353c5e6c5705b9470ef6c95cfc52c21a8814ddac2","features":{"default":[],"semconv_experimental":[]},"yanked":false,"rust_version":"1.75.0"}
