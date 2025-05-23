@@ -1,0 +1,1 @@
+{"name":"burn-mnist","vers":"0.1.0","deps":[{"name":"burn","req":"^0.17.0","features":["train","vision","wgpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5af8b75083434b9936fdf3e7e65a9b7fee5f7ca4ba2c3b115bc4df7eb49030f","features":{},"yanked":false}
