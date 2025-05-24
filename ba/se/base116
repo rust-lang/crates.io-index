@@ -7,3 +7,4 @@
 {"name":"base116","vers":"0.1.6","deps":[],"cksum":"210c3a537f4dbd49a0239776cc0868018883637e807fe33eff5351a122f482db","features":{"alloc":[],"cli-panic":[],"default":["std"],"doc_cfg":[],"std":["alloc"]},"yanked":false}
 {"name":"base116","vers":"0.1.7","deps":[],"cksum":"96401fefdb453b22fc609c9200eace2d06a213dd62fb5516faf55be59f2f3bb1","features":{"alloc":[],"cli-panic":[],"default":["std"],"doc_cfg":[],"std":["alloc"]},"yanked":false,"rust_version":"1.55"}
 {"name":"base116","vers":"0.1.8","deps":[],"cksum":"b39c956fa07a4727e97ced42a13f972d1f6f256bf53e49ac5bf1642f1c741d11","features":{"alloc":[],"cli-panic":[],"default":["std"],"doc_cfg":[],"std":["alloc"]},"yanked":false,"rust_version":"1.55"}
+{"name":"base116","vers":"0.1.9","deps":[],"cksum":"ba7b2e42253b136dadfcfaedcc0058e549e291b85656020bf97d189e137384f2","features":{"alloc":[],"cli-panic":[],"default":["std"],"doc_cfg":[],"std":["alloc"]},"yanked":false,"rust_version":"1.55"}
