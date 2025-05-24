@@ -1,0 +1,1 @@
+{"name":"create-axum-app","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.38","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"554aecb968c248374fd830bb0c40ee42d24e8358b72ffe274104215623f6400a","features":{},"yanked":false}
