@@ -18,3 +18,4 @@
 {"name":"hexga_array","vers":"0.0.10-beta.9","deps":[],"cksum":"0ae2eb2827d4cbdbaaa72e6932584ed536c951b2cee080d64fc1a03f33010d8e","features":{},"yanked":false}
 {"name":"hexga_array","vers":"0.0.10-beta.10","deps":[],"cksum":"f7b6b3e37a9f0538aea7b5f4b84c06e3888733093cb54874e4cc423234b30c67","features":{},"yanked":false}
 {"name":"hexga_array","vers":"0.0.10-beta.11","deps":[{"name":"hexga_map_on","req":"^0.0.10-beta.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c8ca1a1be83a46446e40326bb37c6d7e8c20fb072b7cbb4334c1c86e4f302193","features":{},"yanked":false}
+{"name":"hexga_array","vers":"0.0.10-beta.12","deps":[{"name":"hexga_map_on","req":"^0.0.10-beta.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a62069ce92774b689163e9105c46e0d2399363b36911edf682c75b904e1a916","features":{},"yanked":false}
