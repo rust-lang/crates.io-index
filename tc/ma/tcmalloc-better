@@ -1,0 +1,1 @@
+{"name":"tcmalloc-better","vers":"0.1.0","deps":[{"name":"libtcmalloc-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e27e178120926ae4849407dfe5e558297500290676f812843c9927e1d53c1d37","features":{},"yanked":false}
