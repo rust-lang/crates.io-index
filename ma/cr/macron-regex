@@ -1,0 +1,1 @@
+{"name":"macron-regex","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"055b1d9e7b56b4f45b9a7501532f88b6306e3bf91fcbea8ffb71b3811380f793","features":{},"features2":{"test":["dep:regex"]},"yanked":false,"v":2}
