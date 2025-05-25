@@ -1,1 +1,2 @@
 {"name":"noa-parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b0a1cdc498ddf90ccc7bca6fd7d39d94d04aeacdadd325bc5b04064f824c489","features":{},"yanked":false}
+{"name":"noa-parser","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"197e48f6f0f6c753122c17ddefbe4cdbdff6add29beaef57bc598a92a19ad56b","features":{},"yanked":false}
