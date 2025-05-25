@@ -1,1 +1,2 @@
 {"name":"jessie-lib","vers":"0.1.0","deps":[{"name":"wgpu","req":"^25.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winit","req":"^0.30.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0a3cd58bfa4a18d3f9ef7fb193b59b0276a59cd68cb207546d7b49f901da2c0","features":{},"yanked":false}
+{"name":"jessie-lib","vers":"0.1.1","deps":[],"cksum":"f117a4b2c94a3fbb9a027bc7b49fa49f1fc9d328f48aaf075f42b8438f6df83a","features":{},"yanked":false}
