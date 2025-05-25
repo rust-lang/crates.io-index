@@ -1,0 +1,1 @@
+{"name":"win-spellcheck-rs","vers":"1.0.0","deps":[{"name":"windows","req":"^0.61.1","features":["Win32_Globalization","Win32_System_Com"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"419f7a7f8a09dd9bbb81e521da67254704fdf44b8ecba3c74e5132b4bb15b568","features":{},"yanked":false}
