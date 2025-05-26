@@ -1,0 +1,1 @@
+{"name":"memory_utils","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser","processthreadsapi","memoryapi","handleapi","tlhelp32","winnt","minwindef","basetsd"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8824d6d705622bd05582049c78f7447901b01650c69af8f753c74a5342211767","features":{},"yanked":false}
