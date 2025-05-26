@@ -1,0 +1,1 @@
+{"name":"pcc","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e27e2785a2108902d00125076d6baf23226867b2be1a947bed7ff06f3a4736f","features":{"nightly":[]},"yanked":false,"rust_version":"1.85.0"}
