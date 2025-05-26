@@ -1,2 +1,3 @@
 {"name":"tiny-vec","vers":"0.1.0","deps":[],"cksum":"996d8b4d550f6d76497dd9967e99e49b97cdb0d84774fb9be48d7db79701400f","features":{},"yanked":false}
 {"name":"tiny-vec","vers":"0.2.0","deps":[],"cksum":"b56d060eae1d4746e80467b8de47eb7a3d5a114ec643f757b63c7e1d5b28c5b1","features":{"default":[],"nightly-const-generics":[]},"yanked":false}
+{"name":"tiny-vec","vers":"0.3.0","deps":[],"cksum":"c45658780150c8ac9e67339118e66a40f4992db822e24c3ec7aab72c8135e828","features":{"default":[],"nightly-const-generics":[]},"yanked":false}
