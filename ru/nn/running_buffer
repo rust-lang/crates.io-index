@@ -1,0 +1,1 @@
+{"name":"running_buffer","vers":"0.1.0","deps":[{"name":"serde","req":">=1.0.0","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cd1ae7d0fe4d7ad130e56b057ffa7d357574ba598e03475197dfe0bf807e1d93","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
