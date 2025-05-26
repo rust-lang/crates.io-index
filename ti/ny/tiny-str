@@ -1,1 +1,2 @@
 {"name":"tiny-str","vers":"0.1.0","deps":[{"name":"tiny-vec","req":">=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tiny-vec"}],"cksum":"cfccb7f8b9cfcb3f5fb68b5a0706e6a859609382785924d17e6eca1c28889ab3","features":{},"yanked":false}
+{"name":"tiny-str","vers":"0.2.0","deps":[{"name":"tiny-vec","req":">=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tiny-vec"}],"cksum":"fd6b8e6f36f9f6d16fcad8433916dc8f6d64622e6b4b4eb84689c30eb13b2085","features":{},"yanked":false}
