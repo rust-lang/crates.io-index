@@ -9,3 +9,4 @@
 {"name":"memapi","vers":"0.4.10","deps":[],"cksum":"10ed1401eb9d4dca8218b2cdaccb651be866f7d9cd10bc9d3d184d9fcc7eba01","features":{"alloc_ext":[],"nightly":[],"std":[],"unstable":[]},"yanked":false}
 {"name":"memapi","vers":"0.5.10","deps":[],"cksum":"f59617c75c2178b610c765d86c9b272e326d873e0460c2b025164141ed8866dd","features":{"alloc_ext":[],"nightly":[],"std":[]},"yanked":false}
 {"name":"memapi","vers":"0.5.11","deps":[],"cksum":"3a2c7879fa57b51fb783451d4b056910761882968c63cbf1345521fa36e05c13","features":{"alloc_ext":[],"nightly":[],"std":[]},"yanked":false}
+{"name":"memapi","vers":"0.6.11","deps":[],"cksum":"5c5f306e13b5dea3fc36e3a61f37c1c8c4e645855a4b71b9dd7c640e10fe7d40","features":{"alloc_ext":["metadata"],"clone_to_uninit":["nightly"],"metadata":["nightly"],"nightly":[],"std":[]},"yanked":false}
