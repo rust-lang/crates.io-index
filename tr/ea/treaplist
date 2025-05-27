@@ -1,1 +1,2 @@
 {"name":"treaplist","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f8046e9e7811559eb92e46c46314e10bba97ae05765558f81fa60e2ea70be44","features":{},"yanked":false}
+{"name":"treaplist","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"992ee3428ad8e21fec5ac28f34870919b6405ef59065a5f15f44e6d73076af20","features":{},"yanked":false}
