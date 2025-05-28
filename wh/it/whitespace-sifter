@@ -1,4 +1,4 @@
-{"name":"whitespace-sifter","vers":"0.1.0","deps":[],"cksum":"328d8b7b3da17c125ef5280f6c59f1491d879492135b902e609f7849f232016a","features":{},"yanked":false}
+{"name":"whitespace-sifter","vers":"0.1.0","deps":[],"cksum":"328d8b7b3da17c125ef5280f6c59f1491d879492135b902e609f7849f232016a","features":{},"yanked":true}
 {"name":"whitespace-sifter","vers":"0.1.1","deps":[],"cksum":"a1d1440d80f31d7bb2824f1def8b043274e9733e47adb1264804d99b94725f61","features":{},"yanked":true}
 {"name":"whitespace-sifter","vers":"0.2.0","deps":[],"cksum":"5ccafcdb1e0df4493810fd9c2602feb879f0e1739b89618b81b63dad881844f6","features":{"default":["preserve_newline"],"preserve_newline":[]},"yanked":true}
 {"name":"whitespace-sifter","vers":"0.2.1","deps":[],"cksum":"d424a30a3f944a97e5e00190cd8d154b1d0b878ede1d208bbd4365f4c66d4dd3","features":{"default":["preserve_newline"],"preserve_newline":[]},"yanked":true}
