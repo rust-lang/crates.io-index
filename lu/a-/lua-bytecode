@@ -5,3 +5,4 @@
 {"name":"lua-bytecode","vers":"0.3.2","deps":[],"cksum":"061e2c493cfd690069bc4d031bdb2e8ebe0c01971d88b64b0533ce50f190cc3c","features":{"lua51":[],"luau":[]},"yanked":false}
 {"name":"lua-bytecode","vers":"0.3.3","deps":[],"cksum":"a88d5d1955dd6adddd114bc215d68b936281fc2a77e7cdb4169ef077aba39aeb","features":{"lua51":[],"luau":[]},"yanked":false}
 {"name":"lua-bytecode","vers":"0.3.4","deps":[],"cksum":"2fc8c89f28c53e8e21405f81d75c5957d51b747d9ef98ee7b1212300cc5651cd","features":{"lua51":[],"luau":[]},"yanked":false}
+{"name":"lua-bytecode","vers":"0.3.5","deps":[],"cksum":"f2d3190e9ff209773d5c4a78f0bebbcfe0563d23d4f44ad18c9f428a82a7974e","features":{"lua51":[],"luau":[]},"yanked":false}
