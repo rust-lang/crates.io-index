@@ -1,5 +1,5 @@
 {"name":"grid2d","vers":"0.2.1","deps":[],"cksum":"cb592548535c340d89c030951f3b5880a6fe23617b8b1d92050c2e72743d626b","features":{},"yanked":true}
-{"name":"grid2d","vers":"0.2.2","deps":[],"cksum":"7667f4094b874c807ba30068b3a992e3d166442fe288bfd8e8f55af4c9bb2250","features":{},"yanked":false}
+{"name":"grid2d","vers":"0.2.2","deps":[],"cksum":"7667f4094b874c807ba30068b3a992e3d166442fe288bfd8e8f55af4c9bb2250","features":{},"yanked":true}
 {"name":"grid2d","vers":"0.2.3","deps":[],"cksum":"f6771d2f3bb941cbf6256f584574803a456e673c13e7b71e6d137557ba5a5817","features":{},"yanked":false}
 {"name":"grid2d","vers":"0.2.4","deps":[],"cksum":"5fee62b88fc3c207a6b776d4b831e9eb2aed028cf06af2b081a8f59d0eda213c","features":{},"yanked":false}
 {"name":"grid2d","vers":"0.2.5","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c19b177e4c6b362e049124577de3016ca555e6d35c84c4859819a3934de066a","features":{},"yanked":false}
