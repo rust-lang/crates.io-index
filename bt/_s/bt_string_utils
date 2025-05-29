@@ -2,3 +2,4 @@
 {"name":"bt_string_utils","vers":"0.2.0","deps":[],"cksum":"9901db39d398861fbb8c20c1e0c206bfe5f80190c72d060255eb9087dbd608f4","features":{},"yanked":false}
 {"name":"bt_string_utils","vers":"0.2.1","deps":[],"cksum":"0ff1974b5f1d5404dd4df589df20d30224f6916fa0d64441163431f1e354f982","features":{},"yanked":false}
 {"name":"bt_string_utils","vers":"0.2.2","deps":[],"cksum":"d264515e75b1ab9da22c3a9fb55bcfb88b10a8f345a63f881fdcade202106129","features":{},"yanked":false}
+{"name":"bt_string_utils","vers":"0.2.3","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5212dfb079b26bd9d1961290eaac507ed0c2eb7f8d2ccb299efbe7423f556ed0","features":{},"yanked":false}
