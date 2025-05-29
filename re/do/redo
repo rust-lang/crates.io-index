@@ -26,9 +26,9 @@
 {"name":"redo","vers":"0.17.2","deps":[],"cksum":"284aa0891620c2e258636718df4be0cc6554a506581b1208cdfaa9aa5a465586","features":{},"yanked":false}
 {"name":"redo","vers":"0.18.0","deps":[],"cksum":"73594f1553599fef5d3931476df2d6dde141a6c87f40dcf41ab0832e5aa05366","features":{},"yanked":false}
 {"name":"redo","vers":"0.19.0","deps":[],"cksum":"9b2eb69a9b871026a99a90c0e447c288ee416b636a195bb41a0680c58d730b86","features":{},"yanked":false}
-{"name":"redo","vers":"0.19.1","deps":[],"cksum":"cf9e479a871fd67ab0fb91d1c6837f480d8af427565f423be437e7f90fbf87e0","features":{},"yanked":false}
-{"name":"redo","vers":"0.20.0","deps":[],"cksum":"207b7968942c22becb9655a9be4ac1d1183170673fefed4661a64be2ab2c9cf0","features":{},"yanked":false}
-{"name":"redo","vers":"0.21.0","deps":[],"cksum":"af22a33ccba455cfbcee25ef4c399172f475704638e9dad685f84d6dbbdf8e32","features":{},"yanked":false}
+{"name":"redo","vers":"0.19.1","deps":[],"cksum":"cf9e479a871fd67ab0fb91d1c6837f480d8af427565f423be437e7f90fbf87e0","features":{},"yanked":true}
+{"name":"redo","vers":"0.20.0","deps":[],"cksum":"207b7968942c22becb9655a9be4ac1d1183170673fefed4661a64be2ab2c9cf0","features":{},"yanked":true}
+{"name":"redo","vers":"0.21.0","deps":[],"cksum":"af22a33ccba455cfbcee25ef4c399172f475704638e9dad685f84d6dbbdf8e32","features":{},"yanked":true}
 {"name":"redo","vers":"0.22.0","deps":[],"cksum":"cc7b64a992367df139de925d19f1838680305f6aa83f71d7f697c9a9501083c4","features":{},"yanked":true}
 {"name":"redo","vers":"0.23.0","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3356f84461fa6009ed219d13fde1833a6cbcd6ac6e0b8600ecaf686d42ea749f","features":{},"yanked":true}
 {"name":"redo","vers":"0.24.0","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10cf4f2847253e01a719807bb9dcae82cc689b566d7b811a7a98798c1069ee5b","features":{},"yanked":true}
