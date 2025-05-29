@@ -1,0 +1,1 @@
+{"name":"graphwiz","vers":"0.5.0","deps":[{"name":"goldie","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"trees","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"caef17257afcd0d659292e09730c66494b909af7cb4f97bdc38c3de2cc59a31a","features":{},"yanked":false}
