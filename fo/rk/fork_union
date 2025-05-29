@@ -4,3 +4,4 @@
 {"name":"fork_union","vers":"0.3.1","deps":[],"cksum":"28a31784380d4bc3877e31eaa011d0b057b2d61e2dc1fdd614630fe6ee844a04","features":{},"yanked":false}
 {"name":"fork_union","vers":"0.3.2","deps":[],"cksum":"42beec34a25e6c7b2430b3a0355117a8e63838f82de742b4c70e2eb2ee218f46","features":{},"yanked":false}
 {"name":"fork_union","vers":"0.3.3","deps":[{"name":"crossbeam-utils","req":"^0.8.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20dd5340a6908b088f030c1ab3e0a1a52ca3a35653436808fc4f7b876ded1459","features":{},"yanked":false}
+{"name":"fork_union","vers":"1.0.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb5ef88c13de5b895088450c9a24558729c809fb4fdba320a60a00192a59b4c2","features":{},"yanked":false}
