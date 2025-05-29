@@ -1,4 +1,4 @@
-{"name":"redo","vers":"0.1.0","deps":[],"cksum":"f8040cf84c31bc7b0b651381e9740c392ef52e3b8cf326ac42beb9306b968f8d","features":{},"yanked":false}
+{"name":"redo","vers":"0.1.0","deps":[],"cksum":"f8040cf84c31bc7b0b651381e9740c392ef52e3b8cf326ac42beb9306b968f8d","features":{},"yanked":true}
 {"name":"redo","vers":"0.2.0","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c257b8722742a6ddb8deb9655e025c3e8efe3fdc66d3ee90c07cc0767d0ff78","features":{},"yanked":false}
 {"name":"redo","vers":"0.2.1","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c086dc115be83a99d8d39b39bd0691ed6cfed3d8bbae543bb1c0164437c077f","features":{"no_state":[]},"yanked":false}
 {"name":"redo","vers":"0.3.0","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"145fafa89e5ac79fa8503d5429d1b61c6269c494ccc735818935067b1504437f","features":{},"yanked":false}
