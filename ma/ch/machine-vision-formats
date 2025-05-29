@@ -2,3 +2,4 @@
 {"name":"machine-vision-formats","vers":"0.1.1","deps":[],"cksum":"c092d198482ca4152e1d60beaf1c49eb24d2a2367439f0d652960d17dedc7fd8","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"machine-vision-formats","vers":"0.1.2","deps":[],"cksum":"c9bff2b5b9df417bec6406f8a908cccc18a5386206e1075435e76c862c15df9f","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"machine-vision-formats","vers":"0.1.3","deps":[],"cksum":"4cd3c31ad3c2ec4f2fd7f7262e7e6fe720a5b322bdad88d53f13ce39022af53a","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
+{"name":"machine-vision-formats","vers":"0.1.4","deps":[],"cksum":"e9c86253ed3a4040cde1bb4a389458d821e5a5dffb0f199d51035b244181d401","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
