@@ -1,1 +1,2 @@
 {"name":"ato","vers":"1.0.0","deps":[{"name":"heapless","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f8aa89509aa537c01d899556134c3d38c15b832603dc8f6864320a8c338ad40","features":{},"yanked":false}
+{"name":"ato","vers":"1.0.1","deps":[{"name":"heapless","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fbcafe4b0e3b729a0d0eea6f1b769d8f686fe0864c3aad2f009a59c4353621b","features":{},"yanked":false}
