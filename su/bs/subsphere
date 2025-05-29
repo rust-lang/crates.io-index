@@ -7,3 +7,4 @@
 {"name":"subsphere","vers":"0.5.2","deps":[],"cksum":"669bf9e117d21d82165f9bf17442adef98fc6cdcfe74f974bdbd8ebfceaaadff","features":{},"yanked":false}
 {"name":"subsphere","vers":"0.6.0","deps":[],"cksum":"02d00757a3fabb65540a1fe58a514b2172d78a25c75a0cd5c988f534e567ddda","features":{},"yanked":false}
 {"name":"subsphere","vers":"0.7.0","deps":[{"name":"divan","req":"^0.1.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cbda759d67514a06a4483d35b01c6f8a35fc4580a191735aec8ccfe526c7df1e","features":{},"yanked":false}
+{"name":"subsphere","vers":"0.7.1","deps":[{"name":"criterion","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"378c34e374e0cc977dbf5cf38219ea221b1c86181bbd247f6bb5314be48f2df7","features":{},"yanked":false}
