@@ -22,10 +22,10 @@
 {"name":"redo","vers":"0.15.2","deps":[],"cksum":"e9a5858f5e10d5b8fb8afa2df1105679a85621c334d65176686e49003975d660","features":{},"yanked":false}
 {"name":"redo","vers":"0.16.0","deps":[],"cksum":"e3c12d4c7f8667d4969408b0e4c8096a2839cf266c4de444a5590aa7b0067bfc","features":{},"yanked":false}
 {"name":"redo","vers":"0.17.0","deps":[],"cksum":"c56281ce6fc86c3e9184163f5cc26552ec14e4f83092455d7e4c1a3fdde67a4e","features":{},"yanked":false}
-{"name":"redo","vers":"0.17.1","deps":[],"cksum":"2dcb6e69b6d18b6529933fefdd3085a9cfc900b5dab48df40a63e2cff5b694b0","features":{},"yanked":false}
-{"name":"redo","vers":"0.17.2","deps":[],"cksum":"284aa0891620c2e258636718df4be0cc6554a506581b1208cdfaa9aa5a465586","features":{},"yanked":false}
-{"name":"redo","vers":"0.18.0","deps":[],"cksum":"73594f1553599fef5d3931476df2d6dde141a6c87f40dcf41ab0832e5aa05366","features":{},"yanked":false}
-{"name":"redo","vers":"0.19.0","deps":[],"cksum":"9b2eb69a9b871026a99a90c0e447c288ee416b636a195bb41a0680c58d730b86","features":{},"yanked":false}
+{"name":"redo","vers":"0.17.1","deps":[],"cksum":"2dcb6e69b6d18b6529933fefdd3085a9cfc900b5dab48df40a63e2cff5b694b0","features":{},"yanked":true}
+{"name":"redo","vers":"0.17.2","deps":[],"cksum":"284aa0891620c2e258636718df4be0cc6554a506581b1208cdfaa9aa5a465586","features":{},"yanked":true}
+{"name":"redo","vers":"0.18.0","deps":[],"cksum":"73594f1553599fef5d3931476df2d6dde141a6c87f40dcf41ab0832e5aa05366","features":{},"yanked":true}
+{"name":"redo","vers":"0.19.0","deps":[],"cksum":"9b2eb69a9b871026a99a90c0e447c288ee416b636a195bb41a0680c58d730b86","features":{},"yanked":true}
 {"name":"redo","vers":"0.19.1","deps":[],"cksum":"cf9e479a871fd67ab0fb91d1c6837f480d8af427565f423be437e7f90fbf87e0","features":{},"yanked":true}
 {"name":"redo","vers":"0.20.0","deps":[],"cksum":"207b7968942c22becb9655a9be4ac1d1183170673fefed4661a64be2ab2c9cf0","features":{},"yanked":true}
 {"name":"redo","vers":"0.21.0","deps":[],"cksum":"af22a33ccba455cfbcee25ef4c399172f475704638e9dad685f84d6dbbdf8e32","features":{},"yanked":true}
