@@ -8,3 +8,4 @@
 {"name":"hteapot","vers":"0.4.1","deps":[],"cksum":"ee7e0f4fe6be738731ae0bfc64d544e557f73535d004889b42a8d2dd2d8bae9a","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.4.2","deps":[],"cksum":"ef36b290b07caeb44d832a9c0869a493f11c79b9d2621f235c12db08eefe2688","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.5.0","deps":[],"cksum":"9824cadb6a54d49bf90e73a059fa68945b4e0e29a592e1fa72a29307019fe00f","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.6.0","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1db7acae4c9cdc02f996b2a2379713e7354e543e0d407fbe658b5b52db780a3","features":{},"yanked":false}
