@@ -44,3 +44,4 @@
 {"name":"std-macro-extensions","vers":"0.23.1","deps":[],"cksum":"b8aea3f47732de44afdc8c549445308a43f5623da5a79602bf32de518566fc62","features":{},"yanked":false}
 {"name":"std-macro-extensions","vers":"0.23.2","deps":[],"cksum":"aa17898d2c4216a85ad32abd51101b6eab0adef954ed1393c4557ba378625ade","features":{},"yanked":false}
 {"name":"std-macro-extensions","vers":"0.24.0","deps":[],"cksum":"544145c9178d0c4f8daa3a64dfde2be6cefdaf129f2672b4df77fbe1c77f915a","features":{},"yanked":false}
+{"name":"std-macro-extensions","vers":"0.25.0","deps":[{"name":"tokio","req":"^1.45.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"608674e57da06083d40aa7b9949e1682d54dadca0f39a2b69b5184944532f7e6","features":{},"yanked":false}
