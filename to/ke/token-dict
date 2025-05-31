@@ -1,1 +1,2 @@
 {"name":"token-dict","vers":"0.1.0","deps":[{"name":"ptrie","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bb759c58f5f1d555371bbdab2cdaf37a2a966812f4ab4667b53513ba675c3ef","features":{},"yanked":false}
+{"name":"token-dict","vers":"0.2.0","deps":[{"name":"ptrie","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"743f0c1b517ee038528a0dd3ee1b63ea4c0f28378448565bc34923bebb2e5f86","features":{},"yanked":false}
