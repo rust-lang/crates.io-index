@@ -1,1 +1,1 @@
-{"name":"dragonbox_ecma","vers":"0.0.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b59800f08ed51b102b265e41c8c389e4b24b487dcaeceb781b9e695c9d86275c","features":{},"yanked":true,"rust_version":"1.52"}
+{"name":"dragonbox_ecma","vers":"0.0.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b59800f08ed51b102b265e41c8c389e4b24b487dcaeceb781b9e695c9d86275c","features":{},"yanked":false,"rust_version":"1.52"}
