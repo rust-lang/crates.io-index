@@ -1,0 +1,1 @@
+{"name":"hot-restart","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.45.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b62f6e8a007f46457dd768d69a8527a46cd36c84786bc05c9db904a3981bf667","features":{},"yanked":false}
