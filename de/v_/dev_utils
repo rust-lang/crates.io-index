@@ -15,3 +15,4 @@
 {"name":"dev_utils","vers":"0.0.15","deps":[],"cksum":"3613ccb867d9c8a5fe4038e2d290570f22fbb09c882cff26981d365432ddd205","features":{},"yanked":false}
 {"name":"dev_utils","vers":"0.1.1-rc-1","deps":[],"cksum":"6b83a30420fef956d3f974f55716064836a2d8defe08cc539bea29dee0f093cf","features":{},"yanked":false}
 {"name":"dev_utils","vers":"0.1.1","deps":[],"cksum":"377d2c5e4d1f784cdc283b458cbcf790a0978373fa60a51c07c98dbf3e282dc2","features":{},"yanked":false}
+{"name":"dev_utils","vers":"0.1.2","deps":[],"cksum":"eee707cc1b346b9371bbb11225a56364f500251267628d1da41541d3200e05d4","features":{"bench":[],"default":["key_logger"],"dev_macros":[],"full":["key_logger"],"key_logger":[]},"yanked":false}
