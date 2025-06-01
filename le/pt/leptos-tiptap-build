@@ -8,3 +8,4 @@
 {"name":"leptos-tiptap-build","vers":"0.2.5","deps":[{"name":"phf","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19047a7339fd5c2295f466470d4f858ef1ec961e25c4eaca6ad39c541424f361","features":{},"yanked":false,"rust_version":"1.60.0"}
 {"name":"leptos-tiptap-build","vers":"0.2.6","deps":[],"cksum":"34344ffac31f60ebe96de99dff5e9b3371f63c50186f7e065032b11660bab944","features":{},"yanked":false,"rust_version":"1.60.0"}
 {"name":"leptos-tiptap-build","vers":"0.2.7","deps":[],"cksum":"ff633e8c2bc846df3f719816735a158bd16e1e2e5b7331ba105fe78c00ccd246","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"leptos-tiptap-build","vers":"0.2.8","deps":[],"cksum":"fc4989e17a7192c79dd447315eeb3b2efed02a0c13059544dc7d53ab6f6cf3a8","features":{},"yanked":false,"rust_version":"1.60.0"}
