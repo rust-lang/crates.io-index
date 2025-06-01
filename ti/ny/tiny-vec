@@ -7,3 +7,4 @@
 {"name":"tiny-vec","vers":"0.6.0","deps":[],"cksum":"ebf15f6aa0207cc03464b6a1e6cad9b724839e8a19f383e7872d5e39de1df44c","features":{"default":[],"default-size":[],"use-specialization":[]},"yanked":false}
 {"name":"tiny-vec","vers":"0.9.0","deps":[],"cksum":"9e9eec2dc37c5f7e7da8d117badd817455c5ae32de6c0b8aec8c77afcada04fe","features":{"default":[],"default-size":[],"use-specialization":[]},"yanked":true}
 {"name":"tiny-vec","vers":"0.7.0","deps":[],"cksum":"2472bbb8c5eee804ec24e3d87a162ff775144934832a7f36df912b2ef52c4f8b","features":{"default":[],"default-size":[],"use-specialization":[]},"yanked":false}
+{"name":"tiny-vec","vers":"0.8.0","deps":[],"cksum":"c7d27d6654c48eea67b34140795dcfde2a64999fc9966e2e7404fc8704c720c7","features":{"default":[],"use-nightly-features":[]},"yanked":false}
