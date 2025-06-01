@@ -1,0 +1,1 @@
+{"name":"o2","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.38","features":["derive","env","unicode","wrap_help","string","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71e6cb7214c0e53a4f24a5478a799e2c7b128e598e49987500d2e4640e8750a4","features":{},"yanked":false}
