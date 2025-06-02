@@ -1,0 +1,1 @@
+{"name":"ekzg-maybe-rayon","vers":"0.7.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31c5d6a8ee76578fff3261104ca6c9b42993c42a957f3191c3666f2af36bcf6b","features":{"multithreaded":["rayon"]},"yanked":false,"rust_version":"1.73"}
