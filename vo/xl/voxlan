@@ -1,0 +1,1 @@
+{"name":"voxlan","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.45.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d127f7924b28d7a715f2e465608fa008f8dc4b34dcdf04493b5bfb3b61ed9e47","features":{},"yanked":false}
