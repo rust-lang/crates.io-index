@@ -1,0 +1,1 @@
+{"name":"pawkit-futures","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.45.0","features":["sync","rt","macros","rt-multi-thread"],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"567e21c35309e9038165a5c159f52d81cf7bb768f4240b64960f84c8ba3deb8c","features":{},"yanked":false}
