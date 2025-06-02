@@ -12,3 +12,4 @@
 {"name":"macro_rules_attribute-proc_macro","vers":"0.1.4","deps":[],"cksum":"89b794c7110bd4f9dcc86c766de9af20ff10aa4517c3651f7320b38cd121dbca","features":{"verbose-expansions":[]},"yanked":true}
 {"name":"macro_rules_attribute-proc_macro","vers":"0.2.0","deps":[],"cksum":"b8dd856d451cc0da70e2ef2ce95a18e39a93b7558bedf10201ad28503f918568","features":{"verbose-expansions":[]},"yanked":false}
 {"name":"macro_rules_attribute-proc_macro","vers":"0.2.1-rc1","deps":[],"cksum":"9beab5689c550e5941eb66deafbf7a7932901544632bac8f4acd6524b15a3c30","features":{"verbose-expansions":[]},"yanked":false}
+{"name":"macro_rules_attribute-proc_macro","vers":"0.2.1-rc2","deps":[],"cksum":"4d230a495566da42e0c5dc78ede97883f002a692e1f2abef1bef2cd3a7aec453","features":{"verbose-expansions":[]},"yanked":false}
