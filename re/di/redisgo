@@ -1,0 +1,1 @@
+{"name":"redisgo","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"redis","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"208451db9b861306e095a37af4dd420d2a9ebada240aac912ce643d917451479","features":{},"yanked":false}
