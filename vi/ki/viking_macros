@@ -1,1 +1,2 @@
 {"name":"viking_macros","vers":"0.0.0","deps":[],"cksum":"f6fbfcd0c5e1cdd7225c34b88421a831da87d2e4a28ba50214e81b0e06281bf6","features":{},"yanked":false}
+{"name":"viking_macros","vers":"0.1.0","deps":[{"name":"viking_macros_enum","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bac7a4b2d4a87eb6e6b1694ffaf71049d4f9c8f2aa002b970a9fb455fee77ff3","features":{},"yanked":false}
