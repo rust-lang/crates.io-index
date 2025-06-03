@@ -1,2 +1,0 @@
-{"name":"chip-8-compiler","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d051cfb3cc30b3f2dcf19f1e14d64a4fe21c2e56a385fa2ebd1272a98c9bf23f","features":{},"yanked":false}
-{"name":"chip-8-compiler","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2c9d9955fd84de699e741991b3e1c0f74ed41bd1d70104d344ed04ba048f9c3","features":{},"yanked":false}
