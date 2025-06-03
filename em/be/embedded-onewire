@@ -1,0 +1,1 @@
+{"name":"embedded-onewire","vers":"0.0.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b56ebdf39877f1f23c2e5b5826358cc86296a01f29fa900f39c6219795b596b5","features":{"crc-table":[],"default":["crc-table"],"triplet-read":[]},"yanked":false}
