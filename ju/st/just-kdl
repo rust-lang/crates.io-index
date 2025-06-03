@@ -1,0 +1,1 @@
+{"name":"just-kdl","vers":"0.1.0","deps":[{"name":"kdl","req":"^6.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a15e9f11be8e6d05ac471d01dccaae0591e559737423dedf4c7989b57953b89","features":{},"yanked":false}
