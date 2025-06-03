@@ -1,1 +1,2 @@
 {"name":"toprompt","vers":"0.1.0","deps":[{"name":"clipboard","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42c817f10c4b6cda09dc8ac099a6bfb6e7eeecb905caffb185782ab3238433aa","features":{},"yanked":false}
+{"name":"toprompt","vers":"0.1.1","deps":[{"name":"clipboard","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3ac07236bc36dd83576e5bf6e295eff23d6dd61ed76dd41891da0c596a1ed22","features":{},"yanked":false}
