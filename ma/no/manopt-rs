@@ -1,0 +1,1 @@
+{"name":"manopt-rs","vers":"0.1.0","deps":[{"name":"burn","req":"^0.17","features":["tch","autodiff","ndarray"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d85b3c85c26d31f4647058ef03c052cc73c1e960a25e83b81118d321102f2721","features":{},"yanked":false}
