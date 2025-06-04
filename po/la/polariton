@@ -1,0 +1,1 @@
+{"name":"polariton","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"702e1d4db7a6a1fc945d934b6636fc4831ed22249141faf6ab21e6a273d153bf","features":{"default":[],"tokio-async":["tokio","tokio/io-util"]},"yanked":false}
