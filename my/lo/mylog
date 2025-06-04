@@ -1,1 +1,2 @@
 {"name":"mylog","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e38d0854a7bb9853d4c034d26b8123f391e09d150dd5150e6d3ee4a34e003a8e","features":{},"yanked":false}
+{"name":"mylog","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"736068cb2b2be02a47292e72e549bbd7e05a68ff60409dbb387106c0167453f5","features":{},"yanked":false}
