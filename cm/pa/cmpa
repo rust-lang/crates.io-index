@@ -1,0 +1,1 @@
+{"name":"cmpa","vers":"0.1.0","deps":[{"name":"zeroize","req":"^1.8.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9faa1daaed3d529f0d21cf054f3408145917ea1b6ac87f57f45f10b6b4cd3e39","features":{"enable_arch_math_asm":[]},"features2":{"default":["enable_arch_math_asm","zeroize"],"zeroize":["dep:zeroize"]},"yanked":false,"v":2}
