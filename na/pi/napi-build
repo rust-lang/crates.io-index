@@ -23,3 +23,4 @@
 {"name":"napi-build","vers":"2.1.6","deps":[],"cksum":"e28acfa557c083f6e254a786e01ba253fc56f18ee000afcd4f79af735f73a6da","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"napi-build","vers":"2.2.0","deps":[],"cksum":"03acbfa4f156a32188bfa09b86dc11a431b5725253fc1fc6f6df5bed273382c4","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"napi-build","vers":"3.0.0-beta.0","deps":[],"cksum":"42908a235da4c4a18c481eb5a8bb38570daa18581a68c508ca8efab662e38bc6","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"napi-build","vers":"2.2.1","deps":[],"cksum":"44e0e3177307063d3e7e55b7dd7b648cca9d7f46daa35422c0d98cc2bf48c2c1","features":{},"yanked":false,"rust_version":"1.80"}
