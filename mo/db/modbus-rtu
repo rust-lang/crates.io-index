@@ -15,3 +15,4 @@
 {"name":"modbus-rtu","vers":"0.2.12","deps":[],"cksum":"577caea9f936ccfedf987206dff5c2697bf9fcf428ebc7ca98468558cdc1233b","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":false}
 {"name":"modbus-rtu","vers":"0.2.13","deps":[],"cksum":"dffe621234d07f9d5d92a2a5852f5c9e6392cbf32aba53609d1e42e049464224","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":false}
 {"name":"modbus-rtu","vers":"0.2.14","deps":[],"cksum":"600478057394d174091bb911124021ed861521b62310540af3caa1a2e3a2fa87","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":false}
+{"name":"modbus-rtu","vers":"0.2.15","deps":[],"cksum":"e5b80d0663cc2847bc367e7d89eacad4f479f1071b92987989b94443c10e46b8","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":false}
