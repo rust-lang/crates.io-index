@@ -1,0 +1,1 @@
+{"name":"avina-ui","vers":"0.0.1","deps":[{"name":"dioxus","req":"^0.6.3","features":["fullstack"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c86e358f4aa8902463d69b6aa52111f9ecaada8533826953676e9f06afb0ca8f","features":{"default":[],"server":["dioxus/server"],"web":["dioxus/web"]},"yanked":false}
