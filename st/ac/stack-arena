@@ -1,2 +1,3 @@
 {"name":"stack-arena","vers":"0.1.0","deps":[],"cksum":"f75e2b8febd8820409acdd5a00c47615426252a6fcfa43b3535e931e4a1f2c2f","features":{},"yanked":false}
 {"name":"stack-arena","vers":"0.2.0","deps":[],"cksum":"1690675632a6e9e78238a922801aabec37734fe2b96bdc3cf0cb0b4f3569006d","features":{},"yanked":false}
+{"name":"stack-arena","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.6.0","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ce3a35143a0ef0c3e6cab4da70c82a40a5360f344e516bd8028a02ed9a3e5cf","features":{},"yanked":false}
