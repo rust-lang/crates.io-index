@@ -20,3 +20,4 @@
 {"name":"caret","vers":"0.4.7","deps":[],"cksum":"8c979a125c4d00f63d49b648530a952c6cc42e3387cc96f41f9a4687ee6b9273","features":{"full":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"caret","vers":"0.5.0","deps":[],"cksum":"1df55dc0c84d5a555c4b8b84ecf3cff724df77a7b1a8c4a70cd66a981524cff0","features":{"full":[]},"yanked":false,"rust_version":"1.77"}
 {"name":"caret","vers":"0.5.1","deps":[],"cksum":"f5440e59387a6f8291f2696a875656873e9d51e9fb7b38af81a25772a5f81b33","features":{"full":[]},"yanked":false,"rust_version":"1.77"}
+{"name":"caret","vers":"0.5.2","deps":[],"cksum":"887ce2cf6dd0aacf15ce11190546d4348dbebce576cc11b57010a023907f7aa9","features":{"full":[]},"yanked":false,"rust_version":"1.83"}
