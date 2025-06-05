@@ -1,1 +1,2 @@
 {"name":"ceres-dsp","vers":"0.0.5","deps":[{"name":"ceres-macros","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b425726cec4ea05d1cada3658705d4e8a4782c0072c908817d9c5203c4da648","features":{},"yanked":false}
+{"name":"ceres-dsp","vers":"0.0.6","deps":[{"name":"ceres-macros","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a92c1ae9082f13d79a21b1e996dda6003aae7395f914b5f51313733f2f18d414","features":{},"yanked":false}
