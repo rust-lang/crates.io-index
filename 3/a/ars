@@ -1,1 +1,1 @@
-{"name":"ars","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1","features":["const_new"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55f5bce53820d3553bfc2098172e6b75b6068c5d6e90505e07e12615ddabc367","features":{},"yanked":false}
+{"name":"ars","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1","features":["const_new"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55f5bce53820d3553bfc2098172e6b75b6068c5d6e90505e07e12615ddabc367","features":{},"yanked":true}
