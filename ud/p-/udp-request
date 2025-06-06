@@ -17,3 +17,4 @@
 {"name":"udp-request","vers":"0.2.5","deps":[{"name":"lombok-macros","req":"^1.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eda6e8926c96fe2f3cc67ffae7c9a18df15e6249fd2c57ea7c7ffa3a6eea310","features":{},"yanked":false}
 {"name":"udp-request","vers":"0.2.6","deps":[{"name":"lombok-macros","req":"^1.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c49391bf02146c74e0a13cc661e19498d269bc9324ddf5c9d56e00159c5c973f","features":{},"yanked":false}
 {"name":"udp-request","vers":"0.2.7","deps":[],"cksum":"41963b610012ee8a98403a54e350794e42ef253b2ffa32beeea5abd84566111f","features":{},"yanked":false}
+{"name":"udp-request","vers":"0.2.8","deps":[],"cksum":"7313d80c89f2481cf2395ef7298ebd35fd1926cbdc18cc487ae5897b1c355723","features":{},"yanked":false}
