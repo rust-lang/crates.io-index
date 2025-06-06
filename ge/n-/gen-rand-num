@@ -1,1 +1,2 @@
 {"name":"gen-rand-num","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17c7f6a94ad95596ece71173591621fb5e18aa0ad118aa84cb5b70fe834e3d08","features":{},"yanked":false}
+{"name":"gen-rand-num","vers":"0.2.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"238195c46b2912fc34c7f69b69379e35c8f157d1d86e18c3eb23e9bb065a2ef7","features":{},"yanked":false}
