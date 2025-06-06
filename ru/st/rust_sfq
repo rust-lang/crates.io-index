@@ -1,1 +1,2 @@
 {"name":"rust_sfq","vers":"0.1.0","deps":[{"name":"twox-hash","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aee38d563f8f66483f8c3ef8f8b059a0435699ff6346e2783ae3e26f51279b4d","features":{},"yanked":false}
+{"name":"rust_sfq","vers":"0.1.1","deps":[{"name":"twox-hash","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1d54bbd04ee37d13a0c364f91a377cb1ec6076d63b3baa7f64243ddadff3d6d","features":{},"yanked":false}
