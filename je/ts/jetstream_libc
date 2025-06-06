@@ -1,1 +1,2 @@
 {"name":"jetstream_libc","vers":"8.3.0","deps":[{"name":"libc","req":"^0.2.170","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"de2bd4396cd82450de06c492e4defc31a47c1151b41e0771cda77fab99996d4c","features":{},"yanked":false}
+{"name":"jetstream_libc","vers":"8.3.1","deps":[{"name":"libc","req":"^0.2.170","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6ddccaec6838c16af27accc14aff642794db38b76634c67102eed6501fd2cd11","features":{},"yanked":false}
