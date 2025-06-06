@@ -1,0 +1,1 @@
+{"name":"aleo-struct-parser","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.140","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02899bb7a9cbfedea84ddd4a5a568242820d727695db9c4b7202692b1115b48d","features":{"default":["preserve_order"],"preserve_order":["serde_json/preserve_order"]},"yanked":false}
