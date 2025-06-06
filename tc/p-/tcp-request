@@ -74,3 +74,4 @@
 {"name":"tcp-request","vers":"2.2.5","deps":[{"name":"lombok-macros","req":"^1.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a92cb7759cd434905b00f0396ae7eb7c4b7446ab5c367f3781587250bc5cf6","features":{},"yanked":false}
 {"name":"tcp-request","vers":"2.2.6","deps":[],"cksum":"b852cf7094417403b26cc2d5804a3d3a6d0383efd6f73081111722d9155d7fba","features":{},"yanked":false}
 {"name":"tcp-request","vers":"2.2.7","deps":[],"cksum":"915cafd8b2aea5bcdd31cb7e2a3404e7af2792cc80441148b22ebb787adb96fb","features":{},"yanked":false}
+{"name":"tcp-request","vers":"2.2.8","deps":[],"cksum":"7dc15723ccb02a49e7b80e376b15f88c0d3a66137cd5200f99192d9d64807cc5","features":{},"yanked":false}
