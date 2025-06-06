@@ -1,1 +1,2 @@
 {"name":"bytes-str","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00512f8e219ed95ccdc992c484b21448b3ff979a0e463bbb5450310a00d76d7c","features":{},"yanked":false}
+{"name":"bytes-str","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53354e9766847555b485f6f25f6f020059f1d4b8fbe47a7a43d14132011f558e","features":{},"yanked":false}
