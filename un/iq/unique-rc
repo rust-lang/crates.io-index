@@ -3,3 +3,4 @@
 {"name":"unique-rc","vers":"0.1.2","deps":[],"cksum":"9d1bb229586142fd3724ac679292cf753bf5691bedfe7c644d69565a336814aa","features":{"std":[]},"yanked":false}
 {"name":"unique-rc","vers":"0.1.3","deps":[],"cksum":"673cfc49c224b615d1a92994680e7f34a2fded689221bdfece2019cfb84705e3","features":{"std":[]},"yanked":false}
 {"name":"unique-rc","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0.219","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ab2b2b6b9adc2ff7783c5260a6a19065adf775fbb50ce0c57991282a97fb70f3","features":{"std":[]},"yanked":false}
+{"name":"unique-rc","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.219","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"047d2335eb4bbed445177c4702d9c1eccb256915ffa57b9e951af6f904263a04","features":{"std":[]},"yanked":false}
