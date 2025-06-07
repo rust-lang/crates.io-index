@@ -8,3 +8,4 @@
 {"name":"awaiter-trait","vers":"0.2.5","deps":[],"cksum":"c5fac39b02808ee3bf59c4aaece5d804f1e50701d9ae6e02ea0fff39f769cf44","features":{},"yanked":false}
 {"name":"awaiter-trait","vers":"0.2.6","deps":[],"cksum":"db7666201f0d7db8691545ad1a6626e32b1c7b5cef548e263a237a16c81f0a40","features":{},"yanked":false}
 {"name":"awaiter-trait","vers":"0.2.7","deps":[],"cksum":"174157b0b76c5c1a05ffe899b1b2a1058fd14a03fdba9151844fe8954d7466eb","features":{},"yanked":false}
+{"name":"awaiter-trait","vers":"0.2.8","deps":[{"name":"embedded-io","req":"^0.6.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"embedded-io-async","req":"^0.6.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76a2faaa1781413f3002fc3b6dfb0a9a89772c147c8e8b578d3a754d5e0b42ab","features":{},"features2":{"embedded-io":["dep:embedded-io-async","dep:embedded-io"]},"yanked":false,"v":2}
