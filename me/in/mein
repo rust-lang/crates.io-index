@@ -2,3 +2,4 @@
 {"name":"mein","vers":"0.0.1","deps":[],"cksum":"373af8ad7a6b02f1e61d93d84e5b5d9e0b828e0b4f6217182845c3cf7073a712","features":{},"yanked":false}
 {"name":"mein","vers":"0.0.2","deps":[{"name":"antex","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c351e23d3ee4434cfb128915ec8a254abfe3790f6f7985b7ce72a03c753cb862","features":{},"yanked":false}
 {"name":"mein","vers":"0.0.3","deps":[{"name":"antex","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bf8fc8dfff05fcc2e387437253896d2b2f7854eeacc852ee09b27f51fc1c094","features":{},"yanked":false}
+{"name":"mein","vers":"0.0.4","deps":[{"name":"antex","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd5cd9b9c0549cb38f0c9beebf619afa6728203f548986473c9b9cb6fa0da885","features":{},"yanked":false}
