@@ -11,3 +11,4 @@
 {"name":"meshmeshmesh","vers":"0.1.10","deps":[],"cksum":"21c424900fef78d8edcc8866cf8c6756f32b556423ea41b463f47183f149d63d","features":{},"yanked":false}
 {"name":"meshmeshmesh","vers":"0.1.11","deps":[],"cksum":"e28c337780db3432507bc8c6d4b2abe763ff88c9ac3686b6fd2b0cd757cb69db","features":{},"yanked":false}
 {"name":"meshmeshmesh","vers":"0.1.12","deps":[{"name":"i_triangle","req":"=0.35.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5617ae6a2c7c53325ee5c064b140c2c5829a287645ae64d39e27d99c3432357d","features":{},"yanked":false}
+{"name":"meshmeshmesh","vers":"0.2.0","deps":[{"name":"i_triangle","req":"=0.35.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d1da05f98f9d2cf70759761123e80c34df46d103c08bfc24f83c1dcb0f779b6","features":{},"yanked":false}
