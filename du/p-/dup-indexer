@@ -9,3 +9,4 @@
 {"name":"dup-indexer","vers":"0.4.0","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"028755090353aece6daa68ef8420a3106a1878522b0c14b5a632829836d3519b","features":{},"yanked":false,"rust_version":"1.60.0"}
 {"name":"dup-indexer","vers":"0.4.1","deps":[],"cksum":"bc3ce96c90dfc46effe78516f04ead6cd1634b4d515981f9b93a0dcd8f1310fc","features":{},"yanked":false,"rust_version":"1.60"}
 {"name":"dup-indexer","vers":"0.4.2","deps":[],"cksum":"c004a7ff04c3a07b6a5cdde5ec8c9a9bda749728d31138e13a59dd6df2ecec7e","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"dup-indexer","vers":"0.4.3","deps":[],"cksum":"566f1369217f39be56abf12c81aaa87ab579ae8bd4dff8692939d1a06d99f8c5","features":{},"yanked":false,"rust_version":"1.60"}
