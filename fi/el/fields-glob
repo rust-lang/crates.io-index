@@ -1,1 +1,2 @@
 {"name":"fields-glob","vers":"0.1.0","deps":[{"name":"proc-macro-tool","req":"^0.8.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ad4e147c0a1ba682f2def4b0fab066c978a3b0bee74cb5bd0607cbe84755de5","features":{},"yanked":false}
+{"name":"fields-glob","vers":"0.1.1","deps":[{"name":"proc-macro-tool","req":"^0.8.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac5c6971a1ee2859efff7a830a2098d4bd852ab951a41d791cebc2d94f4302bb","features":{},"yanked":false}
