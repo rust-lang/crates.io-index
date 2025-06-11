@@ -1,1 +1,2 @@
 {"name":"giga-chess","vers":"0.0.1","deps":[],"cksum":"0e94da1d686b42885806f1fabe0243a2602138f7ef6a595340a9aee76469561e","features":{},"yanked":false}
+{"name":"giga-chess","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb25651d0c01aa763bc637dfd746363704c1325db58ca5b70f62e2d2bb9b17eb","features":{},"yanked":false}
