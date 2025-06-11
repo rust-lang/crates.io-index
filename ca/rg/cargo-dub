@@ -1,0 +1,1 @@
+{"name":"cargo-dub","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c0ba09fc5abc7c6d79fcfde38d4730e574739ab29324c5efdefbce88a38f378","features":{},"yanked":false}
