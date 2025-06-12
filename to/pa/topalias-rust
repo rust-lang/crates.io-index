@@ -1,1 +1,2 @@
 {"name":"topalias-rust","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a72ae9ea222fecb821edc6ea3a7a7d1ee86d4c15789af6fa13214435f68772","features":{},"yanked":false}
+{"name":"topalias-rust","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c42ee7735baf8a8d000cf7f02bbf31a56e5fbb6412dd94a3e37ae56e59ea26d","features":{},"yanked":false}
