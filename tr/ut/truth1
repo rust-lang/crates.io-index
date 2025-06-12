@@ -1,1 +1,2 @@
 {"name":"truth1","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e54180904897b8b0cc15888c53fe5cce3d3797d655ad744a99b28772c2fbd873","features":{},"yanked":false}
+{"name":"truth1","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeffdbed6ffbf6ecf85d28336c4fa82bf99a8418d9487ad7ce06e3f76c31770a","features":{},"yanked":false}
