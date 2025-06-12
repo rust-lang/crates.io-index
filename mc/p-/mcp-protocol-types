@@ -1,0 +1,1 @@
+{"name":"mcp-protocol-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d668a57c49d41289ed02a62a3b3c50aa39a6ceb91027ec82b5dfed05662db84","features":{},"yanked":false}
