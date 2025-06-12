@@ -5,3 +5,4 @@
 {"name":"memory_addr","vers":"0.3.0","deps":[],"cksum":"2ca25419c2b34080d526d6836a53dcab129767ab6a9904587c87265ae6d41aa9","features":{},"yanked":false}
 {"name":"memory_addr","vers":"0.3.1","deps":[],"cksum":"6f769efcf10b9dfb4c913bebb409cda77b1a3f072b249bf5465e250bcb30eb49","features":{},"yanked":false}
 {"name":"memory_addr","vers":"0.3.2","deps":[],"cksum":"5438b8df0f13e16e1f46140de247695a95952a5a4479e47197a8711bf1063373","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"memory_addr","vers":"0.4.0","deps":[],"cksum":"3d4054cba279515fa87761b101d857333ce06391dbe8f18a11347204a7111416","features":{},"yanked":false,"rust_version":"1.70.0"}
