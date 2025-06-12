@@ -1,0 +1,1 @@
+{"name":"svgi","vers":"0.1.0","deps":[{"name":"oxipng","req":"^9.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"resvg","req":"^0.45.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d896f32bb3b29d908d2b2d1c9ef8bfeffc933a70577f3fd45d6dc3c1e27ed13","features":{},"yanked":false}
