@@ -1,0 +1,1 @@
+{"name":"extra_result","vers":"1.0.1","deps":[{"name":"tokio","req":"^1.45.0","features":["macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f77308858e1944133ec00158bcfb8835a22278d1f39ebe6bbca6a48616ee24f8","features":{},"yanked":false}
