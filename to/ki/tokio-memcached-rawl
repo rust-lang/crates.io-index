@@ -1,0 +1,1 @@
+{"name":"tokio-memcached-rawl","vers":"0.1.20250613","deps":[{"name":"tokio","req":"^1.45.1","features":["macros","rt","time","sync","net","io-util"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4d393f7d35d62c95efe898aacf4cd1f94117ca27093865c9a0404d38aefb7aaf","features":{},"yanked":false}
