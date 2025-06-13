@@ -1,1 +1,2 @@
 {"name":"bevy_aspect_ratio_mask","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d524a1944076e07ce296012665dddb083165903ab18a06a7a3e9a811182aa14b","features":{},"yanked":false}
+{"name":"bevy_aspect_ratio_mask","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50eed37ec2890fc176a6d19e46e60fa1f4d80d8a35d2657fb230f05db56049c1","features":{},"yanked":false}
