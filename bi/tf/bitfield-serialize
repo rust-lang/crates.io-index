@@ -1,0 +1,1 @@
+{"name":"bitfield-serialize","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d39ce4fbf411291fea7b2239b04f8b02b810e08e4955670253df813493e82ecd","features":{"default":["std"],"std":[]},"yanked":false}
