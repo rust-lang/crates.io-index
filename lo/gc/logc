@@ -1,1 +1,2 @@
 {"name":"logc","vers":"0.1.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21a9747367b4586a898ea8f5a929e08ec5c7cd1caa5c08927deceb3d89d98467","features":{},"yanked":false}
+{"name":"logc","vers":"0.1.1","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11c5c34523180980e76139e6418b5c626c1fa4b7fe93f89133d952b38c5e1e24","features":{},"yanked":false}
