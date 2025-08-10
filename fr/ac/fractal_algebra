@@ -1,1 +1,2 @@
 {"name":"fractal_algebra","vers":"0.1.0","deps":[{"name":"num-complex","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fa66e3328b4f7e21bdbcebe2d3d0167e399d768664cffedfe75e634410c4dcb","features":{},"yanked":false}
+{"name":"fractal_algebra","vers":"0.1.1","deps":[{"name":"num-complex","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"066e42eeb0f652f1bbe10eda683e5a880718f78823783962d0c4c9c171ea5f23","features":{},"yanked":false}
