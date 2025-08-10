@@ -1,0 +1,1 @@
+{"name":"to-be","vers":"0.0.1","deps":[{"name":"base-traits","req":"^0","features":["implement-AsStr-for-built_ins"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c8a9ed3904fedf312a6d7d5478fc1f138462030623270e47aeac514757685867","features":{"default":[],"null-feature":[]},"yanked":false}
