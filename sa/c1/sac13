@@ -1,3 +1,4 @@
 {"name":"sac13","vers":"0.0.1","deps":[],"cksum":"88d133a77123097752b9239db577ab014bde095c74266bb62d110aaea18329b6","features":{},"yanked":false}
 {"name":"sac13","vers":"0.0.2-preview.1","deps":[],"cksum":"c063084785fa8e5201a3d18e921b2cca31fb3961c63c2df92330a8db0bba0b7c","features":{},"yanked":false}
 {"name":"sac13","vers":"0.0.2","deps":[{"name":"insta","req":"^1.43.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7b3014c41f1ddf0aa66128df11fb1bbd548a4de7e99952be970dbb620daf6ad","features":{"std":[]},"yanked":false}
+{"name":"sac13","vers":"0.0.3","deps":[{"name":"insta","req":"^1.43.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01833a65fe3c82fab9ce018cde06c6a5bd02838dd59bae81f963f924c88a96dd","features":{"std":[]},"yanked":false}
