@@ -1,1 +1,2 @@
 {"name":"miniaudio_aurex","vers":"0.11.22","deps":[],"cksum":"861ddde9199cbc335e2879cefb68c6e1384398fa65000c505985e82ebd9df81e","features":{},"yanked":false}
+{"name":"miniaudio_aurex","vers":"0.11.23","deps":[{"name":"cc","req":"^1.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"083e845d5a19be04004e0f2ad3c2a898aa7db287ff3fb99e64d7bfe8206601f7","features":{},"yanked":false}
