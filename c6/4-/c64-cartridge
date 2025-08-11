@@ -1,0 +1,1 @@
+{"name":"c64-cartridge","vers":"0.5.0","deps":[{"name":"yael","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e66a2759958a0c254f97cf01624cb71ab11897b343432021e6175c16b57e02e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.83"}
