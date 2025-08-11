@@ -5,3 +5,4 @@
 {"name":"phylactery","vers":"0.3.0","deps":[],"cksum":"36eacacdc7793b3f698e465e521b3cc43ab9db31028acd735c7d92e21d4062cb","features":{"cell":["std"],"default":["cell","lock"],"lock":["std"],"std":[]},"yanked":false,"rust_version":"1.79"}
 {"name":"phylactery","vers":"0.3.1","deps":[],"cksum":"4221d5aa32b155c299e17c9fcc4420d49fa75a0cfee124ba500be9873dcdb589","features":{"cell":["std"],"default":["cell","lock"],"lock":["std"],"std":[]},"yanked":false,"rust_version":"1.79"}
 {"name":"phylactery","vers":"0.3.2","deps":[],"cksum":"44868629a1bc1fdf4846f5fa275193bebeeb06c1d3cd8b863a800cf0d6d5eb92","features":{"cell":["std"],"default":["cell","lock"],"lock":["std"],"std":[]},"yanked":false,"rust_version":"1.79"}
+{"name":"phylactery","vers":"0.3.3","deps":[],"cksum":"fd3c005fcae2f78eb4180a4744d463ff3809e72c4d783f2848992ad1b4903d72","features":{"cell":["std"],"default":["cell","lock"],"lock":["std"],"std":[]},"yanked":false,"rust_version":"1.79"}
