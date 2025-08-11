@@ -1,1 +1,2 @@
 {"name":"prepl","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e953cf04eee59022117a86ee55de9384fce3eb9d8d22639eb96761409e4ebdc6","features":{},"yanked":false}
+{"name":"prepl","vers":"0.2.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ec0acd9a8b15ea88441bdafbc4e9a5d2f0b505f04dd3e45577cf7c798649190","features":{},"yanked":false}
