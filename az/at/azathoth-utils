@@ -1,0 +1,1 @@
+{"name":"azathoth-utils","vers":"0.1.0","deps":[{"name":"azathoth-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27b625b605c258fbb819b5ecd5978b285a7e098576eeac37ec3ef71a52ac8448","features":{"codec":[],"default":["psearch","codec","hasher","formatter"],"formatter":[],"hasher":[],"psearch":[]},"yanked":false}
