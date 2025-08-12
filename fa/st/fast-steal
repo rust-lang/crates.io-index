@@ -29,3 +29,4 @@
 {"name":"fast-steal","vers":"5.1.0","deps":[],"cksum":"0ccdc928f5229eca9d6d67e46bb5fd618ae65b3b15ac0a01f849bb4b165341c8","features":{},"yanked":false}
 {"name":"fast-steal","vers":"5.1.1","deps":[],"cksum":"c62861b648d4b8a45360faa8f6f0530312aa8040fc031ef2ca2856ea99782799","features":{},"yanked":false}
 {"name":"fast-steal","vers":"5.1.2","deps":[],"cksum":"c6b982da0dfbd99e474421a6f00ee307f4b97145751aeb5abc7de533507837fc","features":{},"yanked":false}
+{"name":"fast-steal","vers":"6.0.0","deps":[{"name":"spin","req":"^0.10.0","features":["spin_mutex"],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.47.1","features":["macros","rt-multi-thread","sync"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"52775a8e1b3249f26363fd9883313f0bfa740db3a783c2c78abd5cb2b0bed6f7","features":{},"yanked":false}
