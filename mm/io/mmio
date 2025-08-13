@@ -1,4 +1,4 @@
-{"name":"mmio","vers":"0.0.0","deps":[],"cksum":"92dd9c2420fe9772f23ac53e85ab65864a89f2b69aa4e8284945ae0787246f93","features":{},"yanked":false}
+{"name":"mmio","vers":"0.0.0","deps":[],"cksum":"92dd9c2420fe9772f23ac53e85ab65864a89f2b69aa4e8284945ae0787246f93","features":{},"yanked":true}
 {"name":"mmio","vers":"0.1.0","deps":[],"cksum":"e34c69964cca7e0fbb60cfb7e5cf0148e30f0ccaafade2dd2f704fe79bc9e607","features":{},"yanked":false}
 {"name":"mmio","vers":"1.0.0","deps":[],"cksum":"ae938ed947891f89e756c388ee5b5cd1538adc59d1e120f1634ac1ba1eb97087","features":{},"yanked":false}
 {"name":"mmio","vers":"1.0.1","deps":[{"name":"array-macro","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03863a6bbdd2ca84bdcb12dfb47dbf854cd0e0ce74e2d258fe3e982fae949b26","features":{},"yanked":false}
