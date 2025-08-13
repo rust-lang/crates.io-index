@@ -12,3 +12,4 @@
 {"name":"minparser","vers":"0.8.0","deps":[],"cksum":"72d32e71e2cac91a97c85492c1378367df33088e373ba0ec7228204dc0330491","features":{"alloc":[],"nightly-features":[]},"yanked":false}
 {"name":"minparser","vers":"0.8.1","deps":[],"cksum":"458334d34882ed976b129b1bdba8a8f794201257ad71633da516abff349f5dff","features":{"alloc":[],"nightly-features":[]},"yanked":false}
 {"name":"minparser","vers":"0.8.2","deps":[],"cksum":"5dc30b65173ad7e81f451dc29394ef3ed59db3af96a2114387d13cdf64c30260","features":{"alloc":[],"nightly-features":[]},"yanked":false}
+{"name":"minparser","vers":"0.8.3","deps":[{"name":"thiserror","req":"^2.0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0aff561cd94b855231ce48437b2d130ccffb037a3063de8c517a6d5f427b09d9","features":{"alloc":[],"nightly-features":[]},"yanked":false}
