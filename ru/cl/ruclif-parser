@@ -5,3 +5,4 @@
 {"name":"ruclif-parser","vers":"0.1.4","deps":[],"cksum":"0c5689c4feca37e1cc45ee108cd4c1c3d123362c6125c1581f3880bc59de3293","features":{},"yanked":false}
 {"name":"ruclif-parser","vers":"0.1.5","deps":[],"cksum":"588946203aeb109c198fc3b6c901f7e5686d8eebcb329cc0e4bbb77c76ea6734","features":{},"yanked":false}
 {"name":"ruclif-parser","vers":"0.1.6","deps":[],"cksum":"a5bef744c370e0d14228e4c6d4c016c7946ad52ec42cae813c8495fcac60ab97","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.7","deps":[{"name":"ruclif-parser-clap","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97bb1aad7e7f198b4c0cab1d46e21c1d29ceff912cf819eee6ce641e712db51e","features":{},"yanked":false}
