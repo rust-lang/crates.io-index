@@ -1,0 +1,1 @@
+{"name":"maiko","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.47.1","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa81561a28163708eea197a616e5e4855d89c2cfb2b0ea3ea3b17d2bd2a6f4b5","features":{},"yanked":false}
