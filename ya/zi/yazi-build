@@ -2,3 +2,4 @@
 {"name":"yazi-build","vers":"0.1.1","deps":[],"cksum":"0fa6e6fbff21ac790515bce6e91b55a7f2917f050045cdbbf1c8ad74672ebbd9","features":{},"yanked":false}
 {"name":"yazi-build","vers":"0.1.2","deps":[],"cksum":"4fe49a8b8fe79baa5e20eeeb77ba60fbc16316f3b4623c838488ca9f05940c1b","features":{},"yanked":false}
 {"name":"yazi-build","vers":"0.1.3","deps":[],"cksum":"bd3f87ea85141bf4dd8445142a6c291787294569dbd8941cfaa2a801e6da6921","features":{},"yanked":false}
+{"name":"yazi-build","vers":"0.1.4","deps":[{"name":"yazi-term","req":"^25.5.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7bd50fd48870552ee4bdcb1097fce889c8f5586774317085e4804a45341a069e","features":{},"yanked":false}
