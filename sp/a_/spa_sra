@@ -1,0 +1,1 @@
+{"name":"spa_sra","vers":"0.3.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55c71f2231a0953f96f9c5d843d356f9a24af1cb327e6ce0cf577ef0f86f9522","features":{},"features2":{"chrono_0_4":["dep:chrono"]},"yanked":false,"v":2}
