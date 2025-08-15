@@ -1,1 +1,2 @@
 {"name":"crier","vers":"0.3.2","deps":[{"name":"crier_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3352d375482533439ef373fc71ce70182007f61d9e8c44a1713d834cd9463a86","features":{},"yanked":false}
+{"name":"crier","vers":"0.3.3","deps":[{"name":"crier_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8911c0790b5f0176124d0505060ed54353e56c99a0f5f9859227143e81229b1b","features":{},"yanked":false}
