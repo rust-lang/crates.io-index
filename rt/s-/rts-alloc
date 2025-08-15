@@ -1,1 +1,2 @@
 {"name":"rts-alloc","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.174","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e607618d592adfc124bbcebf6f1e67e27c6966b4892be41050870c27a144698","features":{},"yanked":false}
+{"name":"rts-alloc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.174","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cd9f34af8112a1f1e6cebc83e44a3e497a7f720f3384161497ef5e35b099b49","features":{},"yanked":false}
