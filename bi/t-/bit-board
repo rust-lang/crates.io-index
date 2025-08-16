@@ -1,0 +1,1 @@
+{"name":"bit-board","vers":"0.1.1","deps":[{"name":"bitvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rstest","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1f532e29066356082ba7d85c4de8514351d754dd6fbf8c1651b48a1cbe07953","features":{},"yanked":false}
