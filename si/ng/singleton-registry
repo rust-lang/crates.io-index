@@ -1,1 +1,2 @@
 {"name":"singleton-registry","vers":"1.0.0","deps":[{"name":"serial_test","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f343f81118f7da453ff5d4101690e79b66a68126d9643208271027ff86d12f01","features":{},"yanked":false}
+{"name":"singleton-registry","vers":"1.0.1","deps":[{"name":"serial_test","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c526fc1148ed2deb704f44c4a8a2d4adc7ff73bf1cb35484e86fd5a4418d61ed","features":{},"yanked":false}
