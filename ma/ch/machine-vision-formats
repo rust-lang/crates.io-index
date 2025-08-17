@@ -4,3 +4,4 @@
 {"name":"machine-vision-formats","vers":"0.1.3","deps":[],"cksum":"4cd3c31ad3c2ec4f2fd7f7262e7e6fe720a5b322bdad88d53f13ce39022af53a","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
 {"name":"machine-vision-formats","vers":"0.1.4","deps":[],"cksum":"e9c86253ed3a4040cde1bb4a389458d821e5a5dffb0f199d51035b244181d401","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
 {"name":"machine-vision-formats","vers":"0.1.5","deps":[],"cksum":"10c4ec4c144f499629df717c59d4a34442858e08b5e5858d698a429a4eb10dd1","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
+{"name":"machine-vision-formats","vers":"0.1.6","deps":[],"cksum":"4147a8532f71906a1dd72ae9575569aadeecff742affb6bbc50617cef07def12","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.53"}
