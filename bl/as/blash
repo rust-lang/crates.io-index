@@ -1,0 +1,1 @@
+{"name":"blash","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"blake3","req":"^1.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41a4590f53e2b7a962097eac87b192aa28c5f57b04f2cc1b157da2197b78682d","features":{},"yanked":false}
