@@ -1,1 +1,2 @@
 {"name":"durstr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25dc62289c139c36c2e99c5d3476ab2ba21899f7cf9d642b3e7044be80219baa","features":{},"yanked":false}
+{"name":"durstr","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1843ec709cae9d1a0827109ddb87be4f040eb835af95239998572c94978a2e0c","features":{},"yanked":false}
