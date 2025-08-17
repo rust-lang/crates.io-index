@@ -1,0 +1,1 @@
+{"name":"ffi-cell","vers":"0.1.0","deps":[{"name":"derive_more","req":"^2.0.1","features":["display","error","from"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6fa3fe8a21ff8f08c2a50a34ebc78709f5066919ffcd0bf60738197eedefb3ec","features":{},"yanked":false}
