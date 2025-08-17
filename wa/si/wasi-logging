@@ -1,0 +1,1 @@
+{"name":"wasi-logging","vers":"0.0.1","deps":[{"name":"wit-bindgen-rt","req":"^0.42.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"911e57f47b6d59a66ed60b88c92583bda0f8b30defcb81f0983d92964a28b0cc","features":{},"yanked":false}
