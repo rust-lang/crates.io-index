@@ -10,3 +10,4 @@
 {"name":"caesar_cipher_enc_dec","vers":"0.6.0","deps":[],"cksum":"af98c5da1c82d90221ff6efc4257b7bb9be393ebf0a4b9d362894f5e097e7f23","features":{},"yanked":false}
 {"name":"caesar_cipher_enc_dec","vers":"0.6.1","deps":[],"cksum":"c77620a586b810091e6a759a5a15d8c6bb3f1a14fbf0ec92d0fa96d10f84e39f","features":{},"yanked":false}
 {"name":"caesar_cipher_enc_dec","vers":"0.6.2","deps":[],"cksum":"22558ef79bbb6c47acebd182e5ec8db9af40e8c4ddba2be5dfc808c6fc5ee014","features":{},"yanked":false}
+{"name":"caesar_cipher_enc_dec","vers":"1.0.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd09b73f542ea8c3be3dd30664c0384cdd704faf88e46c48ff2bca0d2b409c3f","features":{},"yanked":false}
