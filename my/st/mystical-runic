@@ -1,3 +1,4 @@
 {"name":"mystical-runic","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a3b6eac77d04de72e68cb2bcdb61f3a7fe6287bb092af0720e13d905cb0774","features":{},"yanked":false}
 {"name":"mystical-runic","vers":"0.1.3","deps":[],"cksum":"60a104db67bd3d8fa2250c23bce2a7f1b0bb8c00548f8cf8d02fdd279c371efb","features":{},"yanked":false}
 {"name":"mystical-runic","vers":"0.1.4","deps":[],"cksum":"e5f99d125368f92d5879fdbd9cbe075078fb433f8826a44a0bb5df1509d4fc70","features":{},"yanked":false}
+{"name":"mystical-runic","vers":"0.2.0","deps":[],"cksum":"d43e4645fa57201a401f0c73f496263fb1840e443330c1bd2d081b2208a35724","features":{},"yanked":false}
