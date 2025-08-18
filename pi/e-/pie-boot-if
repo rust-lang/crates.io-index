@@ -6,3 +6,4 @@
 {"name":"pie-boot-if","vers":"0.4.1","deps":[],"cksum":"3e5905396f9d1f5f775d22bc963bb7d60f809931b68f5e4155b9db9855a5ad15","features":{},"yanked":false}
 {"name":"pie-boot-if","vers":"0.5.0","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04ba4eb3bbf609c19dbfa5c705f0b96bb189f5787301d772cd360578bd4ef97b","features":{},"yanked":false}
 {"name":"pie-boot-if","vers":"0.6.0","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c00af8d4efee0eee91ead95b34c50c067163dc4c90b874b1cc4caa671eb1d85b","features":{},"yanked":false}
+{"name":"pie-boot-if","vers":"0.7.0","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c299ec1afe459d14459b06d621a771ebbbcf5834eb2734075b1837ca54f2e362","features":{},"yanked":false}
