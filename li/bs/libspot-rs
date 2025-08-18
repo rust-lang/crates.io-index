@@ -1,0 +1,1 @@
+{"name":"libspot-rs","vers":"0.1.0","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"013b6d64a33e61f2db4da41080dc8fe8fdc13ff2628ce5344b807342eb04f686","features":{},"yanked":false}
