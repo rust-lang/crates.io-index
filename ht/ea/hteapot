@@ -10,3 +10,4 @@
 {"name":"hteapot","vers":"0.5.0","deps":[],"cksum":"9824cadb6a54d49bf90e73a059fa68945b4e0e29a592e1fa72a29307019fe00f","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.6.0","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1db7acae4c9cdc02f996b2a2379713e7354e543e0d407fbe658b5b52db780a3","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.6.1","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea7494419be0db425d40e2060f57195ee05f76b2acc9e2d5b6e44aeb4fd97e01","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.6.2","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82aa2e43aee18c8e3a8123523bb769123274f08651c7f2c4e089dabca50d49a1","features":{},"yanked":false}
