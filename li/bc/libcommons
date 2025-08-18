@@ -1,0 +1,1 @@
+{"name":"libcommons","vers":"0.6.0","deps":[],"cksum":"ff20a617a2fb7e7ce77b6849734d4848ac4d4d9225bddb4fe48976f53ae8207b","features":{"default":[],"dirs":[],"extra_traits":[],"ffi":[],"full":["str","dirs","extra_traits","io","result","iter","ffi"],"io":[],"iter":[],"matrix":["nightly"],"nightly":[],"result":[],"str":[]},"yanked":false}
