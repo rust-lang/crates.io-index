@@ -10,3 +10,4 @@
 {"name":"dh","vers":"0.7.2","deps":[],"cksum":"8043be08612238410cbdf91ea6e30b592f473da7672ac6a80c83be3d920a84e1","features":{},"yanked":false}
 {"name":"dh","vers":"0.8.0","deps":[{"name":"murmur3","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"331be32ac5b7c7862c163f07ca1662daf117e1142f21e36f3677d0f6c1629074","features":{},"yanked":false}
 {"name":"dh","vers":"0.8.1","deps":[{"name":"murmur3","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4670f5a327263b647e2f638ec9ac8730e13c71625020bfabea0ec8a6eb0fbfd","features":{},"yanked":false}
+{"name":"dh","vers":"0.9.0","deps":[],"cksum":"9b8a1e5c11a73db2612d267f74004534d687623275852a3a3a4fb25b0a775ecd","features":{},"yanked":false}
