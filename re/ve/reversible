@@ -1,0 +1,1 @@
+{"name":"reversible","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10e0c8d765ca7114ebb57c968bec8f3e467f761d952f026da9e3e50661547b33","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
