@@ -5,3 +5,4 @@
 {"name":"near-sys","vers":"0.2.2","deps":[],"cksum":"dbf4ca5c805cb78700e10e43484902d8da05f25788db277999d209568aaf4c8e","features":{},"yanked":false}
 {"name":"near-sys","vers":"0.2.3","deps":[],"cksum":"6ee6acd2229cde1f13daabca434022900ab371d2c19de6be6a5a0497dc942ef7","features":{},"yanked":false}
 {"name":"near-sys","vers":"0.2.4","deps":[],"cksum":"a7d8e0ba9994e4d54cb4b301cd5fa9f2defcb69851148103512b9640a7e91572","features":{},"yanked":false}
+{"name":"near-sys","vers":"0.2.5","deps":[],"cksum":"e64e114297f37c94aa20df6a6f92822a1b41da76b4961298caf08ba80b7779b2","features":{"global-contracts":[]},"yanked":false}
