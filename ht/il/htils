@@ -1,1 +1,2 @@
 {"name":"htils","vers":"0.1.0","deps":[],"cksum":"a38a53afe01d0278ac7cfff536e0b87ce9179bcd817a86c3a29c0832b0b3652d","features":{},"yanked":false}
+{"name":"htils","vers":"0.2.0","deps":[],"cksum":"04ac55dc6c2d5a11d649402bb5fd0a96bd623a8e633041dc43ee499dfd6fe1e2","features":{"default":["macros"],"macros":[],"string":[]},"yanked":false}
