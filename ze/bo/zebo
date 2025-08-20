@@ -5,3 +5,4 @@
 {"name":"zebo","vers":"0.4.0","deps":[],"cksum":"8a48fca5702a2f85432b1de240c4d2b869f484050fa9f68e65cab648a49c329d","features":{},"yanked":false}
 {"name":"zebo","vers":"0.4.1","deps":[],"cksum":"e662ce0f0c2c0be8475803fb1fdf4664416de83d94cc433c24da6fb514bd23fa","features":{},"yanked":false}
 {"name":"zebo","vers":"0.4.2","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce16f35bee15beb9ef294a9a62f68877ea9417fdedec4b5feb2a2cf501e01b47","features":{},"yanked":false}
+{"name":"zebo","vers":"0.4.3","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f70826aa8337d62e7766857a08fedc61f2a7133f9e5abddb859e42d461daaea","features":{},"yanked":false}
