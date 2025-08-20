@@ -2,3 +2,4 @@
 {"name":"base16ct","vers":"0.1.0","deps":[],"cksum":"6ecf0f8400afa4e4e3654e950d5717c0c626ffbaf218d80cccd86abd609529ed","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
 {"name":"base16ct","vers":"0.1.1","deps":[],"cksum":"349a06037c7bf932dd7e7d1f653678b2038b9ad46a74102f1fc7bd7872678cce","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
 {"name":"base16ct","vers":"0.2.0","deps":[],"cksum":"4c7f02d4ea65f2c1853089ffd8d2787bdbc63de2f0d29dedbcf8ccdfa0ccd4cf","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"base16ct","vers":"0.3.0","deps":[],"cksum":"d8b59d472eab27ade8d770dcb11da7201c11234bef9f82ce7aa517be028d462b","features":{"alloc":[]},"yanked":false,"rust_version":"1.85"}
