@@ -1,0 +1,1 @@
+{"name":"slip132-parser","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6681b4adf5700368b36f8c573c411293cb548f5e5dd5a49d04a8c4c78d137a80","features":{},"yanked":false,"rust_version":"1.85.0"}
