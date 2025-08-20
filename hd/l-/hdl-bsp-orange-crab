@@ -1,0 +1,1 @@
+{"name":"hdl-bsp-orange-crab","vers":"0.1.0","deps":[{"name":"rust-hdl","req":"^0.46.0","features":["fpga"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ff254063f268deb7316fdf042967bff47c7e869db00d2b93dd48d282dc9e83d","features":{},"yanked":false}
