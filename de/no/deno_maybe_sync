@@ -1,1 +1,2 @@
 {"name":"deno_maybe_sync","vers":"0.0.1","deps":[{"name":"dashmap","req":"^5.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89487d56376fd460a93d0487178188e2d5384e66b2e65004a07458f228be5a2a","features":{"sync":["dashmap"]},"yanked":false}
+{"name":"deno_maybe_sync","vers":"0.1.0","deps":[{"name":"dashmap","req":"^5.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33401d137eb124143ce294cb8097eaa811acdaa7148ac21cda1bb40a33cdeb3e","features":{"sync":["dashmap"]},"yanked":false}
