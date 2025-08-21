@@ -1,0 +1,1 @@
+{"name":"w2gpu","vers":"0.1.0","deps":[{"name":"neon","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pyo3","req":"^0.23.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12238282f6e0f572485ba98933ea51dc2504a1be3a523e572ce784cb8d5023c2","features":{},"yanked":false}
