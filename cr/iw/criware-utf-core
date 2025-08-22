@@ -1,1 +1,2 @@
 {"name":"criware-utf-core","vers":"1.0.0","deps":[{"name":"thiserror","req":"^2.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23a511b5a58d98a341197fe8c8efa95d24795eacb5fb1aaab44fec602809ab4b","features":{},"yanked":false}
+{"name":"criware-utf-core","vers":"1.1.0","deps":[{"name":"thiserror","req":"^2.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bdf8e76bfc4a90fdb2680e71d1827f7ee243b741a748fce31f28cf99c08a27b","features":{},"yanked":false}
