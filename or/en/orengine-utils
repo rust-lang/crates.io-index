@@ -1,0 +1,1 @@
+{"name":"orengine-utils","vers":"1.0.0","deps":[{"name":"libc","req":"^1.0.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66918c1975030febc13f489a694f6ace04c7920209dd754fdac33b5842e8ff7f","features":{},"yanked":false,"rust_version":"1.83.0"}
