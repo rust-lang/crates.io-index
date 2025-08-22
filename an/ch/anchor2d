@@ -1,1 +1,2 @@
 {"name":"anchor2d","vers":"0.1.5","deps":[],"cksum":"4180ba308493f9ce59346a74529caabeb6337365d846fa549883917c5daff8b6","features":{},"yanked":false}
+{"name":"anchor2d","vers":"0.1.6","deps":[{"name":"glam","req":"^0.30.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"350918d35c371dda87502d4824b95efd13d989fd81f3f6f026fcbe4da43d5c26","features":{},"yanked":false}
