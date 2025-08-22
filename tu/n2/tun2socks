@@ -10,3 +10,4 @@
 {"name":"tun2socks","vers":"0.1.7","deps":[{"name":"cc","req":"^1.2.1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"480c9071df2e6a42009c4eefaed152500b825bf0962210777c38610f103560b6","features":{},"yanked":false}
 {"name":"tun2socks","vers":"0.1.8","deps":[{"name":"cc","req":"^1.2.1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3e6cefe0117e87e0a282c0d17240971db95166f694667b9bfda0d6dc4d5324c5","features":{},"yanked":false}
 {"name":"tun2socks","vers":"0.1.9","deps":[],"cksum":"7d170153055369d62e6568b381b9caf5e8c9e077a9365a92b37f7755e145aa9c","features":{},"yanked":false}
+{"name":"tun2socks","vers":"0.1.10","deps":[],"cksum":"3157a6c4bca34b33cc84121359aedf7d05de945d598d1815b8f95cf7fb29a7d9","features":{},"yanked":false}
