@@ -8,3 +8,4 @@
 {"name":"build_html","vers":"2.4.0","deps":[{"name":"test-case","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3108fe6fe7ac796fb7625bdde8fa2b67b5a7731496251ca57c7b8cadd78a16a1","features":{},"yanked":false}
 {"name":"build_html","vers":"2.5.0","deps":[],"cksum":"225eb82ce9e70dcc0cfa6e404d0f353326b6e163bf500ec4711cec317d11935c","features":{},"yanked":false}
 {"name":"build_html","vers":"2.6.0","deps":[],"cksum":"01b01f54cbdd56298a506b086691594ded3b68dcbc9437adc87c616a35e7fc89","features":{},"yanked":false}
+{"name":"build_html","vers":"2.7.0","deps":[],"cksum":"10b322c8c13b6b775e5befd834d2a27c683506f1100b56a7b39d33c28024ba54","features":{},"yanked":false}
