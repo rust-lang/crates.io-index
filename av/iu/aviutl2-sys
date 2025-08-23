@@ -1,0 +1,1 @@
+{"name":"aviutl2-sys","vers":"0.5.0","deps":[{"name":"windows-sys","req":"^0.60.2","features":["Win32","Win32_Graphics_Gdi","Win32_Media_Audio","Win32_Media_Multimedia"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e8cbe0c9046874ef818a63868bd9e4f3d2a00a65eea2c32da5517dccd69a5a9","features":{},"yanked":false}
