@@ -1,0 +1,1 @@
+{"name":"allowlist-rs","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0abf2e4d7de2ebd64c746f8961a0e945502492391243528ccf3017dad2141cc5","features":{"all-tests":[],"default":[]},"yanked":false}
