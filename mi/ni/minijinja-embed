@@ -29,3 +29,4 @@
 {"name":"minijinja-embed","vers":"1.0.22","deps":[],"cksum":"65c75ca51ccbd03c26c6b30560729ba042057782a6ccda2753e2b45ad9348c0d","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"minijinja-embed","vers":"2.10.2","deps":[],"cksum":"5de0eb34c22c5cfb9b22509599e3942aa1cdfa00884fa76ceccff4163f572c67","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"minijinja-embed","vers":"2.11.0","deps":[],"cksum":"c34af97e83bb3b2e61428e7c35224c9c1e1f6a2f465aa2ace41a713e3e856468","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"minijinja-embed","vers":"2.12.0","deps":[],"cksum":"1437c67e5470a94aae60bb715c92581e479476e1bbb45a7d467063ead7f543ad","features":{},"yanked":false,"rust_version":"1.70"}
