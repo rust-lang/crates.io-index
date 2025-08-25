@@ -1,2 +1,0 @@
-{"name":"pakel_say-hello","vers":"0.1.0","deps":[],"cksum":"06692e90efd67d2813b757343870e4b8e96ee02eec3b35360155566575577d8c","features":{},"yanked":false}
-{"name":"pakel_say-hello","vers":"0.2.0","deps":[],"cksum":"dae8c0f79ecf6625e6431d5ad38fdfa8d628e29d09fdea4c17f08277cf56d913","features":{"all":["hello","bye"],"bye":[],"hello":[]},"yanked":false}
