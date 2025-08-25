@@ -1,0 +1,1 @@
+{"name":"optarray","vers":"1.0.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ulid","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d17d2ad3824c778ac3c09c45406d029348035c50580bf07436d94b086e73a3e","features":{},"yanked":false}
