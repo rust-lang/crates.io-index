@@ -1,0 +1,1 @@
+{"name":"pubs","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b5cdcb84a4dff701fdba72253823be04ec1ea54ef886708a2c6b93556e7a2c","features":{},"yanked":false}
