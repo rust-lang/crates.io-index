@@ -75,3 +75,4 @@
 {"name":"xml-rs","vers":"0.8.26","deps":[],"cksum":"a62ce76d9b56901b19a74f19431b0d8b3bc7ca4ad685a746dfd78ca8f4fc6bda","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"xml-rs","vers":"0.8.27","deps":[],"cksum":"6fd8403733700263c6eb89f192880191f1b83e332f7a20371ddcf421c4a337c7","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"xml-rs","vers":"1.0.0-rc.2","deps":[{"name":"xml1","req":"^1.0.0-rc.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"xml"}],"cksum":"692b7a6d1848a5477ec81eb32635d32a909300ada66f572b2b45bba98c6e599e","features":{},"yanked":true,"rust_version":"1.85"}
+{"name":"xml-rs","vers":"1.0.0","deps":[{"name":"xml1","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"xml"}],"cksum":"c3a56132a0d6ecbe77352edc10232f788fc4ceefefff4cab784a98e0e16b6b51","features":{},"yanked":false,"rust_version":"1.85"}
