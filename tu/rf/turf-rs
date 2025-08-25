@@ -1,0 +1,1 @@
+{"name":"turf-rs","vers":"0.1.0","deps":[{"name":"geo","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"geos","req":"^10.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f075e5b8856b637ee543edde03e4db98ffb80948ee0069dd148991385c140e9","features":{},"yanked":false}
