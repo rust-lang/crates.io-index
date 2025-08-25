@@ -1,0 +1,1 @@
+{"name":"cart_lin","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ndarray","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b0894b27939bcb9ec65439ba04d5b7914b393f2ae1db60a27d06476762c3500","features":{},"yanked":false}
