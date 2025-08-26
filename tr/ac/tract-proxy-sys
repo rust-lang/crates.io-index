@@ -17,3 +17,4 @@
 {"name":"tract-proxy-sys","vers":"0.21.11","deps":[],"cksum":"9dce9828d3e42b52f39e9528ecabb57dabce6459d9bd196d3ab70696bf9589cb","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"tract-proxy-sys","vers":"0.21.12","deps":[],"cksum":"608fcde49c2561bdb4e6876625867b005afbb4de7f46309e299641633b8b2bab","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"tract-proxy-sys","vers":"0.21.13","deps":[],"cksum":"af66050d6fc391fc9f68e31a5ed63196afff03987e0b3b3b95560d9e6f241016","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"tract-proxy-sys","vers":"0.22.0","deps":[{"name":"bindgen","req":"^0.71.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"29eade70bc9a8f790123a498cbad31541df76135efa59b1c2aaf4378213547cf","features":{},"yanked":false,"rust_version":"1.85"}
