@@ -1,0 +1,1 @@
+{"name":"android-transfer-program","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4166410120e54dc77b99a3e829401223d77ae24b3a3abdb2c66c46fe72173271","features":{},"yanked":false}
