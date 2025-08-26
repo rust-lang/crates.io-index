@@ -1,0 +1,1 @@
+{"name":"reimg","vers":"0.0.1","deps":[{"name":"image","req":"^0.25.6","features":["jpeg","png","webp","avif","gif","ico","bmp","tiff"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba3d067f8803d8ecb7fea3b2f50519410bca9a8b744867e4acceb16a05bdb4d","features":{},"yanked":false}
