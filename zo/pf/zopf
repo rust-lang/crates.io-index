@@ -1,0 +1,1 @@
+{"name":"zopf","vers":"0.0.1-alpha","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ae6488d41b13c1b444994085d62f0fb97b4e724b597214bd95d39f4f1fe9cdb","features":{},"yanked":false,"rust_version":"1.89"}
