@@ -1,0 +1,1 @@
+{"name":"rabbitsay","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"575f54a89f5ed40c4199656ade4afa96e9983e9d355c1356cea6354d271f93be","features":{},"yanked":false}
