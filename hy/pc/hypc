@@ -1,0 +1,1 @@
+{"name":"hypc","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"miniz_oxide","req":"^0.8.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ff1702f8c8e529358d21f42fd5a82d1ed23e82be1d3aa638dec77453c16c9fd","features":{},"yanked":false}
