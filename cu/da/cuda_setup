@@ -4,3 +4,4 @@
 {"name":"cuda_setup","vers":"0.1.4","deps":[],"cksum":"6ce26689832cd987c484a5d1c739b659c4d7bd785228e2826ef56859496a2e05","features":{},"yanked":false}
 {"name":"cuda_setup","vers":"0.1.5","deps":[],"cksum":"ebb236c9a76653c38ca321663c21be9b53e2f8b9aacb0a48aa2538a135c3853f","features":{},"yanked":false}
 {"name":"cuda_setup","vers":"0.1.6","deps":[],"cksum":"e409cea309d4ac3169a17886d7a511739b7b8d1cf5f4490c473b275bef43e7e7","features":{},"yanked":false}
+{"name":"cuda_setup","vers":"0.1.7","deps":[{"name":"cc","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd1d9e286f151cd6c6acae3388870df7bd1c1928c6a15c6e9a9680783919664d","features":{},"yanked":false}
