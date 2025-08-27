@@ -1,0 +1,1 @@
+{"name":"msg-bebop","vers":"0.1.0","deps":[{"name":"bebop","req":"^2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79826546a18e4f5d531aa55fe3b6dbff67bfdd3dc995ff2805a3c63a987c8255","features":{},"yanked":false}
