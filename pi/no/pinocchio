@@ -13,3 +13,4 @@
 {"name":"pinocchio","vers":"0.8.3","deps":[],"cksum":"81225b3b8ce092ac54e0d1c55a962be61efcad1d021030f0eb660875703db562","features":{"std":[]},"yanked":false}
 {"name":"pinocchio","vers":"0.8.4","deps":[],"cksum":"7c33b58567c11b07749cefbb8320ac023f3387c57807aeb8e3b1262501b6e9f0","features":{"std":[]},"yanked":false,"rust_version":"1.79"}
 {"name":"pinocchio","vers":"0.9.0","deps":[],"cksum":"5123fe61ac87a327d434d530eaddaaf65069a37e33e5c9f798feaed29e4974c8","features":{"std":[]},"yanked":false,"rust_version":"1.79"}
+{"name":"pinocchio","vers":"0.9.1","deps":[{"name":"five8_const","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c3410a5d525f024b0aed7f8747e94e918c91ba64274a190e2365903e2c0b2e9","features":{"std":[]},"yanked":false,"rust_version":"1.79"}
