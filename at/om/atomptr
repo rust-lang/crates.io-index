@@ -10,3 +10,4 @@
 {"name":"atomptr","vers":"2.0.0","deps":[],"cksum":"ff6da02457fa81a527336b54eaed0d82afbad9cfc2de8d272dcee1a3f5b32154","features":{"stable":[]},"yanked":false}
 {"name":"atomptr","vers":"3.0.0","deps":[],"cksum":"a5b591320745b054ae061c5bec012419edc7a00260028d3f78cca5ce86f9552f","features":{"stable":[]},"yanked":false}
 {"name":"atomptr","vers":"4.0.0-alpha.1","deps":[],"cksum":"3acfeb0c40e19f9cb18b2b130d615675ad177838bc4a5b0a854feaba7e078cc8","features":{"stable":[]},"yanked":false}
+{"name":"atomptr","vers":"3.1.0","deps":[],"cksum":"d4575e379b4485ff183201f4247fdc6dbfdcbbf2de5753d274de06e672d49056","features":{"raw-deref":[]},"yanked":false}
