@@ -1,1 +1,2 @@
 {"name":"pinocchio-token-2022","vers":"0.0.0","deps":[],"cksum":"a9efbf4787d9b1c975d778954128efa964c761081bc665af8751b07341949d51","features":{},"yanked":false}
+{"name":"pinocchio-token-2022","vers":"0.1.0","deps":[{"name":"pinocchio","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pinocchio-pubkey","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0aec08d3b6eddafdacc17bd5b7842050394b0199062a3cc20428f1c40c9dbe7d","features":{},"yanked":false}
