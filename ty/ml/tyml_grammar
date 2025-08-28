@@ -1,1 +1,2 @@
 {"name":"tyml_grammar","vers":"0.1.0","deps":[{"name":"bnf_rules","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"263cafc937bb638e004fca5f1b967d2e40ff8aede75e98297aa5512d88e189f0","features":{},"yanked":false}
+{"name":"tyml_grammar","vers":"0.1.2","deps":[{"name":"bnf_rules","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cf53b9d48fad943d8b772a07f2bf0a0089ec7ec4ce7e95c9dea95142556ed7e","features":{},"yanked":false}
