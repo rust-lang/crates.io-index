@@ -20,3 +20,4 @@
 {"name":"iso9660_simple","vers":"0.1.19","deps":[],"cksum":"9fbd9b1bb3e4feb2cdfd24fefb8b9429426b51fe9bb57a47743ec767c58746d2","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"iso9660_simple","vers":"0.1.20","deps":[],"cksum":"aba24dfb1b0bfab43d243da9ebf1b329a7df62e9f7feeab58400dc6141cfe145","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"iso9660_simple","vers":"0.1.21","deps":[],"cksum":"6e7cd354b5924713460d5480287ee3b96af32c7c95c05c1104c7d4aa75de3efc","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"iso9660_simple","vers":"0.1.22","deps":[],"cksum":"b813ef85554eb08b05d78f0c37421f86571cefdefa9a8fcec63becdb28b140ae","features":{"default":["std"],"std":[]},"yanked":false}
