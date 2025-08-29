@@ -1,0 +1,1 @@
+{"name":"tagged-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"872f76948abc0f04b5d0e27f48ee93acf5b4ac0cad0ee820779138afc3da9d68","features":{"full":["serde_support"],"serde_support":["serde"]},"yanked":false}
