@@ -1,0 +1,1 @@
+{"name":"sig_rp2040_interface","vers":"0.1.0","deps":[{"name":"serialport","req":"^4.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cc7bf666f966fb2ce2d873d900bcc3ff961be64f892a960baf55000c6e33c99","features":{},"yanked":false}
