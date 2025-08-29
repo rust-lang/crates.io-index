@@ -1,2 +1,3 @@
 {"name":"train-station","vers":"0.1.0","deps":[],"cksum":"335ca3a7ac4918fcab2e7acbbceb9cd575cb55ffa668666b99420a6bd04dc3f7","features":{"cuda":[],"default":[]},"yanked":false}
 {"name":"train-station","vers":"0.1.1","deps":[],"cksum":"2b2daffc43407e6e061d0805d0b02462eadd05779d0abcb213b427cfc0c5e6c3","features":{"cuda":[],"default":[]},"yanked":false}
+{"name":"train-station","vers":"0.1.2","deps":[],"cksum":"d63df6514fc0ba6d8262afb1be4813853d087680bb510f6a4f8f114c7035a5f6","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
