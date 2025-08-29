@@ -1,0 +1,1 @@
+{"name":"git-pm","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.46","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a51ee4072881ffc7f924563903dadfe7eebc498f8ed355001b6b16009a9c9fe0","features":{},"yanked":false}
