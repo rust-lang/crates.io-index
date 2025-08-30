@@ -1,0 +1,1 @@
+{"name":"tokio-stream-util","vers":"0.1.0","deps":[{"name":"tokio-stream","req":"^0.1.17","features":["io-util"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b2539b048f28594422c89079e0a75345eef7b7f69c69bd831bb1d6961d5fee48","features":{"alloc":[],"default":["std","alloc"],"std":[]},"yanked":false,"rust_version":"1.36"}
