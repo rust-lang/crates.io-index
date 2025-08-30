@@ -3,3 +3,4 @@
 {"name":"train-station","vers":"0.1.2","deps":[],"cksum":"d63df6514fc0ba6d8262afb1be4813853d087680bb510f6a4f8f114c7035a5f6","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"train-station","vers":"0.1.3","deps":[],"cksum":"d14d75b84362fe486a4b0d445a163dc8d2805135b180fcdda29873d87d4220a3","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"train-station","vers":"0.1.4","deps":[],"cksum":"76482b93ad229dc9683309e55f5d230dfa653c592076878527282743ba9ea801","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"train-station","vers":"0.1.5","deps":[],"cksum":"352c71311754a09b3abe013d286f16eb7557214ef4ae02fe59df74b997a1fc9e","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
