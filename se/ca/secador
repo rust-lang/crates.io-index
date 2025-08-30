@@ -1,1 +1,2 @@
 {"name":"secador","vers":"0.1.0","deps":[{"name":"secador-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"626b50859315563bfeefcec488ce596ed90915a863078361d3f908a24acaed11","features":{},"yanked":false}
+{"name":"secador","vers":"0.1.1","deps":[{"name":"secador-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f367c90817b3a691e4a817e825b09c8eac2b69ebc1f442ee974ec51c573c06f1","features":{},"yanked":false}
