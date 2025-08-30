@@ -1,0 +1,1 @@
+{"name":"wow-alchemy-utils","vers":"0.1.0","deps":[{"name":"custom_debug","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c056c7bbb8daee2d104a6af8e14a99cb15f958a8d83fd0b98e581063db771cf","features":{"trimmed-debug-output":[]},"yanked":false,"rust_version":"1.86"}
