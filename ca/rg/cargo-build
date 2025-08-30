@@ -3,3 +3,4 @@
 {"name":"cargo-build","vers":"0.7.0","deps":[],"cksum":"97cb701494e01a7a915325ffef47a1ef28eeebcc3c50bc7545b70960ded9191a","features":{"macros":[]},"yanked":false,"rust_version":"1.84"}
 {"name":"cargo-build","vers":"0.7.1","deps":[],"cksum":"1f2c79bb2d5668122008e1cacf4aba16d71244f2b48314a48e9f0b9177e81770","features":{"macros":[]},"yanked":false,"rust_version":"1.84"}
 {"name":"cargo-build","vers":"0.7.2","deps":[],"cksum":"3d0e66afc7b67ab9c4cbb7d7330bbbbd57334abe2228eeffa82ca355023f6b03","features":{"macros":[]},"yanked":false,"rust_version":"1.84"}
+{"name":"cargo-build","vers":"0.7.3","deps":[],"cksum":"30f81d8cf0ec52aa68785a238d2544214fa28f7554d3488742febb0c3b35db51","features":{"macros":[]},"yanked":false,"rust_version":"1.84"}
