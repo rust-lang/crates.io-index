@@ -1,0 +1,1 @@
+{"name":"sqlx_clean_querybuidler","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.7","features":["runtime-tokio-rustls","postgres"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e52db0ec5d9ac84d577df445990780eb96de62fb5ced737ee05d408407e6539","features":{},"yanked":false}
