@@ -1,0 +1,1 @@
+{"name":"atlas-program-memory","vers":"3.0.0","deps":[{"name":"atlas-define-syscall","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"atlas\")","kind":"normal"}],"cksum":"0f1a868e3f3700c760643c548e575fea9af9d14f3dcacd8854fa01a628979e53","features":{},"yanked":false}
