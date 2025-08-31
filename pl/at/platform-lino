@@ -1,1 +1,2 @@
 {"name":"platform-lino","vers":"0.0.2","deps":[{"name":"nom","req":"^8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75f3c5b1c3d2f4bed75e9739c8a882446aa4105d193a625caec4b4eb25c37fe9","features":{},"yanked":false}
+{"name":"platform-lino","vers":"0.1.0","deps":[{"name":"nom","req":"^8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342e29f3f6c6dad085db6a30b60d8ea3160fba890f5c1f1a8f6472c57b5d4a3e","features":{},"yanked":false}
