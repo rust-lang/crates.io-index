@@ -1,0 +1,1 @@
+{"name":"atlas-atomic-u64","vers":"3.0.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_pointer_width = \"64\"))","kind":"normal"}],"cksum":"517f1541191ef4492199d9691ba3dfd21f149f7a15e4b5f91fd9c7bc129ea667","features":{},"yanked":false}
