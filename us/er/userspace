@@ -1,1 +1,2 @@
 {"name":"userspace","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"acd18538648aeaf5ca32fd630faac75e136852f492b6b82524a1365fb823a76d","features":{},"yanked":false}
+{"name":"userspace","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf0195917c913d33fc48160533328779d6f331caf07b645cccfcd5e83b83822d","features":{},"yanked":false}
