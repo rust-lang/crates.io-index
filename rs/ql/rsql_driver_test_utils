@@ -8,3 +8,4 @@
 {"name":"rsql_driver_test_utils","vers":"0.18.3","deps":[],"cksum":"079a2c46c8ab6ce3c25d02b7111affb65c11fc3b2676c3b0719f158729bb119a","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"rsql_driver_test_utils","vers":"0.19.0","deps":[],"cksum":"6946a2f08e581a83ab4f0ad34bebcd6a8e1510822e3c952386926755d785e34b","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"rsql_driver_test_utils","vers":"0.19.1","deps":[],"cksum":"a0aacc9e909d62728f42cca7f88b3414cc8732872b7161136de8498f3f7f063e","features":{},"yanked":false,"rust_version":"1.88.0"}
+{"name":"rsql_driver_test_utils","vers":"0.19.2","deps":[],"cksum":"6749ed2760715794fcf640a9e00c5119e700f02a89e6d8183da8df274c3441be","features":{},"yanked":false,"rust_version":"1.89.0"}
