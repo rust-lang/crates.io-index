@@ -1,0 +1,1 @@
+{"name":"octicons-pack","vers":"19.15.5","deps":[{"name":"pyo3","req":"^0.26.0","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c26487c7af9db506283a99e3ea1e933cfe491b4ce43c10963be80beb663a1e27","features":{},"features2":{"pyo3":["dep:pyo3"]},"yanked":false,"v":2}
