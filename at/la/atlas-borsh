@@ -1,0 +1,1 @@
+{"name":"atlas-borsh","vers":"3.0.0","deps":[{"name":"borsh","req":"^1.5.5","features":["derive","unstable__schema"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef5413f403ca3979f5530172af6fcf82af1b88c708475f6bcebcbdbbfa8b9530","features":{},"yanked":false}
