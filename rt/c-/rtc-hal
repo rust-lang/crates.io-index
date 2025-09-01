@@ -1,3 +1,4 @@
 {"name":"rtc-hal","vers":"0.1.0","deps":[],"cksum":"897471d26795dcf414d1798c452ca9bed8fdaaea6a5a6239ad2cae6fcf619279","features":{},"yanked":false}
 {"name":"rtc-hal","vers":"0.1.1","deps":[],"cksum":"b43830d7fa665acb4ffd1ce98a6737f36890c42b1484d0c38b7949525f8d4a84","features":{},"yanked":false}
 {"name":"rtc-hal","vers":"0.1.2","deps":[],"cksum":"fced876c0adc8afc843455f9d7b90e2aeb5d2d096c14e2c354a29c9f8956af67","features":{},"yanked":false}
+{"name":"rtc-hal","vers":"0.2.1","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79690e0fb3581575eec0dd04d4907c7fa53b6ceadb4efb889f327095c0ba26ac","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}
