@@ -1,0 +1,1 @@
+{"name":"simple-icons-pack","vers":"15.11.0","deps":[{"name":"pyo3","req":"^0.26.0","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d20e916f4fbbe1c775642c3a244e9139bcaccc281b1ef8224ca3cfad72350d8","features":{},"features2":{"pyo3":["dep:pyo3"]},"yanked":false,"v":2}
