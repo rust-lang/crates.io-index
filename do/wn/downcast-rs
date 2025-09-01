@@ -12,3 +12,4 @@
 {"name":"downcast-rs","vers":"1.2.1","deps":[],"cksum":"75b325c5dbd37f80359721ad39aca5a29fb04c89279657cffdda8736d0c0b9d2","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"downcast-rs","vers":"2.0.0","deps":[],"cksum":"bd4479994695d85cd4f8a4993ae3cafe28c617bfcb1e645546c7e13883b0903b","features":{"default":["std","sync"],"std":[],"sync":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"downcast-rs","vers":"2.0.1","deps":[],"cksum":"ea8a8b81cacc08888170eef4d13b775126db426d0b348bee9d18c2c1eaf123cf","features":{"default":["std","sync"],"std":[],"sync":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"downcast-rs","vers":"2.0.2","deps":[],"cksum":"117240f60069e65410b3ae1bb213295bd828f707b5bec6596a1afc8793ce0cbc","features":{"default":["std","sync"],"std":[],"sync":[]},"yanked":false,"rust_version":"1.56"}
