@@ -1,0 +1,1 @@
+{"name":"atlas-msg","vers":"3.0.0","deps":[{"name":"atlas-define-syscall","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"atlas\")","kind":"normal"}],"cksum":"274cd6a8c7aad9ec092c091241c4483abe5eb48dc5205d47cbfd1a640c96fc50","features":{"default":["std"],"std":[]},"yanked":false}
