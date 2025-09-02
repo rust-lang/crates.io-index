@@ -1,1 +1,2 @@
 {"name":"suck","vers":"0.0.0","deps":[],"cksum":"0035c86f2186531c103b248866a5600d296f1cfba6cc91c1bce476fcb758c0f1","features":{},"yanked":false}
+{"name":"suck","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3726de6840f4b683a5b18a70f5d70e0687466ef1077489c1e8ff916ab3a64a37","features":{},"yanked":false}
