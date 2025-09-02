@@ -1,0 +1,1 @@
+{"name":"intel-onemkl-prebuild","vers":"0.1.0","deps":[{"name":"ureq","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"11f2285d25dd4a1800a99ebb0d7d268fe623dd6120af41827f05f4dbbc4474cd","features":{"default":["ilp64","sequential"],"ilp64":[],"lp64":[],"openmp":[],"sequential":[]},"yanked":false,"links":"mkl"}
