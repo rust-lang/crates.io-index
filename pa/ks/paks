@@ -1,0 +1,1 @@
+{"name":"paks","vers":"0.1.0","deps":[{"name":"dataview","req":"~1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70a76d4d080d44d097b831355434f7fac238350bc75ea899c081a6243ff4d6a0","features":{},"yanked":false}
