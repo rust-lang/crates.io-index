@@ -1,0 +1,1 @@
+{"name":"uf-sbus","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bc6a7c82025e1dd332ff1b23bfda53c86331cbb47c5e74c99f347c4a32b3191","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}
