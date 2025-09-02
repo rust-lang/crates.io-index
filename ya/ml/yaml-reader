@@ -1,0 +1,1 @@
+{"name":"yaml-reader","vers":"1.0.0","deps":[{"name":"serde_yaml","req":"^0.9.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"897abd49815a6a7a04a42fd9881d8d9306122db5f309c68945e252e2850968cf","features":{},"yanked":false}
