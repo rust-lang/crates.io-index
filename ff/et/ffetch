@@ -5,3 +5,4 @@
 {"name":"ffetch","vers":"0.5.5","deps":[{"name":"display-info","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22435ac9035de19db24c15be86de6534b4c67fd11a27c5bbab1160e8830517ac","features":{},"yanked":false}
 {"name":"ffetch","vers":"0.2.15","deps":[{"name":"xrandr-parser","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bcd8d50558a92c7038e47fefc94c7167c731870494efa6dec33c1e910aa8043","features":{},"yanked":false}
 {"name":"ffetch","vers":"0.5.6","deps":[],"cksum":"e68e211774d7540fa6319656177e2d63328765ac7c99849e21d084845a00cee5","features":{},"yanked":false}
+{"name":"ffetch","vers":"0.5.7","deps":[],"cksum":"a00e482c239448307f8b79a8b9d4b2c83a96137e4a86692caed3f30ca011f3ff","features":{},"yanked":false}
