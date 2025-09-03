@@ -1,0 +1,1 @@
+{"name":"eldritchwire","vers":"0.1.0","deps":[{"name":"eldritchwire_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"529f67dcb8ae4d682a993d5942e629835ff3cff8f6d8ad246372b7ab20834efe","features":{"bounds-checked":[],"default":["bounds-checked"]},"yanked":false}
