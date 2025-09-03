@@ -1,2 +1,3 @@
 {"name":"envl-config","vers":"0.1.0","deps":[],"cksum":"3bfa7ffcb76561c70322ae19f7ffff0bdb00c7d38a1e7596a031fb993dcd3469","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"envl-config","vers":"0.2.0","deps":[],"cksum":"d4c9c70e4ffc7a75ade063b13d08d7cb874713061f18bb51361541e21cad01c6","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"envl-config","vers":"0.3.0","deps":[{"name":"envl-utils","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b88223197b9c4c32e391e853390c8c0a4bfcd91f250009248c29568efe1b7184","features":{},"yanked":false,"rust_version":"1.75"}
