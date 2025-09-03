@@ -2,3 +2,4 @@
 {"name":"envl-vars","vers":"0.2.0","deps":[],"cksum":"f3be14e4818dd15074f92838f2dfb8b08c736989a86b64747b633c2a69b25f7b","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"envl-vars","vers":"0.3.0","deps":[],"cksum":"54b831c2b45810ce65c0854862e8aa8564d34c0965c4ea89b3dd3f65051ca8e5","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"envl-vars","vers":"1.0.0","deps":[],"cksum":"03bfd0f83d36e2b087aec830e2af11202d7a656e3208a8dcdb2da32b6bdfd140","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"envl-vars","vers":"1.1.0","deps":[{"name":"envl-utils","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bf84d297d50368134adcdbdcaf395c033abf2a3121f7103fed7b719a50b9489","features":{},"yanked":false,"rust_version":"1.75"}
