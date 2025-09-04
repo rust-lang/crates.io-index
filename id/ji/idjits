@@ -1,1 +1,2 @@
 {"name":"idjits","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"394d9c0a41e08da1142c228c8b5d398403280f73db094a7d670eb716cb4937d8","features":{},"yanked":false}
+{"name":"idjits","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc0679b3decabc7dc8e2dbc2372d24a4a67e62eef89e1f6f9b184b58a085934f","features":{},"yanked":false}
