@@ -1,0 +1,1 @@
+{"name":"contiguous_bitset","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"898c6eb29c1c9a320d617afe753849fee71bde6a61608f2eb3a84a7f084742d4","features":{"track_caller":[]},"yanked":false,"rust_version":"1.89"}
