@@ -1,0 +1,1 @@
+{"name":"fume-backend","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.12.23","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0085e49c8f9124099bbfce58c1b1713002e2f6715d83d1d2975680fa58c18d99","features":{},"features2":{"default":["reqwest"],"reqwest":["dep:reqwest"]},"yanked":false,"v":2}
