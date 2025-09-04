@@ -1,0 +1,1 @@
+{"name":"clahe","vers":"0.1.0","deps":[{"name":"image","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d33471ba98616940cf01e8d803184a93308bc64e821906d39c41181ad245fd","features":{},"yanked":false}
