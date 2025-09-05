@@ -1,0 +1,1 @@
+{"name":"kitt_throbbler","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["time","macros","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a6da0c04c5f24e8922f94431655b2476a1b0d1b2fee67e9241fdf4ebd2669e0","features":{},"yanked":false}
