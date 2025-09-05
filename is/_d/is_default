@@ -1,0 +1,1 @@
+{"name":"is_default","vers":"1.0.0","deps":[{"name":"is_default_derive","req":"^1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c913d80ffadeac228597b30dad19736464a1f1b02a77bb3e6a35bd0c8b0d886f","features":{"default":[],"derive":["is_default_derive"],"nightly":[]},"yanked":false,"rust_version":"1.85"}
