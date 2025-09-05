@@ -1,0 +1,1 @@
+{"name":"souphash","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rayon","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"901ea17167162be6dda29125cf430e115b1161fe1e1c4f6c7a29bb3462f8f48b","features":{},"yanked":false}
