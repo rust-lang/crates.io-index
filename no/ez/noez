@@ -1,0 +1,1 @@
+{"name":"noez","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.21.1","features":["noise","playback"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d4c4121240fd28d3737da19b6c71777194baf36f020aad606f91e4280d887598","features":{},"yanked":false}
