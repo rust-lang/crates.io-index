@@ -1,1 +1,2 @@
 {"name":"stalkermap","vers":"0.1.0","deps":[],"cksum":"46079615e0cfac9dac8c24e041459de3e16792f7878942a5f362d8de4afbd9de","features":{},"yanked":false}
+{"name":"stalkermap","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.47.1","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f545fbd8479c85c90c05bab290ee00e64e5c53b60c0214f98eb2b845eca7b69","features":{"agnostic":[],"default":[],"std":[],"tokio-dep":["tokio"]},"yanked":false}
