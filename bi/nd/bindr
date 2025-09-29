@@ -1,1 +1,2 @@
 {"name":"bindr","vers":"0.0.1","deps":[],"cksum":"4955f87fa57659b245bd79df92fedbfd0fa407fa4f470955013f3e6b66234b8a","features":{},"yanked":false}
+{"name":"bindr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57db6985d9d538a49c794aef50b586d7aae1e8fd3a8a1e6a21bf019df6056e57","features":{},"yanked":false}
