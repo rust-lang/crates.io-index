@@ -6,3 +6,4 @@
 {"name":"train-station","vers":"0.1.5","deps":[],"cksum":"352c71311754a09b3abe013d286f16eb7557214ef4ae02fe59df74b997a1fc9e","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"train-station","vers":"0.1.6","deps":[],"cksum":"9f4b1eba9db5a2d47c7b3a99071fe43d17eb8fe364671855b70ea2008d2918b7","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"train-station","vers":"0.2.0","deps":[],"cksum":"ada8dc5394a1d64476100d85253868faac30f4d7c0fe6183d7d60763708da568","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.89"}
+{"name":"train-station","vers":"0.3.0","deps":[],"cksum":"dd01e4176c6d43f84794e2a7ea38fccadd725a5400229bfb09c75ef18cd41a73","features":{"cuda":[],"default":[]},"yanked":false,"rust_version":"1.89"}
