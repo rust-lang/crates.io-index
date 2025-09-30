@@ -1,1 +1,2 @@
 {"name":"hcsr04-gpio-cdev","vers":"0.1.0","deps":[{"name":"gpio-cdev","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5336c32197890f9ae0066fb527a0d789a64def1c8be12d4b08c62d28068ad816","features":{},"yanked":false}
+{"name":"hcsr04-gpio-cdev","vers":"0.1.1","deps":[{"name":"gpio-cdev","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a82e5b97288f63da01e8370dacf4b779c0cdcb5f26f3e5f0ca4e1cd875e37ecc","features":{},"yanked":false}
