@@ -1,0 +1,1 @@
+{"name":"monero-epee-derive","vers":"0.1.0","deps":[{"name":"monero-epee-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dcfa7665e498864f648deddddc58e3c2c4014cb19e3f3092a25725be07a42d17","features":{},"yanked":false,"rust_version":"1.79"}
