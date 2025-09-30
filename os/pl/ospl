@@ -15,3 +15,4 @@
 {"name":"ospl","vers":"0.0.23","deps":[],"cksum":"81399acf5d7fc18f0abf5c0a50b5567fb61bb9622b01ad7cd97cc62d8687d068","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.24","deps":[],"cksum":"8dc1de5c42f3b773bd95feb227e5dbffa73a098d9e12a761c32bc389f5f6d87f","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.25","deps":[],"cksum":"4ad0243b0472e7a0a701687b1cdbb790e9bf678dd32b509345482ef26cc2b583","features":{},"yanked":false}
+{"name":"ospl","vers":"0.0.26","deps":[{"name":"libffi","req":"^4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libffi-sys","req":"^3.3.3","features":["system"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f982f73f1f76acd32a0d61c61e5d245f6defc2f34f162f52a2961f88b2705175","features":{},"yanked":false}
