@@ -1,1 +1,2 @@
 {"name":"tempref","vers":"0.1.0","deps":[],"cksum":"b5c98853df0a5e79091426c301d4cfcdd1ea9013a49ab2911dbb926103af0055","features":{"all":["unsync","mutex","rwlock"],"default":["all"],"mutex":[],"no_std":["unsync"],"rwlock":[],"unsync":[]},"yanked":false}
+{"name":"tempref","vers":"0.1.1","deps":[],"cksum":"877f65f7972b1bb67381933e46842fdb2eed2f12f9e2ef44eb513344cd7034aa","features":{"all":["unsync","mutex","rwlock"],"default":["all"],"mutex":[],"no_std":["unsync"],"rwlock":[],"unsync":[]},"yanked":false}
