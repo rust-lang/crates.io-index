@@ -60,3 +60,4 @@
 {"name":"communication-layer-request-reply","vers":"0.3.12-rc0","deps":[],"cksum":"29f6a0ef1ab9be58bc58e5891d4b92571975f40893e3449ffa953269d7f2baf1","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.12-rc1","deps":[],"cksum":"aed753d9509e0c64ca2a4b60dc6aec144553e930e3640be7b040e6da313e80a0","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.12","deps":[],"cksum":"5585a58484e5340fc224b2e3952944f97d4e898765397e53d52f6658a51edd2b","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.3.13","deps":[],"cksum":"b499787307a803839e3fe0becad8f50a84f5d9ab48457a194c82fa63a9a43bee","features":{},"yanked":false,"rust_version":"1.85.0"}
