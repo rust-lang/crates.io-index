@@ -1,1 +1,2 @@
 {"name":"simd_math","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e04ff5ce6b0ee64693028b6b8eea9b6db6330a7e980907bedba21da0e365500d","features":{},"yanked":false}
+{"name":"simd_math","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e83c6844e6964558cb10cf98bfbc84c8842ac604cf7401cdfd4b10b65883df94","features":{},"yanked":false}
