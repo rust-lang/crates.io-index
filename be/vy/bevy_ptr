@@ -38,3 +38,4 @@
 {"name":"bevy_ptr","vers":"0.17.0-rc.1","deps":[],"cksum":"663636374855632fb2e61eec81a73b51c5e96a5f847a06d0628fdea30a7aa620","features":{},"yanked":false,"rust_version":"1.85.0"}
 {"name":"bevy_ptr","vers":"0.17.0-rc.2","deps":[],"cksum":"d129fa79c6ec9a63acbb3719eac25a10a4edfdfc88f83af40b963c1cfa540b98","features":{},"yanked":false,"rust_version":"1.85.0"}
 {"name":"bevy_ptr","vers":"0.17.0","deps":[],"cksum":"66652590ead8412d2b63dd73ff63af61aa5a59e7fc4a5bbe6c799b214cd1dd41","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"bevy_ptr","vers":"0.17.1","deps":[],"cksum":"0b3533a9a9c2158bc704c18ba26f0f0692d0423ff0a10b656b8db46a9b953620","features":{},"yanked":false,"rust_version":"1.85.0"}
