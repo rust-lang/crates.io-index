@@ -1,7 +1,7 @@
-{"name":"ndd","vers":"0.0.0","deps":[],"cksum":"5dc558eba1109b3d539900d6cf78048bf43ab364270a35126ef6e0e68e704bc3","features":{},"yanked":false}
-{"name":"ndd","vers":"0.2.0","deps":[],"cksum":"9310f2bb946e6c182184f84915a4e4b160ceb9c68750a494d36e9fb83db967ac","features":{},"yanked":false,"rust_version":"1.86.0"}
-{"name":"ndd","vers":"0.2.1","deps":[],"cksum":"19aa527d4aeb63b71567f5636f8d29fa0d50e0dcd2535b3f67ad33734cbb84ed","features":{},"yanked":false,"rust_version":"1.86"}
-{"name":"ndd","vers":"0.2.2","deps":[],"cksum":"0dc3e8237d120098c6e6fc21814c64b1c9abf7565f4938ea8effd8fa4aa767c3","features":{},"yanked":false,"rust_version":"1.86"}
-{"name":"ndd","vers":"0.3.2-nightly","deps":[],"cksum":"8c038889b4afa16d28325adfc5865e2b70d6c8387a86df504d71832c6c43ce62","features":{},"yanked":false,"rust_version":"1.91"}
+{"name":"ndd","vers":"0.0.0","deps":[],"cksum":"5dc558eba1109b3d539900d6cf78048bf43ab364270a35126ef6e0e68e704bc3","features":{},"yanked":true}
+{"name":"ndd","vers":"0.2.0","deps":[],"cksum":"9310f2bb946e6c182184f84915a4e4b160ceb9c68750a494d36e9fb83db967ac","features":{},"yanked":true,"rust_version":"1.86.0"}
+{"name":"ndd","vers":"0.2.1","deps":[],"cksum":"19aa527d4aeb63b71567f5636f8d29fa0d50e0dcd2535b3f67ad33734cbb84ed","features":{},"yanked":true,"rust_version":"1.86"}
+{"name":"ndd","vers":"0.2.2","deps":[],"cksum":"0dc3e8237d120098c6e6fc21814c64b1c9abf7565f4938ea8effd8fa4aa767c3","features":{},"yanked":true,"rust_version":"1.86"}
+{"name":"ndd","vers":"0.3.2-nightly","deps":[],"cksum":"8c038889b4afa16d28325adfc5865e2b70d6c8387a86df504d71832c6c43ce62","features":{},"yanked":true,"rust_version":"1.91"}
 {"name":"ndd","vers":"0.2.3","deps":[],"cksum":"fc7163d3bc7bd07adca6bc6a12074babfa0b6544e164cc4d00b8cff9c03f4a9c","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ndd","vers":"0.3.3-nightly","deps":[],"cksum":"4bed7b84f81cbe5d352178b7286c72393d6acdca7eed3e87ec51fc1d16431ec4","features":{},"yanked":false,"rust_version":"1.91"}
