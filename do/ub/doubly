@@ -6,3 +6,4 @@
 {"name":"doubly","vers":"1.1.1","deps":[],"cksum":"98f4a62c6e77938cf1f0585dc89675ef26f18e46c56b33cb87cb3a25cf63efbd","features":{},"yanked":false}
 {"name":"doubly","vers":"1.1.2","deps":[{"name":"clippy","req":"^0.0.112","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53d1853bbd50d1592e18bf650d457e1c69f8c5fa40342600959669c8690dcd10","features":{},"yanked":false}
 {"name":"doubly","vers":"1.1.3","deps":[],"cksum":"24c482d174c373c0aeba963f12a3ecf2e64e34cebdb498ff8438a18b4a04e1f8","features":{},"yanked":false}
+{"name":"doubly","vers":"1.2.3","deps":[],"cksum":"4d9ca86a782074126d7a7bdcb303e9c55e6a4391f1369ef4a2d44205b2173190","features":{},"yanked":false}
