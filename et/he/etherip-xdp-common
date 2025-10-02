@@ -1,0 +1,1 @@
+{"name":"etherip-xdp-common","vers":"0.2.0","deps":[{"name":"aya","req":"^0.13.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e5421d708bc83989259146ca39977e7e9638f393b8fdb1c20c35e37eb876de52","features":{"default":[],"user":["aya"]},"yanked":false}
