@@ -1,1 +1,2 @@
 {"name":"hightower-naming","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"060157e18218aa4baee495d53ab6a616ef25f9578e38cf5aad1aebfae90423bf","features":{},"yanked":false}
+{"name":"hightower-naming","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11527502198d08386b45726e2e091fdc87f104dff794ae13326023c59da56890","features":{},"yanked":false}
