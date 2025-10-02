@@ -1,1 +1,2 @@
 {"name":"os-memlock","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f9c2d42c3e6f82b1fb3a2e5e8ecada6ed1ef76898175cab086a7b2ee1adf836","features":{},"yanked":false}
+{"name":"os-memlock","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"419295889706b09825f786bdb8ce8154f784a4c70c43f42dfab02ddf93ea2c01","features":{},"yanked":false}
