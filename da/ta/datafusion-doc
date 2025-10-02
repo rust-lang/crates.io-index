@@ -9,3 +9,4 @@
 {"name":"datafusion-doc","vers":"49.0.1","deps":[],"cksum":"f5d50e710c1a4b944fa75e5a184eafe4a70bc1016413f0388949e8be3383f218","features":{},"yanked":false,"rust_version":"1.85.1"}
 {"name":"datafusion-doc","vers":"49.0.2","deps":[],"cksum":"8ff336d1d755399753a9e4fbab001180e346fc8bfa063a97f1214b82274c00f8","features":{},"yanked":false,"rust_version":"1.85.1"}
 {"name":"datafusion-doc","vers":"50.0.0","deps":[],"cksum":"2fbf41013cf55c2369b5229594898e8108c8a1beeb49d97feb5e0cce9933eb8f","features":{},"yanked":false,"rust_version":"1.86.0"}
+{"name":"datafusion-doc","vers":"50.1.0","deps":[],"cksum":"b71f8c2c0d5c57620003c3bf1ee577b738404a7fd9642f6cf73d10e44ffaa70f","features":{},"yanked":false,"rust_version":"1.86.0"}
