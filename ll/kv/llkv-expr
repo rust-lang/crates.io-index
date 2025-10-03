@@ -1,1 +1,2 @@
 {"name":"llkv-expr","vers":"0.1.0-alpha","deps":[],"cksum":"d6757188009474741232e12b0c91f8893a241218e501a7247cd106c86bd61015","features":{},"yanked":false}
+{"name":"llkv-expr","vers":"0.2.0-alpha","deps":[{"name":"arrow","req":"^56.2.0","features":["prettyprint"],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"arrow-array","req":"^56.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"07e803594b51c094293c9f1ed77798c58579d7fe006e391670c6eb2224c8f781","features":{},"yanked":false}
