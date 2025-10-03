@@ -1,2 +1,0 @@
-{"name":"seccompy","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.174","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88b798a00121d195ff3b9455c3cdd58d5bc005df6684f303c965e3c0cea598ec","features":{},"yanked":false}
-{"name":"seccompy","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.174","features":["extra_traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d13c5151f37277d688db786a6014c235f17210c8c0e134e1858ac8812d32f12","features":{},"yanked":false}
