@@ -3,3 +3,4 @@
 {"name":"boltse","vers":"0.1.2","deps":[],"cksum":"c98c15d2126e07e6de1f74286b50716e26c6b3c392214e7c1cb4beed64d74aa7","features":{},"yanked":false}
 {"name":"boltse","vers":"0.1.3","deps":[],"cksum":"361b37bf901a4aaefa63d75d1bbfb826d7b124876cd0fde36d9889e8cfff8c87","features":{},"yanked":false}
 {"name":"boltse","vers":"0.1.4","deps":[],"cksum":"58ae1781287ecf311addc262204a398bb513b75be6128849ea1af68a2814acc3","features":{},"yanked":false}
+{"name":"boltse","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.48","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9fbc5ca5a71e3077ac572a7093657caeff066e43c2ab422bb8da8b1d06e9e78","features":{},"yanked":false}
