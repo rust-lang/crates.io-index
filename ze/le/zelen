@@ -1,1 +1,2 @@
 {"name":"zelen","vers":"0.0.0","deps":[],"cksum":"a5e657401fed660caf8d31788c1eaa69b9566fbd87c74cb3f8b441170887cd89","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"zelen","vers":"0.1.0","deps":[{"name":"selen","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62d13ed7b9b65ec11e03d9c35f2f45116676eb60ca08cc9a182a5f4fb9926d11","features":{},"yanked":false,"rust_version":"1.88"}
