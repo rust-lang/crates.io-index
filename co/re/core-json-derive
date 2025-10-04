@@ -1,0 +1,1 @@
+{"name":"core-json-derive","vers":"0.1.0","deps":[{"name":"core-json-traits","req":"^0.1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a71210ce638810296da6fea5c50105ecead2def1f817eca1271810de4186c54c","features":{},"yanked":false,"rust_version":"1.79"}
