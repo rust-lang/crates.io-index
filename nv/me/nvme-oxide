@@ -1,1 +1,2 @@
 {"name":"nvme-oxide","vers":"0.1.0","deps":[{"name":"spin","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e782d51dd49bc5812fe783e89830b39e61372a311fe6bf44816b4fdf7575276","features":{},"yanked":true}
+{"name":"nvme-oxide","vers":"0.1.1","deps":[{"name":"spin","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ff5553bdedda0e0e90112e300e48fc3fc61ff0bd8f3a607f095615162fbc57b","features":{},"yanked":false}
