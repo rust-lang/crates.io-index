@@ -1,1 +1,2 @@
 {"name":"anstyle-migration-tool","vers":"0.20.0","deps":[{"name":"regex","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc576e2085ebe2cf3fde4ccf5ef7591a75a261ca04ab6dd278cb87565324d40d","features":{},"yanked":false}
+{"name":"anstyle-migration-tool","vers":"0.20.1","deps":[{"name":"regex","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40d19786a7e4ce87fdba63a83b86e9f1f8e8138741ff11aeb794d695188f0b30","features":{},"yanked":false}
