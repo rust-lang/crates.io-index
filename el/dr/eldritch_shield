@@ -1,0 +1,1 @@
+{"name":"eldritch_shield","vers":"0.1.0","deps":[{"name":"rppal","req":"^0.22.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dd97cd6e30bfc338fac5994432dd8f2927afa2ef3bb9f215f4083b5008a3dee","features":{"default":[]},"features2":{"rppal":["dep:rppal"]},"yanked":false,"v":2}
