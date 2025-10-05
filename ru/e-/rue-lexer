@@ -1,3 +1,4 @@
 {"name":"rue-lexer","vers":"0.1.0","deps":[],"cksum":"24af710b64e30ffa9a96f1be068d1f6c76e48f97d5b741a66574fa26273e9aae","features":{},"yanked":false}
 {"name":"rue-lexer","vers":"0.1.1","deps":[],"cksum":"6fbcdb46267078a555808641ade7f8c63a0d8501211f99f240f9d126a3909ba9","features":{},"yanked":false}
 {"name":"rue-lexer","vers":"0.3.0","deps":[{"name":"expect-test","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5a0383bd24b5a6705fdb50faa087f1a56056a0bf3216d717b18541ca6b3d0ba3","features":{},"yanked":false}
+{"name":"rue-lexer","vers":"0.4.0","deps":[{"name":"expect-test","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c51280cad4d85fa271d5f6654c643826272ed4f5c8cc1bd973ae4e739f9f9cee","features":{},"yanked":false}
