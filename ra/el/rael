@@ -1,1 +1,2 @@
 {"name":"rael","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccad2ef7bfbf68f51fc7a03c72df4bb043d89a64fb825a88619c2dc8d6f3d52c","features":{},"yanked":false}
+{"name":"rael","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfae86ccb97edae2b748b99e02fe1ddbfa2dbd52c2d60781b59b0c9aa31f2b2b","features":{},"yanked":false}
