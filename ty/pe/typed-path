@@ -18,3 +18,4 @@
 {"name":"typed-path","vers":"0.9.3","deps":[],"cksum":"82205ffd44a9697e34fc145491aa47310f9871540bb7909eaa9365e0a9a46607","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58.1"}
 {"name":"typed-path","vers":"0.10.0","deps":[],"cksum":"41713888c5ccfd99979fcd1afd47b71652e331b3d4a0e19d30769e80fec76cce","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58.1"}
 {"name":"typed-path","vers":"0.11.0","deps":[],"cksum":"c462d18470a2857aa657d338af5fa67170bb48bcc80a296710ce3b0802a32566","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"typed-path","vers":"0.12.0","deps":[],"cksum":"7922f2cdc51280d47b491af9eafc41eb0cdab85eabcb390c854412fcbf26dbe8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
