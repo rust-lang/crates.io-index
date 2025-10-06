@@ -4,3 +4,4 @@
 {"name":"grid-math","vers":"0.2.2","deps":[],"cksum":"922f720bf21029e096578b46d580157a639e1424bd9ce3c6ab8381b3d6e3d57e","features":{},"yanked":false}
 {"name":"grid-math","vers":"0.2.3","deps":[],"cksum":"65f2f58639a6b0ae79e6d8abe33b9c676534132469c686698594fe24f15fe5b8","features":{},"yanked":false}
 {"name":"grid-math","vers":"0.2.4","deps":[],"cksum":"071fce4f1a62adc30a0db6b1b6fb8abcc13a23ad37056e8591bb6c61c150435f","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.5","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10cfa2fc32641940d522e348c3bc31ef558f5617b128986e4f5cbed9caf1709b","features":{},"yanked":false}
