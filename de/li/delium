@@ -1,0 +1,1 @@
+{"name":"delium","vers":"1.0.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.10.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cae6055f8e0cd12ea5b184c9ca69f66aad3ba2ad7884b18c6c77da6d28f0de4","features":{},"yanked":false}
