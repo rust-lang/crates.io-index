@@ -4,3 +4,4 @@
 {"name":"wasmtime-internal-slab","vers":"36.0.2","deps":[],"cksum":"6d152a7b875d62e395bfe0ae7d12e7b47cd332eb380353cce3eb831f9843731d","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-slab","vers":"37.0.0","deps":[],"cksum":"41364714f23643bbc4df28ab4f63573c48a6f2d6b841a74cdb98380b7e4d3682","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"wasmtime-internal-slab","vers":"37.0.1","deps":[],"cksum":"65cafe64859a9df2b2391bb4cc1139eace115c02ba363e22cfd19eb675282f5a","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"wasmtime-internal-slab","vers":"37.0.2","deps":[],"cksum":"ce79a933dd9c5fdcc1ce1f6b46e89e72ccb6767619557f0468d97fbfb0475db6","features":{},"yanked":false,"rust_version":"1.87.0"}
