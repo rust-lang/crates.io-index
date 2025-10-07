@@ -4,3 +4,4 @@
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.2","deps":[],"cksum":"e0afc026a0e08f4f1b8fc07ab52c12e04b33afe590e55596163db233702c12a5","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-wmemcheck","vers":"37.0.0","deps":[],"cksum":"8a8a407a60e59ac3ae998cd34ece89d0643801b98ae6c49ea5996aad35a6c3bb","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"wasmtime-internal-wmemcheck","vers":"37.0.1","deps":[],"cksum":"be7c976326bce7d9e8c01ebbcbe7ded2d4058a08bcfe8a3afb1521e7738428b1","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"wasmtime-internal-wmemcheck","vers":"37.0.2","deps":[],"cksum":"b7a2c7bd2e8509fb1809d7f0930f10c00462d67bae19394b66822898a4ae94a1","features":{},"yanked":false,"rust_version":"1.87.0"}
