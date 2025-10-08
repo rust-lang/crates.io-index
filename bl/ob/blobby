@@ -6,3 +6,4 @@
 {"name":"blobby","vers":"0.3.1","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"847495c209977a90e8aad588b959d0ca9f5dc228096d29a6bd3defd53f35eaec","features":{},"yanked":false}
 {"name":"blobby","vers":"0.4.0-pre.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a859067dcb257cb2ae028cb821399b55140b76fb8b2a360e052fe109019db43","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"blobby","vers":"0.4.0-pre.1","deps":[],"cksum":"e4db6eec520c1f3d3b060c5b67527c3d1d4122d9f0ff47edf0149a7ffa34cebb","features":{"alloc":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"blobby","vers":"0.4.0","deps":[],"cksum":"89af0b093cc13baa4e51e64e65ec2422f7e73aea0e612e5ad3872986671622f1","features":{"alloc":[]},"yanked":false,"rust_version":"1.85"}
