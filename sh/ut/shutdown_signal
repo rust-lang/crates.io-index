@@ -1,0 +1,1 @@
+{"name":"shutdown_signal","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["macros","signal"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0800509547842519d726ed1cd4863aef9bd9b852ef8460fb2e345d8ee7154a9e","features":{},"yanked":false,"rust_version":"1.89.0"}
