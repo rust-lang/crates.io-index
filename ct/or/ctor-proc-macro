@@ -5,3 +5,4 @@
 {"name":"ctor-proc-macro","vers":"0.0.4","deps":[],"cksum":"c426d2ba3e525b39c1f0a9ba41b9fe61878dee11fa4e4a76b6ab440f46c5db5d","features":{"__warn_on_missing_unsafe":[],"default":[],"used_linker":[]},"yanked":false}
 {"name":"ctor-proc-macro","vers":"0.0.5","deps":[],"cksum":"4f211af61d8efdd104f96e57adf5e426ba1bc3ed7a4ead616e15e5881fd79c4d","features":{"default":[]},"yanked":false}
 {"name":"ctor-proc-macro","vers":"0.0.6","deps":[],"cksum":"e2931af7e13dc045d8e9d26afccc6fa115d64e115c9c84b1166288b46f6782c2","features":{"default":[]},"yanked":false}
+{"name":"ctor-proc-macro","vers":"0.0.7","deps":[],"cksum":"52560adf09603e58c9a7ee1fe1dcb95a16927b17c127f0ac02d6e768a0e25bc1","features":{"default":[]},"yanked":false}
