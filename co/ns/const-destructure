@@ -1,1 +1,2 @@
 {"name":"const-destructure","vers":"0.1.0","deps":[],"cksum":"3afc577731aee70144633a31dfbe4de2cb72d6b09098665df324272db3cf0636","features":{},"yanked":false}
+{"name":"const-destructure","vers":"0.1.1","deps":[{"name":"trybuild","req":"^1.0.111","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddafa7571fc3b3a65c21b23afc4340fe28da843584b0d2e3f0cdf6ac4c98ba42","features":{},"yanked":false}
