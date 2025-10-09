@@ -39,4 +39,4 @@
 {"name":"lang_extension","vers":"1.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04e3beff42f3a81e48af2c55b959ce4a116838d124bc148ded40c82ed81ada15","features":{},"yanked":true}
 {"name":"lang_extension","vers":"1.1.1","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0adfd471bf937692dfe2093b6311ce2087b3a37ce558a0bc85ee2fa6147a9ba3","features":{},"yanked":true}
 {"name":"lang_extension","vers":"1.2.0","deps":[],"cksum":"bca3cd37a26b8c1d1b1e1fb689b46b44e8488eef0af2452f280bf943a716154a","features":{},"yanked":true}
-{"name":"lang_extension","vers":"1.2.1","deps":[],"cksum":"800495a9bd0a06d0301e1ad1c1df0c0b7d99a4214e2c7eb0ab034bace22213c0","features":{},"yanked":false}
+{"name":"lang_extension","vers":"1.2.1","deps":[],"cksum":"800495a9bd0a06d0301e1ad1c1df0c0b7d99a4214e2c7eb0ab034bace22213c0","features":{},"yanked":true}
