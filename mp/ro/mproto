@@ -2,3 +2,4 @@
 {"name":"mproto","vers":"0.2.0","deps":[],"cksum":"66b20e499174c90e73aa9dadfdfa0ffa0b24553fb21f87dc1a9fef3d9904ea3a","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"mproto","vers":"0.2.1","deps":[],"cksum":"ca23d629c70801789edbbf909fb4bc20536abc764752bea2865e6f0c694cfcb0","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"mproto","vers":"0.3.0-rc1","deps":[],"cksum":"fdaca465afaa95c19ba0e5d10c9a05fc5adaf5928e2c5492990a409d03d08f8c","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"mproto","vers":"0.2.2","deps":[],"cksum":"822a7845dd561584a4bfdc9ca97586e6855342487b1b8202d7246f537afa08b4","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
