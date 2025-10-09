@@ -1,0 +1,1 @@
+{"name":"minotari_ledger_wallet_common","vers":"5.1.0","deps":[{"name":"bs58","req":"^0.5.1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc96bb44b18ddf1cbce9b592a235ae0bc63dd2bc41a54f51251370cb23507121","features":{},"yanked":false}
