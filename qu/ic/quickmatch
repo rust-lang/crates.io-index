@@ -1,1 +1,2 @@
 {"name":"quickmatch","vers":"0.1.0","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f40900f648c3d87f72edbaa64a323686cb92a8a2ed466f9b4b4f5790f990f2aa","features":{},"yanked":false}
+{"name":"quickmatch","vers":"0.1.1","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1589e628562b2ba6d3831f54c3a612fc177b46e095bbf5acf35838fadf0b6812","features":{},"yanked":false}
