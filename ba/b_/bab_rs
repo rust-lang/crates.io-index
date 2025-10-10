@@ -1,0 +1,1 @@
+{"name":"bab_rs","vers":"0.1.0","deps":[{"name":"arrayref","req":"^0.3.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"878917152ee4b90498672559ac4be0cc265795ad9b2850a08db47e9bba399576","features":{},"features2":{"default":["william3"],"william3":["dep:arrayref"]},"yanked":false,"v":2}
