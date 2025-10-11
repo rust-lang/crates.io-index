@@ -1,2 +1,3 @@
 {"name":"state-machines-core","vers":"0.1.0","deps":[],"cksum":"e9bfa34f19afc21ba4a80c8b65b8938defb0bc16a2d3ab64004274c6994d1e34","features":{},"yanked":false}
 {"name":"state-machines-core","vers":"0.1.1","deps":[],"cksum":"9361c92ead0c593f9658849ea17497ca0c85df844248ea0f695e83793c0ecc37","features":{},"yanked":false}
+{"name":"state-machines-core","vers":"0.2.0","deps":[],"cksum":"949cc50e84bed6234117f28a0ba2980dc35e9c17984ffe4e0a3364fba3e77540","features":{"default":[],"typestate":[]},"yanked":false}
