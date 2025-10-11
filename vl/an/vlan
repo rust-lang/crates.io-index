@@ -1,0 +1,1 @@
+{"name":"vlan","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"231e2d84805af93a4cae8055d252b18a35bb93e54dc4180e990b7b8084e20fb5","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
