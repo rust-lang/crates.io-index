@@ -1,0 +1,1 @@
+{"name":"pngcheck","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"once_cell","req":"^1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35c8cb56678cf3db4f983dfbb4bca28aced3301b3d5ab56f17f3b2f36de6c21f","features":{},"yanked":false}
