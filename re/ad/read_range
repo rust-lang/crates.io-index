@@ -1,0 +1,1 @@
+{"name":"read_range","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":false,"target":"cfg(not(target_family = \"wasm\"))","kind":"normal"}],"cksum":"a7081cc524c19c99a6c4d6b37da38366cabbf91d8effe72d32066be55abdb5b3","features":{},"yanked":false}
