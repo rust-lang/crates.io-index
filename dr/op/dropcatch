@@ -1,0 +1,1 @@
+{"name":"dropcatch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7d75ecaf79b5b3b5ad19afbb0b4f4d05281e3020aa66d221bb4e2b520ba0755","features":{},"features2":{"default":["random-id"],"random-id":["dep:rand"]},"yanked":false,"v":2}
