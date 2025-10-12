@@ -1,1 +1,2 @@
 {"name":"subtype_rs","vers":"0.1.0","deps":[{"name":"subtype_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a22a6fdd96935b7ed40512184f83650d02e65f6229b9312e0ecffb9f3f20d19c","features":{},"yanked":false}
+{"name":"subtype_rs","vers":"0.2.0","deps":[{"name":"subtype_macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56b233515446cc5435abc45a3abbcdc8c9dc9e018706d0e901542d54aad8abc7","features":{},"yanked":false}
