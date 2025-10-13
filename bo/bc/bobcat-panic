@@ -1,1 +1,2 @@
 {"name":"bobcat-panic","vers":"0.1.0","deps":[],"cksum":"21b4ddea4b127270507660c628e08a539f4ea8685455b9bbc29181d2b40e5584","features":{"alloc":[],"console":["alloc"],"std":[]},"yanked":false}
+{"name":"bobcat-panic","vers":"0.2.0","deps":[],"cksum":"1c15a3a0c6b9e2486881e2d67f87d1bc3dc4d6cb426960940ce663c3a600e22e","features":{"alloc":[],"console":["alloc"],"std":[]},"yanked":false}
