@@ -1,0 +1,1 @@
+{"name":"unen_event","vers":"0.0.1","deps":[{"name":"unen_event_derive","req":"^0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35240181dd15a06604051fa8d154ff22158e13a152d67dade0e00e7c124453e5","features":{"default":[],"derive":["unen_event_derive"]},"yanked":false}
