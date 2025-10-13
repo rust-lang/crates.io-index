@@ -12,3 +12,4 @@
 {"name":"miden-stdlib-sys","vers":"0.4.0","deps":[],"cksum":"af37301c3d592d897f59a017425c73afb4395456b30a58fb29334b2e903769f8","features":{"default":[],"wit":[]},"yanked":false,"rust_version":"1.90"}
 {"name":"miden-stdlib-sys","vers":"0.4.1","deps":[],"cksum":"3472cf43ee7839b6fd503a5b28d4a600eedd6f0c32d23e7d8d7e9253b93171b4","features":{"default":[],"wit":[]},"yanked":false,"rust_version":"1.90"}
 {"name":"miden-stdlib-sys","vers":"0.5.0","deps":[],"cksum":"434b2aa2c4cb87bd77b4ddbf50c6cafb92f4ff03a3611efbd38850182a72010b","features":{"default":[]},"yanked":false,"links":"miden_stdlib_sys_stubs","rust_version":"1.90"}
+{"name":"miden-stdlib-sys","vers":"0.6.0","deps":[],"cksum":"e72c79c18c2e70e7beef6b30ecb674426c50acfd27b0889a28f8b98350c6ca7a","features":{"default":[]},"yanked":false,"links":"miden_stdlib_sys_stubs","rust_version":"1.90"}
