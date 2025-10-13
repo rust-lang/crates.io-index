@@ -2,3 +2,4 @@
 {"name":"octets","vers":"0.2.0","deps":[],"cksum":"3a74f2cda724d43a0a63140af89836d4e7db6138ef67c9f96d3a0f0150d05000","features":{},"yanked":false}
 {"name":"octets","vers":"0.3.0","deps":[],"cksum":"109983a091271ee8916076731ba5fdc9ee22fea871bc7c6ceab9bfd423eb1d99","features":{},"yanked":false}
 {"name":"octets","vers":"0.3.1","deps":[],"cksum":"57728cfe8b311019541d922782649e4e02cceed8043fe42739588f411c336a90","features":{},"yanked":false}
+{"name":"octets","vers":"0.3.2","deps":[],"cksum":"cffde765a2e1ff94d65a81e3a52cc81ccb4012ffb2a3ff95a753c3978465e3fe","features":{"huffman_hpack":[]},"yanked":false}
