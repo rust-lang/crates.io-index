@@ -1,1 +1,0 @@
-{"name":"chrono_machines","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":["small_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"14526f812cfd36f02d16ee574b2fadb52863d924edc66b13104c8516b8aff8fb","features":{"default":["std"],"std":["rand/std","rand/std_rng"]},"yanked":false}
