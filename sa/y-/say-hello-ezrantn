@@ -1,3 +1,0 @@
-{"name":"say-hello-ezrantn","vers":"0.1.0","deps":[],"cksum":"c6498c02b520cbe92dea022f5e38768f496f84ca2e93b6c25187332cf6730b03","features":{},"yanked":false}
-{"name":"say-hello-ezrantn","vers":"0.2.0","deps":[],"cksum":"3df53a304b0305b0770ab15d563a36c77191e861d12c05657308f7ac16927907","features":{},"yanked":false}
-{"name":"say-hello-ezrantn","vers":"0.3.0","deps":[],"cksum":"fca6bd832e220fbc8bbdc8c76e03e0b9a981303213c4cd8cd02c679761684478","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
