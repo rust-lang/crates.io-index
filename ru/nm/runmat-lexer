@@ -1,1 +1,2 @@
 {"name":"runmat-lexer","vers":"0.0.16","deps":[{"name":"logos","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"401c6de0de05e8003dec4bff4efba2389fa53e6709df22654b0b65d2241fdf48","features":{},"yanked":false}
+{"name":"runmat-lexer","vers":"0.0.17","deps":[{"name":"logos","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ab24208367b325b974beb8c9cb9866af1d257982ca3d481426017e6256f63cf","features":{},"yanked":false}
