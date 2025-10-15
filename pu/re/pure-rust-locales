@@ -15,3 +15,4 @@
 {"name":"pure-rust-locales","vers":"0.7.0","deps":[],"cksum":"ed02a829e62dc2715ceb8afb4f80e298148e1345749ceb369540fe0eb3368432","features":{},"yanked":false}
 {"name":"pure-rust-locales","vers":"0.8.0","deps":[],"cksum":"3588adac4ebbf808ca721f8674a7f7ebc25be23a9cce98d2db2d2471282498de","features":{},"yanked":false}
 {"name":"pure-rust-locales","vers":"0.8.1","deps":[],"cksum":"1190fd18ae6ce9e137184f207593877e70f39b015040156b1e05081cdfe3733a","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"pure-rust-locales","vers":"0.8.2","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"869675ad2d7541aea90c6d88c81f46a7f4ea9af8cd0395d38f11a95126998a0d","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"rust_version":"1.56.0","v":2}
