@@ -4,3 +4,4 @@
 {"name":"dioxus-config-macros","vers":"0.7.0-alpha.3","deps":[],"cksum":"ab65feae7ce502a169f8e96d5df96f922ba639616a083ec0bc45ccec1991e9d9","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
 {"name":"dioxus-config-macros","vers":"0.7.0-rc.0","deps":[],"cksum":"349cae693022df3af125c9f794aef0ffec97f2e1d01c252d883149e7ca7a0324","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
 {"name":"dioxus-config-macros","vers":"0.7.0-rc.1","deps":[],"cksum":"ee30f3e7b9faa3214de9e67e1ee39a4c1cccc600286cd31ad9f4b662d1bd62a4","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"dioxus-config-macros","vers":"0.7.0-rc.2","deps":[],"cksum":"2074df79d509421e17c3417101768bccf096935905ce52e5582a9c7ffdb86a9c","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
