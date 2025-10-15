@@ -1,1 +1,2 @@
 {"name":"acroform","vers":"0.0.6","deps":[{"name":"acroform-pdf","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d7137ca3a08c72f775006060843d740cad67455d4646abde40bcdff4836768e","features":{},"yanked":false}
+{"name":"acroform","vers":"0.0.1","deps":[{"name":"acroform-pdf","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2b84289caad70ba40cd3211e7cff0b2fdcd534304d54c4bb0b7c6efdf6b253c","features":{},"yanked":false}
