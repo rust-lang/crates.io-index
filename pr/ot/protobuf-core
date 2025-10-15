@@ -1,0 +1,1 @@
+{"name":"protobuf-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"561303d708116eba03385e00af948ea3842cf31be634c74d977d87334ba5813d","features":{"default":["read","write"],"read":[],"write":[]},"yanked":false}
