@@ -1,1 +1,2 @@
 {"name":"defvar","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b1a4d1756213aac9bef19195c12678fe9cbbcbb7fa6fcede7face565ba09527","features":{},"yanked":false}
+{"name":"defvar","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec5cf8e60e5a2976deebd192f49fe2056b8ec49e9a324619eb01b68fa5e4d776","features":{},"yanked":false}
