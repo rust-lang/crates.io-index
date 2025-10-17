@@ -15,3 +15,4 @@
 {"name":"azure_canary_core","vers":"1.0.0-beta.5460932","deps":[],"cksum":"8fbd3702e316b5824a3cd90943cfd9fddccbf78faf3e81749fa63ddb37fd33fd","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"azure_canary_core","vers":"1.0.0-beta.5460944","deps":[],"cksum":"de34bb6d647cf9be67ba158e82c3d19439950c4862268e7184f8e457fe2ad1ae","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"azure_canary_core","vers":"1.0.0-beta.5460949","deps":[{"name":"azure_core","req":"^0.29.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dbe36bcb62c98699e446a0e168f6babc18d9e0f5b0af8969c883914e63512dfa","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"azure_canary_core","vers":"1.0.0-beta.5470378","deps":[],"cksum":"22fdcb4e660f9f9c05fc30d57cee3f82bc36264e07d3b38fc0ebbf368a13d7ea","features":{},"yanked":false,"rust_version":"1.85"}
