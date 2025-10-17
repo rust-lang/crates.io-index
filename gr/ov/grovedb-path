@@ -7,3 +7,4 @@
 {"name":"grovedb-path","vers":"2.2.0","deps":[],"cksum":"7eb2d64ad802e8f5b65e457bbce798f84677857f4704553a719db33130ead22f","features":{},"yanked":false}
 {"name":"grovedb-path","vers":"2.2.1","deps":[],"cksum":"67dc8bc00b9be473f7b25670d1422daadd706c9b09ed6aa5cf2caf8722a487ac","features":{},"yanked":false}
 {"name":"grovedb-path","vers":"3.0.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d61e09bb3055358974ceb65b91752064979450092014d91a6bc4a52d77887ea","features":{},"yanked":false}
+{"name":"grovedb-path","vers":"3.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01f716520d6c6b0f25dc4a68bc7dded645826ed57d38a06a80716a487c09d23c","features":{},"yanked":false}
