@@ -1,1 +1,2 @@
 {"name":"rsbullet_sys","vers":"0.2.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"228fce7d795f34df21c2bd35ed2cb5695e45b26049261079da5a0a7b4de06d28","features":{},"yanked":false}
+{"name":"rsbullet_sys","vers":"0.2.1","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dcc18b3d63190d960eb90c5c66e10177b50e644cd1b1252e7e21a85bc2e95ca1","features":{},"yanked":false}
