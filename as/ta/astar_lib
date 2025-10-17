@@ -1,0 +1,1 @@
+{"name":"astar_lib","vers":"0.1.0","deps":[{"name":"glume","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3594827bdf5737e757b075451836972ccb429c87ed4e6164be23cbddf402c5d3","features":{},"yanked":false}
