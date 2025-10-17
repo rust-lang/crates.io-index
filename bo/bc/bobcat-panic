@@ -3,3 +3,4 @@
 {"name":"bobcat-panic","vers":"0.3.0","deps":[],"cksum":"03afb4c2b6bd590899083be12fec6d94c1e048adb1e8f4427b04ba8e067d8581","features":{"alloc":[],"console":["alloc"],"std":[]},"yanked":false}
 {"name":"bobcat-panic","vers":"0.4.0","deps":[],"cksum":"91b038ac64cf228489c5e2ff93a1d09668a3c949f85a20319886e00a0fb22f7d","features":{"alloc":[],"console":["alloc"],"std":[]},"yanked":false}
 {"name":"bobcat-panic","vers":"0.4.1","deps":[],"cksum":"abde4b5f7c0ed7582233593537399569467e06ca849627e06958342d500ec2f9","features":{"alloc":[],"console":["alloc"],"std":[]},"yanked":false}
+{"name":"bobcat-panic","vers":"0.5.0","deps":[],"cksum":"1d2058a0d9d632574bd64093e236f774c088c90a8414fddcee9a56f51ccd6780","features":{"console":[],"std":[]},"yanked":false}
