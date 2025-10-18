@@ -13,3 +13,4 @@
 {"name":"key-paths-core","vers":"1.0.4","deps":[],"cksum":"c462019af486c8f6767e36fd3a5389953dfb1350adbe2dce5e2a3420e7ab59fc","features":{},"yanked":false}
 {"name":"key-paths-core","vers":"1.0.5","deps":[],"cksum":"411267d758aff0c96197835c4438005667596ad1b65835d434f6afecc61efd7b","features":{},"yanked":false}
 {"name":"key-paths-core","vers":"1.0.6","deps":[],"cksum":"afc2fb40528280544df26ee5c3f761b74643970cc10fb330021bbe690ee9c1c7","features":{},"yanked":false}
+{"name":"key-paths-core","vers":"1.0.7","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12177d52871ea8c1f86bcaad8d9914ff334db00a4d656740df24846d202863c3","features":{},"features2":{"parking_lot":["dep:parking_lot"]},"yanked":false,"v":2}
