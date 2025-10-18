@@ -1,0 +1,1 @@
+{"name":"byte-chisel","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf74aa38df619282f7ff0d509d013a092c05b783e3500c09f9d17ae822b16a45","features":{},"features2":{"alloc":["dep:memchr"],"default":["std"],"std":["alloc"]},"yanked":false,"v":2}
