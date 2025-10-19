@@ -1,1 +1,2 @@
 {"name":"sadi","vers":"0.1.0","deps":[],"cksum":"69f490e813c4a058f6ab9c44ba732f980802d9ed9d90a15afe1bd8c9e3427122","features":{},"yanked":false}
+{"name":"sadi","vers":"0.1.1","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e32deb8a81c816936bc5893b7a4d4da04f3f7572f2ed7df971da4bd8895a2ab6","features":{},"features2":{"tracing":["dep:tracing"]},"yanked":false,"v":2}
