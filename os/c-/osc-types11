@@ -1,0 +1,1 @@
+{"name":"osc-types11","vers":"0.1.0-alpha.1","deps":[{"name":"osc-types10","req":"=0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0787637863760e3a7a9f9fb5b24fb0cbabdf04d8c0e9fe18209bde03658887a5","features":{"default":["std"],"no_std":[],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.70"}
