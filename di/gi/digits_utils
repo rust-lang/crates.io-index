@@ -1,2 +1,3 @@
 {"name":"digits_utils","vers":"0.1.5","deps":[],"cksum":"09b019fa26db1a6d618508723e49936754bf535435837c50bf2e37c1213118e7","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false,"rust_version":"1.51"}
 {"name":"digits_utils","vers":"0.1.6","deps":[],"cksum":"bdc0880a7688086f5f233dfe9734551679001a243d01c10a6213f1e6224a4259","features":{"bit_hacks":[],"default":["std"],"no_std":[],"std":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"digits_utils","vers":"0.1.7","deps":[],"cksum":"4ab598a00bc6ddc4165a46d632a0312d0d9323a96281c30503be585a434b2d21","features":{"bit_hacks":[],"default":["std"],"no_std":[],"std":[]},"yanked":false,"rust_version":"1.51"}
