@@ -1,1 +1,2 @@
 {"name":"struargs","vers":"0.1.0","deps":[{"name":"struargs_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bae287777947ecbcfb2bc31abe270076cb79fabb7806cc15f71a8ad88971e214","features":{},"yanked":false}
+{"name":"struargs","vers":"0.1.1","deps":[{"name":"struargs_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56da9b8fbf1b33d915f901579d2f24c111ea8a009d674d9713c17c149a72ae84","features":{},"yanked":false}
