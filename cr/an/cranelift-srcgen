@@ -13,3 +13,4 @@
 {"name":"cranelift-srcgen","vers":"0.124.0","deps":[],"cksum":"14f99257b0c0c5c9cf9b1a8a57a52d88da92a8eca892264770b8fdc971bc1fee","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"cranelift-srcgen","vers":"0.124.1","deps":[],"cksum":"edeb6b718b23108a123ad1c8eecf6fa34d21a6b5518fc340dda80ce5bdf42377","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"cranelift-srcgen","vers":"0.124.2","deps":[],"cksum":"12d694cd4c6b28fb8a4d0cf5b58d532b6b3b6e4afb2b65603e2ab8dc35bf18bd","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"cranelift-srcgen","vers":"0.125.0","deps":[],"cksum":"5acfd05a6f3087812f8fa53dd72b45b87b505d7829dcf2cda4c631068e19ea9e","features":{},"yanked":false,"rust_version":"1.88.0"}
