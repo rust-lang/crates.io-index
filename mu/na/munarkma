@@ -1,1 +1,2 @@
 {"name":"munarkma","vers":"1.0.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58c2f9532bca77f2e2604d7264d1830293fe351ca5351724f438b8b24ab0a69c","features":{},"yanked":false}
+{"name":"munarkma","vers":"1.0.1","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd42ea70ef587fa31464741ac09444e0ad75aeb8e18cb8fcf38ee7542507c416","features":{},"yanked":false}
