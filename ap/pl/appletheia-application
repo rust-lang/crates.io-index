@@ -1,1 +1,2 @@
 {"name":"appletheia-application","vers":"0.1.1","deps":[{"name":"appletheia-domain","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9bf5615ca4667d17888367a0cdbddb315f75b65ef225f3625164824e23d4a02","features":{},"yanked":false}
+{"name":"appletheia-application","vers":"0.1.2","deps":[{"name":"appletheia-domain","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"199d7a1df80af815f486b6c1dd6b12997fb26f869e5fbb09f7b6cefd679e14dc","features":{},"yanked":false}
