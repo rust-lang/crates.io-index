@@ -28,3 +28,4 @@
 {"name":"ombrac-macros","vers":"0.6.0","deps":[],"cksum":"75d707c16db76e51ba9418487dacb33e936dd7118d2b3dfb45256272f9622151","features":{},"yanked":false}
 {"name":"ombrac-macros","vers":"0.6.1","deps":[],"cksum":"33c4d841f0a629305b8f9902e7835e1344e03a24f37df3f948def350f4dd738b","features":{},"yanked":false}
 {"name":"ombrac-macros","vers":"0.6.2","deps":[],"cksum":"c47269ae0ef5f072ceef15ef01184b7eee645bc4dd58c7c9c38d7b2a4bf037f7","features":{},"yanked":false}
+{"name":"ombrac-macros","vers":"0.6.3","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a3f0bdb481acd46838054b6df2aa423fb93e91d9bdd20db350775fac8857d880","features":{"default":[]},"features2":{"tracing":["dep:tracing"]},"yanked":false,"v":2}
