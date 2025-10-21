@@ -1,0 +1,1 @@
+{"name":"volk","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"52d54a1f50ee44b6b1fcec3c64d773fa68abdfc3e3d8a6058d33b2c0aa357484","features":{},"yanked":false}
