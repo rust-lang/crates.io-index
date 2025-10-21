@@ -1,1 +1,2 @@
 {"name":"fbe-rust","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c4b12adfdc6b90b5efe655e9ea1ac28827b640eb6f32b480467cb623394d722","features":{},"yanked":false}
+{"name":"fbe-rust","vers":"0.1.1","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dede79b463c6bbed59d83ff599cce374231e313cf858e0b79da35dde82767bee","features":{},"yanked":false}
