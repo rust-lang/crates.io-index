@@ -1,0 +1,1 @@
+{"name":"siyi-protocol","vers":"0.1.0","deps":[],"cksum":"746c785cd80469a87135c1bfa1dd421860ea7058d9dd2ec78792ff0e9ec0d82f","features":{"a2mini":[],"a8mini":[],"all":["tcp","udp","ttl","zt30","zt6","zr30","zr10","a8mini","a2mini"],"default":[],"tcp":[],"ttl":[],"udp":[],"zr10":[],"zr30":[],"zt30":[],"zt6":[]},"yanked":false}
