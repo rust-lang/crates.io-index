@@ -1,4 +1,4 @@
-{"name":"paved","vers":"0.1.0","deps":[],"cksum":"cb838bc924db755153ef597080212c4970a618eb1b53b9ceaa1e6ab3370149b2","features":{},"yanked":false}
+{"name":"paved","vers":"0.1.0","deps":[],"cksum":"cb838bc924db755153ef597080212c4970a618eb1b53b9ceaa1e6ab3370149b2","features":{},"yanked":true}
 {"name":"paved","vers":"0.1.1","deps":[],"cksum":"97823e61a4b4e308754f87de56125e9ff326193cdb15bf52a18eee96d702d822","features":{},"yanked":true}
 {"name":"paved","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0c9ff6fd57127c37d864182da34113e73ce5f7cb11842eda6c35d4b404b8cca","features":{},"features2":{"serde":["dep:serde"]},"yanked":true,"v":2}
 {"name":"paved","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae529a145f9f4fa65857f66cbdb4aa7accd52c512e0486abdad5a02cdff41973","features":{},"features2":{"serde":["dep:serde"]},"yanked":true,"v":2}
