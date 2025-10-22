@@ -3,3 +3,4 @@
 {"name":"typed-jni-core","vers":"1.0.2","deps":[],"cksum":"826153c31bd3afc2e99782681c2514fe928200c6785761df40b78ced17d45213","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false}
 {"name":"typed-jni-core","vers":"1.1.0","deps":[],"cksum":"bafacb876bd25a5e479fdfe459aa458692db3b94a6cd7aac574427e6bf9a65a8","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false}
 {"name":"typed-jni-core","vers":"1.1.1","deps":[],"cksum":"89b02c589fb677f23bf499139d3765a3fdd744067b1939ea19431ab8465aab73","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false}
+{"name":"typed-jni-core","vers":"1.1.2","deps":[],"cksum":"13c23cc22888c99e9de9c47f42c84150a0507e336b82f3942d625da566646e19","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false}
