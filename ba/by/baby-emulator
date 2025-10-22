@@ -8,3 +8,4 @@
 {"name":"baby-emulator","vers":"0.1.7","deps":[],"cksum":"468f103c3d3d4b1bfbe9bc951577e16d2ce1d85df4dceffbafd42e8d3e720208","features":{},"yanked":false}
 {"name":"baby-emulator","vers":"0.2.0","deps":[],"cksum":"ca9befb87eb5d68fd7eb154553fe3e19e373531fdfc85278327525cfc90965ad","features":{},"yanked":false}
 {"name":"baby-emulator","vers":"0.2.1","deps":[],"cksum":"2474bdf96cd07e9219b93256dc48f08995d7aa707aef5105bd114cac7b4edc72","features":{"default":["i32"],"i16":[],"i32":[],"i8":[]},"yanked":false}
+{"name":"baby-emulator","vers":"0.2.2","deps":[],"cksum":"ff60a30dc1db4644843162d9a07be306d8603ddf23b7cd3ad54981eefa2919c7","features":{"i16":[],"i8":[]},"yanked":false}
