@@ -1,1 +1,2 @@
 {"name":"wstd-axum-macro","vers":"0.0.0","deps":[],"cksum":"2b235645697ba0dd54cb8eb1d3149b8373b98b0d2fa70457bc6bd569407b5a64","features":{},"yanked":false}
+{"name":"wstd-axum-macro","vers":"0.6.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f24dc346b4939da62c89a07428f9e8154d4592af852b6d2e88039069c7806fc","features":{},"yanked":false,"rust_version":"1.89"}
