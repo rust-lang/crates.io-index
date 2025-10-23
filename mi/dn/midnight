@@ -1,1 +1,2 @@
 {"name":"midnight","vers":"0.0.1","deps":[],"cksum":"8addc032f471b18099d863889c933fed8ddd0c9f6ce75f3f913bb66b8a36f82c","features":{},"yanked":false}
+{"name":"midnight","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.100","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mail-parser","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"570dc685e373a5d637dc55da50b6fc413ccc77169bdaba186d368384fa826bde","features":{},"yanked":false}
