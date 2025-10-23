@@ -1,1 +1,2 @@
 {"name":"vtcode-commons","vers":"0.30.7","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a72577d995bb93a85c0fd700403f256b80becfbc084967f28951f129c749f521","features":{"default":[]},"yanked":false}
+{"name":"vtcode-commons","vers":"0.31.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e33d4ba0514fd874c5da59f0a5a872bd635b56a9d874a5988ea20263571fdbee","features":{"default":[]},"yanked":false}
