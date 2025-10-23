@@ -4,4 +4,4 @@
 {"name":"pdk-metrics-lib","vers":"0.0.0-alpha.3","deps":[],"cksum":"cbfbab7c1f9055263f798fdb5b88469f26466a88c5083d3a4d174a159e7110e8","features":{},"yanked":true,"rust_version":"1.87.0"}
 {"name":"pdk-metrics-lib","vers":"0.0.0-alpha.5","deps":[],"cksum":"b5705adc82b84cff89892983026fa0238e5fd306be4552c0fa7612f5e41ef962","features":{},"yanked":true,"rust_version":"1.87.0"}
 {"name":"pdk-metrics-lib","vers":"0.0.0-alpha.6","deps":[],"cksum":"2a7fa2fd50d90dc8a27f2579281d9486e2efd5150bc7f34710d165feb854e507","features":{},"yanked":true,"rust_version":"1.87.0"}
-{"name":"pdk-metrics-lib","vers":"0.0.0-alpha.7","deps":[],"cksum":"4914801aa593fc153437c26bbf015aa2994e8e13ff86a5aeab2fb7713a7616e7","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"pdk-metrics-lib","vers":"0.0.0-alpha.7","deps":[],"cksum":"4914801aa593fc153437c26bbf015aa2994e8e13ff86a5aeab2fb7713a7616e7","features":{},"yanked":true,"rust_version":"1.87.0"}
