@@ -1,0 +1,1 @@
+{"name":"trezoa-program-memory","vers":"3.0.0","deps":[{"name":"trezoa-define-syscall","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"trezoa\")","kind":"normal"}],"cksum":"eafcbda03c7f1c7f46b61efc93c409f5b8576ed6e7bd19421f7537abc5abd342","features":{},"yanked":false}
