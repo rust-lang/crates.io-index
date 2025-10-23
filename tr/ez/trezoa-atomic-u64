@@ -1,0 +1,1 @@
+{"name":"trezoa-atomic-u64","vers":"3.0.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_pointer_width = \"64\"))","kind":"normal"}],"cksum":"d499ee208fe2abf6c17d63dc2918775a29fd3e804e5a976a0797412cbcb26a40","features":{},"yanked":false}
