@@ -1,0 +1,1 @@
+{"name":"mm3h","vers":"0.1.0","deps":[],"cksum":"755f76529ab6ab736337a2b8d41e76fe9301fef07766d6a68e9d6a9f8a242b21","features":{"avx":[],"default":["neon","avx","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.87.0"}
