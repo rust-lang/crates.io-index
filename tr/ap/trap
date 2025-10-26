@@ -1,1 +1,2 @@
 {"name":"trap","vers":"0.0.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b43ba2119d692284baae7170d641e765edd4679d648129a3e2f4de797e18b24d","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"trap","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edd87c095fa9bb31607838edcc57eb47af362764a242ecc40c51cfcd1cf88e69","features":{"nightly":[]},"yanked":false,"rust_version":"1.59"}
