@@ -1,0 +1,1 @@
+{"name":"pipecheck","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.163","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cd90a312d8884eae55c38d33e5ecaacf94fae7b0fdadb501bfd3f4708bf3f18","features":{},"yanked":false,"rust_version":"1.36.0"}
