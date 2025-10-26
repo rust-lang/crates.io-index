@@ -1,0 +1,1 @@
+{"name":"wifi_scan","vers":"0.5.1","deps":[{"name":"itertools","req":"0.14.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80c1216936e2892d91950edee12ff867f9a05a0e65a0e5a2f8cabd59cdbf104b","features":{},"yanked":false}
