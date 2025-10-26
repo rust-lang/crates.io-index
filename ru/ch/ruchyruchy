@@ -7,3 +7,4 @@
 {"name":"ruchyruchy","vers":"0.7.0","deps":[],"cksum":"e0bc9e44e58718ad775b519d8aca8f9f75c11bdcd9e9a7ce0bd3ac30a493a3af","features":{"bootstrap":[],"debugging":[],"default":[]},"yanked":false}
 {"name":"ruchyruchy","vers":"1.0.0","deps":[],"cksum":"9e459142e2e58fdc4f0fd8323fc2ad28584c47f8006689bf2bfb86ddaa103a51","features":{"bootstrap":[],"debugging":[],"default":[]},"yanked":false}
 {"name":"ruchyruchy","vers":"1.1.0","deps":[],"cksum":"7fd0ac8cc7d85d44e0306e3c177dd73225e4a589cbd03d568175a021c777abb5","features":{"bootstrap":[],"debugging":[],"default":["optimizations"],"optimizations":[]},"yanked":false}
+{"name":"ruchyruchy","vers":"1.2.0","deps":[],"cksum":"d49c3a4616c523412d3c9060c86e50da679c908c29913c788fcab9b688dd2b79","features":{"bootstrap":[],"debugging":[],"default":["optimizations"],"optimizations":[]},"yanked":false}
