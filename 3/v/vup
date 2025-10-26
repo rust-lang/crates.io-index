@@ -1,0 +1,1 @@
+{"name":"vup","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89788e7b8b6bdb065f521adbd772262e6cb178e8a734b886cf226ae602746361","features":{},"yanked":false}
