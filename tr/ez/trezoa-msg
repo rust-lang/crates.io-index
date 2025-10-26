@@ -1,0 +1,1 @@
+{"name":"trezoa-msg","vers":"3.0.0","deps":[{"name":"trezoa-define-syscall","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"trezoa\")","kind":"normal"}],"cksum":"40c4a7eb06f5114b99cf4b7c6c929174b9a992e00e386d08061a9d9a882a1be2","features":{"default":["std"],"std":[]},"yanked":false}
