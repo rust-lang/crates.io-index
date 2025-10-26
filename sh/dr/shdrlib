@@ -1,0 +1,1 @@
+{"name":"shdrlib","vers":"0.0.1","deps":[{"name":"naga","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wgpu","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abd3b5e99b79180f8357577f6ebd2fe1ffbc265e2ecb855dc0264d7188f2879","features":{},"yanked":false}
