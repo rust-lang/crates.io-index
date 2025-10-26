@@ -1,0 +1,1 @@
+{"name":"sourcespan","vers":"0.10.0","deps":[{"name":"serde","req":"^1.0.228","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f743992247285315f0760bf18c9810ccfac12fc5768636daaaac8d298ab205ee","features":{},"features2":{"default":["serde"],"serde":["dep:serde","serde/derive"]},"yanked":false,"v":2}
