@@ -1,1 +1,2 @@
 {"name":"astroxide","vers":"0.0.1","deps":[],"cksum":"a594ded6d2a7b73d963abc82ca9738dca041d864857cfbef97ef39e8476a1446","features":{},"yanked":false}
+{"name":"astroxide","vers":"0.0.2","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"293fd1a817ea2d288246e8986f9397790fe56635ad744284eed6719a0b267030","features":{},"yanked":false}
