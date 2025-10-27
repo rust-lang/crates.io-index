@@ -16,5 +16,5 @@
 {"name":"modbus-rtu","vers":"0.2.13","deps":[],"cksum":"dffe621234d07f9d5d92a2a5852f5c9e6392cbf32aba53609d1e42e049464224","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":true}
 {"name":"modbus-rtu","vers":"0.2.14","deps":[],"cksum":"600478057394d174091bb911124021ed861521b62310540af3caa1a2e3a2fa87","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":true}
 {"name":"modbus-rtu","vers":"0.2.15","deps":[],"cksum":"e5b80d0663cc2847bc367e7d89eacad4f479f1071b92987989b94443c10e46b8","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":true}
-{"name":"modbus-rtu","vers":"1.0.0","deps":[],"cksum":"dc86ef69bcbe48dab0a3099593d42cde0f0ba29e48de5e37fe0c20c7778a40bf","features":{"enforce_broadcast":[],"unlimited_packet_size":[]},"yanked":false}
+{"name":"modbus-rtu","vers":"1.0.0","deps":[],"cksum":"dc86ef69bcbe48dab0a3099593d42cde0f0ba29e48de5e37fe0c20c7778a40bf","features":{"enforce_broadcast":[],"unlimited_packet_size":[]},"yanked":true}
 {"name":"modbus-rtu","vers":"1.0.1","deps":[],"cksum":"e101988acef288fee13d6b6a0ecd7e481b725545fef4922999b6a7291cd76c87","features":{"enforce_broadcast":[],"unlimited_packet_size":[]},"yanked":false}
