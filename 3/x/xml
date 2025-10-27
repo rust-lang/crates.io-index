@@ -6,3 +6,4 @@
 {"name":"xml","vers":"1.0.0-rc.2","deps":[],"cksum":"afb5efa8ade92cf92d5d184d1ef9d1abfa0366f56a8bb1806782a83726724b1d","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"xml","vers":"1.0.0","deps":[],"cksum":"72e6e0a83ae73d886ab66fc2f82b598fbbb8f373357d5f2f9f783e50e4d06435","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"xml","vers":"1.0.1","deps":[],"cksum":"58a4274c410d957424a1502b21126915b45d9956b2f80a88d4f6f906af29facc","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"xml","vers":"1.1.0","deps":[],"cksum":"838dd679b10a4180431ce7c2caa6e5585a7c8f63154c19ae99345126572e80cc","features":{},"yanked":false,"rust_version":"1.71"}
