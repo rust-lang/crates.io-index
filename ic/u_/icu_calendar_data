@@ -7,3 +7,4 @@
 {"name":"icu_calendar_data","vers":"1.5.1","deps":[],"cksum":"820499e77e852162190608b4f444e7b4552619150eafc39a9e39333d9efae9e1","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_calendar_data","vers":"2.0.0","deps":[],"cksum":"7219c8639ab936713a87b571eed2bc2615aa9137e8af6eb221446ee5644acc18","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_calendar_data","vers":"2.1.0","deps":[],"cksum":"a5e28bac68c36104316001a16a5a0ce1822dda530e6ee2e30ca566013a62863c","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_calendar_data","vers":"2.1.1","deps":[],"cksum":"527f04223b17edfe0bd43baf14a0cb1b017830db65f3950dc00224860a9a446d","features":{},"yanked":false,"rust_version":"1.83"}
