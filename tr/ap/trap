@@ -4,3 +4,4 @@
 {"name":"trap","vers":"0.2.0","deps":[],"cksum":"833a944cb55a78e0c5ade86e0866eedcc236095d07a3da90a15ee3af953c9431","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"rust_version":"1.59"}
 {"name":"trap","vers":"0.2.1","deps":[],"cksum":"f44b9283d4fdb69f952eac4e573441f5913fcbed79432fc917b0d902202546e6","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"rust_version":"1.59"}
 {"name":"trap","vers":"0.2.2","deps":[],"cksum":"f44f159d1dd571c512e44bab61b9d65abfcd978bf807cec4e4c4349c6cd60f48","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"rust_version":"1.59"}
+{"name":"trap","vers":"0.2.3","deps":[],"cksum":"fed6df50798267d8d17de33f5e13028ec4514414a451d3df3c9549161a9c4751","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"rust_version":"1.59"}
