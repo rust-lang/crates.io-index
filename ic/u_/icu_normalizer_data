@@ -7,3 +7,4 @@
 {"name":"icu_normalizer_data","vers":"2.0.0-beta2","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3612f07b19be24caf69deef9d94473b6d2da9493a638c44735464a2dac0c4de6","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"icu_normalizer_data","vers":"1.5.1","deps":[],"cksum":"c5e8338228bdc8ab83303f16b797e177953730f601a96c25d10cb3ab0daa0cb7","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_normalizer_data","vers":"2.0.0","deps":[],"cksum":"00210d6893afc98edb752b664b8890f0ef174c8adbb8d0be9710fa66fbbf72d3","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"icu_normalizer_data","vers":"2.1.0","deps":[],"cksum":"d6ce2d23e1b3c45624ba6a23e2c767e01c9680e0c0800b39c7abfff9565175d8","features":{},"yanked":false,"rust_version":"1.83"}
