@@ -9,3 +9,4 @@
 {"name":"icu_decimal_data","vers":"1.5.1","deps":[],"cksum":"67c95dd97f5ccf6d837a9c115496ec7d36646fa86ca18e7f1412115b4c820ae2","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_decimal_data","vers":"2.0.0","deps":[],"cksum":"b70963bc35f9bdf1bc66a5c1f458f4991c1dc71760e00fa06016b2c76b2738d5","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_decimal_data","vers":"2.1.0","deps":[],"cksum":"3924130264230c8bf44fae08b73841eca3418fc14bfbcfce9f14a73c3c675d81","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_decimal_data","vers":"2.1.1","deps":[],"cksum":"2905b4044eab2dd848fe84199f9195567b63ab3a93094711501363f63546fef7","features":{},"yanked":false,"rust_version":"1.83"}
