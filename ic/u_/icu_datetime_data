@@ -10,3 +10,4 @@
 {"name":"icu_datetime_data","vers":"2.0.0","deps":[],"cksum":"912bc514198cb8ff16dc393e42b7e52cd281de4eaba79ad3a512549f22111b1b","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_datetime_data","vers":"2.0.1","deps":[],"cksum":"83791ac10bb7b774f130bb81fa89c4059de710dcef53caa0b86e645212d6d54c","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_datetime_data","vers":"2.1.0","deps":[],"cksum":"709a265ed3c1763312699b58a0d37de5cb0cfd24a10cca10fcbfd2e03ed78b07","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_datetime_data","vers":"2.1.1","deps":[],"cksum":"0bf2a384725c67fcd32d27737bc7ba9dc5fe21311dfe3ba530f4b4d53e72bacc","features":{},"yanked":false,"rust_version":"1.83"}
