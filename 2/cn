@@ -1,1 +1,2 @@
 {"name":"cn","vers":"0.0.0-dev","deps":[{"name":"winit","req":"^0.30","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ba68d77217c4a7c22bd18034b420cb4a6044cec6f276eb09d6f0daf5c9c44e87","features":{},"yanked":false}
+{"name":"cn","vers":"0.0.1-dev","deps":[{"name":"winit","req":"^0.30","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9a9c854d426c71ec3059b95d1f8ee2100ad4f98465800de37966f3a0be689cf2","features":{},"yanked":false}
