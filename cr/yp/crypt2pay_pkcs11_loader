@@ -1,0 +1,1 @@
+{"name":"crypt2pay_pkcs11_loader","vers":"5.11.0","deps":[{"name":"cosmian_kms_base_hsm","req":"^5.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea3974b1f2fa6e46780c53ae5037a45e11d3111ed386290dfd4c5cafd53fe549","features":{"crypt2pay":[]},"yanked":false,"rust_version":"1.87.0"}
