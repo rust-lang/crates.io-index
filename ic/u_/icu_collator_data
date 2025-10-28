@@ -8,3 +8,4 @@
 {"name":"icu_collator_data","vers":"1.5.1","deps":[],"cksum":"7b353986d77d28991eca4dea5ef2b8982f639342ae19ca81edc44f048bc38ebb","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_collator_data","vers":"2.0.0","deps":[],"cksum":"d880b8e680799eabd90c054e1b95526cd48db16c95269f3c89fb3117e1ac92c5","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_collator_data","vers":"2.1.0","deps":[],"cksum":"e3e5fc4d9bb6cc1eac8eca009e2489ddf0d377afe34d002aa65df95cc5b2d1f5","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_collator_data","vers":"2.1.1","deps":[],"cksum":"5ab06f0e83a613efddba3e4913e00e43ed4001fae651cb7d40fc7e66b83b6fb9","features":{},"yanked":false,"rust_version":"1.83"}
