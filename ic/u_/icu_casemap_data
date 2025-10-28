@@ -7,3 +7,4 @@
 {"name":"icu_casemap_data","vers":"1.5.1","deps":[],"cksum":"02bd9f6276270c85a5cd54611adbbf94e993ec464a2a86a452a6c565b7ded5d9","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_casemap_data","vers":"2.0.0","deps":[],"cksum":"f7584067558ab4c60c95d1ac2abd1588689cb4bcd4e099507f62dae86ae8d2c0","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"icu_casemap_data","vers":"2.1.0","deps":[],"cksum":"5257c318cd124086c62b8b2b570c7a37235d2e8d38b8ff9476ff8a8be6702dd1","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_casemap_data","vers":"2.1.1","deps":[],"cksum":"98d4663d0f99b301033a19e0acf94e9d2fa4b107638580165e5a6ccc49ad1450","features":{},"yanked":false,"rust_version":"1.83"}
