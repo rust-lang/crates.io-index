@@ -1,0 +1,1 @@
+{"name":"async-tw-econ","vers":"0.7.0","deps":[{"name":"tokio","req":"^1.41.0","features":["time","net","io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d811833b80fecf3632eb85369c99e7ac243ba55c8c215046dd59f0985656d64a","features":{},"yanked":false}
