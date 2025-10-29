@@ -1,2 +1,3 @@
 {"name":"nanoneo","vers":"0.2.0","deps":[],"cksum":"9e1495d19c5bed5372c613d7b4a38e8093b357f4405ce38ba1de2d6586e5c892","features":{},"yanked":false}
 {"name":"nanoneo","vers":"0.3.0","deps":[],"cksum":"ecb557bbe4b2150f00bc90b07b86f90dcfdf5417436d7f6a9be4d049ce3110f7","features":{},"yanked":false}
+{"name":"nanoneo","vers":"0.4.0","deps":[{"name":"bincode","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a992448f8c9157ff9c988012770acfc066f10440fe2dab1be0f272c6baa70358","features":{},"yanked":false}
