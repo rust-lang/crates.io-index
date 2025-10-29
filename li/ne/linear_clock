@@ -1,1 +1,2 @@
 {"name":"linear_clock","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdcb1d3acc580e0388570e79687e344bcfb6b29c3935b4f1970e4d7133921439","features":{},"yanked":false}
+{"name":"linear_clock","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d574890a91d6b2a9b1c8fea0f9995789dc19fb03a34ffa9412e8309f4a2af6f9","features":{},"yanked":false}
