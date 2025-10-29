@@ -14,3 +14,4 @@
 {"name":"hex-literal","vers":"0.4.0","deps":[],"cksum":"4bcb5b3e439c92a7191df2f9bbe733de8de55c3f86368cdb1c63f8be7e9e328e","features":{},"yanked":false,"rust_version":"1.57"}
 {"name":"hex-literal","vers":"0.4.1","deps":[],"cksum":"6fe2267d4ed49bc07b63801559be28c718ea06c4738b7a03c94df7386d2cde46","features":{},"yanked":false,"rust_version":"1.57"}
 {"name":"hex-literal","vers":"1.0.0","deps":[],"cksum":"bcaaec4551594c969335c98c903c1397853d4198408ea609190f420500f6be71","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"hex-literal","vers":"1.1.0","deps":[],"cksum":"e712f64ec3850b98572bffac52e2c6f282b29fe6c5fa6d42334b30be438d95c1","features":{},"yanked":false,"rust_version":"1.85"}
