@@ -31,3 +31,4 @@
 {"name":"algorist","vers":"0.9.1","deps":[],"cksum":"40a1497e0917fd6301059b5eac69646bf14a7a56a1f1c7d01e724e2dbab3af3a","features":{},"yanked":false}
 {"name":"algorist","vers":"0.10.0","deps":[],"cksum":"fbb2d356898489ffbd0c7d71af48bd0ed9b7df8efdae4fbb1b5f9b77502960bb","features":{},"yanked":false}
 {"name":"algorist","vers":"0.10.1","deps":[],"cksum":"7a752e3cf9b9b069c79553211d81a9fc1523c5caa4d5f4dd107a268acb4e98fd","features":{},"yanked":false}
+{"name":"algorist","vers":"0.10.2","deps":[],"cksum":"8f4b2be52312b64f5ec6f1760efa6c5f0909b79897d0661f7a64f537b44d92e9","features":{},"yanked":false,"rust_version":"1.75.0"}
