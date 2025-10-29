@@ -1,1 +1,1 @@
-{"name":"lsplt-sys","vers":"2.1.1","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c90b5feeb8e963877c2bd0693e313b61be89515f27076fa827d150e135b3c5f5","features":{},"yanked":false}
+{"name":"lsplt-sys","vers":"2.1.1","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c90b5feeb8e963877c2bd0693e313b61be89515f27076fa827d150e135b3c5f5","features":{},"yanked":true}
