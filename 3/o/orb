@@ -1,1 +1,2 @@
 {"name":"orb","vers":"0.0.1","deps":[],"cksum":"a10adaf23ce73257a55e60d4aa1955707c5d610823659a4095a4ad72841a8db6","features":{},"yanked":false}
+{"name":"orb","vers":"0.1.0","deps":[{"name":"futures-lite","req":"^2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pin-project-lite","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ff0add5687854fe12255aba6a2c781164daba21d020d14edc098769b31b5392","features":{},"yanked":false}
