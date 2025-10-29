@@ -15,3 +15,4 @@
 {"name":"calcucalc","vers":"0.1.14","deps":[],"cksum":"841cd1b8f8500cd8c71a0485e3bfa9ce89d9c7fcb8bb148fbd9fe733ea46c605","features":{},"yanked":false}
 {"name":"calcucalc","vers":"0.1.15","deps":[],"cksum":"07f9e7c62a305cde041f92525473497ed77ff8e0e1105cd9e5e0c6720f2b553b","features":{},"yanked":false}
 {"name":"calcucalc","vers":"0.1.16","deps":[],"cksum":"68c718d6b87eaf237fa7b78913747e50af20502353c06eb931248ed74d894ada","features":{},"yanked":false}
+{"name":"calcucalc","vers":"0.1.17","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"999240a3d852ae98386e5feddf2e6dc03d05e1cf4de34d533b0c2a2bc84be1a3","features":{},"yanked":false}
