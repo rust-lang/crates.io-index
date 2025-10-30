@@ -1,0 +1,1 @@
+{"name":"epcgen","vers":"0.1.0","deps":[{"name":"image","req":"^0.25.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"qrcode","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4c623b8faed2d7b749622a790e753690487be810397a2e2b6980f97d039fa0c3","features":{},"yanked":false}
