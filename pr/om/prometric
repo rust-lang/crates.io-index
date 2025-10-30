@@ -1,1 +1,2 @@
 {"name":"prometric","vers":"0.1.0","deps":[{"name":"prometheus","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f715407af471ce4efc347f703a8ce8c7a184fab20878340229b40da37ace7979","features":{},"yanked":false}
+{"name":"prometric","vers":"0.1.1","deps":[{"name":"prometheus","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82951c7eccbb14d475e75c85b060a6e3208801196b0a024ebbc2ae27425d12c1","features":{},"yanked":false}
