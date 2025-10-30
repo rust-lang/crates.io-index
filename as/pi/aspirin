@@ -1,0 +1,1 @@
+{"name":"aspirin","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c1311c4389007cb56724db9ea9c197616e5001d8a469bb70b7906b1f0c29673","features":{},"yanked":false}
