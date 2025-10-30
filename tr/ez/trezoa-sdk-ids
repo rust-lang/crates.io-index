@@ -1,1 +1,2 @@
 {"name":"trezoa-sdk-ids","vers":"3.0.0","deps":[{"name":"trezoa-pubkey","req":"^3.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5a5bc183bcb4b430cbd00ca81e0b2184f0d72da3c65bd637ff633674f8b3d1a2","features":{},"yanked":false}
+{"name":"trezoa-sdk-ids","vers":"3.1.1","deps":[{"name":"trezoa-pubkey","req":"^3.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2d91ca30b0979c78d86aae086794d10257a07ea197a3f6e10750b1bf4870e167","features":{},"yanked":false}
