@@ -11,3 +11,4 @@
 {"name":"jotdown","vers":"0.7.0","deps":[],"cksum":"5afa77b05ee2811a1c1f4d6b7dce44b65bad966c81072e55ea604d084ad4162b","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"jotdown","vers":"0.8.0","deps":[],"cksum":"c519aad5c5d1057c0c5e71370c6c61ec997af47597d66c4bd7c3dbd5543aef65","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"jotdown","vers":"0.8.1","deps":[],"cksum":"824098f6c7b5b1e8061c22fe336547033ccb716265f5fa0ece623287aced0eb9","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.9.0","deps":[],"cksum":"261a6388e6a4f62b2aaa64221ee8673a56d27acb6926d0ca98dec1f0feb330f8","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
