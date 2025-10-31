@@ -1,0 +1,1 @@
+{"name":"krow","vers":"0.1.0-alpha.1","deps":[{"name":"blake3","req":"^1.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"78ec831f1e2725c869bbf7eafb1180051bcf6fe7c6ae37cb0e58b51a02a9553c","features":{},"yanked":false}
