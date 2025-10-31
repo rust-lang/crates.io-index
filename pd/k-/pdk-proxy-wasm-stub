@@ -6,3 +6,4 @@
 {"name":"pdk-proxy-wasm-stub","vers":"0.0.0-alpha.6","deps":[],"cksum":"fbd4a2ff23f0adb647102a379020b99e110f63f2fba1690424a33e93721cf3a2","features":{},"yanked":true,"rust_version":"1.87.0"}
 {"name":"pdk-proxy-wasm-stub","vers":"0.0.0-alpha.7","deps":[],"cksum":"0247dc33763bc8db763c493b511e99941b55d86fd0c710d6a9816fb8f95095cb","features":{},"yanked":true,"rust_version":"1.87.0"}
 {"name":"pdk-proxy-wasm-stub","vers":"1.6.0-rc.0","deps":[],"cksum":"e91e3f113813fd18b87462f328452f31c894708396157b79cd09d758f5158d28","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"pdk-proxy-wasm-stub","vers":"1.6.0-rc.1","deps":[],"cksum":"f0dd7a2ef0c78470845f1f9b5d3ad9a347456910079fb1d269769963634c8546","features":{},"yanked":false,"rust_version":"1.88.0"}
