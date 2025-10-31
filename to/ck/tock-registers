@@ -10,3 +10,4 @@
 {"name":"tock-registers","vers":"0.8.1","deps":[],"cksum":"696941a0aee7e276a165a978b37918fd5d22c55c3d6bda197813070ca9c0f21c","features":{"default":["register_types"],"register_types":[]},"yanked":false}
 {"name":"tock-registers","vers":"0.9.0","deps":[],"cksum":"2b9e2fdb3a1e862c0661768b7ed25390811df1947a8acbfbefe09b47078d93c4","features":{"default":["register_types"],"register_types":[]},"yanked":false}
 {"name":"tock-registers","vers":"0.10.0","deps":[],"cksum":"b0293f99756f16ff352cc78c99673766a305bdb5ed7652e78df649e9967c885a","features":{"default":["register_types"],"register_types":[]},"yanked":false}
+{"name":"tock-registers","vers":"0.10.1","deps":[],"cksum":"8d2d250f87fb3fb6f225c907cf54381509f47b40b74b1d1f12d2dccbc915bdfe","features":{"default":["register_types"],"register_types":[]},"yanked":false}
