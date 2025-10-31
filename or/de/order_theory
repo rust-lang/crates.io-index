@@ -3,3 +3,4 @@
 {"name":"order_theory","vers":"0.1.2","deps":[],"cksum":"fc1f891963888e63c6ce1699365269a15e2f0b05173a48c80f899200f3eaa975","features":{},"yanked":false}
 {"name":"order_theory","vers":"0.1.3","deps":[],"cksum":"e4a1b8402a65158eeecfd8aecc6e3a65c54ee99e61a93ffd55cc4e82a7e925b5","features":{},"yanked":false}
 {"name":"order_theory","vers":"0.1.4","deps":[{"name":"arbitrary","req":"^1.0.2","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"169a1cead2892db770e7ed88c1ea4c6888cb4c5c92102c59e7b8b6707e51eef8","features":{},"features2":{"dev":["dep:arbitrary"]},"yanked":false,"v":2}
+{"name":"order_theory","vers":"0.1.5","deps":[{"name":"arbitrary","req":"^1.0.2","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3884acafd4767db648c451004a192397f642e5dd6174092f0e9f8338ef05d68a","features":{},"features2":{"dev":["dep:arbitrary"]},"yanked":false,"v":2}
