@@ -4,3 +4,4 @@
 {"name":"core-json-derive","vers":"0.2.0","deps":[{"name":"core-json-traits","req":"^0.2","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3ae5a99977f793cac10e4b00f9fe9053452defbf32bff21d294ffa6088f74d8","features":{},"yanked":false,"rust_version":"1.79"}
 {"name":"core-json-derive","vers":"0.3.0","deps":[{"name":"core-json-traits","req":"^0.2","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dfffbd5de3bf8beed67dfb33fe61d8a4d368df86f8566da8d2dd6cd9f7d659d7","features":{},"yanked":false,"rust_version":"1.79"}
 {"name":"core-json-derive","vers":"0.4.0","deps":[],"cksum":"3c8534451b827926a1398df655db65e0fa9ec4a14fdc8d6b3a35bf43284bee5a","features":{},"yanked":false,"rust_version":"1.79"}
+{"name":"core-json-derive","vers":"0.4.1","deps":[],"cksum":"b0b4af06d7694a201acc0f99c54d29f89943c7a6ff32a50ee12925cc299cd1d1","features":{},"yanked":false,"rust_version":"1.79"}
