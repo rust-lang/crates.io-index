@@ -1,1 +1,2 @@
 {"name":"apalis-board-types","vers":"1.0.0-alpha.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77caa8ed4af6253d39210949997d4f8b946e18c462dba20d9fa80879f4abb712","features":{},"yanked":false}
+{"name":"apalis-board-types","vers":"1.0.0-alpha.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7f38da5b89cc2a731a5a51d3216a689459ee54f0b0a37bd21cb255b8076bb74","features":{},"yanked":false}
