@@ -1,1 +1,2 @@
 {"name":"rinance_dtos","vers":"0.1.0","deps":[],"cksum":"dcb09b0d883610989f43b2d226823520b0f3acd3d155a77020bcbef387de1c7b","features":{},"yanked":false}
+{"name":"rinance_dtos","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.145","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd88610b138f0432f8e1f5d6b2996d539abda54cac416aeb8ed6fe098df2cc2c","features":{},"yanked":false}
