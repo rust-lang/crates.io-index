@@ -1,0 +1,1 @@
+{"name":"xatlas-rs-v2","vers":"0.1.4","deps":[{"name":"bindgen","req":"^0.68.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a73bda6879c73276122710665149684a72dc073ee37b146495fa77e2e154146a","features":{},"yanked":false}
