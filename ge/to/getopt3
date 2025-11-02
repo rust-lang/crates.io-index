@@ -38,3 +38,4 @@
 {"name":"getopt3","vers":"2.6.0-beta.6","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"d85948c1b375359f269d2d32937a819af428168a3fe7ba64944374847b5c42f9","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"getopt3","vers":"2.6.0-beta.7","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"cfb8b59cfb6c7e3bb0d51ecad5040e8181cb3b6e3e51a72e9529ce311deca363","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"getopt3","vers":"2.6.0-beta.8","deps":[],"cksum":"fe157ba1fb738afd2e3362d5b5a26f171c642320cf34f2e8d05ee0505a17c9a8","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"getopt3","vers":"2.6.0-beta.9","deps":[],"cksum":"1d2db7f60071c2b82fe08118be301528c53f336b4c957501f6d95007164ae986","features":{},"yanked":false,"rust_version":"1.56.0"}
