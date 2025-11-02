@@ -1,0 +1,1 @@
+{"name":"win-utf8-rs","vers":"0.1.0","deps":[{"name":"windows","req":"^0.62.1","features":["Win32_System_Console"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"bb13cbb6544f610db723d7c5018737f936eac79142a187a8bbb24f1dd15c7cdd","features":{},"yanked":false}
