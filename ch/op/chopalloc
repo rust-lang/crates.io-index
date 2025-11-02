@@ -1,0 +1,1 @@
+{"name":"chopalloc","vers":"1.0.0","deps":[{"name":"lock_api","req":"^0.4.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3c09b3938ed15d14ed92f74c2b2de520530ac044445a9697b1decbaab852d4a","features":{"bitmap":[],"default":["bitmap"]},"yanked":false}
