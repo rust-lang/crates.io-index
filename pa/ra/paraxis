@@ -1,2 +1,3 @@
 {"name":"paraxis","vers":"0.0.1","deps":[],"cksum":"00f46c7ade49d6886fe0bb23fada68d895c1383e98b6cf8a6a28a9d87c1e8d68","features":{},"yanked":false}
 {"name":"paraxis","vers":"0.1.0","deps":[],"cksum":"7902a62e122515eeb4f8ed5ee86632c898233bc77b115e19593b66c8c50d773d","features":{},"yanked":false}
+{"name":"paraxis","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8fd58925f7dc23e58e3cdd2f64948a6bc1890e0dc8b5e051caf6bbd4a6f089e","features":{},"yanked":false}
