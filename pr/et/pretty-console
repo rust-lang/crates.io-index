@@ -1,0 +1,1 @@
+{"name":"pretty-console","vers":"1.0.0","deps":[{"name":"insta","req":"^1.43.2","features":["yaml","glob"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"82f205a8f5487913027814666632b3e17ea769294095654fef268b10d2a0e88c","features":{"no-color":[]},"yanked":false}
