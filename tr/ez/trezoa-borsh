@@ -1,0 +1,1 @@
+{"name":"trezoa-borsh","vers":"3.1.1","deps":[{"name":"borsh","req":"^1.5.5","features":["derive","unstable__schema"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7de503423e4f7913af7ffd71dabe4279b51d42d202080a41dc2d2f92d04f3b88","features":{},"yanked":false}
