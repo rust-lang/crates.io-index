@@ -1,3 +1,4 @@
 {"name":"simple_term_attr","vers":"0.1.0","deps":[],"cksum":"5cd8ff7c0e9f82ef20169539584b1afe197b56db7cb183e3fd539d775c780615","features":{},"yanked":false}
 {"name":"simple_term_attr","vers":"0.1.1","deps":[],"cksum":"50ae1aa2515755a51d215a960e9d386ed40da2cd6bd2df13be6db61deff0c782","features":{},"yanked":false}
 {"name":"simple_term_attr","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2.177","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6d41bb6a347f7a231f65000b2888e7facfd68d35f13a3cfd069ce8bcc2acbaa","features":{},"yanked":false}
+{"name":"simple_term_attr","vers":"0.2.2","deps":[{"name":"libc","req":"^0.2.177","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1351d798aa2d7b0ff0a6e87bebf64e43383fafdae6794acfbf0d6a33bba71a72","features":{},"yanked":false}
