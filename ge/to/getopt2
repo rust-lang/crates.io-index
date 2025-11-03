@@ -1,1 +1,2 @@
 {"name":"getopt2","vers":"0.1.0-alpha.1","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"da787cd75d1cf1632280aa1706030ad634b7e46aacfa8bb4dfefa31d4cd7e4ff","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"getopt2","vers":"0.1.0-alpha.2","deps":[],"cksum":"4a30a13d6a32c9db27d65ff8ca473b4228ef36ff0e869561b5751a047638f68f","features":{},"yanked":false,"rust_version":"1.56.0"}
