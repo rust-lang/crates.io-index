@@ -8,3 +8,4 @@
 {"name":"ps-promise","vers":"0.1.0-8","deps":[],"cksum":"90fbabd9624c21e83bba7be600a553c0aad3ac4ebfbd00b96dfcb359b481253a","features":{},"yanked":false}
 {"name":"ps-promise","vers":"0.1.0-9","deps":[],"cksum":"5d1d6a90e6b743590634fb4dcf63ce3384e44bedb817c20df2b10139780a57f5","features":{},"yanked":false}
 {"name":"ps-promise","vers":"0.1.0-10","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"722dcc868a69f0f040d840acf976540f8f256595bc3d192c4a4788531110eff6","features":{},"yanked":false}
+{"name":"ps-promise","vers":"0.1.0-11","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66986f91d0ae0ca9598d849bc3cd2eb297b3c458b7d8f6a9ea8750491c6efbd0","features":{},"yanked":false}
