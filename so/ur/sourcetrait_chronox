@@ -1,0 +1,1 @@
+{"name":"sourcetrait_chronox","vers":"1.0.1","deps":[{"name":"chrono","req":"^0.4","features":["alloc","std","clock","now"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c662c39d805cab363ef3bbbfa16990c7adaa34c3f1f425de1e34262964eee6e4","features":{},"yanked":false}
