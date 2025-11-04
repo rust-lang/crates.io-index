@@ -4,3 +4,4 @@
 {"name":"shiguredo_mp4","vers":"2024.4.0","deps":[],"cksum":"dcf4f0930981f4cbd245d45fe7f3159ee71a66fe3027fc0f4615f6f7b55d9fcd","features":{},"yanked":false}
 {"name":"shiguredo_mp4","vers":"2025.1.0","deps":[],"cksum":"d74bd04dc827a7f96d11d77dc432d92666198bb813ab8db477e869539b5b7ccb","features":{},"yanked":false}
 {"name":"shiguredo_mp4","vers":"2025.2.0","deps":[],"cksum":"531b351cb6aa06e9e8ea5d55367ee1b634120f0d430f65e5a10ab135e151b164","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"shiguredo_mp4","vers":"2025.3.0-canary.2","deps":[],"cksum":"141cd5ad8249d13386f60fda5215cd46203d91e80616b7283d8bc770a36b1012","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88"}
