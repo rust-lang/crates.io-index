@@ -1,1 +1,2 @@
 {"name":"cepheid","vers":"0.1.0","deps":[],"cksum":"7775516d8a585ce9b97d8a517052f7c111fba23b4646bd196bbf7d3aee73988b","features":{},"yanked":false}
+{"name":"cepheid","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3308dd0cbee8cd847171637e9dbc3a46bf3c8529c8a7c17e311cd9d9421b99f8","features":{},"yanked":false}
