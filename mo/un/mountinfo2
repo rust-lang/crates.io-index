@@ -1,0 +1,1 @@
+{"name":"mountinfo2","vers":"0.2.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"077fc9a25f146378d6eda8e7480b244fa1070b3892cb8b173c1fbca213b9983a","features":{},"yanked":false}
