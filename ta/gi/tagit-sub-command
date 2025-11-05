@@ -1,0 +1,1 @@
+{"name":"tagit-sub-command","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1008701880f29ed36b6fa1feb2e92ed71b31513e6719b841263d15a1e7741be0","features":{},"yanked":false,"rust_version":"1.90"}
