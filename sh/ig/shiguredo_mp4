@@ -6,3 +6,4 @@
 {"name":"shiguredo_mp4","vers":"2025.2.0","deps":[],"cksum":"531b351cb6aa06e9e8ea5d55367ee1b634120f0d430f65e5a10ab135e151b164","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"shiguredo_mp4","vers":"2025.3.0-canary.2","deps":[],"cksum":"141cd5ad8249d13386f60fda5215cd46203d91e80616b7283d8bc770a36b1012","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88"}
 {"name":"shiguredo_mp4","vers":"2025.3.0-canary.3","deps":[],"cksum":"afb464048f275f6c38b2add459608defe4c6149fb568be236fdb4a9698666088","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88"}
+{"name":"shiguredo_mp4","vers":"2025.3.0-canary.4","deps":[],"cksum":"1317fbf1d0e0db4729bf12cc9bc05809c42c7d9791847daa16b87fb5fba7ba93","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88"}
