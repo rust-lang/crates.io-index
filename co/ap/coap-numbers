@@ -9,3 +9,4 @@
 {"name":"coap-numbers","vers":"0.2.5","deps":[],"cksum":"60eaa05d595b25bfc6f42c7115435edb525ce084cd17603368d18f1d5c42ec4a","features":{"alloc":[],"nightly_docs":[]},"yanked":false}
 {"name":"coap-numbers","vers":"0.2.6","deps":[],"cksum":"f5bccda93e70cc89c052201bcb09b0b338b7782bc8a336f68c0c37f32a19de4f","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51"}
 {"name":"coap-numbers","vers":"0.2.7","deps":[],"cksum":"62940de3d016deb4c2e8bf5062435d69eba7f2c64b35537de4c56586db52231c","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"coap-numbers","vers":"0.2.8","deps":[],"cksum":"46b16e7664cd0c1bb97bd3a3e1c10626862919158fc9f5ba141786d00c8739e5","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51"}
