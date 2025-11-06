@@ -1,0 +1,1 @@
+{"name":"pinocchio-ed25519-instruction","vers":"0.1.2","deps":[{"name":"pinocchio","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01157cc9ffaa6786ef47a14eb186ac891b7f162d03178519271d19c1380816a2","features":{"default":["perf"],"perf":[]},"yanked":false}
