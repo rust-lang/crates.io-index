@@ -1,1 +1,2 @@
 {"name":"chomchom","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3488ccae0ff03bfca310fd9a71eb9b5d594539967b75074ad9b413096b0eeae5","features":{},"yanked":false}
+{"name":"chomchom","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be9debe9673e5576d4896e88e944495908b1205edf327d2aaf99034d47c95b8","features":{},"yanked":false}
