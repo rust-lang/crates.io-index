@@ -1,0 +1,1 @@
+{"name":"hanzo_tools_runner","vers":"1.0.0","deps":[{"name":"shinkai_tools_runner","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa913a2613ab1e19d3098afbdbc1f65b102ad494b2d0c0ba371f48a4a8ade762","features":{"built-in-tools":["shinkai_tools_runner/built-in-tools"],"default":[]},"yanked":false}
