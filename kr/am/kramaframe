@@ -6,3 +6,4 @@
 {"name":"kramaframe","vers":"0.1.5","deps":[],"cksum":"83c799ec88df744f8c9cab762cce1576eb5b7ba72f2825c2c936f1fe0c309669","features":{},"yanked":true}
 {"name":"kramaframe","vers":"0.1.6","deps":[],"cksum":"87220fe5bc3cba601707c0e9aff92e51b32acdf5e8830d493421c013cfeb779d","features":{},"yanked":false}
 {"name":"kramaframe","vers":"0.1.7","deps":[],"cksum":"82f02a6afcdb22fdbeff3ba5548ee9c8c9b6c8bca0d7b2025e7f45cc1248bd46","features":{},"yanked":false}
+{"name":"kramaframe","vers":"0.1.8","deps":[{"name":"cand","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d238831540b616606cf091eed1fc8ff5a49bdf54e80a36b06e0394359fcf51f8","features":{"default":[]},"yanked":false}
