@@ -17,3 +17,4 @@
 {"name":"imxrt-iomuxc","vers":"0.2.9","deps":[],"cksum":"78b4a563b99861f792f7b29b94d00d07e1e5576d71c097f1c948fc3521157371","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
 {"name":"imxrt-iomuxc","vers":"0.2.10","deps":[],"cksum":"074cb47c36b343ad554356e74ceb9bd26bb91dd39340bee075ed85f56dfe207b","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
 {"name":"imxrt-iomuxc","vers":"0.3.1","deps":[],"cksum":"124509ca4c5b3ab6fb6ebee9cb7dc7155ce6d71a29fd4d2b73e6a60c0d94b662","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[],"imxrt1180":[]},"yanked":false}
+{"name":"imxrt-iomuxc","vers":"0.2.11","deps":[],"cksum":"c8bbc7e0fed072ce8590b40cb2c611cedb99c2ce39714d0b3847ee4729acfb09","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
