@@ -1,1 +1,2 @@
 {"name":"deref","vers":"0.1.0","deps":[{"name":"deref-derives","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c23a55c1b77a860d208b9a8fdc35cbef0d9b53bff7a2512f566974b990f12e","features":{},"yanked":false}
+{"name":"deref","vers":"0.1.1","deps":[{"name":"deref-derives","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"385f80a98bdd94ba5aecfaf23f9ccdf11328b9391efb87cd778cbf189c1934e7","features":{},"yanked":false}
