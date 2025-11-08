@@ -1,0 +1,1 @@
+{"name":"precise_rate_limiter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e997871b74ba34e20c0bd8c2f247b03947edea2b35bbcb765a4842fa91adace","features":{},"yanked":false}
