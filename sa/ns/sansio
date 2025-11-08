@@ -3,3 +3,4 @@
 {"name":"sansio","vers":"0.0.2","deps":[],"cksum":"90e12c6f3e1fdda139b56164d743377e15091c445ec12516b1cf6924652e74c6","features":{},"yanked":false}
 {"name":"sansio","vers":"0.0.3","deps":[],"cksum":"e62d97718524a7757e06f4765253658eba665449197eb2818ee4df2b5ce4a181","features":{},"yanked":false}
 {"name":"sansio","vers":"0.0.4","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47f737cfa4148c5f9b590621c5cd20e6a0162050ba7579ace841eb6a06410651","features":{},"yanked":false}
+{"name":"sansio","vers":"0.0.5","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7d06599cac1cf5d05e87ca092c627a3205002791ebc83cb7caf5cad37951630","features":{},"yanked":false}
