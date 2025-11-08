@@ -1,0 +1,1 @@
+{"name":"rialo-atomic-u64","vers":"0.0.1","deps":[{"name":"parking_lot","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_pointer_width = \"64\"))","kind":"normal"}],"cksum":"c9dfabc61dbbcc63c23e53e0ede16ce6e13e4ce8ad359575f28610a908c342e9","features":{},"yanked":false}
