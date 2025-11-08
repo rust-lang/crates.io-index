@@ -1,1 +1,2 @@
 {"name":"beaumont","vers":"0.1.0","deps":[],"cksum":"574ac9d817ccf752085067d3151b82e3c984b41c97451c266c75adbe632a49dd","features":{},"yanked":false}
+{"name":"beaumont","vers":"0.1.1","deps":[{"name":"beaumont-numbers","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cce73ff47f23073cc93cebcab7b475d8bcef4c4fdb1ee9a0473d6f1d8c737f0f","features":{},"yanked":false}
