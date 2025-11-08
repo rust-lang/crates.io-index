@@ -1,1 +1,2 @@
 {"name":"better_collect","vers":"0.1.0","deps":[],"cksum":"a3e5f2b386ae1e738a018f16446940b47f9f9164010083269b1fe42c1f11a800","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"better_collect","vers":"0.1.1","deps":[],"cksum":"5c090c938ce6b5cff423f6ea0dfa7103f8f8d3c8bcab1d90793cc7305a7414fa","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
