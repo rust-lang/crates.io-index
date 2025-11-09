@@ -3,3 +3,4 @@
 {"name":"touchstone","vers":"0.1.0","deps":[],"cksum":"c3f1d57dfc81c80db760c955a0bfec96a1ccef71f15a535f68c3aaa9db8147ba","features":{},"yanked":false}
 {"name":"touchstone","vers":"0.2.0","deps":[],"cksum":"d749ce71b8d1078467ac77a3156506bf7735f73a6fbd97135a74a9babea9438a","features":{},"yanked":false}
 {"name":"touchstone","vers":"0.3.1","deps":[{"name":"rfconversions","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfc2eac8960e4164b97a69597fbf208baa968bff387887991ddb145cfc1bbdcf","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.4.0","deps":[{"name":"rfconversions","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fd2bff3811cf1d5d89ae0f5a347972c43cb1a3e45265b4569a993ab0a6cc4f7","features":{},"yanked":false}
