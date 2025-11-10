@@ -1,3 +1,4 @@
 {"name":"logcast","vers":"0.1.0","deps":[],"cksum":"97567d7d731c21192093c0cf3c39515b9600a7c4750768b9bfade28c5b5832e8","features":{},"yanked":false}
 {"name":"logcast","vers":"0.1.1","deps":[],"cksum":"8c52fbb669e9f626c35021ed98dbf73c6be1f7a1ef34d08a9b933077193d676c","features":{},"yanked":false}
 {"name":"logcast","vers":"0.1.2","deps":[],"cksum":"0ce37be16cea85eb2f1456dd30b44edcf5493154fd68fc3530fa813c07ba1a6f","features":{},"yanked":false}
+{"name":"logcast","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4","features":["clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30c02aa81f4f9c622c361b2ca74c30911f4ad19d47d35b15bcc406bb594e748f","features":{},"yanked":false}
