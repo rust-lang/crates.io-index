@@ -1,1 +1,2 @@
 {"name":"dff-meta","vers":"0.1.0","deps":[{"name":"id3","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a79fac72af7934a52405fdc9765f634b498c8a919fa9eb3f263ecb69bafd5b5","features":{},"yanked":false}
+{"name":"dff-meta","vers":"0.1.1","deps":[{"name":"id3","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7333de3403b6dae625f3f1286bc73d6a44ed15441160ae161fa00ca6ee1091c5","features":{},"yanked":false}
