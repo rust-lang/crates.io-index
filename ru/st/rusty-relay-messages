@@ -1,0 +1,1 @@
+{"name":"rusty-relay-messages","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"600ed54978c737923b1e24cb70ac3c849e10cfd4a0da76db6cce6db27eedf326","features":{},"yanked":false}
