@@ -1,1 +1,2 @@
 {"name":"rialo-s-decode-error","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c373ba92609e87b8b3961563311ff86c832a9faaaffef012a9620ef8ac0951fd","features":{},"yanked":false}
+{"name":"rialo-s-decode-error","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36c444f00489f04999c4b210f86957c1e76b0dd948c9701621f84008fa1896f0","features":{},"yanked":false}
