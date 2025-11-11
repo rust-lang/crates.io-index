@@ -1,0 +1,1 @@
+{"name":"astral-tl","vers":"0.7.9","deps":[{"name":"criterion","req":"^0.3","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"915b5af1203c9c635c62edcbdaa36ee54b17f84809f7769912d356c35f9a6cd7","features":{"__INTERNALS_DO_NOT_USE":[],"simd":[]},"yanked":false}
