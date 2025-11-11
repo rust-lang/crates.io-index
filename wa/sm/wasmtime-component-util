@@ -95,3 +95,4 @@
 {"name":"wasmtime-component-util","vers":"24.0.4","deps":[],"cksum":"a8ee69966520737396114a6196e0ddca4bfe121638eaeff834b422a4d151b1fc","features":{},"yanked":false}
 {"name":"wasmtime-component-util","vers":"34.0.2","deps":[],"cksum":"f0451ce0dd94a33d0dbd57934ce666a04c2753a5262ca2bc84cf6a67cf5303dc","features":{},"yanked":false,"rust_version":"1.85.0"}
 {"name":"wasmtime-component-util","vers":"33.0.2","deps":[],"cksum":"cc42ec8b078875804908d797cb4950fec781d9add9684c9026487fd8eb3f6291","features":{},"yanked":false,"rust_version":"1.84.0"}
+{"name":"wasmtime-component-util","vers":"24.0.5","deps":[],"cksum":"37912f8a1da7b9734aa18b715bf89bc9906f1bfa1a24ada59b510dba499dfb9a","features":{},"yanked":false}
