@@ -1,0 +1,1 @@
+{"name":"dungeoncli","vers":"1.0.0","deps":[{"name":"colored","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd2fd3a2e57b19a5962c51763c2746ea0e8892ce073cba61e39c3b72ac2b4c5","features":{},"yanked":false}
