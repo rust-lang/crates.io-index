@@ -1,1 +1,2 @@
 {"name":"releasor","vers":"1.0.0","deps":[{"name":"insta","req":"^1.43.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a1ee55879c435c36f01afc18c240cef2ba178b790b603eabaa303bdc74cc03c","features":{},"yanked":false}
+{"name":"releasor","vers":"1.1.0","deps":[{"name":"insta","req":"^1.43.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c6dba743e0d42e46fef78ffc3617170428b2cf339f677c291e9ae809ef3b9d2","features":{},"yanked":false}
