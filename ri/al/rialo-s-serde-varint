@@ -1,1 +1,2 @@
 {"name":"rialo-s-serde-varint","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.217","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58b4357365942932230ffc6d89e4a5e38fcd3ccd94401ab75dac00b5d285ed7b","features":{},"yanked":false}
+{"name":"rialo-s-serde-varint","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.217","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3385e70df8490e37dc15844b5d26f0cebb6e7b50df5cc7700b125c47e46de8cc","features":{},"yanked":false}
