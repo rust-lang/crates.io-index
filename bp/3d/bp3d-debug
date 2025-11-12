@@ -11,3 +11,4 @@
 {"name":"bp3d-debug","vers":"1.0.0-rc.6.2.0","deps":[],"cksum":"02e1174999fc00aa5a997c6c51bb9d2ffce32306cba07256c64004f9920a31cf","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.0","deps":[],"cksum":"787d9325c9c287793eb701624a115a45a46c2b6c94cc563df1efb975a84027a3","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.1","deps":[{"name":"bp3d-os","req":"^2.2.1","features":["time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9516c1206a56a0845e8eff9fa32a7e384f5416fa8761181cf55a8d634697cf92","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c7788e3ab55b00cfac16bcd9307ed5a9893ab3733cd0f13debc4854808c7a06","features":{},"yanked":false}
