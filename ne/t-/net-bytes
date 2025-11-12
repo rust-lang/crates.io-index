@@ -1,0 +1,1 @@
+{"name":"net-bytes","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1.39.0","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58ca93f15c2bc84bd1cd030e3db2f397f96562052e072197cb0ac148ee937c51","features":{"default":[]},"yanked":false}
