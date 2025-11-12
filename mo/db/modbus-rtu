@@ -18,3 +18,4 @@
 {"name":"modbus-rtu","vers":"0.2.15","deps":[],"cksum":"e5b80d0663cc2847bc367e7d89eacad4f479f1071b92987989b94443c10e46b8","features":{"default":["slave","no_std"],"master":[],"no_std":[],"slave":[]},"yanked":true}
 {"name":"modbus-rtu","vers":"1.0.0","deps":[],"cksum":"dc86ef69bcbe48dab0a3099593d42cde0f0ba29e48de5e37fe0c20c7778a40bf","features":{"enforce_broadcast":[],"unlimited_packet_size":[]},"yanked":true}
 {"name":"modbus-rtu","vers":"1.0.1","deps":[],"cksum":"e101988acef288fee13d6b6a0ecd7e481b725545fef4922999b6a7291cd76c87","features":{"enforce_broadcast":[],"unlimited_packet_size":[]},"yanked":false}
+{"name":"modbus-rtu","vers":"1.1.0","deps":[{"name":"serialport","req":"^4.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e3a546055254ee1a0ffbdbf0177e3b4bb6ca28c6d9cea5dc97baf1bd4988f0b","features":{"default":["master"],"enforce_broadcast":[],"master":["serialport"],"unlimited_packet_size":[]},"yanked":false}
