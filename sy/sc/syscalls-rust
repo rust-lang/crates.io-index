@@ -17,3 +17,4 @@
 {"name":"syscalls-rust","vers":"0.2.7","deps":[],"cksum":"f400ca68e58d14cbfb4750ec11906fad5f2172263e236d5505b4d06bf11b34b5","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false}
 {"name":"syscalls-rust","vers":"0.2.8","deps":[],"cksum":"52e5764cfce50d23b62486d19b2c6504fcdd90b569fbd06dba3f5923eaca03b3","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false}
 {"name":"syscalls-rust","vers":"0.2.9","deps":[],"cksum":"5ddb08a3dccfcf8f60100b2595bbd33848dfeb522eefb3e37ea35a605e8a0a0c","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false}
+{"name":"syscalls-rust","vers":"0.2.10","deps":[],"cksum":"b70167ac44c2ab53feb69700d427d5f19de800bbab4e5656bab77d1f36adcac1","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false}
