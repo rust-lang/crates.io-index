@@ -75,3 +75,5 @@
 {"name":"tpm2-protocol","vers":"0.14.0","deps":[],"cksum":"525f64b1e74a01e7c9f682ea562a8c662c429ef49b445f4525b6891263fc93e1","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"tpm2-protocol","vers":"0.14.1","deps":[],"cksum":"5dc5e4ffb40af3ef6bf94a4298fc04d61d8278e92f2f5c29c9308b5f44e1d47f","features":{},"yanked":false,"rust_version":"1.81"}
 {"name":"tpm2-protocol","vers":"0.15.0","deps":[],"cksum":"32e27dfdedf3a4a59fd20f81b0ab6c8835d39bf4767308ab9f057dd541c3bd67","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"tpm2-protocol","vers":"0.14.2","deps":[],"cksum":"e8a349ab27729314e88dea0d13c139f4e2b2f00088e99477a293cdb507d3c0af","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"tpm2-protocol","vers":"0.14.3","deps":[],"cksum":"a08f57bc86ccc38e89ce28fa4b2070668364181848de7cc64c51fca0c88de1bb","features":{},"yanked":false,"rust_version":"1.81"}
