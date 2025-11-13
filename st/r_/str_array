@@ -1,0 +1,1 @@
+{"name":"str_array","vers":"0.1.0","deps":[{"name":"autocfg","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"852860ac3f9217bac141e6511d5cff8c67258032945d33f720ae0b4fad1427e6","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.64"}
