@@ -3,3 +3,4 @@
 {"name":"hypercounter","vers":"0.1.2","deps":[],"cksum":"0388d15468064d6b558f6becbe6f14aab42f36eb9bbb462facdca4dac0343f43","features":{},"yanked":false}
 {"name":"hypercounter","vers":"0.1.3","deps":[],"cksum":"b88f8320b0614735c948462500bc31867b047cb1df259da8c557feb5b435e1a3","features":{},"yanked":false}
 {"name":"hypercounter","vers":"0.2.0","deps":[{"name":"arc-swap","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2de3d98941b34eba972ee79b2f85cf12c513e78b4f0f3d879de64b7a071a8609","features":{},"yanked":false}
+{"name":"hypercounter","vers":"0.2.1","deps":[{"name":"arc-swap","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c17e301c231072db1a8a88edf00578a2f94b4f8bd415a7530c71173cd01f708b","features":{},"yanked":false}
