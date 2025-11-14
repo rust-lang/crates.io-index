@@ -1,1 +1,2 @@
 {"name":"printerator","vers":"0.9.0","deps":[{"name":"parking_lot","req":"^0.12.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6b683e270c92aef53f30ed32fc65ee923b52455ab62b7d5d21e5a6a7f85efda8","features":{},"yanked":false}
+{"name":"printerator","vers":"1.0.0","deps":[{"name":"parking_lot","req":"^0.12.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8e2090271a0192da17b7b92373d01c0fd977078b8a4b21f65454e9403c9ed4c6","features":{},"yanked":false}
