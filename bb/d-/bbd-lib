@@ -13,3 +13,4 @@
 {"name":"bbd-lib","vers":"0.4.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1defd2fe8d3cc3646e7f02a3ccb840bcc59b641c22e9639f6cf1644dad7492ca","features":{},"yanked":false}
 {"name":"bbd-lib","vers":"0.4.1","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c0282e017dbe84569f64ab0c1c39986e300645a84e597ecb5c2d81fcc0e38a6","features":{},"yanked":false}
 {"name":"bbd-lib","vers":"0.4.2","deps":[],"cksum":"1a927be9f72b4a5f56713a6a7fd11744cb7531e3200a114eb074f57f64b91638","features":{},"yanked":false}
+{"name":"bbd-lib","vers":"0.4.3","deps":[],"cksum":"a91b2bf6a32d1b04c7e753cb1afdc0a7fedcc3e43afe444d7a592f38ac00b60a","features":{},"yanked":false}
