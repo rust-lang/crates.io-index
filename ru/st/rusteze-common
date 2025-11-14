@@ -1,0 +1,1 @@
+{"name":"rusteze-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"881137437b54e10eb4e4ec2a4611d81b00c7c52f2787b5280e337f8168adcd9d","features":{},"yanked":false}
