@@ -1,0 +1,1 @@
+{"name":"rialo-cli-representation","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3504838507f330e1b32ea0a417ccc551034f450e567cc0b0818306612f0d108","features":{},"yanked":false}
