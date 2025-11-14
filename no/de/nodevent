@@ -1,0 +1,1 @@
+{"name":"nodevent","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.0","features":["full","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe373bb06c95de0ac26eb039cca7ede6943b9c535c00a734c4a40763e41a657a","features":{},"yanked":false}
