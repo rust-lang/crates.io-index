@@ -2,3 +2,4 @@
 {"name":"luhtwin","vers":"0.0.31","deps":[],"cksum":"18ea0e4170cd023aa40879fe019ab3074bbdff77141ac988aec7f91c19277d21","features":{},"yanked":false}
 {"name":"luhtwin","vers":"0.0.4","deps":[{"name":"luhlog","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"682f7b117fd5dc5c9dc907eac7bfd8893424510e58709cb075548c39e6196f91","features":{},"yanked":false}
 {"name":"luhtwin","vers":"0.0.5","deps":[{"name":"luhlog","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fddfef2a2a14f2c920499d359291f97f5f3fc9a4cacc05645943e77e8a18274","features":{},"yanked":false}
+{"name":"luhtwin","vers":"0.0.6","deps":[{"name":"luhlog","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4376e24d2a621b857c2a2f9dc764d69c80ecb3445a986f1d7f9ccd9744924d6b","features":{},"yanked":false}
