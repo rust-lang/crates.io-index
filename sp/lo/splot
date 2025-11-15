@@ -4,3 +4,4 @@
 {"name":"splot","vers":"0.4.0","deps":[],"cksum":"70b8ba11dd167f3a06ee686ade26e2012b35d290f9daef10e5204173c7e3566d","features":{},"yanked":false}
 {"name":"splot","vers":"0.5.0","deps":[],"cksum":"0fcfc4966e592ba99bd02640bcfd4d06242a340c9bb8e8b6a6d8e40f247ae54e","features":{},"yanked":false}
 {"name":"splot","vers":"0.6.0","deps":[{"name":"hatmil","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1337677c973672f82ed2fbeae4b725ed97e020637c06c45083a991d6fbaef622","features":{},"yanked":false}
+{"name":"splot","vers":"0.7.0","deps":[{"name":"hatmil","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8db5ab7064942805386f1d63b321f53ae615e2c4a94a53911c72c4b079a83cd5","features":{},"yanked":false}
