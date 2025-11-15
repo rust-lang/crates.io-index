@@ -1,0 +1,1 @@
+{"name":"bevy_ui_styled_widgets","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.17","features":["experimental_bevy_ui_widgets"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71ae73d8cedb9916b8804863c5e7e29cfd4d6a74addb7951f141bba293c57f25","features":{},"yanked":false}
