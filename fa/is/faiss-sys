@@ -6,3 +6,4 @@
 {"name":"faiss-sys","vers":"0.6.0","deps":[],"cksum":"cc81e4dd91d06c02f92a3c885025cdd4136755850ab456aef436629ff091d7ca","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}
 {"name":"faiss-sys","vers":"0.6.1","deps":[],"cksum":"54c3ddf096a623ad11f807ff00725e9e243aa999187cb60f6ecaea83baa6a6e0","features":{"gpu":[]},"yanked":false,"links":"faiss_c"}
 {"name":"faiss-sys","vers":"0.6.2","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"4b9c008fc56422bf34357f17226d9c5a5c2ef6245b4774759c5f67112e46915e","features":{"gpu":[],"static":["cmake"]},"yanked":false,"links":"faiss_c"}
+{"name":"faiss-sys","vers":"0.7.0","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"c4a8fa67f7070bb81f41dc71c98813b3e40a66bedab12d6c2ac2af50f0837a7e","features":{"gpu":[],"static":["cmake"]},"yanked":false,"links":"faiss_c"}
