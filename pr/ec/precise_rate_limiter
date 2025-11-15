@@ -1,1 +1,2 @@
 {"name":"precise_rate_limiter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e997871b74ba34e20c0bd8c2f247b03947edea2b35bbcb765a4842fa91adace","features":{},"yanked":false}
+{"name":"precise_rate_limiter","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dbdb35e0ab2bcbff9934552f80ad4b740c84a108c8b355e42a00d97aeb205a7","features":{},"yanked":false}
