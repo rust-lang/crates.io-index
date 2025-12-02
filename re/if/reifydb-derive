@@ -1,1 +1,2 @@
 {"name":"reifydb-derive","vers":"0.1.4","deps":[{"name":"reifydb-macro-impl","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed7dd9ac2c8ebec21f8853d887684dbe9faa60c7a27333e5167612e92f2e3465","features":{},"yanked":false}
+{"name":"reifydb-derive","vers":"0.1.5","deps":[{"name":"reifydb-macro-impl","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a60476bce1857171bb2e2fcc46b4934b76c4deabdedd8b31ae87f3927fb70b1","features":{},"yanked":false}
