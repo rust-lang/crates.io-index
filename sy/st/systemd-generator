@@ -1,0 +1,1 @@
+{"name":"systemd-generator","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"129ef07d1c0d35e7e504e17f4c0301a111f99990ebabd03a93e74e0c7f93d0f8","features":{},"yanked":false}
