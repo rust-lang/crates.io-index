@@ -1,0 +1,1 @@
+{"name":"avila-parallel","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c7ee3d659b1ee9ef66d341e184a3ad9288d6f9d35ec1a92314863d5b4126ecc","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
