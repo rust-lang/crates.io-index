@@ -1,0 +1,1 @@
+{"name":"pbcurve","vers":"0.1.0","deps":[{"name":"uint","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aea18f61ffb9d3b174e1019ed9c0e674c3cc765ca8935d7a72a118c2b710cefa","features":{},"yanked":false}
