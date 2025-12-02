@@ -1,0 +1,1 @@
+{"name":"avila-error","vers":"0.2.0","deps":[{"name":"avila-error-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c3122fa4efa3418f64478e9a17a41e8811b4473145580960df53255ffbffe32","features":{"context":[],"default":[],"derive":["avila-error-derive"],"full":["derive","context"]},"yanked":false}
