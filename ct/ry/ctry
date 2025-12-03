@@ -1,1 +1,2 @@
 {"name":"ctry","vers":"1.1.1","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c350f0b3290f435de0419dc5cbb7696f906e0ee327253274f707890fd230da1","features":{},"yanked":false}
+{"name":"ctry","vers":"1.1.2","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fa3bf6a896aad375a6ea57f1dc0569a7766514c2966f62b7269b7963c87f214","features":{},"yanked":false}
