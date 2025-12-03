@@ -7,3 +7,4 @@
 {"name":"deep_causality_num","vers":"0.1.6","deps":[],"cksum":"8898f0bc0397a651a6483fe115d0daf77d4c3ee1a0cca979d309bbdd9cf24180","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"deep_causality_num","vers":"0.1.7","deps":[],"cksum":"43dcd024414bd6dce2d945916efb362197a48ed841163a6d225e11ca39e6a2d7","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"deep_causality_num","vers":"0.1.8","deps":[],"cksum":"e94fd8f6fb0a9819fa1e8d5b36081bf3fe1d8378d8ef3232193632a658173bb7","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"deep_causality_num","vers":"0.1.9","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee681280262150d0377ab87d7d3f5007241a3d6861e953352760b3dd93e6bad8","features":{"default":["std"],"std":[]},"features2":{"libm_math":["dep:libm"],"no-std":["libm_math"]},"yanked":false,"rust_version":"1.90.0","v":2}
