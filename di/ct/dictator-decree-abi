@@ -1,0 +1,1 @@
+{"name":"dictator-decree-abi","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7fd619462cffef86356d82ec63911ff683c3efb13684161210af8c23bbcef48","features":{},"yanked":false}
