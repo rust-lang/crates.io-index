@@ -1,0 +1,1 @@
+{"name":"mmreg","vers":"0.1.0","deps":[{"name":"fs2","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0320a869e9ce723eea723826c91ad780f5b856076192fe0e6ccfd050d4bcdf5c","features":{},"yanked":false}
