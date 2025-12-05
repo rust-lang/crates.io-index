@@ -2,3 +2,4 @@
 {"name":"nami-core","vers":"0.1.1","deps":[],"cksum":"d6318d7b397308f322c0d6392f2eb2b667fe15bf06592df2fecd186da3ec0b1d","features":{},"yanked":false}
 {"name":"nami-core","vers":"0.2.0","deps":[],"cksum":"c20a7edcaab068043a1b60cd1d64b8f80a392d953d82fd58d083694c59da1026","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"nami-core","vers":"0.3.0","deps":[],"cksum":"c572e194c5eb86b2c63f2d1ac2095f47677642d2298f425de7bdd9a804237d67","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"nami-core","vers":"0.3.1","deps":[],"cksum":"5c7a3694bdd435e2dac44500d2dcb4178dac9997846cb52938e11acde24936aa","features":{"default":["std"],"std":[]},"yanked":false}
