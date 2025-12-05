@@ -1,1 +1,2 @@
 {"name":"coverage-badge","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe849bcf97d1cc8a3126535767215eda05f06c3f1eff8fd9e955de0d5f9b0197","features":{},"yanked":false}
+{"name":"coverage-badge","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c35e44469f5bc976638fdc93b947563d1e7d3e0168eb9ccf682f83175ee77e0e","features":{},"yanked":false}
