@@ -9,3 +9,4 @@
 {"name":"dioxus-config-macros","vers":"0.7.0-rc.4","deps":[],"cksum":"15aab43ea7f85e0fe4df11a46e066d961e33f30b6fa29df44be96a66071f9378","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
 {"name":"dioxus-config-macros","vers":"0.7.0","deps":[],"cksum":"060c2e384709a434a74d24a676f4ccd61e7a97f812b0807fa71a8ef8896cfd3b","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
 {"name":"dioxus-config-macros","vers":"0.7.1","deps":[],"cksum":"0a16b25f8761253ed5ffa4d0789376310fbbc1bbaa8190fc2f374db82c6285a1","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"dioxus-config-macros","vers":"0.7.2","deps":[],"cksum":"c49327465c2d434d00fb4c86bd35ae72155b479622e09352b950d9ab4807bf23","features":{"default":[],"wasm-split":[]},"yanked":false,"rust_version":"1.79.0"}
