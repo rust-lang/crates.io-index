@@ -1,1 +1,2 @@
 {"name":"gpui-ui-kit","vers":"0.1.3","deps":[{"name":"gpui","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec582705a0c33cbfbd14e7d2f810776c8c27f2c62e588b45462e48bbeb38ff8f","features":{},"yanked":false}
+{"name":"gpui-ui-kit","vers":"0.1.4","deps":[{"name":"gpui","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d43553840e1768054ab7ca5c751f229bfd60bde22e38d026461887b89de223a","features":{},"yanked":false}
