@@ -6,3 +6,4 @@
 {"name":"luhtwin","vers":"0.0.7","deps":[{"name":"luhlog","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6689eee8c8079273fe0696aa7ce45b56357b6072dedbbce00180620bcd710814","features":{},"yanked":false}
 {"name":"luhtwin","vers":"0.0.8","deps":[{"name":"luhlog","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e6ac97b7783fa2793aea0bace71bdd72e6ce1a7b0197a03a9fb1bfaed417978","features":{},"yanked":false}
 {"name":"luhtwin","vers":"0.1.0","deps":[],"cksum":"272849e90fdc5aa652713ec08f9b35e9303614b73325ff7c599c0e346341ec4e","features":{},"yanked":false}
+{"name":"luhtwin","vers":"0.1.1","deps":[],"cksum":"42f22f148d9c0c7ebc79dd27d5d58a45088fa3ea43aa1e5476b05782df5ae808","features":{},"yanked":false}
