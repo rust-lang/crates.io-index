@@ -29,3 +29,4 @@
 {"name":"tulisp","vers":"0.20.0","deps":[{"name":"tulisp-proc-macros","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0ac2a2f2de5425505aec9a536a207f703cde37ad33ea1476b4f48f885288d7c","features":{},"yanked":false}
 {"name":"tulisp","vers":"0.21.0","deps":[{"name":"tulisp-proc-macros","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4befac48d1a98922de23c13be926ee9562e35cd0b1f32ffa9c086ec6dbdc2d32","features":{},"yanked":false}
 {"name":"tulisp","vers":"0.22.0","deps":[],"cksum":"e8edf4fbeef789b970c36b8ae6962b8fd1bf91f53f30309cb1380d559a143ba1","features":{},"yanked":false}
+{"name":"tulisp","vers":"0.23.0","deps":[],"cksum":"d6df47f91868c0b74bd7d48291726670321549f28b8390f69cbcc8e90f47a1c5","features":{"big_functions":[]},"yanked":false}
