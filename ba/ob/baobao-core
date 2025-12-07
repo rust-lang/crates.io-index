@@ -1,0 +1,1 @@
+{"name":"baobao-core","vers":"0.1.0","deps":[{"name":"eyre","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4632004ee7a73aaab459b46b366c832d0c6a2f1f92a7aa40f92a8acdd9cc21c1","features":{},"yanked":false}
