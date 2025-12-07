@@ -1,1 +1,2 @@
 {"name":"iris_net","vers":"0.1.0","deps":[{"name":"bincode","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9d062ada324308ec7d74d2f8549cf5aea604fd89dc4c3be74aaecfd3c3b5326","features":{},"yanked":false}
+{"name":"iris_net","vers":"0.2.0","deps":[{"name":"bincode","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcde349d0f55c1d83eab7a845e2718c1d794abaf5c425470fb522dfe5d214d88","features":{},"yanked":false}
