@@ -26,3 +26,4 @@
 {"name":"libsyd","vers":"3.6.1","deps":[],"cksum":"e5e024696573f5ea450081db8b98e407e30edc5385b26d4f20092e6ec3d822f5","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"libsyd","vers":"3.7.0","deps":[],"cksum":"8341b1d17cc87032f83a3a7b04118427e15eff0853b72bc948c8d0524763bb47","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"libsyd","vers":"3.8.0","deps":[],"cksum":"4d43aba823156bca7621b1bffe9ba584c3bd30e996275ecc81020df62690dceb","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"libsyd","vers":"3.9.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"886363a4b137587174497b13faa086141e29d2f9fa22fdedc326be9bd371d693","features":{},"yanked":false,"rust_version":"1.56.1"}
