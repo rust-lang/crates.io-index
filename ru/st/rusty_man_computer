@@ -1,0 +1,1 @@
+{"name":"rusty_man_computer","vers":"0.5.0","deps":[{"name":"clap","req":"^4.5.30","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fa35552c456ac93217b48aa4c2314f60f5edde53961df362c433f9a36535ef8","features":{},"yanked":false}
