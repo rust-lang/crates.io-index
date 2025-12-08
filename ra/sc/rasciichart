@@ -1,1 +1,2 @@
 {"name":"rasciichart","vers":"0.2.6","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"224363d784424c37a11057e48688367d05969098b56f46fc9c2782c940bbc2ee","features":{},"yanked":false}
+{"name":"rasciichart","vers":"0.2.7","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c717244ff4bd2f4faa327f76e800bc4ce086365b66b3e5da6892be8b0895c2e8","features":{},"yanked":false}
