@@ -4,3 +4,4 @@
 {"name":"blockbucket","vers":"0.1.3","deps":[],"cksum":"bbb717b1d00d96e86db913b88d58c471a8c337648076e8622dca000764e3c163","features":{},"yanked":true}
 {"name":"blockbucket","vers":"0.1.4","deps":[],"cksum":"51eae5bfbb8f6dd34173d41a0ea123f7c5721abb01232b6628dcd07ac8d9e747","features":{},"yanked":true}
 {"name":"blockbucket","vers":"0.1.5","deps":[{"name":"md5","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"714ae34c723aa433689d1eeafd36f4e198ae9ace20be76caf6c6995f8c4fee55","features":{},"yanked":false}
+{"name":"blockbucket","vers":"0.1.6","deps":[{"name":"md5","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a625f63d958b57279f770aff4ac35990f66a820f1152a8dc365bcc6465714be","features":{},"yanked":false}
