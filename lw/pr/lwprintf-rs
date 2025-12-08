@@ -1,0 +1,1 @@
+{"name":"lwprintf-rs","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dfdabcb61e04b0ebb1c492c65517034b93f56250346a85050544e4899e01815b","features":{},"yanked":false}
