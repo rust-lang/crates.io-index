@@ -1,0 +1,1 @@
+{"name":"b12od","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24702dd41b272cdc1a4500fd8a5dea6a873fabc74b1a2b936195700f6bcea7d1","features":{},"yanked":false}
