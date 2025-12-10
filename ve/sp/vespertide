@@ -1,1 +1,2 @@
 {"name":"vespertide","vers":"0.1.0","deps":[{"name":"vespertide-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d40f134bfe13a12e007cecd543d7105ecf21d13a0f696a2b1a481ed89a82ef6","features":{},"yanked":false}
+{"name":"vespertide","vers":"0.1.1","deps":[{"name":"vespertide-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ac6a017a1d6171158287ee77994512bd2814533b1255ff78820a82194cff67","features":{},"yanked":false}
