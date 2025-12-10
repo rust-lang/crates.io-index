@@ -1,0 +1,1 @@
+{"name":"systemctl-manager","vers":"1.0.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdc3e250149a00435b0e9ab39e50f827a6c577c19aff1e374667eb80bb8b8d4f","features":{},"yanked":false}
