@@ -1,1 +1,2 @@
 {"name":"search_engine_cache","vers":"0.1.0","deps":[{"name":"priority-queue","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdbe77b539bbe6188004009a606a90d23cdcce2084ccdce85c4b1a7fef0decb5","features":{},"yanked":false}
+{"name":"search_engine_cache","vers":"0.1.1","deps":[{"name":"priority-queue","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2fa41acc768be9cd05ba3461f1557cd796ea1e7b080a5ca69e09f36c6fbfe28","features":{},"yanked":false}
