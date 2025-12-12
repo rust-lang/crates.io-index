@@ -13,3 +13,4 @@
 {"name":"arborium-sysroot","vers":"1.1.3","deps":[],"cksum":"fdaae6b1ea939bdcc5a45acc2b658b756d43c16a57ad5a0d3fc746d0166ece8a","features":{},"yanked":false,"links":"arborium_sysroot"}
 {"name":"arborium-sysroot","vers":"1.1.4","deps":[],"cksum":"462c696d73f74519f5641f4ccc4a04f2ce26bac78194a65b1054686bbb14f2fb","features":{},"yanked":false,"links":"arborium_sysroot"}
 {"name":"arborium-sysroot","vers":"1.1.5","deps":[],"cksum":"86788b246481fee0fddcba4831d35db212ae08ce8e9a841bf0e67c39a712230e","features":{},"yanked":false,"links":"arborium_sysroot"}
+{"name":"arborium-sysroot","vers":"1.2.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"dlmalloc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"106edc35bfdc4b9b337a9d439e8d3b19202e43d05a702a1c18a8ebc06df01130","features":{},"yanked":false,"links":"arborium_sysroot"}
