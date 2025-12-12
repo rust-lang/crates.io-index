@@ -1,1 +1,2 @@
 {"name":"cargo-feature-dep-checker","vers":"0.1.0","deps":[{"name":"toml","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64e7148c5fdf5c023c97671e77c3abb88c31f22edeb65d320c8c48ad417cb562","features":{},"yanked":false}
+{"name":"cargo-feature-dep-checker","vers":"0.1.1","deps":[{"name":"toml","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9000d216f51574ce19cd7fa9ac2d57bcbb79c8e52b8c1ef080c78462249e2365","features":{},"yanked":false}
