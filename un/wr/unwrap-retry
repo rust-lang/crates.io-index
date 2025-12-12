@@ -1,1 +1,2 @@
 {"name":"unwrap-retry","vers":"0.1.0","deps":[],"cksum":"e6c70c1084684725c708059761cdd22831e141de1f59f94626628e84c0863bfa","features":{"default":["track-caller"],"track-caller":[]},"yanked":false}
+{"name":"unwrap-retry","vers":"0.1.1","deps":[],"cksum":"739b0d6e52c7aebc6210c42b7356dd0aaa375e6a69b4beb890967c50bf247268","features":{"default":["track-caller"],"track-caller":[]},"yanked":false}
