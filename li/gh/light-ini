@@ -6,3 +6,4 @@
 {"name":"light-ini","vers":"0.2.1","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0de2a64b3952282c862aa9060d0f25a74b91cfee86ead994f1d9bd25522aa09","features":{},"yanked":false}
 {"name":"light-ini","vers":"0.3.0","deps":[],"cksum":"4228022e28ce8f1da6127a89222ca6551a86d46b57d78a78f0d8967fd1e4fe07","features":{},"yanked":false}
 {"name":"light-ini","vers":"0.3.1","deps":[],"cksum":"16ec66c66bbcab01136385822b8b214cf452fa0021a3ab50528557abf344e26b","features":{},"yanked":false}
+{"name":"light-ini","vers":"0.4.0","deps":[],"cksum":"45ce1893493799cb4c848b9e04164272eae851bc3bbeba2a70b2328af1d46b9b","features":{},"yanked":false}
