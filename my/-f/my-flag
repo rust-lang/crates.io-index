@@ -1,0 +1,1 @@
+{"name":"my-flag","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd5d85d94749631e6ab930136b55477a2a335481ffdf349ef0d28d6776ccbf0d","features":{},"yanked":false}
