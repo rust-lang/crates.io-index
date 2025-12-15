@@ -1,0 +1,1 @@
+{"name":"emcyphal-core","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae5c84f0c8dec03f5973dbba00eefb7925fc74473ab38381670fc2c6d4076062","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}
