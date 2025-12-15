@@ -1,0 +1,1 @@
+{"name":"stack-assembly","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.24.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5304cb998601257b7aa2cac9dd39aa766a265e1bfa343b0e372bc6a3c850fab","features":{},"yanked":false}
