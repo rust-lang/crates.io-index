@@ -24,3 +24,4 @@
 {"name":"sarge","vers":"7.3.0","deps":[],"cksum":"170f6abeaa961868e81735bf5f7f868ad13dbc69fe7fbf3ffe3177bc3def3d1b","features":{"default":["help","macros"],"help":[],"macros":[]},"yanked":false}
 {"name":"sarge","vers":"8.0.0","deps":[],"cksum":"de3d519151588094d767ecc291d43a28de5089299100f2947180750886360f1e","features":{"default":["help","macros"],"help":[],"macros":[]},"yanked":false}
 {"name":"sarge","vers":"8.0.1","deps":[],"cksum":"faee885e010570d0caa9f2f226302b0fd1578fb5dec93ce4e2a7069dbdd5dffe","features":{"default":["help","macros"],"help":[],"macros":[]},"yanked":false}
+{"name":"sarge","vers":"9.0.0","deps":[],"cksum":"065234e2bf7d8a6781ccd8bb0cc4721ddbca95094bcd4405724189b2fb384b79","features":{"default":["help","macros"],"help":[],"macros":[]},"yanked":false}
