@@ -1,1 +1,2 @@
 {"name":"fusabi-tui-core","vers":"0.1.0","deps":[{"name":"unicode-width","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a501888667586d74ae99e1dac9eab821979dba6905291ebd30eb1fcbc796354","features":{},"yanked":false}
+{"name":"fusabi-tui-core","vers":"0.1.1","deps":[{"name":"unicode-width","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc59109e8d28e57d6b743c641ef88c41b8b35c67294d9c9dbb3b6b5df0169ca1","features":{},"yanked":false}
