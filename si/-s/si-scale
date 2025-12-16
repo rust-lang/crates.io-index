@@ -8,3 +8,4 @@
 {"name":"si-scale","vers":"0.2.1","deps":[],"cksum":"e9f209e7c76089998e63378dc3623430587c727e534c0d87eca8d68e141a01f6","features":{},"yanked":false}
 {"name":"si-scale","vers":"0.2.2","deps":[],"cksum":"44beb68bf488343b13ddbd74d1d5d5e6559a58b6dfaee74eb8d5ed4f7ed7666f","features":{},"yanked":false}
 {"name":"si-scale","vers":"0.2.3","deps":[],"cksum":"b72e7cd0744e007e382ba320435f1ed1ecd709409b4ebd5cfbc843d77b25a8aa","features":{},"yanked":false}
+{"name":"si-scale","vers":"0.3.0","deps":[],"cksum":"fa6635fb52805fa49a5798346e553cda9fd7990da8fbb2b3b2b9cf26589b4571","features":{"default":[],"lossy-conversions":[]},"yanked":false}
