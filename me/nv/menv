@@ -7,3 +7,4 @@
 {"name":"menv","vers":"0.2.5","deps":[],"cksum":"9a8937b283d64d396a67433e7cf8ff2fe0930dda34425abacad8435105e138a1","features":{},"yanked":false}
 {"name":"menv","vers":"0.2.6","deps":[{"name":"menv_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e360d2ae142f490972fea86f01e34ac1405183d571824dcb06cf8fd118cc7a2","features":{},"yanked":false}
 {"name":"menv","vers":"0.2.7","deps":[{"name":"menv_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec049f8395cf822c890b7e7b9857ca19fe105496ff8a307fe312cc8b65d408e6","features":{},"yanked":false}
+{"name":"menv","vers":"0.2.8","deps":[{"name":"menv_proc_macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c80499ce3e09ae9a9b1ebb3710fb675136848a3c958312daf104858e029ea24","features":{},"yanked":false}
