@@ -7,3 +7,4 @@
 {"name":"salsa-macro-rules","vers":"0.22.0","deps":[],"cksum":"8ea72b3c06f2ce6350fe3a0eeb7aaaf842d1d8352b706973c19c4f02e298a87c","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"salsa-macro-rules","vers":"0.23.0","deps":[],"cksum":"2edb86a7e9c91f6d30c9ce054312721dbe773a162db27bbfae834d16177b30ce","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"salsa-macro-rules","vers":"0.24.0","deps":[],"cksum":"6ca3b9d6e47c08b5de4b218e0c5f7ec910b51bce6314e651c8e7b9d154d174da","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"salsa-macro-rules","vers":"0.25.0","deps":[],"cksum":"f475cc48bf02822cfbe1401bb89fd643368bc9a4588568a6cdddaadc9bc4c40d","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}
