@@ -1,0 +1,1 @@
+{"name":"pubky_test_utils_drop_db_helper","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.8.6","features":["runtime-tokio","postgres"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b556c3800e017f2229115713ba1a0d05796ec0724185c6ad7f865eee9b030d2","features":{},"yanked":false}
