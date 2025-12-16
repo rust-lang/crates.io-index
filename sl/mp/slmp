@@ -1,1 +1,2 @@
 {"name":"slmp","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.48.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8922b1151be9d1c37243831f9d27c9c7effb054a1c657ce429d7ab4b9f13f70","features":{},"yanked":false}
+{"name":"slmp","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.48.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6e49f110b4a3402b076310157d87d795dfe9968b90f9dee5ff5d0b699d954f3","features":{},"yanked":false}
