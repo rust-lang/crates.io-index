@@ -1,3 +1,4 @@
 {"name":"num-primitive","vers":"0.1.0","deps":[],"cksum":"a42e58ae71a51d9ec5454ada55385dc5e5a50b7b64cd7880abb9c4aa4c991f40","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"num-primitive","vers":"0.1.1","deps":[],"cksum":"4d89cd96cdb23c79df94be10363c33c7cd5ffe7aa99a17e46788572e370d8614","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"num-primitive","vers":"0.2.0","deps":[],"cksum":"90ee12eec8c47f4f53ad0f0a629fcc685904a845473f8f7a72e5841dda097178","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"num-primitive","vers":"0.2.1","deps":[],"cksum":"0178502a58a2514f927965f80216c0ea2533b5364061544ea8e09b79343d4183","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
