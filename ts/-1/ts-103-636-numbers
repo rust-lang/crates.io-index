@@ -1,0 +1,1 @@
+{"name":"ts-103-636-numbers","vers":"0.0.1","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d696e1254e02770e2b2d9c0bd87e1c467246cb1c09e96a4ea7f2822473c4ac12","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}
