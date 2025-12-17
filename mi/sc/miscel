@@ -1,1 +1,2 @@
 {"name":"miscel","vers":"0.1.0","deps":[{"name":"physis","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7e6719a60191380a11956b73d6f8d3d4384832cfb28c3ff411617ac69c23d07","features":{},"yanked":false}
+{"name":"miscel","vers":"0.2.0","deps":[{"name":"physis","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"96acfbcd7a9fe0893a45ab30dd5a56929bda4e438b26ca9ba2e290466573c61b","features":{},"yanked":false}
