@@ -3,3 +3,4 @@
 {"name":"num-primitive","vers":"0.2.0","deps":[],"cksum":"90ee12eec8c47f4f53ad0f0a629fcc685904a845473f8f7a72e5841dda097178","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"num-primitive","vers":"0.2.1","deps":[],"cksum":"0178502a58a2514f927965f80216c0ea2533b5364061544ea8e09b79343d4183","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"num-primitive","vers":"0.2.2","deps":[],"cksum":"c4256491643aa0618856f7dc535226a26f27b54d04996e81436a5d23036a3b28","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.86"}
+{"name":"num-primitive","vers":"0.2.3","deps":[],"cksum":"1bcf6f557d08642e284b668f4d5fd59e03558d2f3ba9633c2d6eec1286a0c72d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87"}
