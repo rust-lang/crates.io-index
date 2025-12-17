@@ -1,0 +1,1 @@
+{"name":"avx-parallel","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b48157de927201d73d7e7094753fff8f6871866574bae5a4280df7e3da008fd","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
