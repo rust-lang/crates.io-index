@@ -1,1 +1,2 @@
 {"name":"git-contrib-stats","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"306340af8e3d7ea0a00a67f64e19112e13ed90ba39bdd45cd7f9d6e569ad573b","features":{},"yanked":false}
+{"name":"git-contrib-stats","vers":"0.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"904dc850975acff5cce37bc197aed829731f0298b3083341016888c43f5f0e59","features":{},"yanked":false}
