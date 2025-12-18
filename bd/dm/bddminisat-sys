@@ -1,0 +1,1 @@
+{"name":"bddminisat-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b425a23eeb3a20f2766a72cf9934b0c5c22c2343e2db2f829d4828c223039e16","features":{"default":[],"gmp":[]},"yanked":false,"links":"bdd_minisat_all"}
