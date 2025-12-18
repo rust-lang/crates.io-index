@@ -1,0 +1,1 @@
+{"name":"astro_units","vers":"1.0.0","deps":[{"name":"uom","req":"^0.36.0","features":["f64","si","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"10470ab711cee75b552a9ba3c85f8f572845d9b49ad64089d12abc6245504c1e","features":{},"yanked":false}
