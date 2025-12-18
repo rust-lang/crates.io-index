@@ -1,0 +1,1 @@
+{"name":"libloong","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4e87fcddb2f306f274bdd03a9d5dd6d89d5eb2bbd403573065854a8a22027240","features":{"binary-translation":[],"default":["binary-translation"]},"yanked":false}
