@@ -4,3 +4,4 @@
 {"name":"zksync_os_evm_errors","vers":"0.0.9","deps":[],"cksum":"12685073683de64e01a87b0f0a8c1e11df2ea3d6dc3846f1320153ef2fe499ed","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"zksync_os_evm_errors","vers":"0.0.10","deps":[],"cksum":"8b3ad55a8aa3498e304565de55b61dc930bac227c8c5e81284b623c69f2143d2","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"zksync_os_evm_errors","vers":"0.0.11","deps":[],"cksum":"fd6e77b096bfae6422bb381a220380ddf96520069bfee532064ca6422b13e6f1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"zksync_os_evm_errors","vers":"0.0.12","deps":[],"cksum":"9ae4ea1bad678f399c9c78cd2e05d53482818694c011da9a6d00153e84f3b02b","features":{"default":["std"],"std":[]},"yanked":false}
