@@ -1,0 +1,1 @@
+{"name":"bitwarden-uniffi-error","vers":"2.0.0","deps":[{"name":"anyhow","req":">=1.0, <2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55487fce5f8d0ca36d76d58b274e3dd3a8bb24601ec7b02559a5bfa055d872f2","features":{},"yanked":false,"rust_version":"1.85.1"}
