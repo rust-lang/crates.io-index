@@ -15,3 +15,4 @@
 {"name":"sansio","vers":"0.6.0","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa5969bd83c705562091cbbd7322814e6534264af3f29bc4f115d8c4af15c97","features":{},"yanked":false}
 {"name":"sansio","vers":"0.7.0","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ca4e15b9b52322f86ced25257e17d7f98d412324cb8e6546c15383871b474fd","features":{},"yanked":false}
 {"name":"sansio","vers":"0.10.0","deps":[],"cksum":"bae34bf0fdedfc9b8afd615e165cbfd6706371e67572c37be5b875402b3e68df","features":{},"yanked":false}
+{"name":"sansio","vers":"1.0.0","deps":[],"cksum":"0e8ead7e5eeefa9cb0a2a683d70024050c84e934278093341a56ac7c53d77dc0","features":{},"yanked":false}
