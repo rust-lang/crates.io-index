@@ -5,3 +5,4 @@
 {"name":"linkbudget","vers":"0.0.11","deps":[],"cksum":"2465c1204f7ba75665d25d8d71663d198f590c04aa74cc79218afb886afb52b8","features":{},"yanked":false}
 {"name":"linkbudget","vers":"0.0.12","deps":[],"cksum":"a0f630ee728ebf5fc31550a98026fbc7226fda9f9aeeb4e8b9a4e024929214b4","features":{},"yanked":false}
 {"name":"linkbudget","vers":"0.1.0","deps":[{"name":"rfconversions","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c44c706fef31edc6ca405eef9cde293b36815092206de1383fbb6603f7cbc14","features":{},"yanked":false}
+{"name":"linkbudget","vers":"0.2.0","deps":[{"name":"rfconversions","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf268db14d08fead88e03a6977148e4f78f76bce1d2c66f360fda6e31585e564","features":{},"yanked":false}
