@@ -1,0 +1,1 @@
+{"name":"waveshare-ups-hat-e","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"649f7a232201f03c32ed02b04dc3db36b8c4bb0996a93d6c03c34056841813a7","features":{},"yanked":false,"rust_version":"1.85.0"}
