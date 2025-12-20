@@ -1,0 +1,1 @@
+{"name":"wasm96-sdk","vers":"0.1.0","deps":[{"name":"wee_alloc","req":"^0.4.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffe4704a23fab7a5c77204278e610211bf95c56262d37bea9ee36ed1446b6415","features":{"default":["std"],"std":[]},"features2":{"wee_alloc":["dep:wee_alloc"]},"yanked":false,"v":2}
