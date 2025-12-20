@@ -1,0 +1,1 @@
+{"name":"shua_struct","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"331c71c781d1e17d441eb47c1ed05e67250858358e5edfa4bbb47ce285ef9abe","features":{"all":["array","bool","int","float"],"array":[],"bool":[],"float":[],"int":[]},"yanked":false}
