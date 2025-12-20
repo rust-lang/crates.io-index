@@ -39,3 +39,4 @@
 {"name":"async-codegen","vers":"0.10.1","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a1a82c91b392b9d0d5417d15bd7a4ceebdb4f519a8c0a708501d5b76d6f9df8","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"async-codegen","vers":"0.10.2","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ae9cc97469accdd52d689c79bfbc5c0b77f9d9686aa7563409a856146c5fe6f","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"async-codegen","vers":"0.11.0","deps":[],"cksum":"8904be91d3a3080fa13db9b946a2c7a9ac1d5001b32341975c64b8c8f6491c95","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"async-codegen","vers":"0.11.1","deps":[],"cksum":"7cc44d8586cfb8aaa0f127195a64d81d7bce5d939470b96c6f52e3c93035be5e","features":{},"yanked":false,"rust_version":"1.90.0"}
