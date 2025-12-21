@@ -1,0 +1,1 @@
+{"name":"gkill","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"135bb6b30962bf51ca95679a37909d8896ee4fe2ac3970b91853a70b40a58b26","features":{},"yanked":false}
