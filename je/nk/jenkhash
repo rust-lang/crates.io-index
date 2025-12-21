@@ -1,1 +1,2 @@
 {"name":"JenkHash","vers":"0.1.0","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acfafaa596eedc82adea0830616f0f25cb826f5ab545d6259fe871674541839a","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.1.5","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64ae4d7fe157f75e38a85b9baa24e856869656e4cec00c969bfdce9f48b30eb8","features":{},"yanked":false}
