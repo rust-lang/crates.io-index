@@ -1,0 +1,1 @@
+{"name":"shm-primitives","vers":"0.4.0","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"ffbb76daf2cde7071baa7ccdff1a1f6ff4034159159467e5417f4673b5dcfc81","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.91"}
