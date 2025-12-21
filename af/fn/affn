@@ -1,0 +1,1 @@
+{"name":"affn","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.34.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qtty","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbc1fdb9be669d9c747d3f7e89a250a33a66edba238c8ecf0cc0e6cad3a0bebd","features":{},"yanked":false}
