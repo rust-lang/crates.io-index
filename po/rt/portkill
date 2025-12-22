@@ -1,0 +1,1 @@
+{"name":"portkill","vers":"1.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a958a34d6ae9435f8dedc5b75c8bc14316dfbdc9a20e00a2a9964b6e44d4c9a","features":{},"yanked":false}
