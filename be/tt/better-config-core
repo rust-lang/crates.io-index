@@ -10,3 +10,4 @@
 {"name":"better-config-core","vers":"0.2.0","deps":[],"cksum":"f01550b14064bb46dc65d3f26525577d85c4d11dc3fd6b13ac2cacde7c9b1969","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"better-config-core","vers":"0.2.1","deps":[],"cksum":"80712752323fe08ceec0bd831a76133aeb1e48a4c9d9091abe673bdb41be10f3","features":{},"yanked":false,"rust_version":"1.87.0"}
 {"name":"better-config-core","vers":"0.2.2","deps":[],"cksum":"76c6597b3fd403edd0a82466392ebf0de014a171b20c31450fa56c65740fc786","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.3","deps":[{"name":"serial_test","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d080eae031f6b530c20b76d73aba197ead5d503b21aa3bfd37599bda61da1f40","features":{},"yanked":false,"rust_version":"1.87.0"}
