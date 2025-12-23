@@ -1,0 +1,1 @@
+{"name":"mdstream","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"101ce616615483ec769de434cd481f50e64459fb235816e4807a3947bb392b6d","features":{"default":[]},"features2":{"pulldown":["dep:pulldown-cmark"]},"yanked":false,"rust_version":"1.85","v":2}
