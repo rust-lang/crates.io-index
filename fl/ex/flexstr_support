@@ -1,0 +1,1 @@
+{"name":"flexstr_support","vers":"0.1.0","deps":[],"cksum":"c0e7be7e73a313be22391781dc1884829448da5e6ce6da199f61121c1149539a","features":{"bytes":[],"cstr":[],"default":["std","str"],"osstr":["std"],"path":["osstr"],"safe":[],"std":[],"str":[],"win_min_unsafe":["safe"]},"yanked":false}
