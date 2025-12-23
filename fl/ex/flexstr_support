@@ -1,1 +1,2 @@
 {"name":"flexstr_support","vers":"0.1.0","deps":[],"cksum":"c0e7be7e73a313be22391781dc1884829448da5e6ce6da199f61121c1149539a","features":{"bytes":[],"cstr":[],"default":["std","str"],"osstr":["std"],"path":["osstr"],"safe":[],"std":[],"str":[],"win_min_unsafe":["safe"]},"yanked":false}
+{"name":"flexstr_support","vers":"0.1.1","deps":[],"cksum":"ded8af9030723bb45eea56d771ea30502718abb6adbac8eab763af8961f04ad4","features":{"bytes":[],"cstr":[],"default":["std","str"],"osstr":["std"],"path":["osstr"],"safe":[],"std":[],"str":[],"win_min_unsafe":["safe"]},"yanked":false}
