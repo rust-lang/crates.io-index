@@ -1,1 +1,2 @@
 {"name":"bevy-dynamic-viewport","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.17.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68feaca1bc6f58bc3fdffdad8159908faa57fdbeb2b7a78d9f6fef15c9634de0","features":{},"yanked":false}
+{"name":"bevy-dynamic-viewport","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.17.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"535a8e06999793372b91a0da69558978ff4114ff2f64bbb831d3cee1d9a898fc","features":{},"yanked":false}
