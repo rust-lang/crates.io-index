@@ -1,1 +1,2 @@
 {"name":"chromakitx","vers":"1.0.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca2191cc5f12d50e38754d32e34b21632fb6a3d2a90c43ed0f8571af91f75eb3","features":{},"yanked":false}
+{"name":"chromakitx","vers":"1.0.1","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4efca7de5789506a44aeeab9b83a6d05dce6e2426588ddb8d3f6634864ad0b60","features":{},"yanked":false}
