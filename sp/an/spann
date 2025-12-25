@@ -1,0 +1,1 @@
+{"name":"spann","vers":"0.1.0","deps":[{"name":"half","req":"^2.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ndarray","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d951593a638f800060f2234f5d6f96bb920510102e11b5e214a4e908699ad9d","features":{},"yanked":false}
