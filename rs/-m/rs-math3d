@@ -23,3 +23,4 @@
 {"name":"rs-math3d","vers":"0.9.22","deps":[],"cksum":"4b1317bbaa3de284691ae32b53e704b88432b2de808e2643fb46bb63fb398b59","features":{"default":[]},"yanked":false}
 {"name":"rs-math3d","vers":"0.9.23","deps":[],"cksum":"559d1abbae6f7cb01890e03c05c504eac1df9ac983640c3d9f693234556c4145","features":{"default":[]},"yanked":false}
 {"name":"rs-math3d","vers":"0.9.24","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"41681f1f3c2e9cd761cac6cc7df59376e3053e4baa0cd495d602141265f56a74","features":{},"yanked":false}
+{"name":"rs-math3d","vers":"0.10.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63fd824c6bfe4d97bd7357cdfda5d86e4b2c177b247d99abc99c28eae6754e39","features":{"default":[],"std":["num-traits/std"]},"yanked":false}
