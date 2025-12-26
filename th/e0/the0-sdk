@@ -1,1 +1,2 @@
 {"name":"the0-sdk","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a8ccaba94ae161cb4648bae1a09ffaaba3a5e828e651d7e34edca7d9eeea984","features":{},"yanked":false}
+{"name":"the0-sdk","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbf2d25309c7dd9f51d1a3731dc335f1386ccdd666f0d3d29633f4243d18caa3","features":{},"yanked":false}
