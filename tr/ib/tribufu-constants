@@ -1,1 +1,2 @@
-{"name":"tribufu-constants","vers":"0.1.0","deps":[],"cksum":"c32735ae6f3df9852a6b5d06daf22e19693cc875cc51a62cbaee6cdb2ac35b59","features":{},"yanked":false}
+{"name":"tribufu-constants","vers":"0.1.0","deps":[],"cksum":"c32735ae6f3df9852a6b5d06daf22e19693cc875cc51a62cbaee6cdb2ac35b59","features":{},"yanked":false,"pubtime":"2023-12-31T18:39:30Z"}
+{"name":"tribufu-constants","vers":"1.0.0","deps":[{"name":"vergen","req":"=5.1.5","features":["build","cargo","rustc"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"29950fce1674ce5114678b1937175c165022556e3fd80e472011e13c95cbf7f7","features":{},"yanked":false,"pubtime":"2025-12-27T13:17:51Z"}
