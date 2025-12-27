@@ -1,1 +1,2 @@
 {"name":"cover-files","vers":"0.1.20","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45127b6850e0c816e4edae02d8b5be99d7b94fad007a60dbfbf8423ac1967f02","features":{},"yanked":false}
+{"name":"cover-files","vers":"0.1.21","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35b8944f49e9d7bef9cf9fe61a0080d5992edcede93470c6606b3bf37b9111c5","features":{},"yanked":false}
