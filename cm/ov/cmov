@@ -1,7 +1,7 @@
 {"name":"cmov","vers":"0.0.0","deps":[],"cksum":"bd407cdcd146d3ff9f3e97458dbb38ba6beb1ebe000c688027c224b93aaf522a","features":{},"yanked":true,"pubtime":"2022-02-11T00:09:58Z"}
 {"name":"cmov","vers":"0.1.0","deps":[],"cksum":"ab1306711eb5a77cc0957bfb08396cdd837a3e3ed0854723d7e3bf0d756bc144","features":{},"yanked":false,"rust_version":"1.59","pubtime":"2022-02-27T15:15:13Z"}
 {"name":"cmov","vers":"0.1.1","deps":[],"cksum":"d698347f962257974ba755ec61210bfebddfa10b514b507e01317c58ba840c65","features":{},"yanked":false,"rust_version":"1.59","pubtime":"2022-03-02T16:07:40Z"}
-{"name":"cmov","vers":"0.2.0","deps":[],"cksum":"254890f9fb6f7239e0f54eed04dea0c0862167206e8315aebfba3443d591871c","features":{},"yanked":false,"rust_version":"1.60","pubtime":"2023-02-26T20:28:28Z"}
+{"name":"cmov","vers":"0.2.0","deps":[],"cksum":"254890f9fb6f7239e0f54eed04dea0c0862167206e8315aebfba3443d591871c","features":{},"yanked":true,"rust_version":"1.60","pubtime":"2023-02-26T20:28:28Z"}
 {"name":"cmov","vers":"0.3.0","deps":[],"cksum":"aadf78c7ab2a10d7fd054aeb003c89ba2d3fb0dec68a100a057acf760040822b","features":{},"yanked":true,"rust_version":"1.60","pubtime":"2023-04-03T03:11:58Z"}
 {"name":"cmov","vers":"0.3.1","deps":[],"cksum":"1b1dc960ba75d543267db9254da8ec1cb318a037beb3f8d2497520e410096fab","features":{},"yanked":true,"rust_version":"1.60","pubtime":"2023-10-14T22:59:02Z"}
 {"name":"cmov","vers":"0.4.0","deps":[],"cksum":"f86e55546fc1331ac555140c7124a11054fdd2a4f7b698c422e098898e338a3e","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2025-09-10T20:38:09Z"}
