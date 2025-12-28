@@ -1,0 +1,1 @@
+{"name":"viewpoint-js-core","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5ef6838d6486de4540bce13ff19f96a8ace630af297dc0d7d4084f0c1fc2bcd","features":{"default":[],"json":["serde_json"]},"yanked":false,"rust_version":"1.85","pubtime":"2025-12-28T17:53:39Z"}
