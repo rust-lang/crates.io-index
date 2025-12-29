@@ -1,4 +1,4 @@
-{"name":"spanley","vers":"0.1.0","deps":[],"cksum":"cb54f5b24f9d2e21ae80fa4eb97a3a499b998fa85ddca18a61cb273dd51e4c33","features":{},"yanked":false,"pubtime":"2025-12-11T05:39:31Z"}
+{"name":"spanley","vers":"0.1.0","deps":[],"cksum":"cb54f5b24f9d2e21ae80fa4eb97a3a499b998fa85ddca18a61cb273dd51e4c33","features":{},"yanked":true,"pubtime":"2025-12-11T05:39:31Z"}
 {"name":"spanley","vers":"0.1.1","deps":[],"cksum":"510b69db4fa054875e36389c439635322cc585d0a18253cfcdf9e363d7867b42","features":{},"yanked":false,"pubtime":"2025-12-11T05:55:51Z"}
 {"name":"spanley","vers":"0.1.2","deps":[],"cksum":"cca3fca0bf16392a49d8dac6a64c081a3b1a622aa936ae5b19549feb41750650","features":{},"yanked":false,"pubtime":"2025-12-11T06:13:27Z"}
 {"name":"spanley","vers":"0.1.3","deps":[{"name":"mutants","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c5683879e79cce913840da32621cdd1e268fab58d5a938ab4fe23f154947e1fd","features":{},"yanked":false,"pubtime":"2025-12-14T23:31:12Z"}
