@@ -1,0 +1,1 @@
+{"name":"libdecor-headers","vers":"0.1.0+0.2.2","deps":[{"name":"wayland-headers","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e128789439a429ce111fb56a5bdba27c42185c6cea249295dfd78d4cbeabc9f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2025-12-29T00:16:12Z"}
