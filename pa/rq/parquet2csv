@@ -1,1 +1,0 @@
-{"name":"parquet2csv","vers":"2025.3.23","deps":[{"name":"polars","req":"^0.46.0","features":["parquet"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1747b5a1944f6faf3f9fa46bf208d0d1a66d4b0bf1946ba1f4befde168030800","features":{},"yanked":false}
