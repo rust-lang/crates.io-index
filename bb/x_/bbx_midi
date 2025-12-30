@@ -1,0 +1,1 @@
+{"name":"bbx_midi","vers":"0.2.0","deps":[{"name":"midir","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb541e7bb82ca97524967413ce84f4468ead34b0172db9fe0d46e43f1f8722af","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-12-30T00:37:46Z"}
