@@ -1,0 +1,1 @@
+{"name":"scopes-rs","vers":"0.1.0","deps":[{"name":"scopes-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d4a149e7ff18701bff2ef8c805563115538925f02e3b7af0f537e50a25946de","features":{"hierarchy":["scopes-macros/hierarchy"]},"yanked":false,"pubtime":"2025-12-30T10:12:19Z"}
