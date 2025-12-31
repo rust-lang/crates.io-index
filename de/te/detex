@@ -1,1 +1,2 @@
 {"name":"detex","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a429cb95a7350b14bf0fea4a89e1ab912e8795654b7c98d026e2746dc9df5528","features":{},"yanked":false,"pubtime":"2025-12-30T00:03:10Z"}
+{"name":"detex","vers":"0.2.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35bcf169852f7b55b2431fb7a52118bcffb4df9c7447199d9e1675c453e57b7a","features":{},"yanked":false,"pubtime":"2025-12-31T20:30:11Z"}
