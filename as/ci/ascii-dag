@@ -1,2 +1,3 @@
-{"name":"ascii-dag","vers":"0.1.0","deps":[],"cksum":"d757243aef5d2045d8ac14b846c4b0bf808dec9c62bf3a62f53b678afe1f57b4","features":{"default":["std"],"std":[],"warnings":["std"]},"yanked":false}
-{"name":"ascii-dag","vers":"0.2.0","deps":[],"cksum":"1ec36daa556391c6a98250737a9b83c25e19715d38b1768767f42a1558aa10aa","features":{"default":["std","generic"],"generic":[],"serde":[],"std":[],"warnings":["std"]},"yanked":false}
+{"name":"ascii-dag","vers":"0.1.0","deps":[],"cksum":"d757243aef5d2045d8ac14b846c4b0bf808dec9c62bf3a62f53b678afe1f57b4","features":{"default":["std"],"std":[],"warnings":["std"]},"yanked":false,"pubtime":"2025-10-23T07:22:14Z"}
+{"name":"ascii-dag","vers":"0.2.0","deps":[],"cksum":"1ec36daa556391c6a98250737a9b83c25e19715d38b1768767f42a1558aa10aa","features":{"default":["std","generic"],"generic":[],"serde":[],"std":[],"warnings":["std"]},"yanked":false,"pubtime":"2025-10-24T03:32:30Z"}
+{"name":"ascii-dag","vers":"0.3.1","deps":[],"cksum":"4165754f258c8eaea0362287535521a27d8a1eceefe8800f411d36c1c4952ac8","features":{"default":["std","generic"],"generic":[],"serde":[],"std":[],"warnings":["std"]},"yanked":false,"pubtime":"2025-12-31T07:32:48Z"}
