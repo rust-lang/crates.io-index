@@ -1,1 +1,2 @@
-{"name":"manylists","vers":"0.1.0","deps":[],"cksum":"9b1978185e7ebf2de493ed7e4652bf0a3b9e705adabc8cb82ceb888bfc510a40","features":{},"yanked":true}
+{"name":"manylists","vers":"0.1.0","deps":[],"cksum":"9b1978185e7ebf2de493ed7e4652bf0a3b9e705adabc8cb82ceb888bfc510a40","features":{},"yanked":true,"pubtime":"2025-12-26T22:37:17Z"}
+{"name":"manylists","vers":"0.2.0","deps":[{"name":"common_traits","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"995184ba5153125ac32455bc0616ca74c450c6533479b3d94ee66ed1afac5c5d","features":{},"yanked":false,"pubtime":"2025-12-31T22:57:08Z"}
