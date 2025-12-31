@@ -1,0 +1,1 @@
+{"name":"systemd-user-timers","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.43","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6970ddb814adb5ad537961985907ae45da6996b41b3758fe540b3d61ef313491","features":{},"yanked":false,"pubtime":"2025-12-31T16:49:48Z"}
