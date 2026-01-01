@@ -1,2 +1,0 @@
-{"name":"tfc_toolbox_rs","vers":"0.1.0","deps":[],"cksum":"300b49e7103c4972f7e4b4d84d18f9d08b68add16658cb4da1498a5992272e19","features":{},"yanked":false}
-{"name":"tfc_toolbox_rs","vers":"0.5.1","deps":[{"name":"md5","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rpassword","req":"^7.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b217a1ce7bc361bd8dc387dcefd331f581a67503ed34156a6447b67c0bc3b110","features":{},"yanked":false}
