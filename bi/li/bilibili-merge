@@ -1,1 +1,2 @@
-{"name":"bilibili-merge","vers":"0.1.0","deps":[],"cksum":"3ce8a1a2ebc19c7149b1fa9ee01ee56c97dfb2cb967178ba683386f4dab14390","features":{},"yanked":false}
+{"name":"bilibili-merge","vers":"0.1.0","deps":[],"cksum":"3ce8a1a2ebc19c7149b1fa9ee01ee56c97dfb2cb967178ba683386f4dab14390","features":{},"yanked":false,"pubtime":"2024-09-30T02:57:33Z"}
+{"name":"bilibili-merge","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"102b2a4193b2383f385c606e49172787fd5ff8f4c5ee9d05e20161a9224e9786","features":{},"yanked":false,"pubtime":"2026-01-03T17:46:47Z"}
