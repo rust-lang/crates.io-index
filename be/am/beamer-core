@@ -1,2 +1,3 @@
 {"name":"beamer-core","vers":"0.1.0","deps":[],"cksum":"e72e5d63fc15f1f4ecebf0afc8289a731c3892d57017b1fd95e1ebdde84922e5","features":{"default":[],"sysex-1024":[],"sysex-2048":[],"sysex-256":[]},"yanked":false,"pubtime":"2026-01-04T18:11:43Z"}
 {"name":"beamer-core","vers":"0.1.1","deps":[],"cksum":"f8047a50760563bf074b251132fe2272a227b7d8ca959b7af5610984bcc13416","features":{"default":[],"sysex-1024":[],"sysex-2048":[],"sysex-256":[]},"yanked":false,"pubtime":"2026-01-04T18:32:39Z"}
+{"name":"beamer-core","vers":"0.1.2","deps":[],"cksum":"0b3afb07ce8cde2838a9bc0573c582e3ff4830ae1ccf513d1528f2e9429effaa","features":{"default":[],"sysex-1024":[],"sysex-2048":[],"sysex-256":[]},"yanked":false,"pubtime":"2026-01-04T23:11:40Z"}
