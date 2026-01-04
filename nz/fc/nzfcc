@@ -1,0 +1,1 @@
+{"name":"nzfcc","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b44d9aa3e4a1f17741c54183697b8e680335ae61d2d371989ba204cdc0850a9c","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-01-04T20:46:19Z","v":2}
