@@ -1,1 +1,2 @@
 {"name":"eix","vers":"0.1.0","deps":[],"cksum":"3729586717aaf5f7cfd99ca6b6b7fe3fd5933ce1b2e57a4de7240f1ee79e2118","features":{},"yanked":false,"pubtime":"2026-01-05T10:32:04Z"}
+{"name":"eix","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e39b0d24eff1b9891a05d4dfbc2a4fe4c0bb5cb94d459a175bc6a3aeae65234","features":{},"yanked":false,"pubtime":"2026-01-05T11:58:04Z"}
