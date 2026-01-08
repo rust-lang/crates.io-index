@@ -7,3 +7,4 @@
 {"name":"btfparse","vers":"1.3.6","deps":[],"cksum":"c55bea4508bc6b6a1e60103270762587c389130c1e33daf28f70ef61c13585c6","features":{},"yanked":false,"pubtime":"2025-11-14T10:45:30Z"}
 {"name":"btfparse","vers":"1.3.7","deps":[],"cksum":"d7cab399cddea08bb657577282a6459c9c67a8e3dd74a72ef3f60b19d65fc272","features":{},"yanked":false,"pubtime":"2025-12-25T11:38:12Z"}
 {"name":"btfparse","vers":"1.3.8","deps":[],"cksum":"3a36ee744379e955387e9a08506b5242d9913d9ac17f039ed9ec67ddc008b416","features":{"caching":[],"default":[]},"yanked":false,"pubtime":"2026-01-07T08:41:33Z"}
+{"name":"btfparse","vers":"1.3.9","deps":[],"cksum":"eb58753cb657327cef7fcabd72f88ea33adf32edee7d1e0c06301b685b498c75","features":{"caching":[],"default":[]},"yanked":false,"pubtime":"2026-01-08T08:16:12Z"}
