@@ -1,0 +1,1 @@
+{"name":"inco-lightning","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.31.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f11c802f7492f549f178c0afe401338958c596fa93f78d609be71b82bfeafd9","features":{"cpi":[],"default":[],"idl-build":["anchor-lang/idl-build"]},"yanked":false,"pubtime":"2026-01-08T13:41:18Z"}
