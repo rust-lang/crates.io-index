@@ -1,0 +1,1 @@
+{"name":"sntpc-net-std","vers":"1.0.0","deps":[{"name":"sntpc","req":"~0.8","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5caca070fcf1bd834656705be46aa298d3da068665dd226d2244532302324b32","features":{},"yanked":false,"pubtime":"2026-01-08T11:29:43Z"}
