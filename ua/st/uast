@@ -40,3 +40,4 @@
 {"name":"uast","vers":"6.0.7","deps":[],"cksum":"202836673d30a932885597069ed8cfb2a02c56179722567aaeb7789b0f2ce379","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2025-11-29T20:51:27Z"}
 {"name":"uast","vers":"7.0.0","deps":[],"cksum":"fb6d64a2e0e3bced80a52d85adf54779844a0b132e059b95d2f0157b95761587","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2025-11-30T03:56:16Z"}
 {"name":"uast","vers":"7.0.1","deps":[],"cksum":"49a86e29b297b13d80ef66cf2acc0482205ba0de9abe7fef936232c91fcdb1ff","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2025-12-31T18:13:56Z"}
+{"name":"uast","vers":"7.0.2","deps":[],"cksum":"3b7af59737da63fad2d387df536b9fe0be1d8d456a113d4647763a3ba3e39b81","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-09T19:11:58Z"}
