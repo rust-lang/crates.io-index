@@ -1,0 +1,1 @@
+{"name":"lowkit","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.49.0","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d28246eb084d9842ff7e766a6ff7fb0d599b679d29fbf0fa33ea318cfd6c1ee","features":{},"yanked":false,"pubtime":"2026-01-09T17:14:04Z"}
