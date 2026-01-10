@@ -1,1 +1,2 @@
-{"name":"glazeui","vers":"0.0.1","deps":[],"cksum":"cff62dc60f4e1e344f73d343de538154aaedd8486a2796888e9d0b9a1787ca1c","features":{},"yanked":false}
+{"name":"glazeui","vers":"0.0.1","deps":[],"cksum":"cff62dc60f4e1e344f73d343de538154aaedd8486a2796888e9d0b9a1787ca1c","features":{},"yanked":false,"pubtime":"2025-12-21T22:40:19Z"}
+{"name":"glazeui","vers":"0.0.2","deps":[{"name":"arboard","req":"^3.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9e28685b1c458698cd77447996e85adfff2f00f87a2f6f325a36a091fcc1819","features":{},"yanked":false,"pubtime":"2026-01-10T17:32:44Z"}
