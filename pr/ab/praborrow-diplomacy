@@ -4,3 +4,4 @@
 {"name":"praborrow-diplomacy","vers":"0.3.0","deps":[],"cksum":"470ec4589fcfc4b8cf4f96529f5ab122cf11153e0074c5ac306aadb439ece696","features":{},"yanked":false,"pubtime":"2026-01-09T16:53:56Z"}
 {"name":"praborrow-diplomacy","vers":"0.4.0","deps":[],"cksum":"7f1b69faacd1e396874bc6ab163a77ec6ae2790757f39f25bf7dee8469486734","features":{},"yanked":false,"pubtime":"2026-01-09T17:22:16Z"}
 {"name":"praborrow-diplomacy","vers":"0.5.0","deps":[],"cksum":"3ec8901fc465e591d13fa0aee119035fcfd9abe48af19cc7a5a04296fe648af0","features":{},"yanked":false,"pubtime":"2026-01-10T08:00:33Z"}
+{"name":"praborrow-diplomacy","vers":"0.7.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f5b73d991ed537ee4c85b169e4a0734e41f4bb40af143afe6e2a2c96d3cf9d80","features":{},"yanked":false,"pubtime":"2026-01-11T07:46:28Z"}
