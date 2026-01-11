@@ -1,1 +1,2 @@
 {"name":"kconfq","vers":"0.1.0","deps":[],"cksum":"e3d2ea1d6efb7d85fdb7e07e2759ba43aa52b8f8d7f24f2c925237f748711dce","features":{},"yanked":false,"pubtime":"2026-01-09T12:46:13Z"}
+{"name":"kconfq","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.54","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"528805af94ff4e5fc0fb849926288777fd0cc49e0686361242d4969cb2ca7e76","features":{},"yanked":false,"pubtime":"2026-01-11T12:29:41Z"}
