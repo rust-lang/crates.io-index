@@ -1,2 +1,3 @@
 {"name":"enough","vers":"0.1.0","deps":[],"cksum":"a2dc772a70cc1a6193104f5889624294f3361c906401c960b96e87ee69994ad1","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-11T00:06:38Z"}
 {"name":"enough","vers":"0.1.1","deps":[],"cksum":"c2c95425e8679d72219348eae8389fedff20ae934e26a2d93a7daee652357789","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-11T00:59:06Z"}
+{"name":"enough","vers":"0.1.2","deps":[],"cksum":"ed258ad2e2e449ede2b61090719f28ac8f6519180e8f19a033d15780df9c82b3","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-11T02:03:56Z"}
