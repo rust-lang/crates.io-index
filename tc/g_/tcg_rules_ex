@@ -1,0 +1,1 @@
+{"name":"tcg_rules_ex","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da23c63db1574fa4da99acfaecb94ced47366efc63ac5a0051d7c527fadc2736","features":{},"yanked":false,"pubtime":"2026-01-12T21:12:39Z"}
