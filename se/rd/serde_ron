@@ -1,0 +1,1 @@
+{"name":"serde_ron","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f82236e6c6904898bb79ef297705999960b58db366920f3ec2505a73d444289","features":{},"yanked":false,"pubtime":"2026-01-13T12:07:11Z"}
