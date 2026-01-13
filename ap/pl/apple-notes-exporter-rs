@@ -1,0 +1,1 @@
+{"name":"apple-notes-exporter-rs","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"979fd647fca0daa80b6f82778087a731ff581829815ffc4b8832165d777298e6","features":{},"yanked":false,"pubtime":"2026-01-13T04:31:13Z"}
