@@ -1,2 +1,3 @@
 {"name":"display_as_debug","vers":"0.2.0","deps":[],"cksum":"86133a5deb2398636d0901ce53a0dc6ec383bce76bbefc4de29339fbb4ebe564","features":{},"yanked":false,"pubtime":"2025-12-18T03:37:01Z"}
 {"name":"display_as_debug","vers":"0.3.0","deps":[],"cksum":"7a008f893024c4b4b6eb4ed6e85b4ba87f36c688550197d83f9e9d097870b502","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-07T19:49:13Z"}
+{"name":"display_as_debug","vers":"0.4.0","deps":[{"name":"sealed","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbb3285aacde5fcac75ea7965fbcb17bd762ea600abdb39c0f38dd7734a866c9","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-14T16:56:21Z"}
