@@ -1,0 +1,1 @@
+{"name":"async_drop","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d11e4d8b9050bd90b7fe94c4bceba9794342ab070a6ae67680a506599f9fb869","features":{},"yanked":false,"pubtime":"2026-01-14T18:52:27Z"}
