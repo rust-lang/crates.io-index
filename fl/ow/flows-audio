@@ -1,0 +1,1 @@
+{"name":"flows-audio","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"82009aadc969a09c47ff9bc34fd1638f2b1f6f64fa7d025bf5fdb338090e505d","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T21:52:57Z"}
