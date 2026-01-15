@@ -1,0 +1,1 @@
+{"name":"flows-text","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1e3da3cfc44fe086557dc000a8eb13cbe0dd97202bc2c4b1c1c084372c023cbe","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T22:52:46Z"}
