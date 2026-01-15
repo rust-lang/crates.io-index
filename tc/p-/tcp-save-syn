@@ -1,0 +1,1 @@
+{"name":"tcp-save-syn","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"f802ebbfdca4d240725f3dcf8e4c1935eeb47528a296c80f6a92ec8d665f8dab","features":{},"yanked":false,"pubtime":"2026-01-15T14:41:05Z"}
