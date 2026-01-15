@@ -1,0 +1,1 @@
+{"name":"flows-hash","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"289566ae5c49e052a12f803407dc20668e7d83ad101000f63eb50875b7c0335b","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T21:52:58Z"}
