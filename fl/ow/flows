@@ -1,0 +1,1 @@
+{"name":"flows","vers":"0.0.0","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d85e7fa11f6c6216a4fd77ea251f698910f84f01e2d65b7e0b06986d841d1def","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"pubtime":"2026-01-15T19:21:28Z"}
