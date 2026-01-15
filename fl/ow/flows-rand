@@ -1,0 +1,1 @@
+{"name":"flows-rand","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6728e56d63b9831c9f61d42a301d13198e4a1d8d45b528c8ea953a8807d460e4","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T22:52:36Z"}
