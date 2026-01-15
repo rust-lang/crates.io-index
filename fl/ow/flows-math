@@ -1,0 +1,1 @@
+{"name":"flows-math","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dec8635646f8b531816cc2678c1ff34056dcf025ed4f21e0118a8b299da991f6","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T22:11:45Z"}
