@@ -1,0 +1,1 @@
+{"name":"flows-io","vers":"0.0.1","deps":[{"name":"async-flow","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8ee5b50485792ca586694124166ff19618e9ed4a86f5f380db1e521e8a9a312d","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-15T21:52:58Z"}
