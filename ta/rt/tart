@@ -1,0 +1,1 @@
+{"name":"tart","vers":"0.1.0","deps":[{"name":"shlex","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5af0533e122b02cec150c8f71ce1a47c1453d672ae8f3ab83d09032a0f52df0e","features":{"c":[],"cpp":[],"default":[],"go":["c"]},"yanked":false,"pubtime":"2026-01-16T19:15:40Z"}
