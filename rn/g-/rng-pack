@@ -1,3 +1,4 @@
 {"name":"rng-pack","vers":"0.1.0","deps":[{"name":"csbindgen","req":"^1.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6eac7eef82319cb88597c9bdf7e071feb77dc88b0ce6a7772c92ab71ab210420","features":{},"yanked":false,"pubtime":"2026-01-16T06:47:56Z"}
 {"name":"rng-pack","vers":"0.1.1","deps":[],"cksum":"09eb1d5bcd58809bcd870019fadc869bd8099ffb5843cc60d2337bf767a784cf","features":{},"yanked":false,"pubtime":"2026-01-16T06:49:21Z"}
 {"name":"rng-pack","vers":"0.2.0","deps":[],"cksum":"108a3e12f1f48e54505455f5fbba6aa2f3432cc620cc1528a89d3a7ebc3630d5","features":{},"yanked":false,"pubtime":"2026-01-16T07:39:37Z"}
+{"name":"rng-pack","vers":"0.2.1","deps":[],"cksum":"ad6a84a28885f1898d58e4f56d2449a19b40f9ca4101b5ea7e085ac923638544","features":{},"yanked":false,"pubtime":"2026-01-16T07:53:13Z"}
