@@ -1,0 +1,1 @@
+{"name":"uds-fork","vers":"0.5.0","deps":[{"name":"libc","req":"~0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"58ecd20f2c54f372897d8d36944426e08c42a534747f825c3078b93f94afd1f0","features":{},"yanked":false,"pubtime":"2026-01-17T01:17:57Z"}
