@@ -3,4 +3,4 @@
 {"name":"derive-wizard-types","vers":"0.4.0","deps":[],"cksum":"6becc5af11a3d01f8558131568a40a255844e6e6eed5ab0c169e9c554f464acb","features":{},"yanked":false,"pubtime":"2025-12-28T17:55:48Z"}
 {"name":"derive-wizard-types","vers":"0.5.0","deps":[],"cksum":"f9579b6c5e8a42aad9f00d0cc3f17b9f8605e93de24648e68a657c90c6829f2d","features":{},"yanked":false,"pubtime":"2026-01-04T23:06:55Z"}
 {"name":"derive-wizard-types","vers":"0.5.0-use-the-elicitor-crate-instead","deps":[],"cksum":"bc834629a25cbe4d0cd91835a340002338bc20d4d7ffb583faff1e13436d632c","features":{},"yanked":false,"pubtime":"2026-01-17T11:47:20Z"}
-{"name":"derive-wizard-types","vers":"0.5.1-use-the-elicitor-crate-instead","deps":[],"cksum":"515da411bce8cefeb8bb9db55f1a012055209a84297434dc6d959969346bab91","features":{},"yanked":false,"pubtime":"2026-01-17T11:51:36Z"}
+{"name":"derive-wizard-types","vers":"0.5.1-use-the-elicitor-crate-instead","deps":[],"cksum":"515da411bce8cefeb8bb9db55f1a012055209a84297434dc6d959969346bab91","features":{},"yanked":true,"pubtime":"2026-01-17T11:51:36Z"}
