@@ -1,1 +1,2 @@
-{"name":"solc","vers":"0.0.1","deps":[],"cksum":"10bdacb0b7924295918a3ddf0f41a3edcb3e13575cd28d78203b0fc56d823ca3","features":{},"yanked":false}
+{"name":"solc","vers":"0.0.1","deps":[],"cksum":"10bdacb0b7924295918a3ddf0f41a3edcb3e13575cd28d78203b0fc56d823ca3","features":{},"yanked":false,"pubtime":"2025-12-16T04:02:22Z"}
+{"name":"solc","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ed656c5376c8b18329f75d56b345507139c575865f06165ec0d0a07974046ce","features":{},"yanked":false,"pubtime":"2026-01-17T09:41:03Z"}
