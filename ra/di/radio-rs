@@ -4,3 +4,4 @@
 {"name":"radio-rs","vers":"2.0.1","deps":[],"cksum":"3a48dacf13b0e944c1e627a42832ad9bccf9f481fa7668baa13fa15f1ad18209","features":{},"yanked":true,"pubtime":"2024-09-13T06:26:47Z"}
 {"name":"radio-rs","vers":"2.0.2","deps":[],"cksum":"05f2fa4fd2a77b1b514457e2822cf397d9878399e42a73def13fcb3b7bf29b90","features":{},"yanked":false,"pubtime":"2024-10-26T11:35:27Z"}
 {"name":"radio-rs","vers":"2.0.3","deps":[{"name":"cc","req":"^1.2.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5ab8b22c80d05379edfb8b02fb0889508a6704f24f9fec1dc317b5e9a9437a66","features":{},"yanked":false,"pubtime":"2026-01-27T13:03:44Z"}
+{"name":"radio-rs","vers":"2.0.4","deps":[{"name":"cc","req":"^1.2.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8a7df63c985da0b162f3403afa7ff039426f15c68ce32a37a334fea7510e7e93","features":{},"yanked":false,"pubtime":"2026-01-27T13:18:26Z"}
