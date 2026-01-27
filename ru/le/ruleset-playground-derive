@@ -8,3 +8,4 @@
 {"name":"ruleset-playground-derive","vers":"0.4.4","deps":[{"name":"solana-rpc-client","req":"=3.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72f545b02cdac4eea8c802d1f2330c103763fde4635f55f4f89b34fa3d6cccf0","features":{},"yanked":false,"pubtime":"2026-01-26T04:31:39Z"}
 {"name":"ruleset-playground-derive","vers":"0.4.5","deps":[],"cksum":"f441d101aafb56a7ecaeff5eda739419c8df46d9b44a337e874d62ff2a3d1675","features":{},"yanked":false,"pubtime":"2026-01-26T04:50:47Z"}
 {"name":"ruleset-playground-derive","vers":"0.4.6","deps":[],"cksum":"6e7b39cce919168dff2e3f6e58fe08f5598f041522f3e24cde45f719678c2593","features":{},"yanked":false,"pubtime":"2026-01-27T02:43:17Z"}
+{"name":"ruleset-playground-derive","vers":"0.4.7","deps":[],"cksum":"722730506a7989fb93bee80850af135a8e74756594d662a8e1be1bc21a8a69bc","features":{},"yanked":false,"pubtime":"2026-01-27T12:07:49Z"}
