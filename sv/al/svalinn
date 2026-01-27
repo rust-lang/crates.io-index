@@ -1,0 +1,1 @@
+{"name":"svalinn","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc05ee794c4ead5f54b56519fec2809f230779c5007f5a7eb2609d3c89548075","features":{"std":[]},"features2":{"cli":["dep:clap"],"default":["std","cli"]},"yanked":false,"pubtime":"2026-01-27T22:50:50Z","v":2}
