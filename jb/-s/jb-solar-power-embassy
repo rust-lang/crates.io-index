@@ -1,0 +1,1 @@
+{"name":"jb-solar-power-embassy","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31b060c305deaed3c9293ffebac753af1cdfd2c0e27cb854c515ef4b5180ac13","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-27T19:22:02Z"}
