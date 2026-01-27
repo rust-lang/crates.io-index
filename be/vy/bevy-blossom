@@ -1,0 +1,1 @@
+{"name":"bevy-blossom","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.18.0","features":["bevy_pbr","bevy_post_process"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5a14b8d92f18fa6c818ce59e39c2cc500b2830318336c235165c0c26bf15cdea","features":{},"yanked":false,"pubtime":"2026-01-27T16:31:53Z"}
