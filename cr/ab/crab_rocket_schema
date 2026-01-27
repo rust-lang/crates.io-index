@@ -1,0 +1,1 @@
+{"name":"crab_rocket_schema","vers":"0.1.0","deps":[{"name":"diesel","req":"^2.1.0","features":["postgres","chrono","uuid"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"764dd560583cf15adce3bdbcf0fab540c3057b637723e46a66824c3dec427b28","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cached_fn","vers":"0.1.0","deps":[{"name":"rustc-hash","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c03b409411a97613beb7f6de056bccee63f127680018b44e9f849bc4c5ec8c94","features":{},"yanked":true}
+{"name":"cached_fn","vers":"0.1.1","deps":[{"name":"rustc-hash","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca8da1a41863aee93bea2025313e17fa79593c5dd7e17988524883268141f879","features":{},"yanked":false}

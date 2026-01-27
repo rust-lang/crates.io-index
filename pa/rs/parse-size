@@ -1,0 +1,2 @@
+{"name":"parse-size","vers":"1.0.0","deps":[],"cksum":"944553dd59c802559559161f9816429058b869003836120e262e8caec061b7ae","features":{"std":[]},"yanked":false}
+{"name":"parse-size","vers":"1.1.0","deps":[{"name":"clap","req":"^4.5","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"487f2ccd1e17ce8c1bfab3a65c89525af41cfad4c8659021a1e9a2aacd73b89b","features":{"std":[]},"yanked":false,"rust_version":"1.81.0"}

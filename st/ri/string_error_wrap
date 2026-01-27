@@ -1,0 +1,2 @@
+{"name":"string_error_wrap","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7a4b4d6aee0361b4f76c11e2e6bccd9e541901c345ecce43c85ee9bd551c62c","features":{},"yanked":true}
+{"name":"string_error_wrap","vers":"1.0.1","deps":[],"cksum":"16fa4282c0d95a21cd1c12e5203826127d3d3741e3e50ab377a0339c19b080ce","features":{},"yanked":false}

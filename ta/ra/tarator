@@ -1,0 +1,1 @@
+{"name":"tarator","vers":"0.1.0","deps":[{"name":"env_logger","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c1392d34b8de4beba849f0b540fb059af6c9a21ba64c578d3359a40577f03e4","features":{},"yanked":false}

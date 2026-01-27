@@ -1,0 +1,1 @@
+{"name":"groestlcoin-internals","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.103","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7ab8f6476dc5e65dab47ac48163668359f423a093a1189204a3b86e672761ded","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}

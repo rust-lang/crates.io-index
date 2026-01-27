@@ -1,0 +1,2 @@
+{"name":"vtashkov-bf","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af1589407d83e3c227974ad3f8600b013688f453cc7691c3c50b15eba9d059f0","features":{},"yanked":false}
+{"name":"vtashkov-bf","vers":"1.0.1","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25478d864c71019c8ecafe8cd9bc3d5a34507f8d6572e173d2c39c74cc0bbe9b","features":{},"yanked":false}

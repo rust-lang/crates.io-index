@@ -1,0 +1,2 @@
+{"name":"zen-console-input","vers":"0.1.0","deps":[],"cksum":"8bfc7b90f96ff1c64d5537afaccc2cd44ac61b1cecaae266bdfce9e1f6c3f1f0","features":{},"yanked":false}
+{"name":"zen-console-input","vers":"1.0.0","deps":[{"name":"rpassword","req":"^7.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"decae1cd7c1c127cb0fdcbf68546911de810f09944d17d03f2039d73c956092a","features":{"editor":[]},"yanked":false}

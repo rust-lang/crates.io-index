@@ -1,0 +1,2 @@
+{"name":"squeak","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8877cd452161d4defa7ba365915854438f7c6ce97745a72ec415846e7b9a173e","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"squeak","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"544afe2086c1e125f822e9567ac1d5e4185c1c64c4ad74c58200dd874ec51fbf","features":{},"yanked":false,"rust_version":"1.60.0"}

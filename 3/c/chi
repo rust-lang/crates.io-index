@@ -1,0 +1,1 @@
+{"name":"chi","vers":"0.0.1","deps":[{"name":"chrono","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5e56d9dfd42def53fad5b2ff3ca565398ddca87d7e6e6bee86bd104eb6b9055","features":{},"yanked":true}

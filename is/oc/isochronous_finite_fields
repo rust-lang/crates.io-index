@@ -1,0 +1,2 @@
+{"name":"isochronous_finite_fields","vers":"1.0.0","deps":[],"cksum":"96d10e353f45e54f040d97eee38777cc251c38a7b7aa9f05ebf1950a8c86d217","features":{},"yanked":false}
+{"name":"isochronous_finite_fields","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"98430f4a713fb5eed02257102ec7ce2ac83f3f9b102cbc840f9fc7bf8842b4ee","features":{},"yanked":false}

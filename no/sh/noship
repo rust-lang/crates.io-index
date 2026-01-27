@@ -1,0 +1,3 @@
+{"name":"noship","vers":"0.0.1","deps":[],"cksum":"334fc2fcf1d5027a38316dc4f683da8e3c37aa190faadde494030c544197f5c1","features":{},"yanked":true}
+{"name":"noship","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"04a3827c5922aa4e5397652c632c3c1467b833221734b484323a4bf93e8ffc79","features":{},"yanked":true}
+{"name":"noship","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1f48688011b64eb9f724be166f372bb96da6f1a5cc39761e9483d55868629715","features":{},"yanked":true}

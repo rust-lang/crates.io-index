@@ -1,0 +1,1 @@
+{"name":"from-mapper","vers":"0.1.0","deps":[{"name":"from-mapper-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16c4a06ddeb2e14558462db094ff8100d64792138d16010bab835c91a07d4883","features":{"default":["std"],"std":[]},"yanked":false}

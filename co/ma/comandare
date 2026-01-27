@@ -1,0 +1,3 @@
+{"name":"comandare","vers":"0.1.0","deps":[],"cksum":"d19e7749b09ff8ce56130e74c6e47febffaebeb70ed872232a4c9e4d6c9f987b","features":{},"yanked":false}
+{"name":"comandare","vers":"0.2.0","deps":[],"cksum":"a25392cd02d14cab50120b74ac5502b65b090b7f60e84d458982534808e743fd","features":{},"yanked":false}
+{"name":"comandare","vers":"0.3.0","deps":[{"name":"mockall","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8d542913e1a4727e8783eb138f6fbbabcf203df9f1f64f6b30afe31eebfdf1b","features":{},"yanked":false}

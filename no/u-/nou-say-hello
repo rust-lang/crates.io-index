@@ -1,0 +1,3 @@
+{"name":"nou-say-hello","vers":"0.1.0","deps":[],"cksum":"e64abd99d0499318bb585f9f1ba71f4c9982c131bbe296421ae47de1d8df7b68","features":{},"yanked":false}
+{"name":"nou-say-hello","vers":"0.2.0","deps":[],"cksum":"1c346132eeb5106139ea998f02afb0b905e0d53c77373fcdea42d8126d65ede6","features":{},"yanked":false}
+{"name":"nou-say-hello","vers":"0.3.0","deps":[],"cksum":"9f4f9db0bf440fd34aa55fe124f971b6587d9aef4bfdb694cabc1349b6e8e041","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

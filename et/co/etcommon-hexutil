@@ -1,0 +1,5 @@
+{"name":"etcommon-hexutil","vers":"0.2.0","deps":[],"cksum":"01af9f2238b648c02652ad7221a0e143074545e36116bc9b5a52ed6a6469832f","features":{},"yanked":false}
+{"name":"etcommon-hexutil","vers":"0.2.1","deps":[],"cksum":"cfd4c1c493517ef0c97433c717329b62d8697806231be60c941678e8d45676f9","features":{},"yanked":false}
+{"name":"etcommon-hexutil","vers":"0.2.2","deps":[],"cksum":"c9cdddb19d204a6f0965d5b0ef5e19843d92d6e7cf02dce15cf549013f4f9bb3","features":{},"yanked":false}
+{"name":"etcommon-hexutil","vers":"0.2.3","deps":[],"cksum":"f004de816005d210e0af76640ade09b78aa0b6e7065ddb627782374ccd299f8a","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"etcommon-hexutil","vers":"0.2.4","deps":[],"cksum":"20b4d1933bf88b806ba2d9189880b1b4ef205e42df9573b65716f2a50818024c","features":{"default":["std"],"std":[]},"yanked":false}

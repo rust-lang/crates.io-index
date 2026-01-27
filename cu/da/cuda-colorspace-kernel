@@ -1,0 +1,1 @@
+{"name":"cuda-colorspace-kernel","vers":"0.1.0","deps":[{"name":"nvptx-std","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"209d480a3d27ab7195714157dc9341b3519bd13ce35e482247433ff964e5cd8d","features":{},"yanked":false}

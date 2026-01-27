@@ -1,0 +1,2 @@
+{"name":"input_event_codes_hashmap","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef9ac419f6730de42ec62d1fa67e6b25ace6960117e6eb72c83334ebe0f6696","features":{},"yanked":true}
+{"name":"input_event_codes_hashmap","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57e29c993ff3f9851e6ed0f7c34b6a8909e68f8c932be5b664801aa680d15d2a","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"gorf-blc","vers":"0.1.1","deps":[{"name":"lambda_calculus","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53b562b8ed007e2444d0083b05927885bdc556b045a1308179d593179c87637b","features":{},"yanked":false}
+{"name":"gorf-blc","vers":"0.2.0-pre.0","deps":[{"name":"lambda_calculus","req":">=3.3.0, <5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f39e40d0c71782a7123111ec80aed2c25eb3ba7d9f53ef17ce4ac5a89b461b6","features":{},"yanked":false}

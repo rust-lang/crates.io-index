@@ -1,0 +1,2 @@
+{"name":"rformat","vers":"0.1.0","deps":[],"cksum":"f932bf8a3aaeb6bab3f3d56715365ef32e8bd8444a3b8d3d1973514cf4218576","features":{},"yanked":false}
+{"name":"rformat","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"trait_mux","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ba45ad2573e54a5fd3dd68793b46c62f5831fa49aee75cd326c735b1d7fe2ac","features":{},"yanked":false,"rust_version":"1.86.0"}

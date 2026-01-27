@@ -1,0 +1,2 @@
+{"name":"hashmap-entry-ownable","vers":"0.1.0","deps":[],"cksum":"22049cc636e5c911135512b4e3856157d5f41f9fa7c2a2dbdbd616c0fd1c7e19","features":{},"yanked":false}
+{"name":"hashmap-entry-ownable","vers":"0.2.0","deps":[{"name":"hashbrown","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94e7b961ec16bf0e9ae7c8789569768f5f9b8f0f026ee31497f7ab2792995767","features":{"default":[],"nightly":[]},"yanked":false}

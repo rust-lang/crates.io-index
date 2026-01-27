@@ -1,0 +1,1 @@
+{"name":"rust-style","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.101","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1.0.101","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"184d9623459408c3dad26fe112d586ff20372bf8080ff48ff10b9a4ad096670f","features":{},"yanked":false}

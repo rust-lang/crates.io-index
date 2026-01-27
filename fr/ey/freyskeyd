@@ -1,0 +1,2 @@
+{"name":"freyskeyd","vers":"0.1.0","deps":[],"cksum":"2c6986d71ffca7fa366bcb1376b239937d142a9394699b2630c88c2ec1b07b00","features":{},"yanked":false}
+{"name":"freyskeyd","vers":"0.1.1","deps":[{"name":"inquire","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"webbrowser","req":"^0.8.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a3de787a2e787cdaae992a548929783be4f3948ddc41908a7df0e2145eb9e30","features":{},"yanked":false}

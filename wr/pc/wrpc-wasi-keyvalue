@@ -1,0 +1,2 @@
+{"name":"wrpc-wasi-keyvalue","vers":"0.1.0","deps":[{"name":"wit-bindgen-wrpc","req":"^0.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ac0e5a95d8e0ca95a97e17ffd4e89e25df1b85a0933c2571175711d7c8107849","features":{},"yanked":false}
+{"name":"wrpc-wasi-keyvalue","vers":"0.1.1","deps":[{"name":"wit-bindgen-wrpc","req":"^0.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"19e0a693718790d870e651d51308c15b17c5c4ce5c8d007cf5427fcf56f8f0b1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"gethostid-rs","vers":"0.1.0","deps":[{"name":"local-ip-address","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da118b17c8d6a282534f2eed083aa0951d511d1428db72cda28a9c8f6b929076","features":{},"yanked":false}
+{"name":"gethostid-rs","vers":"0.1.1","deps":[{"name":"local-ip-address","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2910177b0940d95c7b5b0c9e2ed53a88872e06c646d706564252baffa66ff5bb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hello-virus","vers":"0.1.0","deps":[{"name":"pyu_rust_util","req":"^0.1.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6e99b229a71469a0e5430b31ac55e4cc57034bc7e14781892c7060bb7b662fc","features":{},"yanked":false}
+{"name":"hello-virus","vers":"0.1.1","deps":[{"name":"pyu_rust_util","req":"^0.1.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7be3593fc92d714f943db77fa35f25c3f14558e638956f2eba60e2af5b551889","features":{},"yanked":false}

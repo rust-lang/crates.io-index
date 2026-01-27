@@ -1,0 +1,3 @@
+{"name":"cen-say-hello","vers":"0.1.0","deps":[],"cksum":"f3d023cc2f5bde761c8b3c71d2040af0647d1109bddaedeb4b013633cb998c00","features":{},"yanked":false}
+{"name":"cen-say-hello","vers":"0.1.1","deps":[],"cksum":"dbda87d3166781ddccd8fad675b62b512fb8c37c1c2d0d142bbf702b40b96605","features":{},"yanked":false}
+{"name":"cen-say-hello","vers":"0.1.2","deps":[],"cksum":"89efa2e8fc913f9b3e0863447f590d4c751d587f5dd88d63cde957a860ce521e","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"nine_patch_drawable","vers":"0.0.0","deps":[],"cksum":"617a27e1dd0c1a8a584f3ee4a37729774317b75ad6fb36de7e9dd4836507ec6b","features":{},"yanked":false}
+{"name":"nine_patch_drawable","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d96e2f356f3fbb4179ee2a3d76ed2881553b93213a421a28975b2ea0c8d81d15","features":{},"yanked":false}

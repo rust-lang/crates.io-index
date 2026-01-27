@@ -1,0 +1,3 @@
+{"name":"animatron","vers":"0.2.0","deps":[],"cksum":"aefc6882af1f45a931e20099343218649cce1d5b03448317c0644cafb98257d0","features":{},"yanked":false}
+{"name":"animatron","vers":"0.2.1","deps":[{"name":"animatron_derive","req":"=0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00fcd90339cef316c8379d1769cc11090ef44d574180579f7d00738d187b510c","features":{"derive":["animatron_derive"]},"yanked":false}
+{"name":"animatron","vers":"0.2.2","deps":[{"name":"animatron_derive","req":"=0.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3573530dd8d44c8bf5561d0ea37c1e61855aa49a4874bb7582b83fd80893800a","features":{"derive":["animatron_derive"]},"yanked":false}

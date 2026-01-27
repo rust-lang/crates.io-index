@@ -1,0 +1,1 @@
+{"name":"ssim","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"image","req":"^0.25.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7911c029377b5a74f0fb39c002f1bfefc697392e05a530e2355661a470bb127","features":{},"yanked":false}

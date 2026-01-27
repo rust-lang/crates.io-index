@@ -1,0 +1,2 @@
+{"name":"dmutils","vers":"0.1.0-alpha.0","deps":[],"cksum":"16f4d69af17d7bad9cb3e758bb8dc7c57ca6156754b61efaa138d336746988f7","features":{},"yanked":false}
+{"name":"dmutils","vers":"0.1.0-alpha.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76f366c128eb4827a2395877935e2a024e78366308e4e865fa792c3236124efd","features":{},"yanked":false}

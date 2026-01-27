@@ -1,0 +1,2 @@
+{"name":"fast_runner","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90b94f444c2df80f1c6ff24702ca3e3a0b245e2281c1942d5a0748ace1baab8e","features":{},"yanked":false}
+{"name":"fast_runner","vers":"0.1.1","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43b2741f5b7fe5b158d7135ecfaf34f94ddb62fc2b3b72f2421323b0de3b5665","features":{},"yanked":false}

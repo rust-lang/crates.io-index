@@ -1,0 +1,1 @@
+{"name":"rtsparse","vers":"1.0.0","deps":[{"name":"pico-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"27afd5e326616864c6a06a9e18378ff1c7c050af988e6407c8e994710140b8ef","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"easy-configuration-format","vers":"0.1.0","deps":[],"cksum":"19c403b0dd5397bb01886ecee27e51e8a42372cfeb81c35eafd19bebceba6d9a","features":{},"yanked":false}
+{"name":"easy-configuration-format","vers":"0.1.1","deps":[],"cksum":"de16b48d206d1d4079084ce30cf7ac8de0a5f8f1ba19c73fcf2023f4b69f47ca","features":{},"yanked":false}
+{"name":"easy-configuration-format","vers":"0.2.0","deps":[],"cksum":"a7caeeb8e99c7c918b2eed637b59b37265e80e9075eb072040b167748b04050b","features":{},"yanked":false}
+{"name":"easy-configuration-format","vers":"0.2.1","deps":[{"name":"toml","req":"^0.8.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c80366c385eba9e553172fac65d54fd12137aae34aa9dc9f0c150f5a4f3d2091","features":{},"yanked":false}
+{"name":"easy-configuration-format","vers":"0.2.2","deps":[{"name":"toml","req":"^0.8.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9edf84b80b70f4b215f833398c7d4c8093ef0cb2dce319fd4fd5e34a5c815129","features":{},"yanked":false}
+{"name":"easy-configuration-format","vers":"0.2.3","deps":[{"name":"toml","req":"^0.8.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0f6f2a77eee90d1d7591b3b7671a744710c593dae97cb97ab2489e550d1b0113","features":{},"yanked":false}

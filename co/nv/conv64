@@ -1,0 +1,1 @@
+{"name":"conv64","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1192da4d51cacd3fe40d4f67278ebdcd115f163f2c3619bec44ab00fcb13abad","features":{"default":["rand"]},"yanked":false}

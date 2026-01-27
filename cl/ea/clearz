@@ -1,0 +1,4 @@
+{"name":"clearz","vers":"0.1.0","deps":[],"cksum":"7f8cf14685daa61068404aeba449f938533e9c982361442d7574d28878ce376e","features":{},"yanked":false}
+{"name":"clearz","vers":"0.1.1","deps":[],"cksum":"04fb916c10b7c80d4b5d7607c3007f632a8235c3a4a3aa77d2f06ef02d704b9e","features":{},"yanked":false}
+{"name":"clearz","vers":"0.2.0","deps":[],"cksum":"d96540680c46ca366115d01ee3ab90f50ce58de222eaf1e125b574d155db79b0","features":{},"yanked":false}
+{"name":"clearz","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.48","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a2cfd2ae920720da0c66b77808bb148ab7e1c3fa38922e71831e7b84cda8d33","features":{},"yanked":false}

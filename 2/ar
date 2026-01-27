@@ -1,0 +1,12 @@
+{"name":"ar","vers":"0.1.0","deps":[],"cksum":"f39c3c79dd1689e5124f8738c8a9dc69ecd9aa05ce3a55115a054b49c9525df4","features":{},"yanked":false}
+{"name":"ar","vers":"0.2.0","deps":[],"cksum":"e775cc7022d6f413b5a80d140b8249f705afb81f30b7feb12d06db0374e1ba73","features":{},"yanked":false}
+{"name":"ar","vers":"0.3.0","deps":[],"cksum":"b24e4eef8e3fa7e2ca75b157e6039cdf8d9d3a68213ddc19d0fd9d576b9717c9","features":{},"yanked":false}
+{"name":"ar","vers":"0.3.1","deps":[],"cksum":"35c7a5669cb64f085739387e1308b74e6d44022464b7f1b63bbd4ceb6379ec31","features":{},"yanked":false}
+{"name":"ar","vers":"0.4.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bde7721577301232ff0f05a1e55f9abdd930316b4a0c121d52d8fa42b37ffc3c","features":{},"yanked":false}
+{"name":"ar","vers":"0.5.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70c6ead945af4522b75d97be93f8de97e04386b84056f9f27bc536b2bf7ab059","features":{},"yanked":false}
+{"name":"ar","vers":"0.6.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"095515608290b62ac2427084f9ac3cfeb5dc76067f7d94564db9db1c46cc0a85","features":{},"yanked":false}
+{"name":"ar","vers":"0.6.1","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b66b66d06e6bb6a8c6866d31ac48fc225ef2823d29940165c8084b4f120d2b3","features":{},"yanked":false}
+{"name":"ar","vers":"0.6.2","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"579681b3fecd1e9d6b5ce6969e05f9feb913f296eddaf595be1166a5ca597bc4","features":{},"yanked":false}
+{"name":"ar","vers":"0.7.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c1afd66a96a235fa8eeec0ee757ec0d2c0db7cb89b4e04ae159f37952b97bd5","features":{},"yanked":false}
+{"name":"ar","vers":"0.8.0","deps":[],"cksum":"450575f58f7bee32816abbff470cbc47797397c2a81e0eaced4b98436daf52e1","features":{},"yanked":false}
+{"name":"ar","vers":"0.9.0","deps":[],"cksum":"d67af77d68a931ecd5cbd8a3b5987d63a1d1d1278f7f6a60ae33db485cdebb69","features":{},"yanked":false}

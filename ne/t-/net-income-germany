@@ -1,0 +1,4 @@
+{"name":"net-income-germany","vers":"0.1.0","deps":[],"cksum":"7e0ce4d5cb44322df8db72b35e667ef8df7771043a76ebbd2ca6283e2d0dd29f","features":{},"yanked":false}
+{"name":"net-income-germany","vers":"0.1.1","deps":[],"cksum":"23ce7bc0e0773280931981b45bac7ff3b6d89fc3d5f7894f88801b6640dcfc64","features":{},"yanked":false}
+{"name":"net-income-germany","vers":"0.1.2","deps":[],"cksum":"0b0b36440e0ff98ee3357b9d1cf1eda83bed35ebec363763f964f6b2a43f72a7","features":{},"yanked":false}
+{"name":"net-income-germany","vers":"0.2.0","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"923620eb8fd39fbcb546981e5fb64335a5456c9c74a198716b7e0f8a006c19b2","features":{},"yanked":false}

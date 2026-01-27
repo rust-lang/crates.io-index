@@ -1,0 +1,1 @@
+{"name":"occult","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.42.0","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"233ffee31897c612f68ac818c1a690a1ae123931d6876b506f49fc31f0322fc9","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"crabtrap","vers":"0.1.0","deps":[{"name":"windows","req":"^0.58","features":["Win32_System_Diagnostics_ToolHelp"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"90cb60837a67233b9aeb85c29e1fb02875fe9ee6ae995e04c65cc1bb1c69406f","features":{},"yanked":false}

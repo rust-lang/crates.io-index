@@ -1,0 +1,1 @@
+{"name":"fferris-sys","vers":"0.0.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"03ef72df72d24e2a761c416ebd0336ca7e91d94cf5d9e3c1fa01e00d968dddb2","features":{"__bindgen":[],"avcodec":[],"avdevice":[],"avformat":[],"default":["avformat","avcodec"]},"yanked":false}

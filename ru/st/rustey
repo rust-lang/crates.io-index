@@ -1,0 +1,2 @@
+{"name":"rustey","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b704f185a6987e48b848c9482fe0febc44400c05f3b8e9b054dc8ddbf2efc0c3","features":{},"yanked":false}
+{"name":"rustey","vers":"0.1.1","deps":[{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7655c268abe79fccb86ae6f81ada6558f4d13aa20e8a2a940e8af6afd11e75ec","features":{},"yanked":false}

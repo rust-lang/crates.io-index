@@ -1,0 +1,1 @@
+{"name":"predicate","vers":"0.1.0","deps":[{"name":"predicate-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e32f700c6541a5d7062a2b5b73eba1c0b64031f26f3357720bec60729b6a8e05","features":{"arc":[],"default":["rc"],"rc":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"align_text","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d315c5aecfe1a48470a66fd8b55a948489d761e2af61229ffe519ce12cc60db","features":{"clap_arg":["clap"]},"yanked":false}

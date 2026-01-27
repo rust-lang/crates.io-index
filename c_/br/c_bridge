@@ -1,0 +1,9 @@
+{"name":"c_bridge","vers":"0.2.0","deps":[],"cksum":"be3b542417dbece929ae8850a24449deba8a283c5852fe3e1856e5dee2a6fdcd","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.3.0","deps":[],"cksum":"2f4bc96975c8fe0ff4b3ea883809d101aecbf88f23d8dc2205ada2b3c57183a5","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.3.1","deps":[],"cksum":"d4bb309a0ec3c20a2c5f6198e23fb94ca16e084d1169f9a050750f36d4781a86","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.3.2","deps":[],"cksum":"ce7bc5625eccd31db73b3d2ae4b81ba98a4c4ec0986b72cc63812f7ae701c9e2","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.4.0","deps":[],"cksum":"42e304463c87a04834040a3c50c4afe974bed2445e88284d6ece9230824dece3","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.4.1","deps":[],"cksum":"8955eeb724e56fb1a64e8566a601eaedb8c95a7b559db38f1e20c6aa780e7629","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.4.2","deps":[],"cksum":"e7e14364b1620343289a231074a14bd16ef9673b3e9a487ec7fa29f83d8bb05f","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.5.0","deps":[],"cksum":"3c71831205bc7204f08ea0be105b7a48f4af36f00aa997002870c9fe0e784c80","features":{},"yanked":true}
+{"name":"c_bridge","vers":"0.6.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"90fe1b902aa263e327c46f3431cd8f26fd0d74da53d526ec3624bd93c5be5a51","features":{"default":[],"test_build":["cc"]},"yanked":true}

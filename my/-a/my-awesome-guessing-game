@@ -1,0 +1,2 @@
+{"name":"my-awesome-guessing-game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71e33756cff748e015601ac0c387e48ccae86ea548dfe6517c063cca3ca1cbba","features":{},"yanked":true}
+{"name":"my-awesome-guessing-game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaf07b3a37b393c28fe8ba48e89147d192e0a1ca6dfee4e806d0b6bf509a2a4f","features":{},"yanked":false}

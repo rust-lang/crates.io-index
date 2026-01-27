@@ -1,0 +1,4 @@
+{"name":"citadel-frontend","vers":"0.0.1","deps":[{"name":"clutils","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"655d9b2dbb5a0c444836f59483dfe2d5fea771662e74fbb2c940a9c2f7246922","features":{},"yanked":false}
+{"name":"citadel-frontend","vers":"0.0.10","deps":[{"name":"clutils","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdd828f8531f47ce6b2fe653f28e607a13f6ed5fcf717b0c004bd50af4feb18a","features":{},"yanked":false}
+{"name":"citadel-frontend","vers":"0.0.11","deps":[],"cksum":"26a5677a0484a9303cfa383c6e006b68824e2d7222d64ed817253620908bc187","features":{},"yanked":false}
+{"name":"citadel-frontend","vers":"0.0.12","deps":[],"cksum":"dc31ce9310fd9de8acd336fdf7fc3f2d52a5ecd4a3eb9e18d74a65a356b1108a","features":{},"yanked":false}

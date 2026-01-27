@@ -1,0 +1,1 @@
+{"name":"cutify","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd5b8fd3ca4f8e1154c5034f6d03f251bdffacf15900486f0be83a1917593b81","features":{},"yanked":false}

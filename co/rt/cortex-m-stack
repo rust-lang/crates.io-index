@@ -1,0 +1,4 @@
+{"name":"cortex-m-stack","vers":"0.1.0","deps":[{"name":"cortex-m","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfcd1cb1a585231839bb833d45ab6450ec383cc69d3fbfbba46ca8bd9af0d050","features":{},"yanked":false,"rust_version":"1.87"}
+{"name":"cortex-m-stack","vers":"0.1.1","deps":[],"cksum":"bad3afc12aa59fe0730264943c459edad38743de144f81fc025bf28ecdb73ff7","features":{},"yanked":false,"rust_version":"1.87"}
+{"name":"cortex-m-stack","vers":"0.2.0","deps":[],"cksum":"ffdeba9cb9d3c06efbe2f60767d78c16c092d0d471a99c0af0aa1df9eae504ef","features":{},"yanked":false,"rust_version":"1.87"}
+{"name":"cortex-m-stack","vers":"0.2.1","deps":[],"cksum":"2f94e44bc098750626e5d14e02e42e9643a3633d495420ff8228740a03fc2689","features":{},"yanked":false,"rust_version":"1.87"}

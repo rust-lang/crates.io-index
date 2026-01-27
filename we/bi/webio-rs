@@ -1,0 +1,2 @@
+{"name":"webio-rs","vers":"0.0.1","deps":[{"name":"clap","req":"^4.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"674149243246d4de9a1a677fd15e7ff1def0e13e352c67cba62ca0a01f7b81d3","features":{},"yanked":true,"rust_version":"1.64.0"}
+{"name":"webio-rs","vers":"0.0.1-aplha","deps":[{"name":"clap","req":"^4.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c63a4d6dc59094aa3bc8a19ad09a7fef85320b69f2dff6dd94f1212bf848eaaf","features":{},"yanked":true,"rust_version":"1.64.0"}

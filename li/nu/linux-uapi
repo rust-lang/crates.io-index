@@ -1,0 +1,1 @@
+{"name":"linux-uapi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.177","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49ccc50390bb81c00fd4c29bf7d77c38805a64f1c6ca4af8988cbea886cd1bd5","features":{},"yanked":false}

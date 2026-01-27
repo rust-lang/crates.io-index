@@ -1,0 +1,1 @@
+{"name":"reply-maybe","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.47.1","features":["sync","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e12f6431a618ceb44b1b924ede32bc4a319d3320d3145b49148c49c4bb297c4","features":{},"yanked":false}

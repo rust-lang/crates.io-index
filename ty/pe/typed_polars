@@ -1,0 +1,1 @@
+{"name":"typed_polars","vers":"0.1.0","deps":[{"name":"polars","req":"^0.44","features":["lazy","dtype-full","parquet","csv"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"035b1fd1d840a8c89014b247d43b1adeb7e1cfcd9ae592f8970c4cf4dc0800e5","features":{},"yanked":false}

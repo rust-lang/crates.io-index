@@ -1,0 +1,2 @@
+{"name":"fat-date-time","vers":"0.1.0","deps":[{"name":"time","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4f1cec36acf53752bd5543883395d1450edb697ccc6b6561e5125610332876a","features":{},"yanked":false}
+{"name":"fat-date-time","vers":"0.1.2","deps":[{"name":"time","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec367f496af0209d30535f6203a16371023e10e822977de7687fe78403cdc14b","features":{},"yanked":false}

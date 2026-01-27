@@ -1,0 +1,1 @@
+{"name":"xlogic-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c401dbb1d23a98a767b4fd0191b85c4b84629b489486355d828e784a5ecbb194","features":{},"yanked":false}

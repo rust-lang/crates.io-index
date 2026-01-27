@@ -1,0 +1,2 @@
+{"name":"anomalocaris","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"affd7fd24dce659d828c4949e777992ccfa0ef5cbed2e9be903d84aadd9eac61","features":{},"yanked":false}
+{"name":"anomalocaris","vers":"0.1.1","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d41a9cc5a2c6a54080ffe9251ed4b36a1abefef1696d87c5f03b11a54e3ab5e7","features":{},"yanked":false}

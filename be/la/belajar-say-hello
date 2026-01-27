@@ -1,0 +1,3 @@
+{"name":"belajar-say-hello","vers":"0.1.0","deps":[],"cksum":"bb83910a45d0f57d4b185ca940df309c45313f59d56a787c8fa7e3c3e68f3762","features":{},"yanked":false}
+{"name":"belajar-say-hello","vers":"0.2.0","deps":[],"cksum":"eb0df4dc15f2d920c005a0743f53c81d562e833e3e13696776353ce871a3c769","features":{},"yanked":false}
+{"name":"belajar-say-hello","vers":"0.3.0","deps":[],"cksum":"c4aa428c1501e4c337cbe6e297303ef794db3641ba4815018f43368f41cd55b8","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

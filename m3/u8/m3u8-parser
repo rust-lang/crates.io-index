@@ -1,0 +1,7 @@
+{"name":"m3u8-parser","vers":"0.1.0","deps":[],"cksum":"d3ef5bcdf67e6d1bd7b696398d2fd48e13ad394ce734ab8f917fbc377444f26c","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.2.0","deps":[],"cksum":"91460e03723f6daf609a52f611a8b82350f66614456429cd5b73ea94f1409491","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.3.0","deps":[],"cksum":"01bf6b4a8cd0e0f99aa6be8e6df734212b82fe77802105eb584c257bae090bfa","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.4.0","deps":[],"cksum":"bc920f90b3e3051c314a7c7c42109ff321b6f985ff4f058a63eb81af53e6c6fc","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.5.0","deps":[],"cksum":"c79e6bf3fc5427fc75816d6b14e2e32cfc44b98bf8418e2e93334a5805b90cb5","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.6.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82f7dc1f49c3e6dfe837bdce4abbcae3cb1ed29a7ec0a8fbb5b19c714e18f1f4","features":{},"yanked":false}
+{"name":"m3u8-parser","vers":"0.6.1","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705271faa191c71a9bbc1432a3d58c2ba880fb23842b5373670ace8d22c7239c","features":{},"yanked":false}

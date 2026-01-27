@@ -1,0 +1,2 @@
+{"name":"telemetry_protocol","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4643ef64a4d4e0eade3056acb4331e602a2ab828cd65e59e562d7d44d31bb4c9","features":{},"yanked":false}
+{"name":"telemetry_protocol","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c67f013cd60694d93356e72d4ce16f2effd968aade6063c98303615fc53f5ba0","features":{},"yanked":false}

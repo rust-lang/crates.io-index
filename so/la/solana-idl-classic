@@ -1,0 +1,2 @@
+{"name":"solana-idl-classic","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.130","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1301fa5c61f40d51cc8e8c5ba6588705300760053c0589eb9602ea148ce69633","features":{},"yanked":false}
+{"name":"solana-idl-classic","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.130","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c1d97756a955ebbe202c2b92c7cfb8ba85936de474edc7e733bd5f8a1f26070","features":{},"yanked":false}

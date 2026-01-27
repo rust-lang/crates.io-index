@@ -1,0 +1,2 @@
+{"name":"repc","vers":"0.1.0","deps":[{"name":"repc-impl","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c02821fd0be7fec6e71ff9951610affdf4a6ac3b1cd8b83b9c6d9299166d4184","features":{},"yanked":false}
+{"name":"repc","vers":"0.1.1","deps":[{"name":"repc-impl","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd5497e1d1e81bb330f7a48f4093b01b95da3b5b7ac07e7cd9a17d4f5cfe98e6","features":{},"yanked":false}

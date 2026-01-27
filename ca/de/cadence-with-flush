@@ -1,0 +1,2 @@
+{"name":"cadence-with-flush","vers":"0.29.0","deps":[{"name":"crossbeam-channel","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a9f57899cb5d52a67a7133384bed6d688afd8e06e56d3403dd5015f687f5f53","features":{},"yanked":false}
+{"name":"cadence-with-flush","vers":"0.29.1","deps":[{"name":"crossbeam-channel","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b7cc7342baeed16a1c8639804c82b4c774ef47ee85bbb29815daafbe2d6a906","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"grader","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8507582e3f63e7e6a8818cfd1aceeacd29ddc75a382f39364c5688098a154713","features":{},"yanked":false}
+{"name":"grader","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8893a92be0fc0daa215da8cffff6a85e811440f5c1fa3104a30bac2812a32e17","features":{},"yanked":false}

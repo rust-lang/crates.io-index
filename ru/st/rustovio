@@ -1,0 +1,1 @@
+{"name":"rustovio","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"023e3ed59bf677b45acd976454093a298e802e6e96c8d78b0e6b85405821e4a5","features":{},"yanked":false}

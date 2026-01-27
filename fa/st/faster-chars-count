@@ -1,0 +1,6 @@
+{"name":"faster-chars-count","vers":"0.1.3","deps":[],"cksum":"c2150af48f250230940ed2839d313a4062646df92a673788054b2878070f4cb0","features":{},"yanked":false}
+{"name":"faster-chars-count","vers":"0.1.4","deps":[],"cksum":"1aea72138bb45d73221a902301cfad53a459f516db311f96c85a235016e91fe4","features":{},"yanked":false}
+{"name":"faster-chars-count","vers":"0.1.5","deps":[],"cksum":"37d97e2af8a7c4bc56add12042af6f987111d9b03c3bbbaadc7f10ca270cc3fd","features":{},"yanked":false}
+{"name":"faster-chars-count","vers":"0.1.7","deps":[],"cksum":"a7936c5511f6f336d3bcf594bcf4932f4fc67fc45887cc764bb7c448f2eeadd0","features":{},"yanked":false}
+{"name":"faster-chars-count","vers":"0.2.1","deps":[],"cksum":"c1c11a71259d6fd3c96b36b5837c9db5410fe591d430c49bf8ad9274ba17fac9","features":{"default":["runtime_detect"],"runtime_detect":["std"],"std":[]},"yanked":false}
+{"name":"faster-chars-count","vers":"0.3.0","deps":[],"cksum":"53e98c85542618c1998c730eaf202acda4deb436c4e102bddf51cf66bfaa56b8","features":{"default":["runtime_detect"],"runtime_detect":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}

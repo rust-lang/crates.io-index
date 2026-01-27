@@ -1,0 +1,2 @@
+{"name":"mun_paths","vers":"0.1.0","deps":[{"name":"relative-path","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41f0e73fde21bee0f0b9e1d9d5a60153e2557e40e6d053031e8b03f2aec20e2f","features":{},"yanked":false}
+{"name":"mun_paths","vers":"0.4.0","deps":[{"name":"relative-path","req":"^1.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2c0f872fa174aa601c48a5484bde4df3ed8ccae657ab2e75f438ee91a7dce2ad","features":{},"yanked":false}

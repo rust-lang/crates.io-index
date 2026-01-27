@@ -1,0 +1,2 @@
+{"name":"woopsa","vers":"0.1.0","deps":[],"cksum":"c186be7ded408154d1cf2320ace208a8caf813b1311976a69e0f3f9fe97d63c6","features":{},"yanked":false}
+{"name":"woopsa","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f36340c06cebf0e6fc03fe06edf38e11c699a1b0cf65cadb2af7c1eddf21bbe6","features":{},"yanked":false}

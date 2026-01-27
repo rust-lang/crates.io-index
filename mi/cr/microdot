@@ -1,0 +1,1 @@
+{"name":"microdot","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c53e1620e0121c7448415ca7cdffe8866e8c26d7f2de17beb516397b3bf4d7e","features":{"alloc":[],"default":[]},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}

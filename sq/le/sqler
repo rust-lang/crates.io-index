@@ -1,0 +1,2 @@
+{"name":"sqler","vers":"0.0.1-alpha","deps":[{"name":"sqler_macros","req":"^0.0.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db9d9b56a60bdef2db52d02235db818c521efd815e1152cda51f631c4196068f","features":{},"yanked":false}
+{"name":"sqler","vers":"0.0.1-beta","deps":[{"name":"sqler_macros","req":"^0.0.1-beta","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ec4877348575c2570b96e9374cd2a8a0ef0134e7142b9d3ea22bafa6095e09d","features":{},"yanked":false}

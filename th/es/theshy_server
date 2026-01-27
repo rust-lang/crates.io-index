@@ -1,0 +1,2 @@
+{"name":"theshy_server","vers":"0.1.0","deps":[],"cksum":"53278339595ffc69d13d2447ddabaeed657a213d52e69de47b593387a7611516","features":{},"yanked":false}
+{"name":"theshy_server","vers":"0.1.1","deps":[{"name":"lucian","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"omg-cool","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25d2a607232da03473515fd2cc1771b09a46d324b277a14406e4d5c625a0c925","features":{},"yanked":false}

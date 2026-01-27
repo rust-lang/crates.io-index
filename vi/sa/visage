@@ -1,0 +1,1 @@
+{"name":"visage","vers":"0.0.0","deps":[{"name":"clap","req":"^4.5.17","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bb760ced2ce542a87760101ef6d1e4571ce1afd39e26a9a140909d3d9db8a56","features":{},"yanked":false,"rust_version":"1.80"}

@@ -1,0 +1,1 @@
+{"name":"ryst","vers":"0.1.0","deps":[{"name":"ryst-openai","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c2f0aadfcc3342b27b1c8fc431ee78f970920e4fefaa3909a2b529234d042e4","features":{"default":[],"experimental":["stable"],"stable":["default"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"trump","vers":"0.1.0","deps":[],"cksum":"4474107c8f004be7a1f43f48eefa141d98e9ea20611cb4cec65f4e32cd924c54","features":{},"yanked":false}
+{"name":"trump","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0680aef03debc837f84943a641439941b7b9cac736c840e30407e13f9c6322f","features":{},"yanked":false}

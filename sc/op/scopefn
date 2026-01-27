@@ -1,0 +1,2 @@
+{"name":"scopefn","vers":"0.0.1","deps":[{"name":"either","req":"^1.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24f54b1d7cb4ecdd9d960efa88ebf8df232d44c20219181dc275d73e9a68e198","features":{"run_if":["either"]},"yanked":false}
+{"name":"scopefn","vers":"0.0.2","deps":[{"name":"either","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4022a3ceab116c9cbc603b59554fc3446a78d9a68baeea1f24794ac8da18e62","features":{"run_if":["either"]},"yanked":false}

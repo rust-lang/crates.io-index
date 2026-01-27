@@ -1,0 +1,3 @@
+{"name":"jh-ffi","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ce11d59f15ef4e4deb3d1683358e27ba3293682ba475b838dac1848faa7a1374","features":{},"yanked":false}
+{"name":"jh-ffi","vers":"0.0.2","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cecdc0b9e7e95d7c58677ecbba7cfe6a53c8a69dc340b9bb457fdc55f7072251","features":{},"yanked":false}
+{"name":"jh-ffi","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1bceeea4370b930e4654c5b737c07d272dc3127bde56299bfa8a554ff55f4cc1","features":{},"yanked":false}

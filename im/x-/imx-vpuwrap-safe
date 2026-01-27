@@ -1,0 +1,2 @@
+{"name":"imx-vpuwrap-safe","vers":"0.1.0","deps":[{"name":"imx-vpuwrap-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4832b8a49c288fd1ccfdc565a4d87e1de97fc619298fedfb23f79e70dc93487f","features":{},"yanked":false}
+{"name":"imx-vpuwrap-safe","vers":"0.1.1","deps":[{"name":"imx-vpuwrap-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a9ae19b98f681988687ed63130b73069e961f0a73b16e78da94ab7d692f7f3a","features":{},"yanked":false}

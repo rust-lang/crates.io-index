@@ -1,0 +1,1 @@
+{"name":"cfm","vers":"0.1.1","deps":[{"name":"regex","req":"^1.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbdf81981546dc8b211c735ac60db9a3d248967738bbe363014f2d2a43ef5d32","features":{},"yanked":false}

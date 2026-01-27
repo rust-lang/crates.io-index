@@ -1,0 +1,9 @@
+{"name":"lieval","vers":"0.1.0","deps":[],"cksum":"4fa69191d7018241700eac45f9e5fcf1d592216ee80b987c2e3ed88998528f19","features":{},"yanked":false}
+{"name":"lieval","vers":"0.1.1","deps":[],"cksum":"ee0ddc419d6ec60a7211e8b0453ca884f3752130debcf5b343854cd74c6ce7a9","features":{},"yanked":false}
+{"name":"lieval","vers":"0.1.2","deps":[],"cksum":"9bc5840f4dd0be631880f5544f5ab211361139c57f98424e20aaf0e8343c54dd","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.0","deps":[],"cksum":"f549edf9dbbfaead7e6801752aefc58c8228900888b5e12f993f3e7a7a1015e6","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.1","deps":[],"cksum":"a9d0e1036ebec6b5851b6c99b937ba121327edeaed8c3490e22cc7506173cc44","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.2","deps":[],"cksum":"d5ef1da63affd6e0c32b4297f934724f4fb068a45d9c5ec937e2a20545f89bbe","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.3","deps":[],"cksum":"e1405feebc42ef2e4084a37ce6b6f8c7cf8ea21596c511cd2c03598a85c14952","features":{},"yanked":false}
+{"name":"lieval","vers":"0.2.4","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e872c923ab0a53efc251b0d26a622ad587ba6e36e027186d26bae79a5930bf9b","features":{"default":[]},"features2":{"fxhash":["dep:fxhash"]},"yanked":false,"v":2}
+{"name":"lieval","vers":"0.2.5","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2809e36a991fdfbe52758486948be99836ab660808deb7a6ff4b90320b56dc71","features":{"default":[]},"features2":{"fxhash":["dep:fxhash"]},"yanked":false,"v":2}

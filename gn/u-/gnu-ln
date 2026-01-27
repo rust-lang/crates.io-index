@@ -1,0 +1,2 @@
+{"name":"gnu-ln","vers":"0.1.0","deps":[],"cksum":"1180d4a65cdf3c860ef8ea6044cfd6b78c763641bb9f41d3742d4917de730fb5","features":{},"yanked":false}
+{"name":"gnu-ln","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5660296b644f015036ec372939727f958431d0590259749a51c8d939edeb4302","features":{},"yanked":false}

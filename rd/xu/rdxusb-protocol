@@ -1,0 +1,1 @@
+{"name":"rdxusb-protocol","vers":"0.1.1","deps":[{"name":"bytemuck","req":"^1.16.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e9d048ea2644a8954fb41b33024c01a4ea9a53f9252a30b6218543597cf36c8","features":{},"yanked":false}

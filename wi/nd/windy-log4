@@ -1,0 +1,6 @@
+{"name":"windy-log4","vers":"0.1.0","deps":[],"cksum":"3a54914ec4dd1cc6764dabbe8ced794906cfde0dd22a72eb7c5fbe75e1e63462","features":{},"yanked":false}
+{"name":"windy-log4","vers":"0.1.1","deps":[],"cksum":"362317311ac92f99ea3f7e1c3f6433e0ac41d7458f299c6b6489fe47985f86d4","features":{},"yanked":false}
+{"name":"windy-log4","vers":"0.1.2","deps":[],"cksum":"80ff3dbd1af6fd8b6341a859bc4e7f8e6619941ce90bfe0be0a1aafedc36d913","features":{},"yanked":false}
+{"name":"windy-log4","vers":"0.1.3","deps":[{"name":"once_cell","req":"^1.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2fc70fa786780735680134c274d8bf04069e23ca71d85ae3d1b809941490a9f8","features":{},"yanked":false}
+{"name":"windy-log4","vers":"0.1.4","deps":[{"name":"once_cell","req":"^1.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b27914be20113dcec7c6b1a2554e87148020a0e4068fb617ef022b07a34f9127","features":{},"yanked":false}
+{"name":"windy-log4","vers":"0.1.5","deps":[{"name":"once_cell","req":"^1.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"66d98ed9427af46abf9f4708897e818e39f808cd808a22746f0e71d8cd1ecb4a","features":{},"yanked":false}

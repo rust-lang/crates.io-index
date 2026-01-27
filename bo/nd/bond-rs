@@ -1,0 +1,1 @@
+{"name":"bond-rs","vers":"0.0.0-development","deps":[{"name":"anyhow","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0329bad19f84c6256e816e1fd800602280a8a165da82e42f2064fd980d7e84aa","features":{"coverage":[]},"yanked":false,"rust_version":"1.85.0"}

@@ -1,0 +1,2 @@
+{"name":"rbam","vers":"0.1.0","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e3d553585c3f827ca35fd51f116d62698b94d4e3da432adb4724cbe84ff9462","features":{},"yanked":false}
+{"name":"rbam","vers":"0.1.1","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02eaabd3184ba036300ae6eec5963724767f8301e5d1bc62fe8292122d95e035","features":{},"yanked":false,"rust_version":"1.89.0"}

@@ -1,0 +1,6 @@
+{"name":"creep","vers":"0.1.0","deps":[],"cksum":"d173f10cf76fed947f027bc5ab7684e6f0c5dd4dd09494e7743d1bcec202556b","features":{},"yanked":false}
+{"name":"creep","vers":"0.1.1","deps":[],"cksum":"b40f205a77631d86f2b1150d299245302b3da5ad4b264081c1df4a6e95eebc8b","features":{},"yanked":false}
+{"name":"creep","vers":"0.2.0","deps":[{"name":"dyn-clone","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d478541749906b1b73d5a59ba97f231817997f19208c895bed495126e1e39ec4","features":{},"yanked":false}
+{"name":"creep","vers":"0.2.1","deps":[{"name":"dyn-clone","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62ddc14af975a3145cd86251ca6e42b488728ece880378ab91ed99c7261d5dff","features":{},"yanked":false}
+{"name":"creep","vers":"0.2.2","deps":[{"name":"dyn-clone","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44b3989c311486a207116b17712102cf6f18a6af80308ed13ac6350b9d85e75c","features":{},"yanked":false}
+{"name":"creep","vers":"0.3.0","deps":[{"name":"dyn-clone","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd4e19cc6f4898f5b42c275f005c15dbc6e825f5948cc4513cdd81470f1dc326","features":{},"yanked":false}

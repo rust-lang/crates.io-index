@@ -1,0 +1,2 @@
+{"name":"citadel-middleend","vers":"0.0.1","deps":[{"name":"citadel-frontend","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4962252d391495c74ce5e028998135be8fc2b0f2aa291db4d7653a19dd2ed22b","features":{},"yanked":false}
+{"name":"citadel-middleend","vers":"0.0.11","deps":[{"name":"citadel-frontend","req":"^0.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f217fe46e0abfea95131fe754d52f9634f1435f2eda6275882a321162583a09","features":{},"yanked":false}

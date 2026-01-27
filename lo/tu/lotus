@@ -1,0 +1,2 @@
+{"name":"Lotus","vers":"0.1.1","deps":[{"name":"derive_builder","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b7ccd839dfc7c90ef0081f58488c5613910eb05c2c18d067f68505e35bdf895","features":{},"yanked":false}
+{"name":"Lotus","vers":"0.2.1","deps":[{"name":"derive_builder","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f09bda0408938ef8e92e78874d9872cade0abb79f85e1d3e9cf453e9263df115","features":{},"yanked":false}

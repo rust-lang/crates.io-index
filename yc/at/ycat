@@ -1,0 +1,6 @@
+{"name":"ycat","vers":"0.1.29","deps":[],"cksum":"b2b7135f7c1195ba7039ed558fb0c802ab156b2dee5e2c4f966d081974fd7ce4","features":{},"yanked":false}
+{"name":"ycat","vers":"0.1.30","deps":[],"cksum":"167c872fcdd39a7ff1ccd3e596c960d0064b4db3739f4a29cdb551fb7f3fb89f","features":{},"yanked":false}
+{"name":"ycat","vers":"0.1.31","deps":[],"cksum":"7c473652409c2bdbeea4edb26559ec301109544d85ddbadbc61d86abfd1f471d","features":{},"yanked":false}
+{"name":"ycat","vers":"0.1.32","deps":[{"name":"tempfile","req":"^3.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21b0384d97d082ca285f6977c5dbea1b753445f3b457041a82030d6617193af5","features":{},"yanked":false}
+{"name":"ycat","vers":"0.1.33","deps":[{"name":"tempfile","req":"^3.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e038431bcc82c6979e34a096b47ec01305f1f460c8f4922930d38a4a566124b","features":{},"yanked":false}
+{"name":"ycat","vers":"0.1.34","deps":[{"name":"tempfile","req":"^3.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"222908eac57e2355ef396593c2052a45f3de6af00a64fbfd6d1793e7c9fc4c79","features":{},"yanked":false}

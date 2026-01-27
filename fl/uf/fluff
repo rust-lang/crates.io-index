@@ -1,0 +1,3 @@
+{"name":"fluff","vers":"0.0.0","deps":[],"cksum":"b7022910d7296d89bdb1ca9e59d0b81e740bc194cf8519ea50fa73e527de91d2","features":{},"yanked":true}
+{"name":"fluff","vers":"0.1.0","deps":[],"cksum":"ef9d059eb2b055d61b6242c3300b429b96a9e80826ef9ffe48f6587176712998","features":{},"yanked":true}
+{"name":"fluff","vers":"0.1.1","deps":[{"name":"num","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"666021900371e23bb302f62bc263dae66f6a67ba867b059622211be7b3af55ce","features":{},"yanked":true}

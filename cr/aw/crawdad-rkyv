@@ -1,0 +1,1 @@
+{"name":"crawdad-rkyv","vers":"0.4.0-rkyv.1","deps":[{"name":"rkyv","req":"^0.8.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f824deb36b8215e3a724a788a5eb593ac329726065861241d7ea050f05a1244","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90.0"}

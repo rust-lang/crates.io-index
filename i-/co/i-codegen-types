@@ -1,0 +1,1 @@
+{"name":"i-codegen-types","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"babf755245f6703362bcb83cd4549e83ae775289365d354051763e97969e849b","features":{},"yanked":false}

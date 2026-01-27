@@ -1,0 +1,1 @@
+{"name":"mime-rs","vers":"0.3.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cxx-build","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6cc3acd30d6868fa6824f19b763b32f36f1ec3b4380df73aefba9bdba732056b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"closest","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"800465047ec3925138207a112d635511a733d738e53c98d5fe293b06d5a5e02a","features":{},"yanked":false}
+{"name":"closest","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7be77a3c1613ef3fc9073b26f0502b9df9682825136f5aae4a0807ab5dbdd48e","features":{},"yanked":false}

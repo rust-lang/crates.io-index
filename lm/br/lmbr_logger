@@ -1,0 +1,1 @@
+{"name":"lmbr_logger","vers":"0.1.0","deps":[{"name":"lmbr_sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c69719c85c43cd64f44337bf4737c68a5a3b9e7cfec23221ab65abb5d1591e3","features":{},"yanked":false}

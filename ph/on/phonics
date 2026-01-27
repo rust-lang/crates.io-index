@@ -1,0 +1,2 @@
+{"name":"phonics","vers":"0.0.1","deps":[],"cksum":"63aafdf120ac91f183c6ca1325a07f4cefcfdf40e2edd463eda6eb22d861b735","features":{},"yanked":false}
+{"name":"phonics","vers":"0.1.0","deps":[{"name":"getset","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"629a3f5a8428f83147c9900e6989c193b1b3e39c0d14d716b82e9a8aa9ff998f","features":{},"yanked":false}

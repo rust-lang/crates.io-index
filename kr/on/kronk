@@ -1,0 +1,2 @@
+{"name":"kronk","vers":"0.1.0","deps":[{"name":"kronk-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"057870a886dfcd558bd9af51c615210b25de5023b817fffa0d48ad3c69200939","features":{},"yanked":false}
+{"name":"kronk","vers":"0.1.1","deps":[{"name":"kronk-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d109aa0a4a2b82d3549387ed0cd7a72a0515408248c4b161a8e594e94bb3196","features":{},"yanked":false}

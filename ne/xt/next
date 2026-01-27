@@ -1,0 +1,2 @@
+{"name":"next","vers":"0.1.0","deps":[{"name":"next_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cfa57b71ffbf63a2c055cf2086f6d4a1a5df42375d1815438588c06fa7c18db","features":{},"yanked":false}
+{"name":"next","vers":"0.2.0","deps":[{"name":"next_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"829e34c56ece9915f3a047955f57e3efd1ff5aba64533c31b533123fbaba0e45","features":{},"yanked":false}

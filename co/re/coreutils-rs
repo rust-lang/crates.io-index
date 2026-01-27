@@ -1,0 +1,2 @@
+{"name":"coreutils-rs","vers":"0.1.0","deps":[],"cksum":"944aa8a2c2f6eb4ecb076d4a60aadd05740e025c5a2a5cd0d7f3a2bda1bacf00","features":{},"yanked":false}
+{"name":"coreutils-rs","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.17","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68b568966e6e2906557a927009d144004625fa6e7b29b7f14012859d4d5a63b9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"comment","vers":"0.1.0","deps":[{"name":"comment-strip","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef7c3adc1f59513281ed96079bc7d17158c5bcede01d780e3195d2335c6c28b7","features":{},"yanked":false}
+{"name":"comment","vers":"0.1.1","deps":[{"name":"quick-error","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f6cbeac9d80a6fbec9a0ad6d9359932ca67f10d46597633436aa2e9133648d5","features":{},"yanked":false}

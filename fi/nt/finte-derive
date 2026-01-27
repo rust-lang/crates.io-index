@@ -1,0 +1,5 @@
+{"name":"finte-derive","vers":"0.1.0","deps":[],"cksum":"b25b077000feb97cce6a81de1d464e5395aed22a6aade336689d405ca2386a61","features":{},"yanked":false}
+{"name":"finte-derive","vers":"0.1.1","deps":[],"cksum":"5c0b51e088474b1863d96c2871e353b27ab5aa0c9ff3111410c985865c66e3e1","features":{},"yanked":false}
+{"name":"finte-derive","vers":"0.1.2","deps":[],"cksum":"4d2aeb23b2c308c763bc10ea348260913402394396cf3ffbbd6cf7a305ea4902","features":{},"yanked":false}
+{"name":"finte-derive","vers":"0.1.3","deps":[{"name":"finte","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"13f3df6961e260939ec8495123aa2a025ed3128f5bc31c736acab4ebc4158e39","features":{},"yanked":false}
+{"name":"finte-derive","vers":"0.2.0","deps":[],"cksum":"edab5e6c8dda49c5cd7e40e34e4c17fdb6d76375df7d8e53904f8bb320dd359e","features":{},"yanked":false}

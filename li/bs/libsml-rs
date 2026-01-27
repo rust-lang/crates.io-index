@@ -1,0 +1,2 @@
+{"name":"libsml-rs","vers":"0.1.0","deps":[{"name":"libsml-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"817b43e362d4f058955374911cf2c40abf7ef60948512ffbe8baf453a5db802e","features":{},"yanked":false}
+{"name":"libsml-rs","vers":"0.1.1","deps":[{"name":"libsml-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"769427ff6084b5463852a48f95424a2f74ffabce317c1b6e13ce2b4c864e12fc","features":{},"yanked":false}

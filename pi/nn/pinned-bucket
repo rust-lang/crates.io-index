@@ -1,0 +1,14 @@
+{"name":"pinned-bucket","vers":"0.1.0","deps":[],"cksum":"efe4b3e5476890836d9d932ba340a760cfd09301b1f16fcbd969922461b3d01b","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.1.1","deps":[],"cksum":"ba348799d512061b7be1ae1388fcd36fc211c0d2c97542fc1e51574c9716e9a4","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.1.2","deps":[],"cksum":"94da7bb8b947951c9ee5f38c1717ab37c9b7bc06a1a3e5141bcc0e7716314960","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.1.3","deps":[],"cksum":"3680c84cf90019c82ddba2953959c509d6bd5ae3dc47d7a3acac18bfb9c93844","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.1.4","deps":[],"cksum":"6306e72e908e5a8ec8ff1c389b2aaabf0e1fd31f7b8ef20f95d50c12c765d43f","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.1.5","deps":[],"cksum":"c454c9296bdaf01c1df540520157a9b85c061e88e55dd3d118538b714a3c982f","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.2.0","deps":[],"cksum":"ed8cb17853a9ceca6d90c5d065e5bed10967081e3b33335c2ffea975bd71d65b","features":{},"yanked":true}
+{"name":"pinned-bucket","vers":"0.2.1","deps":[],"cksum":"de8b9fbf716989a38881a86c2006b21efe5e890690b8431998f912602cb4ec6b","features":{},"yanked":true}
+{"name":"pinned-bucket","vers":"0.2.2","deps":[],"cksum":"09395c198a9fec91fe7fba0d280de3c69af0122d8e7fa693b7f24c532c733c61","features":{},"yanked":true}
+{"name":"pinned-bucket","vers":"0.3.0","deps":[],"cksum":"a05e958b0d2bffbf989159528ab3540358756d92cc0e5295db328d435057bb80","features":{},"yanked":true}
+{"name":"pinned-bucket","vers":"0.4.0","deps":[],"cksum":"542228860a5f86860393393688328c365ed7d6fb11a62e4f7be0995a509f20ae","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.4.1","deps":[],"cksum":"9e948914cb94056cbba6b4d6cc1b1178f439f6bb06598688dc936d0c3edc96c6","features":{},"yanked":true}
+{"name":"pinned-bucket","vers":"0.4.2","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52a69d750a326332b8eacc99eb899038d808e8133b337490e1c7c71a64dd2864","features":{"strict":[]},"yanked":false}
+{"name":"pinned-bucket","vers":"0.4.3","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"88fd3a5af37c080b4c2f70d6c86c7f0cc90484d1433b00aa2d4f706b19c0f3bc","features":{"strict":[]},"yanked":false}

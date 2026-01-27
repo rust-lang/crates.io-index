@@ -1,0 +1,2 @@
+{"name":"alerts","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"69e340df6092d3c85c927464501b3dcf701af5b4d5db25ea2a0d9b73f0c19dce","features":{},"yanked":false}
+{"name":"alerts","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"b8d80886438778945b24c1cc1e9efc83d8b7c4fa8e48650f1798ade4f1d43467","features":{},"yanked":false}

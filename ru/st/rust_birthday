@@ -1,0 +1,2 @@
+{"name":"rust_birthday","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf5afbed458905cec7e9fcdc273a34caef8a29f9fdf03d6b63d8af6a587784c5","features":{},"yanked":false}
+{"name":"rust_birthday","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1968ca5e1c999b6a9f5ffcf526b3cb6de8ea62ac400b78666c45d81842127ecb","features":{},"yanked":false}

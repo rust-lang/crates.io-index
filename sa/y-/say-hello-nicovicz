@@ -1,0 +1,4 @@
+{"name":"say-hello-nicovicz","vers":"0.1.0","deps":[],"cksum":"8cabc7ecdeaeb1fb37de685aa7747818b81fc726a3ba80f4bf05c319bfffae54","features":{},"yanked":false}
+{"name":"say-hello-nicovicz","vers":"0.2.0","deps":[],"cksum":"0a8e4cdd2e847b4384544431d4be40a52a26a1aa5228dcf8c4bb82de5b5a6022","features":{},"yanked":false}
+{"name":"say-hello-nicovicz","vers":"0.3.0","deps":[],"cksum":"510b0c148cdea3519e20b59aae68b85bc6a384ba0ed6307197c61b1a572f1987","features":{},"yanked":false}
+{"name":"say-hello-nicovicz","vers":"0.4.0","deps":[],"cksum":"392ca8e639a29f1b56c2e1ddc64c9d9555f1921b5956aea20b47a9364e64bb34","features":{"default":["hello"],"everyone":[],"full":["hello","goodbye","everyone"],"goodbye":[],"hello":[],"slim":["hello","goodbye"]},"yanked":false}

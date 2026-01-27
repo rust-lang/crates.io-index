@@ -1,0 +1,1 @@
+{"name":"ztee","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"flate2","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71f256f1876401bc59169451ed70ced2fdd2ac5aab79fe1bd07c4a3915311023","features":{},"yanked":false}

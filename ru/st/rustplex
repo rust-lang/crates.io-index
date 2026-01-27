@@ -1,0 +1,2 @@
+{"name":"rustplex","vers":"0.1.0","deps":[],"cksum":"8dea68f6a292a9f7425c1fdd3fcd6e66423a78b3b0b2796954dd609bd38af4aa","features":{},"yanked":false,"pubtime":"2025-02-06T12:14:23Z"}
+{"name":"rustplex","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7ae168ccf0480133b79b9d5cc3a2dbaa4cd06a20ac79244a10b3b1858bca948","features":{},"yanked":false,"pubtime":"2026-01-03T21:41:41Z"}

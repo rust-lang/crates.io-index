@@ -1,0 +1,1 @@
+{"name":"d5","vers":"0.4.2","deps":[{"name":"base64","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"warp","req":"^0.1.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91d098fc543bc5a61d0f8cf411df1af79d2a2088cc54c25262eff07546c6d102","features":{},"yanked":false}

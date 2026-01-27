@@ -1,0 +1,2 @@
+{"name":"qrwcell","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0a8a175313d9aa2377c357ebb2fdefa80f4e7161d22c8311f6dd88493fdfc16","features":{},"yanked":false}
+{"name":"qrwcell","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07824b5caf6b2debe80cbf5db02f9c567ff8b3e8d62dd1bcf661ff67097e1496","features":{},"yanked":false}

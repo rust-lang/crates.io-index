@@ -1,0 +1,1 @@
+{"name":"audiyo","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f18144ae669f79bf189ae53f9c409363422e351e8d5422e03438f5b5e5c7771","features":{},"yanked":false,"rust_version":"1.77"}

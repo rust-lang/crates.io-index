@@ -1,0 +1,2 @@
+{"name":"logging-rs","vers":"1.0.0","deps":[],"cksum":"f7b65384bf6e8107ce75beeef4a7a4a52f3dd3070c79c78fdd8cce26edd62d21","features":{},"yanked":false,"rust_version":"1.69"}
+{"name":"logging-rs","vers":"1.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd7525c1fe83c4fc1ad0d165a8c71185469bc9e1c94acbef0cfb5be5575d31dd","features":{},"yanked":false,"rust_version":"1.69"}

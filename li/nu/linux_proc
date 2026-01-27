@@ -1,0 +1,2 @@
+{"name":"linux_proc","vers":"0.1.0","deps":[{"name":"quicli","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8f9374cce39955adc332d0e78327d53c3d06045624f3e6a690d3e471448cf75e","features":{},"yanked":false}
+{"name":"linux_proc","vers":"0.1.1","deps":[{"name":"quicli","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7b28d590ab488f1014d856b45b55eb16afb4c401352e5e9fd3f9f67582ac3c86","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"barium","vers":"0.1.0","deps":[{"name":"ash","req":"^0.37.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.134","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4ad6f61f25c9222ceb562f8293680e3bff4f609650047e62e131dad5aae049e","features":{},"yanked":false}

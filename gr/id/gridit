@@ -1,0 +1,1 @@
+{"name":"gridit","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ggez","req":"^0.6.0-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8e955d1c01b03319db7796a86a8a0d9c5a9c5238f362c26a7d55cf8f39a5c468","features":{},"yanked":false}

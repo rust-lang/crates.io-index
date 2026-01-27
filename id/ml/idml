@@ -1,0 +1,14 @@
+{"name":"idml","vers":"0.0.1","deps":[],"cksum":"fb9b4d6475e213438f70355504a8e922a72b4c9350cd6db6c486b94f00c4d837","features":{},"yanked":false}
+{"name":"idml","vers":"0.0.2","deps":[],"cksum":"e9471c33542faa357ec6051c75aabf606e9a2a38c33ad4348748b70e5c6d9919","features":{},"yanked":false}
+{"name":"idml","vers":"0.1.0","deps":[],"cksum":"7b917b6682c59f3307df3b4b54d4ead23005ea4d5056bcd2febb8d35dd0ff5da","features":{},"yanked":false}
+{"name":"idml","vers":"0.1.1","deps":[],"cksum":"b9a6b614994067f1cb485fa7713edc415426d465d1566b18e735ad6633927ba9","features":{},"yanked":false}
+{"name":"idml","vers":"0.2.0","deps":[],"cksum":"dc2be7ade1f928032a3006403804af66226828eb915df5dece7fd4a608228b60","features":{},"yanked":false}
+{"name":"idml","vers":"0.3.0","deps":[],"cksum":"06f7d628abe5ed5260de10e5888a67e535d7ac69650c013ae17ce834f3f09cb6","features":{},"yanked":false}
+{"name":"idml","vers":"0.4.0","deps":[],"cksum":"9306cf6b01ad194fcae1c57e886903e93997cccc38baf51008d2ebf33f7d5205","features":{},"yanked":false}
+{"name":"idml","vers":"0.4.1","deps":[],"cksum":"88f13e59a5bf0d13986c496aae92eb66b083eefd431372b376d4a88117aa3780","features":{},"yanked":false}
+{"name":"idml","vers":"0.4.2","deps":[],"cksum":"5752b8571ce4b7081ba41b20a398bea2ed02fd807d63cf514540d1d5bbe9cf5f","features":{},"yanked":false}
+{"name":"idml","vers":"0.4.3","deps":[],"cksum":"d3f74320a75c00ca32c0e0d47628a25efc9bf0620891b94e2484082a84f773cf","features":{},"yanked":false}
+{"name":"idml","vers":"0.5.0","deps":[],"cksum":"95e1a4561bc2dcfd9ea8ddcbd7344b88a517cc84d3cde160c04669a8cf4dcb7d","features":{},"yanked":false}
+{"name":"idml","vers":"0.5.1","deps":[],"cksum":"75535221fa997061aeb20a85e08fedb6ba35b48f199cacb0aa7ccd4a9f56e468","features":{},"yanked":false}
+{"name":"idml","vers":"0.5.2","deps":[{"name":"normalized-line-endings","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d283d1d32bd1f833a0995482dacd5288499e0503a9e0bf112ad2098501526255","features":{},"yanked":false}
+{"name":"idml","vers":"0.5.3","deps":[{"name":"normalized-line-endings","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f220f23e1876c72d437252cc86c0a4fe53fbbe84c0825e85f1d3ceb0753e1d9f","features":{},"yanked":false}

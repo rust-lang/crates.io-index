@@ -1,0 +1,2 @@
+{"name":"ccgen","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a264236c7e102696cc4dc6e27f7bc49dc33fe7635d5dc6d52283790945ca5dc7","features":{"tok":[]},"yanked":false}
+{"name":"ccgen","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae56532f00d3369a36c8d84a8bbc0c82013961256a157982ac11dabc3acaa7e","features":{"tok":[]},"yanked":false}

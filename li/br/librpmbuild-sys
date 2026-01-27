@@ -1,0 +1,2 @@
+{"name":"librpmbuild-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a78832c4d782f67645097097ebc3d303292adbf28abcd17fdb2461133cda8302","features":{},"yanked":false}
+{"name":"librpmbuild-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2ab0e4fe6018746500b683f8cba396afbcfc5f4692ccf6dc073c84b55797dac8","features":{},"yanked":false}

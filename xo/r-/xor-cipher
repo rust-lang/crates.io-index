@@ -1,0 +1,6 @@
+{"name":"xor-cipher","vers":"1.0.0","deps":[],"cksum":"2ca31a2f0358b3f57b79bfbc269841e61f788ff3a6284be2f12474e8210b90cc","features":{},"yanked":false}
+{"name":"xor-cipher","vers":"1.1.0","deps":[],"cksum":"db59eaf81ec12c31b55c30475349235121e7468ac05b1edc80c97d6ae7a538a5","features":{},"yanked":false}
+{"name":"xor-cipher","vers":"2.0.0","deps":[],"cksum":"d67cc2076bca081ff5c4846f6359e0b97b5eb812dd10016d66fbf832c2a02027","features":{"std":[]},"yanked":false}
+{"name":"xor-cipher","vers":"3.0.0","deps":[],"cksum":"12843e5f910bf894980e70b273da9d572157183fb243846d98ff389ca9151c56","features":{"std":[]},"yanked":false}
+{"name":"xor-cipher","vers":"4.0.0","deps":[],"cksum":"c2f6a24a2b547333d9c53504f318afb3a5d33bde859f0f653ca027297d5235d0","features":{"std":[]},"yanked":false}
+{"name":"xor-cipher","vers":"4.0.1","deps":[],"cksum":"e9e040a8ee4cf02862be68d9e98b8fd3a4f68733ce5752fc49a20fb32c5b014d","features":{"default":["std"],"std":[]},"yanked":false}

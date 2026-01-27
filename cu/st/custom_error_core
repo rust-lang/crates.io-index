@@ -1,0 +1,3 @@
+{"name":"custom_error_core","vers":"1.8.0","deps":[],"cksum":"d92164040f1b55617ba4da38dcef606752ea678afb00b86fc182fc8558876fbc","features":{},"yanked":true}
+{"name":"custom_error_core","vers":"1.8.1","deps":[],"cksum":"effdb7344defc15d98b673dcc05ae03a15ae440c832920ed5495ff91c3f84ce0","features":{},"yanked":false}
+{"name":"custom_error_core","vers":"1.9.0","deps":[],"cksum":"37ed0be72c11c604feb1fad0d960818b99551f553fe7510bf9769583d7afe73e","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cargo-squat","vers":"0.0.0","deps":[],"cksum":"5d8ceed422a6f5849c57908234ab418cabbe813f3594073b006685f1f119a545","features":{},"yanked":false}
+{"name":"cargo-squat","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fdc69a127e061a0833fb26290db8614e3d9b040631b9aaaf4ffe238fa5039f0","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"aspix","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"image","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad7ae9593f4f0d2e5fd453a16aee6f5f0749e7f6be4c8686cabc67183a9e3f25","features":{},"yanked":false}

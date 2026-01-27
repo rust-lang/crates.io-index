@@ -1,0 +1,2 @@
+{"name":"color_names","vers":"0.1.0","deps":[],"cksum":"35536583d9ed81c2bbd5c13a26a9ea009423e60a1b7b557ed33df65e7a22e504","features":{},"yanked":false}
+{"name":"color_names","vers":"1.0.0","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07fe3ee4a77c4525862d61b27cab61e136bce58217249be3379f76db8a5087ad","features":{},"yanked":false}

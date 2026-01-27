@@ -1,0 +1,2 @@
+{"name":"mkfs-btrfs-rs","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40702ca45429d357c20d6c95b4f4191ccbc1f90c47e1c81031e40aa0966c7b4a","features":{},"yanked":false}
+{"name":"mkfs-btrfs-rs","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0dcc1023e5e1903f362e26aa091cf67b6fb5beafcd096eda7edf2708434c003","features":{},"yanked":false}

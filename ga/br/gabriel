@@ -1,0 +1,3 @@
+{"name":"gabriel","vers":"0.0.1","deps":[],"cksum":"6cf894d06bfcc680e08465a667303cdea178f3ed194d9fd7cb09fabb5f325ff8","features":{},"yanked":false}
+{"name":"gabriel","vers":"0.0.2","deps":[],"cksum":"4007a645c200b0cb4e5033ad319de3c5929275edea0b9f70c08b95a6a5cc63ee","features":{},"yanked":false}
+{"name":"gabriel","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11251b8415455dfbc9a698c5c42dda095bbf7446a14d706528557842f5850255","features":{},"yanked":false}

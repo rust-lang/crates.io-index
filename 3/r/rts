@@ -1,0 +1,2 @@
+{"name":"rts","vers":"0.1.0","deps":[],"cksum":"2b10605aae3b6a67386e9c305b0cdaa0b7ce23875280134b937e152f3205e21d","features":{},"yanked":false}
+{"name":"rts","vers":"0.1.1","deps":[{"name":"heck","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rts_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec1714ef81a5068fb223340db05e29fe4a5d650549c3e4cd802c201db9b866f0","features":{},"yanked":false}

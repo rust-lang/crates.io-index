@@ -1,0 +1,2 @@
+{"name":"hexd","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"832586e26a6b71ede688dd4c248020c4c7087d2febc4c756cb4859bce7001285","features":{},"yanked":false}
+{"name":"hexd","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9a40de9b818191afd89667f9611926bef9eae873c0852cea764ad3d06dc8bb2","features":{},"yanked":false}

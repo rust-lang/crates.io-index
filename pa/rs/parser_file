@@ -1,0 +1,3 @@
+{"name":"parser_file","vers":"0.1.0","deps":[],"cksum":"ecffe55c923cdcc2d7683d20a288faaae24bed6b977fa1da8e024e6d8a1e393f","features":{},"yanked":false}
+{"name":"parser_file","vers":"0.2.0","deps":[{"name":"exitcode","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2225f03cb4d4af799a07d9a1de5effa21f8ce8b1351e01e0134d89b84583a3e0","features":{},"yanked":false}
+{"name":"parser_file","vers":"0.2.1","deps":[{"name":"exitcode","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef4612503b6a9a2c598da064900927a2ea243c97e054125fef23c87b9b237bf3","features":{},"yanked":false}

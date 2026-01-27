@@ -1,0 +1,6 @@
+{"name":"base-encode","vers":"0.1.0","deps":[],"cksum":"5a9189fa09bf00d24d3933482a5407a010ef1ccaf70cb959c3cfd25950ea7c74","features":{},"yanked":false}
+{"name":"base-encode","vers":"0.1.1","deps":[],"cksum":"5e9e632a6b2e7236b547c02189fd85bbec0ec9608d69217f5d6e7f967afaf18b","features":{},"yanked":false}
+{"name":"base-encode","vers":"0.1.2","deps":[],"cksum":"3606daf3264d72e12d88a737311c26e50bb0493af3af5c38d1e67ec32afd1d4a","features":{},"yanked":false}
+{"name":"base-encode","vers":"0.2.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"99ca68a903d7fd44843ec543e3c9fe7d03c9d8e0db451861d49e96f866ecb761","features":{},"yanked":false}
+{"name":"base-encode","vers":"0.3.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"446cb4c9892152f2b21c16cd74f4662ee1eac53e27f35c68eb94ce3d01f01ee3","features":{},"yanked":false}
+{"name":"base-encode","vers":"0.3.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a17bd29f7c70f32e9387f4d4acfa5ea7b7749ef784fb78cf382df97069337b8c","features":{},"yanked":false}

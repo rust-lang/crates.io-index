@@ -1,0 +1,1 @@
+{"name":"fn-util","vers":"0.1.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"009f3d3b8f0d30fdb4b8498a7a0113baf580d7153fbc39ece702804fb044cfab","features":{},"yanked":false}

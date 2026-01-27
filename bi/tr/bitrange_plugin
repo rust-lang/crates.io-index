@@ -1,0 +1,4 @@
+{"name":"bitrange_plugin","vers":"0.1.0","deps":[],"cksum":"985b1fec36d34df2b0d08795a49431bb69a24ec3ce9d8fb186d6d9381e8de411","features":{},"yanked":false}
+{"name":"bitrange_plugin","vers":"0.1.1","deps":[],"cksum":"72f5f04588f5ef65696e85b3e55fd12f0e9e01157c95f758e5ad461b4bcc61c1","features":{},"yanked":false}
+{"name":"bitrange_plugin","vers":"0.1.2","deps":[],"cksum":"0b0600c8f914fde66e93ef9635c24df9bad9408f56cf04420c238baa3fb23d9a","features":{},"yanked":false}
+{"name":"bitrange_plugin","vers":"0.3.0","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6719fd34103b205fb79b246a1147c2c7944ccf346af3178c4adadd047725fc5","features":{},"yanked":false}

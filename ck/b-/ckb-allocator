@@ -1,0 +1,2 @@
+{"name":"ckb-allocator","vers":"0.1.0","deps":[{"name":"buddy-alloc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dabb237a8bdd68d62e361e75083f6ca253d59c1205f2ccfb2163333fe6544845","features":{},"yanked":false}
+{"name":"ckb-allocator","vers":"0.1.1","deps":[{"name":"buddy-alloc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"572ce0405d93e105d547f6d362c70c4b744e5e0984f9b9877c81afd070c8e2cc","features":{},"yanked":false}

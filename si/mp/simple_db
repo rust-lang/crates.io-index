@@ -1,0 +1,3 @@
+{"name":"simple_db","vers":"0.1.0","deps":[],"cksum":"3cbf957593871f4c2e4abda61352294b9028c79e0f9dab60ada9538d52e7fdc7","features":{},"yanked":true}
+{"name":"simple_db","vers":"0.1.1","deps":[],"cksum":"3c5eb0752bc8140fd340cae78174aa5063fb43e8562f089e0edf294f652a4367","features":{},"yanked":true}
+{"name":"simple_db","vers":"0.1.2","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"indexmap","req":"^2.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"099ba10d2383c92c824ec8545a32193ccd73f7637ee8d030d7905653c9f3c7fd","features":{},"yanked":false}

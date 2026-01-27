@@ -1,0 +1,1 @@
+{"name":"nvps","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12.2","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f6d5632caa118d273e8726e204e1fb969666d57bf7ac270fdfe9fdd043609da","features":{},"yanked":false}

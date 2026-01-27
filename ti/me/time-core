@@ -1,0 +1,10 @@
+{"name":"time-core","vers":"0.0.0-alpha.0","deps":[],"cksum":"2271698c78d7c1f5fa18b6a918a64a017b5e3fddadc8edb080c7a330f28ba622","features":{},"yanked":true,"pubtime":"2020-12-17T01:08:57Z"}
+{"name":"time-core","vers":"0.1.0","deps":[],"cksum":"2e153e1f1acaef8acc537e68b44906d2db6436e2b35ac2c6b42640fff91f00fd","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2022-10-24T07:08:52Z"}
+{"name":"time-core","vers":"0.1.1","deps":[],"cksum":"7300fbefb4dadc1af235a9cef3737cea692a9d97e1b9cbcd4ebdae6f8868e6fb","features":{},"yanked":false,"rust_version":"1.65.0","pubtime":"2023-05-06T01:36:56Z"}
+{"name":"time-core","vers":"0.1.2","deps":[],"cksum":"ef927ca75afb808a4d64dd374f00a2adf8d0fcff8e7b184af886c3c87ec4a3f3","features":{},"yanked":false,"rust_version":"1.67.0","pubtime":"2023-09-24T05:35:25Z"}
+{"name":"time-core","vers":"0.1.3","deps":[],"cksum":"765c97a5b985b7c11d7bc27fa927dc4fe6af3a6dfb021d28deb60d3bf51e76ef","features":{},"yanked":false,"rust_version":"1.67.1","pubtime":"2025-03-05T05:38:18Z"}
+{"name":"time-core","vers":"0.1.4","deps":[],"cksum":"c9e9a38711f559d9e3ce1cdb06dd7c5b8ea546bc90052da6d06bb76da74bb07c","features":{},"yanked":false,"rust_version":"1.67.1","pubtime":"2025-03-18T06:52:34Z"}
+{"name":"time-core","vers":"0.1.5","deps":[],"cksum":"a9108bb380861b07264b950ded55a44a14a4adc68b9f5efd85aafc3aa4d40a68","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2025-08-31T22:52:12Z"}
+{"name":"time-core","vers":"0.1.6","deps":[],"cksum":"40868e7c1d2f0b8d73e4a8c7f0ff63af4f6d19be117e90bd73eb1d62cf831c6b","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2025-09-02T19:25:26Z"}
+{"name":"time-core","vers":"0.1.7","deps":[],"cksum":"8b36ee98fd31ec7426d599183e8fe26932a8dc1fb76ddb6214d05493377d34ca","features":{},"yanked":false,"rust_version":"1.83.0","pubtime":"2026-01-13T07:14:34Z"}
+{"name":"time-core","vers":"0.1.8","deps":[],"cksum":"7694e1cfe791f8d31026952abf09c69ca6f6fa4e1a1229e18988f06a04a12dca","features":{"large-dates":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-01-24T04:16:38Z"}

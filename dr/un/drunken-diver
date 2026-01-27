@@ -1,0 +1,2 @@
+{"name":"drunken-diver","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53475a7b5cd25840e9ffb1a01889447b1a0488bac7db884bbdee3c1860fd5b6f","features":{},"yanked":true}
+{"name":"drunken-diver","vers":"0.1.1","deps":[{"name":"sha2","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64dfc37b4e3244ca35ef215ef5b29ff8aee4039a87ca6e9ff82cc83f212ff55d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"shhh","vers":"1.0.0","deps":[{"name":"cpal","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rodio","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e53539f0942d100ac87aa4538f13937497e81471be3e90749d5e15d4845caad3","features":{},"yanked":false}

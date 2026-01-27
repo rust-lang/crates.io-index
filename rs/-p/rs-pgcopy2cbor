@@ -1,0 +1,1 @@
+{"name":"rs-pgcopy2cbor","vers":"0.1.0","deps":[{"name":"ciborium","req":"^0.2.2","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4cd609f5f1ebba2366c11d17a9508a770e282e6f744c1704e31dcb59cb528ad2","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"qu-miner-api","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0.214","features":["derive","alloc","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"99af4cd2ceefe1ebeda851920901a8c0b0627625df95a53909eb0bafadea3914","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"mm3h","vers":"0.1.0","deps":[],"cksum":"755f76529ab6ab736337a2b8d41e76fe9301fef07766d6a68e9d6a9f8a242b21","features":{"avx":[],"default":["neon","avx","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.87.0"}
+{"name":"mm3h","vers":"0.1.1","deps":[],"cksum":"b779d9b0acf56651ea839d61fe3b53ccc0164ab266b26ce6f76d8d6190fc9415","features":{"avx":[],"default":["neon","avx","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.87.0"}
+{"name":"mm3h","vers":"0.1.2","deps":[],"cksum":"1438b57f3aefd1b9889536854b9cb92bea9a3deab7d424e5bc087d30c91c26eb","features":{"avx":[],"default":["neon","avx","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.87.0"}
+{"name":"mm3h","vers":"0.1.3","deps":[],"cksum":"dabd035e027dc9b9c31e0e35d87886736c693cdf5280eb53b9674e5e9de0f761","features":{"avx":[],"default":["neon","avx","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.87.0"}

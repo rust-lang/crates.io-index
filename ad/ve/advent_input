@@ -1,0 +1,1 @@
+{"name":"advent_input","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.18","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18ef93f749e3280cbd1094be2940f570979dcda821bc9e8314b40e9c10ea1944","features":{},"yanked":false}

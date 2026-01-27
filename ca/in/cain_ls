@@ -1,0 +1,4 @@
+{"name":"cain_ls","vers":"0.1.0","deps":[],"cksum":"e679b50999e1e6077426fe89643b55079b54c13362087ca35d0785ca9a8082c0","features":{},"yanked":false}
+{"name":"cain_ls","vers":"0.1.1","deps":[],"cksum":"476d8431d1bee6fc88416556001763d7c4530768ab4b28b58bea92d29596e04a","features":{},"yanked":false}
+{"name":"cain_ls","vers":"0.1.2","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"922adbee315867e4d96f42f64c5d5fca2cea68055712996f3cb733b998e31a33","features":{},"yanked":false}
+{"name":"cain_ls","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"324775513ef87feafd692aad720368f6f3e009537f6c9c96e6d3854c05cadad1","features":{},"yanked":false}

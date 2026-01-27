@@ -1,0 +1,2 @@
+{"name":"novax-redis","vers":"0.0.0","deps":[{"name":"redis","req":"^0.25.4","features":["aio","tokio-comp"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc6dd63c82d468d0c73111bb4577a6bf6916946d58c610ee59c4ffb923fcf7f2","features":{},"yanked":false}
+{"name":"novax-redis","vers":"0.0.1","deps":[{"name":"redis","req":"^0.25.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae9fbbd2269a65cfbe610c65498067f325c72f4533633792e550cd791ef81fe7","features":{},"yanked":false}

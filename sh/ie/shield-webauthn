@@ -1,0 +1,3 @@
+{"name":"shield-webauthn","vers":"0.0.3","deps":[{"name":"shield","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fee043cd66e6a8c68320086510f4283191d5166250134526fc8484ff4b78975","features":{},"yanked":false}
+{"name":"shield-webauthn","vers":"0.0.4","deps":[{"name":"shield","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee902730cda340c50ec62ba446d6ccf8aaeca6fcff6252ff551e97a597921ef3","features":{},"yanked":false}
+{"name":"shield-webauthn","vers":"0.1.0","deps":[],"cksum":"f49ddc34e172a31831f363af30ae26b97534ee2b8b9c434e5e3c47cea60e94a8","features":{},"yanked":false}

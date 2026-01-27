@@ -1,0 +1,1 @@
+{"name":"meadowlark-dsp-mit","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73e8fe4e7a00c3e39381fd1d33cb80867fcadd79e1233a4dd8e316565721c93","features":{"default":["portable-simd"],"portable-simd":[]},"yanked":false}

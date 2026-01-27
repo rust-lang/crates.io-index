@@ -1,0 +1,1 @@
+{"name":"msi_keyboard","vers":"0.0.1","deps":[{"name":"hidapi_rust","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9592b4d66e74906ee8e2fd09629ab32aafe85c67f2864b02235646ef4df3cbb3","features":{},"yanked":true}

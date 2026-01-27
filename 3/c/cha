@@ -1,0 +1,2 @@
+{"name":"cha","vers":"0.1.0","deps":[],"cksum":"c48dcb076da03aa01e76917831629f4f26c2fb7228766c4a9a1429ac05984ca1","features":{},"yanked":false}
+{"name":"cha","vers":"0.1.1","deps":[{"name":"ring","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c3db99293a4f3ce73f62d2992c54cdff31e2690ebfc0b73b5ab814516f1863b","features":{},"yanked":false}

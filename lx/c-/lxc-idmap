@@ -1,0 +1,1 @@
+{"name":"lxc-idmap","vers":"0.7.0","deps":[{"name":"clap","req":"^4.2.1","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f13f04128efec4747a36cdc2de533bb647d016809e0c556f9fffc753eba9b5de","features":{},"yanked":false}

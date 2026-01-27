@@ -1,0 +1,1 @@
+{"name":"relative-luminance","vers":"1.0.0","deps":[{"name":"hsl","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"owo-colors","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"80010a7606585ed19af01ebd8ffed344b1bf9cdcfef6eb10100ab07421324f05","features":{},"yanked":false}

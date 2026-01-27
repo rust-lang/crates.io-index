@@ -1,0 +1,2 @@
+{"name":"tca9548","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6faf66efa3fe9b209da78e04945fcc2d6e5927391d5563187cfc90506853470b","features":{},"yanked":false}
+{"name":"tca9548","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dd5f6d3cbb7748cf2ace86dac2ca827585eab797e033465f412c382be06a5f0","features":{},"yanked":false}

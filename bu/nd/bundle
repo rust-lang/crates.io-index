@@ -1,0 +1,2 @@
+{"name":"bundle","vers":"0.1.0","deps":[],"cksum":"d26ae83f6f107bb63380441ce0e3d4a7a1a8844cd76a6e9b36698dde68616074","features":{},"yanked":true}
+{"name":"bundle","vers":"0.1.1","deps":[{"name":"petgraph","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a764aea7622f2db38886bb86cac628c6b330abfdb624baa979eaddf5da35fc24","features":{},"yanked":false}

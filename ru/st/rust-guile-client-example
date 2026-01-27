@@ -1,0 +1,2 @@
+{"name":"rust-guile-client-example","vers":"0.1.0","deps":[{"name":"rust-guile","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae0bd80ed0f6aba01e89914c27751094dce6fcba9e1af578b994c4b36b5593d4","features":{},"yanked":false}
+{"name":"rust-guile-client-example","vers":"0.1.1","deps":[{"name":"rust-guile","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22a481f3e2c1a2604faf807c934ff6d5a06140385de33ef9e9a55bc4d969e920","features":{},"yanked":false}

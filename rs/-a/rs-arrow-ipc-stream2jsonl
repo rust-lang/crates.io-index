@@ -1,0 +1,1 @@
+{"name":"rs-arrow-ipc-stream2jsonl","vers":"0.1.0","deps":[{"name":"arrow","req":"^56","features":["ipc","json"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f8a4313343638b14d42840b0ce335236ed5732f2f5ea0495a2d976525d7098cf","features":{},"yanked":false}

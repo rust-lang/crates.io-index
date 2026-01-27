@@ -1,0 +1,1 @@
+{"name":"goap-rs","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mash-rs","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee759274833884c30a4f77f8b92a2c655cefd6caf32be9013ea39f6c4ee6ca17","features":{},"yanked":false}

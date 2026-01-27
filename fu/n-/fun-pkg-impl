@@ -1,0 +1,2 @@
+{"name":"fun-pkg-impl","vers":"0.2.0","deps":[{"name":"fun-pkg-api","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db7675f1f903b8f9886b7a68dc37a385d0d90e5f7d82813f197afac76713447b","features":{},"yanked":false}
+{"name":"fun-pkg-impl","vers":"0.3.0","deps":[{"name":"fun-pkg-api","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4efea136dd9771791ce9defee3acffa8c190b71b79c7f4d7cd67fa96ec40d822","features":{},"yanked":false}

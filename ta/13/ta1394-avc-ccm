@@ -1,0 +1,2 @@
+{"name":"ta1394-avc-ccm","vers":"0.1.0","deps":[{"name":"ta1394-avc-general","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54c98c1716656dffa9e963ceadcc9d343d3ea8943af70ce0fcd8451441cb017f","features":{},"yanked":false}
+{"name":"ta1394-avc-ccm","vers":"0.2.0","deps":[{"name":"ta1394-avc-general","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db5b02337638b8ed8e0b476798a98dc3d0f55751771b649a52d93be01f05d615","features":{},"yanked":false}

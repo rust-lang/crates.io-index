@@ -1,0 +1,2 @@
+{"name":"bsharp_bstar","vers":"0.2.2","deps":[{"name":"ir","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"bsharp_ir"}],"cksum":"ad037849579a8c12743698cffa7e4c8ff12c33bd72100648844a01b60802d130","features":{},"yanked":false}
+{"name":"bsharp_bstar","vers":"0.2.3","deps":[{"name":"ir","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"bsharp_ir"}],"cksum":"a8f50a918542945ca848e0d2953d5051f7c49c8a5e822f29a453d40104b0bcd5","features":{},"yanked":false}

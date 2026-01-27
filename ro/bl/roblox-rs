@@ -1,0 +1,2 @@
+{"name":"roblox-rs","vers":"0.0.0-wip.0","deps":[],"cksum":"73055916f850c57b0e67186529120d2120cdff0b1fbe39ce8e7dbe8987fd31c9","features":{},"yanked":false}
+{"name":"roblox-rs","vers":"0.0.1","deps":[{"name":"roblox-rs-macro-definitions","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"982efb949bf71503873d8b93997c84a56c84f8c72f773e98a552fb664d2cc243","features":{},"yanked":false}

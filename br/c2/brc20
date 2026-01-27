@@ -1,0 +1,1 @@
+{"name":"brc20","vers":"0.1.0","deps":[{"name":"bitcoincore-rpc","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bd1102c79ff5c7c716e32dc82ff5be2a252c332899bd08ba7f80510ef3c0436","features":{},"yanked":false}

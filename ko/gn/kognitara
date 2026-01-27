@@ -1,0 +1,2 @@
+{"name":"kognitara","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dee150bc17dfb95832c9528ac797024d07b5d1f9be8c8ebfaf384b966607cdd","features":{},"yanked":false}
+{"name":"kognitara","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a50dc5f6ec60c404953cf785ef060d4c132b2117340c3f155b8ae6322939a2e","features":{},"yanked":false}

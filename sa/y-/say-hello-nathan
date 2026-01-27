@@ -1,0 +1,3 @@
+{"name":"say-hello-nathan","vers":"0.1.0","deps":[],"cksum":"54acf236c961c49ec49bed199f0557fe8c751e21e11df8cf515c0247abc6d1ff","features":{},"yanked":false}
+{"name":"say-hello-nathan","vers":"0.2.0","deps":[],"cksum":"4ee7bdc96c66f60cfede890e88852b7fc873e7e8a712e9ef6517f832734d7289","features":{},"yanked":false}
+{"name":"say-hello-nathan","vers":"0.3.0","deps":[],"cksum":"61a7e668d73f74f78e7dae5f4ab84a76302b0b83a3cc6373045e2bec03f91d4e","features":{"all":["hello","bye"],"bye":[],"hello":[]},"yanked":false}

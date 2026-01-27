@@ -1,0 +1,4 @@
+{"name":"filon","vers":"1.0.0","deps":[],"cksum":"04043a320542559314109628ddbf711e40efbcdcff1224f9366074f58c7b915b","features":{},"yanked":false}
+{"name":"filon","vers":"1.1.0","deps":[{"name":"num-complex","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5262133403f792b67dec42c90da42d41c0ea4a86a046d67543592749da5e0b4d","features":{},"yanked":false}
+{"name":"filon","vers":"1.2.0","deps":[{"name":"num-complex","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c7db378e6897954a6782364c70a6aa59da4eac07b6971db68c292bae0399df2","features":{},"yanked":false}
+{"name":"filon","vers":"1.3.0","deps":[{"name":"num-complex","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"852a2c00efe64a9ecc305130f14a30000a97a8548eef888084720bafb0c69529","features":{},"yanked":false}

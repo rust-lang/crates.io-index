@@ -1,0 +1,1 @@
+{"name":"gc_abi_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71.1","features":["logging","prettyplease","runtime"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"af66bed7977e19c66135f50063782d4bdec3c01e7d04f9f83b497ac8916bd896","features":{},"yanked":false}

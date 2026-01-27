@@ -1,0 +1,5 @@
+{"name":"launchctl","vers":"0.1.0","deps":[],"cksum":"177693f79d99c59f4482cf2db252f46c2ae1fe18d45e86be19dfa8c14a917965","features":{},"yanked":false}
+{"name":"launchctl","vers":"0.1.1","deps":[],"cksum":"aa2d18a2cb7becfe3cb649bfa3a26ba522857be1cbf472ddb288dbaa5593a76e","features":{},"yanked":false}
+{"name":"launchctl","vers":"0.2.1","deps":[],"cksum":"d7ebdc45e66943f72b232b44c6e2a5c3fcfd484f42ee27d651f0f69cc109532c","features":{},"yanked":false}
+{"name":"launchctl","vers":"0.3.1","deps":[{"name":"bon","req":"^3.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5927727bb1115541dc269c6b1ecf0a0a18a606e14828a63d06444b20b2b78498","features":{},"yanked":false}
+{"name":"launchctl","vers":"0.3.2","deps":[{"name":"bon","req":"^3.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eed05bc4f899349f6354e3e6b2a5d91cffe94932deae9051977c0fa9bed1329f","features":{},"yanked":false}

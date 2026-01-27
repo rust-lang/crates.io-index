@@ -1,0 +1,3 @@
+{"name":"quartet","vers":"0.1.0","deps":[],"cksum":"f0ed0bc767b95edbdd238ad151ffc8b6d18670143e9a210f74bcc4c2568e7f53","features":{},"yanked":false}
+{"name":"quartet","vers":"0.2.0","deps":[{"name":"doc-comment","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c16e3709f7fb6fceda8dd3bea7e4fbdacd032b3739be5e67934c2bf260c3c2d","features":{},"yanked":false}
+{"name":"quartet","vers":"0.2.1","deps":[{"name":"doc-comment","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bff7837bc606eae3b37049a8dba5e698a8869a2db6ef8658794e8797b58c4d6e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"tianya","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7d651e8e0f9ec73b083f584efb70d7ce5cea79a41223dc2481042037b433027","features":{},"yanked":false}

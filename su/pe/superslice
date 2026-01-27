@@ -1,0 +1,2 @@
+{"name":"superslice","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b50b13d42370e0f5fc62eafdd5c2d20065eaf5458dab215ff3e20e63eea96b30","features":{},"yanked":false}
+{"name":"superslice","vers":"1.0.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab16ced94dbd8a46c82fd81e3ed9a8727dac2977ea869d217bcc4ea1f122e81f","features":{},"yanked":false}

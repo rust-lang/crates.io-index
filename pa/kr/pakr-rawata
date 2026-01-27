@@ -1,0 +1,1 @@
+{"name":"pakr-rawata","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f2e5bfa414375ed855781b144955553a0a01f6b5578f7e004890adfcedcf924","features":{},"yanked":false}

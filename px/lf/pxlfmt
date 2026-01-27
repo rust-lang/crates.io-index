@@ -1,0 +1,5 @@
+{"name":"pxlfmt","vers":"0.1.0","deps":[],"cksum":"3cc703af895d94b5629bd22525cffe4431d1253950cbdce4f6dfdb71ada5a828","features":{},"yanked":false}
+{"name":"pxlfmt","vers":"0.2.0","deps":[],"cksum":"ba81e45665f1f6041a988217b233a655d759e9436c3c9dfd09235a71299803af","features":{},"yanked":false}
+{"name":"pxlfmt","vers":"0.3.0","deps":[{"name":"bytemuck","req":"^1.23.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc3461d509262d60cb5672c385912b249e4398b9b7649c742a87d6b03e7e9245","features":{},"features2":{"bytemuck":["dep:bytemuck"]},"yanked":false,"v":2}
+{"name":"pxlfmt","vers":"0.4.0","deps":[{"name":"bytemuck","req":"^1.23.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2e458caac4ea391f8d2109687cce55ad241e97f0537b0395a1f7ab4496fdc4f","features":{},"features2":{"bytemuck":["dep:bytemuck"]},"yanked":false,"v":2}
+{"name":"pxlfmt","vers":"0.5.0-yanked","deps":[],"cksum":"c7aef33defa2f9b3a18984d17ddc8e66b5b0a51ee1eb3cc28d9e719348f61dba","features":{},"yanked":true}

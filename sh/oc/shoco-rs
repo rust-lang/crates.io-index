@@ -1,0 +1,2 @@
+{"name":"shoco-rs","vers":"0.1.0","deps":[{"name":"shoco-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aea764b77c7fe36b492a22aff87e5e6d59839e034cf2b5cfb828918a5b2118b","features":{},"yanked":false}
+{"name":"shoco-rs","vers":"0.1.1","deps":[{"name":"shoco-sys","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e2c8e7a7554caad22253e926f8a48901e7bb4270960743370b67aa9cdd1ac2d","features":{},"yanked":false}

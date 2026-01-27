@@ -1,0 +1,4 @@
+{"name":"lira","vers":"0.1.0","deps":[],"cksum":"c49fe6e9866179acbcdba51e73d2ca820d1d87750048a85ab1c47cf9746e0414","features":{},"yanked":false}
+{"name":"lira","vers":"0.2.0","deps":[],"cksum":"abed926934c53be51dc5681a80756cea8aa42cba2a4c6b4e4d6167ad68397c89","features":{},"yanked":false}
+{"name":"lira","vers":"0.3.0","deps":[],"cksum":"7cc3750df3233268ce3fc62acbab6b9bc738bed853b6f833057c996ab0af52e5","features":{},"yanked":false}
+{"name":"lira","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cd87906d3cfad17a3a894bd538da1ab772b7c7b881af3c9762eda310d659d608","features":{},"yanked":false}

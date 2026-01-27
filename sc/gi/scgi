@@ -1,0 +1,16 @@
+{"name":"scgi","vers":"0.0.1","deps":[],"cksum":"0ca57980d7e33ca6075c4c17b20bd33ebee3e10fe27346ebb711f2d52f1159ca","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.2","deps":[],"cksum":"59647e2c69b9ae399d6803c209688a4153952c5cf7f9d6ee394d342ea78acd7f","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.3","deps":[],"cksum":"bb1c52c43bb3e91975a250c7ed5a7a5fa0af8a7ef5bf67b92260d402e64ed3cf","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.4","deps":[],"cksum":"17cef9f1548c2eefa3c7e98c34356b9cf3910640808d75f9aeea50ff631ffe2c","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.5","deps":[],"cksum":"54368eb3bf3e3d149114b6a728877cb977a2ddabb999843fd77134fb22c25736","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.6","deps":[],"cksum":"b08e42ca8661f7cdd1a532e67ba5b25b8f3af822a265f936202fdcad9977720c","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.7","deps":[],"cksum":"a942dcb93b107b214c31f34da8e1ff88f434778c25c690b462f4cacdb55e8b8d","features":{},"yanked":false}
+{"name":"scgi","vers":"0.0.8","deps":[],"cksum":"cc74357a52599cd0ce762e914f16b0ce4ab75e32e267a4850efb1c41ad65d781","features":{},"yanked":false}
+{"name":"scgi","vers":"0.1.0","deps":[],"cksum":"53188e0184b0f1434919031c749e59f484d046640df91b2d617dbb93f6a98b8a","features":{},"yanked":false}
+{"name":"scgi","vers":"0.1.1","deps":[],"cksum":"3d928c8a1bdc91122f3349f9d6ffa716f95a7ea5036669a93487bda9a49edded","features":{},"yanked":false}
+{"name":"scgi","vers":"0.2.0","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3191bda03cd26bf19eea1e34d4c5a4f28c487f57319791bf27185ca77d9706f9","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.0","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0327161660741c1b3155176d21f5cefaef2819f0e8f10061ae04a5302ee5a184","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.1","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"325acffd5de4241e42289a9addac99e2b6ce0dee30869910022f9ecbd9d74119","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.2","deps":[{"name":"bufstream","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b221e07609d44663f4f52772e5218880b7e6dc4edf2c0ac7b5964d48f995fc","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.3","deps":[{"name":"bufstream","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10f21ca9282b95c2fe06d3b9a48ca892aa7a712d4cb647226eaa35772e1d83ec","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.4","deps":[{"name":"bufstream","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86d4e730a1a421c0e15a1ecc148d58146c47946e85c45985a9f35a3783646b56","features":{},"yanked":false}

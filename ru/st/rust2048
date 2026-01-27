@@ -1,0 +1,1 @@
+{"name":"rust2048","vers":"1.0.0","deps":[{"name":"colored","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64fba8da2ad3e18e068e1f4a8b71e16c4049589bb7b058e1d783dee50eeb151e","features":{},"yanked":false}

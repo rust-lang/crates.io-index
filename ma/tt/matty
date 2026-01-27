@@ -1,0 +1,1 @@
+{"name":"matty","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94237aedba2b0102b299075ce50cd03c13f8ddfea9ec436e75a30c4a177a3748","features":{"simd":[]},"yanked":false}

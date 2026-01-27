@@ -1,0 +1,6 @@
+{"name":"chunk_iter","vers":"0.1.0","deps":[],"cksum":"bf65afe007df45a011f3af769c7e21105af16f203447ddba16643adab8381772","features":{},"yanked":true}
+{"name":"chunk_iter","vers":"0.1.1","deps":[],"cksum":"9fd57b7ee4e33e41cffbf2f923a6e14c100bd016a4fe149ad4272cecbc2a1c7b","features":{},"yanked":false}
+{"name":"chunk_iter","vers":"0.1.2","deps":[{"name":"testdrop","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca2e5152f161162fccab9eb466f538e64490c62115cf351349f9e9b8c3aad822","features":{},"yanked":false}
+{"name":"chunk_iter","vers":"0.1.3","deps":[{"name":"testdrop","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7cefc5507414928a72a428f28d1092d9b31ded1ebf61c7ec0ca5779cec6f0e02","features":{},"yanked":false}
+{"name":"chunk_iter","vers":"0.1.4","deps":[{"name":"testdrop","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9684c9c04b487d2cb6c66ee4c85a330eb0a7a75531a1413e7c9b3ace816e993c","features":{},"yanked":false}
+{"name":"chunk_iter","vers":"0.1.5","deps":[{"name":"testdrop","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"072351011c43ea62b7abd38faaec3f75f94a11bb41018917742283f3e9435b9a","features":{},"yanked":false}

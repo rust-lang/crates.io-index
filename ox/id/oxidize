@@ -1,0 +1,3 @@
+{"name":"oxidize","vers":"0.1.0","deps":[],"cksum":"67354e0ab267e77cc717f352b364784aea5d903d78e0fa5714806a3136b4c167","features":{},"yanked":false}
+{"name":"oxidize","vers":"0.2.0","deps":[],"cksum":"ba632c5b19eb3a0319498984d3eeb2094167de1cd47232161a2dbb1217a4ba0e","features":{},"yanked":false}
+{"name":"oxidize","vers":"0.2.1","deps":[{"name":"regex","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffbf8358bdef8173d7171fefa8396064f5fbb701ac8ee99c30876c4ef0d850fd","features":{},"yanked":false}

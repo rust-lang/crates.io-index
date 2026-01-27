@@ -1,0 +1,2 @@
+{"name":"bsc_m03_sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"467e9410e92c08dbc230d835a7bf727e15924ee4a5bc4dea13dd05a80df0a0aa","features":{},"yanked":false}
+{"name":"bsc_m03_sys","vers":"0.2.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a11505945380f7544c307462678cb547a5cd66ed59a5b2a68ac34d965c1a91ae","features":{},"yanked":false}

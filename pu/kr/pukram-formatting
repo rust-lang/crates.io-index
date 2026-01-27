@@ -1,0 +1,3 @@
+{"name":"pukram-formatting","vers":"0.1.0","deps":[],"cksum":"b1bee8fffac6d7af5542feccd3e2010dffcc1384498ed0834712c4958ece2fe7","features":{},"yanked":false}
+{"name":"pukram-formatting","vers":"0.2.0","deps":[{"name":"derive_more","req":"^1.0.0","features":["add","add_assign"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e9bd9e9e6aeeeee9620b059c2f44784e7d1bd4fa299055b8e66de8b28e9d5d4","features":{},"yanked":false}
+{"name":"pukram-formatting","vers":"0.2.1","deps":[{"name":"derive_more","req":">=1.0, <=2.0.1","features":["add","add_assign"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2b10b8eda9aac82237bfd4e8b64fb40575d45baee67353997d5521ff6908a18","features":{},"yanked":false}

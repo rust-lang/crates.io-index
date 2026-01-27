@@ -1,0 +1,2 @@
+{"name":"foldlist","vers":"1.0.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e93b28919af33d1880b9f2159f65b077a6e1f4da46d51f569fa71f1ac1b6c5f7","features":{},"yanked":false}
+{"name":"foldlist","vers":"1.0.1","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6ab7406b17c9f58ee30b7415ec41de96830f43b3a70d0329624a8eb2b7f11dc","features":{},"yanked":false}

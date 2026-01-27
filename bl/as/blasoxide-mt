@@ -1,0 +1,2 @@
+{"name":"blasoxide-mt","vers":"0.1.0","deps":[{"name":"threadpool","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bacbc1b03fc47586b5d176cd4c376fc42e55df8812c3edf98628ccbc3adb2438","features":{},"yanked":false}
+{"name":"blasoxide-mt","vers":"0.1.1","deps":[{"name":"threadpool","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92f0bfaf912e5e564fced5ba57ecee5a925e3076dc336521f6ed52349688e1de","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"blue","vers":"0.0.0","deps":[],"cksum":"5c38e2993d7f5b8aa268907743a38f8bd2f0ff8a26862f1f8e5b831c08c7ca70","features":{},"yanked":false}
+{"name":"blue","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3.6","features":["winsock2","errhandlingapi","handleapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d187f7a4a5b1d92d51e25e2b9c2889ac762c10305564c526201d605b5a4eadb5","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"piohelp","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.49","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f36d368760bdcedfe44c4898097e61d5797bf2ac88d2d9f37a58aefd9f1f5dd","features":{},"yanked":false}
+{"name":"piohelp","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.49","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3537ad419b74a3e11f05dd248be590ae95bdaf26d67e2f2dea2a2fb9da09240","features":{},"yanked":false}

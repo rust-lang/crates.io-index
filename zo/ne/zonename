@@ -1,0 +1,2 @@
+{"name":"zonename","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea9a7a2352c276be710aba103c4ec5d36d195bcac8e14b61d9641d183acc8fae","features":{},"yanked":false}
+{"name":"zonename","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbae92f4d6548e85a594164dfb54fcb36a9e32b923dcd43a9fc4dfbd667efb1c","features":{},"yanked":false}

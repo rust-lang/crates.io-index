@@ -1,0 +1,3 @@
+{"name":"megamorse_proc_macro","vers":"0.1.0","deps":[{"name":"megamorse_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e2a6a14d62aa5334d23a440858611e32de3dc24dc4db5f604ee94a870dfedf","features":{},"yanked":false}
+{"name":"megamorse_proc_macro","vers":"1.0.0","deps":[],"cksum":"16a944cca7ab51ff6aa48cf23d84c86f341ea27ec222a5734c32f2721ccb20cb","features":{},"yanked":false}
+{"name":"megamorse_proc_macro","vers":"1.0.1","deps":[],"cksum":"f431719d22dc920f1e07005549516c2fccf1a482c41f846b7690f444b782042e","features":{},"yanked":false}

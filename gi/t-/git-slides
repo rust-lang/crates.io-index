@@ -1,0 +1,8 @@
+{"name":"git-slides","vers":"0.0.1","deps":[],"cksum":"80e07dc8cba8fa296d4e79cc486eb50101f153185571d3f85bbe48ffbbc956e4","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.1.0","deps":[],"cksum":"bc3d8079ba9164208d309849fd99e66af91886f907430f9efdab2a1f712cd22a","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.2.0","deps":[],"cksum":"0ef74e374d64efbbabcd6bf49da91254748a10c355c64e514657caccd07b03aa","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.3.0","deps":[],"cksum":"700b48564e1c830222e6cd698712bc721791b0603c939e71f50b7ae11f38484b","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.3.1","deps":[],"cksum":"cedd70810a709be7e4017fbfd22fca04e21d4fde71161e45540c9e11bd8edf69","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.4.0","deps":[],"cksum":"8880205ad51a42622a495a7931cbb03a7e3b45bf6562d2ec96085a629eab748f","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.4.1","deps":[{"name":"lessify","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4ed075e00e6e7cc32bff0439bf65129b24be6cfc249acb46a56a6ab6558835e","features":{},"yanked":false}
+{"name":"git-slides","vers":"0.5.0","deps":[{"name":"lessify","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a2dc27bf3aba2b3c5abf77a497621fc55d56515f061631574d7b56431c440a2","features":{},"yanked":false}

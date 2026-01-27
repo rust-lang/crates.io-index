@@ -1,0 +1,2 @@
+{"name":"nodejs-built-in-modules","vers":"0.0.1","deps":[],"cksum":"ef70c89437ecec6d0052d1e39efee1830f37fe7d466d9aa44f08b04297f31d49","features":{},"yanked":false}
+{"name":"nodejs-built-in-modules","vers":"1.0.0","deps":[{"name":"criterion2","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a5eb86a92577833b75522336f210c49d9ebd7dd55a44d80a92e68c668a75f27c","features":{},"yanked":false}

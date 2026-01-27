@@ -1,0 +1,1 @@
+{"name":"shelter-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48829ddc29d0893bca73f239f661048634120773ca484bc296415e432279398d","features":{},"yanked":false,"rust_version":"1.66"}

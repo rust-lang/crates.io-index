@@ -1,0 +1,3 @@
+{"name":"vanessa","vers":"0.1.0","deps":[],"cksum":"48565332e74a5558730076d6848524214b70946fd1ed29f9addd9f179932c6dd","features":{"default":["workers","file-log"],"file-log":[],"multilog":["file-log"],"workers":[]},"yanked":true}
+{"name":"vanessa","vers":"0.1.1-alpha","deps":[],"cksum":"1b97d605d57436b2c69d5b0714b1d1a1c0289e703ff4e07d1a2c678b3861f78e","features":{"default":["workers","file-log"],"file-log":[],"multilog":["file-log"],"workers":[]},"yanked":false}
+{"name":"vanessa","vers":"0.1.2","deps":[],"cksum":"9fd9b457ff2775da073b77ba527ca3fb357d04976474b7632a8d456a5bc5cd21","features":{"compact-terminal-log":[],"default":["workers","file-log"],"file-log":[],"multilog":["file-log"],"workers":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"altsvc","vers":"0.1.0","deps":[],"cksum":"582e902621859134e1ddfa4bd2e5dde59f760ce91c0c7498d3b4b5af6a5f8c06","features":{},"yanked":false}
+{"name":"altsvc","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d16edbc96d342538c4a087926f0599298d955ee33ab63490cc25bc348c7c395","features":{},"yanked":false}
+{"name":"altsvc","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f635c0b408a9ca1fca6c70c1b53176b5ba40e0274452c5148b77fac148d25ed","features":{},"yanked":false}

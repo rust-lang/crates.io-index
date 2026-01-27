@@ -1,0 +1,4 @@
+{"name":"sinau-say-hello","vers":"0.1.0","deps":[],"cksum":"1e9a1b9e1e57c83555de3c397c4618d4192f5c3f7db2381005b5e36f420c9364","features":{},"yanked":false}
+{"name":"sinau-say-hello","vers":"0.2.0","deps":[],"cksum":"aa927864f0c904fa0594be985ca64e89e3af4a38401c9712c8dbe4c74d413404","features":{},"yanked":false}
+{"name":"sinau-say-hello","vers":"0.3.0","deps":[],"cksum":"9b406fee7b7eaf51afceb7069bebf7dad57450fa990545674559cb9763d743e7","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"sinau-say-hello","vers":"0.4.0","deps":[],"cksum":"e2208c7e4899cfb61b19997d733ffa89bb994b19b3d81fbf27c1cb99e7c38a97","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

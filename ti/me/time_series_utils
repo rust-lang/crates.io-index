@@ -1,0 +1,2 @@
+{"name":"time_series_utils","vers":"0.1.0","deps":[{"name":"auto-impl-ops","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe6c820f63d18e34add6e742bd8b39425f00b58640775735400d3ecd8b8869a8","features":{},"yanked":false}
+{"name":"time_series_utils","vers":"0.1.1","deps":[{"name":"auto-impl-ops","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"812197ecf590f9f9b564a50d8b705068e72f7561c22ffd2c626c6646e640854c","features":{},"yanked":false}

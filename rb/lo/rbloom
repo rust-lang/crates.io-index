@@ -1,0 +1,1 @@
+{"name":"rbloom","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c79b39113b0103242648b663f0a4f422ecdab326956885491cabf99e5c1e062","features":{},"yanked":false}

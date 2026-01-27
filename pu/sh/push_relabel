@@ -1,0 +1,3 @@
+{"name":"push_relabel","vers":"0.1.0","deps":[],"cksum":"e0410ea1e6de6f5e331dcbe004575bc37825192d90b2f83ca83e8c1005c771e8","features":{},"yanked":false}
+{"name":"push_relabel","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e682ab622fee23691eb84be907ea227c575a15ab145fa0da7278675e78b1215","features":{},"yanked":false}
+{"name":"push_relabel","vers":"0.1.2","deps":[],"cksum":"010c0eeb4f63db91c412f2a6a6f1eac7b185b3a9326d3debd3141e8de6616df8","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"string-simple","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3fa636d194554ddc26596ea63b336f272bcb08779c18370251dbcd7578144d87","features":{},"yanked":false}

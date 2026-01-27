@@ -1,0 +1,1 @@
+{"name":"ssh-util","vers":"0.1.0","deps":[{"name":"base64","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed48c9ca597f711828e8583223c512f5cbde0a824c7909333916b77832c34373","features":{},"yanked":false}

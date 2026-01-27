@@ -1,0 +1,1 @@
+{"name":"roco_z21_driver","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91ff538d870f2186f06cfaf9e23549a13f54c35659c4b67b008f2ae0e8dae10b","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"tcmb_evds","vers":"0.1.0","deps":[{"name":"curl","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b81c04844de61a071c64ff1df9b7948a9d95a4dea0096390f3834be7a3848f7","features":{"async_mode":[],"default":["async_mode"],"sync_mode":[]},"yanked":false}

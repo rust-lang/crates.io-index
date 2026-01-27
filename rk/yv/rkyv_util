@@ -1,0 +1,1 @@
+{"name":"rkyv_util","vers":"0.1.0-alpha.1","deps":[{"name":"rkyv","req":"^0.8.8","features":["bytecheck"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"91961bb2b30fc16bf0221f22a263a497aec08f050ae3faf09da8cd0d9a0279c6","features":{"alloc":["rkyv/alloc"],"default":["std"],"std":["alloc","rkyv/std"]},"yanked":false}

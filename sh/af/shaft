@@ -1,0 +1,2 @@
+{"name":"shaft","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"690f03c331b66b2a3a14c16123d70a64d7c679bcf936fd12dccfa4ec5965a7f0","features":{},"yanked":false}
+{"name":"shaft","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf294297725c1a74a8e6d1978dcd8ddcf6fd90b654b4d3f04d701a21477d77c6","features":{},"yanked":false}

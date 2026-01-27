@@ -1,0 +1,2 @@
+{"name":"cirque-pinnacle","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b2845fb783829a29a2f7418ed3acfbb28bd37a30301b16fc0a4f3024fd67aae","features":{},"yanked":false}
+{"name":"cirque-pinnacle","vers":"1.0.1","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67e0c33da1f84de7eaadff7af3e9b4b0bd1ddd2dd89e2c3d2893b932d7c1f587","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"pwg","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd70f611bb4472b87ad68c8e50e9d16a2228a0e6a10bf7218940229357014e34","features":{},"yanked":false}
+{"name":"pwg","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68b016638e3231907e9baa61589109ced1406ae69f889755f53706d0bc968074","features":{},"yanked":false}

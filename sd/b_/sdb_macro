@@ -1,0 +1,1 @@
+{"name":"sdb_macro","vers":"0.0.1","deps":[{"name":"quote","req":"^1.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c6f2fd13e06a0d9a20ecc2de9d12adeed800a66e41255da6c724174577a09fb","features":{},"yanked":false}

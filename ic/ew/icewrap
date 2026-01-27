@@ -1,0 +1,2 @@
+{"name":"icewrap","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f990c3cff25031d1298dee4f6b08dd2c131c177aff140a6781291cfd985e710c","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"icewrap","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6e2b3d1e9218fecb65c5dbdf49a8e80ece21486f5482e99f2497c7b480fb50f","features":{"default":["std"],"std":[]},"yanked":false}

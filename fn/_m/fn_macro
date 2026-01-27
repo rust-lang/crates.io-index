@@ -1,0 +1,5 @@
+{"name":"fn_macro","vers":"0.1.0","deps":[],"cksum":"69eedc7c0383bb9bcdcabeb1b5c185b5e81b0a019c7153cbd4ec1283c1e3ad9c","features":{},"yanked":false}
+{"name":"fn_macro","vers":"0.1.1","deps":[],"cksum":"ff85e1313b2e5033068651d4f41a113fd355366673f85266e28c5cb0de16b552","features":{},"yanked":false}
+{"name":"fn_macro","vers":"0.1.2","deps":[],"cksum":"2ebaca08f5685cf6a8520dbc70ddbad5819b8f5a463bfffc3e598a0a40800b2a","features":{},"yanked":false}
+{"name":"fn_macro","vers":"0.1.3","deps":[],"cksum":"b4ec63338a67d55cc65beefdb81205f0e2286a2c264539f5b2a1e1bbb12469e6","features":{},"yanked":false}
+{"name":"fn_macro","vers":"0.1.4","deps":[{"name":"tracing","req":"^0.1.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6bc551c313443dda91fc803a1c293771f54e8350b5987032573d10c80ff6cd37","features":{"tracing":[]},"yanked":false}

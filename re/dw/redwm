@@ -1,0 +1,2 @@
+{"name":"redwm","vers":"0.0.1","deps":[],"cksum":"e99c488f18af7ff69f16a7b59a95f5783b64b1b0c2de0bc4dd46b95e169927ab","features":{},"yanked":false}
+{"name":"redwm","vers":"0.0.2","deps":[{"name":"x11rb","req":"^0.8.1","features":["all-extensions"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aadd112d4968455e183396ba5c405ee01f3a872b01d63b3a001034446c4ec3c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rumblebars-rustlex","vers":"0.3.1","deps":[{"name":"rustlex_codegen","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f459580c92d65192d8180023de8fa222b7dc2f5896f897c9c52d757b27d735e3","features":{},"yanked":true}
+{"name":"rumblebars-rustlex","vers":"0.3.2","deps":[{"name":"rumblebars-rustlex_codegen","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f75303190381d3bfe36110d23ad09a9d62f780595d6c0e034ad30502bb001496","features":{},"yanked":true}

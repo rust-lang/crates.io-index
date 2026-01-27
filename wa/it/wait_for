@@ -1,0 +1,2 @@
+{"name":"wait_for","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a35030ad24ad0273614dbbacffe52e4d64216abc4aa41497f79049ebdf9b281","features":{},"yanked":false}
+{"name":"wait_for","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71700abcabc054f3f5247b64c1c40763843226d4053cda3ed686a05f9d6e70b2","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"Education-Starting-Point-Say-Hello","vers":"0.1.0","deps":[],"cksum":"3a236705a8d88a4dcb7597a4504f69be6105b3e8ccfd7cceb48d134fd7d94ee2","features":{},"yanked":false}
+{"name":"Education-Starting-Point-Say-Hello","vers":"0.1.1","deps":[],"cksum":"276b325ce85d224e5cf712299074d662a7adb03863250dfae22eb3d249155654","features":{},"yanked":false}
+{"name":"Education-Starting-Point-Say-Hello","vers":"0.3.0","deps":[],"cksum":"40c352199d63c8ac0a1a158c0c8a817e85be4e350e55fec5eab29895f15229fe","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

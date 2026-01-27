@@ -1,0 +1,3 @@
+{"name":"clef","vers":"0.0.0","deps":[],"cksum":"91638274f7b1e6f4c1257e73ba318f56df504137618a4809ae807e3b23dbdfe3","features":{},"yanked":false}
+{"name":"clef","vers":"0.0.1","deps":[],"cksum":"aa3b666c7ba87b06cc6a6a89770afc700b4cb5452f7edb8045a95156b9da3e69","features":{},"yanked":false}
+{"name":"clef","vers":"0.0.2","deps":[{"name":"contracts","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af22bb0551e33c3c3b1a67bcb3378c80dac1e621ac3f824778cb099032aa873b","features":{},"yanked":false}

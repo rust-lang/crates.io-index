@@ -1,0 +1,2 @@
+{"name":"bitwarden-data","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.136","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9f4af41ae81f1e2fa4a9d84c5e130de0d383762022be68f2f3612d574a8cc8","features":{},"yanked":false}
+{"name":"bitwarden-data","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.214","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d593aa25c2d6c8e7cf56d1836cc0a40a06c4a6d112a5d4f42abe6b72b80be728","features":{},"yanked":false}

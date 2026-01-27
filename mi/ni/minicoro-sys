@@ -1,0 +1,2 @@
+{"name":"minicoro-sys","vers":"0.8.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e69ba68ef094353f4987ee5f4f196091d0e92acfce14d38272e22ab47ac0de15","features":{},"yanked":false}
+{"name":"minicoro-sys","vers":"0.8.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5580eef42cf058ca688758127cc6727765e117027e4a61e52b2103ae962fe33b","features":{},"yanked":false}

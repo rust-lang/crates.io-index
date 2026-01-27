@@ -1,0 +1,2 @@
+{"name":"air-interpreter-wasm_prerelease","vers":"0.0.0","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5ce48468880af0b1e5307a6ce25a2626526fce75345dde6ab081dbefdca079ef","features":{},"yanked":false}
+{"name":"air-interpreter-wasm_prerelease","vers":"0.0.1","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6fe42b91d589b4728bd1e9a994c96c2a6ddf66e16d4695eef5707dfdc20713cf","features":{},"yanked":false}

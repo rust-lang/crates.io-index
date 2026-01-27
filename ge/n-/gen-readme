@@ -1,0 +1,4 @@
+{"name":"gen-readme","vers":"0.1.0","deps":[],"cksum":"6975e7e4222e0e8080ec4b4ab6cbbedbd524a07091424b41cc96fbe9264188ed","features":{},"yanked":false}
+{"name":"gen-readme","vers":"0.1.1","deps":[],"cksum":"eee673efa80bea84ef2b583c754752c2b927cde5bd3789606eb9c0f39b038907","features":{},"yanked":false}
+{"name":"gen-readme","vers":"1.0.0","deps":[{"name":"dialoguer","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a271e1ca71d211a78115f6d76788fa312e90778b97d0c816d1dc47f3bf51ff4f","features":{},"yanked":false}
+{"name":"gen-readme","vers":"1.0.1","deps":[{"name":"dialoguer","req":"^0.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddb859675b010dd20c47e8d98036c261db83a1d2c5d6db04a4124aee0ffe3e44","features":{},"yanked":false}

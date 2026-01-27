@@ -1,0 +1,2 @@
+{"name":"wgsl-builtin","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e161c54122755e4fcc51f0b9143aa439c054168f1a04b3caafb4509703b1a5","features":{},"yanked":false}
+{"name":"wgsl-builtin","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"314918bc2fbc05204b2f0fba01d7961e081a1943801ec93a79048fe7cd1c7990","features":{},"yanked":false,"rust_version":"1.85"}

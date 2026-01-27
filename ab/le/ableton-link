@@ -1,0 +1,1 @@
+{"name":"ableton-link","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3822f1325ab253e39437a2c8f704d90b554870bba4ed895b9a2d178c944adced","features":{},"yanked":false}

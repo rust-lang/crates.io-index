@@ -1,0 +1,1 @@
+{"name":"glossa-l10n","vers":"0.0.1","deps":[{"name":"lang-id","req":"^0.0.18","features":["consts"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"99e50318e71e0dc4406b65aa7e91ba44c033616dc251e008b6159d1a9ff756af","features":{"error":[],"yes_no":[]},"features2":{"lang-id":["dep:lang-id"]},"yanked":false,"rust_version":"1.85.0","v":2}

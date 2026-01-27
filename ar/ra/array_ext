@@ -1,0 +1,4 @@
+{"name":"array_ext","vers":"0.1.0","deps":[],"cksum":"38107ed40db1da71fce0dea08726049014424e7624506d1477dc5476d7cd5e81","features":{},"yanked":false}
+{"name":"array_ext","vers":"0.2.0","deps":[],"cksum":"fc9f804eb0e71ddf78e907ab4d603c2ed26a658dcf90ee31902cd67125152ddd","features":{},"yanked":false}
+{"name":"array_ext","vers":"0.3.0","deps":[{"name":"seq-macro","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f29525b4ad1f36a0c5eba3cdc0ba7e19ace4c373b13e36a1eb56cde25ac4b60","features":{},"yanked":false}
+{"name":"array_ext","vers":"0.4.0","deps":[],"cksum":"6efd5bf68d27bf9c3389f5d75730bc396583e6d94f055883bf7f7fe863f13e9d","features":{"nightly":[]},"yanked":false}

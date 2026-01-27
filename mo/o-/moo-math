@@ -1,0 +1,2 @@
+{"name":"moo-math","vers":"0.1.0","deps":[],"cksum":"b467c1e8297d74527e9185b6325648a7fdf277d118b01c22ab86c47d0fc93dc7","features":{},"yanked":false}
+{"name":"moo-math","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b2e1992418ee3b5516ebccadeadf805da9a1ef3452fca7cdf902b129de336686","features":{},"yanked":false}

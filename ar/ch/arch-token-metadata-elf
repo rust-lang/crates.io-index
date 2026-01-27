@@ -1,0 +1,2 @@
+{"name":"arch-token-metadata-elf","vers":"0.1.0","deps":[],"cksum":"ea361f1f1e9cfdc0fc7bd310a630c75e40a75f7387e99f0daa695779d6368f40","features":{},"yanked":false}
+{"name":"arch-token-metadata-elf","vers":"0.1.1","deps":[{"name":"arch_program","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87947bf8155cdb65ef704319a7481ea6bb1f682324f38cc963db114566645393","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"nexus","vers":"0.0.1","deps":[{"name":"log","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mio","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c6053f2f0191aaef44b85a7ec72ef0d7f51eca093b4d56a6d84137e4e32545","features":{},"yanked":false}

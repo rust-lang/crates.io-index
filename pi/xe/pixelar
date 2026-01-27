@@ -1,0 +1,1 @@
+{"name":"pixelar","vers":"0.1.0","deps":[{"name":"image","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"imageproc","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cc501bcb6144c4c29685eb184540088e09a828143fcc832fbb1815554b45309","features":{},"yanked":false}

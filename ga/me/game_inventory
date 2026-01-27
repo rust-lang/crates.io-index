@@ -1,0 +1,10 @@
+{"name":"game_inventory","vers":"0.1.1","deps":[],"cksum":"c6678a4521f6351e7e6dc61ffebd92d53f8a93600861f07c207e9eb738e5c9ed","features":{},"yanked":false}
+{"name":"game_inventory","vers":"0.1.2","deps":[],"cksum":"be815bc6b7276d62ab7e0dad0433e0a2ea1d76f0e78d392deb681b570726f95c","features":{},"yanked":false}
+{"name":"game_inventory","vers":"0.2.0","deps":[],"cksum":"f757925506f706f1819d8940a0623776163dae91218dd5156ca3201a2cbc739d","features":{},"yanked":false}
+{"name":"game_inventory","vers":"0.2.1","deps":[],"cksum":"6233976fdb52f4d2a67fb352a0e42638677a044952ad2a8b876a59f29e7932d5","features":{},"yanked":false}
+{"name":"game_inventory","vers":"0.2.2","deps":[],"cksum":"d4879a4000bcc7791d75ff3b5ff41de2b3a46e1b2b60d0c465babb9e105c3c04","features":{},"yanked":false}
+{"name":"game_inventory","vers":"1.0.0","deps":[],"cksum":"6363cc730bad8d0a77c2386525643f2a922348ae17dd304d97fcbab6aa832f56","features":{},"yanked":false}
+{"name":"game_inventory","vers":"1.0.1","deps":[],"cksum":"2c8d172277269d137f77e41ec92b7c4cbaa45f3c52de6dceb4b09119c4b40a4d","features":{},"yanked":false}
+{"name":"game_inventory","vers":"1.0.2","deps":[],"cksum":"548f8c53ae5404cf3632693151376e8b80881aa5c15edc78f0720c0d2d0aff5e","features":{},"yanked":false}
+{"name":"game_inventory","vers":"2.0.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"224423791377c7df673d01ecb4000fc9bd16ffdc1bfe1288e1d1dc3329b8edda","features":{},"yanked":false}
+{"name":"game_inventory","vers":"2.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"529e8bfc4f1820ea8dce696effe35c83a2795869fda0893b6b45c503531a735c","features":{},"yanked":false}

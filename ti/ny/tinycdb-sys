@@ -1,0 +1,2 @@
+{"name":"tinycdb-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3249f6118b6d0d7b9490238f7fdbd33e74afae951b1b2b72d735bd1aaffbd972","features":{},"yanked":false}
+{"name":"tinycdb-sys","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"699ede6e96b7a3ce84746111e875b7f6ecbd9dd23d30300594a7e7aa69f57299","features":{},"yanked":false}

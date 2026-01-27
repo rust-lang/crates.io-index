@@ -1,0 +1,2 @@
+{"name":"time_series_data_packer_rs","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9e801fc58acf945d83b30b065e1da72fe31ca398ef5caa366365cf952600287","features":{},"yanked":false}
+{"name":"time_series_data_packer_rs","vers":"0.4.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7694735f89a87b7b42092c59743bc90bc7b8cda327688c51a2eaf3cd13311c4b","features":{},"yanked":false}

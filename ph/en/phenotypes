@@ -1,0 +1,3 @@
+{"name":"phenotypes","vers":"0.1.0","deps":[],"cksum":"9c86d046075d3171ea9679e8924c79685f8088fcda326857a877c1c78842fc3f","features":{},"yanked":false}
+{"name":"phenotypes","vers":"0.1.1","deps":[{"name":"ontolius","req":"^0.5.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ed626682bdac2a34e951291f6dd226a2b6d3f7b098b375fd9dabec7423298aaf","features":{},"yanked":false}
+{"name":"phenotypes","vers":"0.1.2","deps":[{"name":"ontolius","req":"^0.5.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6b29c7544f852828a60454587c82a91c6036c6123007343f37fff5562447a341","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"liftor","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69fe030c77a37d7ad03bfe5c1c840abdaa861579df802e3bd8478636daf6fec8","features":{},"yanked":false}
+{"name":"liftor","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bdf2aa25c3dc5c388e5fce08d02e139594bab0d0981957312619711880cc806d","features":{},"yanked":false}

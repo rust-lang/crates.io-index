@@ -1,0 +1,1 @@
+{"name":"brc","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustyline","req":"^8.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed651298e6d3fd9678de6ac84fbd293f6f89bcb9d75452be5ae4f4a5f71e4daf","features":{},"yanked":true}

@@ -1,0 +1,4 @@
+{"name":"ini_puga","vers":"0.1.0","deps":[],"cksum":"d73f70d1bcc3c223a9a5a6dc61b3d88fde1ba2ee609ff8559908473d3993569f","features":{},"yanked":true}
+{"name":"ini_puga","vers":"0.1.1","deps":[],"cksum":"5b4e97081a0b91a3ef12cbe04aacb1a62236d24dd2ee7451739eeb86e694b799","features":{},"yanked":false}
+{"name":"ini_puga","vers":"0.2.1","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07cd719943e2f782bbbb4ca7cc7697670c15e589d8edc03bafd2cf74ce1684a9","features":{},"yanked":false}
+{"name":"ini_puga","vers":"0.2.2","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0db7411983eefa733aa9add513d52b471c7a087671b20391c26553204088079c","features":{},"yanked":false}

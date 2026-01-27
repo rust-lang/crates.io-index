@@ -1,0 +1,3 @@
+{"name":"gete-say-hello","vers":"0.1.0","deps":[],"cksum":"a253be38eda65fe9d5953784407ded0081f6072c6b354815f3fb63871cb0e949","features":{},"yanked":false}
+{"name":"gete-say-hello","vers":"0.2.0","deps":[],"cksum":"388f81d4162aef87cea0e336e24bf27e19e7e547f98f29b40f6d8e1df90914f8","features":{},"yanked":false}
+{"name":"gete-say-hello","vers":"0.3.0","deps":[],"cksum":"e6a3658ecd33a97a8dfb2d2e11f300b950572140bd168e684d9efba71c6bcb44","features":{"all":["hello","bye"],"bye":[],"defult":["hello"],"hello":[]},"yanked":false}

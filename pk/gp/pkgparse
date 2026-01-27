@@ -1,0 +1,1 @@
+{"name":"pkgparse","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"710f2c83e0290c05587949734e6296de6f5439b6b61f422948168b9929ca1ad5","features":{},"yanked":true}

@@ -1,0 +1,5 @@
+{"name":"top-english-words","vers":"1.0.0","deps":[],"cksum":"e5f7858443082238ae557ea427cd6e38773e2fb0cc1abc5167efe1243ad64ea9","features":{},"yanked":false}
+{"name":"top-english-words","vers":"1.0.1","deps":[],"cksum":"4cafb47d1c6a382c539284a362d6ece74c63063c5a3f5ab26e09b988f6c630b7","features":{},"yanked":false}
+{"name":"top-english-words","vers":"1.0.2","deps":[{"name":"include-lines","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa7713e4bef7be370a926645cdd543ebf23b5df4133db1695a8000b9b79bd864","features":{},"yanked":false}
+{"name":"top-english-words","vers":"1.1.0","deps":[{"name":"include-lines","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1abae71b2676028029722a8cc5a92d9e2eae818286c68525e5b97ffe2ce8e35","features":{},"yanked":false}
+{"name":"top-english-words","vers":"1.1.1","deps":[{"name":"include-lines","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"786df8d3b3c2718fa890d09c4f8f4ad9282a417c41538740a068f826e7d5a72c","features":{},"yanked":false}

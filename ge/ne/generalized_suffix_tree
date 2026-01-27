@@ -1,0 +1,9 @@
+{"name":"generalized_suffix_tree","vers":"0.1.0","deps":[],"cksum":"e93aded1737cd6b5eec41bdcd3de02c0e19c9d07da938b5b52d20c4768323ee6","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"0.1.1","deps":[],"cksum":"38c313c29471d4cec8809689164fce2dce746237a55585f2570d877de7d5a787","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"0.1.2","deps":[],"cksum":"b3279517f22cf5bd3f524ed38f86b1115932d2cd6003d7a12ca8bb8265bcb4e6","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"0.2.0","deps":[],"cksum":"4bbfc183e26cd09942f8206bcb1920460feb09092b7c95a7a3d320bd862b8a11","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"0.2.1","deps":[],"cksum":"1c4fd7b79ba9aeae2cb3ef0f8b273819a029a256ec0db5972f6ec5b3b7f4076a","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"1.0.0","deps":[],"cksum":"38b496b3883103ed09218476326e91c2cb385eb575b5aa0b6e9b113e6472babf","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"1.1.0","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd8e6dc3ca2376d0e570a1fb30aa52991b60d7b010cb597a440f5815ba22bd58","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"1.1.1","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6273bfb6b1a285c037854ac2a6c2dbfd06983a0c71e295a79485e54e69eabb9","features":{},"yanked":false}
+{"name":"generalized_suffix_tree","vers":"1.2.1","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20304eada44e614a5c9a06d844a5704ad4873a6b97e79e15389d798d450944cd","features":{},"yanked":false}

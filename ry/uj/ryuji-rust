@@ -1,0 +1,1 @@
+{"name":"ryuji-rust","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1.0.104","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"679426c38ae750430ab0d2a3f10596fb727f8f1b35ecae23d24328a564ae36ec","features":{},"features2":{"hashmap_json":["dep:serde_json"]},"yanked":false,"v":2}

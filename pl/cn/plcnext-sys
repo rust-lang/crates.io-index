@@ -1,0 +1,2 @@
+{"name":"plcnext-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"442b996bc9c7a6d53db1f3677eb4359b1390c5de3986ccec34e10c1b1f4ff0ff","features":{},"yanked":false}
+{"name":"plcnext-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"17a231f72f704fb39b04f7eb42f8d4ed7a123ae5f0a1e12e6b9565e8b6ecc6ae","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"numeric-sort","vers":"0.1.0","deps":[{"name":"no-std-compat","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f2c4adf593c928171160e2632096353bb0306d3c8447143861374d5e678e37","features":{"default":["std"],"std":["no-std-compat/std"]},"yanked":false}
+{"name":"numeric-sort","vers":"0.1.1","deps":[],"cksum":"5180ed575d2ae6100dc63813e3810aba273c291608cf019aa58f76784ecc331b","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"numeric-sort","vers":"0.1.2","deps":[],"cksum":"6267845eb6dccf7a8a0f86140ea6dc7f62820413f2f5f29a194cc59e8327e5c1","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"numeric-sort","vers":"0.1.3","deps":[],"cksum":"6d5fd3fb42db9453f4995402fd23a080834cd706e63b018e62ea6acd6ee5d24c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"numeric-sort","vers":"0.1.4","deps":[],"cksum":"1f218700a47ff14f06bb676b97e63a6fb2fd25db3bf05d6f369971188e303f7f","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"numeric-sort","vers":"0.1.5","deps":[],"cksum":"f2dcb6053ab98da45585315f79932c5c9821fab8efa4301c0d7b637c91630eb7","features":{"alloc":[],"default":["alloc"]},"yanked":false}

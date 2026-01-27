@@ -1,0 +1,4 @@
+{"name":"pzn_say-hello","vers":"0.1.0","deps":[],"cksum":"bafb26cd40ad11e8cd0b633b55da0870f10109d7fdaf061160b51bb99e0d4310","features":{},"yanked":false}
+{"name":"pzn_say-hello","vers":"0.2.0","deps":[],"cksum":"c142711c2d35ea06771665eefc0035519236374580115f5e6bc921238d50a578","features":{},"yanked":false}
+{"name":"pzn_say-hello","vers":"0.3.0","deps":[],"cksum":"1c83b3e6ababf20182da37a09acd1e27ea33bc23baa61a47407ceefbaf1721ea","features":{"all":["hello","bye"],"bye":[],"hello":[]},"yanked":false}
+{"name":"pzn_say-hello","vers":"0.4.0","deps":[],"cksum":"b50c07b471b13c1e3793941541e1f61740ee32f49185420da802f00961042bf9","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

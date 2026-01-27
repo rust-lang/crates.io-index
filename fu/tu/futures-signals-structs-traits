@@ -1,0 +1,2 @@
+{"name":"futures-signals-structs-traits","vers":"0.1.0","deps":[],"cksum":"bf50f649227cd597fb504e529dd645966bb35c52e44139370d840f9137d8b6ae","features":{},"yanked":false}
+{"name":"futures-signals-structs-traits","vers":"0.2.0","deps":[{"name":"futures-signals","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea188e48ccfe62d0a9aaa06005a9df894277dbb89cf5f978d71681102da03138","features":{},"yanked":false}

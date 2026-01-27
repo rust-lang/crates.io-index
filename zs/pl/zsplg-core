@@ -1,0 +1,2 @@
+{"name":"zsplg-core","vers":"0.0.0-alpha1","deps":[{"name":"dyn_sized","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9fe457f60d32c9f46bda0c9f8270cfdb05bfaafca180ac2e085dcc5252f5e5e","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"zsplg-core","vers":"0.0.0-alpha2","deps":[],"cksum":"6db142457190eb3eb9991842285c034216b921c9705b564a2b0e00da15e50570","features":{},"yanked":false}

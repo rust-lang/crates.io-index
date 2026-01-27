@@ -1,0 +1,2 @@
+{"name":"sedctl_backends","vers":"0.0.0","deps":[],"cksum":"0c832075496dbe20942c59c78fb77e00a06a2b5f7ff17d1bf45333f68a80dc96","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"sedctl_backends","vers":"0.0.1","deps":[{"name":"sedctl_tcg_storage","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fd718290be669c9950cc8eeea7cb2d13af046c8b4a65805733d6d4323dfdb63","features":{},"yanked":false,"rust_version":"1.88"}

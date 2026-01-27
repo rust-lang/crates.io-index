@@ -1,0 +1,3 @@
+{"name":"applejack","vers":"0.1.0","deps":[],"cksum":"aa964b5ac2fe5af08c2dc841287976bcc288561e2546adaba87a17522778c71c","features":{},"yanked":false}
+{"name":"applejack","vers":"0.2.0","deps":[{"name":"minivec","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smallvec","req":"^1.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"038886fcd981b8be754f9506e0f397c3aa1fc9522cbe84fc31ca87b4aa7aea91","features":{},"yanked":false}
+{"name":"applejack","vers":"0.2.1","deps":[],"cksum":"fe6cc8808f14c6f7dc6e41111cb369604eae72b2348850e24f171a19560deaf4","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"circus","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27c8e519d92bb97e29d5db4b50a4ed43032dd0270b42cc0bdb4994c2ef3f39f6","features":{},"yanked":false}
+{"name":"circus","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fca4051dbcfcfe77ff463058585071a778ecc14958cd3a99e827cd8071cd0a9","features":{},"yanked":false}

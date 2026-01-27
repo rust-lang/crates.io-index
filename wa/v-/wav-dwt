@@ -1,0 +1,2 @@
+{"name":"wav-dwt","vers":"0.0.0-reserved","deps":[],"cksum":"5dcf74e773bc8c9881921d1269cfd9c2ee758b019aa08a92c32c88f5b5e0fade","features":{},"yanked":false}
+{"name":"wav-dwt","vers":"0.2.1","deps":[{"name":"convolve-nd","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hound","req":"^3.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0db8e6b830858d7f87f71899b85a0732ad3bba29da25c661852d0b2ffe235ca3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ampere-kernel","vers":"0.1.0-rc0","deps":[{"name":"bootloader_api","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"589911c7382a50842afc3aa8c7efdd9a748f35a65ab32874e25f0fe5346d2d14","features":{},"yanked":false}
+{"name":"ampere-kernel","vers":"0.1.0-rc1","deps":[],"cksum":"8ee03998e648200abb5f243cd59b3e6bf4122414ee41dfb0d621d977353bb6bd","features":{},"yanked":false}

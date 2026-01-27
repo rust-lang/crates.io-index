@@ -1,0 +1,2 @@
+{"name":"uswitch","vers":"0.1.0","deps":[{"name":"users","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0e912813727c3520e26f6fac83a16d8c16b72e329e7e7bdea4f29d24ff39a8b","features":{},"yanked":true}
+{"name":"uswitch","vers":"0.1.1","deps":[{"name":"users","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"615f9e7f34d4fc81ae75010477bed3f237422cfe8248b31ac83849cac2228ddf","features":{},"yanked":false}

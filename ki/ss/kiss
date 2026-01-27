@@ -1,0 +1,1 @@
+{"name":"kiss","vers":"0.1.0","deps":[{"name":"nix","req":"^0.26","features":["signal"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ab8d91b04cf80de2519150603981b413787155504acf45fc95fac3f456506f1","features":{},"yanked":false}

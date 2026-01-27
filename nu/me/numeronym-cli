@@ -1,0 +1,1 @@
+{"name":"numeronym-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b2b38e833016af04d4396f82a06adfda6914d3881906b7d392306f020c5cbe5","features":{},"yanked":false}

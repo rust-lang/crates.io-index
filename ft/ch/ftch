@@ -1,0 +1,2 @@
+{"name":"ftch","vers":"0.1.0","deps":[],"cksum":"bc581ec3ba1e3069440d849a24c881e7d3905b3df123ede860f6d2c2020d4e4e","features":{},"yanked":false}
+{"name":"ftch","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f859973c1dfe2420a3ff4f93490bcdf0a106abbcaaf6cd270eac5f335a638df","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"say-hello-poxyy","vers":"0.1.0","deps":[],"cksum":"cd7f4c1c83c6a9eeb41ad4c89dd7f391595c504d0afd7beb954ec499f29ec172","features":{},"yanked":false}
+{"name":"say-hello-poxyy","vers":"0.2.0","deps":[],"cksum":"6263d3f70f6a6102b029a4a1132b1aaf210f3b0810af4ee6fe572fe9f04d6238","features":{},"yanked":false}
+{"name":"say-hello-poxyy","vers":"0.3.0","deps":[],"cksum":"f36f7d9f66faad214a7a28ddb979867240ddf5fe8eea75d2a9ed8491e5f4758c","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

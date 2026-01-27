@@ -1,0 +1,5 @@
+{"name":"num-huarongdao","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a8fab1afa5d47b88a1316e78ddc9f4ceb24f7a613515821a45d3d09d49825e3","features":{},"yanked":false}
+{"name":"num-huarongdao","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46e438433157146ec3bc68897cb309e4d50f74d544334b40082e66faad3e0657","features":{},"yanked":false}
+{"name":"num-huarongdao","vers":"0.1.2","deps":[],"cksum":"08b3e2dfd149122d8c8a32769277e2fe956f76e46d47d45e954102573376a4aa","features":{},"yanked":false}
+{"name":"num-huarongdao","vers":"0.2.0","deps":[{"name":"oorandom","req":"^11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"621db705c6c34e6d8e65123e72ce3786c43f666c821535ca90269a80ff88daf2","features":{},"yanked":false}
+{"name":"num-huarongdao","vers":"1.0.1","deps":[],"cksum":"8637defd9e5def449e16eed643163ce1cc6aa2a2d3bc1391dcb4e913ff71ea97","features":{},"yanked":false}

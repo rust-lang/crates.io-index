@@ -1,0 +1,2 @@
+{"name":"env_wrapper","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3589e9577508ad59845aec515f45fb927fa18333793886b0a0a570a38a1a0097","features":{},"yanked":false}
+{"name":"env_wrapper","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b0fb749a06748d034d58884782bb94a124b159d0c995abd761c158778d0fb095","features":{},"yanked":false}

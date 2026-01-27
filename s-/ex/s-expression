@@ -1,0 +1,2 @@
+{"name":"s-expression","vers":"0.1.0","deps":[],"cksum":"e0b2d94271844d879feb766cec7feea2a880b3598411e4bb6cecace3ba5e1407","features":{},"yanked":false}
+{"name":"s-expression","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28cdbff21b92ec6fa85f9e5c65e979f4acbaa62824beb9f55ebe33dd7b6857bc","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rinkle","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b598e5c36a7e693def760eab2ffc7c1e7d24d7b125c9e64091d3ad139136529","features":{},"yanked":false}

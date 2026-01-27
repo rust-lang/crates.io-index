@@ -1,0 +1,2 @@
+{"name":"graph-rs","vers":"0.1.0","deps":[],"cksum":"a003f48f368d8b25864fba4dcbcf2f67c6bbb6b0aa2923dfda1b09eeec47dc7b","features":{},"yanked":false}
+{"name":"graph-rs","vers":"0.2.0","deps":[{"name":"collections-rs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"788e1b408a0ca14a3ba6fd28f06fd5fa74a339e52973167f02dd56257322d285","features":{},"yanked":false}

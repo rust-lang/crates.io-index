@@ -1,0 +1,2 @@
+{"name":"cgroup-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd1104624227c64b2a2599ca24b828a390556248f441075a9f22f70613856616","features":{},"yanked":false}
+{"name":"cgroup-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2980b08758b7d22d01d514722d7c8c3e1eaee6a4f705ea03bf6ed89a6677c328","features":{},"yanked":false}

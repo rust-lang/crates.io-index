@@ -1,0 +1,6 @@
+{"name":"argtokens","vers":"0.0.0","deps":[],"cksum":"8eb56cbd033c689bf556d05e75d6255ed56f7f69b1ffeec274c34d4baa53a9db","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"argtokens","vers":"0.0.1","deps":[],"cksum":"0d386a772fd0e4d92ccae3413d266febaee60e4ced57aaeba84e5c6e417088eb","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"argtokens","vers":"0.1.0","deps":[],"cksum":"630215f001fb6a52610d37c7d4cf1a79291160467b04409205e90a46f79103a5","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"argtokens","vers":"0.2.0","deps":[],"cksum":"91ee0242b3a86e81176374836ad0de40321b7f4fed80f4d1ebc616abef9cc562","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
+{"name":"argtokens","vers":"0.3.0","deps":[],"cksum":"09cffaa3947e2fa211c2d3900f383fe62b66d09c22181abe458d1e9a67cb7153","features":{"default":["inline-next","std"],"inline-next":[],"std":[],"str":[]},"yanked":false,"rust_version":"1.74.0"}
+{"name":"argtokens","vers":"0.4.0","deps":[],"cksum":"7d94151017ea16eff27ec3ca0ca67501c30600b8c84dd55b88cf30fd747177cd","features":{"default":["inline-next","std"],"inline-next":[],"std":[],"str":[]},"yanked":false,"rust_version":"1.74.0"}

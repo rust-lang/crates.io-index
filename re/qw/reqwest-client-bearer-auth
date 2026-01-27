@@ -1,0 +1,1 @@
+{"name":"reqwest-client-bearer-auth","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"961cb0c9388e09534f71c1bc9d0bc861520832772fc8e6b48ac2ca62e36bf805","features":{"blocking":["reqwest/blocking"]},"yanked":false}

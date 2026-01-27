@@ -1,0 +1,2 @@
+{"name":"fluxion-error","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cf78ba075c66aad78d16bbc172dfd0e850a97748dc9fb64ac27c3f70b5f0461","features":{},"yanked":false}
+{"name":"fluxion-error","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f9822485fe79fa3962f56557603d0b0e57de3387d98a44390408be698cb58ff","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mini-proclist","vers":"0.1.0","deps":[{"name":"sysinfo","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c18ff94b9fa852cc14a9aea036fa47ac991ace6ef795ff6c276571acd5f8a1aa","features":{},"yanked":false}
+{"name":"mini-proclist","vers":"0.1.1","deps":[{"name":"sysinfo","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d194961b37dcf597cdd49380a778ded09263ebfb95067b99b23a6736589f534c","features":{},"yanked":false}

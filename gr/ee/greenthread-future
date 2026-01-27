@@ -1,0 +1,1 @@
+{"name":"greenthread-future","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.2","features":["macros","rt-threaded"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"71031048ecbea4115fc071bb862db3a312894848ef5ce979eedda20cffe77da9","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"cargo-deps-list","vers":"1.0.0","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d31ed91835b7ad813a3201148ac7f559bd04f5e11666310e0e4ece15f61db5b","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"cargo-deps-list","vers":"1.0.1","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0468a118a29b67ed93edb1666c9081119fb45e98efe905108c8db8ba4254c05d","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"cargo-deps-list","vers":"2.0.0","deps":[],"cksum":"6dce05326336dd92c15f7d656aed14af36bce3e1ecdd234bc440fd17693324fc","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"cargo-deps-list","vers":"2.1.0","deps":[],"cksum":"178920329a2e25d20b4ea0dddf28bad354c59d6a66d2c3c82bfa5ea2c8df7c90","features":{},"yanked":false,"rust_version":"1.58"}

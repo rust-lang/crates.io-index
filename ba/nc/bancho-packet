@@ -1,0 +1,2 @@
+{"name":"bancho-packet","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1be4774b559ee5f2addcf55fbedab96a0d2e0f0823feac630af4680fcfbb7e69","features":{},"yanked":false}
+{"name":"bancho-packet","vers":"0.2.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb4e6ee108746689cea26c293b3d8d65c46a4da1b0ef96b10b77e767843d7ef6","features":{},"yanked":false}

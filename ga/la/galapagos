@@ -1,0 +1,2 @@
+{"name":"galapagos","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55036cc1365357d4eb1f3bad5c1eacd67610caad14569b2648cd5d4dbda42fc7","features":{},"yanked":false}
+{"name":"galapagos","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8f535cdcc4121cf327938dead42eb8fd27c1581e97bb48d17aa2676b27db13f","features":{},"yanked":false}

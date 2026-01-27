@@ -1,0 +1,2 @@
+{"name":"test_module","vers":"0.2.0","deps":[{"name":"test_module_impl","req":"~0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91e1af996c7ec7b8b7053a8dd194cb56f40314c585a87d9e0c485f7d7f332eb0","features":{},"yanked":false}
+{"name":"test_module","vers":"0.4.0","deps":[{"name":"test_module_impl","req":"~0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b673bbd7229d37c8bdcbb0366be6593838a89e9e6925f2008e076b050fb75aab","features":{},"yanked":false}

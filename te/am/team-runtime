@@ -1,0 +1,2 @@
+{"name":"team-runtime","vers":"0.1.0","deps":[],"cksum":"1c7a8876dce89585ce7a439a0c291e4424e861b5654014f605d30fe69aae73fa","features":{},"yanked":false}
+{"name":"team-runtime","vers":"0.2.0","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705f07e2c148c0c9fc16af76b37355c691a4bff0afbb8b10bba66e1fc5ddfc50","features":{},"yanked":false}

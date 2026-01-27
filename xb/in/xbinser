@@ -1,0 +1,4 @@
+{"name":"xbinser","vers":"0.1.0","deps":[],"cksum":"2d7ffc9ff08f5017eb5e47a4f6628ad590dd7175fc87331af7aedf6c12e49e01","features":{},"yanked":false}
+{"name":"xbinser","vers":"0.1.1","deps":[],"cksum":"516c34e1fe0100e7a40388dab88863102894623c295b0455ca76bbd4de581278","features":{},"yanked":false}
+{"name":"xbinser","vers":"0.1.2","deps":[{"name":"bytemuck","req":"^1.18.0","features":["extern_crate_std","min_const_generics"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21357864d3a18ae8e6fbbce790e113f0f77ddca0806417a0d597bd805c4e8827","features":{},"yanked":false}
+{"name":"xbinser","vers":"0.1.3","deps":[{"name":"bytemuck","req":"^1.18.0","features":["extern_crate_std","min_const_generics"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d891848930cca9faf0fc9e2aa74ffaf0f7721ce5ffa82ce0adbdf19c02ef60c3","features":{},"yanked":false}

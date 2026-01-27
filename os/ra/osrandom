@@ -1,0 +1,2 @@
+{"name":"osrandom","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3347b4fd9db5f924740f8101beec9a63d0b48161421e94217b0647818b140df","features":{"default":[]},"yanked":false}
+{"name":"osrandom","vers":"0.1.1","deps":[{"name":"cc","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1d01cae863237f980b575360759aeafb401dc19dcec622688350b7e2ec160c25","features":{"default":[]},"yanked":false}

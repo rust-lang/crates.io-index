@@ -1,0 +1,1 @@
+{"name":"segmented_vector","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.2","features":["alloc","os_rng","small_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc985e97b1a28819845010075ab8d88944603c191c44d0174a24a176218555ff","features":{},"yanked":false}

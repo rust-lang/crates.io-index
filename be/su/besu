@@ -1,0 +1,1 @@
+{"name":"besu","vers":"0.0.1","deps":[{"name":"besu-macros","req":"^0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0444c2adfcfffc487519852ebba59173c2bd18d655e426e84d650e97ee93533","features":{"default":[]},"features2":{"derive":["dep:besu-macros"]},"yanked":false,"v":2}

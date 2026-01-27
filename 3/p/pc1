@@ -1,0 +1,1 @@
+{"name":"pc1","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.83","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"713867d5a760448868e61054e6e4ba0092abe8680fcc8fa6aa478304ebdf3bea","features":{},"yanked":false}

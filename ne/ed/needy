@@ -1,0 +1,2 @@
+{"name":"needy","vers":"0.0.0","deps":[],"cksum":"82300ad94f2ed7cb2a2be5bdccb76556b76095f9b915d73e05c665726c567b24","features":{},"yanked":false}
+{"name":"needy","vers":"0.1.0","deps":[{"name":"macrotest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"990c7fa8906eb6ff1308770530df8167d0d31bf3f9b67316bf9f82dcfeeb46b2","features":{},"yanked":false}

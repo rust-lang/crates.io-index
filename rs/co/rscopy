@@ -1,0 +1,2 @@
+{"name":"rscopy","vers":"0.1.0","deps":[{"name":"clipboard","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33e4f6e43c7608820f7d7e6b84c0d6348508921d307d8098f914bf0b153bba9f","features":{},"yanked":false}
+{"name":"rscopy","vers":"0.1.1","deps":[{"name":"clipboard","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd48d881bb9a70059ff78dd6c97d3824f5655233020dd1f4c13cbec9ff4ae6fe","features":{},"yanked":false}

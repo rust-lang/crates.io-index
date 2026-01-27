@@ -1,0 +1,3 @@
+{"name":"agentdb","vers":"0.1.1","deps":[],"cksum":"2b0dc333bd5bd2841f118329b1ade160d9a7030a5ec7632a792dd1feacd369f2","features":{},"yanked":false}
+{"name":"agentdb","vers":"0.1.2","deps":[],"cksum":"6d485ef1cafd60fc2f86ba2bd8fe7d6e0a450d880376e142eb1748f532a1ff1a","features":{},"yanked":false}
+{"name":"agentdb","vers":"0.2.0","deps":[{"name":"async-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39c9a60cb0fc434a08961880e6d5218081c6f2676ee8f8a164a88fa39b4bef0b","features":{},"yanked":false}

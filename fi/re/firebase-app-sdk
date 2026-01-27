@@ -1,0 +1,6 @@
+{"name":"firebase-app-sdk","vers":"0.1.0","deps":[],"cksum":"b90e071023c2a57c583f392ae5b611e86363e4bc5a6fdad7fe27f8f4ee74b5e9","features":{},"yanked":true}
+{"name":"firebase-app-sdk","vers":"0.1.1","deps":[],"cksum":"3764ea50f24ca63dc0bd2cfacc6003ac784a580bcddba0f79121ec450f00b272","features":{},"yanked":true}
+{"name":"firebase-app-sdk","vers":"0.1.2","deps":[{"name":"api-request-utils-rs","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6091727aa17187b040b259df5150b85f81d5bcbccae198363926dc6ba271260","features":{},"yanked":true}
+{"name":"firebase-app-sdk","vers":"0.1.3-preview1","deps":[],"cksum":"48f2d4eb1ed26b88c4754823ededf7e18ab02830fe98768200ea91fd6af31dbe","features":{},"yanked":true}
+{"name":"firebase-app-sdk","vers":"0.1.3","deps":[],"cksum":"bb4d9589d36e361760659f990753d367f386e3f3b533c171a957f51b63d3c7f1","features":{},"yanked":false}
+{"name":"firebase-app-sdk","vers":"0.1.4","deps":[],"cksum":"0d40ca9b34dc331a095603b08b22110dda80e99831974f20a7145e69ab8afe8c","features":{},"yanked":false}

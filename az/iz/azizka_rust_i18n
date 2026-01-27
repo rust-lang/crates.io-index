@@ -1,0 +1,6 @@
+{"name":"azizka_rust_i18n","vers":"0.1.0","deps":[],"cksum":"373a477bf7caf165bf03485e7a4040b47880b24b576b6caea5a2e58718859dd6","features":{},"yanked":false}
+{"name":"azizka_rust_i18n","vers":"0.1.1","deps":[],"cksum":"e693f7d1dc0a942a65bc7100c3946ce8ec4a418aa8a45d944ef056d42b07bd1b","features":{},"yanked":false}
+{"name":"azizka_rust_i18n","vers":"0.1.2","deps":[],"cksum":"17f05779a859272992ac1cd76b858365ece194d7486b0f92326d31414cbb4f39","features":{},"yanked":false}
+{"name":"azizka_rust_i18n","vers":"0.1.3","deps":[],"cksum":"e5943ca8b4f33e814965a955be4771c5ca761f22844c8e0bf5ceefa4a765e1ad","features":{},"yanked":false}
+{"name":"azizka_rust_i18n","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1711eb084a0aab4f6d4aaac395a26e3c0f658d36306761cd0d0d8cef686f6d0f","features":{},"yanked":false}
+{"name":"azizka_rust_i18n","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7e795f7b5f1ad9a900d8d5bed8965529b4bb5d3d9a03cb505d85307e455bc81","features":{},"yanked":false}

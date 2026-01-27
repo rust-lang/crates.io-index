@@ -1,0 +1,7 @@
+{"name":"cargo-canoe","vers":"0.1.0","deps":[],"cksum":"86be620a08f1472f9439780385be264983c8a54456d62fde4a3308839e95ac06","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"0.1.1","deps":[],"cksum":"455fb3b5248fce74910129556ba5c7b2284013931ee59a3ef5c16b7ffe21321e","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"0.1.2","deps":[],"cksum":"41d05ce07e0372d9c1568340218d358476d9692073fe282e5bbaba5314d2971d","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"6.6.6","deps":[],"cksum":"27f33057378e4e225e4353a84d3862c9396436233ebf973f9a18db5e1c5fd9d1","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"6.6.6-ferris","deps":[{"name":"term-painter","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57735b9dc483e0ee784c8baaeb42cb3b799bd1094150cd289ef55ca07187565d","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"6.6.6-69","deps":[],"cksum":"194e733281672a8fc1b048615e11d81b67b0cedc996da795e8c9932188e52dec","features":{},"yanked":true}
+{"name":"cargo-canoe","vers":"6.7.8-putting-the-rust-in-crustacean","deps":[{"name":"term-painter","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2fd0d832f1ecd25620a5f3d0118c0e8ef631c1472dcdbd89566aae6dd3abec0","features":{},"yanked":true}

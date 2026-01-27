@@ -1,0 +1,2 @@
+{"name":"cpu-endian","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"709d64fe14e4abdf7452e4f349a1edc22b0f8db4ba163b2f8f0562c8b10c3345","features":{},"yanked":false}
+{"name":"cpu-endian","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"512746971686a86c7b8aee38244eaa7e04696e612790d593f1d73059536beee8","features":{},"yanked":false}

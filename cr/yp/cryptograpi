@@ -1,0 +1,1 @@
+{"name":"cryptograpi","vers":"0.0.1","deps":[{"name":"openssl","req":"^0.10","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42bebc29becbd2f08bcea44e32e57ecc08e3fb032c55664e83ca5de56a02db56","features":{},"yanked":false}

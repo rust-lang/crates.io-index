@@ -1,0 +1,1 @@
+{"name":"echo_oxide","vers":"1.0.2","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a36340872907012c07045aee3abc67c8ae91aa41e8bc96ff1243171f3f736ecc","features":{},"yanked":false}

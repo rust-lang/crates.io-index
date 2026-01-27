@@ -1,0 +1,3 @@
+{"name":"training-hello-goodbye","vers":"0.1.0","deps":[],"cksum":"3652b93260d94fb4f913920eca7691ccafd9abc2700aa89ad86c4636ed4ef424","features":{},"yanked":false}
+{"name":"training-hello-goodbye","vers":"0.2.0","deps":[],"cksum":"9d47c3a5062aa782531472b62c3492ebd4423a2831e94af44516142bedca3e19","features":{},"yanked":false}
+{"name":"training-hello-goodbye","vers":"0.3.0","deps":[],"cksum":"cd3c2aa6dbb84fd895474c9dd8ed72f97c390f93c9c2abb57683db87ba42a6ad","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

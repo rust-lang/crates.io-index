@@ -1,0 +1,2 @@
+{"name":"learning_edpyt_cargo","vers":"0.1.0","deps":[],"cksum":"f6707fb453c125c6a9cbdf4e396749ebec8e211c22ed950d80283b6a93478ea3","features":{},"yanked":true}
+{"name":"learning_edpyt_cargo","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e65124e14936501512699312aa2315627d392294cb1d292dc035c68c03e4da7","features":{},"yanked":false}

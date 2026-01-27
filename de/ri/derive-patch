@@ -1,0 +1,1 @@
+{"name":"derive-patch","vers":"0.0.1","deps":[{"name":"clippy","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"clog-cli","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5cc620326f311cc9b59ea2e66becce352b4e75f058a7006dd396a20dffb113c","features":{},"yanked":false}

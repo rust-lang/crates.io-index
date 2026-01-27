@@ -1,0 +1,2 @@
+{"name":"chatwork_client","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.10","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3a7b31d5718e292bef955248c876c62747bcd9978c1c56fafd0082baa0963f7","features":{},"yanked":false}
+{"name":"chatwork_client","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.10","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4aa4163e8fe8656754e52fb36a6df766e5e661af3b1bbaef2a7bee92f5e6f15d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"pingap-sentry","vers":"0.11.0","deps":[{"name":"sentry-core","req":"^0.36.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9af7700d78dc8e0451050e75d68c09236580e58f9235cd368c0aa214a3938d5c","features":{},"yanked":false}
+{"name":"pingap-sentry","vers":"0.12.0","deps":[{"name":"sentry-core","req":"^0.36.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0eb76350306f50fa44012cdd9f89cba3a4260cd43fad1ba4a94788a6156bc3e3","features":{},"yanked":false}

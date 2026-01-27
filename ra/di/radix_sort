@@ -1,0 +1,1 @@
+{"name":"radix_sort","vers":"0.1.0","deps":[{"name":"num","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbc39a1cceb49e7e6906d39d7ee8fff5b8c99edba8edb41f3d3cd10ac79797ca","features":{},"yanked":false}

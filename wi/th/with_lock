@@ -1,0 +1,16 @@
+{"name":"with_lock","vers":"0.1.0","deps":[],"cksum":"d7d119c1a9646ea3371135856d2f1020215f7cd4c7ac182068d78dbb31744d71","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.2.0","deps":[],"cksum":"699bbb1e4ed0355eb506d2618da1a03366d831e4884fbf49b9ce19dd5fe4a907","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.2.1","deps":[],"cksum":"c3813437fc794c5d1e215abe8eba171ca3308882f6881fc0c3879c5ef4bd5eb5","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.2.2","deps":[],"cksum":"aefcea96a21c0598ffada18ec08f3b036ad744aa16649e278d34040d872ecfe3","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.3.0","deps":[],"cksum":"111b8812b3767d0b1580efdf6fdc38faf8a8f30b90e256b95ecd7c64e483b34c","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.3.1","deps":[],"cksum":"f8099220de7920c82451d4c573f71575edaec937903f6156a4cc6b9f288f10dc","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.3.2","deps":[],"cksum":"406c052fa0cffed0737bbdcaf672fe699bf08e12397dc811b4bf1832f0dfaaf3","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.3.3","deps":[],"cksum":"8a1e0fb47682e3f5de7d9caef19d2e396cf02a375091e23ef667fd56cab81a18","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.4.0","deps":[],"cksum":"7287c3d648ca21c1322d80ab37b3a7dc65d49d4b58ab3620173227ba6f879f53","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.4.1","deps":[],"cksum":"c24fec7341be9b0c30bc71eb3b02a9a86abb9f2e3600a0aa80f76aa1ea49f38f","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.4.2","deps":[],"cksum":"690b8f93c1cc8481ad0a8a7d2329a0151b9ab5e928b80664a9510bb5058a9522","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.5.0","deps":[],"cksum":"e6935d9aebb0584c477fcfd1ee2e2edf845423486ee3ccdeef40cc8d72811254","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.5.1","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"100c5715f62569ba0d4246f6b7ce41a80b0c6ad3e267c5d8ca25baea5337ab4b","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.5.2","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8a829786a6a9d351a2e41f1e85dbff30cf473f9cf6c8b4e8384a3d59f44925a","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.5.3","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a8b703e57c8ec5c5ef91f5727184521c24c3f93a7628d8612dea7d84296a341","features":{},"yanked":false}
+{"name":"with_lock","vers":"0.5.4","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c603df40f424bc5ec8f6a70eeeb127f9bd710fdf6df2bfe1940806a5a8ccb97b","features":{},"yanked":false,"rust_version":"1.54.0"}

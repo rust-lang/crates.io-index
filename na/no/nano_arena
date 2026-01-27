@@ -1,0 +1,8 @@
+{"name":"nano_arena","vers":"0.1.0","deps":[],"cksum":"c3a013e7f321c0400e1d16a27544811dbcc27deba83bf4d37357e8eac61220d5","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.1.1","deps":[],"cksum":"632b5e6167688783667ba9f75da0075b8d280241f118360d6352ef905e92cdc7","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.2.0","deps":[],"cksum":"c83d7eb21970f299d152532b3392e1c75eb58585d0f3b5d6c2db839a7b0308cb","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.3.0","deps":[],"cksum":"306696b0c4d89e22e60928549c44a4edacac9823d06341f71637f004662657a5","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.4.0","deps":[],"cksum":"c1a8f406d6a6962e4b989dce2e5b386c683514a54aed712260dd252f379fd8b9","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.5.0","deps":[],"cksum":"1c1caeeb36fc93e7c7f73298726667a9bbab54db6d33272e6931f2ec1b1c00bc","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.5.1","deps":[],"cksum":"afd57e6d3c46e3fe633b1fdb05a57f236f747429705fc0ce816093c8f02087d9","features":{},"yanked":false}
+{"name":"nano_arena","vers":"0.5.2","deps":[{"name":"criterion","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"59658c976ad182cbbd50eeaffb12049134bc21dce7ccf8556159e140b3401c9c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ndk-logger","vers":"0.0.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4b816c73ac4649bb6c9bd97ad176f0c91c830f10f37e78238fe1eca3e78f4b4","features":{},"yanked":true,"links":"log"}
+{"name":"ndk-logger","vers":"0.0.2","deps":[{"name":"log","req":"^0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"496170210ad695cb7640ee204d99eb8f5d61de2d2491e02957abbf89ae8836dc","features":{},"yanked":false,"links":"log"}

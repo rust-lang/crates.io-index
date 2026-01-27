@@ -1,0 +1,2 @@
+{"name":"just-string","vers":"2025.12.5","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc5b1854ad2a325d9398ca430cfbbee33f0883ea6b5352946bbf646e4d098c27","features":{},"yanked":false}
+{"name":"just-string","vers":"2025.12.8","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f99a55c78438c3dd6e1de5439d0982acf5e4fd6af2d61ff6f6330e45cdedffd5","features":{},"yanked":false}

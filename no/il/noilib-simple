@@ -1,0 +1,2 @@
+{"name":"noilib-simple","vers":"0.5.0","deps":[{"name":"image","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc20ac734ba8b9b6b0c802afbe190ce2ad30eee4ce76e3135b61ad3c12e178c0","features":{},"yanked":false}
+{"name":"noilib-simple","vers":"0.5.1","deps":[{"name":"image","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8212dbdf99ad2c6a5ec55767472a5774514a06fa7899c4cfee242b4c13afb44","features":{},"yanked":false}

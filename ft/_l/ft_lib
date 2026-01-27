@@ -1,0 +1,4 @@
+{"name":"ft_lib","vers":"1.0.0","deps":[],"cksum":"b4853b47129cfac2a7639caf784d582a623ccedd53bbaa385bff30420508e48c","features":{},"yanked":false}
+{"name":"ft_lib","vers":"1.0.1","deps":[{"name":"termion","req":"^4.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7f8d43ac14cccad8f3b613756dfdb61e1cc165bba8248999f6c341abda31f44","features":{},"yanked":false}
+{"name":"ft_lib","vers":"1.0.2","deps":[{"name":"termion","req":"^4.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84f500253d54f5165217c06cad4c36c964ab75537962e6c8d5fdeb370ef241a2","features":{},"yanked":false}
+{"name":"ft_lib","vers":"1.0.3","deps":[{"name":"termion","req":"^4.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeb9cb6a3bf47badeac822ea8f454d6ac7f8cf07c3b42816ce6b25b501b4eb11","features":{},"yanked":false}

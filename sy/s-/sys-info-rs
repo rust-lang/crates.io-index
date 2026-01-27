@@ -1,0 +1,2 @@
+{"name":"sys-info-rs","vers":"0.1.1","deps":[{"name":"gcc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4c937961a82ad16ab626df520e2de07f197d1e048de63723eeb0ffc509fa1cbc","features":{},"yanked":false,"links":"info"}
+{"name":"sys-info-rs","vers":"0.1.2","deps":[],"cksum":"8a0b8a3785261fcc844762b8f800de37e84af7553169cca68678e410713dc5b2","features":{},"yanked":false}

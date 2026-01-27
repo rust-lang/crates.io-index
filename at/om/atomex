@@ -1,0 +1,2 @@
+{"name":"atomex","vers":"0.1.0","deps":[{"name":"funty","req":"^3.0.0-rc2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"de2c8394a96a229ccd08ecdef3dd5bdee7f4394ad98ee0972c3b040babf7dae7","features":{},"yanked":false}
+{"name":"atomex","vers":"0.1.1","deps":[{"name":"funty","req":"^3.0.0-rc2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7663b16191f5f6bca4da538b819822d9dd1e15671044f59b4e53366b37474bcc","features":{"default":[],"support_u128_i128_atomics":[]},"yanked":false}

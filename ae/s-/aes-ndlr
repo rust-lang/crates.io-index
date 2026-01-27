@@ -1,0 +1,3 @@
+{"name":"aes-ndlr","vers":"0.0.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"933e90b10c25f8cd700c0d3fb06a283414982d12cfb470df09c136933cc0ee92","features":{},"yanked":false}
+{"name":"aes-ndlr","vers":"0.0.2","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c76f7ff9273359c8a2b817cdfac9c327fcee853a2846575cbdd319debca53331","features":{},"yanked":false}
+{"name":"aes-ndlr","vers":"0.0.3","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"18e80d890548ddc568fd75f7acc95dfe225f2d6d46097b379f618b7285f8a6b0","features":{},"yanked":false}

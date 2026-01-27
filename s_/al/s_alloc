@@ -1,0 +1,1 @@
+{"name":"s_alloc","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"35301ee6545a6eeda289ec942a3881194dd0ff16ac340f76594e9a722eadd303","features":{},"yanked":false}

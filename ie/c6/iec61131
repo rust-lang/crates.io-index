@@ -1,0 +1,3 @@
+{"name":"iec61131","vers":"0.6.0","deps":[],"cksum":"5aa4e12dc72632c31e0573f5863e7eb4bf3723410d835e7a475a465e6ac4b487","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"iec61131","vers":"0.6.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a3f06b11298a58f303a527e188f8aab203f86f84f75a7e2dfd1fe25e2e52f45","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"iec61131","vers":"0.7.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21136215fca5ae05795a818ae713b92e43cc449e043ceac9ec268963c790306b","features":{},"yanked":false,"rust_version":"1.70"}

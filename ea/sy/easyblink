@@ -1,0 +1,1 @@
+{"name":"easyblink","vers":"0.1.0","deps":[{"name":"blinkt","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"262a3970d013cd4b2fd07eac3c629e73f59171d18f1afc194f0383bfd890259a","features":{},"yanked":false}

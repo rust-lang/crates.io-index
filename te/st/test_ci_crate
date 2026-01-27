@@ -1,0 +1,2 @@
+{"name":"test_ci_crate","vers":"0.1.0","deps":[],"cksum":"c8f5d8830b994f6b9a622d59b9d0744f211098622ba9b50a3b9ab9a8276a2fff","features":{},"yanked":false}
+{"name":"test_ci_crate","vers":"0.1.1","deps":[{"name":"deltalake","req":"=0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"flatbuffers","req":"=0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92aec55f3c7e5f75e83f3a65fa698abd5c22efd70b74c4efc29f4bddc68859a7","features":{},"yanked":false}

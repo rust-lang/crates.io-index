@@ -1,0 +1,1 @@
+{"name":"staph","vers":"0.0.2","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"26b4d58dc4637001befae80e74533589cd70f24ecf6c66aeecc2a3c26473585b","features":{},"yanked":false}

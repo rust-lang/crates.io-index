@@ -1,0 +1,4 @@
+{"name":"ndless-static-vars","vers":"1.0.0","deps":[],"cksum":"23d6a62f3ca036c792590fc6eb94d49e80c97cafce8e8d9bd73cfa11d35c1d0f","features":{},"yanked":false}
+{"name":"ndless-static-vars","vers":"2.0.0","deps":[{"name":"cty","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba48828fbba4d735503a80fd2b6fa4e5b7bff08ee858f5abf4e84a6a397f3ac","features":{},"yanked":false}
+{"name":"ndless-static-vars","vers":"2.0.1","deps":[{"name":"cty","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35d350f7ad52ef1c6600dbbb3e2fe39df3c2c44853a67e6534a92326101f74a4","features":{},"yanked":false}
+{"name":"ndless-static-vars","vers":"2.1.0","deps":[{"name":"cty","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a79eb8c316aaa16a603b30b1029954cfefb7fdee709d9e0f3ec1473cdf52d5f","features":{},"yanked":false}

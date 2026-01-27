@@ -1,0 +1,3 @@
+{"name":"int64grep","vers":"0.1.0","deps":[],"cksum":"d5fa67349688cabda2f9e7f9f4f548b35222aea4e3e3a9da599439deb893c78a","features":{},"yanked":false}
+{"name":"int64grep","vers":"0.1.1","deps":[],"cksum":"f6aed74f2af2f5ef379076518e475e2e5302e6de156bff65b6324f7d6abb15ac","features":{},"yanked":false}
+{"name":"int64grep","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.51","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"926b8f33fdde8cd6ae4fd9af9a5a03e2b0e6e4ed5c77fdc2fd24ad9e1f75d0d8","features":{},"yanked":false}

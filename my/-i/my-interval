@@ -1,0 +1,2 @@
+{"name":"my-interval","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5e43513236b5f5621447067e65aeb9f5b1036225bd7b51159b4c9eb889413325","features":{},"yanked":false}
+{"name":"my-interval","vers":"0.1.1","deps":[{"name":"rstest","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db4f94c0646e6d87b07058a10e379248ef3ea83c34594cadfb765ac95b9fb9ae","features":{},"yanked":false}

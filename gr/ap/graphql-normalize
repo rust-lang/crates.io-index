@@ -1,0 +1,2 @@
+{"name":"graphql-normalize","vers":"0.1.2","deps":[{"name":"graphql-parser","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79994b4a39ff0203f867b16c37f1721aa94fe3f772e92fc55dac3cc664b7629c","features":{},"yanked":false}
+{"name":"graphql-normalize","vers":"0.1.3","deps":[{"name":"graphql-parser","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c353a4169831a8d5251740740895630a1c73e0e6c957b103990a9d211938796b","features":{},"yanked":false}

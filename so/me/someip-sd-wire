@@ -1,0 +1,2 @@
+{"name":"someip-sd-wire","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f4f22512b29bf62e5fa3b88c32e73da194c04f6328a180f75bbd2d4fd7037ab9","features":{},"yanked":false}
+{"name":"someip-sd-wire","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7feda7dbf9b3ac8df7324aad1f10ffb1ed35136ad55ced5c7969178616e4cf5d","features":{},"yanked":false}

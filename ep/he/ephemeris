@@ -1,0 +1,2 @@
+{"name":"ephemeris","vers":"0.1.0-alpha.0","deps":[{"name":"proptest","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64ba2c5aa63688849c5f2d459ae2fdf706992252d90f963d6dbc5238695bd328","features":{},"yanked":false}
+{"name":"ephemeris","vers":"0.1.0-alpha.2","deps":[{"name":"proptest","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d28fc98221d765f5b8276e8a761a0a4b1fdad473a931c15d55a622610734de33","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fetch_configuration","vers":"0.1.0","deps":[{"name":"json","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d9fe44f0c4cef1c9e3fd06083ff377c19231e8a6f3d301e946bc099078e82f3","features":{},"yanked":false}
+{"name":"fetch_configuration","vers":"0.2.0","deps":[{"name":"json","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e115cc2e20940d6b16a5c15a722f72943d1640a6f1e4916795e3ec706749bb4d","features":{},"yanked":false}

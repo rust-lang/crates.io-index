@@ -1,0 +1,2 @@
+{"name":"dual-shock4-controller","vers":"0.1.0","deps":[{"name":"hidapi","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d029feb2550d2d0624b5a247e8f092ae7883f7fcbca9716cb01cf6c4dbcadd93","features":{},"yanked":false}
+{"name":"dual-shock4-controller","vers":"0.1.1","deps":[{"name":"hidapi","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1af7343f469a5751683f323af2b17e08cd6e47ae8db7e0419b87284dd7566939","features":{},"yanked":false}

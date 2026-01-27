@@ -1,0 +1,2 @@
+{"name":"display-99bugs-driver","vers":"0.1.0","deps":[{"name":"spidev","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c200526caf2aa40f78a67ac2c7919afc317cb671fb6dee92539db87e8127ab4","features":{},"yanked":false}
+{"name":"display-99bugs-driver","vers":"0.1.0-a","deps":[{"name":"spidev","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae04ebbc366e68eefa6b2886a7b1d2470c40b611e2dd7fa6353c41288edd50c","features":{},"yanked":false}

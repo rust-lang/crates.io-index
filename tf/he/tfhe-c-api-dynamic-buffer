@@ -1,0 +1,1 @@
+{"name":"tfhe-c-api-dynamic-buffer","vers":"0.1.0","deps":[{"name":"cbindgen","req":"^0.26.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"88a611aaa90a193f90a20b161436ed26de482aaf27055f667d25b3444aff00fb","features":{"c_api_print_error_source":[]},"features2":{"c_api":["dep:cbindgen"]},"yanked":false,"v":2}

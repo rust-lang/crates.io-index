@@ -1,0 +1,2 @@
+{"name":"minefield-rs","vers":"0.1.4","deps":[{"name":"rand","req":"^0.8.5","features":["getrandom"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32b28f3c3231084b29c2bf7d182ef81be3bb733fd814940b32471f51d5562040","features":{},"yanked":true}
+{"name":"minefield-rs","vers":"0.1.5","deps":[{"name":"rand","req":"^0.8.5","features":["getrandom"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9481b18dbcf8c1eb6393af2281add9ef27a3e3f4c3cbfcdbf319595fd2b68040","features":{},"yanked":false}

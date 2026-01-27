@@ -1,0 +1,1 @@
+{"name":"rusty_crab_web","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"66cdc230138465553cc564a328052f78eda447cc9081c663502c20b1f2c3d016","features":{},"yanked":false}

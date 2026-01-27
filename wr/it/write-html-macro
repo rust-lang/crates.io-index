@@ -1,0 +1,2 @@
+{"name":"write-html-macro","vers":"0.1.0","deps":[],"cksum":"8dab5389900d48709ca8dd0c0b7676398ab0afed30ac9983520c1ce48ae29962","features":{},"yanked":false}
+{"name":"write-html-macro","vers":"0.1.2","deps":[{"name":"proc-macro2","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cabfd9e3657962c2e2652a66be3a65504cb8ec5fcf4ba278b3961f6a7e2b1d2","features":{},"yanked":false}

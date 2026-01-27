@@ -1,0 +1,4 @@
+{"name":"gl_common","vers":"0.0.2","deps":[],"cksum":"1587160b2494334be96e72fab16b8d12bf187adec5a8dfa1c6d5fed5d95aa617","features":{},"yanked":false}
+{"name":"gl_common","vers":"0.0.3","deps":[],"cksum":"109c33be1e330fab9391c607f165bb1e9df996ce352de4ae46ae18e0dc176026","features":{},"yanked":false}
+{"name":"gl_common","vers":"0.0.4","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba460213e550ba83578eaf7befe798a2f634071dfd491839148594659de43c1","features":{},"yanked":false}
+{"name":"gl_common","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c83fd30537051fe4abbcfb80f982d4bdd63038c66bd4346e4ac674892e06b1ca","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"elifim","vers":"0.1.0","deps":[],"cksum":"5a5315df7f429a41e1e3ae9cbd09b9b5208aa70447ca1e1db81bb1ea63bb0b10","features":{},"yanked":false}
+{"name":"elifim","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fixedbitset","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f66ac0423d7a856f495f4483606ad8304680679fa8c06a91c88067e9078e33c2","features":{},"yanked":false}

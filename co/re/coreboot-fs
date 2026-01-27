@@ -1,0 +1,2 @@
+{"name":"coreboot-fs","vers":"0.1.0","deps":[{"name":"plain","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cec4e0a87f04876c1fac4ca4a1645d7ffb308575ee0580ca27edc886227cf1b","features":{},"yanked":false}
+{"name":"coreboot-fs","vers":"0.1.1","deps":[{"name":"plain","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1899aac9733abfa85f7498abe93b5a2ca6446bb53c7945112ae7f04609dbc55","features":{},"yanked":false}

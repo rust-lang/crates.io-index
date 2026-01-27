@@ -1,0 +1,1 @@
+{"name":"neige-infra","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.82","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf2518d734ab5aa3b364e2f72cc3543c4c9de1bdbca904d463d1de0d5dbb539","features":{"wasm":[]},"yanked":false}

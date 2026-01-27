@@ -1,0 +1,2 @@
+{"name":"rmathlib","vers":"1.0.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a2f40d5e785f4058745911be953881655ed35c3c998aa37e2eef93071527807","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"rmathlib","vers":"1.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"058de6fa4ef7e0441a80f7929467f53ae1838e3f507eb758b99335d981622cdc","features":{},"yanked":false,"rust_version":"1.56.1"}

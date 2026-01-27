@@ -1,0 +1,2 @@
+{"name":"stable-skiplist","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a9e3223858f61f88ac6e8b98db2cf4ad77a8d45bb6147649ae8e9537bfd3bee","features":{"unstable":[]},"yanked":false}
+{"name":"stable-skiplist","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25274a1b396aa631ea371d40a966da662122464fd54cf030e826759d2ef2d457","features":{"unstable":[]},"yanked":false}

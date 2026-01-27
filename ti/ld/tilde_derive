@@ -1,0 +1,4 @@
+{"name":"tilde_derive","vers":"0.0.1","deps":[],"cksum":"ad892aded59baf68bd7b8de009e9f349bc2280f57ada09db637d94ceb3a79652","features":{},"yanked":false}
+{"name":"tilde_derive","vers":"0.0.2","deps":[{"name":"tilde","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"81a97c7a75f17cca142edd678dda233a24e06531207caacf267b13a9441b0c4f","features":{},"yanked":false}
+{"name":"tilde_derive","vers":"0.0.3","deps":[{"name":"tilde","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d2dbe5d1bffa9a575e22bebbef8cd46988e9ad5f90a2ee8ae4bdc9402df97abc","features":{},"yanked":false}
+{"name":"tilde_derive","vers":"0.0.4","deps":[{"name":"tilde","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53a57197d1fe19ee6bd313c79dd6676dada8599ceb42a9ec6779d085f570af3f","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"periodic-closure","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b3dc039d1a29d2350132e24f3af38ec01f31fa5e8578800a2a952e68c25734c","features":{},"yanked":false}

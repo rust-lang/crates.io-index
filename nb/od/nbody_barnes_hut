@@ -1,0 +1,1 @@
+{"name":"nbody_barnes_hut","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f5bebf11bac67cd5e7d2052c44ae9d4bb3a1268b6becf2b4a036bccbfd1d80e8","features":{},"yanked":false}

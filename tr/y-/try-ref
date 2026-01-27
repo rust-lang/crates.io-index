@@ -1,0 +1,1 @@
+{"name":"try-ref","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"883488c72a3841265b42dc491a848f98e772443f54c1c8f658a8e3c82bece0a5","features":{},"yanked":false}

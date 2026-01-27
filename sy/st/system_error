@@ -1,0 +1,3 @@
+{"name":"system_error","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c4fa8591a51a0b8fa32b843915dc0ad616050c6a678982ebcce43e3fbb4bcf3","features":{},"yanked":true}
+{"name":"system_error","vers":"0.1.1","deps":[{"name":"cfg-if","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3de669e17bff533e09de7f0bf4cd3a3fb2f448b1dda609cf374cdfd039ff8bde","features":{},"yanked":false}
+{"name":"system_error","vers":"0.2.0","deps":[],"cksum":"b52ada790ecca61aa8e561eba96355deb41b9b1b796dd3c965e74a590e9734a3","features":{},"yanked":false}

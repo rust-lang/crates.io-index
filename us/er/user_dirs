@@ -1,0 +1,2 @@
+{"name":"user_dirs","vers":"0.1.0","deps":[{"name":"home","req":"^0.5.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85d676283daf3e592d2f2ac15f9169899e197fa497f593f9b96e4571f28f2c05","features":{},"yanked":false}
+{"name":"user_dirs","vers":"0.2.0","deps":[{"name":"home","req":"^0.5.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25e0d5bff51f431ac0e51881aa83a00d96561878caca262c04157857a4b02083","features":{},"yanked":false}

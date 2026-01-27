@@ -1,0 +1,1 @@
+{"name":"avx-nucleus","vers":"0.1.0","deps":[],"cksum":"a61b602e5383181cb2c7241b2ce97f547acc33ab55ca1c8d32e4e7d69638626e","features":{"default":["simd"],"simd":[],"std":[]},"yanked":false,"rust_version":"1.70"}

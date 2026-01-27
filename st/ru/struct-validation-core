@@ -1,0 +1,3 @@
+{"name":"struct-validation-core","vers":"0.1.0","deps":[],"cksum":"d99f0325878d7266e276f799ad38104a75640f5c29aee205013bc0bd3e8b4c2f","features":{},"yanked":false}
+{"name":"struct-validation-core","vers":"0.1.1","deps":[],"cksum":"9d4052cc842b8c8f48d6d33d96463dbfedf3d68b6ae2caf3a922ef65af8fe13c","features":{},"yanked":false}
+{"name":"struct-validation-core","vers":"0.1.2","deps":[{"name":"miette","req":"^7.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d23640e8946f027f5b6b56161c6b564adac35c173e6a14802523a1f8c27dd3ff","features":{},"yanked":false}

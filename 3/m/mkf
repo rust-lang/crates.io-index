@@ -1,0 +1,1 @@
+{"name":"mkf","vers":"0.2.3","deps":[{"name":"clap","req":"^4","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c998bdac709b0491e135186aa663bd74e5fb424e8d9c8b5d7600de1c0b830c6b","features":{},"yanked":false}

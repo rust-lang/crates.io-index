@@ -1,0 +1,1 @@
+{"name":"miracl_core_bn254","vers":"0.1.0","deps":[{"name":"miracl_core_bls12381","req":"^4.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c8cd1804dd29b61b941afc55d27a59e1662d46ba979c1ac74e2ff91bc8add78","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"momo","vers":"0.2.1","deps":[{"name":"watt","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8743b30ea8c618da7dc413fc9c1fdb7c976f29ff24c6b737cbc3be4acda6a67e","features":{},"yanked":false}
+{"name":"momo","vers":"0.2.2","deps":[{"name":"watt","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67f9e707519a058a29a09bda9ce6ed266803c0a6ad9381a9eaae3fb5d83b696b","features":{},"yanked":false}

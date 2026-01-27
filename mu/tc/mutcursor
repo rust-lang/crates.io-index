@@ -1,0 +1,15 @@
+{"name":"mutcursor","vers":"0.1.0","deps":[],"cksum":"2c433b9dbbcef24064fac241b075c0e4dd2f02309530cc0dc4a390125d0f2ed9","features":{},"yanked":false}
+{"name":"mutcursor","vers":"0.1.1","deps":[],"cksum":"7e1435f237264c526808b46af435c06b29524ba7dc15a0941d8bc1b41465b22e","features":{},"yanked":false}
+{"name":"mutcursor","vers":"0.1.2","deps":[],"cksum":"4fd8ac6ef07d8e0597941365696fdb6827a530b250f40538f527f779210ee901","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.3","deps":[],"cksum":"731ca334a0f4b0e68b65faa8c6d2fd8ef5e47dd24066d0a419bef65039e8d139","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.4","deps":[],"cksum":"da04a82d1d69022385bec738e9c9ab38be2c23bbe4582f30a1bbf979143c357d","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.5","deps":[],"cksum":"57b0300a4d55bdb366d18b70c3022c341b2eabcc0508e1b6aa21d5f7b3a0fd62","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.6","deps":[],"cksum":"ecd0ce5d44d496916fc7693fbfc27a9b88d71235672b1a675a01205472bb0446","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.7","deps":[],"cksum":"c0b042f3fd2755aa4c757a1782437d969f8fd01e6bc8936e0126322bef99b109","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.8","deps":[],"cksum":"e93a7b023307a63f34f76ed2d0cf8f1d9988971999f980b290d12fda68f561d7","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.9","deps":[],"cksum":"26192faf4984dc2598e08d0f49f7f62a536264922a60922688deaa8241e5e539","features":{"no_std":[]},"yanked":true}
+{"name":"mutcursor","vers":"0.2.0","deps":[],"cksum":"6f033579f7ebadd375e60f2912483eac7df7cb5eb26727b3eef8f31344440eb1","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.2.1","deps":[],"cksum":"306f8ca054753aac29d3e2dd9a9d92cea3b393f4b19d86c11b88342854d03a25","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.2.2","deps":[],"cksum":"ddbbc1eb955b0cd9e70b69b1eb2234565cc606fe12106f362a2961f6adbd25ba","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.3.0","deps":[],"cksum":"42ea0298aa9afb20e3887e74900ef0d2b72e3ac137e8127c4d7770a0a86f85d2","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.4.0","deps":[{"name":"maybe-dangling","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"stable_deref_trait","req":"^1.2.0","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e0b5918c680cfc2a1154cdcb8ad74382c3b58b78ded5f356e444abdae6614509","features":{},"features2":{"alloc":["dep:maybe-dangling","dep:stable_deref_trait"],"default":["std"],"std":["alloc","stable_deref_trait/std"]},"yanked":false,"v":2}

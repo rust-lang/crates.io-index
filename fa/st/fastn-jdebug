@@ -1,0 +1,2 @@
+{"name":"fastn-jdebug","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a2fa57211031f73db88af11738d159ba0f03a36a6566ad98caff1da698e5721","features":{},"yanked":false}
+{"name":"fastn-jdebug","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bd93c3671a8ea9de66c5b860620ae22cd8d6157550b05b032dc00f86579e603","features":{},"yanked":false}

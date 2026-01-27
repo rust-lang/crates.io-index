@@ -1,0 +1,4 @@
+{"name":"computus","vers":"0.1.0","deps":[],"cksum":"52c8027b04b485805688181f6f3a9a3f26cba24d7121ac9377c3468501634d49","features":{},"yanked":false}
+{"name":"computus","vers":"0.1.1","deps":[],"cksum":"2d6f7ea8c4d8059b9bc0715d0c12eb1f4b47933611ffa19bdc77a590d08e60ac","features":{},"yanked":false}
+{"name":"computus","vers":"1.0.0","deps":[],"cksum":"d9eaa21df489b1e50af464db43c1fc69f60492060ac7baae3996fe8a5f476790","features":{},"yanked":false}
+{"name":"computus","vers":"1.1.0","deps":[{"name":"chrono","req":">=0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"rstest","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rstest_reuse","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3031543635f9370bbf041833cc5dbb5d1b79b14487113f0b50ab3f3a535e804d","features":{},"yanked":false}

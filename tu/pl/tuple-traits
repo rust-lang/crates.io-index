@@ -1,0 +1,2 @@
+{"name":"tuple-traits","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"878e50e6426f7337f5cf83aa467ce5ab47bdbee2d40def24ee32af5246cfd7e1","features":{},"yanked":false}
+{"name":"tuple-traits","vers":"0.1.1","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6cc8393644ec65ab1df4e434ce1d16d18f4d624fa66e346541a946936059bda4","features":{},"yanked":false}

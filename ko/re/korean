@@ -1,0 +1,4 @@
+{"name":"korean","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"efd267c57dd7eab36d549ab0847b6585a57cf3b0cf24c69b0f5887a58e6b2e01","features":{},"yanked":false}
+{"name":"korean","vers":"0.2.0","deps":[{"name":"proptest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0292bbc5320cad0fbbcc66fca083842b481a11550bc3dc1fb6a01da3c37bb6f2","features":{},"yanked":false}
+{"name":"korean","vers":"0.3.0","deps":[],"cksum":"592da0d826a0678264e41dad9c8230ab666079160a7b98fcb5188596216f7b59","features":{},"yanked":false}
+{"name":"korean","vers":"0.3.1","deps":[],"cksum":"82d10ac751a2e7439dd30e2f5231e8bfc775b9aa6a81826ef737ad76af103da2","features":{},"yanked":false}

@@ -1,0 +1,10 @@
+{"name":"rust-arc-gc","vers":"0.1.0","deps":[],"cksum":"51a9b3c2c1ad0f1a5a5937965e72c2b8312b1b28178c5b78a7a5536541bda1a4","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.1","deps":[],"cksum":"29ef5343546b2e6ef0cca6977b1dfca226fcdd01caa68d6e0751ea4c228a8d5f","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.2","deps":[],"cksum":"0553de1578b0f7225aa4c9911714a0c26302f32828d53999374175fdaeb3f5f9","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.3","deps":[],"cksum":"c75d6787c6bcba9d279f693a789ded72a0dcced2e642b93001b0873a52db0b89","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.4","deps":[],"cksum":"1d156f99b3cffae83c40cb660c537afd53b4a05a97fcd50804df17f87977a8d0","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.5","deps":[],"cksum":"4234ddabc86c84a2d0069ec8a0b816212eb8b5f0d8952cea947f5b83daaeb87a","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.6","deps":[],"cksum":"6fdd2ae36b72704ebe4a0f780ce5cd45404f3608d90aae1d1827885bf6a6a914","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.1.7","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63894222e2a9e6a80c48d77e92470f2f431604bfbde0b5a687f8d5029ee62d50","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.2.0","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4f09424d5919bfdbcfcff9ace93d55cf18119dfee81730571e378b194523df4","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.2.1","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"244510e1d478f661e535c6ab7ff8ffcb3d31d39af7873cf268b3bdf98479e44c","features":{},"yanked":false}

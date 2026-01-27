@@ -1,0 +1,1 @@
+{"name":"winpty-rs-windows-result","vers":"0.3.4","deps":[{"name":"winpty-rs-windows-link","req":"^0.1.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce30884bc53ed9118e72188e5be42a9c52021c993ce184034cab4a093d094c85","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74"}

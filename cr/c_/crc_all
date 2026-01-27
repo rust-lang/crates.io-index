@@ -1,0 +1,4 @@
+{"name":"crc_all","vers":"0.1.0","deps":[],"cksum":"4503fbc9abff253ed46c67efa39576ffb008be83d6587c7ae35a31982c2e9f86","features":{},"yanked":false}
+{"name":"crc_all","vers":"0.2.0","deps":[],"cksum":"a8870eaf25cadb929c663b7f85e76bf9e82ceca6ac51c72c2bd8f029271187d4","features":{},"yanked":false}
+{"name":"crc_all","vers":"0.2.1","deps":[{"name":"crc_all_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e43b5734f1e3d8f6a3546bdca11f662b9b34d5f01b722a0c41c892781fed6b64","features":{},"yanked":true}
+{"name":"crc_all","vers":"0.2.2","deps":[],"cksum":"c46c1a17ebeef917714db3ae9a17bd2184f7e9977d8e020c6c8bcf59a28a6f1b","features":{},"yanked":false}

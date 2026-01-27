@@ -1,0 +1,2 @@
+{"name":"connection_string_generator","vers":"0.1.0","deps":[],"cksum":"b986fb44637f5304fe0848ff280f82d9a5e609598e0f190942d759c622e91286","features":{"default":["full"],"full":["postgres"],"postgres":[]},"yanked":false}
+{"name":"connection_string_generator","vers":"0.2.0","deps":[],"cksum":"78c98680a63cae7249dffce73e062adc5a52d07ab4ae1d46b6d27f3bf343fcac","features":{"default":["full"],"full":["postgres","sqlserver"],"postgres":[],"sqlserver":[]},"yanked":false}

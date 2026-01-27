@@ -1,0 +1,2 @@
+{"name":"evolution-target","vers":"1.2.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"336585d844e105f0cdbc5c8b4eca1e4bbfc9ba4431e117c03512bfa505939a6c","features":{},"yanked":false}
+{"name":"evolution-target","vers":"1.3.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d353ad32e7a9a6501043f5058a344249d956c4224fe46d7aa689c7a69924da53","features":{},"yanked":false}

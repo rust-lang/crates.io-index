@@ -1,0 +1,2 @@
+{"name":"time-point","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.101","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"724dc70c30625520d2f442f8afe1205a43b946cd87ead1c3bba52ed3b856a9fd","features":{},"yanked":false}
+{"name":"time-point","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.101","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06535c958d6abe68dc4b4ef9e6845f758fc42fe463d0093d0aca40254f03fb14","features":{},"yanked":false}

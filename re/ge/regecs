@@ -1,0 +1,4 @@
+{"name":"regecs","vers":"0.1.0","deps":[],"cksum":"7a2dafab4274ce6eb918c017965dca445fc0ffbdfccb01379b883b8d41779b77","features":{},"yanked":false}
+{"name":"regecs","vers":"1.0.0","deps":[],"cksum":"e09080d77e509696789d410c8e6d206204fb6d19e6bd5acc73bbeeefd863af7e","features":{},"yanked":false}
+{"name":"regecs","vers":"2.0.0-alpha-1","deps":[{"name":"bpx","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e0c2b28a380004182fdf35d120c476787476ce62a21e8bbcc0499be01bdef4f","features":{},"yanked":false}
+{"name":"regecs","vers":"2.0.0-rc.2.0.0","deps":[{"name":"bpx","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3e74e3ef23b21044c2161b306c78150605267d5de877af08d8555000765a6e1","features":{},"yanked":false}

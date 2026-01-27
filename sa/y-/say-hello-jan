@@ -1,0 +1,5 @@
+{"name":"say-hello-jan","vers":"0.1.0","deps":[],"cksum":"5acac6f1638ebe6929f0dccd3f0122c0ea02daeda0541b71fcaee66b7f2a2d96","features":{},"yanked":false}
+{"name":"say-hello-jan","vers":"0.2.0","deps":[],"cksum":"3398028f38b078a1bd71b4b38648f4acd9a7af4d48bfab7447057b75234270e0","features":{},"yanked":false}
+{"name":"say-hello-jan","vers":"0.3.0","deps":[],"cksum":"96aef677c416966c04c29b3406d057df8f3f78b4bb123a8d3913e17e108093c8","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-jan","vers":"0.4.0","deps":[],"cksum":"4bd7e7e3231856ab1cbf349e8da39c6f44deed08c2f4910faded708ddbfe6fa8","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-jan","vers":"0.5.0","deps":[],"cksum":"0d0ea4a2fd670e0078d7c34b933e73f7b0060a6261bc1905004fa699ee6a3611","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

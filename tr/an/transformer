@@ -1,0 +1,2 @@
+{"name":"transformer","vers":"0.1.0","deps":[],"cksum":"6b31e54dc875142710575243715052407bf4e209380bdcf2f63e69359587e9ac","features":{},"yanked":false}
+{"name":"transformer","vers":"0.1.1","deps":[{"name":"transformer-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92a073561aaa65abe7b1d68368d4a3934eaa253f52c9ca2bf99773c7c26a4758","features":{"default":[],"derive-diagnostic-error":["transformer-derive/diagnostic"]},"yanked":false}

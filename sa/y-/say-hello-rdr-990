@@ -1,0 +1,3 @@
+{"name":"say-hello-rdr-990","vers":"0.1.0","deps":[],"cksum":"bee42a0b8f960c59830068ec3939920d7a9891b4f4463dcf7cdf557d67a0b603","features":{},"yanked":false}
+{"name":"say-hello-rdr-990","vers":"0.2.0","deps":[],"cksum":"86dc2d31f55557238a0bb27c9594cef59e72a2b0f777207e3ce0d23dc5c673ad","features":{},"yanked":false}
+{"name":"say-hello-rdr-990","vers":"0.3.0","deps":[],"cksum":"be090d0e47047ab85eebf99efb810567c862fb269fe73d74aefc2f4111c6d9ad","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

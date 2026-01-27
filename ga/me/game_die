@@ -1,0 +1,2 @@
+{"name":"game_die","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b02b1fce07dd670ed6f9ea9bdbc0ff907d21cc4c55ed754baf002085860d1656","features":{"history":[]},"yanked":false}
+{"name":"game_die","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53dd05fbe7caf3070a47a8976ff6b9185b04362bfc6d98f45b99a80a31347305","features":{"history":[]},"yanked":false}

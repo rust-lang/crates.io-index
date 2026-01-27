@@ -1,0 +1,2 @@
+{"name":"pmemblk-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2121fe3f95d461d8571044d87b352d8e1c181727175e7d5f3465a6971528abb1","features":{},"yanked":false,"links":"pmemblk"}
+{"name":"pmemblk-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b54e833e304c0c5dc8cc1bf3c1a837f63670fed83b069d9fca64a7c0ff1fed9","features":{},"yanked":false,"links":"pmemblk"}

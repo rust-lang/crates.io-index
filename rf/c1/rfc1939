@@ -1,0 +1,2 @@
+{"name":"rfc1939","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cbcfdc6daef933c84882bdca3321658b1b827ab25152137a54a33722caf07f0","features":{},"yanked":false}
+{"name":"rfc1939","vers":"1.0.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0899f4bca368de1b1b51055c76122109ea7da64c2ded7f2d582517456f1c4b9","features":{},"yanked":false}

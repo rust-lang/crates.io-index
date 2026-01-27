@@ -1,0 +1,12 @@
+{"name":"unsafe-any","vers":"0.1.0","deps":[],"cksum":"0f3f879ef380da3197e6b88ccd1c31ac23fbd83035e46341a153a72319f30ec1","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.1.1","deps":[],"cksum":"476c59979b2a8f3cc8f7d049fbf98d4704692c9f68ebd2f63f79deed4a6aa302","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.0","deps":[],"cksum":"b6e8c4cf2f8b36274a5d013c611228a2f88624e033a6cfcab413b1e00e1b2e09","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.1","deps":[],"cksum":"f9f13049ed5d9b574bfc86db05f466f877933d0b490da316dd47ced827d76e3c","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.2","deps":[],"cksum":"8c52b5bbed50bfe2ea2b457571dcd67cc6d55bf483660f7325c54f8e83be275d","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.3","deps":[],"cksum":"45132168c7fc4420d0d1790613a82cfc446253a0fed2bf13a08ac4ae3eccdad9","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.4","deps":[{"name":"traitobject","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a08b0b9dd013a43a1b767eba0d6db5eee49a54d93ef27d42a77166c6826863c","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.5","deps":[{"name":"traitobject","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2136f9f3c7d1c3cb4896b7198041fb5f099a2c1718585d3ee60e696eb134ff14","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.3.0","deps":[{"name":"traitobject","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d71497f91f0b783693b07a415c8857857936214bce9d9bf896db0b2f17a6b935","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.4.0","deps":[{"name":"traitobject","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f51854a9b1df0959737d50a7729536a7ac648a1d8f73f72275322b70db6b3c88","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.4.1","deps":[{"name":"traitobject","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b351086021ebc264aea3ab4f94d61d889d98e5e9ec2d985d993f50133537fd3a","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.4.2","deps":[{"name":"traitobject","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f30360d7979f5e9c6e6cea48af192ea8fab4afb3cf72597154b8f08935bc9c7f","features":{},"yanked":false}

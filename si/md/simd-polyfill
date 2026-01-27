@@ -1,0 +1,1 @@
+{"name":"simd-polyfill","vers":"0.1.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"646f0ad742487bafa180a0ead7b5d6934a6ffd9a29e45f6de245cb49aeb0a9a9","features":{},"yanked":false}

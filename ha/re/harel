@@ -1,0 +1,2 @@
+{"name":"harel","vers":"0.0.0-reserved","deps":[],"cksum":"c55afe18862889026f3bbe81547a86cc2f9c691a4e236045da3b94bd36d2a03d","features":{},"yanked":false}
+{"name":"harel","vers":"0.1.0","deps":[{"name":"roxmltree","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba484760ebeb2c8cd0cfab9d573472668efafade2c61177efad35e147a0803d","features":{},"yanked":false}

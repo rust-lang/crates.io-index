@@ -1,0 +1,9 @@
+{"name":"simdutf8","vers":"0.0.1","deps":[],"cksum":"a179a5a0bc60bd466dd0287ee2641b14bbfee262a2935e167a0c5e0ad6d9bd80","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.0.2","deps":[],"cksum":"684091ed4d13489af591b9803782844c0b6c307eec4db221da9b4c1c92e8a36e","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.0.3","deps":[],"cksum":"1578f6cbd19f75c78373330201d5fe6f02b36eaeb10ea2955699ad50afaa8a9f","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.0","deps":[],"cksum":"a4914bc747952c6224c1239d648ff99fdfc71cb9b4bfa6e2a273e0990c366ec7","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.1","deps":[],"cksum":"7f4f3d445e9015cf5e72cec4a3b3a84f8d54f34207afee609fd152de1c0212b1","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.2","deps":[],"cksum":"3002a9785179d935c5680a1ee84a45666006407659f53cba077d6c7b48aef1fd","features":{"aarch64_neon":[],"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.3","deps":[],"cksum":"c970da16e7c682fa90a261cf0724dee241c9f7831635ecc4e988ae8f3b505559","features":{"aarch64_neon":[],"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.4","deps":[],"cksum":"f27f6278552951f1f2b8cf9da965d10969b2efdea95a6ec47987ab46edfe263a","features":{"aarch64_neon":[],"aarch64_neon_prefetch":[],"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}
+{"name":"simdutf8","vers":"0.1.5","deps":[],"cksum":"e3a9fe34e3e7a50316060351f37187a3f546bce95496156754b601a5fa71b76e","features":{"aarch64_neon":[],"aarch64_neon_prefetch":[],"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false}

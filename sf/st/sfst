@@ -1,0 +1,1 @@
+{"name":"sfst","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0832f694a2713ccbc6d419de1ff63c09002d3dea919bd77ad3c9c5ef00530198","features":{},"yanked":false}

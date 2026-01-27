@@ -1,0 +1,2 @@
+{"name":"openreal","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rusb","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d45c665ad2aa7e85e275cfc8a29f01c24eb322a4482c5fd49572634a8f0419fe","features":{},"yanked":true}
+{"name":"openreal","vers":"0.1.1","deps":[],"cksum":"8c70053f19e63dd7d3ef1213cbcd576de243100c08aff227c58eba8a881d068a","features":{},"yanked":false}

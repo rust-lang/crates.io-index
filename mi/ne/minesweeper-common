@@ -1,0 +1,1 @@
+{"name":"minesweeper-common","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f7f04b0ea14e8daae7ddfd7f954f752225161620332a5ae3de596ddee73032f","features":{},"yanked":false}

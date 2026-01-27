@@ -1,0 +1,6 @@
+{"name":"file_sql","vers":"0.0.1","deps":[],"cksum":"f56c5b0a7fe0395e361a72c3840f9c187a349406592baca101792e5eef135cdc","features":{},"yanked":false}
+{"name":"file_sql","vers":"0.1.0","deps":[],"cksum":"2b3029ab8fc8620dc2b27bc7c0148b2ff746f61ae940a8ea6265c0952a0c1c3a","features":{},"yanked":false}
+{"name":"file_sql","vers":"0.1.1","deps":[],"cksum":"03e7b42eb912d410887c9e61b745e0a3fe0916aba29424fdaf5f6d28fd0664f9","features":{},"yanked":false}
+{"name":"file_sql","vers":"0.1.2","deps":[{"name":"serde_json","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea46869b1491a1658fb19d66f2b1c60f256dc8f7f0a1bfa5e0d368f879656c5f","features":{},"yanked":false}
+{"name":"file_sql","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c84fd8deeda687193191e20751059dbe729ac5abb99c23a405b8431625bc8251","features":{},"yanked":false}
+{"name":"file_sql","vers":"0.2.1","deps":[{"name":"serde_json","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfdc6821907c854f4a0928600eabe47363494762ad69fc57f615c21bf24e52e1","features":{},"yanked":false}

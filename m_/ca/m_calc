@@ -1,0 +1,5 @@
+{"name":"m_calc","vers":"0.1.0","deps":[],"cksum":"65b651f9682e116238d44fb32dde32e017a73d680a130a622a98214abe06d644","features":{},"yanked":false}
+{"name":"m_calc","vers":"0.1.1","deps":[],"cksum":"defb166544fbf7667ea96b6d4a4ebec26e1368a1915327c296dec4cb93757806","features":{},"yanked":false}
+{"name":"m_calc","vers":"0.1.2","deps":[],"cksum":"4e24466c6d25b38fec7d08ea8c94a637bf69e859bb94545547c32450b59af10d","features":{},"yanked":false}
+{"name":"m_calc","vers":"0.1.3","deps":[],"cksum":"493af129048ac9fd90393fdbca25a93a652f7cb84174070d016378060dfd7931","features":{},"yanked":false}
+{"name":"m_calc","vers":"0.1.4","deps":[{"name":"env_logger","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08170a82d45a4b083042c562df6f2dd528110b906ab954ab9a23e1eea6643246","features":{},"yanked":false}

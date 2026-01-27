@@ -1,0 +1,1 @@
+{"name":"wexit","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["processthreadsapi","wincon","winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"a5a520e9b3b92c5b421927254153f9f31a35c27d0195bb95fa9f2ad50b4515c3","features":{},"yanked":false}

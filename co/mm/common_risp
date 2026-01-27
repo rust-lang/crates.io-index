@@ -1,0 +1,3 @@
+{"name":"common_risp","vers":"0.0.0","deps":[],"cksum":"bbbe416b8f2320f469bdef6aae4f48c8498c9b3b6eb778a268ec093c1e6dab8f","features":{},"yanked":false}
+{"name":"common_risp","vers":"0.1.0","deps":[{"name":"risp_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f75da895c02fbbee212d0d11631839f661dd70d3d6ca16b32da9252fe0738673","features":{},"yanked":false}
+{"name":"common_risp","vers":"0.1.1","deps":[{"name":"risp_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90f50da3fbf06fbc23db91da98215f576d7dcf045ac89c5ee213e8353d527438","features":{},"yanked":false}

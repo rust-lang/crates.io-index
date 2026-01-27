@@ -1,0 +1,1 @@
+{"name":"csta_core","vers":"2.0.0","deps":[{"name":"serde","req":"=1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22fca38eea67444f7f8a7992dc4a7ccdccefb48e2c48a0a21630af92735fa331","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

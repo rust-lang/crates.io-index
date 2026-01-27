@@ -1,0 +1,2 @@
+{"name":"rust_interop","vers":"0.0.1","deps":[{"name":"rust_interop_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3c3a8b3c62c434f9796b52f156c8da1efcb7c4d7c216c6f0f76c0fd3927aaf1","features":{},"yanked":true}
+{"name":"rust_interop","vers":"0.0.2","deps":[],"cksum":"04b5e01ed76d150adfe9d223553278e687701de4a7cbf514bce51afb757f5c1f","features":{},"yanked":true}

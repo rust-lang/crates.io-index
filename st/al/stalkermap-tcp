@@ -1,0 +1,2 @@
+{"name":"stalkermap-tcp","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.177","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"618b24f8d9407053f2dd69ffd1ba604e31a7ab62bbcaf66400da75f01a97d345","features":{},"yanked":false}
+{"name":"stalkermap-tcp","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.177","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"802c4c4fda16332f6eb4e56ec33552e726b3a97d93627adbb033d0ce064684c9","features":{},"yanked":false}

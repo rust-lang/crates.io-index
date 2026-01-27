@@ -1,0 +1,2 @@
+{"name":"nybble","vers":"0.1.0","deps":[],"cksum":"3c876dadfb7ddba7bb85b55f08146e644ed76081a484197e83fc169080d716d4","features":{},"yanked":false}
+{"name":"nybble","vers":"0.1.1","deps":[{"name":"clap","req":"^4.3.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d83ffdb3aebc1e0c9ef88111c03a556bc1727ec946795e5763b1a137c0f55c","features":{},"yanked":false}

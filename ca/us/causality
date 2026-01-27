@@ -1,0 +1,2 @@
+{"name":"causality","vers":"0.1.0","deps":[],"cksum":"68ffd8e0878ca6e971035df621d802220fb4f649668c89be4b5836fdc869be05","features":{},"yanked":false}
+{"name":"causality","vers":"0.2.0","deps":[{"name":"simple-error","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e7e3a875ac788683eea922bff131333f43a6d0a61fe7a6b596584c5646c365a","features":{},"yanked":false}

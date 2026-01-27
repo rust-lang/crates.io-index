@@ -1,0 +1,13 @@
+{"name":"trees","vers":"0.1.0","deps":[],"cksum":"d2dc4d7c55531b7c2aa26727b6fc320e85348196c01c176e79c24c1da4833b1c","features":{},"yanked":false}
+{"name":"trees","vers":"0.1.1","deps":[],"cksum":"e8e7416d13bee59bd8b18d4c6525cc4caaa99fe50ae38b5b39e4825fdf0b2a6e","features":{},"yanked":false}
+{"name":"trees","vers":"0.1.2","deps":[],"cksum":"51eb6a71a593019ccc0c967d8f511efcb970040a242e258e1d397454173bc2ef","features":{},"yanked":false}
+{"name":"trees","vers":"0.1.3","deps":[],"cksum":"bd721711c0352045200100ba367fce919750b7759075fd41cbbf1a4217b3f481","features":{},"yanked":false}
+{"name":"trees","vers":"0.1.4","deps":[],"cksum":"28aa948154829647f3d6f698478a085b2d58efb260dd1baa8222b4a3caf95545","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.1.5","deps":[],"cksum":"d8a934e110521a9ab97a262dd50cc2476e570ea7484a12f6020c7d03fddf0990","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.1.6","deps":[],"cksum":"057914b121b118636cc7f2660bd9e6413dfacd26e80139e257dcd2f2e5c85345","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.2.0","deps":[],"cksum":"89af5e0d49c86c2878a4ed0d722862df49354bdc5b245f24a55bf817fce9d5f5","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.2.1","deps":[{"name":"indexed","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afa1821e85be4f56cc5bd08bdbc32c0e26d105c90bed9c637992f6c7f747c180","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.3.0","deps":[{"name":"indexed","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fcd12c7f693050b0724c2b7d678c62ae8370554b33267702d5adf4b4fa116fb","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.4.0","deps":[],"cksum":"bd24907b3652e22c15d7d68ed619ba4caa1436b47b8a71ec550ef069301767ad","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.4.1","deps":[],"cksum":"2ad8f79e576c13e2c6d84b02b2db736b8e656ab40c64e04353a603d6656186a3","features":{"no_std":[]},"yanked":false}
+{"name":"trees","vers":"0.4.2","deps":[],"cksum":"0de5f738ceab88e2491a94ddc33c3feeadfa95fedc60363ef110845df12f3878","features":{"no_std":[]},"yanked":false}

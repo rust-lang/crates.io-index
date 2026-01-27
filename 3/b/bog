@@ -1,0 +1,1 @@
+{"name":"bog","vers":"0.1.0","deps":[],"cksum":"843cd20661ab2daa8bb0e5f765493b4d958cb94386151162949b981bc98dbbe2","features":{"all":["rect","xy","xyz"],"default":["rect"],"geo2d":["rect","xy"],"geo3d":["rect","xy","xyz"],"rect":["xy"],"xy":[],"xyz":[]},"yanked":false}

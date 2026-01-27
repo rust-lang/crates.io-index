@@ -1,0 +1,2 @@
+{"name":"buf-trait","vers":"0.4.0","deps":[],"cksum":"a85f93ce5fedefafc80ff295bea9adbd9c942f6dd9f60bee4e9b8b5172af17d1","features":{},"yanked":false}
+{"name":"buf-trait","vers":"0.4.1","deps":[{"name":"zerocopy","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21eaafc770e8c073d6c3facafe7617e774305d4954aa6351b9c452eb37ee17b4","features":{},"yanked":false}

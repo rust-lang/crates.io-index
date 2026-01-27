@@ -1,0 +1,2 @@
+{"name":"dotfiler","vers":"0.1.0","deps":[{"name":"tera","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3d5c276eadbb8356c1809140f280f83fdcdbd86462c9ceaf863b07561ac2194","features":{},"yanked":false}
+{"name":"dotfiler","vers":"0.1.1","deps":[],"cksum":"6f70d0315f5bd47026bfea8fce90a026cf70586f89fda7626a73d2425e664053","features":{},"yanked":false}

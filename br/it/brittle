@@ -1,0 +1,2 @@
+{"name":"brittle","vers":"0.1.0","deps":[{"name":"regex","req":"^1.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de38e22653d54a7326db4da6642da46cb9c84a1590f7a63e0a96def6c2bce004","features":{},"yanked":false}
+{"name":"brittle","vers":"0.1.1","deps":[{"name":"regex","req":"^1.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a91ea5d3dc543b4e8f81364c41bd04720cd44fdfe2f4edb436bf6f7ae13255e","features":{},"yanked":false}

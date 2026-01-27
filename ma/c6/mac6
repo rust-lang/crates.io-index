@@ -1,0 +1,3 @@
+{"name":"mac6","vers":"1.0.0","deps":[],"cksum":"8eb20744f2fbc0867a66ed46cb2af8c69e5a2187c1b1f066f4a6d6195104e26d","features":{},"yanked":false}
+{"name":"mac6","vers":"1.1.0","deps":[],"cksum":"cdfa21de09e1d339e3604685b2d132df3a18b7b48a56b8c14704558bb4d74574","features":{},"yanked":false}
+{"name":"mac6","vers":"1.2.0","deps":[{"name":"serde_with","req":"^3.11.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7c7cf09c0eed114c19e34fbba0a25d76c52095a189a987418df44cb8c410032","features":{},"features2":{"serde":["dep:serde_with"]},"yanked":false,"v":2}

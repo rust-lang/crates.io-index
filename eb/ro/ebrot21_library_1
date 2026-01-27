@@ -1,0 +1,3 @@
+{"name":"ebrot21_library_1","vers":"0.1.0","deps":[],"cksum":"3112cb5e734c1d948f893297c37930bfcf230cb74c5c980837ebd211c020c677","features":{},"yanked":false}
+{"name":"ebrot21_library_1","vers":"0.2.0","deps":[],"cksum":"235d555d1a19ba1dbe904259aa25ca6089704f50501ae47f96724f8fa4b6dd2b","features":{},"yanked":false}
+{"name":"ebrot21_library_1","vers":"0.3.0","deps":[],"cksum":"d99b62fbd9bf3e9439a14e650c0367f7db09266fa465a0e06687bf27d8a39a7f","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

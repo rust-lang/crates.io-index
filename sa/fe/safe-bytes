@@ -1,0 +1,2 @@
+{"name":"safe-bytes","vers":"0.1.0","deps":[{"name":"safe-bytes-derive","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa14d4eabbb50fdc830ae4d96d9585c626c277f6482f9f2059fdd4bcd8b3e703","features":{},"yanked":false}
+{"name":"safe-bytes","vers":"0.1.1","deps":[{"name":"safe-bytes-derive","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9676553f572a7ba7356b7fc6acd7b71fd2d825b26c61243a012d0fa3cd40ddaa","features":{},"yanked":false}

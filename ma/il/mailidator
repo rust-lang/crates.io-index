@@ -1,0 +1,1 @@
+{"name":"mailidator","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e471263dabe6f9f1cf3f56b0c1d4facf543b4da6be8cc4cb9b60a28f54d04b1f","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"libdivecomputer","vers":"0.1.0","deps":[{"name":"libdivecomputer-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dad12bec17d48566586f412b2d3cca8b10475f2a407d01e097f2a1cd9ed715d","features":{},"yanked":false}
+{"name":"libdivecomputer","vers":"0.1.1","deps":[{"name":"libdivecomputer-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"896c3125b9e1e71b2a36d3fc3121d92090510d46727d10b72503184cdabd81fc","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"spsc-buffer","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4a5f0a28f4c24ae2178351e965f0919d612e70216e3fb29733d41224fa2dea0","features":{},"yanked":false}
+{"name":"spsc-buffer","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"be6c3f39c37a4283ee4b43d1311c828f2e1fb0541e76ea0cb1a2abd9ef2f5b3b","features":{},"yanked":false}

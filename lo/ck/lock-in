@@ -1,0 +1,2 @@
+{"name":"lock-in","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca50058c28b1735ecd331a9f8a8a1ac946007f9090bf25753ba21822c91cc980","features":{},"yanked":false}
+{"name":"lock-in","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e3ba11004ea21c17993a7329649b02e9f4942ba28b36962763a29e9c086da06","features":{},"yanked":false}

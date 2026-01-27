@@ -1,0 +1,1 @@
+{"name":"apigrok","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b19a88fbb2d12a11f0f8608ac3e0b58abe87e550dc2b3a987681b120dde1c3b","features":{},"yanked":false}

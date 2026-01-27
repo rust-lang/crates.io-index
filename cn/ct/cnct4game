@@ -1,0 +1,2 @@
+{"name":"cnct4game","vers":"0.1.0","deps":[],"cksum":"1c7d46c3f0b5273ac099d65f87b7d81116bd6f0f6c1afe7c9337b050c107241d","features":{},"yanked":false}
+{"name":"cnct4game","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5529200cd001bdf5ca9a6ff2ce54daa62cd25e73fb720838176309cd79ba317c","features":{},"yanked":false}

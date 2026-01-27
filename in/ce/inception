@@ -1,0 +1,1 @@
+{"name":"inception","vers":"0.1.0","deps":[{"name":"inception-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdda83d65e6de448567fe5da09b35958b4e4bd5b00680888472bf459b767abea","features":{"default":["opt"],"opt":[]},"yanked":false,"rust_version":"1.84"}

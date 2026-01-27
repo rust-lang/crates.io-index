@@ -1,0 +1,2 @@
+{"name":"tempoid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c071af40397e6a93fa97e4a7cf46654e03c046b63df0dbb38e28235fc75a6d5","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"tempoid","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"001505a4e6fc57fc36adc8b032043ecea6469fd29c9891bf04d18df8343b63d9","features":{},"yanked":false,"rust_version":"1.80"}

@@ -1,0 +1,1 @@
+{"name":"tinyrs","vers":"0.2.0","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e9bffd1a5b729547b6958d7d9dbe7739e5472376d0fa1462da818d0d63db7b9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"code_logger","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6acfb245767babce88d022197f92ac4854ba969d57b610907c6b21f98a4bd04c","features":{},"yanked":false}
+{"name":"code_logger","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43e22f7bf0d127a9c8f242b099485b5e4e8e3b5f4c1266fb35c78b619662bd27","features":{},"yanked":false}

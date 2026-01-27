@@ -1,0 +1,7 @@
+{"name":"polynomials","vers":"0.1.0","deps":[],"cksum":"2e0f1007348288b0d04da491bc7ef0e6e4cdbf8503d3447ede5e42671c96244e","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.1.1","deps":[],"cksum":"37eff2eba0daa6b40674a18bfec5e65f4fac0b85acd2d6f9ae8410630b8a77f5","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.2.0","deps":[],"cksum":"3d33c27275e9a6746325d3520b73102c1735465042ac14bee5f7afdd246fddc9","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.2.1","deps":[],"cksum":"bb4145680065a2e7998f1adc0808723849a4830063e87dbe0338bbbb74771b7b","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.2.2","deps":[],"cksum":"c580db2e4fa5d471521d5fbb7ccde108e086c6d3be0b793e2d72f3d0d26180e6","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.2.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d575621ca704ca9ed5830c07019ca66255e4fd6a41928f95c01ffddee36f3c8","features":{},"yanked":false}
+{"name":"polynomials","vers":"0.2.4","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"207353e2f0e42079823f05c218fea7088ec598b276a0b92db11f9a813df2e04d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ros_msgs_include","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"206a4a2ef5fac62cdb55c046879432684311258ee0ce15ca4dd06ae04e523e2e","features":{},"yanked":false}
+{"name":"ros_msgs_include","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7527b907425d86c6e3583da5fcbf50eefc2019c751e9bc127bd2a5c7de572791","features":{},"yanked":false}

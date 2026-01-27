@@ -1,0 +1,2 @@
+{"name":"geo-quadkey-rs","vers":"0.1.0","deps":[{"name":"assert_float_eq","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3aca8cb35165cee4f5cad5ca5b6437f6a7b1362d8cac019363f907902fca4ad","features":{},"yanked":false}
+{"name":"geo-quadkey-rs","vers":"0.1.1","deps":[{"name":"assert_float_eq","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d854dc802faa38a0689bde42f82ffeff331e6b1e3c18abfd5dc360e9705e7bf1","features":{},"yanked":false}

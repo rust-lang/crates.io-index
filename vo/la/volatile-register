@@ -1,0 +1,6 @@
+{"name":"volatile-register","vers":"0.1.0","deps":[],"cksum":"4385db11748b2075cbc2a502170d48c38c1136e80532250a20961f8dfe9bb2e9","features":{},"yanked":false}
+{"name":"volatile-register","vers":"0.1.1","deps":[],"cksum":"ea4f072b7c1ab3802874c0a958d18dcd4a79539b848f5d7125639ba87a0f093b","features":{},"yanked":false}
+{"name":"volatile-register","vers":"0.1.2","deps":[],"cksum":"a470889aa8f2d3ad893bd43cd90c824e63e8ac0ee5fe64c5d81a932d184fd549","features":{},"yanked":false}
+{"name":"volatile-register","vers":"0.2.0","deps":[{"name":"vcell","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d67cb4616d99b940db1d6bd28844ff97108b498a6ca850e5b6191a532063286","features":{},"yanked":false}
+{"name":"volatile-register","vers":"0.2.1","deps":[{"name":"vcell","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ee8f19f9d74293faf70901bc20ad067dc1ad390d2cbf1e3f75f721ffee908b6","features":{},"yanked":false}
+{"name":"volatile-register","vers":"0.2.2","deps":[{"name":"vcell","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de437e2a6208b014ab52972a27e59b33fa2920d3e00fe05026167a1c509d19cc","features":{},"yanked":false}

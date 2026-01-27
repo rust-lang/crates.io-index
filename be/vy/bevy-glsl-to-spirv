@@ -1,0 +1,3 @@
+{"name":"bevy-glsl-to-spirv","vers":"0.1.7","deps":[{"name":"cmake","req":"^0.1.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f36b150daa7006ccdaf896d9671a2b3630a2a9aa2c13174acf6493530efc3a3","features":{},"yanked":false}
+{"name":"bevy-glsl-to-spirv","vers":"0.2.0","deps":[],"cksum":"d0b37e032266000f7b62b75b562cdcdccdd655294d26042460fd757daf3a5f82","features":{},"yanked":false}
+{"name":"bevy-glsl-to-spirv","vers":"0.2.1","deps":[],"cksum":"0d5f2f58f0aec3c50a20799792c3705e80dd7df327e79791cacec197e84e5e61","features":{},"yanked":false}

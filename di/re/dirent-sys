@@ -1,0 +1,2 @@
+{"name":"dirent-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"49693145799087b937d22e43c1c367e9d9f7f57c4402244e1305fef74a72542a","features":{},"yanked":false}
+{"name":"dirent-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"28b8b5d00d181d4385aab292371a7fee87b5da7934da8773b17c440012d20af1","features":{},"yanked":false}

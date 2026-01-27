@@ -1,0 +1,2 @@
+{"name":"npm-registry","vers":"0.1.0","deps":[],"cksum":"7b9cfeaf453e77f4fbf74db6b0468854432a1bab8e0a5b7e760fa3718b1e502b","features":{},"yanked":false}
+{"name":"npm-registry","vers":"0.2.0","deps":[{"name":"dirs","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ffa86165de18433d0e9dd9933cb60d939cd7b7eaaac28f4dd796a613a545cb4","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"vg","vers":"0.0.0-squat","deps":[],"cksum":"557a40cb89099edb66b1b7c81684194cfea2499df807348faf85bff5d4a7ccca","features":{},"yanked":false}
+{"name":"vg","vers":"0.0.0-obsolete","deps":[{"name":"png","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3db6649c2c1c320281deae9738a03ed6ccc85d255201226ce7e469363147020","features":{},"yanked":false}

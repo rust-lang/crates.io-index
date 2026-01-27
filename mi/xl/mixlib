@@ -1,0 +1,6 @@
+{"name":"mixlib","vers":"0.1.0","deps":[],"cksum":"660ad6c4f54dbeae4c90c78eb26ff7b959be241a6e0d14f55b0899d6ecc13da2","features":{},"yanked":false}
+{"name":"mixlib","vers":"0.2.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"339f6a2675d03026fd35eaf38083289459ffc574dc83da6a86e21c6920dc5941","features":{},"yanked":false}
+{"name":"mixlib","vers":"0.2.1","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9269b8b44c4e808578d92d3ba1a9609ac0df9903b69f0b882215bbfc5c12f48","features":{},"yanked":false}
+{"name":"mixlib","vers":"0.3.0","deps":[],"cksum":"1ac1f30a72368369f8c68a916ae87fb19b57655132bd19b5555c5fe5862739e2","features":{},"yanked":false}
+{"name":"mixlib","vers":"0.4.0","deps":[],"cksum":"a784c8c4e5fbec57ab8aeb907e839da3bdf1cc699030157ae1db3937a908608a","features":{},"yanked":false}
+{"name":"mixlib","vers":"0.5.0","deps":[],"cksum":"a53421842596ebec6bb0f44f877ed3dada5062638b48763fe34529bf0001ae58","features":{},"yanked":false}

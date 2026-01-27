@@ -1,0 +1,1 @@
+{"name":"winpty-rs-windows-strings","vers":"0.4.2","deps":[{"name":"winpty-rs-windows-link","req":"^0.1.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9bd645037228e0d6ed7dc730e3b6a2b135b92141a137eadae8bdba485c729ac0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74"}

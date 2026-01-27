@@ -1,0 +1,1 @@
+{"name":"libr","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bdd9e216035d04997c8eeeac072f98c27345678cc621355b02ce017157cc9e9e","features":{},"yanked":false}

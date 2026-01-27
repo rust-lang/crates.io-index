@@ -1,0 +1,4 @@
+{"name":"navfs","vers":"0.1.0","deps":[],"cksum":"8f900210b7d3bfa8401c2f277b7cd6b4c59bcb0e5af547fbe4548c4d661c8a65","features":{},"yanked":false}
+{"name":"navfs","vers":"0.1.1","deps":[],"cksum":"97b67b6d3612a5d9d6bdf4cec290d4cc2c5809d079149307c22eac971468b36f","features":{},"yanked":false}
+{"name":"navfs","vers":"0.1.2","deps":[{"name":"text-colorizer","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4597dfd228f65d0417623517fcc1cb50e40413e6759fdcaac74fd903a45c3988","features":{},"yanked":false}
+{"name":"navfs","vers":"0.1.3","deps":[],"cksum":"ad284320f7a96a7d44f2aa4c376fe8d0f35d9c354ba4e0d26afe9b9b3bbf7ef9","features":{},"yanked":false}

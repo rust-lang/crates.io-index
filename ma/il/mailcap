@@ -1,0 +1,1 @@
+{"name":"mailcap","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serial_test","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3f111091a295b736de0e89350b20cba96274a99f8a5a2a3b6339b2ebe33f9d1","features":{},"yanked":false}

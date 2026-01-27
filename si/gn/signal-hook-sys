@@ -1,0 +1,1 @@
+{"name":"signal-hook-sys","vers":"0.1.0","deps":[{"name":"cc","req":"~1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"~0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4a3aed153ec14a08114dd42cbd81027202ed1b99a22407f182b5d78d98e595f","features":{},"yanked":false}

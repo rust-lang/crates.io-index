@@ -1,0 +1,6 @@
+{"name":"nstd_str","vers":"0.1.0","deps":[],"cksum":"7cfe116ae430328cbf8ee0734acd03600cf3a8c1ec9c6d17e40a9d9dce53d930","features":{},"yanked":false}
+{"name":"nstd_str","vers":"0.2.0","deps":[],"cksum":"3f0d4bc37870aaa2cd14740bcaafed8e28754b064727a3c89ac008a7128d6702","features":{"clib":[]},"yanked":false}
+{"name":"nstd_str","vers":"0.3.0","deps":[],"cksum":"3e77f74a0ab36c902a796d5ee146facc7af777a5f6cfe25679e446a0796ebf0b","features":{"clib":[],"deps":[]},"yanked":false}
+{"name":"nstd_str","vers":"0.3.1","deps":[{"name":"nstd_collections","req":"^0.3.3","features":["deps"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81ce539e66172ad3dc3c9ed6ae558d68af7fb9f17647838ce142619e4d4afa27","features":{"clib":[],"deps":[]},"yanked":false}
+{"name":"nstd_str","vers":"0.4.0","deps":[{"name":"nstd_collections","req":"^0.4.0","features":["deps"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d00af9c1bf2783bccba5da8789b3cf6d24a2d3ca165b4c6d18a8c51b57aa960","features":{"clib":[],"deps":[]},"yanked":false}
+{"name":"nstd_str","vers":"0.5.0","deps":[{"name":"nstd_collections","req":"^0.5.0","features":["deps"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7cfdf9457b1f52c7d87903abfc4a1058660b7ac0bd9b3a58dd954f8207e2c68","features":{"clib":[],"deps":[]},"yanked":false}

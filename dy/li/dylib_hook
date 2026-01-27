@@ -1,0 +1,2 @@
+{"name":"dylib_hook","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f396dcd2f6c1ce3843851871f4e6d8c238cd345043bbc7107be76f0632514c64","features":{},"yanked":true}
+{"name":"dylib_hook","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"457ca2551511234cda240f048ae4c2e1f60870401ff102d830b6f253a47c79c3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"anput-promise","vers":"0.20.3","deps":[{"name":"pollster","req":"^0.4","features":["macro"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad36284b8197dba75b39d989ba4748106c5b1b7e025489cef8eb064183c2cd38","features":{},"yanked":false}
+{"name":"anput-promise","vers":"0.20.4","deps":[{"name":"pollster","req":"^0.4","features":["macro"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32f323f91b63e4529ddee4bd2876e25acfde2d5197c6f30f7cd3271b4beea848","features":{},"yanked":false}

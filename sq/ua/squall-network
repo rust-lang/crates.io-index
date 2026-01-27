@@ -1,0 +1,2 @@
+{"name":"squall-network","vers":"0.1.0","deps":[],"cksum":"496b964720ecc3a160230b5a511be30dba8a4bc44f048839b63cedf968cfd3ea","features":{"default":[]},"yanked":false}
+{"name":"squall-network","vers":"0.1.1","deps":[{"name":"squall-error","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"322c73e008d5410aa2fd3a2ccc51069396b9fe6d540a287f8220123e40eb05e9","features":{"default":[]},"yanked":false}

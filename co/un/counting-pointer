@@ -1,0 +1,2 @@
+{"name":"counting-pointer","vers":"0.1.0","deps":[{"name":"gharial","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cebb01fff14f0d4ddd7736883d267cf3eb8614cce2a6424fb78afbd7b1eb34e0","features":{},"yanked":false}
+{"name":"counting-pointer","vers":"0.2.0","deps":[{"name":"gharial","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f6354660417efd953089d81f8e012e8f4f62a99315e0976bf42f4b980e86a1f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"guessing-game-101","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40dafa2b2cbf52df78192a5e7e7a81f9492eb31bf131ccd605af4b60ee3816df","features":{},"yanked":true}
+{"name":"guessing-game-101","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54077282fa5bed66dfd5ce68469e062693ba2ed5e859fc98cf192e9c4c93b4e9","features":{},"yanked":false}

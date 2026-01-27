@@ -1,0 +1,2 @@
+{"name":"cargo-purge","vers":"0.1.0","deps":[{"name":"whoami","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d5aeaf61f8b62ac48d799b3ab059599b547e4cf1f9a6842ffde500250033ef8","features":{},"yanked":false}
+{"name":"cargo-purge","vers":"0.1.1","deps":[{"name":"whoami","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0246c079a109f7e30c6ba1ab9d091ac46b520060ae1cfe6ded21d575f7f68ac5","features":{},"yanked":false}

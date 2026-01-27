@@ -1,0 +1,2 @@
+{"name":"auto-delete-path","vers":"0.1.0","deps":[],"cksum":"92d72512e9fef46ad88278cbd855b2ce5f11fd6166bb0361386f5beaea2f7900","features":{},"yanked":false}
+{"name":"auto-delete-path","vers":"0.2.0","deps":[{"name":"fastrand","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9eb7f886e8d4259ecd0f6f6091c92cbff05e80362a6044957dfc990dec50b4fa","features":{},"yanked":false}

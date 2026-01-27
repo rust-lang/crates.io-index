@@ -1,0 +1,1 @@
+{"name":"bevy-sph","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38209850a756cc578ce4773c9c87d70ad0a6c086aee3bf479ac474a196141a21","features":{},"yanked":false}

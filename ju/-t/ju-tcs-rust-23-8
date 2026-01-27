@@ -1,0 +1,3 @@
+{"name":"ju-tcs-rust-23-8","vers":"0.1.0","deps":[],"cksum":"dd5156fbc1691f772654d8efad1ecb42bd03e9eac0f2089a2a908f3df3a8fc6b","features":{},"yanked":false}
+{"name":"ju-tcs-rust-23-8","vers":"0.1.1","deps":[],"cksum":"8cc4c2a479416078ecef01e4ccf24c195bf9f2f9c244098c0bc505fee72ae125","features":{},"yanked":false}
+{"name":"ju-tcs-rust-23-8","vers":"0.1.2","deps":[{"name":"ju-tcs-rust-23-7","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc8a384a2de18dd59c7c317cf7806b6e1ed2ab7e1016e6660d6e254669f223c9","features":{},"yanked":false}

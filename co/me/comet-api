@@ -1,0 +1,1 @@
+{"name":"comet-api","vers":"0.1.0","deps":[{"name":"comet-gc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mopa","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14d5bdcdc38a81cd4deffdda678c815c4459db2d3135da3686ef40bfbfdddc99","features":{},"yanked":false}

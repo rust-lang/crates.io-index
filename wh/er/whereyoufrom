@@ -1,0 +1,1 @@
+{"name":"whereyoufrom","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.36","features":["rt","net","signal","io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab425da3c382d53c1d31226d5e103268715f54c7a73e5c4692fb3e76436af254","features":{},"yanked":false,"rust_version":"1.76.0"}

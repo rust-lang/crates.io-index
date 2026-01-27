@@ -1,0 +1,4 @@
+{"name":"kudo","vers":"0.1.0","deps":[],"cksum":"511917568217c2519af3b9f1f98ca74fa83eb689f6afdf6bc7fd209af792e356","features":{},"yanked":false}
+{"name":"kudo","vers":"0.2.0","deps":[],"cksum":"a3d5e1d6dde0a64091fa172f246032616833450aecba4a4b860d3769d97a76b2","features":{},"yanked":false}
+{"name":"kudo","vers":"0.3.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec45778c598b6449ec340110f980c761f2af0e98ec252d5320d49f5cd773dac6","features":{},"yanked":false}
+{"name":"kudo","vers":"0.4.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"45d8066815615450490d438c1b76f58b2738563e7ce93387addcc235ce544214","features":{},"yanked":false}

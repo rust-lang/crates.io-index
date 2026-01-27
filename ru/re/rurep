@@ -1,0 +1,1 @@
+{"name":"rurep","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e09cffddec8662ac13aa02d77d564252999b73af444bdcc5dd60d3537df289da","features":{},"yanked":false}

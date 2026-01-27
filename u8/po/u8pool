@@ -1,0 +1,2 @@
+{"name":"u8pool","vers":"1.0.0","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd6bcf4bd7bbc012b988131debb56999defae8c43195077fa491621c268d6f9c","features":{"default":[],"std":[]},"yanked":false}
+{"name":"u8pool","vers":"1.1.2","deps":[],"cksum":"02f3a4875f2bb6c996dc8014cc4ee50ad9edbfa1780e3e43e4f9bbbb3ed393ec","features":{"default":[],"display":[],"std":["display"]},"yanked":false}

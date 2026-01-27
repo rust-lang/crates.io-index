@@ -1,0 +1,1 @@
+{"name":"magnet_core","vers":"0.0.1","deps":[{"name":"hyper","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"typemap","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e8561262f6e27b4c4a99f9fb959ea007f6582cf9e693c9c62ef5dbee1fb1264","features":{},"yanked":false}

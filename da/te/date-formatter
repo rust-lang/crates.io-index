@@ -1,0 +1,4 @@
+{"name":"date-formatter","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"228bd9bbbbcf3336ebf0363240463f56f2a7c24b42926a00e27793e3f3ccd225","features":{},"yanked":true}
+{"name":"date-formatter","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1fd65928922f3937b3d327ceaf34903b3b6c2683891b699e114e06310a037fe","features":{},"yanked":true}
+{"name":"date-formatter","vers":"0.2.0","deps":[],"cksum":"bf8f25cdf9f370921a33e4cab7fdc16f2cf427ba24b6183c7074a329819dbb39","features":{},"yanked":false}
+{"name":"date-formatter","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c81621298bd1391036108c223b99af9aee50f1b92094f99911496c8b22448c43","features":{},"yanked":false}

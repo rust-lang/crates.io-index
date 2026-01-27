@@ -1,0 +1,2 @@
+{"name":"cookies","vers":"0.0.1","deps":[],"cksum":"e5ed970f886b2692d34c1976254bfae22336b12733ecb37ef0fad32128ff4bfb","features":{},"yanked":false}
+{"name":"cookies","vers":"0.0.2","deps":[{"name":"cookie","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d57f0d73be0b8a482fa18b10534a90372e112ccd339b6a16353f3fe571d2feea","features":{},"yanked":false}

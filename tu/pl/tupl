@@ -1,0 +1,7 @@
+{"name":"tupl","vers":"0.1.0","deps":[],"cksum":"6e88131feaddc43a27ba495c1ea910db85eb2e5a6cdfd148ac37e7151acf4372","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"tupl","vers":"0.2.0","deps":[],"cksum":"67c603486c349fb741bc8e49c37f77b56ec7ee6b13687f7fa6c57cc00de44f94","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"tupl","vers":"0.3.0","deps":[],"cksum":"282e2aaff50a8042535938ff187a03236859b0cc8fc346144a10beb10dce4d54","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"tupl","vers":"0.3.1","deps":[],"cksum":"90914f4fc82d760a330092c99de1e8e24fa23e1011cb7004d09bd4ce74b6109e","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"tupl","vers":"0.4.0","deps":[],"cksum":"f70209896274d7359e1418cdc0ed245ec10ed4e916157983437aee6fc48214c4","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"tupl","vers":"0.5.0","deps":[{"name":"tupl-macros","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddf9e60605458ab572df0fd88477a31f229e25881dd8d3a27a49ea26d845d4e8","features":{},"yanked":false,"rust_version":"1.79"}
+{"name":"tupl","vers":"0.5.1","deps":[{"name":"tupl-macros","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef37af0228ae3074038f7c2c7104a5bed638c19eb3e752535218789ca631a209","features":{},"yanked":false,"rust_version":"1.79"}

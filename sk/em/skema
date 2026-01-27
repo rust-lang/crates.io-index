@@ -1,0 +1,1 @@
+{"name":"skema","vers":"0.1.0-dev","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f86860e467f2202e32d6ddd977227c1102e6e65317a9c25cf7a07a20f693263","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"httpstatus","vers":"0.1.0","deps":[],"cksum":"233d1e863523b511298c0237a3e03adb98061afdb21f0ca414e25e99cc81fe8e","features":{},"yanked":false}
+{"name":"httpstatus","vers":"0.1.1","deps":[],"cksum":"87f82f4abfe342e1b3caf4a0ca6d59fbf0fc4c85505531c0bd9422dd9ee87093","features":{},"yanked":false}
+{"name":"httpstatus","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbcf281a2062fc93deb46c99bd072cda6888a560c8a4f223d6824c1128832002","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"httpdiff","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12.24","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9026e87a26db3af2c26391de39b01261c8745c0db0fc89a5e841c6774e84bae7","features":{},"yanked":false}

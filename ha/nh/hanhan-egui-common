@@ -1,0 +1,2 @@
+{"name":"hanhan-egui-common","vers":"0.1.0","deps":[{"name":"egui","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e0627c07a5a53e124e4b2b54a2cbfed9f4065e63d4460ecfceaf85a54db61fb","features":{},"yanked":false}
+{"name":"hanhan-egui-common","vers":"0.1.1","deps":[{"name":"egui","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"998e53aeea55cbfc59a83dd445f86c6e30ebd4c9e604c4eeec909d51704d1d88","features":{},"yanked":false}

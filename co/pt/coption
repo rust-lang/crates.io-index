@@ -1,0 +1,1 @@
+{"name":"coption","vers":"0.1.0","deps":[{"name":"self-rust-tokenize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"898324f17d19821fdbaeb3242b38a38b77054d69829a0a878ff331ae79893854","features":{"default":["self_rust_tokenize"],"self_rust_tokenize":[]},"yanked":false}

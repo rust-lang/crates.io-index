@@ -1,0 +1,4 @@
+{"name":"say-hello-vento-deco","vers":"0.1.0","deps":[],"cksum":"1d6155ecb5b5cc039cbecf42a791a0dcfef65e0ee9a747b2d6429c963b51d7ef","features":{},"yanked":false}
+{"name":"say-hello-vento-deco","vers":"1.0.0","deps":[],"cksum":"6a40214eef1cd55143827db266d53759cf493baeac07f102bbcbee22d0007a99","features":{},"yanked":false}
+{"name":"say-hello-vento-deco","vers":"1.0.1","deps":[],"cksum":"cdb5f1de2102eab0f68afb26bbd7d9f2d1c91bd500e0ba9e6a4ccacdbbe8c39f","features":{},"yanked":false}
+{"name":"say-hello-vento-deco","vers":"2.0.0","deps":[],"cksum":"274c7022452898bfa7eb91cd4734a97b188be19d566554191a27d1bcac54b279","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

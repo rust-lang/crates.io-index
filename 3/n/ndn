@@ -1,0 +1,2 @@
+{"name":"ndn","vers":"0.0.0","deps":[],"cksum":"0114b025898123f0b5170892333fa6949c426d98c1fd35410c92bc1910167763","features":{},"yanked":false}
+{"name":"ndn","vers":"0.0.1","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d6da12cd17c26e7569b8a65cb675ce06a8584aca1b374d5a3fd76ba93ff71f7","features":{"pedantic":[]},"yanked":false}

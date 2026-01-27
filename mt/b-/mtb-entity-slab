@@ -1,0 +1,4 @@
+{"name":"mtb-entity-slab","vers":"0.1.1","deps":[],"cksum":"61ee5e06535a8de29207b2e7f6a11a21406cfc5504c3e53825b2af4d880163b5","features":{},"yanked":false}
+{"name":"mtb-entity-slab","vers":"0.1.2","deps":[],"cksum":"acb86513fca0b0622c74096a6aca7f31e6b8fe555b6950ba08e2b204c46b0f1b","features":{},"yanked":false}
+{"name":"mtb-entity-slab","vers":"0.1.3","deps":[{"name":"mtb-entity-slab-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e02c006fb46cc40aa983888f2b6fca5c6bf606c4173c9a2f03f7d84421876dc4","features":{},"yanked":false}
+{"name":"mtb-entity-slab","vers":"0.2.0","deps":[{"name":"mtb-entity-slab-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f2259e7feacd90c184381e050d8b4a850a55e0b3f46f983770a66c10da3454c","features":{},"yanked":false}

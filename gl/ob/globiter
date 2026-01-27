@@ -1,0 +1,2 @@
+{"name":"globiter","vers":"0.0.0","deps":[],"cksum":"ef6d981e4ecc2c699d0360e1aa2e38b05eca06508c75ed752626a9363c343181","features":{},"yanked":false}
+{"name":"globiter","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0757cd38a6dc71ff622f52309d213d1b3a39297f49db6aaf6a820f9487c7cb34","features":{},"yanked":false}

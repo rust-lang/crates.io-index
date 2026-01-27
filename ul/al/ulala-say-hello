@@ -1,0 +1,4 @@
+{"name":"ulala-say-hello","vers":"0.1.0","deps":[],"cksum":"76d6f87a2c78c0c5fdc4b1f6f19d2eac4125786665374e7fed4b54a46b3e1290","features":{},"yanked":false}
+{"name":"ulala-say-hello","vers":"0.2.0","deps":[],"cksum":"a633cbaf2380fe41e9a88cd8e4bba88ab9435e2048876589702e709d66e88afa","features":{},"yanked":false}
+{"name":"ulala-say-hello","vers":"0.3.0","deps":[],"cksum":"34305d925cc9493b86e0d59a5d352016e071cfd01b93e3d8b75c84283fc8d677","features":{"all":["hello","bye","cheese"],"bye":[],"cheese":["bye"],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"ulala-say-hello","vers":"0.4.0","deps":[],"cksum":"b97188f90def11ae8d0ffdad5c745a673bc0ae1b096d73520bcbe28212c450b8","features":{"all":["hello","bye","cheese"],"bye":[],"cheese":[],"default":["hello"],"hello":[]},"yanked":false}

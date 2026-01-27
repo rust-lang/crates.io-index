@@ -1,0 +1,1 @@
+{"name":"fnio","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.17.0","features":["rt","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38953d7b7c79b799a3529da0356927e0c1b7bf9954e2c68b13b64833b03e23b5","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"lazyhttp","vers":"0.1.0","deps":[],"cksum":"59df05ff1f6125d2d95493c808d83142189641218a38c6115f82c32ca232f14c","features":{},"yanked":false}
+{"name":"lazyhttp","vers":"1.1.0","deps":[],"cksum":"9dd6787fd1300bb90f8f3806c3a14d73f8746c7577013411cca737b2739fba27","features":{},"yanked":false}
+{"name":"lazyhttp","vers":"1.2.0","deps":[],"cksum":"0228e1bd1ba6e02c4fbcbbf6e7e5b09c7781f7d240fcbb65b0ec2c234ce872ce","features":{},"yanked":false}
+{"name":"lazyhttp","vers":"2.0.0","deps":[{"name":"http","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13f1850480c86df9bd365e915692ed0caf31fae5afd51fb93f7100ecea8593ce","features":{},"yanked":false}
+{"name":"lazyhttp","vers":"2.0.1","deps":[{"name":"http","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ffcfa26a1dc2f45f2c6365f8be01fbcb8bb8f5a458d44d4cd27b4577014615e","features":{},"yanked":false}

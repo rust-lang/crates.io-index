@@ -1,0 +1,2 @@
+{"name":"hcap","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"057515e2c2610eec0629ca41be71d767c38949874cea2c14c1ff451ccd3762a4","features":{},"yanked":false}
+{"name":"hcap","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea1abf03c4cf777bde4ddfa12d157a3192c4013645b72769d97e880d9c63e2ac","features":{},"yanked":false}

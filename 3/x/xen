@@ -1,0 +1,2 @@
+{"name":"xen","vers":"0.0.0-pre","deps":[{"name":"xen-sys","req":"= 0.0.0-pre","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d19bdbd07d463b3266cb0dc5f7f17c16be4d0b2e2cd7400ad176613797eaca42","features":{},"yanked":false}
+{"name":"xen","vers":"0.0.0-pre1","deps":[{"name":"xen-sys","req":"= 0.0.0-pre1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"119e36f9ca45d9283fad4bdcf9cf6a474b71e23e779fa4659a5bf21f8e970375","features":{},"yanked":false}

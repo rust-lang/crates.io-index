@@ -1,0 +1,2 @@
+{"name":"collect-once-hashmap","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebca4dfdda8c28eb3606870c111cee570ca7099386a65c02d17515020304d06b","features":{},"yanked":false}
+{"name":"collect-once-hashmap","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81551fe9acea324cc1ebbea2e3b9dbe46d3d9a1d910fec6705f67106ca8cb3ad","features":{},"yanked":false}

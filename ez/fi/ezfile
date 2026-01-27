@@ -1,0 +1,2 @@
+{"name":"ezfile","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fface004f563264b80f9b9656e98a01410a12da68f4147f7f9bade831e878a22","features":{},"yanked":false}
+{"name":"ezfile","vers":"1.0.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc78e138f1127895c24ff2d4af27c9f80914966c5cc3498934faac93608641a3","features":{},"yanked":false}

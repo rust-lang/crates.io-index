@@ -1,0 +1,2 @@
+{"name":"polished_ps2","vers":"0.1.0","deps":[{"name":"polished_serial_logging","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66616accfcba1b51a6ec767e82fdb4e756194362879cb284bc9922956570f0c2","features":{},"yanked":false}
+{"name":"polished_ps2","vers":"0.1.1","deps":[{"name":"polished_serial_logging","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2abff24e061ed692689e724296dc643b66a83d02c13bd485868ea85f52b416d4","features":{},"yanked":false}

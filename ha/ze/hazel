@@ -1,0 +1,1 @@
+{"name":"hazel","vers":"0.0.1","deps":[{"name":"bitboard","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9d5b1d65e2a8dbc593b33f471fcdf9753eb6dc6f97eb677dcaee7b3b6f12766","features":{},"yanked":true}

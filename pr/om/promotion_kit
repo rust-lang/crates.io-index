@@ -1,0 +1,2 @@
+{"name":"promotion_kit","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61db6d733ba111da59cdd5dd96a4dc66a96b997476bfa6b0e9d8e6600cb40768","features":{},"yanked":false}
+{"name":"promotion_kit","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"108ae4925719a17db617d51ee0ac1ef82f9350fb79b857606c770db8279053ae","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rishyhll","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6787a14642e3a43e628ba4654959b48dc6ecb305e6a893c4ba8af5bad8a5fdca","features":{},"yanked":true}
+{"name":"rishyhll","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"232f822c16fcd6852cc52ca51d8cc750f58a63e804634e66b4a9f3f4b4d0c7e8","features":{},"yanked":true}

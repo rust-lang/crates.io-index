@@ -1,0 +1,5 @@
+{"name":"rs-abbreviation-number","vers":"0.1.0","deps":[],"cksum":"92a17785294fac2f4f6556f5731980f587c38bf059cef1578521ebc0390fd3ff","features":{},"yanked":false}
+{"name":"rs-abbreviation-number","vers":"0.1.1","deps":[],"cksum":"f7a3f26ff526209b77443ca712c87bb663264b5f9e9b0b327ed5eacf99b4a0ef","features":{},"yanked":false}
+{"name":"rs-abbreviation-number","vers":"0.2.1","deps":[],"cksum":"75af2e07be1e5cd48ef0f11cdf84b5ea18dff2ab3b2d6146be3c9bd3d308cc24","features":{},"yanked":false}
+{"name":"rs-abbreviation-number","vers":"0.3.1","deps":[],"cksum":"bd44f7c109b548c61eb352d71a96d5026fd14e4c4a542be8fe0b202111229512","features":{},"yanked":false}
+{"name":"rs-abbreviation-number","vers":"0.3.2","deps":[{"name":"time_macro","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time_macro_derive","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ffbe68a09a59740bcd2d73972601b97c51d82a5ec83cafdbf6ff6883925e017","features":{},"yanked":false}

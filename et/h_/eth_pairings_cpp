@@ -1,0 +1,1 @@
+{"name":"eth_pairings_cpp","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"905bf04b1c0e59eb96a150c3fb36268658d09d5b36a0add671d2a99a347cd373","features":{},"yanked":false}

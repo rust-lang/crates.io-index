@@ -1,0 +1,2 @@
+{"name":"envconf","vers":"0.1.0","deps":[{"name":"envconf_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87589f8e37238531758cfa59ff2fbe110517ac9adcae716d29c3a43637e00c90","features":{},"yanked":false}
+{"name":"envconf","vers":"0.1.1","deps":[{"name":"envconf_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faf12080eaf68cb2e599523706c4905a25d5e3934d6732aeb340ac13329fa542","features":{},"yanked":false}

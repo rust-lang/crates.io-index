@@ -1,0 +1,2 @@
+{"name":"Kyles_crates","vers":"0.1.0","deps":[],"cksum":"09ab05f347bc0123c379d531c2d86da3eaf467082490ad62db790ee313e11f26","features":{},"yanked":false}
+{"name":"Kyles_crates","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93043e001a4de7c05e01c01268b99635c50a1d1affcf4be7e3e0ce93d486da12","features":{},"yanked":false}

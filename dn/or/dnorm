@@ -1,0 +1,1 @@
+{"name":"dnorm","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"716f9fe32239b1a32583e2d9eae63e401c8672ff364f0500573d961d77ecec4f","features":{},"yanked":false}

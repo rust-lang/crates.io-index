@@ -1,0 +1,2 @@
+{"name":"id-alloc","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1.0","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"adc00004fc6588985b504ef607cea3fe08f978681b71a0bdfb669f5cfeb12994","features":{},"yanked":false}
+{"name":"id-alloc","vers":"0.1.1","deps":[{"name":"bitvec","req":"^1.0","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"85a5d952b68c2fa8d4c834ad6076b77a689af7b5f6b0c050301e9185ec993c26","features":{},"yanked":true}

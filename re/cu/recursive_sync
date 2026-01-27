@@ -1,0 +1,2 @@
+{"name":"recursive_sync","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b43c158d2aa20fcf7bb76ab4723be465b299e14585107a713001503d33dbd2b5","features":{},"yanked":false}
+{"name":"recursive_sync","vers":"0.0.2","deps":[{"name":"gcc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2dbf1053baaab29dd220c582595e7c8e030855172a88751c5b1c6c85447373cb","features":{},"yanked":false}

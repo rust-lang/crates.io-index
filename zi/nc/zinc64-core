@@ -1,0 +1,1 @@
+{"name":"zinc64-core","vers":"0.8.0","deps":[{"name":"bit_field","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b38f3ac40a57c97d740cc1919a80fcd9be31ed24ba74141f140a35fd8effcc","features":{"default":["std"],"std":[]},"yanked":false}

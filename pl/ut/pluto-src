@@ -1,0 +1,2 @@
+{"name":"pluto-src","vers":"0.1.0+0.10.4","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"840407a6cea23bda68e4aeca8cde159296ecefb2c3cef2fa2a60af229c79a3e0","features":{},"yanked":false}
+{"name":"pluto-src","vers":"0.1.1+0.10.4","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1922325d07d178334a1283732688c36524c52714b5dd7b752e30a5140974d4e9","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rgrow-ipc","vers":"0.21.0","deps":[{"name":"serde","req":"^1.0.185","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2b62f38d403738cec97b4b07e5c023f8ead22fe11775811a817b25b479c615a","features":{},"yanked":false}

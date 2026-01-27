@@ -1,0 +1,1 @@
+{"name":"hg-core","vers":"0.0.1","deps":[{"name":"rand","req":"~0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand_pcg","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7fe168efadebadb9da6a329fdc027036e233b662285730cad27220e11e53c384","features":{},"yanked":false}

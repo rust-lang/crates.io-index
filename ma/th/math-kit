@@ -1,0 +1,3 @@
+{"name":"math-kit","vers":"1.0.0","deps":[],"cksum":"a1fd5257ccabe09a66624ad4ac7135b36a3c1efd6739fb54822351c94d24f544","features":{},"yanked":false}
+{"name":"math-kit","vers":"1.1.0","deps":[],"cksum":"2e146f23eae8a3f2cf61bfe8850474e3b19b3311ee50b3364cdf75ae7ed656e6","features":{},"yanked":false}
+{"name":"math-kit","vers":"2.0.0","deps":[],"cksum":"a7d18d6a2ea102eb5bb8d479289776bb6483e543f3b31083f81151c9886adf9e","features":{"add":[],"all":["add","subtract","multiply","divide","discount"],"discount":[],"divide":[],"multiply":[],"subtract":[]},"yanked":false}

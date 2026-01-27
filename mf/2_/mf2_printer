@@ -1,0 +1,2 @@
+{"name":"mf2_printer","vers":"0.1.1","deps":[{"name":"mf2_parser","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46de3456e8afc0a8b117e25581d98a3842224db48da8ad859c673a0baa6d8cf5","features":{},"yanked":false}
+{"name":"mf2_printer","vers":"0.1.2","deps":[{"name":"mf2_parser","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2dd4b06aecd979194ae812d3a2a576550ec684830945cec1418206c045d44b8","features":{},"yanked":false}

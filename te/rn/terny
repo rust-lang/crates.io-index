@@ -1,0 +1,2 @@
+{"name":"terny","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fb28ccb690b5f6c3cd2270af4206ee0b57614957bde4bddbb80406f5023494f","features":{},"yanked":false}
+{"name":"terny","vers":"0.2.0","deps":[],"cksum":"cea18c7eb8944102ab0973817e4aa5f558fe9679b96b843600c0d365c7d115de","features":{},"yanked":false}

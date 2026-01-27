@@ -1,0 +1,1 @@
+{"name":"cakecutter","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ureq","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8838363aee74e130c66620d9db0c12bbab2a32108673d87d8e9f630907961a0","features":{},"yanked":false}

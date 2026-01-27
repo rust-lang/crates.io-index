@@ -1,0 +1,2 @@
+{"name":"cuts","vers":"0.1.0","deps":[],"cksum":"a31f74a85b953a5e2d8132e631f871ed9502136c9b542c58f1bfbf249c343867","features":{},"yanked":false}
+{"name":"cuts","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30ecf07fd061b83260cf8a893a086dbf9ec6f916ba6681e65dff7a980cb6d6d7","features":{},"yanked":false}

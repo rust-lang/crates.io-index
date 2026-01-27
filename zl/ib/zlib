@@ -1,0 +1,1 @@
+{"name":"zlib","vers":"0.0.1","deps":[{"name":"crc32","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6c1d0abf490cc3316b867787490cc6b7ba6724a017df53f3bfc98853a94f083","features":{"default":[],"unsafe_fast":[]},"yanked":false}

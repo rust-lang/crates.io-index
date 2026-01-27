@@ -1,0 +1,3 @@
+{"name":"sdfer","vers":"0.1.0","deps":[],"cksum":"859dd0ebadb6fba5a015f34d52706b2f6b3d766280406924b753dcd01b8deb4b","features":{},"yanked":false}
+{"name":"sdfer","vers":"0.2.0","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9acf3ce71a1e6a5cca5bbfea4ccc19e7a2a4ecfe7ea2bb2cb6b862a23e21d3d9","features":{},"yanked":false}
+{"name":"sdfer","vers":"0.2.1","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27fd75ebc7c721a70d202c7cdd2beb108bbe5dfaaea68e06aff4de2f4cc240ed","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"futures_future","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb865d9b0ef27e449523c05b53ebb797b7ba93de7e3d08a6fcf5042b5dfb58d8","features":{},"yanked":false}
+{"name":"futures_future","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a559a7c882b10eb044affee14e6707b799eebdf7afe4830bfa63f483f05f76cd","features":{},"yanked":false}

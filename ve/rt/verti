@@ -1,0 +1,1 @@
+{"name":"verti","vers":"0.0.0","deps":[{"name":"bevy","req":"^0.15.1","features":["webgpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4c9c72a0bd704907c1225a4e4cae5ea570b3b25ba2358eb83934c9e1d1413ce","features":{},"yanked":false}

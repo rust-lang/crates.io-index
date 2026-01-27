@@ -1,0 +1,1 @@
+{"name":"asimov-huggingface-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"72ce739d65cf5ffe9267f8dd1ac2581fd36a9b1b368435fa19ffb9eda662c350","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"containerd-shim-logging","vers":"0.1.0","deps":[{"name":"systemd","req":"^0.9.0","features":["journal"],"optional":false,"default_features":false,"target":"cfg(target_os = \"linux\")","kind":"dev"}],"cksum":"6ed96b05b959236e5684269b014d3258eec76d93c65f8d8a4d772d6b2043c64b","features":{},"yanked":false}
+{"name":"containerd-shim-logging","vers":"0.1.1","deps":[],"cksum":"e41acdbe56ace143518eddfc21bc1fabe0ba19fe0276ab02be1ce7e9ba2281e5","features":{},"yanked":false}

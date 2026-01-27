@@ -1,0 +1,11 @@
+{"name":"lowdash","vers":"0.1.0","deps":[],"cksum":"42a87f9317902b00fe1895f0e2cd9665bb1f459da03fe2b4deea418b370e5579","features":{},"yanked":false}
+{"name":"lowdash","vers":"0.2.0","deps":[],"cksum":"4b541a5011f08ecd6fbcb57ad568983ef744931a25708a0e107dd5fe592926a4","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.2.1","deps":[],"cksum":"c120b92b7b75c1cf4cfe017642f936a0ec2fcf7828b3384a48384b0864207c53","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.2.2","deps":[],"cksum":"ac095fc274aedc66f58c5f71980d430fbd8f8dd0d3993904f45f9ae526320a7f","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.2.3","deps":[],"cksum":"f1541b41733d035eb75aeb9a3a3f96d8644bb6787e30a5eec1a9418abb73e39b","features":{},"yanked":false}
+{"name":"lowdash","vers":"0.3.0","deps":[],"cksum":"7e18628b327e5619d7e27f4e3ac303310659eb1653a1d9a95f0c2212055c94ec","features":{},"yanked":false}
+{"name":"lowdash","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"94e3f6a0523fd9791fdfa67e1ce8adda480d3e493a0e4dfc92452c6d6f7a2f32","features":{},"yanked":false}
+{"name":"lowdash","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d9bc45d385b4df1fcec368c446bf07f1feb7ab8614fa7337be83176fc69690d","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.5.1","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"62c44dab42d0357946189854edb520b2ee2f3f446f41a570b6cfd41ab6cd43d6","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.5.2","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ff2aa9c15546d5210d7e87383b7cb9518cb40c9a9dc5cfd9fef2e6d1d08b586","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.5.3","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f93cd5a38d5f2a5d9a023e55d41ccad267ab030a56bb6a7854cc0f38c6fd4333","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bt_time_utils","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6526f582b96eefff8f6bc4b7641e5a24626993872b532a38d9738f9723dfb23","features":{},"yanked":false}
+{"name":"bt_time_utils","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a9b0bb03c6b70737f505ad47fbda85886e6675e3a8085f79735956fc1fd2138","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"libthrob","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29.0","features":["windows"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8373e0772fa4c4703f112b8e2830706b83d307f3e091043369b36c44e45679f2","features":{},"yanked":false}
+{"name":"libthrob","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.29.0","features":["windows"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a727086579d2926f75e1a3ae117c0ddff92a1180fc7e597708bdba5447777c5","features":{},"yanked":false}

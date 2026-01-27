@@ -1,0 +1,2 @@
+{"name":"github_httpsable_cli","vers":"0.1.0","deps":[{"name":"git_httpsable","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88f7b2acf69805ec157c02ba51d3d500b1c696170be40480f82511661f20d66b","features":{},"yanked":false}
+{"name":"github_httpsable_cli","vers":"1.0.0","deps":[{"name":"git_httpsable","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c74f620f78c999ea50701f58fea9d353b09e7d225858ae8e7c82bfd20d2f6d68","features":{},"yanked":false}

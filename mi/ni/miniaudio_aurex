@@ -1,0 +1,4 @@
+{"name":"miniaudio_aurex","vers":"0.11.22","deps":[],"cksum":"861ddde9199cbc335e2879cefb68c6e1384398fa65000c505985e82ebd9df81e","features":{},"yanked":false}
+{"name":"miniaudio_aurex","vers":"0.11.23","deps":[{"name":"cc","req":"^1.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"083e845d5a19be04004e0f2ad3c2a898aa7db287ff3fb99e64d7bfe8206601f7","features":{},"yanked":false}
+{"name":"miniaudio_aurex","vers":"0.11.24","deps":[{"name":"cc","req":"^1.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3694efcf86d5bee4e2919edf87e7e7057d040ff75208fd1dfaf3bf3f5c034e8","features":{},"yanked":false}
+{"name":"miniaudio_aurex","vers":"0.11.25","deps":[{"name":"cc","req":"^1.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"930bba2c6972e886e7e6b31c74e8edd928a9eb6f8efaac63895e7faf10cd42a2","features":{},"yanked":false}

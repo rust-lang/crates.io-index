@@ -1,0 +1,1 @@
+{"name":"xand_governance","vers":"2.1.0","deps":[{"name":"mockall","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7c871d17b61ede68ce2a46b1d32d8a38c285ceac48afbef2a5e77de7609e0dfb","features":{"default":["std"],"std":[]},"yanked":false}

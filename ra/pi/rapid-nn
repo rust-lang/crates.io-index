@@ -1,0 +1,1 @@
+{"name":"rapid-nn","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69f292dbdf2dcd9a5e64238e8886f4cd3cf82be24f3f04b07ff2fa9c55d54349","features":{},"yanked":false}

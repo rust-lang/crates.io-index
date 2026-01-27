@@ -1,0 +1,1 @@
+{"name":"atb","vers":"0.1.0","deps":[{"name":"bitfield","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5df4a38a5a86b3382401788adb40911009154f17191b7adc5a5ac42b9629ca08","features":{"default":["std"],"std":[]},"yanked":false}

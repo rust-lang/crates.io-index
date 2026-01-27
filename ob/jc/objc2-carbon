@@ -1,0 +1,3 @@
+{"name":"objc2-carbon","vers":"0.0.0","deps":[],"cksum":"fbaa7589b8dd13bd0f66a7ff6049b302d86f2462eb9306b3cd325fcce7fe9f11","features":{},"yanked":false}
+{"name":"objc2-carbon","vers":"0.3.1","deps":[],"cksum":"4ebdad4169cb6f2aa0992649d501d6e6aab2be7b8c2c0d995819bb36d4f665d3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.71"}
+{"name":"objc2-carbon","vers":"0.3.2","deps":[],"cksum":"1819e58fe713a21174bbbef4e8547a250a1bc21d17ff9938ceef9a7024da40ce","features":{"alloc":[],"default":["std"],"std":["alloc"],"unstable-darwin-objc":[]},"yanked":false,"rust_version":"1.71"}

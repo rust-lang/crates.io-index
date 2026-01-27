@@ -1,0 +1,2 @@
+{"name":"apdex","vers":"0.1.0","deps":[{"name":"yansi","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6c595f2017acd17fff4b2a7657424557cb5bb7237b7de19efd9ce7256bc11c1","features":{"default":["yansi"]},"yanked":false}
+{"name":"apdex","vers":"0.1.1","deps":[{"name":"yansi","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f57c16206ea07169a8772bd1ea2940e5361f5adb423c4598fbd5c05061cb70e","features":{"default":["yansi"]},"yanked":false}

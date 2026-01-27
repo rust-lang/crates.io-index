@@ -1,0 +1,1 @@
+{"name":"doctored","vers":"0.1.0","deps":[{"name":"doctored-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efa65aa871a47d0b9eba60738bc4eb2cc1e90830bf57f346878a7f0fa1106e2c","features":{"guide":["doctored-macros/extras"]},"yanked":false}

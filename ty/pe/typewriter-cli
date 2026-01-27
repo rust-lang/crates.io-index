@@ -1,0 +1,1 @@
+{"name":"typewriter-cli","vers":"1.0.0","deps":[{"name":"clap","req":"^4.2.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2999445dcc191e4e86faf6785d1c5c3fcc0dbd74af1fc3a433ee42bf2f88b108","features":{},"yanked":false}

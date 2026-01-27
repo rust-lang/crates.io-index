@@ -1,0 +1,5 @@
+{"name":"clasp-embedded","vers":"0.1.1","deps":[],"cksum":"a16d02d6134e8e143e03530c60118787cf80a60d6f5c43ae9d43f009773e9080","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-17T00:43:24Z"}
+{"name":"clasp-embedded","vers":"0.1.5","deps":[],"cksum":"f6b01df0b80072aee4af1c9ed0f782cbd61d6630842b7084426ddea658740344","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-17T20:24:46Z"}
+{"name":"clasp-embedded","vers":"0.1.8","deps":[],"cksum":"09acc7fa9e1c95d41ba1f34c505326c51c6dafc82953b862756ee31109a47d9f","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-22T18:56:55Z"}
+{"name":"clasp-embedded","vers":"3.0.1","deps":[],"cksum":"21c46d4c364c191e9dbc068c2a874d8546318542942ddc2a1e4a390cb5e8a090","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-01-24T00:57:58Z"}
+{"name":"clasp-embedded","vers":"3.3.0","deps":[],"cksum":"18385fd2303da5c892f054be4a8725646d2894d145f47bff3434760fe5b839bb","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-01-26T23:26:49Z"}

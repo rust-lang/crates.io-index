@@ -1,0 +1,1 @@
+{"name":"pmse-jsb","vers":"0.1.0-a1","deps":[{"name":"rquickjs","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7222c9c41bd8dc1feaa7678c4b44bc214afffe6688be4ac8a729a06c6e2e0981","features":{"bindgen":["rquickjs/bindgen"],"default":[]},"yanked":false}

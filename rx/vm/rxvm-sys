@@ -1,0 +1,1 @@
+{"name":"rxvm-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e9db7452d14e0030ac480b46e80705aad876fce6280a46be802aca9d2dc1d358","features":{},"yanked":false}

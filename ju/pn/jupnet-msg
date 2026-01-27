@@ -1,0 +1,1 @@
+{"name":"jupnet-msg","vers":"2.1.6","deps":[{"name":"jupnet-define-syscall","req":"=2.1.6","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"solana\")","kind":"normal"}],"cksum":"f5d88a57558a080bcf71443b1e878387034ed8a6ddb07b3e41d2ac3692e217a1","features":{},"yanked":true}

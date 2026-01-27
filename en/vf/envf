@@ -1,0 +1,2 @@
+{"name":"envf","vers":"0.0.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4da049a0dd23ac374c73042328e336151cd42f3f9698b16d1bac6c95bfd43d49","features":{},"yanked":false,"rust_version":"1.74.0"}
+{"name":"envf","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"225c9166e822c22551671ffb61126ccd10fd1e1e2b390bcf90f6513c61330db4","features":{},"yanked":false,"rust_version":"1.74.0"}

@@ -1,0 +1,5 @@
+{"name":"vec_mut_scan","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4d5668931075a8dfe6eb3e9e585d06f0ab4d9b377663e94d135ef51933ff9f6","features":{},"yanked":false}
+{"name":"vec_mut_scan","vers":"0.2.0","deps":[],"cksum":"0fb9ba019b31a854db1fb9f5413725432b52a3c0fc3d36bad60cb33a435aa77e","features":{},"yanked":false}
+{"name":"vec_mut_scan","vers":"0.3.0","deps":[],"cksum":"68ed610a8d5e63d9c0e31300e8fdb55104c5f21e422743a9dc74848fa8317fd2","features":{},"yanked":false}
+{"name":"vec_mut_scan","vers":"0.4.0","deps":[],"cksum":"a24f38c144e0e800ae2950826b67f4fe7f0b5983f7999f8bec5aef472448cb20","features":{},"yanked":false}
+{"name":"vec_mut_scan","vers":"0.5.0","deps":[],"cksum":"2fb1f216233f7cab9c59705c4701f162bfe555d8f6b9098322a0b1fc317b586f","features":{},"yanked":false,"rust_version":"1.36.0"}

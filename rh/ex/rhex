@@ -1,0 +1,1 @@
+{"name":"rhex","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ncurses","req":"^5.86.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d814a06e8702081e995c95667c46b490edc1edbba43d392b135ff91b82924d36","features":{},"yanked":false}

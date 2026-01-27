@@ -1,0 +1,2 @@
+{"name":"wasm-random","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.3.4","features":["wasm_js"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a3269513785eec5ce3d1bfee1195eced19476f8f5fcbcf51f828420ae6077a54","features":{},"yanked":false}
+{"name":"wasm-random","vers":"0.1.1","deps":[{"name":"getrandom","req":"^0.3.4","features":["wasm_js"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0515ad868ebd9b4c5ca2a2f454c56e41607681f0f35ffae1e85c5fa70bd45f27","features":{},"yanked":false}

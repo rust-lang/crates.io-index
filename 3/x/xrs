@@ -1,0 +1,2 @@
+{"name":"xrs","vers":"0.0.0","deps":[],"cksum":"c4d9647cf17895a923b1dbaebdfea7f203f4508a00fc6cc83f1fdd3aa3dd8863","features":{},"yanked":false}
+{"name":"xrs","vers":"0.0.1","deps":[{"name":"xrb","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2c49a41192e12054848ef6487e04dcbadab58a5aa03907138b7633bd78efb15","features":{},"yanked":false}

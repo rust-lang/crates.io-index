@@ -1,0 +1,1 @@
+{"name":"canutils-lib","vers":"0.1.0","deps":[{"name":"claims","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ux","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fd04dc90534bc44b41f806d064948f6d12bb7f5dbcfc493291089a0089868e6","features":{},"yanked":false}

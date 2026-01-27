@@ -1,0 +1,7 @@
+{"name":"adjustp","vers":"0.1.0","deps":[],"cksum":"22d72151d170ce829236d36429327fc1eb7adc628ea76ab7af4d7f5d3bcbedca","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.1","deps":[],"cksum":"b388a3ee1f4d38ffe0ff99e4c599411d7943f80af5a9071fadfbf09994806fe9","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.2","deps":[],"cksum":"5bdb911f2b3ba0fa32e7b19b69fb51140905350c25a395a04eeed9e6137dd7ea","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.3","deps":[],"cksum":"5affa7c776ce8c78f4dede0ca31f28cabba87e583b5e8c0ecf1c511249915168","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.4","deps":[],"cksum":"151571bfc58e15241979bf8efb3b25506a437483101149cdcbc2ff56276da850","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.5","deps":[],"cksum":"425377f7943f1682af587951125b9a85c75b40ee4f41e5511b2c0f84bdca31f4","features":{},"yanked":false}
+{"name":"adjustp","vers":"0.1.6","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0e02cfdd4ee28c4fff044e993a514fd3856b5e1b561a3e882338bcdc55966df","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"known-types-x","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"08a051740de0af9da5c1374a4224a657105d4d866068f2ecc8326b2aa4058830","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"ucs2","vers":"0.1.0","deps":[],"cksum":"8e583483194b07714e09e7f72ae3ed447d17fe6855f66a2ccbf6751e52df82e0","features":{},"yanked":false}
+{"name":"ucs2","vers":"0.1.1","deps":[],"cksum":"c5785c0c7126293303189bfdcbcb62add620395506710fce1b60bfb0550c06b1","features":{},"yanked":true}
+{"name":"ucs2","vers":"0.2.0","deps":[],"cksum":"517566d61c8a1c347e75ef90f70099e27de717f931cc31119ad31544641aca64","features":{},"yanked":false}
+{"name":"ucs2","vers":"0.3.1","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85061f4e43545a613c0da6b87725bf23f8da8613cf2473719c4f71a270c4ce8a","features":{},"yanked":false}
+{"name":"ucs2","vers":"0.3.2","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bad643914094137d475641b6bab89462505316ec2ce70907ad20102d28a79ab8","features":{},"yanked":false}
+{"name":"ucs2","vers":"0.3.3","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df79298e11f316400c57ec268f3c2c29ac3c4d4777687955cd3d4f3a35ce7eba","features":{},"yanked":false,"rust_version":"1.56"}

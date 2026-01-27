@@ -1,0 +1,2 @@
+{"name":"kahan_pairs","vers":"1.0.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"267ee7125a68871d5ae8ed452b4e20c5d84ff955eefb0792ffea0d12dc9d6406","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"kahan_pairs","vers":"1.0.1","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ade4977c8331408c81eb154eb65800fc791357316d724b29b7d107e7cd6fdea4","features":{"default":["std"],"std":[]},"yanked":false}

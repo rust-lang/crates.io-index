@@ -1,0 +1,2 @@
+{"name":"lyris","vers":"0.0.1","deps":[{"name":"lockfree","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a57913892a4909e93e18b1413618fd441578350dc20dc05dbd227d9b333205d","features":{},"yanked":false}
+{"name":"lyris","vers":"0.0.12","deps":[{"name":"lockfree","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09825f4101a5001b50a2f0e5b82333e04d1c458a1f2c970e2347a3c5535899bf","features":{},"yanked":false}

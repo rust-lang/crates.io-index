@@ -1,0 +1,2 @@
+{"name":"tree-graphviz","vers":"0.1.0","deps":[],"cksum":"18f73cbcfb96f01e0a99934f337f53ebdec25385f0cf431ea8139b1916a31a2d","features":{},"yanked":false}
+{"name":"tree-graphviz","vers":"0.2.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"517f701a86caac219d2e0f3398e3c36f6cbd643054007b46dedf34697faa342c","features":{},"features2":{"async":["dep:futures"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"rust-servo","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e09ee7b258fb792c06e128f2e58a9d05ff8e4eda6a9b9e2152a05ffa4fe5671b","features":{},"yanked":false}
+{"name":"rust-servo","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fabef1f746761fd099a147228a65b0c7006914c6be8fdb92a3cb5157b48109c","features":{},"yanked":false}

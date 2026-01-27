@@ -1,0 +1,2 @@
+{"name":"location_info","vers":"0.1.0-alpha","deps":[{"name":"serde","req":"^1.0.136","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcd80d8441d9a71732d8b8dcdef0602ab1b8fedc2a334f93f623cc30c7f8b392","features":{},"yanked":false}
+{"name":"location_info","vers":"0.1.0-alpha-1","deps":[{"name":"serde","req":"^1.0.136","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e494e79f5873d4fc724e2a3a280ddcaf934661ac94ffbf78347e0150cbfa1bc5","features":{},"yanked":false}

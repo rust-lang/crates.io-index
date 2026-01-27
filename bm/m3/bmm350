@@ -1,0 +1,2 @@
+{"name":"bmm350","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52187bccdad9a3bff35b274da2e195371579c18eba15fe0d5770dd514e9a80de","features":{},"yanked":true}
+{"name":"bmm350","vers":"0.0.2","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bee8c55945e2fc45ee74bbda67fcf370704cc209c829e7866ad4c6ab1b64f052","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"word_iter","vers":"0.1.0","deps":[{"name":"nom","req":"^6.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7645d7877e8ac700f8df3e8caa1851b5aa53aa77680edf72fe290f4b346d77ce","features":{},"yanked":false}
+{"name":"word_iter","vers":"0.2.0","deps":[],"cksum":"6d75f9eaf6545d24d5db7f7168b8e7446134d435089b8306d6a17009f5326f7c","features":{},"yanked":false}
+{"name":"word_iter","vers":"0.2.1","deps":[],"cksum":"f68cdd9d59ee7a806569ee7db9acb5a260f59f5b138d889923bb11034347c8ad","features":{},"yanked":false}

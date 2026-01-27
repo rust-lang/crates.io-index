@@ -1,0 +1,2 @@
+{"name":"hglib","vers":"0.1.0","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab20a0bc55448874c792377c3cf1c51c2c1d92ea840a7254587613ea19ac3b2a","features":{},"yanked":false}
+{"name":"hglib","vers":"0.1.1","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245d07da62043750861d44433e0fe8a781b0da44fc8b0d3c840b706cb01eeffb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"neal","vers":"0.1.0-alpha.0","deps":[{"name":"chrono","req":"^0.4","features":["clock","serde"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"543ac3b81e16a493b6b9a46cac5ecceba1486728d688427975d67473c6ba66be","features":{},"yanked":false}
+{"name":"neal","vers":"0.1.0-alpha.1","deps":[{"name":"chrono","req":"^0.4","features":["clock","serde"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4bb76790a6d0b94279f831bdaa56cd88782fe903cc4edeff16b859829f5edf22","features":{},"yanked":false}

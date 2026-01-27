@@ -1,0 +1,1 @@
+{"name":"asynciter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.35.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"580590f29e44a68101fc5b2c262e739a64851c39fb3bb32f5f7e68f85d79108e","features":{},"yanked":false}

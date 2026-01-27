@@ -1,0 +1,2 @@
+{"name":"symengine-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9e651951292d98a83452795d77bfc3a9e1590acda7258c14b6993fdef8f226a2","features":{},"yanked":false}
+{"name":"symengine-sys","vers":"0.1.0+1","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3004d37fe88a408d172b9f79a7ec5a9c6653181891b517c1b4641d31019cde32","features":{},"yanked":false}

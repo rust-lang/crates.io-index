@@ -1,0 +1,2 @@
+{"name":"derangements","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c6e36d7c9853cbb4ad081c4cee904672a41822fba36e59a719106e314ac4c85","features":{},"yanked":false}
+{"name":"derangements","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a19e4ed66f4654c621e71c46737bb44d97aaa231c3892924a1f31328c3f5b35","features":{},"yanked":false}

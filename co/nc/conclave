@@ -1,0 +1,1 @@
+{"name":"conclave","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.210","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a245fe003019058dcc91d9ed79b9b87f4e0b9a79e54f7cc50f13435b029f1105","features":{},"yanked":false}

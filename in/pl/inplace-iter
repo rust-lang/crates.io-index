@@ -1,0 +1,3 @@
+{"name":"inplace-iter","vers":"0.1.0","deps":[],"cksum":"3efaf081e149584e69c8d3e82c566d25a626baf777d1d50a216793d895886149","features":{"default":["loop-lifetime-guard"],"loop-lifetime-guard":[]},"yanked":true}
+{"name":"inplace-iter","vers":"0.2.0","deps":[],"cksum":"625cc07b150b62023180b19db5f5857168d3d8cdf60491210c5b956b613dc215","features":{"default":["loop-lifetime-guard"],"loop-lifetime-guard":[]},"yanked":true}
+{"name":"inplace-iter","vers":"0.3.0","deps":[],"cksum":"d19e5043a746fb05da5fe248adf6845d0fe3f0872ecf9739bef169f32dac6c0d","features":{"default":["loop-lifetime-guard"],"loop-lifetime-guard":[]},"yanked":true}

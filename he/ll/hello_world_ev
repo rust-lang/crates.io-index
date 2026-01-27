@@ -1,0 +1,2 @@
+{"name":"hello_world_ev","vers":"0.1.0","deps":[],"cksum":"0a43a860fc177665a38ab2d93f86a039e30781936625425469b1ff0141e929fd","features":{},"yanked":true}
+{"name":"hello_world_ev","vers":"0.1.1","deps":[{"name":"regex","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cc7f2edaf3e41661485d8b0758a7a09aa73e9440d3e406c58cba4134b8fc4b7","features":{},"yanked":false}

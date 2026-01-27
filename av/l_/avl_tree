@@ -1,0 +1,1 @@
+{"name":"avl_tree","vers":"0.2.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"031400dd97088690364bf3baa9219f64a15367f7e350e36681d7062041f27b34","features":{},"yanked":false}

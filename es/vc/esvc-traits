@@ -1,0 +1,2 @@
+{"name":"esvc-traits","vers":"0.0.0","deps":[{"name":"anyhow","req":"^1.0","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ccc61fe3214f17aab9a7abf93b581bf6ec14091f6d999eb1d36416aabfb6b30","features":{},"yanked":false}
+{"name":"esvc-traits","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ac1e64f236f3e9cb538890bac33b9376065cb7e1db33663edcfb44870151e0ee","features":{},"yanked":false}

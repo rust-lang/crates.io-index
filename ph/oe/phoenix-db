@@ -1,0 +1,1 @@
+{"name":"phoenix-db","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.40.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"630d8cf85fc6555e3823e5c556017bb6a05d49ce8e3e9733ec2a311d269d1a3c","features":{},"yanked":false}

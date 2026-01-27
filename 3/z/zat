@@ -1,0 +1,3 @@
+{"name":"zat","vers":"0.1.0","deps":[],"cksum":"cb35a496b552ed3e215f16c2ed99377116412df1ec581b30cfde0237c0347f3a","features":{},"yanked":false}
+{"name":"zat","vers":"1.0.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3da5625355a231418613553f85c8ae8892509d0e920566515a519d04c26acfa7","features":{},"yanked":false}
+{"name":"zat","vers":"1.1.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"730aa79adab1b4e8614155e59f7195984d208258cbc01efec2f2531fae6d19ea","features":{},"yanked":false}

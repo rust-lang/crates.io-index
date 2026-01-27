@@ -1,0 +1,2 @@
+{"name":"ielr","vers":"0.1.0","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eaac6284470e7d7ca058ab58cc75e4790468b697de417ac7027a12f827f19e6","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"ielr","vers":"0.1.1","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eccece4b1c40d70df49fbdc001b141f614b0c2d9058fa6faecbe55776fa38e9f","features":{},"yanked":false,"rust_version":"1.58"}

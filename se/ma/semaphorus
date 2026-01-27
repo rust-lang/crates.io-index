@@ -1,0 +1,3 @@
+{"name":"semaphorus","vers":"0.1.0","deps":[],"cksum":"af18397058f15294659cd1ae0b924d89d3c335fe0945452c5d38888b1def6c4d","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false}
+{"name":"semaphorus","vers":"0.2.0","deps":[],"cksum":"76feada9fab3f74480f0ff9f130bed95cc195d6b5497bc93ee2be9e75166e54d","features":{"default":["std","wrapper"],"nightly":[],"std":[],"wrapper":[]},"yanked":true}
+{"name":"semaphorus","vers":"0.2.1","deps":[],"cksum":"ac30c328bf66b93cdca3427ba8ddbb3c568152cf7a8289bdc5c30a06b14a79c1","features":{"default":["std","wrapper"],"nightly":[],"std":[],"wrapper":[]},"yanked":false}

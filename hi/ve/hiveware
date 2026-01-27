@@ -1,0 +1,2 @@
+{"name":"hiveware","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b5b2124c340f9233faab01108e1d9eeb70b9789c966ab014a01655d529c755b7","features":{},"yanked":false}
+{"name":"hiveware","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f15ff6b8f9f7057529714866bd6679a1132c6e3ad4ce884f585539eb2d43e2f1","features":{},"yanked":false}

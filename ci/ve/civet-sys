@@ -1,0 +1,8 @@
+{"name":"civet-sys","vers":"0.0.1","deps":[],"cksum":"cd0ac404f3d9cd09e07a576e869b592b1ab1c1223dec42fe57579390e8d27eca","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.1.0","deps":[],"cksum":"350b32570041d1b765074cfca2523d248f28fbcf05d0b149e35a3ce7eeca16be","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.1.1","deps":[],"cksum":"2cb21393beb5414ad71633738e512de7070d336353b473cbca241f77bf777cc3","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.1.2","deps":[],"cksum":"b93e8ac6e970770f4ce88883a6f8de7f99871b87c97195a739d2f89364131ed1","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.1.3","deps":[],"cksum":"153ee3f1ed69ae50c1a2a36fc6df046eb92cf191b605323fbca4e3a381ac0765","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.1.4","deps":[],"cksum":"958d15372bf28b7983cb35e1d4bf36dd843b0d42e507c1c73aad7150372c5936","features":{},"yanked":false,"links":"civet"}
+{"name":"civet-sys","vers":"0.2.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d052aa9df6fb053a714736c3625508f3710e8cf08a10aafc2f8f2be97926d8c7","features":{},"yanked":true,"links":"civet"}
+{"name":"civet-sys","vers":"0.3.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"876910de2615a24211fee8b88e62e2d5f81183ef1af2d827df4471c20319c4a2","features":{},"yanked":false,"links":"civet"}

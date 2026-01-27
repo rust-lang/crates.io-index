@@ -1,0 +1,2 @@
+{"name":"cache_service","vers":"1.0.0","deps":[{"name":"redis","req":"^0.25.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"064b330f9e92d659fcd13aa798fab68c4c4c007ebc0dde8e033d646c6c2384a8","features":{},"yanked":false}
+{"name":"cache_service","vers":"1.1.0","deps":[{"name":"redis","req":"^0.25.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"541963a7c3a347e4e628556d157a0e89e714f048455891a5872f177f79c78011","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"voxel-traversal","vers":"0.1.0","deps":[{"name":"glam","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"647972c15e3790e4f1f48749c7d51c4b7ff82fc2f92cdc178f803a91927e36a6","features":{},"yanked":false}
+{"name":"voxel-traversal","vers":"0.2.0","deps":[{"name":"glam","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5718e87018b5de7f4a2fa167dd49034d318018fdb0f55f721107ec6df26269c","features":{},"yanked":false}
+{"name":"voxel-traversal","vers":"0.2.1","deps":[{"name":"glam","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c7c51526b2420953692b8d601af5f7043e54a49ad9e07812bab7d5754793e06","features":{},"yanked":false}
+{"name":"voxel-traversal","vers":"0.3.0","deps":[],"cksum":"9def307b3a56465048df083823cf645dba0fdcb33de04d035366e0a07ad634e4","features":{},"yanked":false}

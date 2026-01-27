@@ -1,0 +1,2 @@
+{"name":"spreadsheet-maker","vers":"0.1.0","deps":[{"name":"image-builder","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d40440d5f074f05304e07e437a9e7aa755368274eb3ad7c15d9440f2b23d8e9","features":{},"yanked":false}
+{"name":"spreadsheet-maker","vers":"0.2.0","deps":[{"name":"image-builder","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"865c1c713593a10bd770fc19c63ab528df787c7a5c34d0b5f3b527ef646626b4","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"two_phase_interner","vers":"0.1.0","deps":[{"name":"leb128","req":"^0.2.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70aa3a2dfb30a1c017aa595820b7b25704a657d01765dba0f167469457817b06","features":{},"features2":{"default":["serialize"],"serialize":["dep:leb128"]},"yanked":false,"v":2}

@@ -1,0 +1,1 @@
+{"name":"create_rust_lib_template","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.17.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6466e7a30e3c8981d2f248261e363f802ccb71442ea1a0b5a1b7a9739f5a6edd","features":{},"yanked":false}

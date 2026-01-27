@@ -1,0 +1,1 @@
+{"name":"http-sender","vers":"0.0.0","deps":[{"name":"http","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"http-body","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8a265316c636e5a50879cbd00b10ccaddb57a78241ca551d9d5ea698765c742","features":{},"yanked":false}

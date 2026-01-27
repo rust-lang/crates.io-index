@@ -1,0 +1,2 @@
+{"name":"rand-select","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83afcf75ffba99fc786cd77e4441c7d182545a551701d065615a1c3f40a6cdbf","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"rand-select","vers":"0.2.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97b83626eb6fab720ac16c8f44c58a77c39bda2febc359383dfd1b25d39bb096","features":{},"yanked":false,"rust_version":"1.85"}

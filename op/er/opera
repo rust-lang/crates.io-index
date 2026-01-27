@@ -1,0 +1,2 @@
+{"name":"opera","vers":"1.0.0","deps":[{"name":"trybuild","req":"^1.0.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c8f1a617086f509419eb3c0d61a90d1dc1b50e87cc2cb20d7ffe87f69eb74c7","features":{},"yanked":false}
+{"name":"opera","vers":"1.0.1","deps":[{"name":"trybuild","req":"^1.0.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5444847837ad2026bf6addabcf0c3c25bf3e9f92e435dedb555f4a6a0180ded1","features":{},"yanked":false}

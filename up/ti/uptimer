@@ -1,0 +1,1 @@
+{"name":"uptimer","vers":"0.2.1","deps":[{"name":"windows","req":"^0.58.0","features":["Win32_Foundation","Win32_System_Threading","Win32_System_SystemInformation","Win32_System_Time"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"01d7593763e3e5d2d69a43a9c692c5deab2c0a4d5628b64bd627e84198c30cd5","features":{},"yanked":false}

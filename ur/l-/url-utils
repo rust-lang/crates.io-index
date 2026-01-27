@@ -1,0 +1,5 @@
+{"name":"url-utils","vers":"0.1.0","deps":[],"cksum":"ab146935b9239fc55cc4a3ad7e5801596b2e32bdf7898c63eae51a3884d02e66","features":{},"yanked":false}
+{"name":"url-utils","vers":"0.1.1","deps":[],"cksum":"abf4775c7b98ecd5d7032cfcfd5cd57c59329662c67e6182f7bddb56c9a15348","features":{},"yanked":false}
+{"name":"url-utils","vers":"0.1.2","deps":[],"cksum":"23cce23edad9c51c239d72ccba1771032fe7a18f1a3972d1e0de9306be124632","features":{},"yanked":false}
+{"name":"url-utils","vers":"0.2.0","deps":[{"name":"cbindgen","req":">=0.24.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"2739af0180013793aa68dd68c3e3a0d197c52d4cc5a797e45a49b9c4d622e033","features":{"default":["std"],"std":[]},"features2":{"bindings":["dep:cbindgen"]},"yanked":false,"v":2}
+{"name":"url-utils","vers":"0.3.0","deps":[{"name":"cbindgen","req":">=0.24.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"e106a7db42029053234342d77db1c50204f8f439380fb3451ea113ecf787d727","features":{"default":["std"],"std":[]},"features2":{"bindings":["dep:cbindgen"]},"yanked":false,"v":2}

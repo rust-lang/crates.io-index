@@ -1,0 +1,7 @@
+{"name":"rustdllproxy","vers":"0.1.0","deps":[],"cksum":"ee26a3efcb2956f596d214bc47e16349f3f682114e1bf8fc4b3ee5d830ea5990","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"0.1.1","deps":[],"cksum":"9d15e08ed196f497c04324f9b2a2462dc1aae59502f05454516947821bd056bb","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"0.1.2","deps":[],"cksum":"81d6d0e58d68a65f74d98206e7cc0f9200bc2f8d88a2f63997a9d7700ec90a73","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"2.0.0","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f78e79c4bfa2ca8a1cd49257c622f7877b0b119bf8d64c4f74d124a34a9fa2a6","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"2.0.1","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"249f75f2269c0f35c094f1276a3caa95e8433b64079bfa1b14423d25eab0eaa6","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"2.0.2","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccfb20f545a99f084b2760de18b945bd7e4edb5adb0eb55c73df3d41fbb6782e","features":{},"yanked":false}
+{"name":"rustdllproxy","vers":"2.0.3","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9770e6584ac412bd5f6c11c1586faa9eeece55850f0cce7d02785d74a264068e","features":{},"yanked":false}

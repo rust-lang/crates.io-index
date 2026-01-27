@@ -1,0 +1,2 @@
+{"name":"yt_tsu","vers":"0.1.0","deps":[{"name":"mpeg2ts","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd9ec4c70867cf4a08d56895da7761d801b999f49d29e79120d257c7ea4a6795","features":{},"yanked":false}
+{"name":"yt_tsu","vers":"0.1.1","deps":[{"name":"mpeg2ts","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c356096c2e83989b742fccf96f1a2b84dd42eedd6e27e791af780b7e04fadb36","features":{},"yanked":false}

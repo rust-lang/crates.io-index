@@ -1,0 +1,2 @@
+{"name":"ini_core","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c643e609d9b58927a992b1f9e45d044d7b84685e37ca617acc6f160e4e6b95","features":{},"yanked":false}
+{"name":"ini_core","vers":"0.2.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a467a31a9f439b5262fa99c17084537bff57f24703d5a09a2b5c9657ec73a61","features":{},"yanked":false}

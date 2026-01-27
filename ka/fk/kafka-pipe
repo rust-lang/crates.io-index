@@ -1,0 +1,1 @@
+{"name":"kafka-pipe","vers":"0.0.0","deps":[{"name":"rdkafka","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75ffc9d43ab23e6349204bbbd4c0aa95e2209b39765b6017d10f65d74227bfdd","features":{},"yanked":false}

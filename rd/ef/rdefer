@@ -1,0 +1,1 @@
+{"name":"rdefer","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07852b3eb6d0fec0dbd9f9d86b22a71edd6741f49dfac994c4225add77c10ea6","features":{"async":["tokio"],"default":[]},"yanked":false}

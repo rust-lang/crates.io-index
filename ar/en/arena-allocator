@@ -1,0 +1,1 @@
+{"name":"arena-allocator","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_os = \"windows\"))","kind":"normal"}],"cksum":"69a8e24476245c0269e8f7601670b766a08c6301e65dfe1846a618d2b9d4f052","features":{},"yanked":false}

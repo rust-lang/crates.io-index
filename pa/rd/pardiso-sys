@@ -1,0 +1,2 @@
+{"name":"pardiso-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f68ece07c0257e78c9f2a1d654a4477d152163e2c710bb8be245af61add21671","features":{},"yanked":false}
+{"name":"pardiso-sys","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fce71caba0aeb843c9c9aea942a3b7fcb82adcfc7dc332b04e544e456a1b6c6","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"say-hello-paldi","vers":"0.1.0","deps":[],"cksum":"e134617b511c592d5d6b84637d0501120598d1a6246943df3ea542076f74b1e6","features":{},"yanked":false}
+{"name":"say-hello-paldi","vers":"0.1.1","deps":[],"cksum":"d861ef828cdd679f0328159cea4c13782cbd62873fda27af9a356b44377f0c80","features":{},"yanked":false}
+{"name":"say-hello-paldi","vers":"0.2.0","deps":[],"cksum":"fa740490c9b7f907dd29528e771205178bd734b886d59de021bd46f1259dfb8d","features":{"all":["hello","bye"],"bye":[],"hello":[]},"yanked":false}

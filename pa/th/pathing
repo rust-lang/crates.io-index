@@ -1,0 +1,1 @@
+{"name":"pathing","vers":"0.0.0","deps":[{"name":"smallvec","req":"^2.0.0-alpha.11","features":["extract_if","specialization"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f872025670bfab3073fe07c364e5a59c95f63040cddaf2db580bb98058fba5dc","features":{"nightly":["smallvec/may_dangle"]},"yanked":false,"rust_version":"1.85.0"}

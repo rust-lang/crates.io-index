@@ -1,0 +1,4 @@
+{"name":"hexpawb","vers":"0.1.0","deps":[],"cksum":"9c4a9f48c8ece6705bee0087fe163bac1d9427168126857d8553815ea4369833","features":{},"yanked":false}
+{"name":"hexpawb","vers":"0.0.1","deps":[],"cksum":"699fe76e53f347e281e199f59dcb07e0eac5ba9e0eb4a35a9e9567fb06aebd48","features":{},"yanked":false}
+{"name":"hexpawb","vers":"0.1.1","deps":[],"cksum":"5eb92ec20153bc4052562754726fe33db20f5a9d8d70ecc219233d02372a021b","features":{},"yanked":false}
+{"name":"hexpawb","vers":"0.1.2","deps":[{"name":"futures","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"846b3019f27cf7b2714aa648de05f55d41b3a9aac8cd805ebef6af512e414896","features":{"dangerous-low-level-bits":[]},"yanked":false}

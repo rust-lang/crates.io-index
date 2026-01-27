@@ -1,0 +1,1 @@
+{"name":"angrylion-rdp-plus","vers":"0.1.0","deps":[{"name":"angrylion-rdp-plus-sys","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"586ebfa1fe6ddd2bab250f91b0a7e5a571ef6738512ebaac3acc591a1f78da43","features":{"build":["angrylion-rdp-plus-sys/cc"],"default":["angrylion-rdp-plus-sys/build"]},"yanked":false}

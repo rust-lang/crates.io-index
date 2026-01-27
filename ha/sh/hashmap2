@@ -1,0 +1,2 @@
+{"name":"hashmap2","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ebcc351e646e04a83845d5f9fa12ab1bb46e5bd1f8b27ad20967eef4883996","features":{},"yanked":false}
+{"name":"hashmap2","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a6e424b67dbf0cafca7a4010c0d9b4db1de75f39e334d4cfbac62966bd8bf0f","features":{},"yanked":false}

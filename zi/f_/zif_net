@@ -1,0 +1,2 @@
+{"name":"zif_net","vers":"0.0.1","deps":[],"cksum":"7d1a2e994aa15bf948fe5b07477ecdf57bb0ca6f5277f10da8c1602d22e6f87c","features":{},"yanked":false}
+{"name":"zif_net","vers":"0.1.0","deps":[{"name":"tiny_http","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zif_identity","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8104ec2e2df52b4fe126fe6204e5d58c9cb960b747f83616e2d1ca653d39c71","features":{},"yanked":false}

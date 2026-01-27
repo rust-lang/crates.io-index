@@ -1,0 +1,1 @@
+{"name":"process_macros","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ecfcd7b51a1b9249fb47359a9f8d57a9e9dbc71857c5cfd08f98764f7106a3d","features":{},"yanked":false}

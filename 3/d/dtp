@@ -1,0 +1,1 @@
+{"name":"dtp","vers":"0.0.1","deps":[{"name":"bytes","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dev_utils","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1755b6e95be2ac9b4c35bdc018dc61a3e6bc1a6419354503da239bb2e830435e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"panicui","vers":"0.1.0","deps":[{"name":"fltk","req":"^1.3.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4ed19ff59fd7f9033ad171886c4a4a4b8030b438c975d673ddb88d9722e9c6a","features":{"bundled":["fltk/fltk-bundled"],"default":["bundled"],"shared":["fltk/fltk-shared"]},"yanked":false}

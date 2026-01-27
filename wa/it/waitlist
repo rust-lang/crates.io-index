@@ -1,0 +1,2 @@
+{"name":"waitlist","vers":"0.1.0","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a31b570df930978c5b88efa88172614ed5d5a36a91c7ba5257481edf7f5e316e","features":{},"yanked":false}
+{"name":"waitlist","vers":"0.1.1","deps":[{"name":"futures-task","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e2d9889750fe4a03ad3a6712210d1b6a38c88ab397020ebfa44074798f61822","features":{},"yanked":false}

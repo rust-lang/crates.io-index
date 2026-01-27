@@ -1,0 +1,1 @@
+{"name":"krebs","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6860432834ab33e6c260143febc854a0355f19b800c14afbaf5e36eae86cd35a","features":{},"yanked":false}

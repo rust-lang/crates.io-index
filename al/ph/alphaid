@@ -1,0 +1,2 @@
+{"name":"alphaid","vers":"0.1.0","deps":[],"cksum":"dbf46aa28e023ef089846d58f23716c5647b2390db4a799d59809daa915c0958","features":{},"yanked":false}
+{"name":"alphaid","vers":"0.2.0","deps":[{"name":"num","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca324670720f42fe94a3cc80fee674ade9eae2b0aa0adab9947420bce41a2ac6","features":{},"yanked":false}

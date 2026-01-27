@@ -1,0 +1,2 @@
+{"name":"remove-markdown-links","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fca63ac6d4c84f8955c26fdfdfbaf4a222330755a18c7d511fe82caf71cdba3b","features":{},"yanked":false}
+{"name":"remove-markdown-links","vers":"1.0.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f12300eb28972e58b37a90854ec8a8f58e762e526f3c429a350879a8d4cbbeb","features":{},"yanked":false}

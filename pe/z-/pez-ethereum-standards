@@ -1,0 +1,2 @@
+{"name":"pez-ethereum-standards","vers":"0.1.0","deps":[],"cksum":"be6597509fd19fb978cccd6be715cb0a5c843e496ee9bc8d1bf6596630273783","features":{},"yanked":false,"pubtime":"2025-12-14T13:37:17Z"}
+{"name":"pez-ethereum-standards","vers":"0.1.1","deps":[{"name":"alloy-core","req":"^1.2.1","features":["sol-types"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"06e1449b6fe1fd19043d292f3c14735d5d8b2b454f73839e887e5a5ebe23f112","features":{},"yanked":false,"pubtime":"2026-01-01T09:22:22Z"}

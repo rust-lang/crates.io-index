@@ -1,0 +1,2 @@
+{"name":"shellexpand-fork","vers":"2.1.1","deps":[{"name":"dirs-next","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b9b96d72c00ea377d8dfe6177badd0a6f42b4cb3122479ffe44fee2532d85ee","features":{},"yanked":false}
+{"name":"shellexpand-fork","vers":"2.1.2","deps":[{"name":"dirs","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"301e60590adf358d26f97b47efe432d45e91582877ada79520b01ec442da43aa","features":{},"yanked":false}

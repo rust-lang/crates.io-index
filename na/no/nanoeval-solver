@@ -1,0 +1,1 @@
+{"name":"nanoeval-solver","vers":"0.0.1","deps":[{"name":"nanoeval-primitives","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1e08dabae98754333666c6d671ae7613ca7f772cd8d02f6e9c0088c885e736b4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88"}

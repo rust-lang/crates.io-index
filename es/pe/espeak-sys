@@ -1,0 +1,2 @@
+{"name":"espeak-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa9d2c58796f656421bf21fa81cb9259d067cc2318baa8f197edbad3fae914e","features":{},"yanked":true}
+{"name":"espeak-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc1930b0dbd31d3c8be5dc5f0a3729f009b12016e69cbe757cc561bcd367a842","features":{},"yanked":false}

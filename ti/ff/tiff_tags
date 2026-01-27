@@ -1,0 +1,4 @@
+{"name":"tiff_tags","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"947e11af9e8f7f88443677e69b8b2d0c597699b700aeff4862b211d6c51731fd","features":{},"yanked":true}
+{"name":"tiff_tags","vers":"1.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ab509f33304f9e0acfd8f40dc321adc172e8e46d278866d6fcd7119b3cd19f7","features":{},"yanked":false}
+{"name":"tiff_tags","vers":"1.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a18954e2082d076aef40f159659f1e7b36f35d11b78a5d1de55bb921287336c2","features":{},"yanked":false}
+{"name":"tiff_tags","vers":"1.3.0","deps":[],"cksum":"8e65449ec0f5cb9aede11216c2895871ab9c861532ca37dc5b44649e3ec0df7c","features":{},"yanked":false}

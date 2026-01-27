@@ -1,0 +1,1 @@
+{"name":"rs-ints2arrow","vers":"0.1.0","deps":[{"name":"arrow","req":"^56","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e2b25a38bab735003077309a02eef6f22019c8ac52f5a56d07e81c6d3e365c27","features":{"default":["sync","fs"],"fs":[],"sync":[]},"yanked":false}

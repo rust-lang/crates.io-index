@@ -1,0 +1,2 @@
+{"name":"topq","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59c227ff37ebf0ab8b97337c3be55605c46acd8ace854e6d4e6eb8d92d8d7b04","features":{},"yanked":false}
+{"name":"topq","vers":"0.2.0","deps":[{"name":"generic-array","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf8585381a0a86be7751f9514a14acdc86cf79b4bcd838ddb7482ede444de3fc","features":{},"yanked":false}

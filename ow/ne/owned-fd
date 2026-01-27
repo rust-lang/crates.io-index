@@ -1,0 +1,1 @@
+{"name":"owned-fd","vers":"0.1.0","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c90ca22499fa3634b6d50c16cd5d73f36f2a02052cc943cfaf4f645636c53ad2","features":{},"yanked":false}

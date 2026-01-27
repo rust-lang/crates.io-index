@@ -1,0 +1,1 @@
+{"name":"kdmapi","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["libloaderapi","errhandlingapi","sysinfoapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9f7e93385b644ce5c0283f9e94e282c01a4b7d9ca2087a188948b2621fee7ee","features":{},"yanked":false}

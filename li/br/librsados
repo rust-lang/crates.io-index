@@ -1,0 +1,1 @@
+{"name":"librsados","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.31","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3dda2e2f3f508341bbc22d733c90b56ed8e7e0475b10414648c053ded03bca26","features":{},"yanked":false}

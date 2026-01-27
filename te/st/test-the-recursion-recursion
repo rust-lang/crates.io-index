@@ -1,0 +1,2 @@
+{"name":"test-the-recursion-recursion","vers":"0.1.0","deps":[],"cksum":"3925fa2b9604ca69f1cea339bb92194f1a686182ce8f698d1569166d66653b49","features":{},"yanked":false}
+{"name":"test-the-recursion-recursion","vers":"0.1.1","deps":[{"name":"test-the-recursion","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62248ba0d5642c0b70c303cbb3fa69c40389571dab7742b8c4aee9eefab52946","features":{},"yanked":false}

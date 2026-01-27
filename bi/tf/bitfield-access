@@ -1,0 +1,2 @@
+{"name":"bitfield-access","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63081f8691568e7665217409e7c1d1151f05d35c3ce5fdeea0be05ee9fecdbad","features":{},"yanked":false}
+{"name":"bitfield-access","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"598efd524b346b46ddd5ce7e421f6d52185bdb34fd4c5693f7710b25a98a42fa","features":{},"yanked":false}

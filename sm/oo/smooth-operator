@@ -1,0 +1,1 @@
+{"name":"smooth-operator","vers":"0.7.2","deps":[{"name":"smooth-operator-impl","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b6dece39b9b4d19edc6399498b056d1511135b70b5adf7822affdedf5715598","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"nanomp3","vers":"0.0.0","deps":[],"cksum":"d21aa4ce0de50a74d57d77b26a4a6bef0107740bc59c5216febf9108cd5c9235","features":{},"yanked":false}
+{"name":"nanomp3","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"10f3fb6eff93ea822c03c3806c961d5d8d9b72c7250f3b0190b9f7f7aea4e21a","features":{},"yanked":false}
+{"name":"nanomp3","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f69bdf7e634dc76798adc292ebd4f6e8e125cde6843a264fe398c52c3f7e8541","features":{},"yanked":false}

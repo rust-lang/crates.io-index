@@ -1,0 +1,3 @@
+{"name":"damn","vers":"0.1.0","deps":[],"cksum":"3734540edf26cb5444341722dfd5284984f1914528c3bcfdfa5fab44c7ef3ccd","features":{},"yanked":false}
+{"name":"damn","vers":"0.1.1","deps":[],"cksum":"2dbf73518f0df121690f4487c418066ddea798a8a1a3b029e05bbd83235538ab","features":{},"yanked":false}
+{"name":"damn","vers":"0.1.2","deps":[{"name":"damn-core","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1826e2fbdd5ec46063ecc86515c4782f1905dcea6a470712b9ff6070b9a73f0","features":{},"yanked":false}

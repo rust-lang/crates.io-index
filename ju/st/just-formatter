@@ -1,0 +1,2 @@
+{"name":"just-formatter","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"498b8fb49fb6eaa9cd200731f55a9f39ea72011de4296f66eb652b02d34483a5","features":{},"yanked":false}
+{"name":"just-formatter","vers":"1.1.0","deps":[{"name":"tempfile","req":"^3.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"743c02cfbc2252ee288e2d799dba15c5f397f2777334f8e2c49d2786d19fecec","features":{},"yanked":false}

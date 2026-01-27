@@ -1,0 +1,2 @@
+{"name":"tycho-quoter","vers":"0.1.0","deps":[],"cksum":"0269e750fa4476bf2002b136cfabf465cd4c6a0dd3e37f39099d51f83e40aa16","features":{},"yanked":false}
+{"name":"tycho-quoter","vers":"0.1.1","deps":[{"name":"tycho-client","req":"^0.78.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tycho-common","req":"^0.78.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78584da990d9c043afe9dc404718f71217ac8a7e2c45b44ae3d3afcceee7229e","features":{},"yanked":false}

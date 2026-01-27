@@ -1,0 +1,1 @@
+{"name":"rs-dir2zips2count","vers":"0.1.0","deps":[{"name":"zip","req":"^5","features":["deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"400e7f9e307164b1639ec950b80505a7ce457b4c62f0e6a0bca2260cd4202e18","features":{},"yanked":false}

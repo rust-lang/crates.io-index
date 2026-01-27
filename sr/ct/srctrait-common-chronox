@@ -1,0 +1,3 @@
+{"name":"srctrait-common-chronox","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f781f579876b3d00f05fcf9e4cb5c9d6898a40bb891665c8af6a0768c0c86ff3","features":{},"yanked":true}
+{"name":"srctrait-common-chronox","vers":"1.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fac48090fe93566a095979a1db942dc49ae0a9e754843585ede9e49c0ed931bd","features":{},"yanked":true}
+{"name":"srctrait-common-chronox","vers":"0.0.0-deprecated.1","deps":[],"cksum":"25422f37f9b8316c297d6be619e9dd25b2e3070fb1c4868a5536fca199a0a734","features":{},"yanked":false}

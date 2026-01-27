@@ -1,0 +1,1 @@
+{"name":"atomic-slot","vers":"0.1.0","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"018de9a99c5df16156fbcf72db09a4a449cc14b4c91e1d0f48b922986d6ea7fd","features":{"default":["std"],"std":[]},"yanked":false}

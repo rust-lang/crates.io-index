@@ -1,0 +1,4 @@
+{"name":"fmt2io","vers":"0.1.0","deps":[],"cksum":"c9db8691f0820ad11ce6eb94057d0dd9c456500da04da0c12a85c90d6f979cc9","features":{},"yanked":false}
+{"name":"fmt2io","vers":"0.2.0","deps":[],"cksum":"9404d2b1fefa46590726ba6c729bfb18ac6e2a2efdfb094aeb53df1c0436376f","features":{},"yanked":false}
+{"name":"fmt2io","vers":"1.0.0","deps":[],"cksum":"6b6129284da9f7e5296cc22183a63f24300e945e297705dcc0672f7df01d62c8","features":{},"yanked":false}
+{"name":"fmt2io","vers":"0.2.1","deps":[{"name":"fmt2io","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dee9877ade4a16632456d486a9cbf101f7211b2b8ed1ba3411d9eec6e742360","features":{},"yanked":false}

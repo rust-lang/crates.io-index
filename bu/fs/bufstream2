@@ -1,0 +1,2 @@
+{"name":"bufstream2","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a09cc2c3b8a551e174d040419010d8cbbbf5b58427a8401e6562d1923e68077","features":{},"yanked":true,"rust_version":"1.70"}
+{"name":"bufstream2","vers":"0.2.0","deps":[],"cksum":"77043d1d11cf4a47fc9e7a5ea9aac619ea9ed00a27b3416be726d7d99d864dcc","features":{},"yanked":true}

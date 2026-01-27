@@ -1,0 +1,2 @@
+{"name":"optionee","vers":"0.1.0","deps":[],"cksum":"f47cfebcb4c41b7d25a3de619e8d365d6bae067f7593479773a0810c455f77d5","features":{},"yanked":false}
+{"name":"optionee","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a0526415acf726a9d742d032fd7014abacf2880c1eacf010d7ff54c940028a3f","features":{"default":["std"],"std":["anyhow/default"]},"yanked":false}

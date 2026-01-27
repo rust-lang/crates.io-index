@@ -1,0 +1,5 @@
+{"name":"nanoid-dictionary","vers":"0.1.0","deps":[],"cksum":"baa724b54b59bab0942c40bb0dfc22ba495b122152cdf56af4c914012e3cedf7","features":{},"yanked":false}
+{"name":"nanoid-dictionary","vers":"0.1.1","deps":[],"cksum":"9da35707acb4505f68209974e012bb729c702a732bdfc40a80ec06999e9b6426","features":{},"yanked":false}
+{"name":"nanoid-dictionary","vers":"0.4.1","deps":[{"name":"nanoid","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"24ee939ccbe0b6939c43de908ac42d585d5163f3bec771368aa919627b03c725","features":{},"yanked":false}
+{"name":"nanoid-dictionary","vers":"0.4.2","deps":[{"name":"nanoid","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0de0c4d668286dfab55f5c726bcbe21cae379f70d82067f600cbbb2f00a0d5cc","features":{},"yanked":false}
+{"name":"nanoid-dictionary","vers":"0.4.3","deps":[{"name":"nanoid","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c6e9131c818f6826271c255f7323d1fcc9332c54b7cfb6c664ec506595d5d8e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"include_glob","vers":"0.1.0","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c67586c4820810a994ce8080ea835f0a35618c0f3c5e4fad494d3b77ef424fac","features":{},"yanked":false}
+{"name":"include_glob","vers":"0.2.0","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"593d2261ebf84d27a3ca7d7b42eaf3a3a78525a0ecef9dadfd00ede78e3ffcfa","features":{},"yanked":false}

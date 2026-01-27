@@ -1,0 +1,1 @@
+{"name":"clockctrl","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.0","features":["unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28d2eb702bab29f785171bba1e5a9682808d8ff79d372fff23ae1eee19655153","features":{},"yanked":false}

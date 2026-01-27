@@ -1,0 +1,1 @@
+{"name":"test-rust-publish","vers":"0.2.0","deps":[{"name":"wasmer","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"wasmer"}],"cksum":"1c013737f7ec4f2cf0fb753f0282270ec953b10a75e3cca63d5e7fe7adb79669","features":{},"yanked":false}

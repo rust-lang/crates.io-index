@@ -1,0 +1,3 @@
+{"name":"pierce","vers":"0.1.0","deps":[],"cksum":"092c79c2dc9a438b435bfca5ee1fa00ad21630c896472ea9dce550ff03a2ebf5","features":{},"yanked":false}
+{"name":"pierce","vers":"0.2.0","deps":[],"cksum":"37bae33b8207345b33011874a44bdc5a683041ac7f1603f05cc8e3034f38e2cb","features":{},"yanked":false}
+{"name":"pierce","vers":"0.3.0","deps":[{"name":"stable_deref_trait","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73459f92516e404e51a33bfd7d5b0155269b2093628ad30847e21b295a50bf7","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"sipcore","vers":"0.0.0","deps":[],"cksum":"b6e957930d7e98e593f04633bd21b549481ddf543afc1d416981aadbeb2b0419","features":{},"yanked":false}
+{"name":"sipcore","vers":"0.0.1","deps":[{"name":"sipmsg","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3010e003a47b4f4e2635dfa58229b231f1419a17f4edc02e711bbcf484aae326","features":{},"yanked":false}
+{"name":"sipcore","vers":"0.0.2","deps":[{"name":"sipmsg","req":"^0.2.0-beta","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5da00869e4925b400d61d5a972b78bda4a1b6787bb6b05ab194bceb4fd29100","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"basic_game_of_life","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b91db5ca373c7c34ff1521955ca5d908b49c793dfbdda294dc00ef8094a46f75","features":{},"yanked":false}
+{"name":"basic_game_of_life","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e7fbe54bfa733f6beebe91133355f2c2703480dfa4dec36f7006cb28ae2548a","features":{},"yanked":false}

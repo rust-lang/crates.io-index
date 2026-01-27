@@ -1,0 +1,5 @@
+{"name":"nstd_os","vers":"0.1.0","deps":[{"name":"platforms","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e11f78a19449efb07cafb471e40a5a0882ddd0402a295829dbb81df2ef58da0","features":{},"yanked":false}
+{"name":"nstd_os","vers":"0.2.0","deps":[],"cksum":"7958dd7d0c96a2c5d73e48d4cccba85dbe2a0868b0053e85f0bbc0c56e8ba2f4","features":{"clib":[]},"yanked":false}
+{"name":"nstd_os","vers":"0.3.0","deps":[],"cksum":"065f309ddbb66a3d027ff3aa55c41b0381c3abde58d882912fa65046d87d076c","features":{"clib":[],"deps":[]},"yanked":false}
+{"name":"nstd_os","vers":"0.4.0","deps":[],"cksum":"fa22c798edb006921cb17e6f063273cdc929f8e06a1d11bfb76fd56111075cd8","features":{"clib":[],"deps":[]},"yanked":false}
+{"name":"nstd_os","vers":"0.5.0","deps":[],"cksum":"0f7eb8a611bbcab95b349d4dc73255bc3088dfabac4985c73925e2a58179d3fd","features":{"clib":[],"deps":[]},"yanked":false}

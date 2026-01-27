@@ -1,0 +1,12 @@
+{"name":"signifix","vers":"0.1.0","deps":[],"cksum":"29050c8ab4a8875c5ed153c5f168f7bfedc0cd2275e666e616f239a93b447c7b","features":{},"yanked":false}
+{"name":"signifix","vers":"0.2.0","deps":[],"cksum":"e8d5ac9e59f6380ac9fd80f4099004c10b820696e732fd8bcf0cf9563e8c06f1","features":{},"yanked":false}
+{"name":"signifix","vers":"0.3.0","deps":[],"cksum":"e7f0d1c0dbd2c84b4a6222995a55bb30095743aa22bcb72ddab52e69d1bf90f0","features":{},"yanked":false}
+{"name":"signifix","vers":"0.4.0","deps":[],"cksum":"fac5a7b93d900ec7a225d469fab553b789c78fa9ad6e0e5acf4737776f992ce7","features":{},"yanked":false}
+{"name":"signifix","vers":"0.4.1","deps":[],"cksum":"f2373869e6c7c01c30bea4e8d8fec40f76427ecd633416b9d7d58fed9cb06f8c","features":{},"yanked":false}
+{"name":"signifix","vers":"0.5.0","deps":[],"cksum":"d91a93bf9f1539bda5b8358ba5a7e4dad52c955e5543a2d9444700ab6e54e162","features":{},"yanked":false}
+{"name":"signifix","vers":"0.6.0","deps":[],"cksum":"cf4f21603468e8960580e057ec5f4c5dd4f6f288097e7f13b79ca72b04d15778","features":{},"yanked":false}
+{"name":"signifix","vers":"0.7.0","deps":[],"cksum":"2d9fd21e776312243454660cee367a514c1bb94db8373ec1a38a855298a5ac1d","features":{},"yanked":false}
+{"name":"signifix","vers":"0.8.0","deps":[],"cksum":"fa776635e94f7e1c1544eb6857891380165b4d048acac2f7f65c09eb89da4f23","features":{"nightly":[]},"yanked":false}
+{"name":"signifix","vers":"0.9.0","deps":[],"cksum":"fa4e7c020fda4e96632547fb7f94271f1ed231033cdc2e4f3a25bb9489cf4f01","features":{"nightly":[]},"yanked":false}
+{"name":"signifix","vers":"0.10.0","deps":[{"name":"err-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b29224d3ee848fb316ce90d8b7da7914be0f8a7bf097d3834a2a0cc498666680","features":{},"yanked":false}
+{"name":"signifix","vers":"0.10.1","deps":[{"name":"err-derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b4733f5e2518ec17dba34bb9b6d7c1cb54150d6d9750ec3be208a822baaa132","features":{},"yanked":false}

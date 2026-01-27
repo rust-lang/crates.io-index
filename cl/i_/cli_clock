@@ -1,0 +1,2 @@
+{"name":"cli_clock","vers":"0.0.1","deps":[],"cksum":"44fbdbc21cd37794e8b6ab6fde4c0fe5565a1150f34da09894ad39e25fc4b528","features":{},"yanked":false}
+{"name":"cli_clock","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff6631326ae0583e052016caf5b22d62844f1147e8311413f19529abb66aff48","features":{},"yanked":false}

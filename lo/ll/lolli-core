@@ -1,0 +1,2 @@
+{"name":"lolli-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b47a955ce5fb495102826ca5ffda7451479ed83788cc9cdc733737df5a6334f","features":{},"yanked":false}
+{"name":"lolli-core","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b50307362a21bf79eab9bc446419418a61007a0b48dc6d98edb5f6eb3b07cbf5","features":{},"yanked":false}

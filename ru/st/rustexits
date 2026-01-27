@@ -1,0 +1,2 @@
+{"name":"rustexits","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"5ed4bf84dac12b204b993b3e76470e305737b96dcc9fb47c13dcc8e81951c310","features":{},"yanked":true}
+{"name":"rustexits","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"adec8eccfa1ce57fa27c91c89447d78d36fd3d4facee7c49fd322e88c4878112","features":{},"yanked":false}

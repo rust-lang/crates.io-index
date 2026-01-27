@@ -1,0 +1,2 @@
+{"name":"fixed-size-allocator","vers":"0.1.0","deps":[{"name":"const-assert","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0456b271a4ea118c0448839c637c76f77de502c8786b59b3843acf323054f7b4","features":{},"yanked":false}
+{"name":"fixed-size-allocator","vers":"0.1.1","deps":[{"name":"const-assert","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43496b217c0fc804d6ea842ed49889eb1f4b21f936b67cb648feaccb1dce9fd8","features":{},"yanked":false}

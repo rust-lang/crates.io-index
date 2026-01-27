@@ -1,0 +1,2 @@
+{"name":"blake2b-pow","vers":"0.1.0","deps":[{"name":"blake2-rfc","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b17808b7d62a8dbd3660a3bf4ee4484034f13974d6028d2352a53ac56f0f0486","features":{},"yanked":false}
+{"name":"blake2b-pow","vers":"0.1.1","deps":[{"name":"blake2-rfc","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1a33ac4d3d7465a30f096a24369dd26f9c9302366d73a395f85d76c013c9676","features":{},"yanked":false}

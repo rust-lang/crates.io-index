@@ -1,0 +1,1 @@
+{"name":"w4d","vers":"0.1.0","deps":[{"name":"test_tools","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad514c772ea081307ac6ac6f88801c675b7714bc4cb8912be5d20fbc9aa0fddb","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":[]},"yanked":false}

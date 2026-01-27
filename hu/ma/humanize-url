@@ -1,0 +1,2 @@
+{"name":"humanize-url","vers":"0.0.0","deps":[],"cksum":"ea256b8b939c17a4dc0ae306cdda7cf80b7fcf90a9e5057c1c5a705a325e2ba0","features":{},"yanked":false}
+{"name":"humanize-url","vers":"0.1.0","deps":[{"name":"unrestrictive-url","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e29fb1ea68286265a32e3c5542031d0eb815ae149151404400e936fd4f3096d","features":{},"yanked":false}

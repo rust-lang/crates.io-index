@@ -1,0 +1,2 @@
+{"name":"collectables","vers":"2.0.0","deps":[{"name":"sixarm_assert","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c49ac4ef253cec1d16d52c759401b4b951e400b5a00404c2db6ba6b53a7f62c","features":{},"yanked":false}
+{"name":"collectables","vers":"2.0.1","deps":[{"name":"assertables","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c9cf07cc923d85c74c3cd82e7f5daa8a136cb8844f4d872954788e4cb86896","features":{},"yanked":false}

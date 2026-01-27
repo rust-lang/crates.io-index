@@ -1,0 +1,2 @@
+{"name":"cesium-allocator","vers":"1.0.0","deps":[{"name":"cesium-libmimalloc-sys","req":"^2.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25780846361f131f01ce0927848804027ba4a2e314b86855c70ea5868faae3e1","features":{},"yanked":false}
+{"name":"cesium-allocator","vers":"1.0.1","deps":[{"name":"cesium-libmimalloc-sys","req":"^2.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28dc361db64593782926dcb759bde5c3158fd3b482aeed7cbaae1c885655a9c2","features":{},"yanked":false}

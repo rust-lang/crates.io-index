@@ -1,0 +1,1 @@
+{"name":"gungeon-save","vers":"0.0.1","deps":[{"name":"app_dirs","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"8ed4bdfc0e96634f81a681ae48904b78cd598602414470ddcabc359ccd9ddf14","features":{},"yanked":false}

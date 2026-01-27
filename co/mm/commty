@@ -1,0 +1,3 @@
+{"name":"commty","vers":"0.1.0","deps":[],"cksum":"d56d42fde905ce415060263031614ca7ff35df89cae4d88f05e33cc7300041a6","features":{},"yanked":true}
+{"name":"commty","vers":"0.1.1","deps":[],"cksum":"e175e90ae8c43819ddf5da590e455e04143aaee0a54939172476f1fb0a2d06cb","features":{},"yanked":true}
+{"name":"commty","vers":"0.1.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfa81c0a5ecfa75cb87809136f90add7d2d908f66a6c7d6ffa50b45d4a19b7ff","features":{},"yanked":true}

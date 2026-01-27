@@ -1,0 +1,5 @@
+{"name":"xmp-writer","vers":"0.1.0","deps":[],"cksum":"9fd742bbbb930fc972b28bf66b7546dfbc7bb9a4c7924299df0ae6a5641fcadf","features":{},"yanked":false}
+{"name":"xmp-writer","vers":"0.2.0","deps":[],"cksum":"4543ba138f64a94b19e1e9c66c165bca7e03d470e1c066cb76ea279d9d0e1989","features":{},"yanked":false}
+{"name":"xmp-writer","vers":"0.3.0","deps":[],"cksum":"8254499146a4fd0c86e3e99cf4a9f468f595808fb49ff8f3e495f2b117bf4ebc","features":{"default":["pdfa"],"pdfa":[]},"yanked":false}
+{"name":"xmp-writer","vers":"0.3.1","deps":[],"cksum":"7eb5954c9ca6dcc869e98d3e42760ed9dab08f3e70212b31d7ab8ae7f3b7a487","features":{"default":["pdfa"],"pdfa":[]},"yanked":false}
+{"name":"xmp-writer","vers":"0.3.2","deps":[],"cksum":"ce9e2f4a404d9ebffc0a9832cf4f50907220ba3d7fffa9099261a5cab52f2dd7","features":{"default":["pdfa"],"pdfa":[]},"yanked":false}

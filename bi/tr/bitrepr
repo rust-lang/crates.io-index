@@ -1,0 +1,2 @@
+{"name":"bitrepr","vers":"0.1.0","deps":[{"name":"bitrepr-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a50165a8e5d88c2c5d968327d5625694891c3d500e3a70c0d91477d7a06b0af","features":{},"yanked":false}
+{"name":"bitrepr","vers":"0.1.1","deps":[{"name":"bitrepr-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1db3a162b4ff0f7935a9c13ec50ce8526d95da7a72b117e7fa7fd9da6bb29827","features":{},"yanked":false}

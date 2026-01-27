@@ -1,0 +1,2 @@
+{"name":"teensy3-sys","vers":"0.1.0","deps":[],"cksum":"89d4d9e2b288386b21ec775e783bf1adf81ec2a4cbf777bb05f2b4cc22fbd267","features":{},"yanked":false}
+{"name":"teensy3-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"46caeaf3622dd3886605b610041fb57c0c1d9f34ea49c4e60fdcc0224f680044","features":{},"yanked":false}

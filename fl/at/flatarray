@@ -1,0 +1,9 @@
+{"name":"flatarray","vers":"0.1.0","deps":[],"cksum":"330a3ea91aa101067ad4d721233ded31239e2b777eee7aa81fb9d49563fcb03a","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.2.0","deps":[],"cksum":"bca4b0d1037c86ecc4c4f5619020712a2134e382a2996bdf1542c3074ed01d68","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.3.0","deps":[],"cksum":"db6e1186bc3511192b4cc35fbc0613bbf1eeec23425b108605e1787421d673ad","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.4.0","deps":[],"cksum":"c35232c5578fb7c162a4ef78e51ced3e672455a523343075b966a3c5b30946b7","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.5.0","deps":[],"cksum":"9dc61d199b4135ebede5d9aaca4d9e85142433739bfde82645b1d92f6990f0e3","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.6.0","deps":[],"cksum":"4d81c41c8249b73f15bb83373c4a3a12f6d8299778edea9eac5eb39d52513fe0","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.7.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78f7ab7c23769ebd93c3999fabab23f0e981b7371fa29b390e731445c64f2c42","features":{"serde":[]},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.7.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9981e90f3dc23628fd89bedcaff9788a9b44bff64f4c6949062dfd18fba70a4","features":{"serde":[]},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"1.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"774b9bfe40f68f4970477cf3cd7be8a04d6169e5a996ba48356581a686f42ab8","features":{"serde":[]},"yanked":false,"rust_version":"1.87.0"}

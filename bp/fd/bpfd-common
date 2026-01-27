@@ -1,0 +1,1 @@
+{"name":"bpfd-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.10.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"453fac4174893858e9cc697d2c0d7d3fbccd8446b19a35651509e9b8f1fba8e6","features":{"default":[],"user":["aya"]},"yanked":false}

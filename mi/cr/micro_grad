@@ -1,0 +1,2 @@
+{"name":"micro_grad","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a432546be5a3b274c6963d541a643290b16153f57ef41ac6fc4703724d6945e","features":{},"yanked":false}
+{"name":"micro_grad","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14e447917e86239983a274a3197112cf86f518f4227c66e7a0ab999460bc5045","features":{},"yanked":false}

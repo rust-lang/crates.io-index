@@ -1,0 +1,3 @@
+{"name":"luhn","vers":"0.1.0","deps":[],"cksum":"2d55148919a8fcfe483b1c8d88ef2257eb6930f6f8f974c16bd0371e7a68320c","features":{},"yanked":false}
+{"name":"luhn","vers":"1.0.0","deps":[{"name":"digits_iterator","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5a5fbd3392cc84c855b3bde98347de8245bd4014567c1169f0e06767973864e","features":{},"yanked":false}
+{"name":"luhn","vers":"1.0.1","deps":[{"name":"digits_iterator","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d10b831402a3b10e018c8bc7f0ec3344a67d0725919cbaf393accb9baf8700b","features":{},"yanked":false}

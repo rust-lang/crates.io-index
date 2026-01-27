@@ -1,0 +1,4 @@
+{"name":"hash","vers":"0.0.1","deps":[],"cksum":"09a3d83207bc8ed0e2a75f1d0fde9862490d45116d873d9f8d091af20db912c7","features":{},"yanked":false}
+{"name":"hash","vers":"0.1.0","deps":[],"cksum":"a11d3646252f5040e17a5d820fba80e3956d674fa4f0c42b3b27d1f8b2320ce5","features":{},"yanked":false}
+{"name":"hash","vers":"0.2.0","deps":[{"name":"md5","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99ba160997fbafa119746fdae7c26b0c27d4b0d2c3f7d6b3ff08bb49897f51cb","features":{},"yanked":false}
+{"name":"hash","vers":"0.3.0","deps":[],"cksum":"dd7c49bdb7afdaaa64b46da1b344452ff3f2e29a3e0efa09538c262f096de990","features":{},"yanked":false}

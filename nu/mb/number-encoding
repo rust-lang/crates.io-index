@@ -1,0 +1,3 @@
+{"name":"number-encoding","vers":"0.1.0","deps":[],"cksum":"562743fa968db39c2eb783615f440dae1e21e2c936dc6719ce9c9e9ba4fa0856","features":{},"yanked":false}
+{"name":"number-encoding","vers":"0.2.0","deps":[],"cksum":"248148997d75f4a6b246fca35cbfc548ae5b2876875466853be90a0e1dcd31f4","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"number-encoding","vers":"0.2.1","deps":[],"cksum":"31d8807ac1448fb1ead99a01fa9aa75f3323d53117d9356d4f65472f0a38b4ef","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

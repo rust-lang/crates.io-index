@@ -1,0 +1,8 @@
+{"name":"cli_helper","vers":"0.1.0","deps":[],"cksum":"bb21ed33f3a741b723b0c774c905b04d2246c4fbbaad4e7681f3bcac7fcc3dee","features":{},"yanked":false}
+{"name":"cli_helper","vers":"0.1.1","deps":[],"cksum":"63a6c0267bae4e484d9a6360eaa2b09d582a825476a98f29186f52c493d5e38e","features":{"cli":[],"default":["cli","file"],"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.2","deps":[],"cksum":"b0f6a7e4105e4cb1f5833426a4db7fb1336ade07341814b5d0ad814be563f53e","features":{"cli":[],"default":["cli"],"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.3","deps":[],"cksum":"9b9065f94f1225a29bec4a47a22412280dd3be7355bdc5c7e24d115ec61803a7","features":{"cli":[],"default":["cli"],"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.4","deps":[],"cksum":"ef762e41c29ac456fb29639364d6269e654e42253b9fbd6a77a2eda563345d6b","features":{"cli":[],"default":["cli"],"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.5","deps":[],"cksum":"d4367510ca0372c16f0520f9434ae8075947bedc172b90c886351ec17ffd8a47","features":{"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.6","deps":[],"cksum":"3ca5c211e58dd231f3c3d9ab1e44fa4506dc11eff4edbec1d5e1d3692b414ca4","features":{"file":[]},"yanked":false}
+{"name":"cli_helper","vers":"0.1.7","deps":[],"cksum":"910ceae5ed4c16e3d358116c91570e4ad1081b77e6d0598238d11c4c9f94b3ff","features":{"file":[]},"yanked":false}

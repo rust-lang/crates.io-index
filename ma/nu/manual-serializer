@@ -1,0 +1,2 @@
+{"name":"manual-serializer","vers":"0.0.0","deps":[],"cksum":"17553589273bbe2dab5128f411437892183da9922e2dceebcbb4c5c1d66eafae","features":{},"yanked":false}
+{"name":"manual-serializer","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e02dee11e3506095a84dddc0ecd8c9ff61f6611e6353ba6f9bb85c63144ae088","features":{},"yanked":false}

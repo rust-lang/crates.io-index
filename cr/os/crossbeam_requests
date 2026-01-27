@@ -1,0 +1,2 @@
+{"name":"crossbeam_requests","vers":"0.2.0","deps":[{"name":"crossbeam-channel","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"777025e9238b1a0d25bd86e956158778f29d5dc911ab0faff603e0ecd833d1fa","features":{},"yanked":false}
+{"name":"crossbeam_requests","vers":"0.3.0","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee5b0fbdf9fce9b4cf29af91b09cfc2918220d03985718f5e6cadf033d30e498","features":{},"yanked":false}

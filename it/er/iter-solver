@@ -1,0 +1,6 @@
+{"name":"iter-solver","vers":"0.1.0","deps":[],"cksum":"044ef2b28574cc4a7bd4bc4aee811327f6bc344de5e7502c52eba915b611a38b","features":{},"yanked":false}
+{"name":"iter-solver","vers":"0.1.1","deps":[],"cksum":"f56dcbafa2e1288864386b3f9a4629d6cd0280feedd1c1322a5ea94e446258d6","features":{},"yanked":false}
+{"name":"iter-solver","vers":"0.1.2","deps":[],"cksum":"16daaaa04911da54aef4766cc8dd2b4140c931213a1cda3852fe8c2bd1f4ce45","features":{},"yanked":false}
+{"name":"iter-solver","vers":"0.1.3","deps":[],"cksum":"f85ac24a9e3332c38b0d6e57186d06cecb7083a0c5e1098aa4bac9d2d9812afe","features":{},"yanked":false}
+{"name":"iter-solver","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f78d11e899a7d52c3f0ac5ff86ac5d1d1f36399c2565ee55dec7ed2de721abb","features":{},"yanked":false}
+{"name":"iter-solver","vers":"0.2.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ddaf0a3cd24043edc0eef096b44e94d709ef21a4bffee25fcad1a24fe8a589e","features":{},"yanked":false}

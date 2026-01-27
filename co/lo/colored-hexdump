@@ -1,0 +1,4 @@
+{"name":"colored-hexdump","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.38","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f89a6e59ae185fa40bb02d5ce4dd550908073ad749d96960840de285e98a2852","features":{},"yanked":false}
+{"name":"colored-hexdump","vers":"0.2.0","deps":[],"cksum":"d45a51f4bb6e378b665b74aa252e26f2eda46935a15ab591aade789e28cf64e6","features":{},"yanked":false}
+{"name":"colored-hexdump","vers":"0.2.1","deps":[],"cksum":"ae6ab7339b7b9b63efbc54088102c7f7854642726e1782a17b10097b52db4bc6","features":{},"yanked":false}
+{"name":"colored-hexdump","vers":"0.2.2","deps":[],"cksum":"831aef047609eb5f6b87b366e58b9ed1a14e494df7867db856f03de0287d62e8","features":{},"yanked":false}

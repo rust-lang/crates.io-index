@@ -1,0 +1,2 @@
+{"name":"enum-field","vers":"0.1.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daa97206c102bad0c2f53b442e0e93fae201060560466a7926c08c1206569b43","features":{},"yanked":false}
+{"name":"enum-field","vers":"0.2.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"494f729bc6d7474d7bd830902339a6d1eb737834bb70700b0c5f68174f4652e7","features":{"default":[],"frunk":[],"macro-export":[]},"yanked":false}

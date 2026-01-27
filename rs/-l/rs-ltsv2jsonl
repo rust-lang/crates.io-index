@@ -1,0 +1,1 @@
+{"name":"rs-ltsv2jsonl","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.128","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"343eea967bb04223bdb2316898d05884c69b39fb1dc0a062a34c1afa7d29f6f2","features":{},"yanked":false}

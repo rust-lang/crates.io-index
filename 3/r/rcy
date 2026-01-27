@@ -1,0 +1,1 @@
+{"name":"rcy","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb6b03f4af7a32c7022532150fb658f22c448cd4bf38f4ad0d0566d8dd4d7186","features":{},"yanked":false}

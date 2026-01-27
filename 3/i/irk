@@ -1,0 +1,2 @@
+{"name":"irk","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa1a71ba885356b2a509af8c9bd58b113cd671d4821dd9edb0323b6d3fffd88c","features":{},"yanked":false}
+{"name":"irk","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"718d8bd5509e7d8c57cddbcc334823d821c071b8193d092a5e4ed306ca4242df","features":{},"yanked":false}

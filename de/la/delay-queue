@@ -1,0 +1,2 @@
+{"name":"delay-queue","vers":"0.1.0","deps":[{"name":"timebomb","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e49b6ec2665cdd898e7e3f8bd83a631be7566f3cf626d17b5e0b01288544390","features":{},"yanked":false}
+{"name":"delay-queue","vers":"0.2.0","deps":[{"name":"timebomb","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f4feac4ffcbc741236ab6ec6dc898c6889ac8b54c6a3378a9e81de233e12a8a9","features":{},"yanked":false}

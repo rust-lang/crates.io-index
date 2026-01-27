@@ -1,0 +1,4 @@
+{"name":"csi_parser","vers":"0.1.0","deps":[],"cksum":"8dea6e0a3f14957e16b2c49f5a2e2b6f561017e80bb8bda3a6ac3cc8d36e4486","features":{},"yanked":true}
+{"name":"csi_parser","vers":"0.1.1","deps":[],"cksum":"c61274ea95c3c106c9c92c508fcd71dac162ebc61bf0c303ae68c50899d5fa62","features":{"default":["std"],"no_std":[],"std":[]},"yanked":true}
+{"name":"csi_parser","vers":"0.1.2","deps":[],"cksum":"54554c8bc28206463585a2a4f64f88e214d9d1ad34935f59432b47979539281e","features":{"default":["std"],"no_std":[],"std":[]},"yanked":true}
+{"name":"csi_parser","vers":"0.1.3","deps":[],"cksum":"4cfc535d2da5e0b9d2f921c8309a55f7f70a6d7749ec49449422d7c05085ea18","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false}

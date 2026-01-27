@@ -1,0 +1,4 @@
+{"name":"btt","vers":"0.1.0","deps":[],"cksum":"7e153c6bacb8686728fdd22433e6239e1ad6ddb1cf7925bfa2b3af8aadb16d37","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"btt","vers":"0.2.0","deps":[],"cksum":"a7f1f7dfbd74928cc0e76c80ca3e20e79c5f4c6bf853cd3465854dfc1a3d8ecf","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"btt","vers":"0.3.0","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"85e9be798d99f236cb436cea17fecf4d7fe97069943875c7e07fd8ecbb931960","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"btt","vers":"0.4.0","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"44f58f5758a70cc16779346ddf888de7c2a044e3b265a5b9e542238abd918be7","features":{"alloc":[],"default":["alloc"]},"yanked":false}

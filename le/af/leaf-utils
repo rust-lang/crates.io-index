@@ -1,0 +1,2 @@
+{"name":"leaf-utils","vers":"0.0.0","deps":[],"cksum":"81a5113cebd98bfc804b105ddc6f89f0afd92438ed75a670392bffb13ea6b9c0","features":{},"yanked":false}
+{"name":"leaf-utils","vers":"0.1.0-alpha.1","deps":[{"name":"blake3","req":"^1.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libsql","req":"^0.9.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dd28219a2624f5f69de80d8d03f0b37eea253f4fae61dfdba18bf6ab05bfa000","features":{},"yanked":false}

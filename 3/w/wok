@@ -1,0 +1,2 @@
+{"name":"wok","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.82","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c962689dd713417aaab935eb121ece68c5102639581597e4712438bad0de7331","features":{"trace":[]},"yanked":true}
+{"name":"wok","vers":"0.0.0","deps":[{"name":"wasm-bindgen","req":"^0.2.82","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b55c549db738bda75d306601f34163943a5fd58cf495ea5eb6bc3ac1e3cf153","features":{"trace":[]},"yanked":false}

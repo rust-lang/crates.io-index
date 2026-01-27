@@ -1,0 +1,1 @@
+{"name":"thump","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5520ae97a153b9ac66fa51742b91b066187f8c8bb2843ccaf167b83d33f24182","features":{"default":["desktop"],"desktop":["dioxus/desktop"],"mobile":["dioxus/mobile"],"web":["dioxus/web"]},"yanked":false}

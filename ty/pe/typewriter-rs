@@ -1,0 +1,1 @@
+{"name":"typewriter-rs","vers":"1.0.0","deps":[{"name":"clap","req":"^4.2.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"136e9d8f77b5b65cd36a9e564ed0d4680128e0ec7cb979959d469f7107848779","features":{},"yanked":false}

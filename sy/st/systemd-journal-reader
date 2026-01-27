@@ -1,0 +1,2 @@
+{"name":"systemd-journal-reader","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"706774a3e1d76b86c605dbb6c4856b65cfaeb1dc33613ffebedd9345e72f7b47","features":{},"yanked":false}
+{"name":"systemd-journal-reader","vers":"0.1.1","deps":[{"name":"zstd","req":"^0.13.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d6c0cfa30334422119581179f0657a7f4765d23d34d9c303687fc7c3456e3d9","features":{},"yanked":false}

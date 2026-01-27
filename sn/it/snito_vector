@@ -1,0 +1,1 @@
+{"name":"snito_vector","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a77401ef3c8097ae2ddb863bf773a969c5bad82197bdd184e22ad2a983e3c9cb","features":{},"yanked":true}

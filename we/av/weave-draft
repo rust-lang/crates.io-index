@@ -1,0 +1,3 @@
+{"name":"weave-draft","vers":"0.0.0","deps":[],"cksum":"d8b24d8bacb0e61866997256afd3066b0cbc0919e22106c604059b46b06c6f12","features":{},"yanked":false}
+{"name":"weave-draft","vers":"0.1.0","deps":[{"name":"wif-weave","req":"^0.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d1d2de6057340f994e6b1684fe5aea6a88e20e2664d3026d42e7c89d6b793cc","features":{"wif":["wif-weave"]},"yanked":false}
+{"name":"weave-draft","vers":"0.2.0","deps":[{"name":"wif-weave","req":"^0.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2341045f7730baa044083e6ec772e7e1ad9fff454e88bfba7fd12885ac8f287e","features":{"wif":["wif-weave"]},"yanked":false}

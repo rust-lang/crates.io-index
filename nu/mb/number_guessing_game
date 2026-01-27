@@ -1,0 +1,2 @@
+{"name":"number_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa11992f185027dc8bf912257427b1e91fe30f7b1c10edb900b45cdb823cffec","features":{},"yanked":true}
+{"name":"number_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3695839861a7148b8a74048e17a92430fc27238f2bcd4d42d0ec53a8c82f1633","features":{},"yanked":false}

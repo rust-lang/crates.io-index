@@ -1,0 +1,2 @@
+{"name":"rrs","vers":"0.0.6","deps":[],"cksum":"40daa03134e4caa8618e7ad1dc52741c0523399e322fec50beec0c844e6ff921","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"rrs","vers":"0.0.7","deps":[{"name":"temp-file","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df6c0d8edf81317a7124d9abcbdd8e276414e60c77069d0e2aaeed8ccd93e93d","features":{},"yanked":false,"rust_version":"1.58"}

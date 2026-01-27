@@ -1,0 +1,2 @@
+{"name":"powerlink-rs","vers":"0.1.0","deps":[],"cksum":"2f7eb23d0d5c9571b2d4d13454d8244b61f57fb09850ce440e73dd763b579fbc","features":{"default":[],"std":[]},"yanked":false}
+{"name":"powerlink-rs","vers":"0.0.0","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c8de5df2d6f531a84ddd1f6e7e8c44f0e3a79260e897b778fb2cbb92e53e545","features":{"default":[],"std":[]},"yanked":false}

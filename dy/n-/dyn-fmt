@@ -1,0 +1,14 @@
+{"name":"dyn-fmt","vers":"0.1.0","deps":[],"cksum":"a9a56c363fe535b0a2c3113999db2d57e87ab0a2f7d9dd62e10d31ebe3b18285","features":{},"yanked":false}
+{"name":"dyn-fmt","vers":"0.1.1","deps":[],"cksum":"0e4a093436689777aee761f1ee38822dba5ffbc960a0351768c39618e0913389","features":{},"yanked":false}
+{"name":"dyn-fmt","vers":"0.1.2","deps":[],"cksum":"4f1c543c59e2c80bb87791dfddfad1c7a3222d2c3dfd1b19c8336a5afe80acad","features":{},"yanked":false}
+{"name":"dyn-fmt","vers":"0.2.0","deps":[],"cksum":"7178af7170751163442314612852f0a76b96dcbf2b667c701633f6462723ffb9","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.2.1","deps":[],"cksum":"ce387166f7cd77bd58da59bd94dc38ef94c53aa1c13edf6a652ebe1fe5e4a4bd","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.2.2","deps":[],"cksum":"0e56dc1b01d0c8c1b22136a60c4bbf9c5365a96a1773dc2e458e17386d008b86","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.2.3","deps":[],"cksum":"75bc6e6e5314c4ef2875abacdd2f4d7716111a717722770e33b32e790078d7b4","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.2.4","deps":[],"cksum":"dece7822a50d751f07ca943f091fc98922294a2145e8f54b705e4b67173b5641","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"dyn-fmt","vers":"0.2.5","deps":[],"cksum":"8403238afac99a419df08154684e1740ea815690f4c74e3f10541178b564e9d6","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.3.0","deps":[],"cksum":"c2a0836c9bd73a9d3ca55b0effc5b1eedf96dd13ef994389bcac6d4d33c46188","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.4.0","deps":[],"cksum":"79ef34f092abc832595d6e7b81a416403243ab94cc4c8262608aa4fddc95209a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71"}
+{"name":"dyn-fmt","vers":"0.4.1","deps":[],"cksum":"bd7ddce22cd347e0f1d08fcfefbdc924a3e7ace46c9a8815c2c42066b9a4c22a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71"}
+{"name":"dyn-fmt","vers":"0.4.2","deps":[{"name":"document-features","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2201e7682cb0811a2d227e19bc44ea5381a02e1c994097d5786aa79b8c6a01a9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71"}
+{"name":"dyn-fmt","vers":"0.4.3","deps":[{"name":"document-features","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c992f591dfce792a9bc2d1880ab67ffd4acc04551f8e551ca3b6233efb322f00","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71"}

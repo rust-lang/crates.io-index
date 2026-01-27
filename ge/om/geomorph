@@ -1,0 +1,11 @@
+{"name":"geomorph","vers":"0.1.0","deps":[],"cksum":"a1fb38e0a75060c92bc7c806bb7e15a119e29072a275a3fff5c56dd16465e318","features":{},"yanked":false}
+{"name":"geomorph","vers":"0.2.0","deps":[],"cksum":"f67f138101da0651f1177980852be07f0473fba51591a4a35a57ec27179727a7","features":{},"yanked":false}
+{"name":"geomorph","vers":"0.2.1","deps":[],"cksum":"6abe270ebdc056e0a3d5f0cfa671e84a3bd80805eb37f61bf1c2ccf262caeb70","features":{},"yanked":false}
+{"name":"geomorph","vers":"0.2.2","deps":[],"cksum":"93d9ece40025a45913b5afeffb6c36854a3f46a35bd9c40d142c51c7cdead7de","features":{},"yanked":false}
+{"name":"geomorph","vers":"0.3.0","deps":[],"cksum":"047799a5d5f3eae454cb99ec74f7b8092a1517ccc3288f4c30cd8ea7cece7b32","features":{},"yanked":false}
+{"name":"geomorph","vers":"0.4.0","deps":[{"name":"num-complex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dda0bd537038989fe5d4085e562f0a43dfb96c53f7d440863db03e75ff265d23","features":{},"yanked":false}
+{"name":"geomorph","vers":"1.0.0","deps":[{"name":"num-complex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5192afd961f0bfe76de8ba52c514908953d2cc14b6ad03927bf3ec41c9f34a4f","features":{},"yanked":false}
+{"name":"geomorph","vers":"1.1.0","deps":[{"name":"num-complex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb95bb695bd8c8b7bdaecbb6080c06f22cd9f3f0c166e56d5f722b9633389b05","features":{},"yanked":false}
+{"name":"geomorph","vers":"2.0.0","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6e1c71f9ba44b6e99975ce25142986092caaf7fda48642229816c2666e1b7e7","features":{},"yanked":false}
+{"name":"geomorph","vers":"2.0.1","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf6695479632f59c4e9b8c4a679d196e29529dc7621f66bbe3acb90c7f7dc5e7","features":{},"yanked":false}
+{"name":"geomorph","vers":"2.0.2","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e1b7b06f049cbd71719f8fae8c4aad5467336be9df6f69289bf2360285b287c","features":{},"yanked":false}

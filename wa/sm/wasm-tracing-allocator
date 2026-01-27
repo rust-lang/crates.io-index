@@ -1,0 +1,2 @@
+{"name":"wasm-tracing-allocator","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55a4bdd06ec668154262927b678076e04717f2569b3428c5c152e9fa6c66fa3a","features":{},"yanked":false}
+{"name":"wasm-tracing-allocator","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00638b0f463575ce0ad7fe03809c9b86b2a3abbb6c1f2e4d5569572b74ca65ae","features":{},"yanked":false}

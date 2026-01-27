@@ -1,0 +1,7 @@
+{"name":"soundchange","vers":"0.0.1","deps":[],"cksum":"14bf3f870ef5c22bb289270ae176cb80fcfcda2560d9fb5d807034dc213be7bb","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.3","deps":[],"cksum":"ab35a68ee12be13ee1a3f5edabbcd5df4e034e6813e227bba0fe9fc7125b908b","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.4","deps":[],"cksum":"fcbbbd331f0f7ef02bfc92eae9bfd456b207701ab20a2045486bf515e5694bf9","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.5","deps":[],"cksum":"5e16df767b01b60cc84d7db1a2bff65f35c5962d94afb6a01088d4487f93eafd","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.6","deps":[{"name":"log","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d50b8013836e7e7f824528e7923c12b14d939a5a2e0a951ac0a7b43e6ebe6911","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.7","deps":[{"name":"log","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"267ab338393c7b97240274737727b1d515008cd2ac1b29b6a916c350a5d26224","features":{},"yanked":false}
+{"name":"soundchange","vers":"0.0.8","deps":[{"name":"log","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3fb153d67396cfa6aace862849b08c747428686f1a7324193ceed74e6be6046d","features":{},"yanked":false}

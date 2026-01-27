@@ -1,0 +1,2 @@
+{"name":"finch-rs","vers":"0.1.0","deps":[{"name":"melior","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"687c33e9fdc133ca107ac2672692f86a46352895c39c2cf6730411c326d2d258","features":{},"yanked":false}
+{"name":"finch-rs","vers":"0.1.1","deps":[{"name":"finch-symbolic","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"feda5cdce9ba9f66557428508eae11e145cab77254cf6d28ca3b3231c5f90590","features":{},"yanked":false}

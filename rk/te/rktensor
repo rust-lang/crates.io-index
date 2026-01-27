@@ -1,0 +1,1 @@
+{"name":"rktensor","vers":"0.0.1","deps":[{"name":"half","req":"^2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"image","req":"^0.25.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dcb4cb5b2277643c768e8557c3441f6c4060800fbf2191a0d966084cfa7f839","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"spike-dasm-wrapper","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7065c311a5a87ab7e3a7bc43676845463bd3e5c78a9e9d26a574fa95a64104a","features":{},"yanked":false}
+{"name":"spike-dasm-wrapper","vers":"0.0.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"235b55f7ce3c045a477909527f176e078445566b6cc15c8666a202475317d724","features":{},"yanked":false}

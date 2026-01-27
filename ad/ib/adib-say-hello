@@ -1,0 +1,3 @@
+{"name":"adib-say-hello","vers":"0.1.0","deps":[],"cksum":"80d7d3c6950315190922f84577525dec8c9bdf9b9dac77f70f4811990e9b3e29","features":{},"yanked":false}
+{"name":"adib-say-hello","vers":"0.2.0","deps":[],"cksum":"a0ad0a863261ec1afdd408055bdce7309c28f404e6a395c452df7e94fc673b69","features":{},"yanked":false}
+{"name":"adib-say-hello","vers":"0.3.0","deps":[],"cksum":"204ed612eece57fda6ae3940c5c7e94891d13fed4092b07d5e309558ac6a25d7","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

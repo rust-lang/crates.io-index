@@ -1,0 +1,2 @@
+{"name":"zcfg","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae75caad4298dd7e0d4899b5a921ace913e8df8ed13cf3e7430cc1d8a87ef26","features":{},"yanked":false}
+{"name":"zcfg","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aa41d4f5c82f620718be78e594b55c82f8e5ba279f46dff436f47b5326b765d","features":{},"yanked":false}

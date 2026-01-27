@@ -1,0 +1,2 @@
+{"name":"source-location","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["serde_derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1aa09b7d856ca4d86bf6eea13e9028a11897a84831c55fe89c774f7c20a2e603","features":{},"yanked":false}
+{"name":"source-location","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":["serde_derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51396d3b0be8022a48f14fe1cf0e402a9362fe410a239408f37cffc76b60fd03","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"elaphos","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.1","features":["dynamic_linking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca5339a0887d268b7581070c6701674169e83361157c1df7409220bbec2ec0e8","features":{},"yanked":false}
+{"name":"elaphos","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.10.1","features":["dynamic_linking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c7863e1ce5b6dbdb451dd8404020c67406f93c28d4a273ce8814019aefab829","features":{},"yanked":false}

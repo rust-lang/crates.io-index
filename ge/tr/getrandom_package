@@ -1,0 +1,3 @@
+{"name":"getrandom_package","vers":"0.1.0","deps":[],"cksum":"ff66687b2d9934bb826525be35e10f901bf793909944c83e4617c96696b6606f","features":{},"yanked":false}
+{"name":"getrandom_package","vers":"0.1.2","deps":[],"cksum":"06942b34a3e95cf31f89f269151160ad65f576c92db52074348c9058553e4265","features":{"stdweb":[],"wasm-bindgen":[]},"yanked":true}
+{"name":"getrandom_package","vers":"0.1.20","deps":[],"cksum":"45510b03235e6cc51fa1744340970d7b14c10bce9036d79031acf20ecb5f8c8f","features":{"stdweb":[],"wasm-bindgen":[]},"yanked":false}

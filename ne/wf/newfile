@@ -1,0 +1,1 @@
+{"name":"newfile","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85c12884a665cfcc78c4b73a9715e375f88b826f35e22dff69ce820e35ec7195","features":{},"yanked":false}

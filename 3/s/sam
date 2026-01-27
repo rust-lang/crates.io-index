@@ -1,0 +1,7 @@
+{"name":"sam","vers":"1.0.0","deps":[{"name":"reqwest","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"819209343cc0cad3708efc884e5166eaf0c1ffca4646dad719269842471c9122","features":{},"yanked":true}
+{"name":"sam","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26e3c4c701d6f56fba57f10e10b59a35d45235e3e88d2678755f3cf29966951f","features":{},"yanked":false}
+{"name":"sam","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8b81393f270fcb4adb6e3efa4cda181798da42e57e37a4337e25c7871d2124a","features":{},"yanked":false}
+{"name":"sam","vers":"0.1.2","deps":[{"name":"reqwest","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c5b3a23a845eefdd0717d8ac0612e55532ac0aab63109bece629e720076fa5e","features":{},"yanked":false}
+{"name":"sam","vers":"0.2.0","deps":[],"cksum":"5ce34283673a0854ac8258d0a45405fc333600d34fbb793b57083fffbcbbc8c6","features":{},"yanked":false}
+{"name":"sam","vers":"0.3.0","deps":[],"cksum":"dad0503ab3bcf70879437b9e5b5dca98ee89ff4ecbc57b465585aa0e4d701c09","features":{},"yanked":false}
+{"name":"sam","vers":"0.3.1","deps":[],"cksum":"5fe15167489125b7403c9730d2c1a4c163466a327f7672444643259e8ad22178","features":{},"yanked":false}

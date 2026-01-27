@@ -1,0 +1,5 @@
+{"name":"co","vers":"0.1.0-alpha","deps":[],"cksum":"0f5d3ae5598fabcfcc9766f61e3f4c5190741a09fa5e786b33d1d375a7dede09","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"co","vers":"0.1.0-alpha2","deps":[],"cksum":"a033558c00806ee0e59fdc916439ac726916ed70da3dd1ab3f2c941fe16a7ce9","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"co","vers":"0.1.0","deps":[{"name":"divan","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b849cd51956f67d02722f518d7e06c11c6fa6de711a708aaababefc99bb1df3a","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"co","vers":"0.1.1","deps":[{"name":"divan","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b025c643756829af86cc9b2f59d3188907065494d83eef149bd979c86c56f668","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"co","vers":"0.1.2","deps":[{"name":"divan","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"815c9e08c4d85b21d86dfe1e68c8eb51bf0e1d1fd3d311b28bc09bee130e3a6a","features":{},"yanked":false,"rust_version":"1.83"}

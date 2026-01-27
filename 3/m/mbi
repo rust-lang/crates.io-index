@@ -1,0 +1,1 @@
+{"name":"mbi","vers":"1.0.1","deps":[{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"malbolge","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b3c5c8d5a24b682bd83fc50a6c6a8f8f8bbd10b9329c77052e947fae376c1b6","features":{},"yanked":false}

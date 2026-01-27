@@ -1,0 +1,1 @@
+{"name":"rustybit-serde-bencode","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a4a0eb3327ff8a88bdc26b01baac7135a6e01450cdac63a7c92e4b783e31ea","features":{},"yanked":false}

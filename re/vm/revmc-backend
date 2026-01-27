@@ -1,0 +1,2 @@
+{"name":"revmc-backend","vers":"0.0.0-reserved","deps":[],"cksum":"0d1af30a9bef2faae485e9d12322256bdeefb4aa8912a4ca8157df78e75dbda1","features":{},"yanked":false}
+{"name":"revmc-backend","vers":"0.1.0","deps":[{"name":"eyre","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ruint","req":"^1.12.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"04f08e1d1aeb4ce0608334809efdf24a07ca85829f40c1c176b0f3deece1bdfe","features":{},"yanked":false,"rust_version":"1.79"}

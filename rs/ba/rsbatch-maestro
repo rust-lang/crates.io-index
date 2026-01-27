@@ -1,0 +1,2 @@
+{"name":"rsbatch-maestro","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f757ec1f62e0f5504c48c217570b8ec9d0ea36fb1a00d8e4127b223f8946d74b","features":{},"yanked":false}
+{"name":"rsbatch-maestro","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"63aade5b6f109b10b2b8f11794c2b18337486d8eb3cb8a2fd049a3dcdd6a900c","features":{},"yanked":false}

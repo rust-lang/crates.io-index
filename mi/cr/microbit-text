@@ -1,0 +1,2 @@
+{"name":"microbit-text","vers":"0.1.0","deps":[{"name":"tiny-led-matrix","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eed0017a449c98533ae4d6a41e139d3bc68e5ec829f924fa3c80ad3bade29d9","features":{},"yanked":false}
+{"name":"microbit-text","vers":"1.0.0","deps":[{"name":"tiny-led-matrix","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"029db169f7b5f0253f2b348a1f580ed532f7df769fc88ca9e1871ca92ec04c40","features":{},"yanked":false,"rust_version":"1.51"}

@@ -1,0 +1,4 @@
+{"name":"rusted_list","vers":"0.1.0","deps":[],"cksum":"84500c11c05804de93b2afef4b0daa868a291160a9d9d7c00fa849d73cbbd4ff","features":{},"yanked":true}
+{"name":"rusted_list","vers":"0.1.1","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3cc209ff787f059f738ad6a1cc1e6fc797eb7c730ef828bcb7ca77d8c0a78d2","features":{},"yanked":true}
+{"name":"rusted_list","vers":"1.0.0","deps":[],"cksum":"ba56cbac947d49cbf1e4e700ecc13e8b21f2375876768ec3d8ba2c0fc2e56fbb","features":{},"yanked":false}
+{"name":"rusted_list","vers":"1.1.0","deps":[],"cksum":"542ed0495080537ddb1743df80e2a40402ee2e6dca485f0a59bb1c66b9f52832","features":{},"yanked":false}

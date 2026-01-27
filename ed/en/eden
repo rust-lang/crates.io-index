@@ -1,0 +1,2 @@
+{"name":"eden","vers":"0.1.0","deps":[],"cksum":"0601990148696e33035d8dfb97379d7f5d06ef49cf25de069c9902ef35c2194d","features":{},"yanked":false}
+{"name":"eden","vers":"0.1.1","deps":[{"name":"nom","req":"^5.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f65e885f17c9d79dab9ece52244099a2d41f2f823db8afe3bc93e98b2c6f738","features":{},"yanked":false}

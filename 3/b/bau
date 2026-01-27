@@ -1,0 +1,10 @@
+{"name":"bau","vers":"0.1.0","deps":[],"cksum":"df45feb11e58c4e141f2a2351b1544293b80d5605d5f84ba41b40311a2903d89","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.2.0","deps":[],"cksum":"8d8f9abd6e2872303d745b245bd165232f758f76fca8699200ab1d608ede36a5","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.2.1","deps":[],"cksum":"ff39ca7fc7f40ae2b37d505d270d2b87505ba46ad90ff1f5928eb7e4e9badc48","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.3.0","deps":[],"cksum":"8244674fd49d6dd152847ec82eb2b104ef38441a66de9f044fd806383ef8130e","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.3.1","deps":[],"cksum":"af5ebd357166b6709a981748c63dfaafbd4693941f9251c5e9bb1b089945064e","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.4.0","deps":[],"cksum":"87d29ef694dbf28a355512f21deac0806e2ce0c324ce7693ce51cf2d211b8855","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.5.0","deps":[],"cksum":"18d88796e3b0a545d2d96f839ce3f350f9bc178256c5844c246dc10f0566fa62","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.5.1","deps":[],"cksum":"124b3105fc022017d95696b4a7f79b84f1be5e2f0f5aef9207d576d37f520934","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.6.0","deps":[],"cksum":"63abe444ef695a17e4f4378efce597bd2ab1204a747d4fd8e5258ad2b6092eca","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"bau","vers":"0.7.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2daa9b67fe1f09e2b2caaf898eabefeb8870b3f9974b4a0a43d0d2f0c5d06a15","features":{},"yanked":false,"rust_version":"1.88"}

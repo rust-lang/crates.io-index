@@ -1,0 +1,1 @@
+{"name":"ppcore_def","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29d3a379a38dc889b40a77762125a717610ca15bd089416b0175b0b55c3d398a","features":{},"yanked":false}

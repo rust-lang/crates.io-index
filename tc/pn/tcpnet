@@ -1,0 +1,2 @@
+{"name":"tcpnet","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.32.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"136ed1725eef5d6d23ed1834c7f5167abc63e56f8353b12f887fc27c936be00a","features":{},"yanked":true}
+{"name":"tcpnet","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.32.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3391d52a399061c2c77ab24425ff47ac464f52a5f0239ca0833941e9404a4a19","features":{},"yanked":false}

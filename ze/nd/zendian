@@ -1,0 +1,1 @@
+{"name":"zendian","vers":"1.0.0","deps":[{"name":"bytemuck","req":"^1.15.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71d7aacc42764cec9b56a58e05c12d6a61e891c7cc8ff5f0f5360e10a34caf34","features":{"default":[]},"features2":{"bytemuck":["dep:bytemuck"]},"yanked":false,"v":2}

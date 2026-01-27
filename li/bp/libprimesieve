@@ -1,0 +1,2 @@
+{"name":"libprimesieve","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.158","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca20d78fee077164feb350458d709f32d1697459757621065f9b818d51dfe16b","features":{},"yanked":false}
+{"name":"libprimesieve","vers":"0.3.0","deps":[{"name":"libc","req":"^0.2.158","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"615546808f5a7c132657e80e63540c68a5bd3009302decaf53dd051a708fe559","features":{},"yanked":false}

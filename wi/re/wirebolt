@@ -1,0 +1,2 @@
+{"name":"wirebolt","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"addd45ecebc32eb44c5ee3afc7efa45dfccf664c8540b8d105ac8f39dbd48fa0","features":{},"yanked":false}
+{"name":"wirebolt","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05e6d0bc5165ffa185041c7a21b3789da9a3be2ef5632b406771decb248e1d2d","features":{},"yanked":false}

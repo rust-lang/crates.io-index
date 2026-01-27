@@ -1,0 +1,1 @@
+{"name":"grapple-bundle-lib","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad95b8f6d718206a57b9848b0bed4c93ca9c63425a02651823dccb027912e6fa","features":{},"yanked":false}

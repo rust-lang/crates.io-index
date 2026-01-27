@@ -1,0 +1,3 @@
+{"name":"zoml","vers":"0.1.0","deps":[],"cksum":"e86d154415a01aa97803f2c2b8401d6577a54915c6ad8e39f204961733db76a7","features":{},"yanked":true}
+{"name":"zoml","vers":"0.1.1","deps":[{"name":"doe","req":"^0.1.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ef0cc40cb8b8dd82ce926fd19e96e3ff5d1a65852c09ac0da66b8845f836e56","features":{},"yanked":true}
+{"name":"zoml","vers":"0.1.2","deps":[{"name":"doe","req":"^0.1.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30df1201a690f6d9627d0bcec425381b551b056b5e85f6dd5b622225efd48d8a","features":{},"yanked":true}

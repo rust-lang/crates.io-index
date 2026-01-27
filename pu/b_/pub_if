@@ -1,0 +1,1 @@
+{"name":"pub_if","vers":"0.1.0","deps":[{"name":"trybuild","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cd95cb3c3a9fbd2b36831afc971cbf813b91f44a6591069541ac06dbf16bb4f9","features":{"foo":[],"test_feature":[]},"yanked":false}

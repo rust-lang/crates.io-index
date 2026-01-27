@@ -1,0 +1,1 @@
+{"name":"tiny-grep","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.46","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61c6d111fa57311b3af4bcad054f75952ac774b7aaef2f405ac0067d78fea1a0","features":{},"yanked":false}

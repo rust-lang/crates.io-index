@@ -1,0 +1,1 @@
+{"name":"ianaio-history-wasi","vers":"0.1.0","deps":[{"name":"ianaio","req":"^0.1.0","features":["history"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"27848f19fb659155bc05923169f23c07e3326481c8b5ad23d459e3bb0ee93d29","features":{},"yanked":false,"rust_version":"1.80"}

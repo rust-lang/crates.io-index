@@ -1,0 +1,2 @@
+{"name":"sv4state","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee44ff71f9cf042702421857c7247050d8a8a0555f2557c86d295958a55eb82d","features":{},"yanked":false}
+{"name":"sv4state","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b04ae849a29bb16733f23f9f697545e206b092bbba3b683e8c31e2d09e918c7","features":{},"yanked":false}

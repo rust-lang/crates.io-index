@@ -1,0 +1,9 @@
+{"name":"sdio-host","vers":"0.1.0","deps":[{"name":"bitfield","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"804482c8be57d7c7a945e361f6c25adc689470dedb31cde66c5ad0efa36bfc5d","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.2.0","deps":[{"name":"bitfield","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4420c9e28c619e634815d28e67f0dba6eee810b790bf0760dfc2d0599f2f4920","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.3.0","deps":[],"cksum":"206705aab9156f1909854bcd03094a9e2c6a7e5084bf0eb1c72c5cafac9f160d","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.4.0","deps":[],"cksum":"33be587c3064049ec601d32a2fbdd76769f03870876e6ea0b88aac58af05daf8","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.5.0","deps":[],"cksum":"f93c025f9cfe4c388c328ece47d11a54a823da3b5ad0370b22d95ad47137f85a","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.6.0","deps":[],"cksum":"355c411b00ad0634aa29824b37d0755e931a349b3230ffdef846c140eeed9c09","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.7.0","deps":[],"cksum":"5b0b821f42c22b64804b9ec4c5066ab88dd06e5df580b65ecc63eeadfe1c4214","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.8.0","deps":[],"cksum":"fb66204c829d4894d14a69979e0d954acdfa2821f0d2094e510753ba46f984c8","features":{},"yanked":false}
+{"name":"sdio-host","vers":"0.9.0","deps":[],"cksum":"b328e2cb950eeccd55b7f55c3a963691455dcd044cfb5354f0c5e68d2c2d6ee2","features":{},"yanked":false}

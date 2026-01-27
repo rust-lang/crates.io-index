@@ -1,0 +1,1 @@
+{"name":"hotmic-stdout","vers":"0.1.0","deps":[{"name":"hotmic","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10e529545708e4ffad9c6dfe606517883b4c8e3292c6f88d81a9a069ba0b70c4","features":{},"yanked":false}

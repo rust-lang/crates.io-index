@@ -1,0 +1,1 @@
+{"name":"arch-toolbox","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a1850da32fd875afc43db25e102010378854cf3850cc3c644b678aea18256c0","features":{},"yanked":false}

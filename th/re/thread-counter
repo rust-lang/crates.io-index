@@ -1,0 +1,2 @@
+{"name":"thread-counter","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92222e2f8c3d597afd37094b702f24ccd78e1c3bc7ede8ba60ef372f5c4128d9","features":{},"yanked":false}
+{"name":"thread-counter","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0858a68bb16513eb4bcf70064757aafd544e843e033952172e0aa5d3f9dcc46c","features":{},"yanked":false}

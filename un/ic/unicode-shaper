@@ -1,0 +1,2 @@
+{"name":"unicode-shaper","vers":"0.2.0","deps":[],"cksum":"431d5d164ae79a96262ba26c72fa5cede3163d4cdc55fd972e58f6518ff9e48b","features":{},"yanked":false}
+{"name":"unicode-shaper","vers":"0.3.0","deps":[{"name":"lol_alloc","req":"^0.4.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-opt","req":"^0.116.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09d220199f2bba81ac63a2f296be48bd2b3591fba1692d79d2709b8280bfaaaa","features":{"default":[],"wasm":["lol_alloc"]},"yanked":false}

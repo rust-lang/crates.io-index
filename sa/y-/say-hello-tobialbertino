@@ -1,0 +1,3 @@
+{"name":"say-hello-tobialbertino","vers":"0.1.0","deps":[],"cksum":"d57204d73bdcfe513baf21776e1ef5157eacd7dfff904d2273b08614dc4e847a","features":{},"yanked":false}
+{"name":"say-hello-tobialbertino","vers":"0.2.0","deps":[],"cksum":"c1ed4952344c019425c64bf8be5cf8269e7fad824643148f4542e5c60431b421","features":{},"yanked":false}
+{"name":"say-hello-tobialbertino","vers":"0.3.0","deps":[],"cksum":"4fdc14027c238373e1b4dfc91bee6fd5e04cae67684b3581c189411694d39b38","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

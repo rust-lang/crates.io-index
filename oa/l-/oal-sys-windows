@@ -1,0 +1,1 @@
+{"name":"oal-sys-windows","vers":"0.0.3","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"a09ec418a92c2d021ee19f651a3903f1aaf6469c618aaf401931566672e5b645","features":{"generate":["bindgen"]},"yanked":false,"links":"openal"}

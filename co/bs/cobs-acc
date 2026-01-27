@@ -1,0 +1,1 @@
+{"name":"cobs-acc","vers":"0.1.0","deps":[{"name":"cobs","req":"^0.4.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"017b8ca8377075aa73b0ded82f67867742f0b3906a05b6849a3f10b302dadfd3","features":{"default":[],"std":["cobs/std"]},"yanked":false}

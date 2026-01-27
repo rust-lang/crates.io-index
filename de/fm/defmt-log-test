@@ -1,0 +1,1 @@
+{"name":"defmt-log-test","vers":"0.1.0","deps":[{"name":"defmt","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c3d7a2ae4868cc128fa511a53f8d00a84308ca97398bd8d4cc4f2fd66196225","features":{"defmt-debug":[],"defmt-default":[],"defmt-error":[],"defmt-info":[],"defmt-trace":[],"defmt-warn":[]},"yanked":false}

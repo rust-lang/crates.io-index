@@ -1,0 +1,3 @@
+{"name":"msfrn-test-lib","vers":"0.1.0","deps":[],"cksum":"309b0d057b7a2c81bf374202b3a94a14a89a77b5de8fe1213f9bcf11625390b3","features":{},"yanked":false}
+{"name":"msfrn-test-lib","vers":"0.2.0","deps":[],"cksum":"58c3a5290e26272410ce18ad0f78637e71e85b5d55d83fc2b7ac41d76a5294e2","features":{},"yanked":false}
+{"name":"msfrn-test-lib","vers":"0.3.0","deps":[],"cksum":"98a31bfc599a72b70412d4bdcfea2fed7c95a20e101805f6e5fbce816f442de1","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

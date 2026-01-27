@@ -1,0 +1,2 @@
+{"name":"epoll_test","vers":"0.1.0","deps":[],"cksum":"5edf2b66341f656fc02e7405d0533f07bd446e7268ed110ef7d2781e7a621f0c","features":{},"yanked":false}
+{"name":"epoll_test","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.36.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc7a1d2496550c7b1b02a371734b95777c28b3dde6adb59c712185ae2f328aff","features":{},"yanked":false}

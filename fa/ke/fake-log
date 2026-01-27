@@ -1,0 +1,1 @@
+{"name":"fake-log","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"229bd1f6299c3609b89db5f9185b68ae1b8eab7b12d0dde1e32b8586a50501b7","features":{"default":[],"serde":["log/serde"],"std":["log/std"]},"yanked":false}

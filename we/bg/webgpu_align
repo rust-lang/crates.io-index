@@ -1,0 +1,1 @@
+{"name":"webgpu_align","vers":"0.1.0","deps":[{"name":"half","req":">0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c2c17b6f0f600bf9c0f8dea626a727128a73cbe0bb72a78cc13436177baf65b9","features":{"default":["half"]},"yanked":true}

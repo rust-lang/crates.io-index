@@ -1,0 +1,2 @@
+{"name":"techkit","vers":"0.0.0","deps":[],"cksum":"3d3580e0d997c0fb36a2eff6dc06fb82c52980dc31e3d7999359a286cc454cfd","features":{},"yanked":false}
+{"name":"techkit","vers":"0.0.1","deps":[{"name":"editor","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f539b7e55cb4d649cce40d61e2aab9c5af57090b9bb0366a34f9ff17a14ec973","features":{},"yanked":false}

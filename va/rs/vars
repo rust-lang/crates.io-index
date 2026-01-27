@@ -1,0 +1,2 @@
+{"name":"vars","vers":"0.1.0","deps":[],"cksum":"f7d29e2ae89dfe00d631ffdd46031b1076665ab60eb56ecdb3f42c7acd459427","features":{},"yanked":false}
+{"name":"vars","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"vars_macro","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43290dcfddc5a42516a06872270594935896eec32a6520f41bead2225779c345","features":{},"yanked":false}

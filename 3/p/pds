@@ -1,0 +1,2 @@
+{"name":"pds","vers":"0.1.0","deps":[],"cksum":"c4553558c7a52db5e881c07545ede3dd1dea3d799f3bddc44afaafee786720ca","features":{},"yanked":false}
+{"name":"pds","vers":"0.2.0","deps":[{"name":"extended-primitives","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fasthash","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0dc575bdbb71a235ae84451b6eded3e9b7655c1214ccd3bf67d210e9bafa6cd","features":{},"yanked":false}

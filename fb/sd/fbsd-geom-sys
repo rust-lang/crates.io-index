@@ -1,0 +1,2 @@
+{"name":"fbsd-geom-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8dedfcb8b6fa942903faf4db437c0714bf2f538e760d0e4afcd36da84d393c0a","features":{},"yanked":false}
+{"name":"fbsd-geom-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"23fbe3ae62c125f42f95a85829de49e8713b99f8e7ca56bfc540c61a8ca19a76","features":{},"yanked":false}

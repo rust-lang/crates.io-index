@@ -1,0 +1,1 @@
+{"name":"fgrok","vers":"1.1.0","deps":[{"name":"glob","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"onig","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a93ba009021658f064aa37c63814d6cc9b2c10bf728e9fcb819ad8a3d27b57b5","features":{},"yanked":false}

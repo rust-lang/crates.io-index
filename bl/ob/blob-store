@@ -1,0 +1,2 @@
+{"name":"blob-store","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41c362557960ffa871af7817e0ec2b6c4346127c22707c553203bd8fe484e5a8","features":{},"yanked":true}
+{"name":"blob-store","vers":"0.1.1","deps":[],"cksum":"464868f6865e43b9cdcdf57bbfec1a5343dabbf7094acdb3c80124367d51840d","features":{},"yanked":true}

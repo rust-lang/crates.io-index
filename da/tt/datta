@@ -1,0 +1,2 @@
+{"name":"datta","vers":"0.1.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b1b21522a40222b0c97683682936f69688c57a189c4d1e38072f5f0f34837b7","features":{},"yanked":false}
+{"name":"datta","vers":"0.1.1","deps":[{"name":"regex","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2897b6ee2df01d35004f74c652187aca598d5d5f072b08b346453dd8ac67690a","features":{},"yanked":false}

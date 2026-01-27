@@ -1,0 +1,3 @@
+{"name":"fumen","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae980748749c167b6d507e16d42d8dd8cd5a308ebd774491ff05d10249e83e2c","features":{},"yanked":false}
+{"name":"fumen","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6e7908ad856c82fd0da2782cf20aceceb295f4ba476186b284a62ecfe983e45","features":{},"yanked":false}
+{"name":"fumen","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae2f2ce743f92bfe03f12f73731e39ac8b525a2f4044db2f098c224442c65ab1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"soft-i2c","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8c835e6693295626c2b3e126fa3ba2381ce3878abd362fc669ca8fd42e83947","features":{},"yanked":false}
+{"name":"soft-i2c","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6c38db6a63f164246d6ac544f2b2782016d5be15b249326a8304599bcddbff7","features":{},"yanked":false}

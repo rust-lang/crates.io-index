@@ -1,0 +1,1 @@
+{"name":"wasm_paq","vers":"0.4.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86a1f6a5438aa90c4fb24d3a589804bbadd3b14d5d5199a2a2fb5318fcf9547d","features":{},"yanked":false}

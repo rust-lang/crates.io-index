@@ -1,0 +1,1 @@
+{"name":"erase-pe-header","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.8","features":["memoryapi","libloaderapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"5cad5560cba2eba9086a174b9f0228dd6d02b486c17841ff9f7b8d59154d823b","features":{},"yanked":false}

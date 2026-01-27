@@ -1,0 +1,2 @@
+{"name":"mizo","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.48","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce7f5080fc523ffa26190f38fb26000d77685179e5b75208e17518da8aa2b917","features":{},"yanked":false}
+{"name":"mizo","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.48","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8da586efe86df945ef5b724b5dc0a418508eb7a35044c0ee04592aca1af8e553","features":{},"yanked":false}

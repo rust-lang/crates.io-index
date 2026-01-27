@@ -1,0 +1,2 @@
+{"name":"nsbox","vers":"0.1.0","deps":[],"cksum":"c59ede0565a5b87a0b48afb72c6762c7fe57cccbeefb3563cea7e2f0859d78c0","features":{},"yanked":false}
+{"name":"nsbox","vers":"0.2.0","deps":[{"name":"nix","req":"^0.30.1","features":["process","sched","user"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e5c8073cbee0e97b4a4221e93c3ddc2c76f215cbdcf54803f233a0af1ab3537","features":{},"yanked":false}

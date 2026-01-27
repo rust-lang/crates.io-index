@@ -1,0 +1,2 @@
+{"name":"markdown_to_text","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fd115a83d78b4488b2185273dcd551bd3200954174a626a34511dac5c9215f0","features":{},"yanked":false}
+{"name":"markdown_to_text","vers":"1.0.0","deps":[{"name":"pulldown-cmark","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dd3e978a3e6c89d951afc457219773398da38449602162939a8cb0d351d2941","features":{},"yanked":false}

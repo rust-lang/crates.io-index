@@ -1,0 +1,1 @@
+{"name":"dw_apb_uart","vers":"0.1.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f93d496c8faa9dc676ebfa225432e1e3b57645c9268ead889286546f6d39356d","features":{},"yanked":false}

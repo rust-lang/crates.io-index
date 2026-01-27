@@ -1,0 +1,2 @@
+{"name":"algebrust","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"815e2e8bfe001caac6c3f0ce7280348dbbe4b2f0c5c5c69e94493873bf62be95","features":{},"yanked":false}
+{"name":"algebrust","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74df8a6709d11be88b0b8e4d89999935d22f78b94e005aea73c293d09f3b7a7e","features":{},"yanked":false}

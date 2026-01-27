@@ -1,0 +1,2 @@
+{"name":"plugin_api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59fa4ac1d261de666b47c092f8f30de256e15b0ce684f0eaec441239255fc792","features":{},"yanked":false}
+{"name":"plugin_api","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c82b1a8a84e8e44f2291a140edeea8a2d8a6c1d0922f58aa82f6bb240c46131","features":{},"yanked":false}

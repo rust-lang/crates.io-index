@@ -1,0 +1,1 @@
+{"name":"srcu","vers":"0.1.0","deps":[{"name":"barrier","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30c9b0dc3fc96a905a0455716bc46f35ea23e99ae943efb42f2fe63f9dee4222","features":{},"yanked":false,"rust_version":"1.73"}

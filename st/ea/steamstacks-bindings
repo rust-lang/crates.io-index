@@ -1,0 +1,1 @@
+{"name":"steamstacks-bindings","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"93b4611e4e5d88c7cf012b0270d135d0a84afb27bd4d07073a8e9e30c068c083","features":{"rebuild-bindings":["bindgen"]},"yanked":false}

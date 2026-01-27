@@ -1,0 +1,1 @@
+{"name":"escnul","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.7.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b956fdb0ee88bded1519dc60e8b23722905b79ed2bf7ca81c93b810ec47753ca","features":{},"yanked":false}

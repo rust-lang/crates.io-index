@@ -1,0 +1,2 @@
+{"name":"focustrace","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea7dde2595b0a589ff1497b865f76d3c7164edf3b31fbf109f18fb8377cf0763","features":{},"yanked":false}
+{"name":"focustrace","vers":"0.2.0","deps":[{"name":"backtrace","req":"^0.3.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7de94e820362d1345b4a6b0a556e6383fc458b9835e57c0267df454ea9ad4d31","features":{},"yanked":false}

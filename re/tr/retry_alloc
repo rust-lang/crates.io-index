@@ -1,0 +1,1 @@
+{"name":"retry_alloc","vers":"0.1.0","deps":[{"name":"stats_alloc","req":"^0.1.10","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2211c0d929cdcef8b36b5c39b1156aa5d3707c7fa948a965ced629cf35656e63","features":{},"yanked":false}

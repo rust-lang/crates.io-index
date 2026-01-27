@@ -1,0 +1,2 @@
+{"name":"parking_monitor","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b605d897788cd6f6fb877dd80e406dc5b45a1b20b1adaea40b3b635fec2e627","features":{},"yanked":false}
+{"name":"parking_monitor","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a46fa2d6799b5c6f80989ee50b3d341fc5fc468ed1c4bd6a4b93129e0bca1306","features":{},"yanked":false}

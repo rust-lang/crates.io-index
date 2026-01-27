@@ -1,0 +1,3 @@
+{"name":"externcfn","vers":"1.0.0","deps":[],"cksum":"b31675185b830eed1d4ce16cfecd5e51eeb41d39c0fb39cbe0f31147b0fa0e7c","features":{},"yanked":false}
+{"name":"externcfn","vers":"1.0.1","deps":[],"cksum":"e29f367905fc14f8df9337309803c7683a0a2fcdfad2c6464e84874d0efa2fbb","features":{},"yanked":false}
+{"name":"externcfn","vers":"1.0.2","deps":[{"name":"externcfn-attr","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9984ce0e11474a58f17621574443c69770885fa67b14f4cbf3637f3bb9a80e9","features":{},"features2":{"attr":["dep:externcfn-attr"],"default":["attr"]},"yanked":false,"v":2}

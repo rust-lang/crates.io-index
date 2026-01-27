@@ -1,0 +1,1 @@
+{"name":"known-types-ietf","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"db7a951cbf583eace172a28424cbb7a72932a9c269447e4145227ae6aba592be","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false}

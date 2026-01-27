@@ -1,0 +1,1 @@
+{"name":"goglob-common","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.136","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1255841c0bc3413466e8536be4612c01bbf992579fe4afff5b9bc3d7dcaf9e6f","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

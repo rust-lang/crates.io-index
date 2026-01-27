@@ -1,0 +1,2 @@
+{"name":"tiny-varint","vers":"0.1.0","deps":[{"name":"zigzag-rs","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d011195cc3b8a7002ba2caae647a6398f09487934d00912b050885ade58adbe4","features":{},"yanked":false}
+{"name":"tiny-varint","vers":"0.2.0","deps":[{"name":"zigzag-rs","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"208916571688a0d90ad99136e5b8ba24df5a201310eee3c6a2e8363a3747d45c","features":{},"yanked":false}

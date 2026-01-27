@@ -1,0 +1,2 @@
+{"name":"provenant","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aba992029b1fcf65a75738e3a653f3a6b1d4b929bfa565c954de8f6e7946caa7","features":{},"yanked":false}
+{"name":"provenant","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0124964f3f02088e276566d4b447c9450c65648928c53d73e3cccb4b26e02279","features":{},"yanked":false}

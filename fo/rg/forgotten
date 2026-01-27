@@ -1,0 +1,4 @@
+{"name":"forgotten","vers":"1.0.0","deps":[],"cksum":"adadf7c912bc6447f6d1e86e62f49305aeca70eb8452135861feb92d5b87317f","features":{},"yanked":false}
+{"name":"forgotten","vers":"1.1.0","deps":[],"cksum":"d0156dfc70f202d2eea8052988401cd7f0e41c81c494975b591791c20574a945","features":{},"yanked":false}
+{"name":"forgotten","vers":"1.1.1","deps":[],"cksum":"6669b69949e87c440475224a574bfe1060f1d164ca3fa9f75150f92901c143d7","features":{},"yanked":false}
+{"name":"forgotten","vers":"1.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3e6476268fae84ac985ba729bd611f96ababc7c15389226fbf884982d1814de","features":{"custom":["num"]},"yanked":false}

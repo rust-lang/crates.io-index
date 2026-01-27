@@ -1,0 +1,3 @@
+{"name":"static_hero_icons","vers":"0.1.0","deps":[],"cksum":"b83dddc20e87a8794a381c38ab84644883f3ccee56a3fb9da1b9ad490312f4b1","features":{},"yanked":false}
+{"name":"static_hero_icons","vers":"0.2.1","deps":[{"name":"include_directory","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb7f962a0b352d999d5f1ddf76c5b906def26a1df9c3911a57fb5c807dd954ac","features":{},"yanked":false}
+{"name":"static_hero_icons","vers":"0.3.0","deps":[{"name":"include_directory","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e776fe12e3c339cf1447d18856a1a0607e81bb3f23c6a2a35955119d94da3d2","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"WebServer_kevin","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.30","features":["thread-pool"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb90d736a5d61300729842cbf12299226a11d81c7ac36ef5a9c1c5c20c1f09ea","features":{},"yanked":false}

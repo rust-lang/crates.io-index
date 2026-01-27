@@ -1,0 +1,1 @@
+{"name":"limiting-factor-core","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.226","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08366055dd3510623f3f0ed550b788b1be4884c3a23acadb7d5f3f73bdf3049f","features":{},"yanked":false}

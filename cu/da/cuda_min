@@ -1,0 +1,7 @@
+{"name":"cuda_min","vers":"0.1.0","deps":[],"cksum":"9eb0988f6583c71b0a4d2dff42f2f526569391561f472350904bdfada3197cb5","features":{},"yanked":true}
+{"name":"cuda_min","vers":"0.1.1","deps":[],"cksum":"ee04a83761aadec6b9d8937c68862a4bf075021f198b59d10c104264faed8efd","features":{},"yanked":false}
+{"name":"cuda_min","vers":"0.1.2-pre1","deps":[],"cksum":"b9a70d382232a39c4071f786b24bd5052082d5601596a34bbc5ec39d25a1948a","features":{"default":["panic_handler"],"panic_handler":[]},"yanked":false}
+{"name":"cuda_min","vers":"0.1.3","deps":[],"cksum":"95cae562c971d978702b543011739b843a9ecab25b2293551bd6de335e70d5b9","features":{"default":["panic_handler"],"panic_handler":[]},"yanked":false}
+{"name":"cuda_min","vers":"0.1.4","deps":[],"cksum":"c6a524b51fdc9f0fdfe46bfef9e348fc8a274253e7ec2dbed9e90c82d74a9a49","features":{"cudart":[],"default":["panic_handler"],"panic_handler":[]},"yanked":false}
+{"name":"cuda_min","vers":"0.1.5-before-vprintf-fixed","deps":[],"cksum":"e041016a11addd2f1e5271067427008285ded261ebc69d4b08bd5b8d5ea13ab0","features":{"build-script-with-llvm-bitcode-linker":[],"cudart":[],"default":["panic-handler","build-script-with-llvm-bitcode-linker"],"panic-handler":[]},"yanked":false}
+{"name":"cuda_min","vers":"0.1.5","deps":[],"cksum":"cd01d28706bb02344e1a8298959f4abba79d279f4722cfdf1ea7648d6df2a56d","features":{"build-script-with-llvm-bitcode-linker":[],"cudart":[],"default":["panic-handler","build-script-with-llvm-bitcode-linker","using_v2_suffix"],"native-error-desc":[],"panic-handler":[],"using_v2_suffix":[]},"yanked":false}

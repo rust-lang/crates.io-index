@@ -1,0 +1,1 @@
+{"name":"dimensional","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c259f2ea8c41007ada01025f1e710c5c7bcfc11db15182ec9d146d97224b384","features":{"default":["si"],"si":[]},"yanked":false}

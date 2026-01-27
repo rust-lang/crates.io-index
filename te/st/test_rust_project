@@ -1,0 +1,2 @@
+{"name":"test_rust_project","vers":"0.1.0","deps":[],"cksum":"475c0e3f4280af3b7c52bcc7039f7bfbcf62c988da64c0ba6c9a9827251b9601","features":{},"yanked":false}
+{"name":"test_rust_project","vers":"0.2.0","deps":[{"name":"ferris-says","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"030b1dc788541567f4b5f6d11258cbc4f341e630cef56d7737f2df2fb2aa0705","features":{},"yanked":false}

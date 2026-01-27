@@ -1,0 +1,13 @@
+{"name":"pogp","vers":"0.1.0","deps":[{"name":"console_error_panic_hook","req":"^0.1.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"web-sys","req":"^0.3","features":["console"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f11e343bf757c94f4194236bbbf66bf77c7dd3e1a9c8bbb951ad86923f4a5f99","features":{"default":["console_error_panic_hook"]},"yanked":true}
+{"name":"pogp","vers":"0.0.5","deps":[],"cksum":"bcfcaabba0de272148e6fa6050ade428fe59cf8d18e49c68cfb7dc8a0c42bbce","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.6","deps":[],"cksum":"70575abcda9f7f37f86296ebf84bde2883154e08cc3bf2fd3f8f0bd7b4c15051","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.7","deps":[],"cksum":"eec172b79adfc68db60b40409cd24ea7cf603573b72af7c94c160950b9b1fa5a","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.8","deps":[],"cksum":"896606c8c41ae6604748ef8113323daeecd941e1d7c3dad30232dd0c1e46d60f","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.9","deps":[],"cksum":"1d5a7bc3f4346a01d258654a0f47f2e81d7eb1ecb040744b3b7e1a570e143f85","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.10","deps":[],"cksum":"285369b1c79a2044170f016fc16f830ef69fc53b2708ab76ff7762322194542f","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.11","deps":[],"cksum":"3870cf22b3f3067bf913f6eff3c23316b509dcb9b6bd1aac41fbacc6af1fb90a","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.14","deps":[],"cksum":"708778b24fc60886add63cb5459162005b63eac16ef15f71a2c19633fbb66044","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.16","deps":[],"cksum":"7adc736d90b1c1793477ee8fd35733c358ce5e53396eb37c41af6e7d3081fee0","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.17","deps":[],"cksum":"7f9bdaee2821d8763d69f97dd3b06dc6ff64aff1805c18cabd94595caeb84c8b","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.18","deps":[],"cksum":"7f14ae13c3965141e0897f2324212250e0dc0b225bff5a459347992df882f0e0","features":{},"yanked":false}
+{"name":"pogp","vers":"0.0.19","deps":[],"cksum":"749eba89f3c231c0d0b1fcca05655bef350a4733046661907dbaaa763a2b72ef","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"roam-task-local","vers":"0.0.0","deps":[],"cksum":"51b17d6d0d7e49a9938a294f55bc18d9bb7ee4a14b661bd40a4ef60b7389fa0c","features":{},"yanked":false,"pubtime":"2026-01-22T22:48:02Z"}
+{"name":"roam-task-local","vers":"0.6.0","deps":[{"name":"pin-project-lite","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e51975771f82da1b2e9c398267f374a970d2d7561355345340ef9b12f0a6bb1","features":{},"yanked":false,"pubtime":"2026-01-22T23:11:15Z"}

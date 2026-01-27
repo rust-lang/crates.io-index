@@ -1,0 +1,1 @@
+{"name":"rust-libiperf","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d8608608c2feba1af9e5be2a4f0f35136fe8a5460b397abbf93d8dd54a889d47","features":{},"yanked":false}

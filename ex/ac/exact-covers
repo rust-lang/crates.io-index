@@ -1,0 +1,5 @@
+{"name":"exact-covers","vers":"0.1.0","deps":[],"cksum":"abc7cbb24317da8b68f2d7035bf0d6523607f64d0a080ecca5b261d5e492b09f","features":{},"yanked":false}
+{"name":"exact-covers","vers":"0.1.1","deps":[],"cksum":"f9037329e7174148f0b1464997e64492a4a35912bcb548fd87adcb5884fe4672","features":{},"yanked":false}
+{"name":"exact-covers","vers":"0.2.0","deps":[{"name":"smallvec","req":"^2.0.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f581ae137b8a75b8ab37df95b8b243473b1ed63599fdf584a9204dde5aaf2afc","features":{},"yanked":false}
+{"name":"exact-covers","vers":"0.2.1","deps":[{"name":"smallvec","req":"^2.0.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05307f882515dcf5b450399497396530fc87402e715a9edfc82901d2f3ea586d","features":{},"yanked":false}
+{"name":"exact-covers","vers":"0.3.0","deps":[{"name":"smallvec","req":"^2.0.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8fe9d34abd47cdaeb49a8c324cf31d13ee29eda6194f58d0765eb88e6a8954c","features":{},"yanked":false}

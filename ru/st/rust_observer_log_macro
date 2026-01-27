@@ -1,0 +1,6 @@
+{"name":"rust_observer_log_macro","vers":"0.1.0","deps":[],"cksum":"f3ab2925f4e4018b32e9bf4559dea3b0f487a3217b84d8eca30b3ef4fd5ef92f","features":{},"yanked":false}
+{"name":"rust_observer_log_macro","vers":"0.1.1","deps":[],"cksum":"bb34bc267dac7f7066c5fc93335d3b5a41dccb33e1437c6c99433afcbf96278d","features":{},"yanked":false}
+{"name":"rust_observer_log_macro","vers":"0.1.2","deps":[],"cksum":"bd987def1d8ab9509f11b6b32cd18319463e044da8f7fcaba0d00d6704cf0050","features":{},"yanked":false}
+{"name":"rust_observer_log_macro","vers":"0.1.3","deps":[],"cksum":"26474f6f41d01389f4c32e69f63f46da6271fcb5e14626ac08e36a61dfa7c471","features":{},"yanked":false}
+{"name":"rust_observer_log_macro","vers":"0.1.4","deps":[],"cksum":"9bf635b5d3edd6445c2af60a6c1bfdf6ed51d58bf7c913499e5f93ceb9c7d52e","features":{},"yanked":false}
+{"name":"rust_observer_log_macro","vers":"0.1.5","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be43f9651f7e903d74c9e55f1a428518b7cfe59a2b85dcf262a2a4512f9bf908","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"esbat","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"735bcc8c69f3b3f8f93abff14a36951dc2acc31eaf16ab178e991edc91bc1ffa","features":{"clock":["chrono/clock"]},"yanked":false}

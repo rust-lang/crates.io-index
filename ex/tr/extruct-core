@@ -1,0 +1,4 @@
+{"name":"extruct-core","vers":"0.1.0","deps":[],"cksum":"c048ca7f5753e8c06b20186f606e0ec5041e819d4c14a71fbcd250b33efa82ca","features":{},"yanked":false}
+{"name":"extruct-core","vers":"0.1.1","deps":[],"cksum":"f60c7e88924a59254d11a68d63e39fd1f9037e85ca35572d020d3a0ea9031557","features":{},"yanked":false}
+{"name":"extruct-core","vers":"0.2.0","deps":[],"cksum":"a726215a89903dbc646919f86fa0f66c0bee2232232ee93389e85485b7a3facd","features":{"default":["fields","extruct_from"],"extruct_from":[],"fields":[]},"yanked":false}
+{"name":"extruct-core","vers":"0.2.1","deps":[],"cksum":"4d8ca7ccf6cc8af0936caebde2621d753baf10b698fec1712d1442b84c6ececd","features":{"default":["fields","extruct_from"],"extruct_from":[],"fields":[]},"yanked":false}

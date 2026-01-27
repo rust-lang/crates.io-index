@@ -1,0 +1,2 @@
+{"name":"ptlv","vers":"0.1.0","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e5a8d793d8f60156b48c03761f46361e7e117e86a24ac7410359220e89edb94","features":{},"yanked":false}
+{"name":"ptlv","vers":"0.1.1","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5487a3b29c18316b022497d3495b546b5b400124c0fe5db1fa5f85532f620c4","features":{},"yanked":false}

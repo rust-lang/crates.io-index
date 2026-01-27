@@ -1,0 +1,4 @@
+{"name":"rusty_brainfck","vers":"0.1.0","deps":[],"cksum":"4d9b2e6bc826ac894ef73ef3bf30c11f3e196d59446f759a5b564b194cc6a653","features":{"alloc":[],"default":["alloc"],"no_alloc":[],"tinix":["alloc"]},"yanked":false}
+{"name":"rusty_brainfck","vers":"0.1.1","deps":[],"cksum":"27a151d6f5464c051b444ca52f5844954ef7db3575327861e0068621e4782464","features":{"alloc":[],"default":["alloc"],"no_alloc":[],"tinix":["alloc"]},"yanked":false}
+{"name":"rusty_brainfck","vers":"0.1.2","deps":[],"cksum":"00ee31b8087b4d2f553b4f64c6d42dee210d89657af909c51e64b1ab527e2e5d","features":{"alloc":[],"default":["alloc"],"no_alloc":[],"no_std":[],"tinix":["alloc","no_std"]},"yanked":false}
+{"name":"rusty_brainfck","vers":"0.1.3","deps":[],"cksum":"c12fe39923f9a14db7e398d3f234a1eab2cb0430b97fd9b86c064fe6be85764c","features":{"alloc":[],"default":["alloc"],"no_alloc":[],"no_std":[],"tinix":["alloc","no_std"]},"yanked":false}

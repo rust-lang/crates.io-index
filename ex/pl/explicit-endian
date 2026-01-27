@@ -1,0 +1,7 @@
+{"name":"explicit-endian","vers":"0.1.0","deps":[],"cksum":"1ce7c317fd4eb8dca42982cc01f150a82861d14c667ec0cb5f2ea2e6f8ef174e","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.1","deps":[],"cksum":"a3f284e7abb6cb79608797f3d35d9c7561c1f90f689969b7e1dfc383efb1abbd","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.2","deps":[],"cksum":"821b782a0c79acc9016c20c31d02a49e249b02b9b846a9807cdafbbb94773c51","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.3","deps":[],"cksum":"4959d870c4fe8177fa1e353ab259d8f0bfd7bdab7e5e94b1a8e1ea13b191274a","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.4","deps":[],"cksum":"3045fe79c506ddadfc0776f92df2277f84bafa6a17f5d344a476b0b77d0dd614","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.5","deps":[],"cksum":"d93808ab1055673b022ae4c4ce366948c19f5dd9b4fd0f8aee352c4be8e2aa8d","features":{},"yanked":false}
+{"name":"explicit-endian","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b6f0649a227d974f302abd1fa2d5ee449b091419ce6d31f212c38a2e09279f1","features":{},"yanked":false}

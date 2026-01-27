@@ -1,0 +1,4 @@
+{"name":"phpify","vers":"0.1.0-beta1","deps":[],"cksum":"45031938bfa449fc4027a300c6d9a1363b8238af7aeb6d270442b3b839cd7a2e","features":{},"yanked":false}
+{"name":"phpify","vers":"0.1.0-beta2","deps":[],"cksum":"1c517a85a017ffb1e71bc185fec5bfec2b9b79bacf2abdaec20d55a97496c56f","features":{},"yanked":false}
+{"name":"phpify","vers":"0.1.0-beta3","deps":[],"cksum":"eb805f8df766337a045bd2da64ce2bcd01bf5ece3ee4fab4a9ec936c5c1ab4ac","features":{},"yanked":false}
+{"name":"phpify","vers":"0.1.0-beta4","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01424fb8fa5e87354b88a0afb335744d9b213ea7730f4c45aedc88bb5de739fd","features":{},"yanked":false}

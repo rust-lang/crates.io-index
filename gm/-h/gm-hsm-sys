@@ -1,0 +1,2 @@
+{"name":"gm-hsm-sys","vers":"0.1.2","deps":[],"cksum":"d1ebfca44b84386b39f6571d439a94e56efac21227689c80357710d3f1be7ee0","features":{"skf":[]},"yanked":true}
+{"name":"gm-hsm-sys","vers":"0.2.0-beta.1","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7649208e197b651b4eed7768b7c3844f3d713725cf63db4a2423a2b7777677c","features":{"all":["skf","sdf","dll"],"default":[],"dll":["libloading"],"sdf":[],"skf":[]},"yanked":false}

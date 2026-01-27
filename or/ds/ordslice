@@ -1,0 +1,3 @@
+{"name":"ordslice","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d251d060a0a85d4f4684ff091add1ec0d7942cc73c785add114e2ed26c19b5d7","features":{},"yanked":false}
+{"name":"ordslice","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"04e5e6135238d22741190949333b38dbde73662e9849ca0e4420b3ab50380274","features":{},"yanked":false}
+{"name":"ordslice","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd20eec3dbe4376829cb7d80ae6ac45e0a766831dca50202ff2d40db46a8a024","features":{},"yanked":false}

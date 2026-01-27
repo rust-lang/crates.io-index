@@ -1,0 +1,1 @@
+{"name":"bkup","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e20542bfb0f154bf4de2aebb2de712284d311d1633c8e96a0df0139b1774d12","features":{},"yanked":false}

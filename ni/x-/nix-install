@@ -1,0 +1,11 @@
+{"name":"nix-install","vers":"0.1.0","deps":[],"cksum":"be8a5ec6f7483c7e6cecb53885ee91ab76b90aa16a924ee26d77edd69c4f6a14","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.1","deps":[],"cksum":"3da3aad735b3c140d69be0880166ddc8f5ac0f027e5da589e16ee079bbbd8b42","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.2","deps":[],"cksum":"35e6d3f2f53afe459942f4a1e862b185ebccb7d658d1b84b51dd221057a064eb","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.3","deps":[],"cksum":"39ca0c56ef56fdea016e6d5a4c0c4212d74ca1e5d49579ae4cd3f21318de90d6","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.4","deps":[],"cksum":"3a17f7d763dfad4310d7ba599561e320db2732cef1f37956886224e9f2731645","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.5","deps":[],"cksum":"a049b8be7dafc25577e4745bacae8e78f3bd527acf9a3d02d8ba0e1f421497d8","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.6","deps":[],"cksum":"434627138e0f60a2741b598a95d3b30c27d6acd08437f2c3945a3f80fd6926fe","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.7","deps":[],"cksum":"eea7b05a042f2a2fee500ff5836c90b41f01d33e1132aa2ad014681ae6003d68","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.8","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9bb0263b2bbff009bac96dceb833dc285f0b15743b5cfdc7cb4a146992076e9","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.9","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a938f07d1ab1d0594ce374ce4a87f4ca694a347e4bf393d494028362f9dffeb4","features":{},"yanked":false}
+{"name":"nix-install","vers":"0.1.10","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"042fa779009f63e40637d88c02a67efd9ec95afd312665c5f3e4756582ef0810","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"release-management","vers":"0.0.0","deps":[],"cksum":"28047de0f4ca48eb206eddbaa90c5253f777f7f790bcf0ddd52f83b8a5f8d190","features":{},"yanked":true}
+{"name":"release-management","vers":"0.0.1","deps":[],"cksum":"254e9a66b2b4dbf2025af1e918595fc4d8358b59418741bcf39cddeadd06a682","features":{},"yanked":true}
+{"name":"release-management","vers":"0.0.2","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12ddf9b607ada1017b3b654ae3909b558c70f7ac6d0016a78544b68908efeb4b","features":{},"yanked":true}
+{"name":"release-management","vers":"0.0.3","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91064db38c6d22e01b8122f56be86054e469f4bf3c371aa0f7d9a60e9e69d54a","features":{},"yanked":true}
+{"name":"release-management","vers":"0.0.4","deps":[],"cksum":"62666f26f57440f8908bd6f43860b8012ea92269b6105f3c911933782a2b2f67","features":{},"yanked":true}

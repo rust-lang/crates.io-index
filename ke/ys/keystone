@@ -1,0 +1,1 @@
+{"name":"keystone","vers":"0.9.0","deps":[{"name":"bitflags","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0409d156f77bf2a5fc3a9f78233b0594ca5cf7a6021fa617403e6c7a2dd421fe","features":{},"yanked":false}

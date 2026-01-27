@@ -1,0 +1,2 @@
+{"name":"maze_runner_rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b58581874e0ed8f71eea3b093b5559658d79574ccf09988bb196624d896e9060","features":{},"yanked":false}
+{"name":"maze_runner_rs","vers":"0.2.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26ed64f6e1fb949da872c9dd215df94519381b571d588aab06c8d5fd21793ec1","features":{},"yanked":false}

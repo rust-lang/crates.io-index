@@ -1,0 +1,2 @@
+{"name":"olympia_core","vers":"0.1.0","deps":[],"cksum":"34ce0a0e51104334456c6874fa5f0e8a469d05b2d334a225d8d7a7789c3421f0","features":{},"yanked":false}
+{"name":"olympia_core","vers":"0.3.0","deps":[{"name":"derive_more","req":"^0.99.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7516d0c577cca7d4301f33438b13b86dbde325d87ff9638ebf163a930a8332ed","features":{},"yanked":false}

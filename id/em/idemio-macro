@@ -1,0 +1,1 @@
+{"name":"idemio-macro","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ce686330d19d1078be1a91bfef47036dbfef4e139584fbf98a5a679837d8f2e","features":{},"yanked":false}

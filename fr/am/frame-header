@@ -1,0 +1,2 @@
+{"name":"frame-header","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"165fb0f6608be1a2bf2a0b843c05834afe03285e8651148006f50990dc775bbc","features":{},"yanked":false}
+{"name":"frame-header","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5796530ca77b8fb39b6159e47326d46e447625829617665873a6f93e40a49b40","features":{},"yanked":false}

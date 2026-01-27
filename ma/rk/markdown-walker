@@ -1,0 +1,1 @@
+{"name":"markdown-walker","vers":"0.0.1","deps":[{"name":"comrak","req":"^0.32.0","features":["emojis","shortcodes"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ccf2b7a2032e92287e885134a9d2355a9eae81f0a1d437c57712f70218bc689","features":{},"yanked":false}

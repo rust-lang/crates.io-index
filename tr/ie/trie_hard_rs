@@ -1,0 +1,1 @@
+{"name":"trie_hard_rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"23e2b07ec8868f9a69d5028fafaade30bbe6ff2ee8348c004d85966737d9fe9d","features":{},"yanked":false,"rust_version":"1.85.0"}

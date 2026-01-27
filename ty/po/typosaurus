@@ -1,0 +1,2 @@
+{"name":"typosaurus","vers":"0.1.0","deps":[{"name":"typenum","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc498373a67021ab597d404440bb9ae6ef08938a607bb7286dadd5089ad83d65","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"typosaurus","vers":"0.2.0","deps":[{"name":"typenum","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12a87d3adbf01c636e98049ef5c63e35e33cacbabbffe07be6d7e510bcba10f5","features":{},"yanked":false,"rust_version":"1.85"}

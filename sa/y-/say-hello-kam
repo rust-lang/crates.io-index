@@ -1,0 +1,3 @@
+{"name":"say-hello-kam","vers":"0.1.0","deps":[],"cksum":"f21bdc19f4f2347cee1759043700d700c23a5711bed50df0d3e15bb666eb5ccf","features":{},"yanked":false}
+{"name":"say-hello-kam","vers":"0.2.0","deps":[],"cksum":"40683a0eb5e98ad7ee26e7e7822e0b6a38594388d59fc991bebb95891723ed00","features":{},"yanked":false}
+{"name":"say-hello-kam","vers":"0.3.0","deps":[],"cksum":"e30530fc48477a140dfb7c79e3b367d8eb65f33b3d9654b5966564478d1ee5b2","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

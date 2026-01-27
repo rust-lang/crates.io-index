@@ -1,0 +1,7 @@
+{"name":"powerpack-env","vers":"0.4.2","deps":[],"cksum":"14518ca82daa8426607ef24e24de0b98367e4795e12e02e997f9f0e4c303b5af","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.5.0","deps":[],"cksum":"858cdd1a7982ce911d7f308f967880c28af8d343e1121ba384b9f532b7347d76","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.6.0","deps":[],"cksum":"70677891e7685a1187b9f2a1368677bf84c8045b35df3a61982b8b0cc63aeee9","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.6.1","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"becbd1963398192176759d87f0cd6b8cc852d9fee85a09764014b2afe013a08d","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.6.2","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f89ce0e201e072e1ca243557766095c01a41e5ff02e993db4747024e8aaf8a","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.6.3","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9aeac46b42ad05b18e0edff109fb4bc42b7e81c9789a8b5a25bd47e40f88289","features":{},"yanked":false}
+{"name":"powerpack-env","vers":"0.7.0","deps":[{"name":"home","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41d42a064b456edfdf862d47d6b06227a2bf617045a11f86f549e629ff908637","features":{},"yanked":false,"rust_version":"1.89"}

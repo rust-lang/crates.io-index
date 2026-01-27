@@ -1,0 +1,1 @@
+{"name":"nvml-binding","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aef7bbda3754b11898ccbb5fe0bb2496008ba6c821bbc12fb554a4d49e579393","features":{},"yanked":false}

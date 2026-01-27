@@ -1,0 +1,2 @@
+{"name":"redash-utils","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"721014c9efed640541db8b08f2a2258692119024cc599fbfb4955b4dbda0c6cf","features":{},"yanked":false}
+{"name":"redash-utils","vers":"0.1.1","deps":[{"name":"clap","req":"^4.4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08c614bae8651c56deb9c01e6c543d4c9c07edb98c236ad9d034c35d5825ab38","features":{},"yanked":false}

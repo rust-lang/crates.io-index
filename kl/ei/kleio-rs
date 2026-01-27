@@ -1,0 +1,1 @@
+{"name":"kleio-rs","vers":"0.1.0","deps":[{"name":"base62","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6870d7df968e37b6f865f0ae744eb47157da90774d9b6ca60775491b0cd2eaef","features":{},"yanked":false}

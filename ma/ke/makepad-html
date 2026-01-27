@@ -1,0 +1,2 @@
+{"name":"makepad-html","vers":"0.9.0","deps":[{"name":"makepad-live-id","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dfc656d684064288f40dbe1e006dd584734306b945b3c4e451b75403ae544fc","features":{},"yanked":false}
+{"name":"makepad-html","vers":"1.0.0","deps":[{"name":"makepad-live-id","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c6d9872427cddc4505748e130fe93c54031e56d8c5b010a906c77e595e8e7e","features":{},"yanked":false}

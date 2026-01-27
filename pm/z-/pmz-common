@@ -1,0 +1,1 @@
+{"name":"pmz-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.13.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"23506bed5039e69b840281d3fb4a01163bdf6c9243556c920c18ed72d66c2e76","features":{"default":[],"user":["aya"]},"yanked":false}

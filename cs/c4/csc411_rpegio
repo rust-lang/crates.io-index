@@ -1,0 +1,5 @@
+{"name":"csc411_rpegio","vers":"0.1.0","deps":[],"cksum":"f0571784c3ebf5af0b2df72a875312605342df89c18a8bc49b20ca40c5d0cac6","features":{},"yanked":false}
+{"name":"csc411_rpegio","vers":"0.2.0","deps":[],"cksum":"d0d24886a4a7e80d0410d5510a5544b6551fd5283c8895c0474eb5263259738e","features":{},"yanked":false}
+{"name":"csc411_rpegio","vers":"0.3.0","deps":[],"cksum":"156dafa50c74bc5503f2c16dfa55162379e748033b57e732f220bc667fe945ba","features":{},"yanked":false}
+{"name":"csc411_rpegio","vers":"0.3.1","deps":[],"cksum":"cf742d0e9b9bef2963d469186611d0edce95cc8e3b5d06d746a8e87bc88001df","features":{},"yanked":false}
+{"name":"csc411_rpegio","vers":"0.4.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3f68892c1d3fd172eb8d3f2c75b6b57cdcd54c940b383a3e6779f9970044f6b","features":{},"yanked":false}

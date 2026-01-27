@@ -1,0 +1,7 @@
+{"name":"onebuck","vers":"0.1.0","deps":[],"cksum":"6460d3b525cf0a276673e58e4cde44c4a6f2f1589e7dc7b98e639a2019306be9","features":{"default":["get"],"get":[]},"yanked":true}
+{"name":"onebuck","vers":"0.1.1","deps":[],"cksum":"52a8bec008fe3cbc215e7aa39f5f41b35f1928b4e73d56aa545dac300b4c7dba","features":{"default":["get"],"get":[]},"yanked":false}
+{"name":"onebuck","vers":"0.1.2","deps":[],"cksum":"640e2136901288166dfc5c2898cf3eac1b064cb042a0b412468ba9807a86bde1","features":{"clone":[],"default":["get"],"get":[]},"yanked":false}
+{"name":"onebuck","vers":"0.1.3","deps":[],"cksum":"f2a82507e32453eb7c4a51f7b09305e6048db3a048b57894bcbd900258e77701","features":{"atomic":[],"clone":[],"default":["get","atomic"],"get":[]},"yanked":true}
+{"name":"onebuck","vers":"0.1.4","deps":[],"cksum":"2534dcccafe456b044247a08cc11a46992c6be11a9a3e4420ca9207c8dc802e0","features":{"atomic":[],"clone":[],"default":["get","atomic"],"get":[]},"yanked":false}
+{"name":"onebuck","vers":"0.1.5","deps":[],"cksum":"ac906cae87751ec3dcbb4c1d4480a2d6ad2fc164b055cce20cdb0794e31d74ab","features":{"atomic":[],"clone":[],"default":["get"],"get":[]},"yanked":false}
+{"name":"onebuck","vers":"0.1.6","deps":[],"cksum":"ee5e49fee1583aec1bb3ebf829591f2390393efbddafa5cff2632ba56a80c4a4","features":{"atomic":[],"clone":[],"default":["get"],"get":[]},"yanked":false}

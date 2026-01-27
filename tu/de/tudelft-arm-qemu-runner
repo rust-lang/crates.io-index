@@ -1,0 +1,3 @@
+{"name":"tudelft-arm-qemu-runner","vers":"0.1.0","deps":[],"cksum":"303351fd1c21ef1a83c781758012e7be379dc68ac4e56957160543b3ae041540","features":{},"yanked":false}
+{"name":"tudelft-arm-qemu-runner","vers":"0.1.1","deps":[],"cksum":"7d70a47bb8fa0c2c4a8153581ba84521f09c83c12aa30d77437f7f8bc74c75ce","features":{},"yanked":false}
+{"name":"tudelft-arm-qemu-runner","vers":"0.2.0","deps":[{"name":"tracing","req":"^0.1.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14cd999e49a3978c31c773a7a734ab2b1161543fe56cf7122b6241bb92852ffb","features":{},"yanked":false}

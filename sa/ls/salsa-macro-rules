@@ -1,0 +1,12 @@
+{"name":"salsa-macro-rules","vers":"0.1.0","deps":[],"cksum":"7e354e0bdf1a23d822161e2b0f95c07846535a0e81deba77248a6ac22d19bc97","features":{},"yanked":false}
+{"name":"salsa-macro-rules","vers":"0.18.0","deps":[],"cksum":"3e0f2c6f97c6096bf74761dae515b77eea3299b6693d2247e5f0a99f6e6eb115","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.19.0","deps":[],"cksum":"2619b4b451beab0a7e4364ff1e6f31950e7e418888fd9bf2f28889671563166a","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.20.0","deps":[],"cksum":"f55a7ef0a84e336f7c5f0332d81727f5629fe042d2aa556c75307afebc9f78a5","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.21.0","deps":[],"cksum":"a4e6166fa2802d86a77dbcae1bfe75f0ac46fdf952660c233ed64855a53dd603","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.21.1","deps":[],"cksum":"05303d72606fbf2b9c9523cda2039bb8ecb00304027a3cd7e52b02a65c7d9185","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.22.0","deps":[],"cksum":"8ea72b3c06f2ce6350fe3a0eeb7aaaf842d1d8352b706973c19c4f02e298a87c","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"salsa-macro-rules","vers":"0.23.0","deps":[],"cksum":"2edb86a7e9c91f6d30c9ce054312721dbe773a162db27bbfae834d16177b30ce","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"salsa-macro-rules","vers":"0.24.0","deps":[],"cksum":"6ca3b9d6e47c08b5de4b218e0c5f7ec910b51bce6314e651c8e7b9d154d174da","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"salsa-macro-rules","vers":"0.25.0","deps":[],"cksum":"f475cc48bf02822cfbe1401bb89fd643368bc9a4588568a6cdddaadc9bc4c40d","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"salsa-macro-rules","vers":"0.25.1","deps":[],"cksum":"79bd81e77e9c0bf562cb4b7f5ddc7418788d409ef42d4fa8af3a4a23b6d702fa","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"salsa-macro-rules","vers":"0.25.2","deps":[],"cksum":"1bfc2a1e7bf06964105515451d728f2422dedc3a112383324a00b191a5c397a3","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85"}

@@ -1,0 +1,3 @@
+{"name":"sql-bridge","vers":"0.0.1","deps":[],"cksum":"47fb204ddf5f23e2d5840ea4d63ae1c0277595dc8d5b23d6e0cc8ac8fb241aad","features":{},"yanked":false}
+{"name":"sql-bridge","vers":"0.1.0","deps":[{"name":"sqlparser","req":"^0.59.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8140848b37fe550b2d9394480c865ec54127d41c0e049f8d2fe5f6fc9ad7ba43","features":{},"yanked":false}
+{"name":"sql-bridge","vers":"0.2.0","deps":[{"name":"sqlparser","req":"^0.59.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b21999e9c60fb05c3699c04664a5fe9f52c7318109c8d2cb34cd9b5f4656eb8","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ipfix","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3997769ed49c64101fd3b4ac51da6d7d38aaf0931a9c96144fbaddc85bbffddb","features":{},"yanked":false}
+{"name":"ipfix","vers":"0.1.1","deps":[{"name":"nom","req":"^2.0","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eec14e601f7a267061ae1efed4b7e9ccb178296cb92c6454707e8d312320ecdb","features":{},"yanked":false}

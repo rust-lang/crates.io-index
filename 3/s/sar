@@ -1,0 +1,2 @@
+{"name":"sar","vers":"0.1.0","deps":[],"cksum":"856f353e8f03995aa73667d179bd1d98b745db27b6a7a41c10d207260bb9e013","features":{},"yanked":false}
+{"name":"sar","vers":"0.1.1","deps":[{"name":"polars","req":"^0.50.0","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02aa1787663720cffe037e74ba82d64fad34ba2185b0d260949d33b4babdc253","features":{},"yanked":false}

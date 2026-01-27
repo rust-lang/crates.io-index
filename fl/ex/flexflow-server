@@ -1,0 +1,2 @@
+{"name":"flexflow-server","vers":"0.1.0","deps":[{"name":"flexflow","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86074556d842eaa76dc094727b60c8789753f07984258aca34719d34da575704","features":{},"yanked":true}
+{"name":"flexflow-server","vers":"0.1.1","deps":[{"name":"flexflow-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f6a7efcd5bddb624f07e1f3c617204091b982cc7e6aa89ff114829eaa14e6e3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"vex-sdk-mock","vers":"0.0.1","deps":[{"name":"vex-sdk","req":"^0.27.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55283baa551435a728ee5dd0bd592f99ae163fa66c952219a9ae80978b8764c","features":{},"yanked":false}
+{"name":"vex-sdk-mock","vers":"0.1.0","deps":[{"name":"vex-sdk","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f5631508ce6f1e57d20d4ca59b6c2667a5d8b0e4c7a4d2b1cef7b3c1eb5ef99","features":{},"yanked":false}

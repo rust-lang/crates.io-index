@@ -1,0 +1,2 @@
+{"name":"android-tzdata","vers":"0.1.0","deps":[{"name":"zip","req":"^0.6.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac29b4ab6162ff328930c099950952cac8e6a578ee4674ec2e01d2391cf9f05c","features":{},"yanked":false}
+{"name":"android-tzdata","vers":"0.1.1","deps":[{"name":"zip","req":"^0.6.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e999941b234f3131b00bc13c22d06e8c5ff726d1b6318ac7eb276997bbb4fef0","features":{},"yanked":false}

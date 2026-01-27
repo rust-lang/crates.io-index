@@ -1,0 +1,20 @@
+{"name":"lazysort","vers":"0.0.1","deps":[],"cksum":"8eda345751934c64c8150559cc1b4b1a35dd5d8557a666318cfc568ddb1e8696","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.2","deps":[],"cksum":"f95fdba588d0c91b09d2bd6b35bbfa8685d0129d7565fc03db48210bd7430741","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.3","deps":[],"cksum":"486363ca6488e78dcbcfd7884d1f790cc27c62536a9590707cce1ceb84736d60","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.4","deps":[],"cksum":"d1bd1db1e3a23c30fbe87c4dee46285ab4203229d397471ff705811f3433c999","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.5","deps":[],"cksum":"274bbffae01c69fa688d5c181957a95e68212597dfb0eee1ccb120a1b72d558a","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.6","deps":[],"cksum":"b82c1d13568fcacc87fbd7259f4f9543c5c120b7f9947b18920d706ba376b055","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.7","deps":[],"cksum":"bc7898c25b4fdc1aa62cc65645248619ba6807c839dfe35f14e967399d4e597e","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.8","deps":[],"cksum":"42b76c41fe246c5f395a4ed26faee7c6fffa1c59eeac3b1051c5f33f06c6c4ab","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.9","deps":[],"cksum":"cd5895d06ce9f6f01e9f0cd60e2c14e0c4ea975ce9337aeee6380a2d9d8e8653","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.10","deps":[],"cksum":"1975696dd9a1c10c40454987fe644c223fb2a14a78f4adff4ce3aab5016c6b04","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.11","deps":[],"cksum":"12d7486800cff866fd2ed9acc0c292757ccd52a9075e7962c965b09e669cff82","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.12","deps":[{"name":"rand","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"296098583fd15650c203970fc1e2afc51cac20d1a836543f9a309717b3bf95db","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.13","deps":[{"name":"rand","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873cd2250bfc83a2dbe164da2cedd34bee70aa7d035d979cba28b5773f304e3f","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.14","deps":[{"name":"rand","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c68f84d46a9000aeaf5178c36e68df2e357fb6a90843ed0d880f85734141e19b","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.15","deps":[{"name":"rand","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a158b409ec357b4d5e187a9b6278e97e9af318a57a39904273370f643598c6","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.0.16","deps":[{"name":"rand","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77e4e310fa045aa9337ff502f19341999ab1d9d24deb3430008bd6ae61e580c9","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48c70077035284ef9d81d32df6302269a8301087367e435179a69f81799be46f","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ee054c4bd7fb801da8a7489e79af348e27c8ce95ec754875a80047f2b2600bb","features":{},"yanked":false}
+{"name":"lazysort","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183ec8cdfed14090d032b5498f10a38b91a56dff39573cc75e5c72c2c3de900a","features":{"nightly":[]},"yanked":false}
+{"name":"lazysort","vers":"0.2.1","deps":[{"name":"rand","req":">= 0.3, <= 0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0e22ff43b231e0e2f87d74984e53ebc73b90ae13397e041214fb07efc64168f","features":{"nightly":[]},"yanked":false}

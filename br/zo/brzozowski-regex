@@ -1,0 +1,2 @@
+{"name":"brzozowski-regex","vers":"0.1.0","deps":[],"cksum":"b353d9e20204e416632c28a7b913444a5606381271eed988a318e7bd90bc7026","features":{},"yanked":false}
+{"name":"brzozowski-regex","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smallvec","req":"^1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ecde9ec06d8cb6c8ecf6a2cc7f09b92fba9145145b7f9c1abbf24984027c12e","features":{},"yanked":false}

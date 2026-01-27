@@ -1,0 +1,1 @@
+{"name":"AitSar","vers":"0.1.1","deps":[{"name":"shaderc","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"winit","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b7fdffb796a0dd44d0af78b86869af9b28a2b9ae175bae10f6972305bdeab3b7","features":{},"yanked":false}

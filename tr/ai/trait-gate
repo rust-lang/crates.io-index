@@ -1,0 +1,1 @@
+{"name":"trait-gate","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tracing","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46725d5fb7c0a21d2f674f7b2e57c7330e33ab220851f5628f90e9b06b080fa4","features":{},"yanked":true}

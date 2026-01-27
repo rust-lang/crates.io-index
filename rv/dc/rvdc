@@ -1,0 +1,2 @@
+{"name":"rvdc","vers":"0.1.0","deps":[],"cksum":"133d1f9b1b515427a1d1419cb80c41007bbf9a04c5e12a65e00041d950fcd905","features":{},"yanked":false}
+{"name":"rvdc","vers":"0.1.1","deps":[{"name":"object","req":"^0.36.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tempfile","req":"^3.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fcb268e837fc930a35c7bd6585466b6358b0a696627b174caf4ac80a9a13d8b","features":{},"yanked":false}

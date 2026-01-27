@@ -1,0 +1,2 @@
+{"name":"meminfo","vers":"0.1.0","deps":[],"cksum":"ae62e175487ee1e2560101b9d1223bbaef6668f284728c062266e1101fca4e8a","features":{},"yanked":false}
+{"name":"meminfo","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70429a96100352bfeb296c6c085e9332ef155db2090e77375fce22e9dbca6fe2","features":{"default":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"unique-token","vers":"0.1.0","deps":[{"name":"triomphe","req":"^0.1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1340080fbdac3759190a9c5a77a482beba87eb9f96025950b49cc485c99afcaf","features":{},"yanked":false}
+{"name":"unique-token","vers":"0.1.1","deps":[{"name":"triomphe","req":"^0.1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a532631e97aa1c04bcca24af80c63589613778d709528a663eaa12e160b456d8","features":{},"yanked":false}
+{"name":"unique-token","vers":"0.2.0","deps":[],"cksum":"d3be9e39e944fa35b07f5eb280902bf4d2dc29dfbc26175230a0d0ea124a7b66","features":{},"yanked":false}

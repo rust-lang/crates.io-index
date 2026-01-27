@@ -1,0 +1,1 @@
+{"name":"rebinb","vers":"0.1.0","deps":[{"name":"bytemuck","req":"1.21.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54d4f3b68d0a2d365bc2e4fffd67542185c64b34090f8878522e1c8cebf304c3","features":{},"features2":{"bytemuck":["dep:bytemuck"]},"yanked":false,"v":2}

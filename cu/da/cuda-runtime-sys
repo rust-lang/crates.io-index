@@ -1,0 +1,1 @@
+{"name":"cuda-runtime-sys","vers":"0.3.0-alpha.1","deps":[{"name":"cuda-config","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5d070b301187fee3c611e75a425cf12247b7c75c09729dbdef95cb9cb64e8c39","features":{},"yanked":false,"links":"cudart"}

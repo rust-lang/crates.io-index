@@ -1,0 +1,2 @@
+{"name":"lucky","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8863b7369a7724532f156fce2ab01da54f3c3322d3108e306249b0a9bae0f773","features":{},"yanked":false}
+{"name":"lucky","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16dc0ad03c3acf1d0a08aff0aaacb39f60c683c1d026557ecc1a069dedd5307a","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jv","vers":"0.0.1","deps":[{"name":"clap","req":"^2.23.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03cc521e21af5ceb3565500c3f14d3b5c8860782b22d9ff226314f1938ca11ad","features":{},"yanked":false}

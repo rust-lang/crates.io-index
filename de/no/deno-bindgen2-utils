@@ -1,0 +1,2 @@
+{"name":"deno-bindgen2-utils","vers":"1.0.0","deps":[{"name":"deno-bindgen2-macro","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25a341ecc4ae5947c48c9d236ffff7238e2db54daceb4ee47e4b11f6d04161e0","features":{},"yanked":false}
+{"name":"deno-bindgen2-utils","vers":"1.0.2","deps":[{"name":"deno-bindgen2-macro","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54481d92b8ed010e3a0588507b574d7c6d66b24b097e701e9fe46a911156b354","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"avila-id","vers":"0.1.0","deps":[{"name":"avila-serde","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0a8a18c340f13b5c20f845be7dd267ebe4f40f72a1cfb34848a71ab8b5c382e","features":{"default":[]},"features2":{"serde":["dep:avila-serde"]},"yanked":false,"v":2}

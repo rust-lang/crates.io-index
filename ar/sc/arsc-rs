@@ -1,0 +1,1 @@
+{"name":"arsc-rs","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"memoffset","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1fd69b88136375560006514a53b596ea6374c8a0069009c21aa804eafeb8451","features":{},"yanked":false}

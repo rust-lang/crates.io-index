@@ -1,0 +1,2 @@
+{"name":"baraja","vers":"0.0.0","deps":[],"cksum":"77234a983955d09a78ead95cd3481a79a9e6570ad5c3bf283df7343ad30a2efb","features":{},"yanked":false}
+{"name":"baraja","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.215","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"99460a5c558d236e814da84a327169ec5a079ab3592c1e164c9ffb89ba715cd8","features":{},"yanked":false}

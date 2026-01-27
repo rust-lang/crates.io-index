@@ -1,0 +1,1 @@
+{"name":"fastlz-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"20de788b4299495a08d2382146bd11ce9c7f6c2f53d3750d9ef49dc558cf5a39","features":{},"yanked":false,"links":"fastlz"}

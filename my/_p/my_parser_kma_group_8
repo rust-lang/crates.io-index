@@ -1,0 +1,2 @@
+{"name":"my_parser_kma_group_8","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8c85d535143fd0a57b04617881fbd5906e2dc9165951c7fefa691bf831aa362","features":{},"yanked":true}
+{"name":"my_parser_kma_group_8","vers":"0.1.1","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83a0589bb9fb65da82b5b5eb9474d2e54be2639188b637ea9eec23fbe3c77d7a","features":{},"yanked":false}

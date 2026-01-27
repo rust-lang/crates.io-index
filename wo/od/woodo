@@ -1,0 +1,2 @@
+{"name":"woodo","vers":"1.0.0","deps":[{"name":"nix","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6ab8942981e296e046cf52de2cd0b29f9b63c4940c3065d277c97f3691f0e3e","features":{},"yanked":false}
+{"name":"woodo","vers":"1.0.1","deps":[{"name":"nix","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f696165892ed2645234aa4cc1535696eb7e911de34c3fe1f0ff8028fefbcea7e","features":{},"yanked":false}

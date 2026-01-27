@@ -1,0 +1,2 @@
+{"name":"creators_crate","vers":"0.1.0","deps":[],"cksum":"4ceb3ab4f6b17dbe693d1cd7bd1ddd1a61ba008a2e0c9ac598138ae0a93ebb54","features":{},"yanked":false}
+{"name":"creators_crate","vers":"0.1.1","deps":[],"cksum":"7610022e84f2b33b200fcaf87148d6a98d6dd09e73df6a55dd38de97f48349b5","features":{"eth":[],"sui":[],"web3":["eth","sui"]},"yanked":false}

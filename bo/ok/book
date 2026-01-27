@@ -1,0 +1,2 @@
+{"name":"book","vers":"0.1.0","deps":[],"cksum":"4f8785516e010abdc7c68c2130438041e6722d3e6803ce0ab4cc993371ebfcda","features":{},"yanked":false}
+{"name":"book","vers":"0.2.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f45ad57f0e071571e5a9a828248ca483348d4b83fe48874824021b85dfbbde0","features":{},"yanked":false}

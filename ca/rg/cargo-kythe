@@ -1,0 +1,1 @@
+{"name":"cargo-kythe","vers":"0.1.0","deps":[{"name":"kythe-indexer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aeb5ae8f79869aeb296c37e11950277f7eef45df8a4b99c9f2b23ec1cccc08b9","features":{},"yanked":false}

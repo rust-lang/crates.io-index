@@ -1,0 +1,2 @@
+{"name":"die_parser","vers":"1.0.0","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1247a4042d5e3881d5b990b3b808067d4f3ce580e7690433718927178da9adab","features":{},"yanked":false}
+{"name":"die_parser","vers":"1.0.1","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58cf7d7d6132fab1b149c8834a5eb30f2599ec8f1245248fa5bd01d16fca040a","features":{},"yanked":false}

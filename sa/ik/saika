@@ -1,0 +1,2 @@
+{"name":"saika","vers":"0.1.0","deps":[],"cksum":"a96934345247cb3042656996d56a2893f311e1037cf0405bcbbf64319fc2decf","features":{},"yanked":false}
+{"name":"saika","vers":"0.1.1","deps":[{"name":"clap","req":"^4.2.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"657bf29a3d36687a7382ddd0245475794e611ef3923873317396814ebd1bb9f2","features":{},"yanked":false}

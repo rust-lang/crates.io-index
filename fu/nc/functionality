@@ -1,0 +1,2 @@
+{"name":"functionality","vers":"0.1.0","deps":[],"cksum":"65a3bdd2d2b583ad5a19a9c9f48ae5a6a7c3166bf51ae839e53852939993f44b","features":{},"yanked":false}
+{"name":"functionality","vers":"1.0.0","deps":[{"name":"pipe-trait","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2f7c095c3a28f956689924e80f164f9781d39c2d2a5fb043a0e148745e32494","features":{},"yanked":false}

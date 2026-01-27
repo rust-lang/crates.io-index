@@ -1,0 +1,2 @@
+{"name":"clap-tree","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.53","features":["unicode"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"201e0bbbd4a45092bd473b6518f4f587e59e32c7acf63a376d0ffa3cc96156f4","features":{},"yanked":false}
+{"name":"clap-tree","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.53","features":["unicode"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3643f6d6329adac48b5e2db10fdfd7364e902fdc8c614e2e88743a1d46a1366","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mctp","vers":"0.1.0","deps":[],"cksum":"f7547ebef610d84e26c4a979d3606007dedd63a52fdc03dcc3b7a7e4b2d63467","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"mctp","vers":"0.2.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8280034c4afaa377d825c17261987ff26a638369ea4b46919e1726741eec253","features":{"default":["std"],"std":[]},"features2":{"defmt":["dep:defmt"]},"yanked":false,"v":2}

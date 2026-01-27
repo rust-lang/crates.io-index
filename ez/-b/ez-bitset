@@ -1,0 +1,1 @@
+{"name":"ez-bitset","vers":"0.1.0","deps":[{"name":"bitvec","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4edec09ad9e472dc8d749b4919241579fd98182711dfd368f2b723ddf48e6bc5","features":{},"yanked":false}

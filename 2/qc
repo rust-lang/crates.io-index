@@ -1,0 +1,2 @@
+{"name":"qc","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a1e42556c07b98283c6762adad88031622beebda475a5816481aaeccac67e89","features":{},"yanked":false}
+{"name":"qc","vers":"1.0.0","deps":[{"name":"structopt","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"286c7f437defd3f47d246d16f6a077877f1be168a948cf1473a344a1e8e2bbd2","features":{},"yanked":false}

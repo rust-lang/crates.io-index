@@ -1,0 +1,2 @@
+{"name":"csv-merger","vers":"0.1.0","deps":[{"name":"csv","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47b4414ee2eb73634ebc4fb5231cd97d395a4528d6ec47ef1e29be034718617c","features":{},"yanked":false}
+{"name":"csv-merger","vers":"0.1.1","deps":[{"name":"csv","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55553a5d2122d17dbff5f928754f4ae8bedc780c7f974e762cc3125f6ac3be14","features":{},"yanked":false}

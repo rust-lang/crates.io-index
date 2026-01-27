@@ -1,0 +1,1 @@
+{"name":"encoding-next-index-singlebyte","vers":"1.20180106.0","deps":[{"name":"encoding-next_index_tests","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e02c0bac231a1cc5f494a7d78ef01b4a2e8927d34b9b5c8436cd486dc06d9a85","features":{"no-optimized-legacy-encoding":[]},"yanked":false}

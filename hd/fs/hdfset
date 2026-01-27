@@ -1,0 +1,1 @@
+{"name":"hdfset","vers":"0.0.1","deps":[{"name":"pyo3","req":"^0.23.3","features":["abi3-py310"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6307a2490ec8b39ce41afa9d8c6018264a1b267a051419674136a5cc45d5995","features":{},"yanked":false,"rust_version":"1.80"}

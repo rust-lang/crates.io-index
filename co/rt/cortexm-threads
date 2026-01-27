@@ -1,0 +1,2 @@
+{"name":"cortexm-threads","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"530df03a65ee6c4321d0fbc918c52925b387b0012d9ddbd5520b5d2c2ddef744","features":{},"yanked":false}
+{"name":"cortexm-threads","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f8fcc907c964c2e44f5a7f41c987280c2493688a4eab4354c459568a8fb46b88","features":{},"yanked":false}

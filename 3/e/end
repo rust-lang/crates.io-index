@@ -1,0 +1,6 @@
+{"name":"end","vers":"0.0.0","deps":[],"cksum":"a661a80e58cc29c86140d1e27f0cd7da040a0c44eb72e28f511b1f0ddc3ab4d1","features":{},"yanked":false}
+{"name":"end","vers":"0.0.1","deps":[],"cksum":"70cdd4f599c748aeeda6f544718d715afc16a12ee2b5687be07b377c9b91d6d9","features":{},"yanked":false}
+{"name":"end","vers":"0.0.2","deps":[],"cksum":"7f54a90bc1547c8d3831c1297dd817c509cc49635fc931e92967f7aa825884df","features":{},"yanked":false}
+{"name":"end","vers":"0.0.3","deps":[],"cksum":"8673e5166512108c06779c72ae2608f49a2efb05ffa0266b1745b56c33d0b3c3","features":{},"yanked":false}
+{"name":"end","vers":"0.0.4","deps":[],"cksum":"b8913f54451d8b7bef9ef508143b20c707ce15f22c7ad12e0b0ced4086731ae6","features":{},"yanked":false}
+{"name":"end","vers":"0.0.5","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7b7f11211c16d43fd6987cbcebacc50176f63a02cf21be3b3593ac3e601e5294","features":{},"yanked":false}

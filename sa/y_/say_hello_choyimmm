@@ -1,0 +1,3 @@
+{"name":"say_hello_Choyimmm","vers":"0.1.0","deps":[],"cksum":"40683fce3fd1e1a58d07318de979b94d777aad1f52dad32ff54ad0e36fee9f3e","features":{},"yanked":false}
+{"name":"say_hello_Choyimmm","vers":"0.2.0","deps":[],"cksum":"04e96195cf282c8410812f5eb1672320a543a0fc89734cc91bda732347aa71a9","features":{},"yanked":false}
+{"name":"say_hello_Choyimmm","vers":"0.2.1","deps":[],"cksum":"345fa99b35f2d646a1ac11b3cc5651663becdb72c3994c03c846a0b890f311d1","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

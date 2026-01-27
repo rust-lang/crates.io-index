@@ -1,0 +1,3 @@
+{"name":"rpi-info","vers":"0.1.0","deps":[],"cksum":"487e01f474bd2b40ae9c0ddfe942dc9a78954378a6afe9b27d55137239b11bc0","features":{},"yanked":false}
+{"name":"rpi-info","vers":"0.2.0","deps":[{"name":"regex","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"000378f347f0644e4109242a053b517cfecc32c8ffe1d37f6ccac5b3d3e1ef87","features":{},"yanked":false}
+{"name":"rpi-info","vers":"0.3.0","deps":[{"name":"regex","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b9355bd48ab7240fb4759f430cfe1d53a2344b20c7ecc05fb461cbf7f2ae8bb","features":{},"yanked":false}

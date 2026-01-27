@@ -1,0 +1,2 @@
+{"name":"memo_int_sqrt","vers":"0.1.0","deps":[],"cksum":"c79a6671f53c56684ad4e84522afd27cc4ee8124b2c249647b3467f03a695425","features":{},"yanked":false}
+{"name":"memo_int_sqrt","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b61ed86ed63e74ded3e330b242e1c8304a97201fb0f2a8c0291d1bbafc9d9aa","features":{},"yanked":false}

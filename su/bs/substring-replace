@@ -1,0 +1,12 @@
+{"name":"substring-replace","vers":"0.1.0","deps":[],"cksum":"095818fa9c0122de41b36573ca34e1827f332eed4c6ec651ad15299a071909f4","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.1","deps":[],"cksum":"65787f0bb30eae348374a92d51bacc05242bb6d6b790f7894017a791121b5a72","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.2","deps":[],"cksum":"a9d5306ecde1aa50fdfcbc0b478db7d098b2da4891dbbc5e05b5261d5b74b918","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.3","deps":[],"cksum":"ec0ed39ba36ffbb7e176f5228a6694c63998051902f6184fc5eb0d9b4850fd8c","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.4","deps":[],"cksum":"915ecf8af1187f67737a4f7670623195762f6a1dfeafc6f119ba3172d7807a7c","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.5","deps":[],"cksum":"1bc3190a466d6a4a99d60237c5e8342d150a5c7d04c82a0ec50b607e5726e9dd","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.6","deps":[],"cksum":"5c716e563c795cca49d1bd69186402679c25bfb5ef027304a0145d7e0b5f124e","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.7","deps":[],"cksum":"9e8549e28b79c6ae3cc518e84633eea5d22fcad2e5500b5daac55ca5549ac882","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.1.8","deps":[],"cksum":"cf6c5f244ce5ab7e70eb78210c7e8af51c343003a23ee6ff7926eca43897cd42","features":{},"yanked":false}
+{"name":"substring-replace","vers":"0.2.0","deps":[],"cksum":"ed6633d2c1975b97fb7505df70a78e72c58e72d20fcc6daa720c594d278f497d","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.2.1","deps":[{"name":"to-offset","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7fd64bb722ad0e8c48f7afb13a0a21550af9b398726e9497ae5392e91a95137","features":{},"yanked":true}
+{"name":"substring-replace","vers":"0.2.2","deps":[{"name":"to-offset","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d375927450a98f9096a9fe7e94aefecdf444c870abb5ef3bd415669205b6b6fb","features":{},"yanked":false}

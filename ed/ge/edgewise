@@ -1,0 +1,1 @@
+{"name":"edgewise","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1934c78ae71cbff920f258f86668330cb9b225cc4b6878e7a0ab4378133cbee6","features":{},"yanked":false}

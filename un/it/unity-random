@@ -1,0 +1,1 @@
+{"name":"unity-random","vers":"1.0.0","deps":[{"name":"serde_crate","req":"^1.0.208","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal","package":"serde"}],"cksum":"9af66ac38cd45c1eb2a0dbe3b3f01d5744e1a556d55de35c37aa4752de25ffea","features":{"serde":["serde_crate"]},"yanked":false}

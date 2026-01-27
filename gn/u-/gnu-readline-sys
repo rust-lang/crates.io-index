@@ -1,0 +1,1 @@
+{"name":"gnu-readline-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4477b7f2da615c4cf3d3b9048ed46aee30ab2359a3fd2b3edf9af7bebe24d280","features":{},"yanked":false,"links":"readline","rust_version":"1.56"}

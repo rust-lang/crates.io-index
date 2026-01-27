@@ -1,0 +1,1 @@
+{"name":"air_hockey","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.17.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23941a1a353853206ec002e94f745c689da202a34e67c5a03229db72918ba757","features":{},"yanked":false}

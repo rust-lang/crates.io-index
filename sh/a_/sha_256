@@ -1,0 +1,8 @@
+{"name":"sha_256","vers":"0.1.0","deps":[],"cksum":"d1bd9e7dc9e000ad944cd5b32dfa8cd98bb2cf843048cea2daa7f0801fc313f4","features":{},"yanked":false}
+{"name":"sha_256","vers":"0.1.1","deps":[],"cksum":"327b330d8a640167a79f91ff3f2b31c36e626587f3cdb5ec970aa795af6b65e0","features":{},"yanked":false}
+{"name":"sha_256","vers":"0.1.2","deps":[],"cksum":"e8073d38550bd45413f3c6e060b084b5b8285536376c25332421a1438a6fe66a","features":{},"yanked":false}
+{"name":"sha_256","vers":"0.1.3","deps":[],"cksum":"263434173fd3b57c2058457caba6817170b0067a39bee34c59cea89f55b52f2d","features":{},"yanked":false}
+{"name":"sha_256","vers":"0.1.4","deps":[],"cksum":"75a96674735028ac0a9ca4748daf7f087e1ff2202645e2c5d02517fe62f2e49f","features":{},"yanked":false}
+{"name":"sha_256","vers":"0.1.5","deps":[],"cksum":"ef6ccf969e3f006c1c4f4d875b020f39fc3ef15fa3c6631d0ceecff40828036f","features":{},"yanked":false}
+{"name":"sha_256","vers":"1.0.0","deps":[{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"30d170e1c3943a030124651fb235434844e2cb752fa7a35a2028ba24f26cfb57","features":{},"yanked":false}
+{"name":"sha_256","vers":"1.0.1","deps":[{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"67aa05c520a4a52e76d716c5e1fa67fb132d16df779b6479014e40b1aa16e921","features":{},"yanked":false}

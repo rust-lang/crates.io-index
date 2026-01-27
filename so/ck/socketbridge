@@ -1,0 +1,1 @@
+{"name":"socketbridge","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aebc3aa0fb7c63052becf175f93edc288f83c4946497fff13d8b06e8636f3f93","features":{},"yanked":false}

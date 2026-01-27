@@ -1,0 +1,1 @@
+{"name":"whisper-rs-sys2","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9c50ab347f06dfea5a21c279f95353ea6baab0447d7d5d876ab66294be30e47b","features":{},"yanked":false,"links":"whisper"}

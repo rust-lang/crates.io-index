@@ -1,0 +1,2 @@
+{"name":"xz","vers":"0.0.1","deps":[],"cksum":"623ca846e8c644141a3ad552c93382829c8997bd22a89556c177baa2f20eca54","features":{},"yanked":false}
+{"name":"xz","vers":"0.1.0","deps":[{"name":"xz2","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c887690ff2a2e233e8e49633461521f98ec57fbff9d59a884c9a4f04ec1da34","features":{"tokio":["xz2/tokio"]},"yanked":false}

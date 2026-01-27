@@ -1,0 +1,1 @@
+{"name":"google-geo","vers":"0.1.0","deps":[{"name":"hyper","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"072312bb1111b4d599eed3c58cc1d1c9cf063a3526cea80ad1829791648b8173","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"fuzzycomp","vers":"0.2.0","deps":[],"cksum":"4bac273f127b2f6cf9bb20982acfeba967ed2e47ed487bb80eaa2a1c39b49975","features":{},"yanked":false}
+{"name":"fuzzycomp","vers":"0.2.1","deps":[],"cksum":"58d1c8c6c85f3080677b1d7c1d1d69ca92eda570b488cfdfaf62a93009dd636a","features":{},"yanked":false}
+{"name":"fuzzycomp","vers":"0.3.0","deps":[],"cksum":"c0eb7c8fc2de6a159bb601059e9ce79f691fc1fc560c67bbc3440c671e9b07a7","features":{},"yanked":false}
+{"name":"fuzzycomp","vers":"0.4.0","deps":[{"name":"assert_approx_eq","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c891580239c77135ee1a8ac2dc8054617c53f1267cc732bb8915f8dde80237e0","features":{},"yanked":false}

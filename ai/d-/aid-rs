@@ -1,0 +1,1 @@
+{"name":"aid-rs","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06b320f64d2fb18d627d537e3b7fd5e356b530a3ed73e3c559a4ef0b57d31246","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"read-primitives","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b604acf1b50e5f7daab7a4de7579252d082be4f302dc72ffc834848b63687a5","features":{},"yanked":false}
+{"name":"read-primitives","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc786023eb88cb074dceb3c445ee33528d1b70352446feb66995db455c9bea38","features":{},"yanked":false}

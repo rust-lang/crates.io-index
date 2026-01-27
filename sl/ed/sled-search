@@ -1,0 +1,2 @@
+{"name":"sled-search","vers":"0.1.0","deps":[{"name":"sled","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0cdc5e5306c36b85fe0d2bc1566af3fc1bfef5d6355f6275b64152e414b798f","features":{},"yanked":false}
+{"name":"sled-search","vers":"0.2.0","deps":[{"name":"sled","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1140170679c0400101b87a43828d802ee0bd9fda1d9dce08ec1f523c86c9c100","features":{},"yanked":false}

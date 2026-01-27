@@ -1,0 +1,3 @@
+{"name":"learn-crate-lib","vers":"0.1.0","deps":[],"cksum":"5c597677d5b501717fb122dee0649a686a1dfa2241af7af35bf1e6e0323786ad","features":{},"yanked":false}
+{"name":"learn-crate-lib","vers":"0.2.0","deps":[],"cksum":"d09b97bc0bd54a2ec967ff9ff589bb14cc9ea7ea64e325d87d3f2383cf65da49","features":{},"yanked":false}
+{"name":"learn-crate-lib","vers":"0.3.0","deps":[],"cksum":"4746f9c3fc94937450c213f1a34dc29e69feaf98a9138d384b3cee7bd43a49ae","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

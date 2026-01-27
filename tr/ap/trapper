@@ -1,0 +1,2 @@
+{"name":"trapper","vers":"1.0.0","deps":[],"cksum":"799d85922d456c1850582d16d71a6005cc59995a20541f47584dbc284b084dd1","features":{},"yanked":false}
+{"name":"trapper","vers":"2.0.0","deps":[{"name":"trapper_macro","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a537f6622981ea0460acb74acfdf4d7393d932ccdadacae0b533aa28a9f62d1","features":{},"yanked":false}

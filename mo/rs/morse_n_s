@@ -1,0 +1,1 @@
+{"name":"morse_n_s","vers":"0.1.0","deps":[{"name":"cpal","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d135d9d5b40ac581f211e1ac379aa491f84d5b169dbd838cea2b68bb2222ce9c","features":{},"yanked":false}

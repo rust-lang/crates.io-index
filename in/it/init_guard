@@ -1,0 +1,5 @@
+{"name":"init_guard","vers":"1.0.0","deps":[],"cksum":"ae4149ca444c1d2d849d5511913fed6225bbb8b084c02951eaf8aabb9696036e","features":{},"yanked":true}
+{"name":"init_guard","vers":"1.0.1","deps":[],"cksum":"f85c4c606312af01c1206a1f43cdb9eb4e5a7eeb2a1cc5ddf09d0959c50ebe3e","features":{},"yanked":true}
+{"name":"init_guard","vers":"1.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e7603343d971d8afe0704f5a9b8f2fbb08c0a26ec50a956bbf5c0c5bfc71fd3","features":{},"yanked":true}
+{"name":"init_guard","vers":"1.2.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f451895db56005d345d1e5788117a783989992b1e12157908c889f2bcfd40dc","features":{},"yanked":true}
+{"name":"init_guard","vers":"1.3.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68be482b92855940da3d54d8d1320f7e8d569740132a547b55f263df71f8d368","features":{},"yanked":false}

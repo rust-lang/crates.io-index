@@ -1,0 +1,1 @@
+{"name":"gnome-mail","vers":"0.0.1","deps":[{"name":"gtk4","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e4890bb6833508b8a9882e6981a270530d9d40030e1b1fe99c72d5ac41d8cb","features":{},"yanked":false,"rust_version":"1.74"}

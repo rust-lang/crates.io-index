@@ -1,0 +1,1 @@
+{"name":"http-req-no-std-win","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["wininet","errhandlingapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ca8dade167b16526e2fc803394b71e6929b03c51c588ec1c8aaa876497ac587","features":{},"yanked":false}

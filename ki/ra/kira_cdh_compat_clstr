@@ -1,0 +1,2 @@
+{"name":"kira_cdh_compat_clstr","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5792b84ac3379b02d898a5431b2df472a7b6cac7d1cf7806923655a7f91f9a68","features":{},"yanked":false}
+{"name":"kira_cdh_compat_clstr","vers":"0.1.2","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3fa5b7b90760c772bd759386667be76de67ab0579ea4566ddd0408522647d7e5","features":{},"yanked":false}

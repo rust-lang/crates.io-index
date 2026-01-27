@@ -1,0 +1,2 @@
+{"name":"ixc_vm_api","vers":"0.0.1","deps":[{"name":"ixc_message_api","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"381165a12ea5c552b94aa34d21c5d7297924ea676985823fcd9965c761a318c2","features":{},"yanked":false}
+{"name":"ixc_vm_api","vers":"0.0.2","deps":[{"name":"ixc_message_api","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3186c8f19205c6d85473cb0e685c32c6855229855d316e6ce4728bc43fbba20","features":{},"yanked":false}

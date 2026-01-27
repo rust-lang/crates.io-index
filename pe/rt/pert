@@ -1,0 +1,2 @@
+{"name":"pert","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f72510c0da93aa5a610cd0ef3d803e5905a3e032460adcceb48490cad40a60f","features":{},"yanked":false}
+{"name":"pert","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e984974b48c16dbdb979310d6fb552def441a63b92bc4be76aa2f1f30b0f8b71","features":{},"yanked":false}

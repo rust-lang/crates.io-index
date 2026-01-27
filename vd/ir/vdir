@@ -1,0 +1,2 @@
+{"name":"vdir","vers":"0.1.0","deps":[{"name":"vfile","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"690cd8cf39327cf75be30684db733b2fe2271bbb2e28753bbb1314b31d7a56f5","features":{},"yanked":true}
+{"name":"vdir","vers":"0.8.0","deps":[{"name":"vfile","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"786236e375da6e4636ddc6679a55be82fb448481baf1a39ef63d85afb586d6d7","features":{},"yanked":true}

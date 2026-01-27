@@ -1,0 +1,2 @@
+{"name":"detone","vers":"1.0.0","deps":[{"name":"unic-normal","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f7104c193859c8141dcbb2008bd3d93e581d0fa7bb47b0d9f5e15c89d1b55514","features":{},"yanked":false}
+{"name":"detone","vers":"1.0.1","deps":[{"name":"icu_normalizer","req":"^1.4.3","features":["compiled_data"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5d5b580660e7375410c9199e84aa298f919925fb53d8cc9b02d8010ff5a14d09","features":{},"yanked":false,"rust_version":"1.60.0"}

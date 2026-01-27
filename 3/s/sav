@@ -1,0 +1,2 @@
+{"name":"sav","vers":"0.1.0","deps":[],"cksum":"2e60e55d79ddcf142ad7118a62c037d1869a2591841ed413f6231cf8737d7e11","features":{},"yanked":false}
+{"name":"sav","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b24316244ca9419dfe79859c305fe314a509d024af41413f4f7b8ab81ec6d38c","features":{},"yanked":false}

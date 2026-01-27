@@ -1,0 +1,1 @@
+{"name":"kumosh-core","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.45.1","features":["process","io-std","io-util","sync","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b4a282359b10433487257ec94dcb83d38497b0b66f2da4792d8172049610f5f","features":{},"yanked":false}

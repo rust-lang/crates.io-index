@@ -1,0 +1,1 @@
+{"name":"emu_glsl","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03565236eaf3a67a15cfd1bdfc7f2726b6de569f4edd872f1200929566a9b7ac","features":{},"yanked":false}

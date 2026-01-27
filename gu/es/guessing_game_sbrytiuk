@@ -1,0 +1,2 @@
+{"name":"guessing_game_sbrytiuk","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bd8a6fc8194b3983422b3f5e809c8d0e3bc381dfdb1958b50522907cafc9aee","features":{},"yanked":false}
+{"name":"guessing_game_sbrytiuk","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd624fdff89ad3cd5f76293cfd61feb086fbe286164e179216e98bbe46e194f7","features":{},"yanked":false}

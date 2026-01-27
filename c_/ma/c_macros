@@ -1,0 +1,2 @@
+{"name":"c_macros","vers":"0.1.0","deps":[{"name":"col_macros","req":"^0.1","features":["owned_slice"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b19c6815dc537ab042b24cdbd019764e437745281c9db215ab062040b267ded","features":{},"yanked":true}
+{"name":"c_macros","vers":"0.1.1","deps":[{"name":"col_macros","req":"^0.1","features":["owned_slice"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1655d8b93321f449be6e8143d7cbe1a8f7cc673326a048f635fbd7a3b8aaa109","features":{},"yanked":false}

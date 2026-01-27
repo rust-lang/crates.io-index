@@ -1,0 +1,2 @@
+{"name":"chico","vers":"0.1.0","deps":[],"cksum":"443dd501d508af278df46c711e74320c8a13c756fae1b46a29a1f2b2381a4696","features":{},"yanked":true}
+{"name":"chico","vers":"0.2.0","deps":[{"name":"cliply","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"281170d70cdf286abbf1e47fb7ac3cece287ca001367273a6e77b56318eebc29","features":{},"yanked":true}

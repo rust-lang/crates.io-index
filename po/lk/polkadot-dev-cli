@@ -1,0 +1,2 @@
+{"name":"polkadot-dev-cli","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6051e3129ccb09a570bb466b06fbe73627b077028bde113a447960655c504a9","features":{},"yanked":false}
+{"name":"polkadot-dev-cli","vers":"1.0.1","deps":[{"name":"clap","req":"^4.5.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4f42d31dec5ca08b5061762fc4d16661836620bed4511e386a4f509242cac89","features":{},"yanked":false}

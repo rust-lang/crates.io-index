@@ -1,0 +1,5 @@
+{"name":"taskorch","vers":"0.1.0","deps":[],"cksum":"972467dc14ead786989bfc6b2fe7deac36c66852b68c565f126114889ce4cbf2","features":{},"yanked":false}
+{"name":"taskorch","vers":"0.1.1","deps":[],"cksum":"ac58ac52d99501f47965c692eb7eedb7da181457f932e3eef0f9486ac3952d17","features":{},"yanked":false}
+{"name":"taskorch","vers":"0.2.0","deps":[],"cksum":"0edc751dd3bff29c4c3f5fc80070e7c9b91b6733ce031f016623a6300586a17d","features":{"log-debug":[],"log-error":[],"log-info":[],"log-trace":[],"log-warn":[]},"yanked":false}
+{"name":"taskorch","vers":"0.2.1","deps":[],"cksum":"199a3e18a475c0bc4d855b1d7a9b6bdb4fada47833c7d6cba7455b8473d4f5a3","features":{"log-color":[],"log-debug":[],"log-error":[],"log-info":[],"log-trace":[],"log-warn":[]},"yanked":false}
+{"name":"taskorch","vers":"0.3.0","deps":[],"cksum":"7f9c585a9dd309d6ffdfa11b73d1f15452662fad18632e18662b01622d5fac01","features":{"log-color":[],"log-debug":[],"log-error":[],"log-info":[],"log-trace":[],"log-warn":[]},"yanked":false}

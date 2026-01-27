@@ -1,0 +1,1 @@
+{"name":"calx","vers":"0.1.0","deps":[{"name":"coreaudio-sys","req":"^0.2","features":["audio_unit","core_audio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"76df67494110eee3f57ec639fdaf87b5f130bf6ef063cf1bc34b83a8b52e307d","features":{},"yanked":false}

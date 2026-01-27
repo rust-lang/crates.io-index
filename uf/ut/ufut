@@ -1,0 +1,4 @@
+{"name":"ufut","vers":"0.0.0","deps":[],"cksum":"c7472dd5b904ae0baa10eb60347380430358763e30531d3e618f517a1c4ff75f","features":{},"yanked":false}
+{"name":"ufut","vers":"0.2.0","deps":[{"name":"futures-micro","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d170d289baf5a9f7e9bbfbd9f808e271d0ab66ade64b8ca7dbabba4724622d79","features":{},"yanked":false}
+{"name":"ufut","vers":"0.3.0","deps":[{"name":"futures-micro","req":"=0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"033c1bda30ebc451bf4fe8e134c2f9af438b75ec493e0cd896b3b82741f1174b","features":{},"yanked":false}
+{"name":"ufut","vers":"0.3.1","deps":[{"name":"futures-micro","req":"=0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c321db7f141d8dbb134c0e0a820b6e1bb0aaef4f2a7bb1494e462a612bc8f9de","features":{},"yanked":false}

@@ -1,0 +1,14 @@
+{"name":"cargo_gn","vers":"0.0.1","deps":[],"cksum":"e9295665c4fe111630ce5458eae450edde3100a93c996c5cbd64c35558d34573","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.2","deps":[],"cksum":"fc2ab0e7ae9f556690051fefaa4606d9c1cbd3869da4b9133ba2688d50f48206","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.3","deps":[],"cksum":"4a9f57d17f625fdb8be5d9c1762b3a1710a71fd2e016bf345714a432f0947308","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.4","deps":[],"cksum":"33842a53a6550517d2ea616d2567f2a268a20024826c785a2919204d9a9c64ad","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.5","deps":[],"cksum":"bd5a5620bbf1d05b48ba78876cc6e9ced492d2d3de20c3ce1c83642042e34158","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.6","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efff3649c0f6439f0c1f0f17f661f0f5770b4451835ed8f4a149941604af744b","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.7","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42ce8dfc85575fcceab2b5dad023dff6faa8a9705ff0d13b4a4a2c82a17f0a1d","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.8","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7bf8d28d6044fc867723a84854d13b50b0985ab0fb0a5f6014ed8a6be2f14d4","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.9","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d791c2453d7f6eae97340bebcab6a7f6a164aea8ab8bab5ee3a6f398d71475a","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.10","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed53ba791b881077fad3b62f0adb830fe363cf0c64c5a1075ca5c432a1bfc495","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.12","deps":[],"cksum":"a34c50fb2ca26fb832617113c1123284ff4641be3407f60c4619876024606c5a","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.13","deps":[],"cksum":"0a679c108cad6ee19a25f4dbaf1b4e1fadf303e707fa1e2d060b4c169faeb836","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.14","deps":[],"cksum":"0975a2f4793a949f1096e0ce92a37de6cb80f1e430f404e25c535e80c9066616","features":{},"yanked":false}
+{"name":"cargo_gn","vers":"0.0.15","deps":[],"cksum":"5ba7d7f7b201dfcbc314b14f2176c92f8ba521dab538b40e426ffed25ed7cd80","features":{},"yanked":false}

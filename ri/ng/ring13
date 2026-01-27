@@ -1,0 +1,1 @@
+{"name":"ring13","vers":"0.1.0","deps":[{"name":"ring","req":"^0.13","features":["rsa_signing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4545c6b277a7d5334c767964b55784a534df5049a346f8f8cdf724692828e4a9","features":{},"yanked":false}

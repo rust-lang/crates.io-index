@@ -1,0 +1,1 @@
+{"name":"kidding","vers":"1.0.0","deps":[{"name":"crossterm","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b01fe21d5dca181cf19e32636431b5d55d8ace9292527d6c6ff63aa1266bd40","features":{},"yanked":false}

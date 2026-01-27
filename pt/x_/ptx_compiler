@@ -1,0 +1,1 @@
+{"name":"ptx_compiler","vers":"0.1.1","deps":[{"name":"find_cuda_helper","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"999dbf4b4c32f68f47af4071681c2d41ab8f45c8de56f6a52c4d262dc0d266b8","features":{},"yanked":false}

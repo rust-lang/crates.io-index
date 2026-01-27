@@ -1,0 +1,1 @@
+{"name":"nnf","vers":"0.1.0","deps":[{"name":"dot-writer","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5defc6ece0fbfea1e26596a5c70f50f35a354c7d8cd9bb2a7416b5c6d077278e","features":{"default":["graphviz"],"graphviz":["dot-writer"]},"yanked":false}

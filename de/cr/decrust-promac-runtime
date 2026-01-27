@@ -1,0 +1,2 @@
+{"name":"decrust-promac-runtime","vers":"1.2.3","deps":[{"name":"decrust-core","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3209215736316bfd3087d27b23fd71abb1bef06ae3cad4f9bb1eb9e787f85fb7","features":{},"yanked":true}
+{"name":"decrust-promac-runtime","vers":"1.2.6","deps":[{"name":"decrust-core","req":"^1.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be2579efff23c292f4c3cce72cb4c1ef70820c93eda9e356e1a56c4fbac5716","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"icaparse","vers":"0.1.0","deps":[],"cksum":"18368528d9fb712558ca0869ce296ddc342e38ba68ff6942d5a4c7fff87f3c10","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"icaparse","vers":"0.1.1","deps":[{"name":"httparse","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1e81fbaaf2c767037153e7d5261bb92b993a664df9766fff60122c05f96ff01","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"icaparse","vers":"0.2.0","deps":[{"name":"httparse","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9a72498a1ad033e1462f25c9cb6dc0cbeb4a48b8e2ed8315d07c6fb2865dbb3","features":{"default":["std"],"std":[]},"yanked":false}

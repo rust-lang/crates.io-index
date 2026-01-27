@@ -1,0 +1,2 @@
+{"name":"cimpl-macros","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.41","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"371ebff913caf4f78b32fc0d56044f091b776f595c8968ac26105aa3ee1a1274","features":{},"yanked":true}
+{"name":"cimpl-macros","vers":"0.2.0","deps":[],"cksum":"5664a263c44eb71936ddcd1d84954e1cf8314840742ca119fa400e09ac009ae7","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"rich","vers":"0.1.0","deps":[],"cksum":"678a165f1982f0d431085260a318531011ec1782c16c3c42df55c380ed1adaaf","features":{},"yanked":false}
+{"name":"rich","vers":"0.1.1","deps":[{"name":"serde_json1","req":"^1.0.140","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"serde_json"}],"cksum":"83ab4fd914c92fc78a898134aca3f185a12b4dd281cc97863874173035632940","features":{"default":[]},"features2":{"serde_json1":["dep:serde_json1"]},"yanked":false,"v":2}

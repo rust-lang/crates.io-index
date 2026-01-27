@@ -1,0 +1,1 @@
+{"name":"git-zip","vers":"0.1.0","deps":[{"name":"ignore","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zip","req":"^0.6.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b024fbdda0fb01d9fd16494d78ce1a4cd47b5f88cea4d2a74723c5e9580b5a3","features":{},"yanked":false}

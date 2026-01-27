@@ -1,0 +1,1 @@
+{"name":"belajar_rust_crate_lib","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7474ee54cffcf89db11b8419e64e480c997afce13d35afb5124771977ef7d1ca","features":{"all":["hello","time","greet"],"default":["hello"],"greet":[],"hello":[],"time":[]},"yanked":false}

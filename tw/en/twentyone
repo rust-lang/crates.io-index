@@ -1,0 +1,2 @@
+{"name":"twentyone","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38d0d75a84ff0c0fa8af894cab67dce0f1798a3fea8e3d60aa59b82bd7941f98","features":{},"yanked":false}
+{"name":"twentyone","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0591819a3677444a94a6cedb978186cc37032f7e9ecdb435a641a575c1fd0b9f","features":{},"yanked":false}

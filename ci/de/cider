@@ -1,0 +1,1 @@
+{"name":"cider","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a554f67b02182eeb356a69aab5631e51bb7f59c4e8a10fa67d7dd77b62894f1c","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"shogi_usi_parser","vers":"0.1.0","deps":[{"name":"shogi_core","req":"^0.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f39adab2055cf0bc5c9523b237e14ad9aba385bc7ebf90c9385876a48cef8c62","features":{"alloc":["shogi_core/alloc"],"default":["std"],"std":["alloc","shogi_core/std"]},"yanked":false,"rust_version":"1.60"}

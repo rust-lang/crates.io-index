@@ -1,0 +1,2 @@
+{"name":"lsp-text-document","vers":"0.1.0","deps":[{"name":"lsp-types","req":">=0.83.1, <0.84.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c8c9b446f2d7f7128d856383e5071d60273fb8e2c6ad39ba1e5968ae1c57588","features":{},"yanked":false}
+{"name":"lsp-text-document","vers":"0.2.0","deps":[{"name":"lsp-types","req":"^0.84.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"339c9ae1d20020935ea9a75ea5e9e81489bf7986ba41d44163bf7e8273edcbb5","features":{},"yanked":false}

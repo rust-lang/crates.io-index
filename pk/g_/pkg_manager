@@ -1,0 +1,2 @@
+{"name":"pkg_manager","vers":"0.1.0","deps":[{"name":"nix","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63539bbaca059031957145befccd0c69ef94af1df5818c69d8d24d30e018ac53","features":{},"yanked":false}
+{"name":"pkg_manager","vers":"0.1.1","deps":[{"name":"nix","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d4b47e1f08c897ef5e928e5288fddd61615b8b9a2b5ff750dd255a3986234ee","features":{},"yanked":false}

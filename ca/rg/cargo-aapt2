@@ -1,0 +1,2 @@
+{"name":"cargo-aapt2","vers":"0.3.4","deps":[{"name":"android-build","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1669c0fb201ed92f41649ec41a81d8af8dd965603ba7844ad6087ba5f0273405","features":{},"yanked":false}
+{"name":"cargo-aapt2","vers":"0.3.5","deps":[{"name":"android-build","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a52ae0692afc40896dea73359b55fc50f7428b27a73c1f635a47d61893e0c9c2","features":{},"yanked":false}

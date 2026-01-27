@@ -1,0 +1,2 @@
+{"name":"questdb-confstr-ffi","vers":"0.1.0","deps":[{"name":"questdb-confstr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a745c819f8ef71ca240dff7119bad4db368e0b11489c6e5e07b8e5cf2c775561","features":{},"yanked":false}
+{"name":"questdb-confstr-ffi","vers":"0.1.1","deps":[{"name":"questdb-confstr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"123e9600ed7e3ca168902c5729ae621e7bde1f5fb5e3a80bd5ceee8410751448","features":{},"yanked":false}

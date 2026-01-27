@@ -1,0 +1,2 @@
+{"name":"libcsp-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a468464545b4cd225ec4ae25e3a15cbd220e6726b38141f3049c9c213f7eb4e","features":{},"yanked":false,"links":"csp"}
+{"name":"libcsp-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8cfd81b3e7ea9a8ad3101d331fd223802e7eef601b37102a8164efa5916d241","features":{},"yanked":false,"links":"csp"}

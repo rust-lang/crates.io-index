@@ -1,0 +1,2 @@
+{"name":"last_order_logic","vers":"0.1.0","deps":[],"cksum":"8ca7abc3bf3118b1c35e0736287d002f4162a29400e4081d2764c0a155581350","features":{},"yanked":false}
+{"name":"last_order_logic","vers":"0.2.0","deps":[{"name":"piston_meta","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20e22c8ae121ca8cc986370a49d787497b62bc039b5845ecd7731f8a776419b3","features":{},"yanked":false}

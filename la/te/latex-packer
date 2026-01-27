@@ -1,0 +1,2 @@
+{"name":"latex-packer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.36","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"479238b5ca356010fd071efc14afb7ddab2fb3bf02a3686e8a9d545185ffa7bb","features":{},"yanked":false}
+{"name":"latex-packer","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.36","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2df7b61798ccb3bf235e1457dd6b8434a97df53bfb7d18600014d004df0ef48","features":{},"yanked":false}

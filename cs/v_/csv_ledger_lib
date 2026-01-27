@@ -1,0 +1,2 @@
+{"name":"csv_ledger_lib","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1874044bd70c9a7ef4273a070a071ea4a1e723e45fecfc73beef7bb93e9fee4a","features":{},"yanked":false}
+{"name":"csv_ledger_lib","vers":"0.1.1","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bae0eed5a1dbe70d7838182a5bcb48e6f50f05eea4416ef2b0b684d4811051e9","features":{},"yanked":false}

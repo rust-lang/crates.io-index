@@ -1,0 +1,2 @@
+{"name":"descargador","vers":"0.1.0","deps":[],"cksum":"d6ba60fa37906f8806ec9f1806922bfbf3f7b75b02359ea933b38fa5edeacef6","features":{},"yanked":true}
+{"name":"descargador","vers":"0.0.1","deps":[{"name":"cargo-audit","req":"^0.17.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e2cf267c48ea7b57a22a1689287c637ffeaa82484a04e7d963e8073c5e5f683","features":{},"yanked":false}

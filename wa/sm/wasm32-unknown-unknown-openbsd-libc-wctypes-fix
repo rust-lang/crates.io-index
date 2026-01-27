@@ -1,0 +1,1 @@
+{"name":"wasm32-unknown-unknown-openbsd-libc-wctypes-fix","vers":"0.2.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c5f4323b5dfca1ee65fba0613cdf32e9bc28f6b25409b55c51063c226ca6213","features":{},"yanked":false,"links":"wasm32-unknown-unknown-openbsd-libc"}

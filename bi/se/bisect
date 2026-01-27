@@ -1,0 +1,2 @@
+{"name":"bisect","vers":"0.1.0","deps":[],"cksum":"e3a703cdee3c928dddadcc1b4dfe26c2cb3c2de47442dc68bfaba51e70e7c765","features":{},"yanked":false}
+{"name":"bisect","vers":"0.2.0","deps":[{"name":"clap","req":"^2.32.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"failure","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3077e0761878a721ecd24a8c7550a155c4f638599b4a535d3d0a02eae989bb5a","features":{},"yanked":false}

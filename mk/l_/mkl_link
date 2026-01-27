@@ -1,0 +1,3 @@
+{"name":"mkl_link","vers":"0.1.0","deps":[],"cksum":"1b1c969a40ed6c533653c7da06755672ebda4e1a05255f8a6e646baa9295160f","features":{"default":[],"openmp":[],"tbb":[]},"yanked":false}
+{"name":"mkl_link","vers":"0.1.1","deps":[],"cksum":"548b1101b1fd5ada3d0ae1dba3de700104ff2c55d64e2aef710a55045d36ec01","features":{"default":[],"openmp":[],"tbb":[]},"yanked":false}
+{"name":"mkl_link","vers":"0.1.2","deps":[{"name":"cblas_ffi","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6c3c65d30ca60c2f71ee65e51d29fc42d841c5abba90d8429ecd14289ebf9782","features":{"default":[],"openmp":[],"tbb":[]},"yanked":false}

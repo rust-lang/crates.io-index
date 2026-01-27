@@ -1,0 +1,2 @@
+{"name":"scoop-shim","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"453d53eaf3abd336d189d4ce1b0a23452ca5aa866550c44337b78bcebdcec361","features":{},"yanked":false}
+{"name":"scoop-shim","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd91df5a1b2e63a867898739aa6807f04f393a221885bb0a071a7d4de03b56c8","features":{},"yanked":false,"rust_version":"1.65.0"}

@@ -1,0 +1,2 @@
+{"name":"kscale","vers":"0.1.1","deps":[],"cksum":"59ad42cbb0120d4a06c3069a348d1175b4c5a6346e50f92e36764fb6d84775ab","features":{},"yanked":false}
+{"name":"kscale","vers":"0.1.4","deps":[{"name":"pyo3","req":">=0.21.0","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pyo3-stub-gen","req":">=0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01bc0905bcd666934663c52350167e339705976c0042c3ae1aadebb36eb898f3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"arcon_extra","vers":"0.1.0","deps":[{"name":"rdkafka","req":"~0.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70974cb7754a266a56335c90952b8e4b161a5e1b32a16110d6bd08521d43f62c","features":{"default":[],"kafka":["rdkafka"]},"yanked":false}
+{"name":"arcon_extra","vers":"0.1.1","deps":[],"cksum":"96b01057a5b256fb16b6e7236d7aa4e8973e06d46141d34b14cc9abf2a0950ed","features":{"default":[]},"yanked":false}

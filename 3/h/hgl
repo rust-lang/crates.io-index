@@ -1,0 +1,1 @@
+{"name":"hgl","vers":"0.0.1","deps":[{"name":"gl","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glfw","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1849eb2227e0990524cdcfee2d7687f16be35baac0e0e2e8eb912e06e8db571b","features":{},"yanked":false}

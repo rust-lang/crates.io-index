@@ -1,0 +1,1 @@
+{"name":"lils","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap-help","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c695ae2698c03d33fefc731113c712860ac3c82b396d35ddaf09b5d2b17234c","features":{},"yanked":false}

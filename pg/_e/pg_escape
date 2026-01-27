@@ -1,0 +1,2 @@
+{"name":"pg_escape","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c25f75e552af5bd85f70b22e1357d7e95eba6a68723cd45ab7441fcfbbbd829","features":{},"yanked":false}
+{"name":"pg_escape","vers":"0.1.1","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44c7bc82ccbe2c7ef7ceed38dcac90d7ff46681e061e9d7310cbcd409113e303","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"maybe-atomic","vers":"0.1.0","deps":[{"name":"doc-comment","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8a7f59df4f578edad221b931b426d6bdd1bceeaa677b7bf8b58ad7971a450a","features":{"atomic":[],"default":["atomic"]},"yanked":false}

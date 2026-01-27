@@ -1,0 +1,1 @@
+{"name":"aingle-argon2","vers":"0.1.0","deps":[{"name":"blake2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"316faf673f9b3382fb5abd68acd5492224d440ea70348738af52cca0bc5f10e3","features":{"default":[]},"yanked":false,"rust_version":"1.89"}

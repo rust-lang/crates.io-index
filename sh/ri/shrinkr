@@ -1,0 +1,1 @@
+{"name":"Shrinkr","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tar","req":"^0.4.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a549e3eebbca016c48b5bed6671935b992a4624025e6b228538becbc8a9ed7f","features":{},"yanked":false}

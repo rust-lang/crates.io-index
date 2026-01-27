@@ -1,0 +1,1 @@
+{"name":"myser","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.7.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1aa5d444b20eb0193a185559926e8637098444fcea1f08ca0e845b21592db4ef","features":{},"yanked":false}

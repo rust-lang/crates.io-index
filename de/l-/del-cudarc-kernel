@@ -1,0 +1,1 @@
+{"name":"del-cudarc-kernel","vers":"0.1.0","deps":[{"name":"bindgen_cuda","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"af12d4adca05ad4b913e51a45f2ff157811c628578999b6b36eb199ae2ba1127","features":{},"yanked":false}

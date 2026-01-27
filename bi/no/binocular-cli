@@ -1,0 +1,2 @@
+{"name":"binocular-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.29","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83602c97b4e43cfb8031d0fd4ffdfd6c6471ea3aa8c5818504981da5f1c079da","features":{},"yanked":true}
+{"name":"binocular-cli","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0.29","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2ff5851632fac1a91cb3733222f0e83f9a70477d7fbf2a1033b2e66f5bace71","features":{},"yanked":false}

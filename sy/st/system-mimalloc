@@ -1,0 +1,3 @@
+{"name":"system-mimalloc","vers":"1.0.0-rc.0","deps":[],"cksum":"df721b8117796bb371230efb72e7096d979ebde349f0bffea61ed6c970a32476","features":{},"yanked":false,"links":"mimalloc","rust_version":"1.38"}
+{"name":"system-mimalloc","vers":"1.0.0","deps":[],"cksum":"7ce11d25aabaf6786e2eb533166fc23858dded78cbb20ff0ed29b2c3740d3926","features":{},"yanked":false,"links":"mimalloc","rust_version":"1.38"}
+{"name":"system-mimalloc","vers":"1.0.1","deps":[],"cksum":"faad42c53cd143b93116071796b34ce3cde598ff0b3b15bfdf9bcea05d9d1562","features":{},"yanked":false,"links":"mimalloc","rust_version":"1.38"}

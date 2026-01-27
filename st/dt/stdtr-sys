@@ -1,0 +1,2 @@
+{"name":"stdtr-sys","vers":"0.1.0","deps":[{"name":"cc","req":"~1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"~0.2.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcf371b2fd3b9ac46deb74e3ec9633cb1040601a759b6ad9697461b47f56eaad","features":{},"yanked":true}
+{"name":"stdtr-sys","vers":"0.3.0","deps":[],"cksum":"21750543edcab02e6896650a8d9c475983cf4f08326e8a1c39d46e4df5384ffc","features":{},"yanked":false}

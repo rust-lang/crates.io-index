@@ -1,0 +1,2 @@
+{"name":"saneput","vers":"0.1.0","deps":[{"name":"saneput-proc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73902010043caa3c62e6c6d0d2c10a8f9d4510597e7e4db00f3754038950136e","features":{},"yanked":false}
+{"name":"saneput","vers":"0.2.0","deps":[{"name":"saneput-proc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2abb03cd62a2b2edae5a82d4ce18cbf41bbbc84c2ae3e8c85b8ee128328b20dd","features":{},"yanked":false}

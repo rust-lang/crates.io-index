@@ -1,0 +1,4 @@
+{"name":"noir_macros_core","vers":"1.0.0","deps":[],"cksum":"375908beed83441c0813689cee1bcc1c743c1cde4c435fa11eed720b437a4c85","features":{},"yanked":true}
+{"name":"noir_macros_core","vers":"1.0.1","deps":[],"cksum":"a19d9dae3e65ea537b726e3187a7c2fe237a771c4c7e88f3fe053a8b4d8df2ac","features":{},"yanked":true}
+{"name":"noir_macros_core","vers":"1.1.0","deps":[],"cksum":"1a41f76ddf7a8a794e7fb9385b127a27ff9db29bbec90d646474a6db3d19439c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"noir_macros_core","vers":"1.1.1","deps":[],"cksum":"19bcfe3f3e1cbf2c8894456818f78db174a41bfa54f7bfc019a0cfbdaec0e231","features":{"alloc":[],"default":["alloc"]},"yanked":false}

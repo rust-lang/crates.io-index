@@ -1,0 +1,1 @@
+{"name":"robomath","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c0301ed3be2f7346307556cd36e7666f542c447d5ea43528984df9e296b4dd2","features":{"default":["std"],"std":[]},"yanked":false}

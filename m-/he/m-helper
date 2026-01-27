@@ -1,0 +1,1 @@
+{"name":"m-helper","vers":"0.0.1","deps":[{"name":"uuid","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59527321e786454c80b5c88e14496871dabd8d03f19b75e1224b132ef5ef80bb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"curses-line-ui","vers":"0.1.0","deps":[{"name":"pancurses","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"856862a74443b643000226b69f485dda03d86008b25e8d3dc843e08275dbf988","features":{},"yanked":false}
+{"name":"curses-line-ui","vers":"0.1.1","deps":[{"name":"pancurses","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5d471c4cc082d822920b7955f38bf3c741903e670abc233c509bf265f9a581d","features":{},"yanked":false}

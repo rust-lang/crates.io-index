@@ -1,0 +1,1 @@
+{"name":"nvd-cwe","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"557c14b0838d7f1e6269c54ad1dd923024122985fe1d9a4b8f155afc31002c2b","features":{},"yanked":false}

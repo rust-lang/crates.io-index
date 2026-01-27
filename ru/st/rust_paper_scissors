@@ -1,0 +1,1 @@
+{"name":"rust_paper_scissors","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"318c21c4c291e0e583301a329779b22ca727c3202f034f7c94802ad54271afae","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"worktime","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b33d4c1a6912e9d68048f37af397d70897de61b9057417e5348ef8644b0338d","features":{},"yanked":false}
+{"name":"worktime","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03444529e607008da9a291e24e8b2a27b7e3eeafef8afa1e7dec04027b56d5e7","features":{},"yanked":false}

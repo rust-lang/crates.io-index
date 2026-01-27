@@ -1,0 +1,4 @@
+{"name":"axconsole","vers":"0.1.0","deps":[],"cksum":"e72a975527d9eff9fa7d0b9a44fd0707cc7d89a2945ce36947f244de6b6a8b6e","features":{},"yanked":false}
+{"name":"axconsole","vers":"0.2.0","deps":[],"cksum":"fb9568f09fa4b6730b55b741c94d8034c3920c06bc14da88c91a2e13d8447740","features":{},"yanked":false}
+{"name":"axconsole","vers":"0.2.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"868bcc2858c95a397ef2dbc02d162f3834b36de3ee4708f930d85283300699ca","features":{},"yanked":false}
+{"name":"axconsole","vers":"0.3.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15d6cafad902df86beb79bb17601fa74dc1ab3c76b2b6a9bf94f8953e193eefc","features":{},"yanked":false}

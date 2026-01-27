@@ -1,0 +1,2 @@
+{"name":"utmpx","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.147","features":["extra_traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41adce4fa88980ec51d3fb705065deebb7ad27106d58772bdde6c34d74dc582b","features":{},"yanked":false}
+{"name":"utmpx","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.147","features":["extra_traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24cad6c2dc8471d43e380e6c3bbb8057639e81529419adb17330c28669c6835b","features":{},"yanked":false}

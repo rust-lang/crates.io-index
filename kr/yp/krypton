@@ -1,0 +1,2 @@
+{"name":"krypton","vers":"0.1.0","deps":[],"cksum":"2a64ae2b1220459a0d7d345a1bfc1b5b8141a52ebc04011d1570c8da8ae1104e","features":{},"yanked":false}
+{"name":"krypton","vers":"0.1.0-rc.0.1","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"822b6ebd9c25109826ad20a010ab54cd00c5b8ecc11bef8f691522d28a1f8157","features":{},"yanked":false}

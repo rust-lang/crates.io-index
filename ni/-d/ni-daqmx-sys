@@ -1,0 +1,2 @@
+{"name":"ni-daqmx-sys","vers":"20.7.0","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"be69c15f7e640867f531fd5edb08616f94e4623f97b5d94141bb3fd1875d85e9","features":{},"yanked":false,"links":"nidaqmx"}
+{"name":"ni-daqmx-sys","vers":"20.7.1","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6ff44bba5e2faad80255f76d937bf8f69ff693896c96d7c79c210bb9779bf7f8","features":{},"yanked":false,"links":"nidaqmx"}

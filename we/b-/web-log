@@ -1,0 +1,2 @@
+{"name":"web-log","vers":"1.0.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e8dc38fd8e9913a9919b6099d70368d45aaab10732ea1b21094f138e41e13e1","features":{"std":[]},"yanked":true}
+{"name":"web-log","vers":"1.0.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57583eade6ead63af3267790de55b6e5dbe9fe2257ccc213feb62ab67f5c2dd3","features":{"std":[]},"yanked":false}

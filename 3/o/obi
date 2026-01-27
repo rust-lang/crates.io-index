@@ -1,0 +1,2 @@
+{"name":"obi","vers":"0.0.1","deps":[{"name":"obi-derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8b5cbc91085b00027edb54b51c338fd4f876c32108bb1e225ce9d333c4713b2","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"obi","vers":"0.0.2","deps":[{"name":"obi-derive","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7f163302f3e95c2728706fc08b355a1fa34882cacef1612b212aaf34c0d49c4","features":{"default":["std"],"std":[]},"yanked":false}

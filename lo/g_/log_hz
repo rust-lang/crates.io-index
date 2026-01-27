@@ -1,0 +1,1 @@
+{"name":"log_hz","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"testing_logger","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97ad67053f975f9aab6b5d1149d470aba6098ec2d11a1ad83e472d58a4560b4a","features":{},"yanked":false}

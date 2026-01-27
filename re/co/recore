@@ -1,0 +1,3 @@
+{"name":"recore","vers":"0.1.0","deps":[],"cksum":"53c497efed11c2b69091f1f9350d2492fdf5c7e527d3414a1d648580a34566d8","features":{"alloc":[],"default":["std","rs-std"],"rs-alloc":[],"rs-std":["rs-alloc"],"std":["alloc"]},"yanked":false}
+{"name":"recore","vers":"0.1.2","deps":[],"cksum":"c97fdb4a5275384e5528332dd86f819bd8991b17a68c4f5b1814ae8619c7cf6c","features":{"alloc":[],"default":["std","rs-std"],"rs-alloc":[],"rs-std":["rs-alloc"],"std":["alloc"]},"yanked":false}
+{"name":"recore","vers":"0.1.3","deps":[],"cksum":"254b048744a1a77db0b4b16598ee8eb580130fa14d533311bf8f2e4c3a5a0205","features":{"alloc":[],"default":["std","rs-std"],"rs-alloc":[],"rs-std":["rs-alloc"],"std":["alloc"]},"yanked":false}

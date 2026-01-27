@@ -1,0 +1,2 @@
+{"name":"ttv-pubsub","vers":"0.1.0","deps":[],"cksum":"807a8646ddac9bd4c337d90d799b4f52c5e211ca4d6eeff053d6aa99c5806a01","features":{},"yanked":false}
+{"name":"ttv-pubsub","vers":"0.1.1","deps":[{"name":"twitch_api2","req":"^0.5.0-alpha.2","features":["pubsub"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1af399017f5ac191cf03fb7dbc1ae9ee40230e830821bb95892ff93b6b406cbd","features":{"all":["unofficial"],"allow_unknown_fields":["twitch_api2/allow_unknown_fields"],"default":[],"unofficial":["twitch_api2/unsupported"]},"yanked":false}

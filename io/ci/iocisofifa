@@ -1,0 +1,1 @@
+{"name":"iocisofifa","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e972a963e676e539f730d2521fd5112d74134580ec5649930e6ffd1d7f523435","features":{"default":[],"std":["serde/std"]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"patternutils","vers":"0.1.0","deps":[{"name":"patternutils-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b0d6b507742c87564239516eef33011a7c5ef9ccd27c65ba7cb72ad40668782","features":{},"yanked":false}
+{"name":"patternutils","vers":"0.1.1","deps":[{"name":"patternutils-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db54241cce648b321c374d3dc8fc5e703b40851b05544a00b993d8ee1395164a","features":{},"yanked":false}

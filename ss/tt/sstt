@@ -1,0 +1,1 @@
+{"name":"SSTT","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15678906111386c41192905b655e255b0938c6531a1796fbea4c46858a624cc7","features":{},"yanked":true}

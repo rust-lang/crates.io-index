@@ -1,0 +1,3 @@
+{"name":"ethereum-standards","vers":"0.0.0","deps":[],"cksum":"7d2cd8410ce29bdfdb779c6b451fde9a7236bc98a727c2adca4a506ee9c717ae","features":{},"yanked":false}
+{"name":"ethereum-standards","vers":"0.1.1","deps":[{"name":"alloy-core","req":"^1.1.0","features":["sol-types"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d61286bd707b29b3612ad2b0b9ebfdf9101e5ddde432594bbbc87a547cbd7fbf","features":{},"yanked":false}
+{"name":"ethereum-standards","vers":"0.1.2","deps":[{"name":"alloy-core","req":"^1.1.0","features":["sol-types"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5bb19a698ceb837a145395f230f1ee1c4ec751bc8038dfc616a669cfb4a01de","features":{},"yanked":false}

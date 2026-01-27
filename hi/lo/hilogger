@@ -1,0 +1,2 @@
+{"name":"hilogger","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45c49c6ff9a678838f7986a89bb3ae9e5479c58066c2e230c098e3c0600cde87","features":{},"yanked":false}
+{"name":"hilogger","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89702fd0195374622c45b8fa5c72b52deb5f7b92888c97ea0f5ebb464647e10d","features":{},"yanked":false}

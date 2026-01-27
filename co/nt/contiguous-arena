@@ -1,0 +1,2 @@
+{"name":"contiguous-arena","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32f38f6b9a4591c928c744703465f039182b41d5e3e1af5b5d78f42eca7fc697","features":{},"yanked":false}
+{"name":"contiguous-arena","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"293ed555fb8f1b4a3ab90f8e2ef353227d6db0b5d72579144a10575444fb4309","features":{},"yanked":false}

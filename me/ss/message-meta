@@ -1,0 +1,2 @@
+{"name":"message-meta","vers":"0.1.0","deps":[{"name":"regex","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89a17037d8f359c151187b7f5368bac71a06dc8cb99ea81ec48e2fa10ad551ec","features":{},"yanked":false}
+{"name":"message-meta","vers":"0.2.0","deps":[{"name":"regex","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3883c58a06d56740c2214ae984cc70685cec98c157622f8126653fc6fd17f20","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sexpr_process","vers":"0.1.0","deps":[{"name":"sexpr_ir","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"206e9a91813a0f2a1ea1e4e047851a5dc3ced45f6b38d816f5deebc38e0354c5","features":{},"yanked":false}
+{"name":"sexpr_process","vers":"0.1.1","deps":[{"name":"sexpr_ir","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae99de30462eab6461c652751f97058a3151e3f9155b5f20239866e9c9f5fbf1","features":{},"yanked":false}

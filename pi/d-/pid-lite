@@ -1,0 +1,5 @@
+{"name":"pid-lite","vers":"1.0.0","deps":[],"cksum":"3327e0f5373b21b2cd02d750b450c3422def3b88fad502fd8170b7a6d14c5d11","features":{},"yanked":false}
+{"name":"pid-lite","vers":"1.1.0","deps":[],"cksum":"d8026cfc44362845edfed2c561441e5dfcc4f01fbbd41f727604ad8423c1302d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"pid-lite","vers":"1.1.1","deps":[],"cksum":"96563941e7fc8b12d97a089ef4b8b1f5c45df69dbf38fa8e825503995ddc60df","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"pid-lite","vers":"1.1.2","deps":[{"name":"defmt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f720ae3bb3e477151eb926ac701c38ab864cec79a32bff371cde092a3659fda3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"pid-lite","vers":"1.2.0","deps":[{"name":"defmt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"525af580ce1fff6a619c17736c1d91dcab5d5abff5df3937136f499922dfa73f","features":{"default":["std"],"std":[]},"yanked":false}

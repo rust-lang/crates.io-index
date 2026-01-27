@@ -1,0 +1,2 @@
+{"name":"memoized","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.3","features":["num-bigint"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e98b49685cff7a8fc3ed3c1d2fa7585dfce285a8e65dce1cd9d777892e2f0a38","features":{},"yanked":false}
+{"name":"memoized","vers":"0.1.1","deps":[{"name":"num-bigint","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f4747f1c88da7d851466b34c51ce945c6628174ab62c90b62a65534c974b545","features":{},"yanked":false}

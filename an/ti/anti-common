@@ -1,0 +1,2 @@
+{"name":"anti-common","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"618a400d0fdae909ce840ba3a9aba2920afeb13b9481a81ec3072fa1ab3d35cd","features":{},"yanked":false}
+{"name":"anti-common","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7966ed3e4a1828e924caa9df90b7bb42ebeaef4f6850c7075ecf227a92c19332","features":{},"yanked":false}

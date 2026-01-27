@@ -1,0 +1,4 @@
+{"name":"gitprompt-rs","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aedda8e1447a588d8c8a8cac0ff299f04b9fb92fe50961371cf70f7669be8580","features":{},"yanked":false}
+{"name":"gitprompt-rs","vers":"0.3.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29dba2005ceea0c12f18f36b5a7c0205c6097af879441314d33d7fdd6500f955","features":{},"yanked":false}
+{"name":"gitprompt-rs","vers":"0.4.0","deps":[],"cksum":"e9a2f57139bf946372212a3bcd42c955608766ffa12515f49f88499b1f7ef1ff","features":{},"yanked":false}
+{"name":"gitprompt-rs","vers":"0.4.1","deps":[],"cksum":"c2ae470bb7afdcf1b644a065ce6a348fdae6fd9c23c1f0573ded5e9ee61a9863","features":{},"yanked":false}

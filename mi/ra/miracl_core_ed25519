@@ -1,0 +1,2 @@
+{"name":"miracl_core_ed25519","vers":"0.1.0","deps":[],"cksum":"7eb2615f0a26667ad294b8c4572e950539aaf6198558a4d458625ade7b8b7123","features":{},"yanked":false}
+{"name":"miracl_core_ed25519","vers":"0.2.0","deps":[{"name":"miracl_core_bls12381","req":"^4.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d18d21ce786ead824ad675617279ab3905866294573a95e93cab0c58f0c17625","features":{},"yanked":false}

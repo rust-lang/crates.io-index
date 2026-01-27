@@ -1,0 +1,3 @@
+{"name":"guest","vers":"0.1.0","deps":[],"cksum":"7244677d08c6c62a53deff7072ac5294cf23bc3eca45e32e7ccc86d01bd495f4","features":{},"yanked":false,"rust_version":"1.77.1"}
+{"name":"guest","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5273ac305777ee32e2e4d8978a0b967c4546009e250c21ab5d9fbdbafa10bee3","features":{},"yanked":false,"rust_version":"1.77.1"}
+{"name":"guest","vers":"0.2.0","deps":[{"name":"futures","req":"^0.3.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d872b399d49244a7a99355c1e5d847edb2140e2abbecfb1b2d877dc9bec4cc","features":{},"yanked":false,"rust_version":"1.77.1"}

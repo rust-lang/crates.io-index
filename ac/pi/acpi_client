@@ -1,0 +1,5 @@
+{"name":"acpi_client","vers":"0.1.0","deps":[],"cksum":"bac5d7693fa8ca1b83184b54b903148e36fc68533536a567bb45059426c785d3","features":{},"yanked":false}
+{"name":"acpi_client","vers":"0.2.0","deps":[],"cksum":"9245d38523a987cbbbada8358f2180b0ed644de27328194c426fae83c060e3c1","features":{},"yanked":false}
+{"name":"acpi_client","vers":"1.0.0","deps":[],"cksum":"56a308fe6e187619beddfff6ec24c239af7bfb8cd114e1556c6541007f9e66e4","features":{},"yanked":false}
+{"name":"acpi_client","vers":"1.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1f0157742de45d998340bb9d4a7cf67847c4f5cd57a888d104b06b69fd48929","features":{},"yanked":false}
+{"name":"acpi_client","vers":"2.0.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9413ad7a356ffcf4884c8498de182543beddc0a2cafdc19556261a9418a6a998","features":{},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"aiur","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3","features":["winerror","winuser","consoleapi","winnls","processenv","winbase","sysinfoapi","synchapi","impl-default"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"8a63d7b703052291fe402375bfb427f706112dd3d4ca1af34e09e7d8e95990bb","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.2","deps":[],"cksum":"bb6bb28a6e03dfc08161bb0d8bb681b0869a65eafd1cb5bfc0496610c151245e","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.3","deps":[],"cksum":"a1f7a7d02f0ec3648a469589edc36199aceffa929a8e1064f059cf5d36325ef2","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.5","deps":[],"cksum":"29c24a9b1aebf818623a306cf47d2917907bcea291b1ee869b06fc6b7d185070","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.6","deps":[],"cksum":"4dba4dbe24fbdc8920158ffb98a34dc6157c3e1199f6473ce9141e4520b9b3c5","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.7","deps":[],"cksum":"55cac712b311542ba2d2a3e276c5f73677b8da35e88248e2de7ec6141d680277","features":{},"yanked":false}
+{"name":"aiur","vers":"0.0.8","deps":[],"cksum":"6bd4ddb89c1bcdc045222b174799678001297f1f1436e132c62f73ea7eccbebe","features":{},"yanked":false}

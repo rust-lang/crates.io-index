@@ -1,0 +1,9 @@
+{"name":"std-traits","vers":"0.1.0","deps":[],"cksum":"4f51f25a295530f90005493faa2fe1ed80de8d179d5db34cdeb62a8c5f4227b3","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"std-traits","vers":"0.1.1","deps":[],"cksum":"cb6770cbdc62b7ee5bbbf6e60d2d9fbc7e106b8a8a558f30d7731bc4283f6679","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"std-traits","vers":"0.1.2","deps":[],"cksum":"7c0dd21acea9cddcbff983b49feb1de3015e38cf3992544004b525620b72b444","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"std-traits","vers":"0.1.3","deps":[],"cksum":"ac00c011deb28b324265402c1fb93356a22b2936a50691c1990124400a0e13bd","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"std-traits","vers":"0.2.0","deps":[],"cksum":"1cf3cbcdce2b3f3ad4ff761e92529e37b9e620cad89bb17e22234813781590e0","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.77"}
+{"name":"std-traits","vers":"0.3.0","deps":[],"cksum":"8b053c05c2da1c95086478246f73b9b5affa8ede90876c966cf09a30c81c4312","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.77"}
+{"name":"std-traits","vers":"0.3.1","deps":[],"cksum":"09c90a14069376a509d61002eb7f9270207453a60b869d10c62a85f936ef4175","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.77"}
+{"name":"std-traits","vers":"0.4.0","deps":[],"cksum":"12b7666d428dfe2316a4ba3da2520a98e0b774ebc4eb2ec70af9bebbce1b77e9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.84"}
+{"name":"std-traits","vers":"0.5.0","deps":[],"cksum":"dec76647608cf1c0265eb425f6a23e76a35ec8b81e7405f47071a2476400298c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.91"}

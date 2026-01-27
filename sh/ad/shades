@@ -1,0 +1,10 @@
+{"name":"shades","vers":"0.1.0","deps":[],"cksum":"9be5db8a636a433fdcb76a911cf5b0fa8063b273d010d8451e03fa8913f1355b","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.2.0","deps":[],"cksum":"290ddd4b2a40fe1e1212d27eba736f550014cadd7dfd2c62a32251fc1e227cd6","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.0","deps":[],"cksum":"61a2c810859c2db5a7e1129a8997a18fdb574e6093b7e9805688279216533fe3","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.1","deps":[],"cksum":"d2e6d1828207f618b2043daa5f8319910c8d150fc471d0ce09e118ff25ffecd8","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.2","deps":[],"cksum":"b01a34280695a5e75a506b0f92a1054895cbba8e24abae5162d6ea4615c107fa","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.3","deps":[],"cksum":"6b5e4f41ba846ed0294702f5375ec0528200e57c1677bb2608b7c338d5fe42c7","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.4","deps":[],"cksum":"f04d062e37d4e630d3c8d1ae3878c3e10aee03e97e86ad568c4024e74efdb901","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.5","deps":[],"cksum":"84bfef4a143f6d9da60009edfb3178ab57d6595326598c8250c0929be1c21b8a","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.3.6","deps":[],"cksum":"458d6fe8e859bcd4d1eb44f95e60bde5dc20fe205d2cb2d6385dbba733e68361","features":{"fun-call":[]},"yanked":false}
+{"name":"shades","vers":"0.4.0","deps":[{"name":"shades-edsl","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a50b28a77a78187e33f9945677a4086c1f1b18040972625953722559e4ab3d5","features":{"default":["edsl"],"edsl":["shades-edsl"]},"yanked":false}

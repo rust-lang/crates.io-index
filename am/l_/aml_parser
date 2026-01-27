@@ -1,0 +1,2 @@
+{"name":"aml_parser","vers":"0.2.0","deps":[],"cksum":"b02cfdba592c4ee440ec7aa65ec69704e4a1d961546eef12e7eca76fc1e33f77","features":{},"yanked":true}
+{"name":"aml_parser","vers":"0.3.0","deps":[{"name":"bit_field","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7854f484fca0c341d5511a9e602a7ada15423c370056b9e874ff201a693559f4","features":{"debug_parser":[],"debug_parser_verbose":[]},"yanked":true}

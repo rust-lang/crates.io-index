@@ -1,0 +1,1 @@
+{"name":"jewel-nrf52840","vers":"0.1.0","deps":[{"name":"embassy-nrf","req":"^0.1.0","features":["defmt","nrf52840","time-driver-rtc1","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d026dbf5da65b807f31cf491c3a81d3ae54e15e7cbab80077477871d18c6ce7","features":{},"yanked":false}

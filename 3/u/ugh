@@ -1,0 +1,1 @@
+{"name":"ugh","vers":"0.0.0","deps":[{"name":"ugh_derive","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ugh_shared","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec92acf1c8dced73b919678f0e43f8fcbc1d0f5b218f51d06cb7330e720de002","features":{},"yanked":false}

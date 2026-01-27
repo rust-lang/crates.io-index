@@ -1,0 +1,1 @@
+{"name":"envhead","vers":"1.0.0","deps":[{"name":"quote","req":"^1.0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5114a5c5b4ba846e092754814ad31efd51af15dccd880c59a9be56b1369eee30","features":{},"yanked":false}

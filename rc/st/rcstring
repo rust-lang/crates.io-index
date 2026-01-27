@@ -1,0 +1,5 @@
+{"name":"rcstring","vers":"0.1.0","deps":[{"name":"rlibc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c74897821aeacf1a5535f9233277c1d94a8d15e5c6744ae937bca399b7ccebe","features":{},"yanked":true}
+{"name":"rcstring","vers":"0.1.1","deps":[],"cksum":"9ca3de363658c0ce1ecdbbc0018eeba4c3c4df9598b03616d4594972dfce32da","features":{},"yanked":true}
+{"name":"rcstring","vers":"0.1.2","deps":[],"cksum":"b6d29766562f0b82aed8aee488801a5d6c5b4726616fbd8f438bc24da04623ca","features":{},"yanked":true}
+{"name":"rcstring","vers":"0.2.0","deps":[],"cksum":"e210dd2277d1d57c42d692643b30885e121e02293223da0a68b342f039787570","features":{},"yanked":false}
+{"name":"rcstring","vers":"0.2.1","deps":[],"cksum":"3b871e68ed0a7d0b3ae42f2ce19668ea6864bbfc9a095b8714ac65e67a3001a3","features":{},"yanked":false}

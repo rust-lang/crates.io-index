@@ -1,0 +1,3 @@
+{"name":"sensehat-rs","vers":"0.1.0","deps":[],"cksum":"43c4eb9e729cfc5b626eb693fcb8a59065187a600716fede3660ae0024774ac1","features":{},"yanked":false}
+{"name":"sensehat-rs","vers":"0.1.1","deps":[],"cksum":"8ce5525a1905186bb171a4d8078487e8a3134e2d5dad3ae0c453a40900bcea08","features":{},"yanked":false}
+{"name":"sensehat-rs","vers":"0.1.2","deps":[{"name":"evdev","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"effdb56302d75cc734f1371488ce4400886f7c22f4b26b28b53f3236426afc5c","features":{},"yanked":false}

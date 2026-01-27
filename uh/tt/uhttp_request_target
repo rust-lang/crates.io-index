@@ -1,0 +1,2 @@
+{"name":"uhttp_request_target","vers":"0.5.0","deps":[{"name":"lazy_static","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"664fd273b20342acf93fe79c9c61f9397f6a6d8b3f436c0d8713390c7a35b243","features":{},"yanked":false}
+{"name":"uhttp_request_target","vers":"0.6.0","deps":[],"cksum":"776a5b0e0fb0c2b11c233b74fd3caf87f107604a135850636e0cad198a05e1f5","features":{},"yanked":false}

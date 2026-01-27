@@ -1,0 +1,2 @@
+{"name":"ros2_builtin_interfaces","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c6c4787b5b298ee6d7092723a1cd3465be24c889b2b8f12379998d5a3ceefdf","features":{},"yanked":false}
+{"name":"ros2_builtin_interfaces","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"822fe51cf4c723a5646d91e5cf42b5d88f8484fc327476ee1b421e6b9bd566e8","features":{},"yanked":false}

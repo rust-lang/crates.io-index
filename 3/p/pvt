@@ -1,0 +1,2 @@
+{"name":"pvt","vers":"0.1.0","deps":[{"name":"shape-core","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1251313a0e9b6850385ddcde0faf7e82063774e8e2a8c39948c31c6585e1ec5","features":{"default":[]},"yanked":false}
+{"name":"pvt","vers":"0.0.0","deps":[{"name":"shape-core","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7bd30be45ff1f0aa31981383b1470154bdbe6a77429ce218c6e6e1a8467d421","features":{"default":[]},"yanked":true}

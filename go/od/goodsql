@@ -1,0 +1,2 @@
+{"name":"GoodSql","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f16d7b4a049a0ed8914c9b41a87813ae908115536085284b22dfe1d9ee6ff1e3","features":{},"yanked":true}
+{"name":"GoodSql","vers":"0.1.1","deps":[{"name":"rusqlite","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73887f940ca755e60a39e986b0f4069c51d4bd57d3ca3ebfd6e7e39633f3c79","features":{},"yanked":true}

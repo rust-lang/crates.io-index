@@ -1,0 +1,1 @@
+{"name":"kstat","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"feea112b227cab42dd934264e58e6d2c2a224c0589a49fa0b3b74f08ee845b4a","features":{},"yanked":false}

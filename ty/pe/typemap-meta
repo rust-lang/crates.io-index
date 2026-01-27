@@ -1,0 +1,2 @@
+{"name":"typemap-meta","vers":"0.1.0","deps":[{"name":"typemap-meta-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db9e1ed6ed4fa14c0c06fb4afe8c954dda098c9d00818c21ee95ef6fe80bda64","features":{},"yanked":false}
+{"name":"typemap-meta","vers":"0.2.0","deps":[{"name":"typemap-meta-derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"404c5cde67bbe0a2eb9750737c9433e103452e9f514486fec42cf268a22d29e3","features":{},"yanked":false}

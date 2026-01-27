@@ -1,0 +1,2 @@
+{"name":"tsh","vers":"0.1.0","deps":[{"name":"trash","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1013daaacd1e472bb6505513410fc98892bcb9b08354821296210881fbe9aba6","features":{},"yanked":false}
+{"name":"tsh","vers":"1.0.0","deps":[{"name":"trash","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc2a1602d14a430d3b05654488e0fafaf37913f34c2133d94ef709126237136b","features":{},"yanked":false}

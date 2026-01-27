@@ -1,0 +1,2 @@
+{"name":"bix","vers":"0.1.2","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35f0a3409a9345e4e935a65912b02116aa3f11c4110ff062ed60419bcfd6b550","features":{},"yanked":false}
+{"name":"bix","vers":"0.1.3","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb601343a6c058ab55c262b80b50aa3f26d8cabb150ffa22eecf73e113f00316","features":{},"yanked":false}

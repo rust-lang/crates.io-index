@@ -1,0 +1,2 @@
+{"name":"dlpack-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3ec0cd5d0210b61a5c13089fab2eb0da6e0a8c88004766f9a037a5db1b80fe31","features":{},"yanked":false}
+{"name":"dlpack-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5edcb8e2f0e84e714bf36e92a17a7e6dede1aea3e321d2642e08511a7d5a45bf","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"dioxus_ui","vers":"0.1.0","deps":[],"cksum":"ea6eb0039c9e055a8bf890144846fc2872dce273e784f9e129a96dfdd61b0c44","features":{},"yanked":false}
+{"name":"dioxus_ui","vers":"0.1.1","deps":[{"name":"dioxus","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tw_merge","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0880df7730f72117bcc765b5f01e496ff376d7be0275550e6176cbe76e10d05a","features":{},"yanked":false}

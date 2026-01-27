@@ -1,0 +1,3 @@
+{"name":"primeshor","vers":"0.1.0","deps":[],"cksum":"45bc3a8fcae2512fb11dd12e8c8cb79232a89c63bf4787a87efb6e60c15ebe96","features":{},"yanked":false}
+{"name":"primeshor","vers":"0.1.1","deps":[],"cksum":"b0242bf024dd82301bd00dd9e38e181acccb6fde981f5bf7a06d227a0f06c01a","features":{},"yanked":false}
+{"name":"primeshor","vers":"0.2.0","deps":[{"name":"num-bigint","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eee3b25e7d7aba9dd489bdc8877cb16fe6e9c0001f5de0daa67ee63167fa336b","features":{},"yanked":false}

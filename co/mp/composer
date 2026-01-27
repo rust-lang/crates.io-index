@@ -1,0 +1,2 @@
+{"name":"composer","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5121557c8140f8dcaa77818f6253b6d113425c7f0e5be643627d48ce751c5df4","features":{},"yanked":false}
+{"name":"composer","vers":"0.2.1","deps":[{"name":"failure","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d80d52b2a248ca7413689b47be00746088f23316d4c66bbd6bd9b7539514a047","features":{},"yanked":false}

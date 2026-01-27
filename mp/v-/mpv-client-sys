@@ -1,0 +1,2 @@
+{"name":"mpv-client-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7cea3c55a42da09d8ad925a886019bd67548097d6374a3ad4903059483a8d332","features":{},"yanked":true}
+{"name":"mpv-client-sys","vers":"1.0.1","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"39c0d45bb600e29318acb024e92e03c12ce78cf9530eaaa8f5a98dca4f54f8c6","features":{},"yanked":false}

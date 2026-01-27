@@ -1,0 +1,4 @@
+{"name":"io_partition","vers":"1.0.0","deps":[],"cksum":"560ec9fc1b499d0abb583ffd8bec96ce214bb3503260441c725b3aa40a63a56a","features":{},"yanked":false}
+{"name":"io_partition","vers":"1.0.1","deps":[],"cksum":"68808bb877a33cbf39760e45e9be89d5d949979c1b49beef814c007ac1bf4f3c","features":{},"yanked":false}
+{"name":"io_partition","vers":"1.1.0","deps":[{"name":"thiserror","req":"^1.0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"244b94f48406d52c2900b8cfead0860a9888c28fc1a100fce16e4d5cee7cd17d","features":{},"yanked":false}
+{"name":"io_partition","vers":"1.1.1","deps":[{"name":"thiserror","req":"^1.0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ec167c49e5a490450099dc92edff1e0bf1070e63b312a6ae1f60621de96e842","features":{},"yanked":false}

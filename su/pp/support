@@ -1,0 +1,5 @@
+{"name":"support","vers":"0.1.0","deps":[],"cksum":"0ba54033aaf6455b97567a733c4ff5f34ffa22c663da0981ec03df255fbe326f","features":{},"yanked":false}
+{"name":"support","vers":"0.2.0","deps":[],"cksum":"cdb4be56c2a5c6c1f61b8aaff4d124105a894c21e619ede564d6a8a2382541cb","features":{},"yanked":false}
+{"name":"support","vers":"0.3.0","deps":[{"name":"regex","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78d140ba050654384fd42d88ed2dd0cec3ce77a3257d58e404c2c8fc38fc4bce","features":{},"yanked":false}
+{"name":"support","vers":"0.3.1","deps":[{"name":"regex","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcf9ef4cdd171605a8bbaa1092864c636b36f8c5b3980f15d6674d0865ed3652","features":{},"yanked":false}
+{"name":"support","vers":"0.4.0","deps":[{"name":"regex","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1755e83f86e8f595300143eafcb589136de2f7bd7e5574e6d24792b01725b794","features":{},"yanked":false}

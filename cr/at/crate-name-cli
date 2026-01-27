@@ -1,0 +1,1 @@
+{"name":"crate-name-cli","vers":"1.0.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"curl","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f04c6ccce2f0a4698295d224cc3d14c14727c0e68a4e60c16d0d7a8c897c3f3c","features":{},"yanked":false}

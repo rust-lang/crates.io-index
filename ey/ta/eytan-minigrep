@@ -1,0 +1,4 @@
+{"name":"eytan-minigrep","vers":"0.1.0","deps":[],"cksum":"5ad49bad1c1d48326ab35339f3d943fe4c3974407a36ba3224a50aa66765a59b","features":{},"yanked":false}
+{"name":"eytan-minigrep","vers":"0.1.1","deps":[],"cksum":"0019160b3d830b033615396d005a6c59cfab4a4f6dc5d3e1b869acbf72920dd5","features":{},"yanked":false}
+{"name":"eytan-minigrep","vers":"0.1.2","deps":[],"cksum":"87a0d5a0446a2cb95909e9e6e56f4598f00951109028043e56e5838dce6846b4","features":{},"yanked":false}
+{"name":"eytan-minigrep","vers":"0.1.3","deps":[{"name":"clap","req":"^4.5.53","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"182de25cd56ba0364e3dad41ff8f06210f1af579fb82d45c7a499df198f4bc16","features":{},"yanked":false}

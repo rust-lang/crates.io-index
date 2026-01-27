@@ -1,0 +1,2 @@
+{"name":"onboard","vers":"0.1.0","deps":[],"cksum":"bc9925d7fa42b5d88fffd1b0a922cab93fa8506d68a951846766066ec58e9640","features":{},"yanked":false}
+{"name":"onboard","vers":"0.2.0","deps":[{"name":"utf8path","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43da7523528d4784961c4f8dbe84c76468b6141be0566a30e0c0196b46efba41","features":{},"yanked":false}

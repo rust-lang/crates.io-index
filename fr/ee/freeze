@@ -1,0 +1,2 @@
+{"name":"freeze","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d1ec405ad49a9539a91f5ef6df8d09ccb2c5fbcb03471338a6daa2e623d8b34","features":{},"yanked":false}
+{"name":"freeze","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"137cf9d5413e63bd75790182a6adad2b08479524205481338342aa44de5ff7f1","features":{},"yanked":false}

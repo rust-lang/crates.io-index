@@ -1,0 +1,2 @@
+{"name":"dogged","vers":"0.1.0","deps":[],"cksum":"4650e4d7ece67c1478e0511d8adc61292379328b2c904693d22e352e03b3a6ff","features":{},"yanked":false}
+{"name":"dogged","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2638df109789fe360f0d9998c5438dd19a36678aaf845e46f285b688b1a1657a","features":{},"yanked":false}

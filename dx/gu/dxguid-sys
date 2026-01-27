@@ -1,0 +1,2 @@
+{"name":"dxguid-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a1f1be0042c73a46c065eab7db061d276d8426accb4791c4aaf8c58eb49a02d","features":{},"yanked":false,"links":"dxguid"}
+{"name":"dxguid-sys","vers":"0.2.0","deps":[{"name":"winapi","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67fd263c40ac7b425740bb196b6e9f56211d01c8d49235065ba36ab60c34aa1f","features":{},"yanked":false}

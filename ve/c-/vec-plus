@@ -1,0 +1,1 @@
+{"name":"vec-plus","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4dff6cd0c187ad7566c8d4a37a6bdd0f3764afed33e4f78bb8eb376c585c6a4","features":{},"yanked":true}

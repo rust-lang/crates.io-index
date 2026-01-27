@@ -1,0 +1,2 @@
+{"name":"hfm","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.22","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87202f58d49bd62560f0fc6569050b91ffebc7a9ef4580fc9e9c7eeb72decd80","features":{},"yanked":true}
+{"name":"hfm","vers":"0.1.1","deps":[{"name":"clap","req":"^3.2.22","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe71634593df429144295d451bf5098bc73e50c4500a5f4952272bbdd7c85e8c","features":{},"yanked":true}

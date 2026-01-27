@@ -1,0 +1,4 @@
+{"name":"say-hello-345bf72e","vers":"0.1.0","deps":[],"cksum":"5b0bf6834292fb7858f2aabd2961f6c92db7cfb954d8b7ad1d6d9cf8494b0b39","features":{},"yanked":false}
+{"name":"say-hello-345bf72e","vers":"0.2.0","deps":[],"cksum":"898bcac3d5b49f82538cea2adec473e5b31bec07fb4ec765497e38f1f44690c1","features":{},"yanked":false}
+{"name":"say-hello-345bf72e","vers":"0.2.1","deps":[],"cksum":"21d68f240b4f1504e8c26219beda34ef8c7f2a864a10d0080e7657d5652eb233","features":{},"yanked":false}
+{"name":"say-hello-345bf72e","vers":"0.2.2","deps":[],"cksum":"f084872db4ee769588ec6bd28111b068cc198fd0639224d5f8482b282da45e9b","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

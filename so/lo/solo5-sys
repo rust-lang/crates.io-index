@@ -1,0 +1,1 @@
+{"name":"solo5-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cty","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab8c8ad38eac848299598f8ed117d460ac935833364fb2782e2863da397c4500","features":{},"yanked":false}

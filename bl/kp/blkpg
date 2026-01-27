@@ -1,0 +1,2 @@
+{"name":"blkpg","vers":"0.1.1","deps":[{"name":"rustix","req":"^0.38.34","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"21aa4a3bddef07013ae260fc8c7188f84bdbf14b166dab645390c10214f8fff6","features":{},"yanked":false}
+{"name":"blkpg","vers":"0.2.0","deps":[{"name":"rustix","req":"^1.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2805ecc65cf36103b63db643d30171de035761a9aa0b3a982b753f67dfa6496f","features":{},"yanked":false}

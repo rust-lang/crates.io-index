@@ -1,0 +1,1 @@
+{"name":"winpty-rs-windows-services","vers":"0.24.0","deps":[{"name":"winpty-rs-windows-link","req":"^0.1.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eb48e4507852d55b70588062fb11bb57f7e464772445b9f861d8e9462210dc6e","features":{},"yanked":false,"rust_version":"1.75"}

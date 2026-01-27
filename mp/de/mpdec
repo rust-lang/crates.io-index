@@ -1,0 +1,1 @@
+{"name":"mpdec","vers":"4.0.1","deps":[{"name":"mpdec-sys","req":"^4.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0715dd2e1be7ff758229dee14006f9ec690d874eb47beae3cca6c761c241777","features":{"internals":[]},"yanked":false}

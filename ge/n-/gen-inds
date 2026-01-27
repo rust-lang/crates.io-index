@@ -1,0 +1,2 @@
+{"name":"gen-inds","vers":"0.1.0","deps":[{"name":"simple-error","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae7da9e21788548752f9cdc5108f350d5d59a328407e5b3d1b9f278f31bc3c9c","features":{},"yanked":false}
+{"name":"gen-inds","vers":"0.2.0","deps":[{"name":"simple-error","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"354686a41a0a82068bfec9309c346907328da6223e0483ee0a9a16b70a5aadad","features":{},"yanked":false}

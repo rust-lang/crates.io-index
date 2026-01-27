@@ -1,0 +1,2 @@
+{"name":"periphery","vers":"0.0.0","deps":[],"cksum":"9d686173d50ea969a8ce4e75a17d2e28476a43caf51ccd7332b72f79c3bf9da2","features":{},"yanked":false}
+{"name":"periphery","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d09d5f9a29d6ed3f3ee0d1f5c92bd5988a3e5cd1de8a6b7dbc050c475630bdd","features":{},"yanked":false}

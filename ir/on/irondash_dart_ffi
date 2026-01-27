@@ -1,0 +1,2 @@
+{"name":"irondash_dart_ffi","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad05ae27a3e5a6cd785e821a742d3a4539ef3f71f9c567d44efa95e4901b596c","features":{},"yanked":false}
+{"name":"irondash_dart_ffi","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ed3ea8413fd024d89154472f7aea14e820eb600d0c4318bc001b14dd9b3ddc","features":{},"yanked":false}

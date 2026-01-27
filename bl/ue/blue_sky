@@ -1,0 +1,2 @@
+{"name":"blue_sky","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36d532a162516e9e354f96daaae56ccf446d03c719ac1cb47e9b494e81bf031b","features":{},"yanked":false}
+{"name":"blue_sky","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d74a863645a6f02ec63aa0204cd32c89024215aac1ede34e230bc729012095ec","features":{},"yanked":false}

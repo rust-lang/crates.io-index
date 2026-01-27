@@ -1,0 +1,2 @@
+{"name":"disfmt","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"850d7a26c7f9395568f5ea3d98340a21fa7ab88c1db23f21546c74f358955b89","features":{},"yanked":false}
+{"name":"disfmt","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"565bb5211a7ba4a3c5770a99a0e55081c6918e6b5e69094ec4332e25a41c519d","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"es-disk-planner","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"961ba55eb01fd6e34b82289607e5538d7c7d231f768d34a3990726a1faa967d6","features":{},"yanked":false}

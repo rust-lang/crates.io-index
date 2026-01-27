@@ -1,0 +1,1 @@
+{"name":"tf-semver","vers":"1.0.17","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"62808a5042487d591eaffdfc1b0cae0cf0e08b3c13df526dc306e7e2e9148ee3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.31"}

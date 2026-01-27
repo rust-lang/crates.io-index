@@ -1,0 +1,2 @@
+{"name":"git-freq","vers":"0.0.1","deps":[{"name":"time","req":"^0.1.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ee949f7280882c918fd64a3a5ba5b4f57982a4cb7981056a8249659aa607241","features":{},"yanked":false}
+{"name":"git-freq","vers":"0.0.2","deps":[{"name":"time","req":"^0.1.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f001bdf8a278eb4b7f2c17f6015702a1d798fda7e1cafc1fc83fea876aabf7f1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"wav2json","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12.5","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04ae1b53ac96acf523bdf1b9cf96c59717ae96f591f49fa3ac4b66b387d1152d","features":{},"yanked":false}

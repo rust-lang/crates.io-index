@@ -1,0 +1,2 @@
+{"name":"http-request-target","vers":"0.0.0","deps":[],"cksum":"1bfb4707f3da20213d9066a12f8b42b6e49a5c7623de3237b6a00bfa01eb2ad5","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"http-request-target","vers":"0.0.1","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9742381fddb770d96a6370a1303ea8b4fbeca3bdafaa1fd2cafb3439fe8f2aeb","features":{},"yanked":false,"rust_version":"1.85"}

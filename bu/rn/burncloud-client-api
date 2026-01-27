@@ -1,0 +1,2 @@
+{"name":"burncloud-client-api","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.6.3","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9c12251328852a07ec8a2c54c01ad81819e3973900b5e959a41229bb1845568","features":{},"yanked":false}
+{"name":"burncloud-client-api","vers":"0.1.2","deps":[{"name":"dioxus","req":"^0.6.3","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42167a522e534398e8542e9bb31d87c9efdeaed9a28ef925cbc2d466f99a6585","features":{},"yanked":false}

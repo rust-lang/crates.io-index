@@ -1,0 +1,1 @@
+{"name":"corevm-types","vers":"0.1.26","deps":[{"name":"codec","req":"^0.1.1","features":["derive","max-encoded-len"],"optional":true,"default_features":false,"target":null,"kind":"normal","package":"jam-codec"}],"cksum":"1fc1e385c0fa8f374edd878958d9f1a732281e15d212a143207a49d1c121cbf8","features":{},"features2":{"codec":["dep:codec"]},"yanked":false,"v":2}

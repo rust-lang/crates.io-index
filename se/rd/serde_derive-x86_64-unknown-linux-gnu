@@ -1,0 +1,4 @@
+{"name":"serde_derive-x86_64-unknown-linux-gnu","vers":"1.0.171-alpha.0","deps":[],"cksum":"e652c756ce3d7e8f8941f7f848d01d2ded17cdac02b1c6c13218175739766206","features":{},"yanked":true}
+{"name":"serde_derive-x86_64-unknown-linux-gnu","vers":"1.0.171-alpha.1","deps":[],"cksum":"45957513f1722ec1b1af3882b88f8751db4e8163c11b105d0df26ea4aa748b26","features":{},"yanked":true}
+{"name":"serde_derive-x86_64-unknown-linux-gnu","vers":"1.0.171-alpha.2","deps":[],"cksum":"f3da7549d229690d79f416d84c5e1a16f78a9d7e5d771b24eb9040d7d2e36c5e","features":{},"yanked":true}
+{"name":"serde_derive-x86_64-unknown-linux-gnu","vers":"1.0.171-alpha.3","deps":[],"cksum":"f9dfe6773f19699cca9633b76bc5fcae97ee966f6d9348207b1a8e9be7fbb976","features":{"default":[],"deserialize_in_place":[]},"yanked":false}

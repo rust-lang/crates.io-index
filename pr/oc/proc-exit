@@ -1,0 +1,10 @@
+{"name":"proc-exit","vers":"0.1.0","deps":[],"cksum":"1ac573c94c4d539e8c339d612c8fc9835d286989411f1381a84a304c0ac19b41","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"0.2.0","deps":[],"cksum":"40686dfa9610dfef85f36497a20703168ba2d2d8799ab6775a3a3dd16421417f","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"0.3.0","deps":[],"cksum":"7d01cbcf1855582aa030b9682a639d007834cd24d20d65f031bf87a2c7762cb5","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"1.0.0","deps":[],"cksum":"840e8258ee345dbd1212a9ca80bd59de426f9fc67d9007cae8cd65e69b99f847","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"1.0.1","deps":[],"cksum":"7bf98af012a71ad9456b92fdba48c29d59f971610932cce8ef73a4daa7954501","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"1.0.2","deps":[],"cksum":"d94a40d6d1c03eb98fdf7c983a6b550798e6e805afa46112c54aaaaeb48a276f","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"1.0.3","deps":[],"cksum":"0da6bbc8ef87314d4f596ad9d02db375c3f2d77fba91067a6f6a5754fdc8cb49","features":{"default":["portable"],"portable":[]},"yanked":false}
+{"name":"proc-exit","vers":"2.0.0","deps":[],"cksum":"d2d778539881515d37cd91925d169f4a351120c5a1b44fce2b7c462b0d7f4ec6","features":{},"yanked":false,"rust_version":"1.61.0"}
+{"name":"proc-exit","vers":"2.0.1","deps":[],"cksum":"dbd05acff31c8b626109e8e1db042b9bddb2b3ffba01ead93d15b78517a282ca","features":{},"yanked":false,"rust_version":"1.61.0"}
+{"name":"proc-exit","vers":"2.0.2","deps":[],"cksum":"77a5390699eb9ac50677729fda96fb8339d4629f257cc6cfa6eaa673730f8f63","features":{"default":[]},"yanked":false,"rust_version":"1.74"}

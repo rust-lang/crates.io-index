@@ -1,0 +1,1 @@
+{"name":"slp-cli","vers":"0.1.0","deps":[{"name":"slp","req":"= 0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b526152436eaf27ce97a21347baaedc3d5745a11580fae167d51700ba498aa50","features":{},"yanked":true}

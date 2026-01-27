@@ -1,0 +1,2 @@
+{"name":"warbler","vers":"0.0.0","deps":[],"cksum":"0d7416d65da6584bff84ccc340cf30f78dcc43dd9ce3a3eb2ecc5cbe11311487","features":{},"yanked":true}
+{"name":"warbler","vers":"0.0.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl3","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"688804aee4f9c288ab6bc3596f6873bf28ead8567b8406017eb22b5984844e84","features":{},"yanked":false}

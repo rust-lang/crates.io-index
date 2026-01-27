@@ -1,0 +1,1 @@
+{"name":"strlen","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.159","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc58c395745a67cfb40f45dad8e043896b253d07e1619c2e6af7d7883d4da546","features":{"std":["libc/std"]},"yanked":false}

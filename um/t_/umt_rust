@@ -1,0 +1,4 @@
+{"name":"umt_rust","vers":"0.1.0","deps":[],"cksum":"debacfcab969b0088b85accea17670f45f3aedf5b197fdce18a9fc41c625bf4c","features":{},"yanked":false}
+{"name":"umt_rust","vers":"0.1.1","deps":[],"cksum":"625167307f20e00a6b1c9b6ae75f73bcd307326137e5b8e1d0cdbd300c7573e7","features":{},"yanked":false}
+{"name":"umt_rust","vers":"0.2.0","deps":[],"cksum":"b0e806d49f1f9d7ae333ded92fa4fa5e84fca7a9129f961c70708153f8db1e53","features":{},"yanked":false}
+{"name":"umt_rust","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53cbb0af8d28eba1792c7602445a1f7d8d68ecd03dc765f2c1f3edb5734858e1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"slc_oxide","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f2a411e1d094a68086330ca9ed28c4789f2e74252bff279a43f2c69d33208f6","features":{},"yanked":false}
+{"name":"slc_oxide","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d42acf0bf4c38c4b96cafbab31ad1515b315c764404db9af4036a2601b4f83c","features":{},"yanked":false}

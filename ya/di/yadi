@@ -1,0 +1,3 @@
+{"name":"yadi","vers":"1.0.0-alpha","deps":[],"cksum":"46efd1af42e9c60b8b6603b963e06e04828e70d9bd24381ef1a13eb7030dc55f","features":{},"yanked":true}
+{"name":"yadi","vers":"1.0.0-alpha.1","deps":[],"cksum":"3db44dd70617a5f37db017966ae6076c9557cd55058b7e7fbf84621a04d4699e","features":{},"yanked":true}
+{"name":"yadi","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yadi_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b449454f93b4a0ced58be80eca4a192530a34687bab729e2c1e9b191a30790f9","features":{"default":[],"derive":["yadi_derive"]},"yanked":false}

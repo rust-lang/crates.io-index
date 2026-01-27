@@ -1,0 +1,1 @@
+{"name":"solana-bls-utils","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.82","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e204fe62f118c7534a03d31317bef7f061ceefa4fd4e472242ae5b4035691c8e","features":{},"yanked":false}

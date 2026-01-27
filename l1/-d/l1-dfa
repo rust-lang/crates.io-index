@@ -1,0 +1,12 @@
+{"name":"l1-dfa","vers":"0.0.1","deps":[],"cksum":"1da6711f0af27e99afa0dce9bd0d7818480bd93c7b56d84cdc64c6791db02670","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.2","deps":[],"cksum":"7fbbed3749e37e21b38f7d2ced929d577224ea42dd6e60cbc37b5a964c85cf68","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.3","deps":[],"cksum":"8db6cbb354e1f7d550639a9c6bfb691cdcebd43c6349ddeff8aea3706b50eeb7","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.4","deps":[],"cksum":"84a82603e7a545e77a35bf6ba9b4f95eb6f49c4000067e1db511d40c5c80707e","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.5","deps":[],"cksum":"6cb73213f2056af4bb526bb313010a2157794c4c95bd45153fc095acf51d8886","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.6","deps":[],"cksum":"5f7e1766733cfc845b0ee97971689985e183fd69ec7fc8ee62d412999ee0a7c3","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.7","deps":[],"cksum":"8cd308954797a0ef92f32cca5009abbc1174d32a0b78885ac4ebbd320e14291a","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.8","deps":[],"cksum":"b916cf8426ded18b4942dd411be958d8159b51ff2f1e93b71ac77569e549e605","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.9","deps":[],"cksum":"bfc936b2a242b5e047414c73a15c33979b157441d894101c81b90a222b16bddf","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.0.10","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff7b2c8e560a14c81349b1f2bdb72a9eda0bb385dfd4d15d65df366be9b1da15","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.1.0","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a82440b53f3390b3f84b33ae0c8245631086ec225b7c3441e5021d223b6205f","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.1.1","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66904dee2586ea0371f4cd6e163381b26b62ca642e7690b2c3a1181913aaf00e","features":{},"yanked":false}

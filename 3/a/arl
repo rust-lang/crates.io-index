@@ -1,0 +1,2 @@
+{"name":"arl","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.21.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8025da6b0fff948174209a838683f54b76db79848bff8e483b1fc72154753fa","features":{},"yanked":false}
+{"name":"arl","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt-multi-thread","sync","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cab45ee4a44c096e83f42533f541b82fd7e99748d293183ae770437819a9c9f6","features":{},"yanked":false}

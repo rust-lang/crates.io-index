@@ -1,0 +1,3 @@
+{"name":"hrw","vers":"0.1.0","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"61c60a9f56697911479c69f630f3e9676210c36de589a4f69841e3ac96d2a962","features":{},"yanked":false}
+{"name":"hrw","vers":"0.1.1","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47da3ec862b2873d589e4a8c60b78d1660308006c9e242da9abc72c4b36d4efa","features":{},"yanked":false}
+{"name":"hrw","vers":"0.1.2","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"facc8051ee27a0e1ba79153663c22aa3eed8ae92c8a1584244aa33e5c12a7ed6","features":{},"yanked":false}

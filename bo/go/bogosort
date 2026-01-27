@@ -1,0 +1,2 @@
+{"name":"bogosort","vers":"0.130.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8b54d3fd08d539175d3bb1f30d2378b981e2b5b9b96c598f74a11b0c9117f6b","features":{},"yanked":false}
+{"name":"bogosort","vers":"0.142.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e73efbbba85316a012c95993af5843c35a6636cb89ef127a68a1f0855dd8e71","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"plain-map","vers":"0.1.0","deps":[],"cksum":"70f67a7cff8d5b93a84c1340ec978dcf6829ecbc8f1707be86d293023459830a","features":{},"yanked":false}
+{"name":"plain-map","vers":"1.0.0","deps":[{"name":"smallvec","req":"^0.6.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342b14d608ff74651c74ae1e6ef60adb80f17f4c9f739ef897c845aa32ab8c44","features":{},"yanked":false}
+{"name":"plain-map","vers":"2.0.0","deps":[{"name":"smallvec-stableunion","req":"^0.6.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8c9b98e922e5e3e8f4d5a7138409ca91edc3e51940b06529d6befc764e340dd","features":{},"yanked":false}

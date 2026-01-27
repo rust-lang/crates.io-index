@@ -1,0 +1,1 @@
+{"name":"async-move","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c85c057a8ae3f90fdeabd009603bd4165684aadf7c6ee36c0eda5dbdd991c5da","features":{},"yanked":true}

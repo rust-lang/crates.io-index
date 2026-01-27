@@ -1,0 +1,3 @@
+{"name":"rot26","vers":"0.1.0","deps":[],"cksum":"2962bad63a1a73901320b5b12bd6344a855fc0851c193a44794b153d1cceb449","features":{},"yanked":false}
+{"name":"rot26","vers":"0.1.1","deps":[{"name":"rayon","req":"^0.9.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe759129013b18448df7d73bdee0f5eb5075eddb29f69ab93df644b556a19534","features":{},"yanked":false}
+{"name":"rot26","vers":"0.1.2","deps":[{"name":"rayon","req":"^0.9.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"689ae93117632a6e7a4672f3eb8ca295126f4df00d3b5751eec5ffc9fc372319","features":{},"yanked":false}

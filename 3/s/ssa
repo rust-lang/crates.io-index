@@ -1,0 +1,2 @@
+{"name":"ssa","vers":"0.1.1","deps":[],"cksum":"ba673ff706cba8f62b955ffb164dba78b552aad011a2e9f8f709a934fe84a49c","features":{},"yanked":false}
+{"name":"ssa","vers":"0.1.2","deps":[{"name":"json","req":"^0.11.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reqwest","req":"^0.9.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44c35ce7227a6195f47f0bdea6424950466abff92602652af5fe6b0a61087102","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"tiered-result","vers":"0.1.0","deps":[{"name":"nullable-result","req":"^0.7.0","features":["try_trait"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4d8471c4afd290a22eccdae5a7c1e281d4e60ae7ecab53cb3addb2696a05e495","features":{"std":["nullable-result/std"]},"yanked":false}

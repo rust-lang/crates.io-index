@@ -1,0 +1,1 @@
+{"name":"cronos-indexer","vers":"0.0.1","deps":[{"name":"anchor-lang","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afb56af4748ac21ec69fce4f2afdd6b3d73b1ccb3336410f10a2133f40f2ce3d","features":{"cpi":["no-entrypoint"],"no-entrypoint":[]},"yanked":false}

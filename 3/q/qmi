@@ -1,0 +1,4 @@
+{"name":"qmi","vers":"0.0.1","deps":[],"cksum":"3df3fe0d6ffbcd5324bc7db9a5116f05bd3094a827ece315b8529521657d6639","features":{},"yanked":false}
+{"name":"qmi","vers":"0.0.2","deps":[],"cksum":"fb7c8f1aa3787b2a8bedd93ff5b80b6a1465c1abf8c4df67a7ea0789ad5e367d","features":{},"yanked":false}
+{"name":"qmi","vers":"0.0.3","deps":[],"cksum":"bb0b369dd6e0741b79a45631c15e566c199d4eb08337b02bfb47d63b9256fdc0","features":{},"yanked":false}
+{"name":"qmi","vers":"0.0.5","deps":[{"name":"hecs","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.47.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a9cd29516d7f51004dc5a80ec1fc8fd19eaca35a6fe9b68eb806d16c488ad47","features":{},"yanked":false}

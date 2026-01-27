@@ -1,0 +1,1 @@
+{"name":"ransid-log","vers":"0.4.7","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vte","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d3f23ae04005813f56005a238772010e9662cdd11dbb3a432728abf04fa3864","features":{},"yanked":false}

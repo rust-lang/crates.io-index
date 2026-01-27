@@ -1,0 +1,4 @@
+{"name":"brainfck","vers":"0.1.0","deps":[],"cksum":"8d83f4989b979357065b2628f4071b6fde484c7fd626bf382293eecc57d00d86","features":{},"yanked":true}
+{"name":"brainfck","vers":"0.1.1","deps":[],"cksum":"a9953ec2403ddc40acb7931fdabd51920842a801a364ce161763608e51de20dc","features":{},"yanked":false}
+{"name":"brainfck","vers":"0.2.0","deps":[{"name":"tiny-vec","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50c7539b76a5ce189fe217547d6d628e497dd782534047a86ed15acb32d72cf4","features":{},"yanked":false}
+{"name":"brainfck","vers":"0.3.0","deps":[{"name":"tiny-vec","req":">=0.9.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"adfe4a71e02455d101cc455216420b5ea2bc2e6d66dd7f92ffcb22f32d332660","features":{"alloc":["tiny-vec/alloc"],"default":["alloc","std"],"std":["alloc"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"simvar_utils","vers":"0.1.0","deps":[{"name":"switchy","req":"^0.1.3","features":["async","async-macros","async-util"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2dfe91df1aec2fc878ebe526120cd828105e8aaf304be76c70fac20aa0f522c5","features":{"default":[],"fail-on-warnings":[]},"yanked":false}

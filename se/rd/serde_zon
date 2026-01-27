@@ -1,0 +1,3 @@
+{"name":"serde_zon","vers":"0.0.1","deps":[],"cksum":"ac51123bfc45bbbe385c25fc7e042c88dfa0f5b6d7b8c99cc32236031f954670","features":{},"yanked":false}
+{"name":"serde_zon","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d664ca6597e7b4cf63b315c36e426e5091697bba7bb95a95144626c5630993c2","features":{},"yanked":false}
+{"name":"serde_zon","vers":"0.0.3","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9c65f68e2f8343c1eec0745b177d8fcc72ad217924150ebf5145632a6cc1654","features":{},"yanked":false}

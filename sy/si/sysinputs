@@ -1,0 +1,1 @@
+{"name":"sysinputs","vers":"0.0.5","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"38fbaa5e36a3094e87f4e786b661059d96caccedff2940bd335384cbf40baa57","features":{},"yanked":false}

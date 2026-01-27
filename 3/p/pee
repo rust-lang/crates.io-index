@@ -1,0 +1,2 @@
+{"name":"pee","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4890f6ea745824f210950b39f47c34c3f9e64eb73c3546120426b12a2d07018","features":{},"yanked":false}
+{"name":"pee","vers":"0.1.2","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3203f73377ce89b123c650a3ab8c8b98a93be88fc2254e1b353587905d7e8f6b","features":{},"yanked":false}

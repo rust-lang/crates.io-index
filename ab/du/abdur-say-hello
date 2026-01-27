@@ -1,0 +1,3 @@
+{"name":"abdur-say-hello","vers":"0.1.0","deps":[],"cksum":"01dee3e60b64ead629662fafa21050c3372e4b57bbcee9bc06805967afacd7b2","features":{},"yanked":false}
+{"name":"abdur-say-hello","vers":"0.2.0","deps":[],"cksum":"18a591df283ea1a9724318d46de16a91d2c1f246f791571f4e9d73c53cc23e3a","features":{},"yanked":false}
+{"name":"abdur-say-hello","vers":"0.3.0","deps":[],"cksum":"7efe3adeceae87d254e57aedc7da523c63c756c6ec770cc70b9fd333e2b3468e","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

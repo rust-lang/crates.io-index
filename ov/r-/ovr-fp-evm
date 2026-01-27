@@ -1,0 +1,1 @@
+{"name":"ovr-fp-evm","vers":"3.0.0","deps":[{"name":"evm","req":"^0.33.1","features":["std","with-serde"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"01562f1ba353a13ad959b9571b46f8790479d92965dccf18a6e5a8bf73d0e1dd","features":{},"yanked":false}

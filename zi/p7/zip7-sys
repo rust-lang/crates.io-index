@@ -1,0 +1,1 @@
+{"name":"zip7-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0479b67c44b7208d64bdf9940d3e34d5fb27f53d81867e6b50a0c39ee2a6450a","features":{},"yanked":false}

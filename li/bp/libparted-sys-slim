@@ -1,0 +1,2 @@
+{"name":"libparted-sys-slim","vers":"0.4.0","deps":[{"name":"bindgen","req":"~0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"36806417ab057edc33efb9725a6534c4fcbc684d8ea6718862a289d39e0b5394","features":{},"yanked":false}
+{"name":"libparted-sys-slim","vers":"0.4.1","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4393fb0ff0a9ac2e46e655f81bf6d66182ab0be90f8ed09cadabdf012755cf85","features":{},"yanked":false}

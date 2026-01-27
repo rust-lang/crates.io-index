@@ -1,0 +1,2 @@
+{"name":"brush","vers":"0.0.0","deps":[],"cksum":"bd1b6399f71a54e97225a5eda014d7441c8a493ecfec451f2f34efb848fc674e","features":{},"yanked":true}
+{"name":"brush","vers":"0.3.0","deps":[{"name":"brush-shell","req":"^0.3.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0d593cae311eefab50e25d44f5cb5bca389594d733c55b5641e0ec4614ecd1a7","features":{"basic":["brush-shell/basic"],"default":["brush-shell/default"],"minimal":["brush-shell/minimal"],"reedline":["brush-shell/reedline"]},"yanked":false,"rust_version":"1.87.0"}

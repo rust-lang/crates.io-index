@@ -1,0 +1,1 @@
+{"name":"micro-gui","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.30","features":["image"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf1e6ddc856ae00298a8b3a862b8fe29b941a037d34ad6707bec8469922431b9","features":{"default":["sdl"],"sdl":["sdl2"]},"yanked":false}

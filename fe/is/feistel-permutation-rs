@@ -1,0 +1,2 @@
+{"name":"feistel-permutation-rs","vers":"0.1.0","deps":[{"name":"xxhash-rust","req":"^0.8.7","features":["xxh64"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a0f5d0482b0728b1f13f0a74fa5fba5385b70102697b28e2a72e19151359ef9","features":{},"yanked":false}
+{"name":"feistel-permutation-rs","vers":"0.1.1","deps":[{"name":"xxhash-rust","req":"^0.8.7","features":["xxh64"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6db6c829a796418de937efceee04e784abd1c756a82037d84a26f868bc2279f2","features":{},"yanked":false}

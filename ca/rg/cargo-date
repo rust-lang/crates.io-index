@@ -1,0 +1,2 @@
+{"name":"cargo-date","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d31aacd6b8de26dab2d786595bef4b5f95fd77707d7f2906d4c32e8d54a2a9f1","features":{},"yanked":false}
+{"name":"cargo-date","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3399c2ed09fb5c0b2704ae798d0b2123207a65edebfb951878e1cf0947b50e64","features":{},"yanked":false}

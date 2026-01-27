@@ -1,0 +1,4 @@
+{"name":"say-hello-gandam","vers":"0.1.0","deps":[],"cksum":"93a83f37ee8ffd47086d8d376a4a15d2db67659a70d792a52510b68f2c620afe","features":{},"yanked":false}
+{"name":"say-hello-gandam","vers":"0.2.0","deps":[],"cksum":"2fbcc248c770d79cb1c8e88fd78262f01a881b607d990dab7485b34f4cfee4bb","features":{},"yanked":false}
+{"name":"say-hello-gandam","vers":"0.3.0","deps":[],"cksum":"db84b44e6fa557f95c349771268c410ac4c907ba04e018700155ecbbb0512f84","features":{},"yanked":false}
+{"name":"say-hello-gandam","vers":"0.4.0","deps":[],"cksum":"a6188129b177cc8c9e0b08df29a99416cffc589bedbd5cf834af8888216410c2","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

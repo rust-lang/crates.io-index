@@ -1,0 +1,1 @@
+{"name":"xdgdir","vers":"0.8.0","deps":[{"name":"assert_cmd","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"predicates","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c93fba109a63f08e168ab02529ddabd99e4ebb78b98ed6bce82e3da52522d235","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bitfielder","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc2bc4866faf6f38f53c01990204d1f575e8ceb18078aa9adaae3d2e23a236cb","features":{"std":[]},"yanked":false}
+{"name":"bitfielder","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96d5b682836337c8114a41e314f7142314f3fce5dcaf9597d415b62318774165","features":{"std":[]},"yanked":false}

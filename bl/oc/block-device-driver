@@ -1,0 +1,3 @@
+{"name":"block-device-driver","vers":"0.1.0","deps":[],"cksum":"91c39e63c094df217cbcbd5cc42de98a65a41269cc9657f11940111ba68ff214","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"block-device-driver","vers":"0.1.1","deps":[],"cksum":"1317bf62fdf4558feea7f1261231029170826238915ce2cb901d4fcaf7c252e1","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"block-device-driver","vers":"0.2.0","deps":[{"name":"aligned","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44c051592f59fe68053524b4c4935249b806f72c1f544cfb7abe4f57c3be258e","features":{},"yanked":false,"rust_version":"1.75"}

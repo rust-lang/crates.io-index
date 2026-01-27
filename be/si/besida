@@ -1,0 +1,2 @@
+{"name":"besida","vers":"0.1.0","deps":[],"cksum":"9396b2be037c6a9f094f1df607c7409c039c8d5fc4da49f39afd11fb8a8430e5","features":{},"yanked":false}
+{"name":"besida","vers":"0.1.1","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b34a7f7a9a82f8ff93d5a0c4f9bb4effca267b3278b1a2d1541844ead5991ac6","features":{},"yanked":false}

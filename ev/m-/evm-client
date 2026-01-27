@@ -1,0 +1,2 @@
+{"name":"evm-client","vers":"0.1.5","deps":[{"name":"ethers","req":"^2.0","features":["ws","openssl"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e5d90e4a220f4811b882f58a1047483c44659d84690216acc43ee436a816b75","features":{},"yanked":false}
+{"name":"evm-client","vers":"0.1.6","deps":[{"name":"ethers","req":"^2.0","features":["ws","openssl"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31a66e0e27bff8512e22d8ff440725e4668b3e2e2925777662b4770a77da6322","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"logiclong","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55820d06b0db2625ba306ce8081a82368f09917eb0194ec11b62182279cb8c78","features":{},"yanked":false}

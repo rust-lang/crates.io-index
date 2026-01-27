@@ -1,0 +1,2 @@
+{"name":"chapter14_colorpractice","vers":"0.1.0","deps":[],"cksum":"85895d7ebca8e9a7f391f2983fb24c4f8271c7309dbf5651ee8eab4fd27de87a","features":{},"yanked":false}
+{"name":"chapter14_colorpractice","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07ed3ce9eb8cb2fb16f1674a11ea6bc1ce940f41055b6aeac529873333218873","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"circle-rs","vers":"0.1.0","deps":[],"cksum":"109e2ed27a8fe4061728541c65dfbe2b383b9ff88384105e3b42329ed2edff64","features":{},"yanked":false}
+{"name":"circle-rs","vers":"0.2.0","deps":[],"cksum":"a28e738601b2967422cf76db50c140703e65b15039da58003b9f1a70e4612398","features":{},"yanked":false}
+{"name":"circle-rs","vers":"0.3.0","deps":[],"cksum":"3373a1a9cca20b99c107ef04a3338eac9a701386c5130a28702dc91e69fab16b","features":{},"yanked":false}
+{"name":"circle-rs","vers":"0.3.1","deps":[],"cksum":"95e37b388d9a54463de8331b49a0e8e2bc92caecaa26bf59561a967f4432279e","features":{},"yanked":false}
+{"name":"circle-rs","vers":"0.3.2","deps":[],"cksum":"ff547c14ca51ce4102fa279ea210047bfe9e128b999807b1b510bcc0d362043a","features":{},"yanked":false}
+{"name":"circle-rs","vers":"0.3.3","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9cad43eaf1bdcd789ec6b6d487153779f5abe3af6ed45a5152a3965f899b8b8","features":{"default":[],"end":["termion"]},"yanked":false}

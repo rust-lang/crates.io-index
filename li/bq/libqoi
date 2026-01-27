@@ -1,0 +1,6 @@
+{"name":"libqoi","vers":"0.1.0","deps":[],"cksum":"9cc14a414677fac25f3fcde8f8c8a8aaf7df1b81b6a9ab25e4602a8a3abbb5d8","features":{},"yanked":false}
+{"name":"libqoi","vers":"0.1.1","deps":[],"cksum":"b6d5e143ed5f31483ea21909cc9e5d873efdf733ad72e8d1d7d1bfdac3a31695","features":{},"yanked":false}
+{"name":"libqoi","vers":"0.2.0","deps":[],"cksum":"0ca1bf950be4055c3e2f4a7e8401bee111b3c0a2d2ab49d0c245a4db64e7156d","features":{},"yanked":true}
+{"name":"libqoi","vers":"0.2.1","deps":[],"cksum":"48e71a43d99b48240b874ab899caccf4bb14bca388e3580aab2004a6cf18800f","features":{},"yanked":false}
+{"name":"libqoi","vers":"0.3.1","deps":[],"cksum":"5d77c9c73bde8805df5a44126d6072eb5fa71c8efe6728888d504ad03cdd268c","features":{},"yanked":false}
+{"name":"libqoi","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"31335accdc19979d65aea98c4e9fbc3d630087d16ee42726937b671548ddb375","features":{},"yanked":false}

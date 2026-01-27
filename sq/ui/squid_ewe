@@ -1,0 +1,2 @@
+{"name":"squid_ewe","vers":"2.0.0","deps":[{"name":"goblin","req":"^0.6","features":["std","elf32","elf64"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f9246ab272dac4ff112877052176021f2df3b57234cc3f5b5a477567267b076","features":{},"yanked":false}
+{"name":"squid_ewe","vers":"2.0.1","deps":[{"name":"goblin","req":"^0.6","features":["std","elf32","elf64"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"66ad2fc61d876e888bd2b2747c8e4a4d6357b27306a84a981c105303e719ac30","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sha2-extensions","vers":"0.1.0","deps":[{"name":"sha2","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1a82c5c31a04c70b6c40c86748baa5c41d44606cd5ba0fee7fc174abcd5ec70","features":{},"yanked":false}
+{"name":"sha2-extensions","vers":"0.2.0","deps":[{"name":"sha2","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0eff21268075a671dd8f00d720cd684ef5fb6f05f1ea24f10e2a3bbdb126333","features":{},"yanked":false}

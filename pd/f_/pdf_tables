@@ -1,0 +1,2 @@
+{"name":"pdf_tables","vers":"0.1.0","deps":[],"cksum":"9da2fa9d108388e2ce9e4d76a8259ecbca178accc30336e150619556192a1f56","features":{},"yanked":false}
+{"name":"pdf_tables","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pdf","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb76390a7126a5a482bc04f49b20186638709093757e3174c5763e71e523b56e","features":{},"yanked":false}

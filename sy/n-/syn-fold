@@ -1,0 +1,2 @@
+{"name":"syn-fold","vers":"0.0.0","deps":[],"cksum":"8c79acb745f0b68814d0cedcb5ca7bdde4c2a8fa13a26dbbb8fdfa232224c1b9","features":{},"yanked":true}
+{"name":"syn-fold","vers":"0.0.1","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a3d57d0d40f39d7e09d9d9c55bb86a1e8552fd261dac98258a268d0c4338a8cf","features":{},"yanked":false}

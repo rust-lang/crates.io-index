@@ -1,0 +1,5 @@
+{"name":"coyotes","vers":"0.1.2","deps":[],"cksum":"f121bcb3af1f52304d83a1afde37cbb42e6a8482fc710ff5b7cd7e2e33d0e998","features":{},"yanked":false}
+{"name":"coyotes","vers":"0.1.3","deps":[],"cksum":"a31233006309dae7aad18d988d953bb5a7c36df61d6e0ac5972230ea63ee09c8","features":{},"yanked":false}
+{"name":"coyotes","vers":"0.1.4","deps":[],"cksum":"24b547526603ba2e7ce3c4bc3efb72999a63e41d99cf10205a60081fdb4215d2","features":{},"yanked":false}
+{"name":"coyotes","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22757df5c7bfbedfd77d1f52eba651d56e221068455bfa2f4c154135ee47fd72","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
+{"name":"coyotes","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a498949fbba9acb49855f52568b635f1b30805b91adcbe34d42cf29c957d5b2","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

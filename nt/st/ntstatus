@@ -1,0 +1,2 @@
+{"name":"ntstatus","vers":"0.1.0","deps":[{"name":"num_enum","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"063771a52c74e439072137fa775bccaeb1879958dbcb981eadd71544ca6b9835","features":{},"yanked":false}
+{"name":"ntstatus","vers":"0.1.2","deps":[{"name":"num_enum","req":"^0.7.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"96ea8ea6a9a8cbe8fefe99b632bd45ec4b41b0bf234e4d740c516372922fb180","features":{"default":["std","num_enum/default"],"std":[]},"yanked":false}

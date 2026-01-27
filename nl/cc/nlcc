@@ -1,0 +1,1 @@
+{"name":"nlcc","vers":"0.12.5","deps":[],"cksum":"f2f2fd1f0d2ae3ae2d49cb3c4717d7f95b709a2bf9ee42f66b6c59476090097c","features":{"codegen":["tacky"],"default":["emission"],"emission":["codegen"],"full":["emission"],"lexer":[],"parser":["lexer"],"semantic_analysis":["parser"],"tacky":["semantic_analysis"]},"yanked":false}

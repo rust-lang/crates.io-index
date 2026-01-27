@@ -1,0 +1,2 @@
+{"name":"arduino-esp","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f5919a9be21f577c628720ea77a254cfdcd5c2499c7615eb9e9d721db2cd0c91","features":{},"yanked":true}
+{"name":"arduino-esp","vers":"0.0.2","deps":[],"cksum":"64582b77d4c890e56e51f25d408a682dcc3cb7b9fb98b07139f5eee70f6ada9a","features":{},"yanked":false}

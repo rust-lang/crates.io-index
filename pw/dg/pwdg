@@ -1,0 +1,1 @@
+{"name":"pwdg","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d505b262d9b952080fe5ecb6b126061f5671cbb1f94c959bbf450b21674696c6","features":{},"yanked":false}

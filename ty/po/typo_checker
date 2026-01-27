@@ -1,0 +1,3 @@
+{"name":"typo_checker","vers":"0.1.0","deps":[],"cksum":"c3f580f4b4925f88a69dc1b6049e506c3f337ef2a6388015a9db2d16378e1d7d","features":{},"yanked":false}
+{"name":"typo_checker","vers":"0.2.0","deps":[],"cksum":"9d1f2ccbae55e56fd011f334c8988a61a0c98a32a916eedfe67e1d53b3c9772e","features":{},"yanked":false}
+{"name":"typo_checker","vers":"1.0.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fecbef016ae914ff473934ef187e882a86691e38dba81a05c5f3625789d091a2","features":{},"yanked":false}

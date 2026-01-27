@@ -1,0 +1,2 @@
+{"name":"air-interpreter-wasm_update_images","vers":"0.0.0","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fb7ab21dde8ea08d688118c277b6552b23c4a2f73008bab53605280233895845","features":{},"yanked":false}
+{"name":"air-interpreter-wasm_update_images","vers":"0.0.1","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6732a0457c8f1dc4f520f48737b0680d34619c5a0d1417075681ee4956f63118","features":{},"yanked":false}

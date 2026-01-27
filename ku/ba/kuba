@@ -1,0 +1,4 @@
+{"name":"kuba","vers":"0.1.0","deps":[],"cksum":"49c5d780beec5cc00bdc409973b1d582efe47239b9710c296959ad2207995ee0","features":{},"yanked":false}
+{"name":"kuba","vers":"0.1.1","deps":[],"cksum":"f4f4c6cd84c574bdb6525344c93411ef5ed66528b0f17f9925f97c0d9afeb4c4","features":{},"yanked":false}
+{"name":"kuba","vers":"0.1.2","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-bindgen-test","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20c0d06f99966f643295d5d04900c511c70e4a387f8216ee076be5c918d85bd2","features":{},"yanked":false}
+{"name":"kuba","vers":"0.1.3","deps":[],"cksum":"c0f65fab4e29bd6ca49cd2782946e5e7cf2a3c74b912b26746546abf4a3420c2","features":{},"yanked":false}

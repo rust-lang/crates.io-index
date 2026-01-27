@@ -1,0 +1,14 @@
+{"name":"shader_version","vers":"0.0.0","deps":[],"cksum":"676d638056e0d013faf8e0c0edb87044326e1e7e5e6da497fe6e05fcd2be15e3","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.0.1","deps":[],"cksum":"c1483e984a7aeb608c289968e8e0d3cc62d004086cc6091efc8f8925f2f2d1f5","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.0.2","deps":[],"cksum":"98b48a320f289703c9e86c5cec930b5c0e4ca96200ebd80515d225c665d0f422","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.0.5","deps":[],"cksum":"dd0fef04d9ccc32e75a211130d315b2d12ec1060968d5a7855a838229e35e578","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.0.6","deps":[],"cksum":"d3462f82d70b33f9f000a193ea08dfd936ad0c181d46bfe7a075f8b19e51b457","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.1.0","deps":[],"cksum":"efd02e35984dddd91968dd9ca7bcbec5e2838d0c0e7c6ad52d98e5f4b798787b","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.2.0","deps":[],"cksum":"ffa2421b516f872a75af691c0e7b6f67b8634b246dabcb155ef93909171b990e","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.2.1","deps":[],"cksum":"3ed9110f79d0715af17dfc689a94e466410e68d5ffbb16b210efc653a9b59c21","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.2.2","deps":[],"cksum":"476a6f59085a3b8ba2d1127d3f3d9d3b100bbc60301a6a557a405313ea99096f","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.3.0","deps":[],"cksum":"a29e10c39144f4663c0f74de29b9a61237bf410be40753b1a3b682832abcf4aa","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.4.0","deps":[{"name":"piston-graphics_api_version","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e54d838465721549501e15f05b54120c415c932e1626f8363f2422068164726e","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.5.0","deps":[{"name":"piston-graphics_api_version","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b501a26f203380662e953a5527d238f1eb97a5b63f777b4576759ab0d1799eb4","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.6.0","deps":[{"name":"piston-graphics_api_version","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"478e783fb7533629e19120ca01246884f8effff5f4d20ce81d34c7c47a2866fa","features":{},"yanked":false}
+{"name":"shader_version","vers":"0.7.0","deps":[{"name":"piston-graphics_api_version","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfadbf7574784ee97f062ace17e1008fb5e7f46dd714b7dd46baf6efebd30e26","features":{},"yanked":false}

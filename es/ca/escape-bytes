@@ -1,0 +1,3 @@
+{"name":"escape-bytes","vers":"0.0.1","deps":[],"cksum":"82dd12bab2f52666be5f590cce8696dde7f56aef15332185f3d8f30b2e25745d","features":{},"yanked":true}
+{"name":"escape-bytes","vers":"0.1.0","deps":[],"cksum":"3871d161fec5b6fade5fe7afe2e196b86839c5526a8d256c7b1a04dbbe5241a4","features":{"alloc":[],"default":["alloc"],"docs":[]},"yanked":false}
+{"name":"escape-bytes","vers":"0.1.1","deps":[],"cksum":"2bfcf67fea2815c2fc3b90873fae90957be12ff417335dfadc7f52927feb03b2","features":{"alloc":[],"default":["alloc"],"docs":[]},"yanked":false}

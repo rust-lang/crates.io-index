@@ -1,0 +1,1 @@
+{"name":"dflake","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d2553c57394189f2b77e00c7bac8680328c89609fa7eda5d41059c411da6194","features":{"chrono_support":["chrono"],"default":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"webgl-matrix","vers":"0.1.0","deps":[],"cksum":"1abfe1ef1f132690e177ab5e48131278f482ffe0e2d5a073e95ddf1e93cb5443","features":{"Matrix3":["Vector3"],"Matrix4":["Vector4"],"SliceOps":[],"Vector3":["SliceOps"],"Vector4":["SliceOps"],"default":["Matrix4","Matrix3"]},"yanked":false}

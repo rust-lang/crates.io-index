@@ -1,0 +1,2 @@
+{"name":"planck_ecs_bundle","vers":"1.0.0","deps":[{"name":"world_dispatcher","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9b34365db2fa171a1a79673056f8961107aa90be5e975717c7bc96411f3d43a","features":{},"yanked":false}
+{"name":"planck_ecs_bundle","vers":"1.1.0","deps":[{"name":"world_dispatcher","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efbc87240849c78674067f4a53b32a451c9bd379e191da8bf90e48abf182e3ed","features":{},"yanked":false}

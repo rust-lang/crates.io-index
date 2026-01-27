@@ -1,0 +1,1 @@
+{"name":"control-craft","vers":"0.1.0","deps":[{"name":"windows","req":"^0.57","features":["Win32_UI_Input_KeyboardAndMouse","Win32_UI_WindowsAndMessaging"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efdddcf96ea7d9da7c25d60d446d7634d16ad13e55f1209eb6cefd67a89b6542","features":{},"yanked":false}

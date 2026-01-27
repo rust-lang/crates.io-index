@@ -1,0 +1,1 @@
+{"name":"rclrust-msg-core","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a4effa5690aea3749ae88169a7761723380947dbd92d2ad78b9a49c7503b532","features":{},"yanked":true}

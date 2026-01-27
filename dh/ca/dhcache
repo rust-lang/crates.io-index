@@ -1,0 +1,2 @@
+{"name":"dhcache","vers":"0.0.1","deps":[],"cksum":"7f5e024c50bf5e9820cc3a497a3d9c9592442a1c579d362b6f6959a176d27a06","features":{},"yanked":true}
+{"name":"dhcache","vers":"0.0.2","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"warp","req":"^0.3.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4d1d9e015fba314e3b1e34ac8ee81fc73a09202e0b4aea7db5b7167335b1e11d","features":{},"yanked":false}

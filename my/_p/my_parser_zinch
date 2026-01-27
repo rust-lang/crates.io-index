@@ -1,0 +1,2 @@
+{"name":"my_parser_zinch","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4063900182e80f81de6fda410334e9820de393330721cc89e213c7d0836f2aa","features":{},"yanked":false}
+{"name":"my_parser_zinch","vers":"0.1.1","deps":[{"name":"peg","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8f1b8fd7a65723af0b318dffc2e8e841115b2f118055b65984766d5ff10706d","features":{},"yanked":false}

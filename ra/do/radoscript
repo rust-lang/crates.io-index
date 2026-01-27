@@ -1,0 +1,3 @@
+{"name":"radoscript","vers":"0.1.0","deps":[],"cksum":"914cfd221aefe161b19c805a62d7717dbc08aeacf83767577d3bcf44631ad1d8","features":{},"yanked":false}
+{"name":"radoscript","vers":"0.1.1","deps":[{"name":"nom","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4a5b568c4bb9ee1311237eb1ddf7b47441c6b31a473c84da8fa4563166c541a","features":{},"yanked":false}
+{"name":"radoscript","vers":"0.1.2","deps":[{"name":"nom","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e848b7f92622bfadb8fe237432268fc1e7eae60a07ef500b5f146f3017645ec7","features":{},"yanked":false}

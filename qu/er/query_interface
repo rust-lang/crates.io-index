@@ -1,0 +1,8 @@
+{"name":"query_interface","vers":"0.1.0","deps":[],"cksum":"1e300ad3deff6918b37227c37c9fff288551ef5f098b4d8338d0e5c903760217","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.2.0","deps":[],"cksum":"90ae1e60bc8a38e1af8253e0c3a0f01983533e194015926add62c32f0fd9c2c6","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.0","deps":[],"cksum":"65a2eb3e462f77df0b0c02d958c8bf41742263f5ac40bf49fd1acb45ac82b94e","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.1","deps":[],"cksum":"cd0625340ab6d5aecb7d25d37aa1b9a95022068154e3aa6cb70dd5a583a787a1","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.2","deps":[],"cksum":"b0d7e0bfbd56f615f4b682598c4d80a72e4d024e8a482f2208f258738eea6020","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.3","deps":[],"cksum":"ef70b5132815d88979980d82ca00bb84850ed2eb35b26065fc31f426aee8258d","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.4","deps":[],"cksum":"77e7519d9781d120684de5bfdf31ec4e2810988b8dcafd3f08eb966c8ee078f1","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.5","deps":[{"name":"lazy_static","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78c0f0046284eebb86b68f93f9677d499034f88e15ca01021ceea32c4d3c3693","features":{"dynamic":["lazy_static"]},"yanked":false}

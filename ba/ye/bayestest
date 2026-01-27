@@ -1,0 +1,3 @@
+{"name":"bayestest","vers":"0.1.0","deps":[{"name":"statrs","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7bd3d5352143bb0788e905104fa41e307458bc1399b76cc28491706b0c44430","features":{},"yanked":false}
+{"name":"bayestest","vers":"0.1.1","deps":[],"cksum":"e6d542c1b6032c83bf413ce51d2f1e90c03a5d60ba5a08e2c76f9986f9355446","features":{},"yanked":false}
+{"name":"bayestest","vers":"0.2.0","deps":[],"cksum":"9f1ddbf17e4fdbe2e4065fd7813e24c5f2a10b574580d7d03e5f38b8ed68116a","features":{},"yanked":false,"rust_version":"1.66.0"}

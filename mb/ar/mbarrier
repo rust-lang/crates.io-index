@@ -1,0 +1,4 @@
+{"name":"mbarrier","vers":"0.1.0","deps":[],"cksum":"cf512eaaebd8cae8c8cfa2b45e61efe93292b181335a3f858fef92d8bec67c6f","features":{"default":["smp"],"smp":[]},"yanked":false}
+{"name":"mbarrier","vers":"0.1.1","deps":[],"cksum":"5413bfb94aee7e714138213abe8f07bc76459adb87e3e7db8c4491c54de5cdc8","features":{"default":["smp"],"smp":[]},"yanked":false}
+{"name":"mbarrier","vers":"0.1.2","deps":[],"cksum":"db48067e1b6619573cfbd44175dd3e3fd4a9f29c899c4c894c16535a2e9f00e1","features":{"default":["smp"],"smp":[]},"yanked":false}
+{"name":"mbarrier","vers":"0.1.3","deps":[],"cksum":"9257ea6fe9726d1f1a67fddbda4c06cc97b4fb18716b78ec03ba05e29d625e28","features":{"default":["smp"],"smp":[]},"yanked":false}

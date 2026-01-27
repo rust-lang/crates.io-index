@@ -1,0 +1,1 @@
+{"name":"raqm","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"raqm-sys","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e193d3f4f120cde81af05dfd9651beddb3e75d62866a0e70efa14faf3acc088e","features":{},"yanked":false}

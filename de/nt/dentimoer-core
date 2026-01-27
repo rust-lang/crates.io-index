@@ -1,0 +1,1 @@
+{"name":"dentimoer-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"366549e063aafa67934a08400c4557e3de5a2973740318bba9dcf009e42c6b2e","features":{},"yanked":false,"rust_version":"1.83.0"}

@@ -1,0 +1,2 @@
+{"name":"wasm-reader-traits","vers":"0.1.0","deps":[],"cksum":"b2dfa48a615b6fc2d1078d6e318a45f58394f03725187d2f08a91ecb7bb93ea9","features":{"nightly":[]},"yanked":false}
+{"name":"wasm-reader-traits","vers":"0.1.1","deps":[{"name":"frunk_core","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21cb1b641741d0d8d103d1276b94958fedbf4dae5d43e8e492d27697a9eb5531","features":{"nightly":[]},"yanked":false}

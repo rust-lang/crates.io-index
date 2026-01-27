@@ -1,0 +1,3 @@
+{"name":"joinable","vers":"0.1.0","deps":[],"cksum":"afef723671932311ced8c267ace308277aa3f694184a0c4d89fd413e23ddb1fd","features":{},"yanked":false}
+{"name":"joinable","vers":"0.2.0-rc.1","deps":[{"name":"irisdata","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c0a9f5af29285c7eb936a10b3cabe5743a29e6bf80cb090410db4d6db59c58e","features":{},"yanked":false}
+{"name":"joinable","vers":"0.2.0","deps":[{"name":"irisdata","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca53fd40c2ddcb715621d1ff05e61de39f4f23f2bdd07dc3d99ba24a9300f8ec","features":{},"yanked":false}

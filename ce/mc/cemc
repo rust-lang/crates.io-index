@@ -1,0 +1,2 @@
+{"name":"cemc","vers":"0.1.1","deps":[],"cksum":"13d6251551de7cefe013a98f793084882c8045c1d1ab253ce5f893d61aefcaed","features":{},"yanked":false}
+{"name":"cemc","vers":"0.1.2","deps":[{"name":"clap","req":"^4.5","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap_complete","req":"^4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a5fbc93d22a8071f668a48ba8f80c97dee47299fbaf6fbca795f37d6fafdd60","features":{},"yanked":false}

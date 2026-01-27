@@ -1,0 +1,2 @@
+{"name":"ruga_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82dcd0ed6718efba7cc12089ba93810d6de0a8c7c12c14a49584dce5fbaedecf","features":{},"yanked":true}
+{"name":"ruga_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c017db9de3b86525031107f22c873aa8498a9ea2ebc9783a681cbd9550d25be6","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"afaf_say-hello","vers":"0.1.0","deps":[],"cksum":"723ad74692bef77df2b62bdd9fa37e1a5166d28da421e5b45375164d8ec7fe10","features":{},"yanked":false}
+{"name":"afaf_say-hello","vers":"0.2.0","deps":[],"cksum":"3fc8eed20ada8a580a127c8b53885aed285267f1997b5788bb4046db37effa99","features":{},"yanked":false}
+{"name":"afaf_say-hello","vers":"0.3.0","deps":[],"cksum":"f7c9e35eed48657168eefd88c1b92485eed871f2d07f480b179dd8614142f59c","features":{},"yanked":true}
+{"name":"afaf_say-hello","vers":"0.4.0","deps":[],"cksum":"3c453f5dfb9f63e29bf9acddfd19477797e0bb9b7a86042d630f38d6700baadc","features":{"all":["hello","bye"],"bye":[],"hello":[]},"yanked":false}

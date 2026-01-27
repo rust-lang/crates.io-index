@@ -1,0 +1,5 @@
+{"name":"nonzero_signed","vers":"1.0.0","deps":[],"cksum":"2e364f21f3ce867e74b24cfd1ab98cc946c25ac093abb3e898884fb1d33a71ef","features":{},"yanked":true}
+{"name":"nonzero_signed","vers":"1.0.1","deps":[],"cksum":"09ddfdfb189ba8920cd688ccbdf2b63df1647f43df0fd4cf179c5bf90565b94e","features":{},"yanked":true}
+{"name":"nonzero_signed","vers":"1.0.2","deps":[],"cksum":"d9813c459ba38abf9c40eecc8d59738eb7ebcfc45a857030967372dcb83e18de","features":{},"yanked":true}
+{"name":"nonzero_signed","vers":"1.0.3","deps":[],"cksum":"02783a0482333b0d3f5f5411b8fb60454a596696da041da0470ac9ef3e6e37d8","features":{},"yanked":false}
+{"name":"nonzero_signed","vers":"1.0.4","deps":[{"name":"rustversion","req":"^1.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"115f75b291418dce1684b706a7eed2259c3c8f9c7d3d15ad799db57c0c5fa4c0","features":{},"yanked":false}

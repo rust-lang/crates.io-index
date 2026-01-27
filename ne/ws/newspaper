@@ -1,0 +1,1 @@
+{"name":"newspaper","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66c800481a3253136ea14b15165e6d99c4f5389f8c57a09142d84e998b6ba21b","features":{},"yanked":false}

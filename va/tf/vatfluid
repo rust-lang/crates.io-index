@@ -1,0 +1,3 @@
+{"name":"vatfluid","vers":"0.1.0","deps":[],"cksum":"5a3794c1d817e96b7aa0e60cb3661712bfce3da14eaab55528eea8fb4d9e7c01","features":{},"yanked":false}
+{"name":"vatfluid","vers":"0.2.0","deps":[],"cksum":"ac71e9199f8a134324ffe5501d12fbe2f6d011da2e22d6a4e2fea6a24c8d48ae","features":{},"yanked":false}
+{"name":"vatfluid","vers":"0.3.0","deps":[{"name":"assert_matches","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1ab6d754d594892cdac36fd6e5fd4edc95c5655d387b2f340e2418c9dacfc0d","features":{},"yanked":false}

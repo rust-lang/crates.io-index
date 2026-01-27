@@ -1,0 +1,3 @@
+{"name":"icondata_core","vers":"0.0.1","deps":[],"cksum":"6c8064b9ba0d5959d06f211b8a98135e2fad9862e88d746908ba6b715489c662","features":{},"yanked":false}
+{"name":"icondata_core","vers":"0.0.2","deps":[],"cksum":"1640a4c1d5ddd08ab1d9854ffa7a2fa3dc52339492676b6d3031e77ca579f434","features":{},"yanked":false}
+{"name":"icondata_core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c97be924215abd5e630d84e95a47c710138a6559b4c55039f4f33aa897fa859","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

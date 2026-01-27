@@ -1,0 +1,2 @@
+{"name":"floem_reactive","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"498b1e253298c1e40f8767cdcca9fa7df1fc053ab5fdc163f8d8487da3225d54","features":{},"yanked":false}
+{"name":"floem_reactive","vers":"0.2.0","deps":[{"name":"smallvec","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6b9dd30efe54c413d07e3af6b410afb4b098ff70e79cfd0d13b6f3f2246448a","features":{},"yanked":false}

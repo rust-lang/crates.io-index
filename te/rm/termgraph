@@ -1,0 +1,4 @@
+{"name":"termgraph","vers":"0.1.0","deps":[],"cksum":"72d9f59f5d435da4b3b575591506cc83f15b58ad8df3ca1b5bdccecedd998ad8","features":{},"yanked":false}
+{"name":"termgraph","vers":"0.2.0","deps":[],"cksum":"fb61d211c74bb18a8e63396eb579072c6a168d17942e8ee1396fdda152551cdb","features":{},"yanked":false}
+{"name":"termgraph","vers":"0.3.0","deps":[],"cksum":"cc58ddac58875fd4426ff58fcdfb7202a2ff795714c4ad49a8da68df41cde56e","features":{},"yanked":false}
+{"name":"termgraph","vers":"0.4.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8f78f23e6418b6ca453bf772e03567961c181230eb5bab587c7e3b186ae6fb42","features":{},"yanked":false}

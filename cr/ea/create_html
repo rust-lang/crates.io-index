@@ -1,0 +1,4 @@
+{"name":"create_html","vers":"0.1.0","deps":[],"cksum":"6739b507e7ee14515af75a566a04c95cbd76a94830ffb1054a031009519c740d","features":{},"yanked":false}
+{"name":"create_html","vers":"0.1.1","deps":[],"cksum":"9809bb282a8e81b0f14000c49da0ed19cba26d415ec25eeb3a2a23cfb33735c1","features":{},"yanked":false}
+{"name":"create_html","vers":"0.1.2","deps":[],"cksum":"aa9f6de31ed6d43fc7a20d5cdc2aa568118d0873941372cf2ab8d53e77828b34","features":{},"yanked":false}
+{"name":"create_html","vers":"0.1.3","deps":[{"name":"clap","req":"^4.3.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47bf75bb243bec319eced6c333f79a29d7df9187b8b479ab1785524f5486ccc7","features":{},"yanked":false}

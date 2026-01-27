@@ -1,0 +1,2 @@
+{"name":"biggus-dickus","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98784bb060a2cdc096e0d27c8859d7ab59be48ef63de0febb679097aee2f82b9","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"biggus-dickus","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49139e3d779a807b6e568469f3549bfac9bb3cca0a6e5cfac080a2096abf7f06","features":{},"yanked":false,"rust_version":"1.82"}

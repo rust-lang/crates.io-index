@@ -1,0 +1,2 @@
+{"name":"blackjack","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd03844be5b67b1d551bdaa06e02d0af4b37784f9e0763fb9bb2589812fda458","features":{},"yanked":false}
+{"name":"blackjack","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99b09d290bc20dc7545f5bf6dfbe55dced78426ea4766818527b01402bfe3e76","features":{},"yanked":false}

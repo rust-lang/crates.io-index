@@ -1,0 +1,2 @@
+{"name":"lexicmp","vers":"0.1.0","deps":[{"name":"any_ascii","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7378d131ddf24063b32cbd7e91668d183140c4b3906270635a4d633d1068ea5d","features":{},"yanked":false}
+{"name":"lexicmp","vers":"0.2.0","deps":[{"name":"deunicode","req":"^1.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e8f89da8fd95c4eb6274e914694bea90c7826523b26f2a2fd863d44b9d42c43","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hsk","vers":"0.1.0","deps":[{"name":"bincode","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bfe7b1275aa99390b49d34a2207941a6d2431c38fd4ae7eb7c224c6dad20636","features":{},"yanked":false}
+{"name":"hsk","vers":"0.1.1","deps":[{"name":"bincode","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95a5bb4f34cd62adb28a4850d1e325855dac6535c09649d2881a192bbda68050","features":{},"yanked":false}

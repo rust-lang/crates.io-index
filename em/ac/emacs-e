@@ -1,0 +1,1 @@
+{"name":"emacs-e","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.18","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41bd81c53111fd0932178c45a8428374b4147381c23aec948897312d6237d873","features":{},"yanked":false}

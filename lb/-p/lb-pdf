@@ -1,0 +1,2 @@
+{"name":"lb-pdf","vers":"0.1.0","deps":[{"name":"pdfium-render","req":"^0.8.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28b3e90b80a8999a49a439f4a1326e2698444240bd9eff2324e3979eca6f5ca0","features":{},"yanked":false}
+{"name":"lb-pdf","vers":"0.1.1","deps":[{"name":"pdfium-render","req":"^0.8.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34169bfa1db3c8d0f7f8176ec35884ea6ed9602d759ec64a74ba0a42f13c1ec5","features":{},"yanked":false}

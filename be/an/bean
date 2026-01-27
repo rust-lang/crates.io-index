@@ -1,0 +1,4 @@
+{"name":"bean","vers":"0.1.0","deps":[],"cksum":"705ec358c2f570d301856278d1ab2dee0cde0e332d37644498bb544e5537d8a4","features":{},"yanked":true}
+{"name":"bean","vers":"0.1.2","deps":[{"name":"bean-macro","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ae6c489bdf01a4dbfe7c641e09d5a70987e25550c098633a4fb6146773d6cd","features":{},"yanked":true}
+{"name":"bean","vers":"0.1.3","deps":[{"name":"bean-macro","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f432b872455b95e184dd655c181e5efef396e509adf979fa22a181df0ef661d0","features":{},"yanked":true}
+{"name":"bean","vers":"0.1.4","deps":[{"name":"bean-macro","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65cf346aa9baf7b843a278edc09f87c808845c273e2da6e002111404bdc22e0b","features":{},"yanked":false}

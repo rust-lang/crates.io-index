@@ -1,0 +1,2 @@
+{"name":"warned","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bb1783c3a8fdc7d7ed027bdf97caa46ed2bfe618b0408cbf1beb7b3ddb5e959","features":{},"yanked":false}
+{"name":"warned","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a32d5500bad1f67c0253d0819f15673067c1473c7f4a92494997272deddde3a5","features":{},"yanked":false}

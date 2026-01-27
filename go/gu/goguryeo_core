@@ -1,0 +1,1 @@
+{"name":"goguryeo_core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9392582a582ea5a1831e0e0fed22509e75ff464dd1e0ae399f57f290b3d19bc4","features":{},"yanked":false}

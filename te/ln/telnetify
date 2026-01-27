@@ -1,0 +1,2 @@
+{"name":"telnetify","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"742373b1426603cc2eb26b10e788ff20f8d8ef7e6d1a04b5abc8c466b9664ec4","features":{},"yanked":false}
+{"name":"telnetify","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd335258bb1aea848b710898c2704b3f6cd5e1cf53a7023a211f59ecbef47caa","features":{},"yanked":false}

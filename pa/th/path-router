@@ -1,0 +1,4 @@
+{"name":"path-router","vers":"0.1.0","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e80065a716a71bef09f2bd5241bd81a179c08acfd57577015de4a25c3e62cb","features":{},"yanked":true}
+{"name":"path-router","vers":"0.1.1","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cec29145c68e94c18887967d4d5f8ff5186193e44c4ca623673f5b8ba34d818b","features":{},"yanked":false}
+{"name":"path-router","vers":"0.2.0","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eaed32f9b7d57b458abf9a7f0020ea00bb72bab64f7d32f0b596f270f1c80a2","features":{},"yanked":false}
+{"name":"path-router","vers":"0.2.1","deps":[],"cksum":"4f83534f370cc92c253ce29a08e39be084524eb36b76de43d21f10b8f6e90f76","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"dic-server","vers":"0.1.0","deps":[{"name":"dic","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b361b706c86f29dbf9a1ff57cf8f490779837be357e0dbb2bff77bb8c4ac47dc","features":{},"yanked":true}
+{"name":"dic-server","vers":"0.1.1","deps":[{"name":"dic","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9bdd446f373514ac15dca67e8d8a89d9f150444654b247cfbde1e76e463e185","features":{},"yanked":true}

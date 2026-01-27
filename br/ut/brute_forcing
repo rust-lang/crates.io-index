@@ -1,0 +1,2 @@
+{"name":"brute_forcing","vers":"0.1.0","deps":[],"cksum":"48728970bcf1cb07aad8dd7b0137b248020d13a8a81fdf2bb069c92f37536408","features":{},"yanked":false}
+{"name":"brute_forcing","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87bec438c886d0c1aa53c83d9848b25088facdbd600feafb89d334393642f23f","features":{},"yanked":false}

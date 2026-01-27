@@ -1,0 +1,2 @@
+{"name":"no_color","vers":"0.1.0","deps":[],"cksum":"bdf5e47de39a83b44018b2ee76a7a2643f37738ee44da99e145bc9804b341dd4","features":{},"yanked":false}
+{"name":"no_color","vers":"0.2.0","deps":[{"name":"rusty-hook","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e336691c163f00db3871f91d43922c6a6fb6e7f3cd1b19fe38ba48f2387f77d","features":{},"yanked":false}

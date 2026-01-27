@@ -1,0 +1,1 @@
+{"name":"learning","vers":"0.1.0","deps":[{"name":"help","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffd4964c35d56d9c33acca97e18bf36e16b376f7ef1ab34eb8e158100f7d1252","features":{},"yanked":true}

@@ -1,0 +1,2 @@
+{"name":"aliyun-error","vers":"0.0.0","deps":[],"cksum":"778709c6f4addc4b5a9b6e304af2721b83784ff900e95f9ff9c83b1ffb0c9eef","features":{"default":[]},"yanked":false}
+{"name":"aliyun-error","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.12.12","features":["rustls-tls","socks"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f16948bdeeaba2686578bbe1c752b4cead83dee0bcb6440f1cee14632f0dcd2b","features":{"default":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"variantkey","vers":"0.1.0","deps":[{"name":"atoi","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"flate2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cd5aa1629a142a5ed22cfa943fd65eae5f0dbff42a1102b1f1f38df65b7eab86","features":{},"yanked":false}

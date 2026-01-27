@@ -1,0 +1,3 @@
+{"name":"coba-say-hello","vers":"0.1.0","deps":[],"cksum":"b576def70737b4405c77049adfce5bb9d5664f1def42fe903277cd894a54cc60","features":{},"yanked":false}
+{"name":"coba-say-hello","vers":"0.1.1","deps":[],"cksum":"b75379f6fa0ffc823fa390905d7fbe062b5291c0156bf87dcebcddb7812bfd1d","features":{},"yanked":false}
+{"name":"coba-say-hello","vers":"0.1.2","deps":[],"cksum":"2baeab5ffa9e738987a34ecb4d7dada1d4c4dba2806f250b18872e68085e48bc","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

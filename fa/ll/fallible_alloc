@@ -1,0 +1,2 @@
+{"name":"fallible_alloc","vers":"0.1.0","deps":[],"cksum":"bdbde329b67b9cd4aef4f1f3ad23a26ccf70496b5c200aab7b373ec82e1eb8b4","features":{},"yanked":false}
+{"name":"fallible_alloc","vers":"0.2.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0d496d8e500fcf48609dfbe6d278d55ce2a74ebaf8113527f20867309a5d54f","features":{},"yanked":false}

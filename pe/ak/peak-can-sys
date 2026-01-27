@@ -1,0 +1,4 @@
+{"name":"peak-can-sys","vers":"0.1.0","deps":[],"cksum":"2446feb39d13b62a9ae6c9f8b121b5e5105b0cfc904a9a16e9809b2d6e244ccc","features":{},"yanked":false}
+{"name":"peak-can-sys","vers":"0.1.1","deps":[],"cksum":"f83edbb72bcc012836ace6c79f0dcc30c6d2c1fbefa47e75ed2a0c07062d16f4","features":{},"yanked":false}
+{"name":"peak-can-sys","vers":"0.1.2","deps":[],"cksum":"abdc770c146d436e8eae98775b740e9f19df2ad892fd99405196866aae500c29","features":{},"yanked":false}
+{"name":"peak-can-sys","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a8f97c948e9782e0def40374d6e8fad3f4dceb00bdf555dc15f8a27c87efafe","features":{},"yanked":false}

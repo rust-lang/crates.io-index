@@ -1,0 +1,1 @@
+{"name":"amble_data","vers":"0.65.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"338632da45df00351d701dba85acadadcb3c90854aad9f6f4269de6f8b1e6613","features":{},"yanked":false,"pubtime":"2026-01-04T04:53:57Z"}

@@ -1,0 +1,1 @@
+{"name":"kenobi","vers":"0.1.1","deps":[{"name":"windows","req":"^0.58","features":["Win32_Globalization","Win32_Security_Authentication_Identity","Win32_Security_Credentials","Win32_Storage_FileSystem"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8547ca811cbb98077bb3c3e01101b1035b6e3c56bda029d31adf7fcbdb190f4","features":{},"yanked":false}

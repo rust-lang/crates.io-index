@@ -1,0 +1,1 @@
+{"name":"arnold-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2885c470d50c474ffe23b408e2403ead49e76e84fe1094dd8d759cad2d128db0","features":{},"yanked":false}

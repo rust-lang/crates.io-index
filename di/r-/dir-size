@@ -1,0 +1,2 @@
+{"name":"dir-size","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fad780c22663b799e5f548bde9899b6a305a9876a690b9bda96512529497eaea","features":{},"yanked":false}
+{"name":"dir-size","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e76a7e228331a28ca06810117daf0b28eb87083fc31a8972af17b7d13024e3a","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"guswynn-test-crate","vers":"0.1.0","deps":[],"cksum":"103574091bb6b9bb6f5b30393762aaa585afe691e857c2bd7ac640371f1b701a","features":{},"yanked":false}
+{"name":"guswynn-test-crate","vers":"0.2.0","deps":[{"name":"guswynn-test-dep","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a88031bb43d894385d39e62676bc1a00a3dd376fa4f65e2c0cf0f518729e3d2","features":{},"yanked":false}
+{"name":"guswynn-test-crate","vers":"0.3.0","deps":[{"name":"guswynn-test-dep","req":"~0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"578b9757a6a67cb5f817af047531c02ee166a7ff0d6ac96269186893d89ed3a7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"trezoa-program-pack","vers":"3.1.1","deps":[{"name":"trezoa-program-error","req":"^3.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc1793b5c6a2d67a2db5b801e1ffce9ee3318d02a376f1612295a7a47a73dfc2","features":{},"yanked":true}
+{"name":"trezoa-program-pack","vers":"3.2.2","deps":[{"name":"trezoa-program-error","req":"^3.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f0e9c9ef531db245546236d1c535c92e3767d8d675a457aae0dbd7bf5fb5f58","features":{},"yanked":false}

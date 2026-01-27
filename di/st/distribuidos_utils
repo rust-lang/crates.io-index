@@ -1,0 +1,3 @@
+{"name":"distribuidos_utils","vers":"0.1.0","deps":[],"cksum":"97426bdec6ba54b37b679f1339e51fd0189545d5a20e711cff13449661f06e24","features":{},"yanked":false}
+{"name":"distribuidos_utils","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1185a930ebb72e15049e858d6c29b93e53fe5617801ec487cb4cbe169538cfcf","features":{},"yanked":false}
+{"name":"distribuidos_utils","vers":"0.1.2","deps":[],"cksum":"ea178712753c3afeeffcab78febf8078d0c0e6f20c81826eb2eac4eff9671b6e","features":{},"yanked":false}

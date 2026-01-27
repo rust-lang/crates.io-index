@@ -1,0 +1,1 @@
+{"name":"cacheb","vers":"0.1.0","deps":[{"name":"md5","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"75de7882d87a73dbbfcecb652da4cc99013f7749b4c1b72b00e0211680103ea2","features":{},"yanked":false}

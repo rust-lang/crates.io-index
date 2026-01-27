@@ -1,0 +1,2 @@
+{"name":"or-panic","vers":"1.0.1","deps":[],"cksum":"847f7989a54fa7485b59d920df7e0ce2c986128445085531594a8c2c29181f99","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false,"rust_version":"1.68"}
+{"name":"or-panic","vers":"1.0.2","deps":[],"cksum":"596a79faf55e869e7bc0c2162cf2f18a54d4d1112876bceae587ad954fcbd574","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false,"rust_version":"1.68"}

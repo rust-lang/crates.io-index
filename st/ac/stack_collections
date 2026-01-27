@@ -1,0 +1,7 @@
+{"name":"stack_collections","vers":"0.1.0","deps":[],"cksum":"2fa753642c70bd355cd2bdc5cc2a546d3c39b076431025d58cd5a7f393b596e6","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"stack_collections","vers":"0.1.1","deps":[],"cksum":"683ccebabbbf875859d26d10c755a0fbb7a1e44e73e92c7deb993cf63674e95c","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"stack_collections","vers":"0.1.2","deps":[],"cksum":"748e285c359dceb532272129f5477d16d2ea8c20fa028b81acd0e0a67955d2b3","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"stack_collections","vers":"0.2.0","deps":[],"cksum":"2c08c7ef6e8f5d509d844a6bdf6c00e8d52a231766141ab0020a4e5ff58b737d","features":{"default":["std"],"nightly":[],"std":[]},"yanked":true}
+{"name":"stack_collections","vers":"0.3.0","deps":[],"cksum":"4c7b8e560589412722edb5052c06148ef65b19c0274b58661160d0c497ff968a","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"stack_collections","vers":"0.3.1","deps":[],"cksum":"64e606224a6ff9cdb9fc24117671e6cea7801abc471ed445db714ad2de3ef1d7","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"stack_collections","vers":"0.3.2","deps":[],"cksum":"ab840dc3798fab8f47f064fe46de33bdd37301f27acf230e3c5474eecc598015","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}

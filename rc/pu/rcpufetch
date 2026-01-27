@@ -1,0 +1,4 @@
+{"name":"rcpufetch","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b3af2b99bda9eac9293512ed000a3e022a34dba5390bf252c00450281218c8","features":{},"yanked":false}
+{"name":"rcpufetch","vers":"0.0.2","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"551ab46aa43b30836cc03e2118cc4bcc0ed0f98c28416096b4da849eab882096","features":{},"yanked":false}
+{"name":"rcpufetch","vers":"0.0.3","deps":[],"cksum":"7a0fa742900d8805b1e15a727c7d515c90c8f88a005e03ce3db09f300de8b542","features":{},"yanked":false}
+{"name":"rcpufetch","vers":"0.0.4","deps":[],"cksum":"acd32ef9864e26a798277cd688e7d1a88911e943ff6307b3ec347366c888b223","features":{},"yanked":false}

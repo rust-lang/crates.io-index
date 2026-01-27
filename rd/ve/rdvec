@@ -1,0 +1,3 @@
+{"name":"rdvec","vers":"0.1.0","deps":[],"cksum":"bf4993d0c39cff0524d73ddffdfb02765b76bb37ca0cdfc3bdd7e6a30090a8e0","features":{"allocator_api":["std"],"default":["std"],"std":[]},"yanked":false}
+{"name":"rdvec","vers":"0.2.0","deps":[],"cksum":"8a2c43c7df5801c58ac209f968c2b607857772decef2bc30d8cff41644b6f88f","features":{"allocator_api":["std"],"default":["std"],"std":[]},"yanked":false}
+{"name":"rdvec","vers":"0.2.1","deps":[],"cksum":"6077c71bd2c02416117556e4b7d189513a8156c882915866285ccf11fe630a00","features":{"allocator_api":["std"],"default":["std"],"std":[]},"yanked":false}

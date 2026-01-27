@@ -1,0 +1,4 @@
+{"name":"error-macro","vers":"0.1.0","deps":[],"cksum":"86db48450aa173df118471fdfa2e753b37160c008137344800dbbaf0e2643aa5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
+{"name":"error-macro","vers":"0.1.1","deps":[],"cksum":"17f6cc264988b1db5462e50614cff571bfea113aa41bb0f91f81beee6af55b0d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"error-macro","vers":"0.2.0","deps":[],"cksum":"700e3fff70151e30834d05b5df1dd3139659e4a9da164870aaae493eef6d51ff","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"error-macro","vers":"0.2.1","deps":[],"cksum":"56fa8333b51270efe60552b5fc1cc2088e0b24348019e8228ca8ba3106f422c1","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

@@ -1,0 +1,14 @@
+{"name":"hteapot","vers":"0.1.0","deps":[],"cksum":"a55ecb0876d13991b6b1da75ec0dfd4ac3a8693afea33974002440ec1a37b40a","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.2.0","deps":[],"cksum":"7db35e41cc84f89857c5bb9c4c0ce3d9c04eff552bdebd427ebd0d76c63efd95","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.2.1","deps":[],"cksum":"62e80f4b30895d714a47adecb424f8be8460296a62cef86af1a54b32bba803bf","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.2.5","deps":[],"cksum":"31bd443606244879d3c447196f540fbeef0d505274ac36bd015b07b627b82c68","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.2.6","deps":[],"cksum":"a6711bac1589f1fb8dfda22ea8a4fb64c409cdabe9bc26e0b2bd1e9810a3ecdd","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.3.0","deps":[],"cksum":"016fb416712ea528051d1519e21ff510b519fcf24e16239c49b5488a0c9005c2","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.3.1","deps":[],"cksum":"6724f11c691545ea763fac753d85a6eda8c4967850a32e67e98db614a44c629e","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.4.1","deps":[],"cksum":"ee7e0f4fe6be738731ae0bfc64d544e557f73535d004889b42a8d2dd2d8bae9a","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.4.2","deps":[],"cksum":"ef36b290b07caeb44d832a9c0869a493f11c79b9d2621f235c12db08eefe2688","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.5.0","deps":[],"cksum":"9824cadb6a54d49bf90e73a059fa68945b4e0e29a592e1fa72a29307019fe00f","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.6.0","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1db7acae4c9cdc02f996b2a2379713e7354e543e0d407fbe658b5b52db780a3","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.6.1","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea7494419be0db425d40e2060f57195ee05f76b2acc9e2d5b6e44aeb4fd97e01","features":{},"yanked":true}
+{"name":"hteapot","vers":"0.6.2","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82aa2e43aee18c8e3a8123523bb769123274f08651c7f2c4e089dabca50d49a1","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.6.5","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"76692e9ada3c553fbd4b10325d9dd7a28c42867ce55ecb96d4f847e447ecaa25","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"brainfuck-int","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03403b7ec737dab5cc081960e7e1b2aeac43b5de3fd1ef21504044cbb570f5ef","features":{},"yanked":false,"rust_version":"1.70.0"}

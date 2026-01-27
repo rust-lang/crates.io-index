@@ -1,0 +1,2 @@
+{"name":"owo-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b079615e8f085c09171b2f54a35137d8da3a04157399ae1955e4c0d5d8a2870c","features":{},"yanked":false}
+{"name":"owo-rs","vers":"1.0.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"182fe6ac10e5b7bf5399a31dcc6b14f9803b1e8e00b6e71b55b55db0faf375ef","features":{},"yanked":false}

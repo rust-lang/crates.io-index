@@ -1,0 +1,2 @@
+{"name":"perf-plotter","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ea8d2a3b3d033876d4b9df30fa9992022de606cee455a2c9393a4d59f839bef","features":{},"yanked":false}
+{"name":"perf-plotter","vers":"0.1.1","deps":[{"name":"plotters","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55b0a354f7095ad4c5e69fc2d8cb1f9cd82d7c57bfde0d1e0936c0330d66c16","features":{},"yanked":false}

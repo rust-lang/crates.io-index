@@ -1,0 +1,1 @@
+{"name":"wn-parser","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb32388eecce00189988cbb44c1a4d510495d847de324f29d5eb17a0dab46023","features":{},"yanked":false}

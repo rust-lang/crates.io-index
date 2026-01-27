@@ -1,0 +1,2 @@
+{"name":"frames","vers":"0.0.0","deps":[],"cksum":"9a353e428bec58fff561b58e6867dc6985c9d4a5b6301a6899618a9d66de2a28","features":{},"yanked":false}
+{"name":"frames","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7e5c6541c450bb83f788ce7e9f6cede7d51f183a3d9412a3d093c6dc63cd872","features":{},"yanked":false}

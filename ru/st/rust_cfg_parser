@@ -1,0 +1,1 @@
+{"name":"rust_cfg_parser","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2969a084c2ce2cc170f65d69c1a098d4a303d2211c5c78d743a624dbd1694f68","features":{"all":["std"],"default":["all"],"std":[]},"yanked":false}

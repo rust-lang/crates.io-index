@@ -1,0 +1,2 @@
+{"name":"bmx","vers":"0.0.1","deps":[],"cksum":"6d6f4a13fcd07abec8af6cac3cb4936759cfa5c5b5f215fc79a9337bd28841f7","features":{},"yanked":false}
+{"name":"bmx","vers":"0.0.2","deps":[{"name":"anyhow","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"lexpr","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"712fbd369feb4ab08a95f01b21b65dc5e2a1281f852126b026c46e51873a20b0","features":{},"yanked":false}

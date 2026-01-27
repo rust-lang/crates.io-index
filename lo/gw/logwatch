@@ -1,0 +1,5 @@
+{"name":"logwatch","vers":"0.1.0","deps":[],"cksum":"e93eb8f5eedbdff59f5990e81bd32cb1418ea03258a71206129d2a5561111bde","features":{},"yanked":false}
+{"name":"logwatch","vers":"0.1.1","deps":[],"cksum":"e0942d38c1ed5006426c4bab85be1e79767c8eaf8d1881fb8080acef04e442b9","features":{},"yanked":false}
+{"name":"logwatch","vers":"0.1.2","deps":[],"cksum":"7c635821589bf0698fa1853289f99cdc8ec4abf53695a60f93de3f3615520c3e","features":{},"yanked":false}
+{"name":"logwatch","vers":"0.1.3","deps":[],"cksum":"722451cbf01e769e6f5e2e6b132c97340ffe1c355e1291fcb1eb5f4f23bf3562","features":{},"yanked":false}
+{"name":"logwatch","vers":"0.1.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f851467895e3178e47ef8433b2aeead43a2bbe0a5270083f3224c4d486096d9e","features":{},"yanked":false}

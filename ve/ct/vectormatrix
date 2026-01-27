@@ -1,0 +1,3 @@
+{"name":"vectormatrix","vers":"0.1.0","deps":[],"cksum":"663526a9822a445a110b3d2ed1989c4d7048c30273354dbf48b9ef8e7f2aec0c","features":{},"yanked":false,"rust_version":"1.84.1"}
+{"name":"vectormatrix","vers":"0.1.1","deps":[],"cksum":"06c0fe6cf52a6d0defcbd0f1428e3d7f0a15bb10b50f6b12e316730e75fb1cb0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.1"}
+{"name":"vectormatrix","vers":"0.1.2","deps":[],"cksum":"d904a5a9894a0d971b46ef7b47f27ef007ce2d59192464d5d59b3cc8295e8d91","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.1"}

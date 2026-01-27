@@ -1,0 +1,9 @@
+{"name":"py_env","vers":"1.0.0","deps":[],"cksum":"cf2ccbbc4fa3ed896481127aef3a675203e2f55263b08e827bed7691baa470f0","features":{},"yanked":true}
+{"name":"py_env","vers":"1.0.1","deps":[],"cksum":"8226e44a3e4aa2e07639f23645e3e42517fc762444163145c5503f378080498f","features":{},"yanked":false}
+{"name":"py_env","vers":"1.1.0","deps":[],"cksum":"198139c815e365f2c25bfc4ba0e9ccf28342948934504846701ce268a5f0b5f4","features":{},"yanked":true}
+{"name":"py_env","vers":"1.1.1","deps":[],"cksum":"72f7c3b087d10721837f4d426653e59aa175e33c88b28e0736be96ed62647ddb","features":{},"yanked":true}
+{"name":"py_env","vers":"1.1.2","deps":[],"cksum":"fe3ef3a33ee129fcfa010b496bd18eaf805f58a1097a93f8b2b2b317039faa2f","features":{},"yanked":false}
+{"name":"py_env","vers":"2.0.0","deps":[{"name":"pyo3","req":"^0.20.2","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5efb90c6dc155a7c43ac7aa4f00bee88d5e4ac0f91e1a63d07070dc9251d0d6","features":{},"yanked":true}
+{"name":"py_env","vers":"2.0.1","deps":[{"name":"pyo3","req":"^0.20.2","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2612d18f79da5f2aa5ed62c8fa76980ba73aec48ac2d1c29ddd135f5d6cca0f6","features":{},"yanked":true}
+{"name":"py_env","vers":"2.0.2","deps":[{"name":"pyo3","req":"^0.20.2","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"382b130480e2fdc3e0c6fa1f4470233cf34efd730df115ec994904008d55219b","features":{},"yanked":true}
+{"name":"py_env","vers":"1.2.0","deps":[],"cksum":"e6aba0da42dce266675899cc87ac5b2a7e315f8ae6e4011aded500e1b59df23a","features":{},"yanked":false}

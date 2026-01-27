@@ -1,0 +1,1 @@
+{"name":"itemize","vers":"0.1.0","deps":[{"name":"itemize_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"466a47d49ed2efe1e86163f3b5de72697bd55ba627dcca3df9ed1d1cbb56f74d","features":{"default":["derive"],"derive":["itemize_derive"]},"yanked":false}

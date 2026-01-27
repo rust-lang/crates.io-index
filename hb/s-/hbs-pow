@@ -1,0 +1,2 @@
+{"name":"hbs-pow","vers":"0.1.0","deps":[],"cksum":"10f5d3a7fc0c1cd342855beeff724dc2f6477fa7a4024014d640b18ba0b9bb4e","features":{},"yanked":false}
+{"name":"hbs-pow","vers":"0.2.0","deps":[{"name":"hbs-pow-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d7f954bc3ad75165e30bb4143076a701f27871089d2c778545ddc755e031db0","features":{},"yanked":false}

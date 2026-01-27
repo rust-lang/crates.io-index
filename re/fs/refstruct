@@ -1,0 +1,2 @@
+{"name":"refstruct","vers":"0.1.0","deps":[{"name":"toml","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adb74384fcebf81f1b328c00ace0d749fa8575774683360ecd60d4a1b6f48bec","features":{},"yanked":false}
+{"name":"refstruct","vers":"0.1.1","deps":[{"name":"toml","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9f3f68c0be113631ab92a4e8473bd3d1e1abace460fe9087241a85c0895e6cf","features":{},"yanked":false}

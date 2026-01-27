@@ -1,0 +1,11 @@
+{"name":"array-init","vers":"0.0.1","deps":[{"name":"nodrop","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24789825f1822886bb74561e52906462e8dc5d53a3024e7deac67b8868d23e88","features":{"nightly":["nodrop/use_union"]},"yanked":false}
+{"name":"array-init","vers":"0.0.2","deps":[{"name":"nodrop","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d3b508d35216892b50a135fb52c9bb90f04a97b7782230805dff1a156ad5469","features":{"nightly":["nodrop/use_union"]},"yanked":false}
+{"name":"array-init","vers":"0.0.3","deps":[{"name":"nodrop","req":"^0.1.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c3cc8456d0ae81a8c76f59e384683a601548c38949a4bfcb65dd31ded5c75ff3","features":{"nightly":["nodrop/use_union"]},"yanked":false}
+{"name":"array-init","vers":"0.0.4","deps":[{"name":"nodrop","req":"^0.1.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"23589ecb866b460d3a0f1278834750268c607e8e28a1b982c907219f3178cd72","features":{"nightly":["nodrop/use_union"]},"yanked":false}
+{"name":"array-init","vers":"0.1.0","deps":[],"cksum":"a231f0352d7fbedabf5f2d1b20531b3430d0cd04fe0998973998c30a1a207634","features":{},"yanked":false}
+{"name":"array-init","vers":"0.1.1","deps":[],"cksum":"f30bbe2f5e3d117f55bd8c7a1f9191e4a5deba9f15f595bbea4f670c59c765db","features":{},"yanked":false}
+{"name":"array-init","vers":"1.0.0","deps":[],"cksum":"a51c983d65b6691893a791e55aa8bda43bbd9b11f947e5a9581710362277cc95","features":{"const-generics":[]},"yanked":false}
+{"name":"array-init","vers":"1.1.0","deps":[],"cksum":"00ec910b483d39d85a9d367e9e5a1e5ee21c530fa6fcb689939f2bf88c9b3d27","features":{},"yanked":true}
+{"name":"array-init","vers":"2.0.0","deps":[],"cksum":"6945cc5422176fc5e602e590c2878d2c2acd9a4fe20a4baa7c28022521698ec6","features":{},"yanked":false}
+{"name":"array-init","vers":"2.0.1","deps":[],"cksum":"bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596","features":{},"yanked":false}
+{"name":"array-init","vers":"2.1.0","deps":[],"cksum":"3d62b7694a562cdf5a74227903507c56ab2cc8bdd1f781ed5cb4cf9c9f810bfc","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"remit","vers":"0.1.0","deps":[],"cksum":"6f8e62e35dc389e84e0db5c8606f75e7b2c89bb9afb2e7be46c2d4773b28522a","features":{},"yanked":false}
+{"name":"remit","vers":"0.1.1","deps":[],"cksum":"d9860b3e68072908642789ae423c8b7d51d9e9be949a4f19d526e2bcadac1ce6","features":{},"yanked":false}
+{"name":"remit","vers":"0.1.2","deps":[],"cksum":"11818f0ea5b0cfdfc602a69c1997f39a8304d8ba0c437fa8160d0fa352d157a2","features":{"alloc":[],"default":["alloc"]},"yanked":true}
+{"name":"remit","vers":"0.1.3","deps":[],"cksum":"190f2ec091aec1533b75c6c5faaa941b81be94d20ce9f6e1abdbdb0e58edef2c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"remit","vers":"0.1.4","deps":[],"cksum":"ee322737b912603cff9e77fc1743cabeb7df0fba8af64bc51de52d18d0be16d4","features":{"alloc":[],"default":["alloc"]},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"next-pagefind","vers":"0.1.0","deps":[],"cksum":"b3813a38ea3f6e028962e9e45949a49c6a432fa8140254d8aa83cb5a09d7cdca","features":{},"yanked":false}
+{"name":"next-pagefind","vers":"0.1.1","deps":[],"cksum":"f734eebe4d055233edb2570cad2162f4db14aba5f6ec59739d622fba6b270426","features":{},"yanked":false}
+{"name":"next-pagefind","vers":"0.1.2","deps":[],"cksum":"69e561675511806b4d4b996426f849848e5fdbdd508d1e4c726a92641fbd53d0","features":{},"yanked":false}
+{"name":"next-pagefind","vers":"0.1.3","deps":[],"cksum":"bfea0fc600f835096131ba472cb8ace618efefe4578439470b822de26c2d170b","features":{},"yanked":false}
+{"name":"next-pagefind","vers":"0.1.4","deps":[{"name":"clap","req":"^4.3.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f7d1fbd64536ee9270052ff349e70848fb5f9bf1c68caac7b9f81e142369199","features":{},"yanked":false}

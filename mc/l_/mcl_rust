@@ -1,0 +1,3 @@
+{"name":"mcl_rust","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7b59c9b9766cd2301b8d9cbd0060241d0b75eb1be90bf11719aec10e4040ee7","features":{},"yanked":false}
+{"name":"mcl_rust","vers":"1.0.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9280ba3036f64d96a5bce117bda4806813129ffb6eb020fbafac283aa347c226","features":{},"yanked":false}
+{"name":"mcl_rust","vers":"1.0.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d4052e3d772f6a08ac3c7de7707641b2c732a5d2e6d191851b28a8ebddd90516","features":{},"yanked":false}

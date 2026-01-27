@@ -1,0 +1,2 @@
+{"name":"serde_yaml_ext","vers":"0.1.0","deps":[{"name":"serde_yaml","req":"^0.9.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0958eb06b02d7bbbd037752239f7ce5d151c59e68d56a53996ae01fc51fe5134","features":{},"yanked":false}
+{"name":"serde_yaml_ext","vers":"0.1.1","deps":[{"name":"serde_yaml","req":"^0.9.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44f5356f0fed123007ad874675e542091ed4c156bfb49ea18166eb2727004ea8","features":{},"yanked":false}

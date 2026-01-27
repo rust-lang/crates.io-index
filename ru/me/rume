@@ -1,0 +1,2 @@
+{"name":"rume","vers":"0.1.0","deps":[{"name":"mlua","req":"^0.9.9","features":["luajit","module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16f49a27686d17b2a5d827b21bf1ce3eed7c7059f6191dc5bfd8feb2363bddb4","features":{},"yanked":false}
+{"name":"rume","vers":"0.1.1","deps":[{"name":"mlua","req":"^0.9.9","features":["luajit","module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a5d1bcc76eaef0b0900e963f072c06c3f6cb8350ca07405880388953aba092e","features":{},"yanked":false}

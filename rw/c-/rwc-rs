@@ -1,0 +1,1 @@
+{"name":"rwc-rs","vers":"0.1.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8006635a295c50337ed805851be9dde1f4c84d87377d7a61d4aa0bcf54bd2dac","features":{},"yanked":false}

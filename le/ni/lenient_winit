@@ -1,0 +1,1 @@
+{"name":"lenient_winit","vers":"0.2.3","deps":[{"name":"winit","req":"^0.30.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba7e6dddf6927cb4f7dec2d09c4b79257b1f85608299668c8632ae3fe11d924c","features":{"serde":["winit/serde"]},"yanked":false}

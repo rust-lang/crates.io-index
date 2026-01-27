@@ -1,0 +1,4 @@
+{"name":"scripper","vers":"0.1.0","deps":[],"cksum":"7a4ff6376d54f9b9085b0aa4f3f19cbe20c15a2fe4f39564c082a462a56a2d02","features":{},"yanked":false}
+{"name":"scripper","vers":"0.1.1","deps":[],"cksum":"e2621fd8bc7989668419e67608a3c3af58fcbf7b78cc31ed1828e06fe42da27f","features":{},"yanked":false}
+{"name":"scripper","vers":"0.1.2","deps":[],"cksum":"53ec9d1e2aa31fec2065f2d025eeccdaeca25517f5f99cc37b962ff275f08cec","features":{},"yanked":false}
+{"name":"scripper","vers":"0.1.21","deps":[{"name":"clap","req":"^4.0.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af39af697d0ae778a578213cdb4a29e1ed8864c684964472b9595c83d0eae9b4","features":{},"yanked":false}

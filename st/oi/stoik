@@ -1,0 +1,1 @@
+{"name":"stoik","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"239a649e8498ac928dd62613eaac1b0a2d30e0c72ec1ed81302bcff8a9143a52","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,5 @@
+{"name":"board","vers":"0.1.0","deps":[],"cksum":"a65bc9145e8fc6a344492f51df3aeae54006ec00d7658b8eb158e7b6b5078032","features":{},"yanked":false}
+{"name":"board","vers":"0.1.1","deps":[],"cksum":"09ab090fbc745ae15d97b68d02d21c5800967973408b0f7443bce71210176591","features":{},"yanked":false}
+{"name":"board","vers":"0.2.0","deps":[],"cksum":"6aa72e0c93df40690319d7307a95c733e1c14a60af4bd4ffb535828b5d7b0492","features":{},"yanked":false}
+{"name":"board","vers":"0.2.1","deps":[],"cksum":"870b921899893a94ce025e4423e7bf1a1d90aca296a134ca681542f2705f9f14","features":{},"yanked":false}
+{"name":"board","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"897d65dd87075a1d5b94b618a7dfdaf3f4d913e48d299fceaf7b4bf95a26d004","features":{},"yanked":false}

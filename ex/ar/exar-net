@@ -1,0 +1,1 @@
+{"name":"exar-net","vers":"0.1.0","deps":[{"name":"exar","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"exar-testkit","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b956bcf841abc2bbe26f036beee30146153c3f112a08e03bfc95667ce54d71df","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"danielrhodeswarp_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"054c871b6cfac4f04d4d6bbb2d288865f1e43a8fdd7848874f6e0d3c3a7e8ffd","features":{},"yanked":false}
+{"name":"danielrhodeswarp_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ecfb3af84347ad443c8a13e4edfc4a1d931dc95fd938ee44c3de851d54f09e0","features":{},"yanked":false}

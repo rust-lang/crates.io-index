@@ -1,0 +1,4 @@
+{"name":"cargo-modoc","vers":"1.0.0","deps":[{"name":"colored","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cratesiover","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82a0b4863681cb7e7c37b506e3b53f156fc73202e6c783624787e2c25be842ac","features":{},"yanked":false}
+{"name":"cargo-modoc","vers":"1.0.1","deps":[{"name":"cratesiover","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2daaa0ad4cdf0918bca50ce2b9b0e4b712ec1ce62d94f14f6fc6a57f39be471d","features":{},"yanked":false}
+{"name":"cargo-modoc","vers":"1.1.0","deps":[],"cksum":"426c524eb1ab97c3fefb05068206185651d039b284022ac753a28eeb7041f7a8","features":{},"yanked":false}
+{"name":"cargo-modoc","vers":"1.2.0","deps":[],"cksum":"176e0b43a71faf0b46fdc45c3e6123d18ec52963509baaafd5937e0d8145a4bf","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ddd_cli","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.206","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"925893653096fd75edf5c94dce8f70b8f38b0bfebc8ef85a7b1693f63a0075da","features":{},"yanked":false}
+{"name":"ddd_cli","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.206","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d3e525075c44768de5f901126946e764beb4dbc99cbfbb040541d83b0aedc68","features":{},"yanked":false}

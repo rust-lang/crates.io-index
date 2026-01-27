@@ -1,0 +1,1 @@
+{"name":"bmp280-spi","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d281714d64b8b59487b43eabe6a7bb6cbe0774b5876d62fee754dbd97f61f81","features":{},"yanked":true}

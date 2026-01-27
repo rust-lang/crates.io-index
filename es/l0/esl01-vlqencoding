@@ -1,0 +1,2 @@
+{"name":"esl01-vlqencoding","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b9a5c382a325e954524d0b68f83ff6f51b2b68996d84aef0502b0350a7e16d3","features":{},"yanked":false}
+{"name":"esl01-vlqencoding","vers":"0.3.0","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ad8aca6f16078736d5e7762a45125eaa685dfe47155f4a72ec301f13a5f0749","features":{},"yanked":false}

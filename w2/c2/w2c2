@@ -1,0 +1,1 @@
+{"name":"w2c2","vers":"0.1.0","deps":[{"name":"w2c2-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f85f5a3479151c398e8023a26cbdb81fe4ba1b0464a4fe878cbc43af4ca91f25","features":{"bindgen":["w2c2-sys/bindgen"],"default":[],"docs":["w2c2-sys/docs"]},"yanked":false}

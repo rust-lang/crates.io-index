@@ -1,0 +1,2 @@
+{"name":"moore-hilbert","vers":"0.1.0","deps":[{"name":"moore-hilbert-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8efd1c9e2bfd1a3573c516405eae59beac6d20d130c165e0902ad88ad0630f8e","features":{},"yanked":false}
+{"name":"moore-hilbert","vers":"0.1.1","deps":[{"name":"moore-hilbert-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91a4e6cb13f8cfd6fa643092bd203a5c23c8c345b1525343ff5aa569dbc9483b","features":{},"yanked":false}

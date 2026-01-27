@@ -1,0 +1,1 @@
+{"name":"google-contacts-csv","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.216","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceaf482bb47cd0d0abe2b50c3dc54ca228830f40080a29693caefb3d64e037f5","features":{},"yanked":false}

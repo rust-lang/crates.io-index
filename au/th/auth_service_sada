@@ -1,0 +1,2 @@
+{"name":"auth_service_sada","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"769f609ef0c493be6649e8e8023227466900fb5c88100f4f3f3c4d785075e60c","features":{},"yanked":false}
+{"name":"auth_service_sada","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fbcb47011a0edae402995dd71e505e8235b4a2c2b7a2fed1466ae5d58973539","features":{},"yanked":false}

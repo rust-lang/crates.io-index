@@ -1,0 +1,1 @@
+{"name":"blargle","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.27","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a670a9758586d44772f2d3e034daa545e7f805d8a31c00cdb417596c2a8ed0f3","features":{},"features2":{"log":["dep:log"]},"yanked":false,"v":2}

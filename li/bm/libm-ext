@@ -1,0 +1,2 @@
+{"name":"libm-ext","vers":"0.0.1","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4b1130afb86ff0b10b5c3aef6157a5fd1f585be2e9fe90879919fabe7d51066","features":{},"yanked":false}
+{"name":"libm-ext","vers":"0.0.2","deps":[{"name":"hexf","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1917284a52287ea1abc8a658825135027aec57906d5d462e0c1653ac1a33e722","features":{},"yanked":false}

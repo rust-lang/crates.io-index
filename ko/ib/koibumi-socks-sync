@@ -1,0 +1,2 @@
+{"name":"koibumi-socks-sync","vers":"0.0.0","deps":[{"name":"koibumi-net","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5916c6ae97520f823bb0a1a8380c6917359bef8c0bfb47b40b65b9e9ebdb009","features":{},"yanked":false}
+{"name":"koibumi-socks-sync","vers":"0.0.1","deps":[{"name":"koibumi-net","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751142ba6c372d9673f63739d8738f8ebe2d5f4008b9f84dd334a4013dc13792","features":{},"yanked":false}

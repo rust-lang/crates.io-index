@@ -1,0 +1,1 @@
+{"name":"wildpath","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"regex","req":"^1.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a1a56aa4953d76470f471b3fd1da0e05531c1d007b87f6202b81c22a3328d8b","features":{},"yanked":false}

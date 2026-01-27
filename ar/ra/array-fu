@@ -1,0 +1,2 @@
+{"name":"array-fu","vers":"0.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7fdf18b372fc3abb2a76257d2a26d46a5a0b884f98f1a3b9d33a37cdfc4e34fd","features":{},"yanked":true}
+{"name":"array-fu","vers":"0.0.1-alpha","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ec7cab5b8575df1baa0d9ee523dc497833d0e7a74ba995f6634db5a53621e53","features":{},"yanked":false}

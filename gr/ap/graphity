@@ -1,0 +1,3 @@
+{"name":"graphity","vers":"0.0.1","deps":[],"cksum":"df49ca1650959d6d5c89e89da3af20a6c34ee97b34868b5e83619a4cfe96245b","features":{},"yanked":false}
+{"name":"graphity","vers":"1.0.0","deps":[{"name":"hashbrown","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c48c91273087862850eb48d90fa2f4976adf59241715eadc7949532f00fee38","features":{},"yanked":false}
+{"name":"graphity","vers":"2.0.0","deps":[{"name":"hashbrown","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"361ec62f02cc5cd4691c4935dbf562f2a65f13b4f94720ce9938ddb19afb1588","features":{},"yanked":false}

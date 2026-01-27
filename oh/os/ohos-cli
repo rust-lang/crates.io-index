@@ -1,0 +1,1 @@
+{"name":"ohos-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc25436a57af0b0a17f6381a984d754fad3dc1e648bba0c9e95e244095e986b4","features":{},"yanked":false}

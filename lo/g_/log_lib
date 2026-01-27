@@ -1,0 +1,1 @@
+{"name":"log_lib","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":["clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a17a44ca0fe92ffa6b4f58579e41b5f5ab397eebe8fbcbb3457e2cc5ba8731a","features":{},"yanked":true}

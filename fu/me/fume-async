@@ -1,0 +1,1 @@
+{"name":"fume-async","vers":"0.0.0","deps":[{"name":"reqwest","req":"^0.12.20","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40ad564ce865b39c8a123808d94f96e060fd01c95782b04b022c3f6fe24cb0a8","features":{},"features2":{"reqwest":["dep:reqwest"]},"yanked":true,"v":2}

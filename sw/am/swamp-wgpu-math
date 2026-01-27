@@ -1,0 +1,8 @@
+{"name":"swamp-wgpu-math","vers":"0.0.3","deps":[],"cksum":"219b2203ea19c3051f7470973fe03b3fc954e138f9c2a545f2062a16c6afdde1","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.4","deps":[],"cksum":"4fa894f7a6433dbe997379503af6354e037b189aeaeb36373e0a321359b64759","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.5","deps":[],"cksum":"517011b43b1e7fc0341a3a909adc922d316b9d0657c5ba4e0fa0f4b7d1daaa5b","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.6","deps":[],"cksum":"1ea9f1e397d06077205c4823cca8841f81c1294f309ca97aecf7b122dbfbe658","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.7","deps":[],"cksum":"d4af42c2388081ee173d701aa0ab28ee800545bc9cde6145c158de03de235c56","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.8","deps":[],"cksum":"bf03cb05d52ccff45c0d4fd8d56de71424ce5ee73d604918489ef9ff21bedbf3","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.9","deps":[],"cksum":"8abcc6fd155d060bb9d6966f13ddae415bd5d31d3227879b4371e7fcf9380302","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.10","deps":[{"name":"bytemuck","req":"^1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8ea71cab4e3bbcc6be660b10416a58c7c358a0b858d674a8cddbb93aeb15c67","features":{},"yanked":false}

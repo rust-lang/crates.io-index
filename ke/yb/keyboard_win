@@ -1,0 +1,2 @@
+{"name":"keyboard_win","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"0d3c632cecb96eec0bc8014e861354e03741290b76689eb5ad8854fc70f771c0","features":{},"yanked":false}
+{"name":"keyboard_win","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"3ca2cecced041c72f9da7ae238e143a4bf1c5740461b1667a6d28237900072f1","features":{},"yanked":false}

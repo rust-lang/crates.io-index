@@ -1,0 +1,1 @@
+{"name":"hipster","vers":"0.1.0","deps":[{"name":"glob","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73fd7377ec37af944c9095fc10a5837bc7c2b1bcefb92118bd89c84f2c3622c2","features":{"all":["cuda","rocm"],"cuda":[],"rocm":[]},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"ahv","vers":"0.1.0","deps":[],"cksum":"14b40d1247459c752cdd9a453b6bd1074ea8bc0d02d22b51be8b90398d6b2bfe","features":{},"yanked":false}
+{"name":"ahv","vers":"0.1.1","deps":[],"cksum":"e4a66745fdf99e70719dd2d84208553d70ed4bbe1df46f225540f30a366054c6","features":{},"yanked":false}
+{"name":"ahv","vers":"0.2.0","deps":[],"cksum":"8800d57764d00294217be32ede82b9f2643c69c1bc196a0d1b9fde295120eda8","features":{},"yanked":false}
+{"name":"ahv","vers":"0.3.0","deps":[],"cksum":"6a696b14b39f5abb7d9656771bc5addf398d75b6136fce64ae4e8062ce00005f","features":{"default":[],"macos_12_1_0":[],"macos_13_0_0":["macos_12_1_0"],"max":["macos_13_0_0"]},"yanked":false,"rust_version":"1.65"}

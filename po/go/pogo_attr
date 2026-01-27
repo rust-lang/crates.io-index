@@ -1,0 +1,1 @@
+{"name":"pogo_attr","vers":"0.0.1","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cee759e85500fe4fcfcfeca38a4a6306966c01ed775e6263be2c9aa6e5a2bc20","features":{},"yanked":false}

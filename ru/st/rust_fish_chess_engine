@@ -1,0 +1,5 @@
+{"name":"rust_fish_chess_engine","vers":"0.1.0","deps":[],"cksum":"385da6254cd0dc8698b44231d282ddc0199ecde1f3b4239baef65fa848ef4bbe","features":{},"yanked":false}
+{"name":"rust_fish_chess_engine","vers":"0.1.1","deps":[],"cksum":"389c63cfbb3b4a8fb6da4b102ad4372f1c4f835d73cf113ce907fc479c59a0db","features":{},"yanked":false}
+{"name":"rust_fish_chess_engine","vers":"0.1.2","deps":[],"cksum":"77cbccf8ae02bf342f573304a8558481425dd2dabd228cad49c41aeee0196a36","features":{},"yanked":false}
+{"name":"rust_fish_chess_engine","vers":"0.1.3","deps":[],"cksum":"456f62e0e075fc38c69e2990cff6590c9b67d11b003c8ee7f9cec77f5187b02f","features":{},"yanked":false}
+{"name":"rust_fish_chess_engine","vers":"0.1.4","deps":[{"name":"uuid","req":"^1.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad282aacf0f254301aeae5e35ee7aeeec3258bced0bf341497c90353bb754a54","features":{},"yanked":false}

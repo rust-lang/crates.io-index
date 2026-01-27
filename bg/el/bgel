@@ -1,0 +1,3 @@
+{"name":"bgel","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd9f7c5f48736d54d7df4d1ac2f00d4fe286b861129fd0eb17e49778e7205bb0","features":{},"yanked":false}
+{"name":"bgel","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a7b6ad518ce80c9280a6cbe7fd30a566402ecedd40a05ed21d86b6153c7826b","features":{},"yanked":false}
+{"name":"bgel","vers":"0.1.2","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a1e4c03db799e612f90be33bfc0c587564fed83822c6581181e07772ac3d801","features":{},"yanked":false}

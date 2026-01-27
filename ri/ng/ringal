@@ -1,0 +1,4 @@
+{"name":"ringal","vers":"0.1.0","deps":[],"cksum":"3959da42ac0e4277d1be2a0b1760a395f4ca98d78eca8eb924cce83b2d154a7c","features":{"default":[],"drop":[],"tls":["drop"]},"yanked":false}
+{"name":"ringal","vers":"0.2.0","deps":[],"cksum":"433efda419268452444016753c427d9a65fceaa1d4a2e359582332b97fe45b2e","features":{"default":[],"drop":[],"tls":["drop"]},"yanked":false}
+{"name":"ringal","vers":"0.3.0","deps":[],"cksum":"3624094350fe434fb3508f62cd514f86df1b5b611d79da8ec6d2dee5f9aab17d","features":{"default":[],"drop":[],"tls":["drop"]},"yanked":false}
+{"name":"ringal","vers":"0.4.0","deps":[],"cksum":"9a6078341a1009f3a2cb1d4f91dc49abd31eeb7c318725a417270df6441b98cf","features":{"default":["generic"],"drop":[],"generic":[],"tls":["drop"]},"yanked":false}

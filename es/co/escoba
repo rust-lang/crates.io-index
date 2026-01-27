@@ -1,0 +1,2 @@
+{"name":"escoba","vers":"1.0.0","deps":[{"name":"winresource","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"33bbaa28ef9c7d8d8be179eab88f182945b334dc49eab7d7784c58ef69294ae1","features":{},"yanked":true}
+{"name":"escoba","vers":"1.0.1","deps":[{"name":"winresource","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a6e4ad1afa41a4f453970234e8c7fb70c4e843692c0b8e152dc8241ca17dd9e1","features":{},"yanked":false}

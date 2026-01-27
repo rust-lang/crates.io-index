@@ -1,0 +1,2 @@
+{"name":"mozca","vers":"0.1.0","deps":[{"name":"mozilla-root-ca","req":">=0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c3089c0c08ee8d09332c2ecd4c0d728159d173a825bb2c0cb3133c45beaf54a","features":{},"yanked":true}
+{"name":"mozca","vers":"0.1.1","deps":[{"name":"mozilla-root-ca","req":">=0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c39e120889d54b702f2c6de8fcc33b4f7f20a583a51c92525c52c164625e5619","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"udev-dl","vers":"0.0.1","deps":[{"name":"dylib","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d652815673409b17aa863076a61a6927c16a537992bc3edd93caf92c4bc53236","features":{},"yanked":false}

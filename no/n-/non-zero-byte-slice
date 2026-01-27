@@ -1,0 +1,1 @@
+{"name":"non-zero-byte-slice","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.103","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89daa1daa11c9df05d1181bcd0936d8066f8543144d77b09808eb78d65e38024","features":{},"yanked":false}

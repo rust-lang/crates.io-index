@@ -1,0 +1,1 @@
+{"name":"mylib-test","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72bd6c1e8bc4fa50fc9f22bcd00e8c9a94e948c4ba7584c96cb083845bf72d2f","features":{},"yanked":true}

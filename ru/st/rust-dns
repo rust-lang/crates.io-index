@@ -1,0 +1,2 @@
+{"name":"rust-dns","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a6d96082b6cfe37a8576f950580c5142b8e31c4fe3ccd641aa585da46b60374","features":{},"yanked":false}
+{"name":"rust-dns","vers":"0.1.1","deps":[{"name":"clap","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3754756363c869fc35a3ce844242e6b597418ac64b9bc0e20373630bc75f03a3","features":{},"yanked":false}

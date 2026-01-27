@@ -1,0 +1,6 @@
+{"name":"http-range","vers":"0.1.0","deps":[],"cksum":"956f203ed9eb3793de7717ce93013d0728bcd133596891581fede8e29b69baf3","features":{},"yanked":false}
+{"name":"http-range","vers":"0.1.1","deps":[],"cksum":"5f2e4003e6fd05ea9109db00415e670b11f511a42e567ff2d5d771cbdfa24e02","features":{},"yanked":false}
+{"name":"http-range","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"912cf696b64b22eb6554f385f841e6a0f152f9b0dce27b1b15a51e2aecece9ee","features":{},"yanked":false}
+{"name":"http-range","vers":"0.1.3","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"06d79e3ce595025497503fae665967f9e3ef079837bb746e269be37ac8a49fea","features":{},"yanked":false}
+{"name":"http-range","vers":"0.1.4","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eee9694f83d9b7c09682fdb32213682939507884e5bcf227be9aff5d644b90dc","features":{},"yanked":false}
+{"name":"http-range","vers":"0.1.5","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"21dec9db110f5f872ed9699c3ecf50cf16f423502706ba5c72462e28d3157573","features":{},"yanked":false}

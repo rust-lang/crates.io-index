@@ -1,0 +1,15 @@
+{"name":"rusty_parser","vers":"0.1.0","deps":[{"name":"rusty_parser_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f635f3641227206660444597a173a2c400bc82ab42367fafa745ca48125536d","features":{},"yanked":true}
+{"name":"rusty_parser","vers":"0.1.1","deps":[],"cksum":"198b0d491594624a95ede712395d0a7b077e34bc55e07ee09fab267d44d102b5","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.1.4","deps":[],"cksum":"e9993aa34382232fe83ae90db106abeb8f835a099475ca0dae02c8916e6e9ce2","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.1.6","deps":[],"cksum":"09c6471982cd888676c5f8f4bee6869ea7c29539eb527398aa3605766b6967ed","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.1.12","deps":[],"cksum":"79bf584de73494231f973468b68305d31ef187809b325c08af6bf4be52ea9872","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.4.12","deps":[],"cksum":"a0c2042a3daaac7ee7b9aac61347da712378ea8b4d8c1c8d36ceba444defe92d","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.5.20","deps":[],"cksum":"d90369e5726eb13b850decfa340a0e830f067858a3fdc9320d2eb6167f18a24e","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.6.3","deps":[],"cksum":"42d01af279624fcb6b9a006bc5ee6fab1f8c975a967a8b2c5218f7c432926afd","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.6.4","deps":[],"cksum":"bd29af7eb9e614fe4d6b1b143b631dfa541d141e10276f5e7a453688eaa00b5a","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.8.0","deps":[],"cksum":"44924cb25b66dfe40e31aac34302681914ddaf8357aeb64314819db3bd1e6083","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.8.1","deps":[],"cksum":"7b9e7c9ae29925c58e2ec119b8cba51e2aafce3078f67cbb5cf1bf7d6a84650e","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"0.9.5","deps":[],"cksum":"f7252c46966039a3098eb333c51947f298804b5f6a83d20732794080cbfd7598","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"1.0.0","deps":[],"cksum":"565e0221a59b4104d6fd9b3c87d6d2a13c7ab1e61e0870c97dc6d761c74a1c0a","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"1.0.2","deps":[],"cksum":"b937e70e19f866fc12160d9415ff942c4682aa03fa7c49d203e9c7ac0653d425","features":{},"yanked":false}
+{"name":"rusty_parser","vers":"1.1.0","deps":[],"cksum":"a0d4bd88bbc485acc1f3d26157ad5dd519e08c0e5a265a9601a8245b4eb195cd","features":{},"yanked":false}

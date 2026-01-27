@@ -1,0 +1,6 @@
+{"name":"group-math","vers":"0.1.0","deps":[],"cksum":"c1b3e4848c3be166d3cc9d4ab23575be280e26aaa29db8b38a9343862e3f073e","features":{"byte":[],"impl":["byte","int"],"int":[],"int-be":[]},"yanked":false}
+{"name":"group-math","vers":"0.2.0","deps":[],"cksum":"ce0e4ee57d56da4a698e52135a09ad8614becee5cf16dc772af1a8a7ca0e8b50","features":{"byte":[],"impl":["byte","int"],"int":[],"int-be":[]},"yanked":false}
+{"name":"group-math","vers":"0.2.1","deps":[],"cksum":"62dbb76b31611063c9d4e7770d9b0a0a8c08be7bbd2dd46dbc626c9e0d9eb90c","features":{"byte":[],"impl":["byte","int"],"int":[],"int-be":[]},"yanked":false}
+{"name":"group-math","vers":"0.2.2","deps":[],"cksum":"e49d5ea0145d49e91f8fbf1e57da44f3c53a59fcae68e1a15941450efb4cec8a","features":{"byte":[],"default":["impl"],"impl":["byte","int","int-prime"],"int":[],"int-be":[],"int-prime":[]},"yanked":false}
+{"name":"group-math","vers":"0.2.3","deps":[],"cksum":"e510edfb1480abcde12b8930e2133ea13c5c57b1d9a5abb0d85521013f0550c4","features":{"byte":[],"default":["impl"],"impl":["byte","int","int-prime"],"int":[],"int-be":[],"int-prime":[]},"yanked":false}
+{"name":"group-math","vers":"0.2.4","deps":[],"cksum":"35cf2c09c022e44d5475f4f251466afd2e31b3db1ae81ad43f61aa1616867f27","features":{"byte":[],"default":["impl"],"impl":["byte","int","int-prime"],"int":[],"int-be":[],"int-prime":[]},"yanked":false}

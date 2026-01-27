@@ -1,0 +1,1 @@
+{"name":"wiredtiger","vers":"11.2.0-1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c71ce9de42968cd49309f793e617be97599f56a5dbef67ccc69d5370e2594b36","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"bmp8bit","vers":"0.1.0","deps":[{"name":"image","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36b27f356a96ac3111469131e9b004705a4d5f1bde6ca38de6b16261fa2adbbf","features":{},"yanked":false}

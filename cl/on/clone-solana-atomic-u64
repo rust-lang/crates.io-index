@@ -1,0 +1,1 @@
+{"name":"clone-solana-atomic-u64","vers":"2.2.1","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_pointer_width = \"64\"))","kind":"normal"}],"cksum":"11eeb7f4200c8e8cdf09f264908c889a0ef74131cf82ec12481bb21191f28c7b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"neutils","vers":"0.1.0","deps":[{"name":"rand","req":"~0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f215ba15f5c4c04e71d5cc98354384f3c6c0953c40b6adc120c32a26d0d9d180","features":{},"yanked":false}
+{"name":"neutils","vers":"0.1.1","deps":[{"name":"rand","req":"~0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"03930d2a109d3c8fc75d7de3523bc6cd2414b5dfba7ca6fc96779ecbc91b94bf","features":{},"yanked":false}

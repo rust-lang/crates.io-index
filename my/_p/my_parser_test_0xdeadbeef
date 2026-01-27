@@ -1,0 +1,2 @@
+{"name":"my_parser_test_0xdeadbeef","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93b976c787ed65daeaa8b2ce9344ae2a3b4f29198ce98c51ef97765f0f75577a","features":{},"yanked":false}
+{"name":"my_parser_test_0xdeadbeef","vers":"0.1.1","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4786748501aab9573f8d62bf405320ce51c8a29d021302f0f2ecd274d4f2fbcc","features":{},"yanked":false}

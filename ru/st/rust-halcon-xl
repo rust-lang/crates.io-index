@@ -1,0 +1,1 @@
+{"name":"rust-halcon-xl","vers":"24.11.0","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8e5e3798f59aba93e42101744fc8e7e4b591fac3b9b372f5fb34a39f90f6b9d3","features":{"default":[],"re_generate":[]},"yanked":false}

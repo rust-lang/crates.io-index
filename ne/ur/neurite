@@ -1,0 +1,1 @@
+{"name":"neurite","vers":"0.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand_distr","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b1bb9ddf385ff99845dd1a9e494e10ca05cd74378fcaf696380c6445dc94957","features":{},"yanked":false}

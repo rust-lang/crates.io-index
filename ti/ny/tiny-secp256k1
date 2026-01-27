@@ -1,0 +1,2 @@
+{"name":"tiny-secp256k1","vers":"0.1.0","deps":[{"name":"secp256k1","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4d7f72b2b6fe4a2c537514434efb7e2b724cc4a198d04d5283b50158a83ae1b8","features":{},"yanked":true}
+{"name":"tiny-secp256k1","vers":"0.1.1","deps":[],"cksum":"dd90396c274d3a535d239a27542c00dd0653cc683d7d0bfc6ffc675dd8a33586","features":{},"yanked":false,"rust_version":"1.50"}

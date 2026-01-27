@@ -1,0 +1,3 @@
+{"name":"Pares-Sensei-say-hello","vers":"0.1.0","deps":[],"cksum":"b768a6fb530d143297452bd26a12c57347d0ee9a4eb5318c78df7d6559cbf9d2","features":{},"yanked":false}
+{"name":"Pares-Sensei-say-hello","vers":"0.2.0","deps":[],"cksum":"b27588501e997609a2039220962077c19e6837c70e240a26f651faaf70ddcd7c","features":{},"yanked":false}
+{"name":"Pares-Sensei-say-hello","vers":"0.3.0","deps":[],"cksum":"395cc01e5f3a0f42cd99399239a0b242994584da16ce2b06e95bb93fc2fd0368","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

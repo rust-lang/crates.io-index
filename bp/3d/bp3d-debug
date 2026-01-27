@@ -1,0 +1,14 @@
+{"name":"bp3d-debug","vers":"1.0.0-rc.1.0.0","deps":[{"name":"bp3d-logger","req":"^2.0.0-rc.2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"semver","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2eb0956de980c4914b5a5e24896faa203bcc7060d2b90370dc24bd4ffe331ede","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.2.0.0","deps":[],"cksum":"ce351cba1821e1918c69f9035bb45ffde4edd00846c87771ee21ca24c4845879","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.2.1.0","deps":[],"cksum":"0c22fa2166ef845504f68be0e48dd2f087126ac3d760d8c475e106d412873e2e","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.3.0.0","deps":[],"cksum":"6d115be65042b5974db5e4ce6216bde7d0f0ca1761d1b957e416569ab67400ed","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.3.1.0","deps":[],"cksum":"3510146c0ad711e4044ef4ea26e3c436f4a2531277b50b4626f338dbecfc340f","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.3.2.0","deps":[],"cksum":"e46731b5688332bf42d4a632d37dc0731381f3d4e6a5fbc9ce1e914f9f689b53","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.3.3.0","deps":[],"cksum":"ef1e45509240b118ec0153411357052c676c1733e6b3bc35d8529b5cd7f73d2a","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.5.0.0","deps":[],"cksum":"675a1aa41855e6aedc27189a0265015653306e405ca20a728b93c43a2862f661","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.6.0.0","deps":[],"cksum":"0faecc0c2a3af7e770608f01c16e37fc6703a05813564ad9e3cf2d4e9d58d3c0","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.6.1.0","deps":[],"cksum":"0f9d7c0e832f19dbadfc44aa4280d06dd0de0ca5eb9e4b9ccbbc5a83e6f011ad","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.6.2.0","deps":[],"cksum":"02e1174999fc00aa5a997c6c51bb9d2ffce32306cba07256c64004f9920a31cf","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0","deps":[],"cksum":"787d9325c9c287793eb701624a115a45a46c2b6c94cc563df1efb975a84027a3","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.1","deps":[{"name":"bp3d-os","req":"^2.2.1","features":["time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9516c1206a56a0845e8eff9fa32a7e384f5416fa8761181cf55a8d634697cf92","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c7788e3ab55b00cfac16bcd9307ed5a9893ab3733cd0f13debc4854808c7a06","features":{},"yanked":false}

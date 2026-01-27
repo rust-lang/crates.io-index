@@ -1,0 +1,1 @@
+{"name":"fluent-bit-go-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"25d9bd8deb7ea409631a1afe165ca5c7e58505b755c808a1b6f14d04628e72e6","features":{},"yanked":false}

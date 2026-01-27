@@ -1,0 +1,3 @@
+{"name":"tetanus","vers":"0.1.0","deps":[],"cksum":"82c90500172c59cf8605028d7c645a68cfd240e1c5d2849f7f1c3ef59ad45164","features":{},"yanked":false}
+{"name":"tetanus","vers":"0.2.0","deps":[],"cksum":"a0ef2a0b9e34698917228f9057b48edccf923a9547567a03c8e8a24624ec53a1","features":{},"yanked":false}
+{"name":"tetanus","vers":"0.3.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee274371439270db1d23fa495e654d7d7add1078fab1f6f09621902f6f4919ae","features":{},"yanked":false}

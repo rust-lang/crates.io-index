@@ -1,0 +1,1 @@
+{"name":"phyla-lang","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3813619261b25ac27dc11a78c073f92190aaaa4d12fe81a0c8e9b0002841cd93","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

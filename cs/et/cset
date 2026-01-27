@@ -1,0 +1,2 @@
+{"name":"cset","vers":"0.1.0","deps":[{"name":"cset-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2c27a3c6bc004053e5e4f2a00c058f0ee9cbb4b69f87206d9483fcd6518dec1","features":{},"yanked":false}
+{"name":"cset","vers":"0.1.1","deps":[{"name":"cset-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f3508f2f6d47e4dfd229f61a3085144cedf725e943cb18f2c99c60d61df7c7c","features":{},"yanked":false}

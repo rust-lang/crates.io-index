@@ -1,0 +1,2 @@
+{"name":"any-map","vers":"0.0.0","deps":[],"cksum":"954823cd7955419267b53a02231e2b60fa839ee790a8884e48090c648c85ac1a","features":{},"yanked":true}
+{"name":"any-map","vers":"0.1.0","deps":[{"name":"cloneable-any","req":"^0.1","features":["std"],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"fnv","req":"^1.0","features":["std"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b58b165cd2359c04765bdc585dd54f6cab49fdb3860fa80ecfda21b7532a82fc","features":{"default":["cloneable-any","fnv"]},"yanked":false}

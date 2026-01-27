@@ -1,0 +1,5 @@
+{"name":"invogen","vers":"0.1.0","deps":[],"cksum":"98cd722c232aab826074e704bad093b787d035e23569f3cd99084ae820c9f6e4","features":{},"yanked":false}
+{"name":"invogen","vers":"0.1.1","deps":[],"cksum":"f27ec10b7396d7338cd38af5a2f665b4fb1e1c7be3bcc48a7a5a5adf94b4946b","features":{},"yanked":false}
+{"name":"invogen","vers":"1.0.0","deps":[{"name":"printpdf","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"859525d7daec917ff18bd86ff472204abc26df5512ddd776891545c5f7e5d148","features":{},"yanked":true}
+{"name":"invogen","vers":"1.0.1","deps":[{"name":"printpdf","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ac4241939097ebfb43fbc6e6e73c08a01a46bddb2d943d8d5d13c62255ef1d5","features":{},"yanked":false}
+{"name":"invogen","vers":"2.0.1","deps":[{"name":"printpdf","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8f5d40d1a6d3d718df0d9af6c510e1d44791f4f88bcb76071b9efd11af8aa24","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"kalosm-model-types","vers":"0.4.0","deps":[{"name":"indicatif","req":"^0.17.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b6ea4f7cc50877612c89f3c0f7b5286d08724562234ce2329f6c53415436e74","features":{},"features2":{"loading-progress-bar":["dep:indicatif"]},"yanked":false,"v":2}

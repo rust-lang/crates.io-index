@@ -1,0 +1,2 @@
+{"name":"cargo-fast","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aafd264e407c5381124ee696d9abebf400b131d91ffa999bc37c3e58a3b230f6","features":{},"yanked":true}
+{"name":"cargo-fast","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"430782c245cbd0f6b84d40a0a9e3f404daa2d1ca52c504bb080887762e5f1735","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"kmmp-structure","vers":"0.1.0","deps":[],"cksum":"c295a85a64632171cc7617e27a913c7690619ec24170c0e10b765dea0b2185ef","features":{},"yanked":true}
+{"name":"kmmp-structure","vers":"0.1.1","deps":[],"cksum":"9fd2c5e053ca18c22f2edfdc27b1b944c7f1ccfc4ba1bea8df6386779484106e","features":{},"yanked":true}
+{"name":"kmmp-structure","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ca06a58ba8cfb0a6759319a97eb0e0c447b6bbccaa049c14218e4568e72385","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"ickle","vers":"0.1.0","deps":[],"cksum":"5ee1a301a588ba442fe5bbac4c8082f80b0e5abc979a6f8524f73e075e1b8ce3","features":{},"yanked":false}
+{"name":"ickle","vers":"0.1.1","deps":[],"cksum":"90d556aa836488e436c9ddc9ffc8ec46d94851c4ac509eeea0427ea70a5d11f2","features":{},"yanked":false}
+{"name":"ickle","vers":"0.2.0","deps":[],"cksum":"dfbbe5d4eedc5e1767f94c4a4194698644f20c628bc23e324632830324c6025c","features":{},"yanked":false}
+{"name":"ickle","vers":"0.3.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8a32fe108e97f862c81aa4f25d879be4f38ebd3949042a79b8cfe1a44fc9e3a","features":{},"yanked":false}

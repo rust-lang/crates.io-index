@@ -1,0 +1,2 @@
+{"name":"atags","vers":"0.0.1","deps":[{"name":"custom_debug_derive","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f968f34abe2d32400fd76d0dec69680532aa3c4e0ea0a702cbce0f527caadcbb","features":{"nightly":[]},"yanked":false}
+{"name":"atags","vers":"0.0.2","deps":[{"name":"custom_debug_derive","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a28df3a35552fe924b955dc7f75e5c097e0d156973ea3521dbf6b0b2a5c231e","features":{"nightly":[]},"yanked":false}

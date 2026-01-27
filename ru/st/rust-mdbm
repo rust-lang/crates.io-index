@@ -1,0 +1,1 @@
+{"name":"rust-mdbm","vers":"0.0.1","deps":[{"name":"mdbm-sys","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"503471b79c574df77bcb95e97a210bb44d06bdcddc0d69f254e115c347304b67","features":{},"yanked":false}

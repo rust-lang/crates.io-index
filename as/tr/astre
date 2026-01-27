@@ -1,0 +1,3 @@
+{"name":"astre","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfefa4ddde8eb525a649cb5d7d62009f674374400049447d45a54148850bbdf5","features":{},"yanked":false}
+{"name":"astre","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02e484d11ed4aa8c5b346ec2f55b3608a6ba5b383ede8a535d96035a0979984d","features":{},"yanked":false}
+{"name":"astre","vers":"0.1.2","deps":[{"name":"bevy","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93cd1ca1d81536f324ecacfd41214792c939463bf6f401efb1ad835fc07269eb","features":{},"yanked":false}

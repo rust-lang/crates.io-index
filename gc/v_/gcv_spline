@@ -1,0 +1,2 @@
+{"name":"gcv_spline","vers":"0.1.0","deps":[],"cksum":"13ee4ddfeb3d1f721f55f62e05ae769b85850a54ca5c02d61a79bc6107917596","features":{},"yanked":false}
+{"name":"gcv_spline","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.17","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ff7969ab465c0d1460b58093394379d20b39a632a93b1ce665abaac04a556f2d","features":{},"yanked":false}

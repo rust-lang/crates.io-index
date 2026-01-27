@@ -1,0 +1,5 @@
+{"name":"drawille","vers":"0.2.0","deps":[],"cksum":"95269623e83771ffd11ba973b01a7bd358ca1346c2bab442129f212e07fbcac3","features":{},"yanked":false}
+{"name":"drawille","vers":"0.2.1","deps":[],"cksum":"c53384a0e63d8eab2626978bbd3537618e098b5a94eba42603d3be199f6bc3dd","features":{},"yanked":false}
+{"name":"drawille","vers":"0.2.2","deps":[],"cksum":"cfdcbe791be70cabe682b94278201bf7fe7b43c3e5ddab778c01ec2da2624168","features":{},"yanked":false}
+{"name":"drawille","vers":"0.2.3","deps":[],"cksum":"81e127c19c76f5610bb32f6a5f5d1ce5a5374fedba554f05cf5599e3041cd634","features":{},"yanked":false}
+{"name":"drawille","vers":"0.3.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fnv","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e64e461c3f1e69d99372620640b3fd5f0309eeda2e26e4af69f6760c0e1df845","features":{},"yanked":false}

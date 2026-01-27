@@ -1,0 +1,2 @@
+{"name":"parallel_frontier","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b53ca5061d9868176646c39c96a029a0d11fee752281942861071951e24e245a","features":{},"yanked":false}
+{"name":"parallel_frontier","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38a1703e84f54676175da5c1872825b7e9ba245d4f611900243cccac4232689b","features":{},"yanked":false}

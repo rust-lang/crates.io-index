@@ -1,0 +1,1 @@
+{"name":"kalendarium","vers":"0.1.0","deps":[{"name":"julian","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdb1b6b0636de6a8387e067a66128ef73f42db3628fe8f83944c78d9bdf919cc","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87.0"}

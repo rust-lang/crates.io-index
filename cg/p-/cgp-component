@@ -1,0 +1,15 @@
+{"name":"cgp-component","vers":"0.1.0","deps":[{"name":"cgp-async","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cgp-component-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2622c229c16df5194795974fe869c875371ac526398f35b9f42853e73123e4dc","features":{},"yanked":false,"rust_version":"1.79"}
+{"name":"cgp-component","vers":"0.2.0","deps":[{"name":"cgp-component-macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82a567833f055c865fb46258f7c6a511b22a1da6bc22f58b47a5e5e3da7a2dd2","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.3.0","deps":[],"cksum":"12793289566a983f8a3151448cb8820bcc4704c34a0a9cf19bb1ed48e0844e81","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"cgp-component","vers":"0.4.0","deps":[],"cksum":"674d048a0c12498626259d710899dad116d47a90498259209c9f7d412ce254b4","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.4.1-alpha","deps":[],"cksum":"d86263a6c167a1b3a9382a739c1e160d759b47dfca246b8d21d6e4e8a3a5c6db","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.4.1","deps":[],"cksum":"3e0ec1d668fbf5ef7c973942a1853eebcc9ef0e0422033e11ba2ad11e97d6781","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.4.2-alpha","deps":[],"cksum":"d315103778c099d7b4818d67840cb9e78a6748e8dcd3052fcd1f46d94560edf8","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.4.2","deps":[],"cksum":"87bd60d133ed741917908dc86a3f3baff697dd88e75c1576b615f65fcf4ffd21","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.5.0-alpha","deps":[],"cksum":"ae6df81a3b17476059494a0be43bda2842aaf222038f25575797476e34596b88","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"cgp-component","vers":"0.5.0-beta","deps":[],"cksum":"2a5d104a29c1cbbf8509e720adef6a3b0579225f9432618883986e68217af651","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"cgp-component","vers":"0.5.0-beta2","deps":[],"cksum":"3682cd6b9f5eefafbfe8364691d97e1a8f409a75535de8c8f281ed9daa9cf6f4","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"cgp-component","vers":"0.5.0-beta3","deps":[],"cksum":"edb1407ed947c2827dd5d1df2b69e550dad67d775ee668471560a7e44613d06f","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"cgp-component","vers":"0.5.0","deps":[],"cksum":"aabbf574096bd7a9a79cc0f24989f49060aaf7f86bce2756fb7cc3e096ad59f2","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"cgp-component","vers":"0.6.0-beta","deps":[],"cksum":"8ad114f325519cc3c26808d6df73a0bec13a251bcd3020e8fe821867f54f05e4","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"cgp-component","vers":"0.6.0","deps":[],"cksum":"4179fab2e8d18dc550e1ab1b91a1541190408ef19a585e56f163011662aa7e67","features":{},"yanked":false,"rust_version":"1.89"}

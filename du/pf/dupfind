@@ -1,0 +1,1 @@
+{"name":"dupfind","vers":"1.0.0","deps":[{"name":"opener","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha256","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ff586505dfdd199dadbb1aa236d04735ac9b176ba8dc174f06b8ec00b6e871","features":{},"yanked":false}

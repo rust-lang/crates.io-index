@@ -1,0 +1,6 @@
+{"name":"welly-parser","vers":"0.1.0","deps":[],"cksum":"cb4aa244eb9f4255c13c0ffde97cc6cc739286e29943eed249820fa1f6af35fa","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.1.1","deps":[],"cksum":"a2f6c0e052e5101d6b3a072d5106e68b37a59b4c3a3b2e5fca57332c3b7a8994","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.1.2","deps":[],"cksum":"a9a83d0179a989572fd8a582232e3b05c149c326e3db05d127cb8d6be87af97b","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.2.0","deps":[],"cksum":"76e0a65a9fa6bc7bc2cd13d0a016160d21415098c6de1dda599270b90b7ff92f","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.2.1","deps":[],"cksum":"1a0455b4bc9134e2b0856d0d616aaded5e8032abde05e967bd5ecdad061801ff","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.3.0","deps":[{"name":"ansi_term","req":"=0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddbb31bb6431e84072a7a690d6b3f7ec7311b5c00cafdb56ce913c71be24dcbd","features":{},"yanked":false,"rust_version":"1.63"}

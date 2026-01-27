@@ -1,0 +1,1 @@
+{"name":"to_boxed_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42514e8ffcb7e275e32117f63c99e35a3a96f52794472f4f842935c1e19d40ad","features":{},"yanked":false}

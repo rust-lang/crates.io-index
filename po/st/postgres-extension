@@ -1,0 +1,2 @@
+{"name":"postgres-extension","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c7d0b9ca59937e9bb94858d11441a0c7a1ba1211fbc71f5f93510940e5dc866","features":{},"yanked":false}
+{"name":"postgres-extension","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8732b34ac4fbe4070460cf8699495dec23d79c51a4fb8a6989ae30ceb7e26c9","features":{},"yanked":false}

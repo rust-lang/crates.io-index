@@ -1,0 +1,1 @@
+{"name":"wasmium-random","vers":"1.0.0","deps":[{"name":"nanorand","req":"^0.6.1","features":["chacha"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4868c541b608a420e0a169cec90e8aaa286798f14042b8429216b2bb43e8bca3","features":{},"yanked":false}

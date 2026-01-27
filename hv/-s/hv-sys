@@ -1,0 +1,2 @@
+{"name":"hv-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"658991054a55fca2395c71a266ff077934d7a1eabc2eaa6a74e94f8e59b5aa1d","features":{},"yanked":false}
+{"name":"hv-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d5333a4c9076c1ae479461cb9fab7d4fb6f250119b32762879b44aff8f918e06","features":{},"yanked":false}

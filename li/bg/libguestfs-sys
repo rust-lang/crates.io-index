@@ -1,0 +1,1 @@
+{"name":"libguestfs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"69b2b49318612eafe46402f3858c42068006b47eafd09031f320bf502d0504cb","features":{},"yanked":false}

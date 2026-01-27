@@ -1,0 +1,2 @@
+{"name":"charwise","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d15bac0f7a5df76aeac1ccd4bcaec631db445c04744b5d6449ff860f21d1e321","features":{},"yanked":false}
+{"name":"charwise","vers":"1.0.1","deps":[{"name":"tempfile","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"83d667d52b1fcb8210f326ae9ae4f321b21abbea2c74f924c3b2266770bd8843","features":{},"yanked":false}

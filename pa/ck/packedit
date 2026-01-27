@@ -1,0 +1,13 @@
+{"name":"packedit","vers":"0.1.0","deps":[],"cksum":"ec4004d4e9b01d8bd1bfc314bfb9d1bf01902c09d6aceafbe341a59db52be5c3","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.0","deps":[],"cksum":"fd1af246f61696402064ba301f69ffc34aec541f487bb6cbf7f1952a90596f9a","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.1","deps":[],"cksum":"afa645a2db957ffeab0ab0fa8486598189040b1249b243c8823d4093c45250c4","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.2","deps":[],"cksum":"4c186d38e567448cebc01fe0a42c7f19427a5b5be63dbc78edd19c9fe37a64a4","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.3","deps":[],"cksum":"34a638804c9d84b846d6889e2b18afb2e19cfe60d34af3f536aff2fcefb6a366","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.4","deps":[],"cksum":"68d400b8b3e3bd233da0f6986675548d103606eb0825adb223342447894455aa","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.5","deps":[],"cksum":"7fe06164de352179a57dd560d11408f02527fdbdfa8a0fc34613c0ebf1458936","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.9","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10d3d992c37256bf20b19d90e8ffe175b5d143534fc72c61b0969c88ea16805b","features":{"default":[],"legacy":["legacy-arp"],"legacy-arp":[]},"yanked":false}
+{"name":"packedit","vers":"1.1.0","deps":[],"cksum":"570da0c515f5e9ae299018756793e5b5e775cddad12baf675797c258b733bc95","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.1.1","deps":[],"cksum":"6e50b1d60561eb4003354be5a6d8c66191d40ed32dcb2e8d7ffab8b9fa32a263","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.1.9","deps":[],"cksum":"c4eaf6031a57aaa1cdd6d90d7127cf51014a84c4f4667d99c93e4556dc2a9e5a","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.2.0","deps":[],"cksum":"b017977c1aa8bc857c32d53d805a637feefb72752c09794953f2da1703e09ae6","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.2.1","deps":[],"cksum":"5d5828eea252af83f9e10e54bda31cb96324ea0a3ce901738e3a5e61a3fc0741","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}

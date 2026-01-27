@@ -1,0 +1,2 @@
+{"name":"gorf-kiselyov","vers":"0.1.1","deps":[{"name":"lambda_calculus","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dabae3d8dab9b57d3792c43282dfb233e18da7d650bc636be3c5d48f04043952","features":{},"yanked":false}
+{"name":"gorf-kiselyov","vers":"0.2.0-pre.0","deps":[{"name":"lambda_calculus","req":">=3.3.0, <5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"998c8a806bb1437c1bac83449324d750325bb4831bc6c2d83b338bb50bec4b09","features":{},"yanked":false}

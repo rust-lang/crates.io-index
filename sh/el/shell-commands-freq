@@ -1,0 +1,2 @@
+{"name":"shell-commands-freq","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3003d8d2acee37b1eca552c2100b03e01dbf539d0b0a128a64c49fe7bf11716d","features":{},"yanked":false}
+{"name":"shell-commands-freq","vers":"0.1.1","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"807246820fec3d7c3216b3e52d87e127fdb45fa3c8207fcdd3b6ac2a0952c8bc","features":{},"yanked":false}

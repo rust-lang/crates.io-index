@@ -1,0 +1,2 @@
+{"name":"cloneit","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.48","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"890ae0bfdffebd9d08e905b469ae2c156588affcb802de2e462fc0f86dfd5e0c","features":{},"yanked":false}
+{"name":"cloneit","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.48","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2753764793b90b8e137e3d74855f470e2511f99a3ff567155e7a4644530dd03","features":{},"yanked":false}

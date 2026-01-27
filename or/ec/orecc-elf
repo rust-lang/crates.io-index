@@ -1,0 +1,2 @@
+{"name":"orecc-elf","vers":"0.0.1","deps":[],"cksum":"30860ddb310bfe9202e14f70f284f78de7114cf48a3f11691a96f4849a119c24","features":{},"yanked":false}
+{"name":"orecc-elf","vers":"0.0.2","deps":[{"name":"target-lexicon","req":">=0.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18e9015a8b8eece21905a78506bb64b6b7e8215d9344cd68a3e91b04faa95009","features":{},"features2":{"target-lexicon":["dep:target-lexicon"]},"yanked":false,"v":2}

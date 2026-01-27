@@ -1,0 +1,1 @@
+{"name":"deno_embed","vers":"2.0.6-next.0","deps":[{"name":"deno_embed_macos_arm64","req":"^2.0.6-next.0","features":[],"optional":false,"default_features":true,"target":"cfg(all(target_os = \"macos\", target_arch = \"aarch64\"))","kind":"normal"}],"cksum":"1421c626a1995b2a2d5e955c8639d697e5991d869446ad89283a0c9875806c0a","features":{},"yanked":false}

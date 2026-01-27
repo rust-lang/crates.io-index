@@ -1,0 +1,1 @@
+{"name":"unix_str","vers":"1.0.0","deps":[],"cksum":"2ace0b4755d0a2959962769239d56267f8a024fef2d9b32666b3dcd0946b0906","features":{"alloc":[],"default":["std"],"shrink_to":[],"std":["alloc"],"toowned_clone_into":[],"unixstring_ascii":[]},"yanked":false}

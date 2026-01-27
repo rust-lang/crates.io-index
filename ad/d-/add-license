@@ -1,0 +1,7 @@
+{"name":"add-license","vers":"0.1.0","deps":[],"cksum":"44e8bd056ab721c0d025416c4b6fa8675d3bf3ee8527757f14f4a6ab8b3fb61a","features":{},"yanked":true}
+{"name":"add-license","vers":"0.1.1","deps":[],"cksum":"c355072d8ee076c0ade7194b41ea70273abe60d2fcbffbc421976a3fbae319ad","features":{},"yanked":true}
+{"name":"add-license","vers":"0.1.2","deps":[],"cksum":"89a87a32f57d3e32bd052aa227dc83b898d0c72d1481ed893934d97847b009d7","features":{},"yanked":true}
+{"name":"add-license","vers":"0.1.3","deps":[],"cksum":"35df7adc0923125f2a63313d7f29dc16dffea80158e1c9479755854e2660e8cf","features":{},"yanked":true}
+{"name":"add-license","vers":"0.1.4","deps":[],"cksum":"ce5c7bcde644cb6e3fcca2f2a42317f650dbc00dcc9197a82b2af4f59ed608e5","features":{},"yanked":true}
+{"name":"add-license","vers":"0.2.0","deps":[{"name":"toml","req":"^0.8.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6224287262ab928bb234c72f9316071309921a3443b86204af3823df18009161","features":{},"yanked":true}
+{"name":"add-license","vers":"0.2.1","deps":[{"name":"toml","req":"^0.8.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc1b341e9aa96ca3886924af3d0aa0838547b3c3f4abafa1495a9f1896b5749d","features":{},"yanked":false}

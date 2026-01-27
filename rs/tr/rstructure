@@ -1,0 +1,2 @@
+{"name":"rstructure","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"970608e49a1d23fdad435edeb74c87387aead960950b98c663a2d4ac568e88ae","features":{},"yanked":false}
+{"name":"rstructure","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f65d975473ab2a00dd85b4ec96abf05aaccaa65be8f507084e222c0def367458","features":{},"yanked":false}

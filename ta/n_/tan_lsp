@@ -1,0 +1,2 @@
+{"name":"tan_lsp","vers":"0.4.0","deps":[{"name":"lsp-types","req":"=0.93.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb38ae60e714bdfc96ed5ed45aad6cad6edbd70ccd6f0083e296c5cecdfe7765","features":{},"yanked":false}
+{"name":"tan_lsp","vers":"0.5.0","deps":[{"name":"lsp-types","req":"^0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c090edf0a3fe13272fe4be8d1c95026708e26879dd2d6d6134819f0be0190f47","features":{},"yanked":false}

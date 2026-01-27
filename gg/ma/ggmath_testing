@@ -1,0 +1,3 @@
+{"name":"ggmath_testing","vers":"0.2.0","deps":[{"name":"ggmath","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34fa340b1aaea7ee73b8374d0b6d385ffb278899309b03b232b71ae4a8e34eb9","features":{},"yanked":false}
+{"name":"ggmath_testing","vers":"0.3.0","deps":[{"name":"ggmath","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7157a475813644e4a833e23eb23567cc238d0bd98dd188388b42a6d83c019af4","features":{},"yanked":false}
+{"name":"ggmath_testing","vers":"0.12.2-deprecated","deps":[],"cksum":"e049f43cd87de54e915bb78b6cc0542deb47b8bc78aef3d40541aa4b85fffbd6","features":{},"yanked":false}

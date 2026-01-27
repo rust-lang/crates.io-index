@@ -1,0 +1,1 @@
+{"name":"solitaire-assets","vers":"0.0.1","deps":[{"name":"rust-embed","req":"^5.1.0","features":["interpolate-folder-path"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"733d455e08fefeb7ce3d633ff5fa0b847cd9fe597723bc4493fbe9e5764cb57f","features":{},"yanked":false}

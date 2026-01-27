@@ -1,0 +1,7 @@
+{"name":"miden-rpc-proto","vers":"0.4.0","deps":[],"cksum":"69a33b9dc4b92c9af45cd2c2b1cd7f7ee7c045f8b1bb367273013a8011ad5cb3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.78"}
+{"name":"miden-rpc-proto","vers":"0.5.0","deps":[],"cksum":"9b92c12cb8a04958eda5a16e97a2c2b160ebc561e2c04ccd80c9c687fbca7cd4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.80"}
+{"name":"miden-rpc-proto","vers":"0.5.1","deps":[],"cksum":"b7689049b22d836e159f8e4d5facc57040ab6cabd4c849e527fe3055fa824c44","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.80"}
+{"name":"miden-rpc-proto","vers":"0.6.0","deps":[],"cksum":"e3cd29d062cd2af2345b1e99e95af3133bb0486a02c3126d55ef6a57dee966a1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
+{"name":"miden-rpc-proto","vers":"0.7.0","deps":[],"cksum":"6c2edb867ffc4cd908bb98b48f326016e36158129faba39aef574a0f33433b60","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
+{"name":"miden-rpc-proto","vers":"0.7.1","deps":[],"cksum":"9ba69b23bbfb0ce523a63ecae98756afc47f438727d3d9763cdbccb9c660f1a2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
+{"name":"miden-rpc-proto","vers":"0.7.2","deps":[],"cksum":"e68f00e0e97ba6bc65896e5ca2bb0995d59b14fd8f0389916dc2ee792f353f50","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}

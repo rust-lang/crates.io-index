@@ -1,0 +1,2 @@
+{"name":"stemflow","vers":"0.5.2","deps":[],"cksum":"fea541339066fd4fc97512c9f9c01c0dd049043f8250481012f1a7037db54392","features":{},"yanked":false}
+{"name":"stemflow","vers":"0.5.3","deps":[{"name":"dot","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"766d3b71b6fe8eeccd66ca4daefd5f538b0c568a741e5064c4e654176c6be3ff","features":{},"yanked":false}

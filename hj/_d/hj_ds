@@ -1,0 +1,2 @@
+{"name":"hj_ds","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a5d564de2429fa082b9bb174806d632cff27db1554058c3992c1a56aff2e77b","features":{},"yanked":true}
+{"name":"hj_ds","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34063e5a1ceca5645eeb11cd087bc149092603b0e88b57d647f5b56de53af0ae","features":{},"yanked":false}

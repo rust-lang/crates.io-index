@@ -1,0 +1,2 @@
+{"name":"gpo","vers":"0.0.1","deps":[],"cksum":"d81ea08326c8c174d998b3db71c69baa112e8bc6bfbb494b17b101e78f28e1d7","features":{},"yanked":false}
+{"name":"gpo","vers":"0.0.2","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdf63568f52c19536c26453da31b33f6579750c1866a37810b66215c93df336a","features":{},"yanked":false}

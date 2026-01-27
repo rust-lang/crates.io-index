@@ -1,0 +1,3 @@
+{"name":"rust-assimp","vers":"0.0.1-alpha.1","deps":[],"cksum":"43f934b8261a059742d0be38ea4c0d6191d92db01ded50547f7cebcd2c59f0d1","features":{},"yanked":false}
+{"name":"rust-assimp","vers":"0.0.1-alpha.2","deps":[{"name":"vecmath","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff810c42ba489ae5e3833434bbdc58f2eac9b27228a4e0e93f24f52fbbf1aee5","features":{},"yanked":false}
+{"name":"rust-assimp","vers":"0.0.23","deps":[{"name":"vecmath","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58884671155d09bce383c7222c5a2146c655a26de211ff26176f994864a7a4c5","features":{},"yanked":false}

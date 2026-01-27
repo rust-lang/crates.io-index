@@ -1,0 +1,2 @@
+{"name":"ninja-files-talosctl","vers":"0.1.0","deps":[{"name":"ninja-files","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"056e9016c8a7cc5adfc785986c611dbc40d8897e060b7d4fbf978d637efb93d1","features":{},"yanked":false}
+{"name":"ninja-files-talosctl","vers":"0.2.0","deps":[{"name":"ninja-files-data","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa398f15791b2980fe748c938468da31f9c21cfd7773fc2a793c0c38641e383e","features":{},"yanked":false}

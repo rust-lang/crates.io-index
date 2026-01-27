@@ -1,0 +1,1 @@
+{"name":"burncloud-client-deploy","vers":"0.1.2","deps":[{"name":"dioxus","req":"^0.6.3","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60fe7e8dc8e71f74bb0aca844b7a2e85f8d953aa1749e2771459dd6d15ebe412","features":{},"yanked":false}

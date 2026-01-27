@@ -1,0 +1,1 @@
+{"name":"triaka-rpc","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["net","io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d547dc7f0d7972873e28fd1ad569217a61ccba5cacd96bde1542918d528f6916","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"lua-macros","vers":"0.1.8","deps":[{"name":"lua","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69c7119b1269128453b1b58c83eca2da3f3f47250c12c441533d6d82b7067839","features":{},"yanked":false}
+{"name":"lua-macros","vers":"0.1.9","deps":[{"name":"lua","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0cb72451b5bc57f27dadff90e683b4297729633d059b1ff477e70c71d28d19f","features":{},"yanked":false}

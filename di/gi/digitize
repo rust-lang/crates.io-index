@@ -1,0 +1,4 @@
+{"name":"digitize","vers":"0.1.0","deps":[],"cksum":"507b52051373a9c1cc2e78c42b18f46a867c4f227837acc62c6868c1933e2425","features":{},"yanked":false}
+{"name":"digitize","vers":"0.1.1","deps":[],"cksum":"ee800ff92986f547fb367b688f2165b6547138cc18dffc42d808210e929130d6","features":{},"yanked":false}
+{"name":"digitize","vers":"0.1.2","deps":[{"name":"default-impl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50302536aa2eb63a6c083abd105b0e395037c2ace3f19022fe2fdd07db9feb97","features":{},"yanked":false}
+{"name":"digitize","vers":"0.1.3","deps":[{"name":"tinyvec","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d0253021bc5d6919072d059335eead0c0bdf046c50f10db091267b2d4d245d3","features":{},"yanked":false}

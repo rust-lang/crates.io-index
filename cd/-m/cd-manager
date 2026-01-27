@@ -1,0 +1,2 @@
+{"name":"cd-manager","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6174e023f98865ecf50f26d75dcc3e276c1f3cfd1bd45ec11f2ffc6ed51cfa3a","features":{},"yanked":false}
+{"name":"cd-manager","vers":"0.1.1","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b13ae982cc4814b6f1eb4d6a86fe01e8e589163567fbc3b5c3fe03ba5a32eca","features":{},"yanked":false}

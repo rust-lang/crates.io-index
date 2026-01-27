@@ -1,0 +1,1 @@
+{"name":"micro_ihex","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9f1d3a67a6e3b3754f4c9c07d617ab0cf4f7118e4aa4c291d0d9430513659b71","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

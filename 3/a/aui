@@ -1,0 +1,2 @@
+{"name":"aui","vers":"0.1.0","deps":[],"cksum":"66b96d291583f39d65e102bd1e29da391f0f8f9a4f73d8d653e2007470cc3870","features":{},"yanked":true}
+{"name":"aui","vers":"0.1.0-rc.1s","deps":[{"name":"aui-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"aui-jsx","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48756be6800ce4258a7bd89082d851c65e02c1f56e34ec48cb2e80475843d5b7","features":{},"yanked":false}

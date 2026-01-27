@@ -1,0 +1,3 @@
+{"name":"ezmsg","vers":"0.6.0","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30db124b64a19ed6442e26914605b478c436269e5e579899a9e41f0cc3042273","features":{},"yanked":false}
+{"name":"ezmsg","vers":"0.6.1","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6f22be4ad7cb1bd8b0475b34b083b5839d85f8e1b6512d16777d7d399544285","features":{},"yanked":false}
+{"name":"ezmsg","vers":"0.6.2","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6c7d20bfd021cb1b74170c333f4805d3cf456efd24180a0f1ec7525fc6eabde","features":{},"yanked":false}

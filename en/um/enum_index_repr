@@ -1,0 +1,4 @@
+{"name":"enum_index_repr","vers":"0.1.0","deps":[],"cksum":"7dfde7f12802a8bd8da463b80ce4c9538ce6e4ebf25b4e67fcefac3670d1a3ab","features":{},"yanked":false}
+{"name":"enum_index_repr","vers":"0.1.1","deps":[],"cksum":"8d2e2932f58029b192b2f3d251c79b20e51b84daa54b9c837da39a5845753561","features":{},"yanked":false}
+{"name":"enum_index_repr","vers":"0.2.0","deps":[{"name":"enum_index_repr_derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53b1b7424840fe21a0e738caf0e3ebc27c5deda630d5488d94fab96d1823d1da","features":{},"yanked":false}
+{"name":"enum_index_repr","vers":"0.2.1","deps":[{"name":"enum_index_repr_derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d70495e7bfa822a67cd8cc104a0b91c1bc62e5db64038b3878dd10d60976fa2","features":{},"yanked":false}

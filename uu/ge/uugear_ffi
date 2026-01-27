@@ -1,0 +1,2 @@
+{"name":"uugear_ffi","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.37.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe95dc64b679ab7353322e71d83270a605cfbb5a3c622da1bb539ff82f80ff39","features":{},"yanked":false}
+{"name":"uugear_ffi","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.37.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b1a4003700a783936adc7d385ac5380df1486c24db41f58bba40e678f788a4ea","features":{},"yanked":false}

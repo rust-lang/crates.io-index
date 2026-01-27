@@ -1,0 +1,1 @@
+{"name":"user-mode-riscv","vers":"0.1.0","deps":[{"name":"elfloader","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"101050904f19ce991de31b172bd45ce23866bf12381bfeb9b95a108f7d62c042","features":{},"yanked":false}

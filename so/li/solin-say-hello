@@ -1,0 +1,3 @@
+{"name":"solin-say-hello","vers":"0.1.0","deps":[],"cksum":"ee611c4cdfd25a4cd1c145fe620eb96246ece022a888c07549f2725ad7dd9bfd","features":{},"yanked":false}
+{"name":"solin-say-hello","vers":"0.2.0","deps":[],"cksum":"e91b0d7a6ed730d5f4ec09f5af2517381a7ca76ed2015da29d7d387b24526ba4","features":{},"yanked":false}
+{"name":"solin-say-hello","vers":"0.3.0","deps":[],"cksum":"2d0fb6d44268b8fcea699297c0015f765f6ff9fd1de4d8e38e7f20764d331984","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

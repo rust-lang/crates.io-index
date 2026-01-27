@@ -1,0 +1,2 @@
+{"name":"dep_c","vers":"1.0.0","deps":[{"name":"dep_d","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eac775af0c0afb8011ae2e94ba8a1d46a1daa04cb5f784bf55fbf8cd7ebc7b3d","features":{},"yanked":true}
+{"name":"dep_c","vers":"2.0.0","deps":[{"name":"dep_d","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9c068c97021b325c0ff6ba8cdfedc6ae58b90c648a1022833c85c1b0dc7e3f9","features":{},"yanked":true}

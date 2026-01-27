@@ -1,0 +1,4 @@
+{"name":"say-hello-byfikri","vers":"0.1.0","deps":[],"cksum":"02a575456df4d93e7298d2777aaa0527a0c0acab3447035edf9678439dd26d4d","features":{},"yanked":false}
+{"name":"say-hello-byfikri","vers":"0.2.0","deps":[],"cksum":"bb2d1b3f570f616ecb663eb068d7a2d8b401dae05598874c6ceec22fd1386506","features":{},"yanked":false}
+{"name":"say-hello-byfikri","vers":"0.3.0","deps":[],"cksum":"fa99bcac84845b26b5f62a1c525e0aa32d7392be5c3d8735c5fb02ca89dc61f6","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-byfikri","vers":"0.4.0","deps":[],"cksum":"b9b18ede22f68835e54a3da6f0d5a945f3b58755c4bddbffe9ab3fbf33f555ec","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

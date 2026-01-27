@@ -1,0 +1,2 @@
+{"name":"dioxus-util","vers":"0.0.0","deps":[],"cksum":"e662e0f075a2a2dda5b66d420abf5c5b13c80641741d99741633f6921f30b2cc","features":{},"yanked":false}
+{"name":"dioxus-util","vers":"0.1.0-alpha.1","deps":[{"name":"dioxus","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.163","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0372fc2a701add222a3e83038ef6518e28650faa790e4451b36dcc5b91b081c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"betterunion","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.23.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"390d24c74c2f89dd75aeae2ee5b2597dc7837a91c815395687adc76c4fa723b2","features":{},"yanked":false}
+{"name":"betterunion","vers":"0.1.1","deps":[{"name":"bytemuck","req":"^1.23.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a35cb00b426db0fdf2089ea0df7a4c546bec86701bba80176aa246139937fb4d","features":{},"yanked":false}

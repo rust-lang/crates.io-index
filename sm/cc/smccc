@@ -1,0 +1,5 @@
+{"name":"smccc","vers":"0.1.0","deps":[],"cksum":"979ceff3e73195b6232c847975cac4ce73fcfb5acfcc18d38336875010504cdf","features":{},"yanked":false}
+{"name":"smccc","vers":"0.1.1","deps":[],"cksum":"617d17f088ec733e5a6b86da6ce4cce1414e6e856d6061c16dda51cceae6f68c","features":{},"yanked":false}
+{"name":"smccc","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4d28c99a9913f0686f470a6ff020e160195eb1a86f9c1800aab2b3abba4bc9b3","features":{},"yanked":false}
+{"name":"smccc","vers":"0.2.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"87ed898c59fbfd740492e435cba30a08b74a68d1f1ebb5f1a4b17f6bc7782be8","features":{},"yanked":false}
+{"name":"smccc","vers":"0.2.2","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c73e0ca8c566478040487791c9f488f86c5aec846ca1ab18484be8a1d8c55cd","features":{},"yanked":false}

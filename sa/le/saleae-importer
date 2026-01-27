@@ -1,0 +1,2 @@
+{"name":"saleae-importer","vers":"1.0.0","deps":[{"name":"binrw","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64a804cd9084266c26bb2d4cdc970d168602eeb2723f6302cf48d6305b3678fa","features":{},"yanked":true}
+{"name":"saleae-importer","vers":"1.0.1","deps":[{"name":"binrw","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82a5d931b2099576f28141c0d11f61a9f5d0cd24ef9226426c476eb225d743fe","features":{},"yanked":false}

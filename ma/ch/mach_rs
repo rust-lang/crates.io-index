@@ -1,0 +1,2 @@
+{"name":"mach_rs","vers":"0.1.0-alpha","deps":[{"name":"mach2","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"306e1547e3f6f78ac954f0c38754972c661d86a4f9466851d31dc2897d42ecc6","features":{},"yanked":true}
+{"name":"mach_rs","vers":"0.2.0-alpha","deps":[{"name":"mach2","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73bcae1c7864007862206590cf8cc9d0c0b691a354d869604139cf2940a5f930","features":{},"yanked":true}

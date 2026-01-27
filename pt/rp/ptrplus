@@ -1,0 +1,6 @@
+{"name":"ptrplus","vers":"0.1.0","deps":[],"cksum":"fde7cd2bbd8a44ea500022c97893bc0fe80be9275ca641cc840a67a602717d3e","features":{},"yanked":false}
+{"name":"ptrplus","vers":"0.2.0","deps":[],"cksum":"3f085c4126782338dc2f1f32d258810477134397c524dc85ddffe3ddcc2b366e","features":{},"yanked":false}
+{"name":"ptrplus","vers":"1.0.0","deps":[],"cksum":"53f990683cd4072b981378e80360349b4cdf94291a4edefae901a793a30ac2d6","features":{},"yanked":false}
+{"name":"ptrplus","vers":"1.1.0","deps":[],"cksum":"92c26f687c8797252124d5d39a2abef384ad2635a0f3f8a82743083212f218d3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"ptrplus","vers":"2.0.0","deps":[],"cksum":"a3ee266b97bbaa3258028246ba1b956227d4c73cd98337b12ce8b5b4eeaf8254","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"ptrplus","vers":"2.1.0","deps":[],"cksum":"f14fa34cab562b910acf9ed28e00ff7fe9dfa53fc82d5ba53d70f10e3b8cfa82","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false,"rust_version":"1.65"}

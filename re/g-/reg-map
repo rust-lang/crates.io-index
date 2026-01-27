@@ -1,0 +1,2 @@
+{"name":"reg-map","vers":"0.1.0","deps":[{"name":"reg-map-derive","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05de6bc53fabbee28e8c3fb2a7581e2d82b0322736462233e7188f0e6243fd62","features":{},"yanked":false}
+{"name":"reg-map","vers":"0.1.1","deps":[{"name":"reg-map-derive","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dbb7f305d48f3e25d1718d791193904401e20a9d2c79fa494d572d83ff083b7","features":{},"yanked":false}

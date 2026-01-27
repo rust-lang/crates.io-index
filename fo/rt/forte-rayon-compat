@@ -1,0 +1,1 @@
+{"name":"forte-rayon-compat","vers":"1.12.0","deps":[{"name":"forte","req":"^1.0.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be04cf4b50636d61b10a9783f40d0cf363550820a505f77e4e81238286bec0cb","features":{"web_spin_lock":[]},"yanked":false}

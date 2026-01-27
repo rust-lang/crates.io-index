@@ -1,0 +1,2 @@
+{"name":"unrestrictive-url","vers":"0.0.0","deps":[],"cksum":"694fdf40b0987b7e4f3e7f3d9a72bd687dea6a5f4332c1a31ab6a5a81b6fc799","features":{},"yanked":false}
+{"name":"unrestrictive-url","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba08b1f48601187e2ec623fa420542a26d7baf8c6854b7fb82890ea3166b9f5a","features":{},"yanked":false}

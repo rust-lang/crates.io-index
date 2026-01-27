@@ -1,0 +1,1 @@
+{"name":"dbd","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e914df3e11edf904a05602684a098a7fa68b82b801f4be80cddd31030b36ad2","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mdmatter","vers":"0.0.1","deps":[{"name":"nom","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"stainless","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ec3950c2a51db240ea37b086e849d91e5742bd9828febd6d138439c58e9707d","features":{},"yanked":false}

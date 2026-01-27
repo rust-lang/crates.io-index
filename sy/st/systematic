@@ -1,0 +1,2 @@
+{"name":"systematic","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"63555437e5dba4eb3a7022ffdd52eb2ef685d7249183944c27ff80df91214af5","features":{},"yanked":false}
+{"name":"systematic","vers":"0.0.2","deps":[{"name":"pkg-config","req":"^0.3.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b6f5b04d20ec92bef85e2e6d2ea8b1fb769c2483096e78facbc89ff5ed7774b3","features":{},"yanked":false}

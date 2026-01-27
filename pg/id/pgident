@@ -1,0 +1,3 @@
+{"name":"pgident","vers":"0.0.1","deps":[],"cksum":"87a39778d635336e0060db4f6a09d9d4a8693bb7a7918d7314058466b381f7f2","features":{},"yanked":false}
+{"name":"pgident","vers":"0.0.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"895674db3b8002dd4d9ff4869bfe67f9514561ef680a584298f2554a8d30a38a","features":{},"yanked":false}
+{"name":"pgident","vers":"0.0.3","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e07bf932363a30b588328c1010bbe57a4493a5cd124df21441561609ed6f8b21","features":{},"yanked":false}

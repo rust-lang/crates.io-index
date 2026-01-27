@@ -1,0 +1,2 @@
+{"name":"wfetch","vers":"0.1.0","deps":[{"name":"sysinfo","req":"^0.33.1","features":["system"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"426b5c0d1d357adacb6c52b0fbad5a0b2d543f34d6b1f8ba2c9c035122436d79","features":{},"yanked":false}
+{"name":"wfetch","vers":"0.1.1","deps":[{"name":"sysinfo","req":"^0.33.1","features":["system"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e33644710e0922926e4a309a5b382b91f0f47ce2dd2d66c835b02576a7983415","features":{},"yanked":false}

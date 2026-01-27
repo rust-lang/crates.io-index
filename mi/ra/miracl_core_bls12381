@@ -1,0 +1,5 @@
+{"name":"miracl_core_bls12381","vers":"0.4.1","deps":[],"cksum":"c9cd09fcfc0cc64e72b6d2e9e01f491a38a40da2d8f3c2ff3206745b68940bae","features":{},"yanked":true}
+{"name":"miracl_core_bls12381","vers":"4.1.0","deps":[],"cksum":"09f7f7889f1a842b4c79a1a0bcca95c795f13b275ffbb1e48ff2af87b0d5f115","features":{},"yanked":false}
+{"name":"miracl_core_bls12381","vers":"4.1.1","deps":[],"cksum":"a3798e16e75318f0357ec3df02800b85cec89cc0490a59a4073db82e98dcc126","features":{},"yanked":false}
+{"name":"miracl_core_bls12381","vers":"4.1.2","deps":[],"cksum":"eb5c13471499e00775be202c9007d365fdab9b1c65624c95b238b2f3037a2c1c","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"miracl_core_bls12381","vers":"4.2.2","deps":[{"name":"hex-literal","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"wasm-bindgen","req":"^0.2.67","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d07cbe42e2a8dd41df582fb8e00fc24d920b5561cc301fcb6d14e2e0434b500f","features":{"allow_alt_compress":[],"default":["std","fallback_separator"],"fallback_separator":[],"std":[]},"yanked":false}

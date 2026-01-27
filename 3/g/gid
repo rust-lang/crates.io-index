@@ -1,0 +1,2 @@
+{"name":"gid","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c43156b911a19669333f30d1181145a34d56fc0ef3d03ca62c4dfde6d07d900e","features":{},"yanked":true}
+{"name":"gid","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0565850f694f7d358b53f4823fe69683be33d6b45c69dbcd643744b792d8619","features":{},"yanked":false}

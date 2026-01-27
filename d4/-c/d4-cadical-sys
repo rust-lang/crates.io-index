@@ -1,0 +1,2 @@
+{"name":"d4-cadical-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f3eb437dc63b8f30e479ad95d3c1b0b8ce67f0d1054db70141d3f22d3971df13","features":{},"yanked":true,"links":"cadical"}
+{"name":"d4-cadical-sys","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c19a08dbae54dbc5da83f86f25c1945eb552113b02a3a8cc5664ac9384a6a4e6","features":{},"yanked":false,"links":"cadical"}

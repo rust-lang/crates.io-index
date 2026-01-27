@@ -1,0 +1,5 @@
+{"name":"cargo-clippy","vers":"0.1.0","deps":[],"cksum":"d17e62003dad3b7cbe9bdaf33f98d7f19862b34d88863681e88bf21261820f14","features":{},"yanked":true}
+{"name":"cargo-clippy","vers":"0.1.1","deps":[{"name":"ansi_term","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14fad4d285acd580b6cad80b41da52edcad19c92dfa56292edc3ccfbf2dd897","features":{},"yanked":true}
+{"name":"cargo-clippy","vers":"0.2.0","deps":[],"cksum":"10918d16b04760219be0f972e114812aa08f8642bcd86f8347d4a479b803166e","features":{},"yanked":true}
+{"name":"cargo-clippy","vers":"0.2.1","deps":[],"cksum":"26bb04f5990199920dab2c856cea3611b8c72675792281f741a18944f9d30bbe","features":{},"yanked":true}
+{"name":"cargo-clippy","vers":"0.2.2","deps":[],"cksum":"9e5f0603e5cf9112e2ee0ba7d109c3ef8d74e29ddf176507fd28805e46b2f564","features":{},"yanked":true}

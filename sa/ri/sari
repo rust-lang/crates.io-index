@@ -1,0 +1,2 @@
+{"name":"sari","vers":"1.0.0","deps":[],"cksum":"4e8af4799084047fe8563e6394d0e233f4e891b73cd36f738c8efcf7dc3a01e6","features":{},"yanked":false}
+{"name":"sari","vers":"2.0.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff5095685ed03fc80bb6efdb389aa7d792f087914573315e1d35e3898548ed8c","features":{},"yanked":false,"rust_version":"1.88"}

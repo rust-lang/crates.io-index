@@ -1,0 +1,2 @@
+{"name":"from-enum","vers":"0.1.0","deps":[{"name":"from-enum-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94b0cd77e15afa1e90f8ac859fc2f45e50e16f19d40874146dd59e0a6a777ee8","features":{},"yanked":false}
+{"name":"from-enum","vers":"0.1.1","deps":[{"name":"from-enum-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69b986ff2272d4b362b89ef8381b248075f8030c52ae78287dd9de50194f0d59","features":{},"yanked":false}

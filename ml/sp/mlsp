@@ -1,0 +1,3 @@
+{"name":"mlsp","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33a47be92c28cb6c6c15831cae191ce2b42474a53787cf64c91bba5a2f9f46be","features":{},"yanked":false}
+{"name":"mlsp","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4758a3c3080f47ca21f2e564e69e289dcd15a144540fcdc75d519d9236bc56cc","features":{},"yanked":false}
+{"name":"mlsp","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f6d8f275af3b1ba616d6e1e82d1567b6320a303dc478bb338a55382679548b0","features":{},"yanked":false}

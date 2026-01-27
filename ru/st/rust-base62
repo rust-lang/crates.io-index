@@ -1,0 +1,3 @@
+{"name":"rust-base62","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41804082c0b0e54fd437cf391a4c3ebde92595ed33f2176fb4288dbfab59a0f6","features":{},"yanked":false}
+{"name":"rust-base62","vers":"0.1.1","deps":[],"cksum":"d50953dbd0c7e2261e2a49923f5b89aff0a1ce39024679a3eb8ca3ac79b472c5","features":{},"yanked":false}
+{"name":"rust-base62","vers":"0.2.0","deps":[],"cksum":"795d74326115cdc57c63012aaf8711c2575f93ed43a222c9854b8b5527247856","features":{},"yanked":false}

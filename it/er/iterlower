@@ -1,0 +1,2 @@
+{"name":"iterlower","vers":"1.0.0","deps":[{"name":"unic-ucd","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dd17baf2af5a8f7db5ed102ea7e4ba8d73d9f465d49db8d16ad2ee769e1a73b","features":{},"yanked":false}
+{"name":"iterlower","vers":"1.0.1","deps":[{"name":"unic-ucd","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"140c12e8c87c518633e46b67fe60e595f76f80d7b1751cddbd66b194786175d7","features":{},"yanked":false}

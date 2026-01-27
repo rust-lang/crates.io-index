@@ -1,0 +1,2 @@
+{"name":"mw","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"943594a402d2bc23a6e16b9c5b06935bc276a18fbeb036ba43a17d53daad20f8","features":{},"yanked":false}
+{"name":"mw","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"945e5e0022e62c2cdfd06025ffd61e9a94a757e03c5bac0d4bde587144e31c54","features":{},"yanked":false}

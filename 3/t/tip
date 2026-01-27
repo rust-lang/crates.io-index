@@ -1,0 +1,4 @@
+{"name":"tip","vers":"0.1.0","deps":[],"cksum":"43ac269243607a8808653cdb5c6d48f7e0d73966a0eb6bcb0dbff755fb1b79fe","features":{},"yanked":false}
+{"name":"tip","vers":"0.2.0","deps":[],"cksum":"f2989644da50f701bed32b4a238cd0bb500d2bf0509967c972131a3a2cd13516","features":{},"yanked":false}
+{"name":"tip","vers":"0.3.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2794ca95090ab7271c6765511b994b10f8b70b637e7bc3868b66b79d7d16b7d","features":{},"yanked":false}
+{"name":"tip","vers":"0.3.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f8c40646a2227a7a288a63b5b527d48916b0623e5d4b58d52db8183a03a25f9","features":{},"yanked":false}

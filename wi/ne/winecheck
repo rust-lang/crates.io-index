@@ -1,0 +1,1 @@
+{"name":"winecheck","vers":"0.1.0","deps":[{"name":"windows","req":"^0.58.0","features":["Win32_System_LibraryLoader"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"c9d457c1dad97e3c0fd35edaa497f3de80444aee8eb461c501ee1f442c2eaddd","features":{},"yanked":false}

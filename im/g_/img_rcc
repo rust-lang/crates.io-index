@@ -1,0 +1,1 @@
+{"name":"img_rcc","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56b0f8a3fee1a2ca7f3afa8beed40401ee353fa724b3d47c384cf8a50bbef2c2","features":{"benchmark":["criterion"]},"yanked":false}

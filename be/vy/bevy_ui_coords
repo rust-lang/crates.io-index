@@ -1,0 +1,1 @@
+{"name":"bevy_ui_coords","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14.2","features":["bevy_text","bevy_ui"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"abc4a336c1cdfe58e767e62dabd2d724517ae50dc4fdad1d83932041bae4c7f1","features":{},"yanked":false}

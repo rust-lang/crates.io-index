@@ -1,0 +1,5 @@
+{"name":"stackvec","vers":"0.0.1","deps":[],"cksum":"305859e701cd2e6c1e6e5da8f83706315140ed54cbc44573ceff9d951dba1bcf","features":{},"yanked":false}
+{"name":"stackvec","vers":"0.0.2","deps":[],"cksum":"dae73f506a841bb296b42907cfca0b6e47e9f4fb4ddfc4fd8f76df35f5223cc2","features":{"nightly":[]},"yanked":false}
+{"name":"stackvec","vers":"0.1.0","deps":[],"cksum":"d55f51770e58a1dcc6e2321f34481c329a2ddcfe1e6adfaa0d54f16e7e91b7a4","features":{"a_thousand_array_impls":[],"default":["a_thousand_array_impls"],"nightly":[]},"yanked":false}
+{"name":"stackvec","vers":"0.1.1","deps":[],"cksum":"9516a2eaaaca6de596f19c54489dfc3d013e3165835f80bd2ec3eadadd775815","features":{"a_thousand_array_impls":[],"default":["a_thousand_array_impls"],"nightly":[]},"yanked":false}
+{"name":"stackvec","vers":"0.2.1","deps":[],"cksum":"a28337dadadf1f595e7472e02ed7e27cbc790828b10336f144b5790d21152c16","features":{"a_thousand_array_impls":[],"default":["a_thousand_array_impls"],"nightly":[]},"yanked":false}

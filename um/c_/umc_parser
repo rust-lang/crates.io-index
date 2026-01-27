@@ -1,0 +1,13 @@
+{"name":"umc_parser","vers":"0.0.0-alpha.0","deps":[],"cksum":"1dcf4d1bca000e878e90b6fc3d98a47ce60a3e32dd7c8e7c79f7f1d2df20faea","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.4","deps":[],"cksum":"ef9f850024e88b4103d37b03c2f2c055ac5913947e1fe9b399752a8f4d319e62","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.5","deps":[],"cksum":"64ffe0f8c3f1471a9c860d04ac4c90f5baece7fba48de4d579156bfc98acb64e","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.6","deps":[],"cksum":"1dafb0e8a33f0c35826c35787cd6a23a91c77149daa10ae4f478aafef6847d41","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.7","deps":[],"cksum":"39b782035d0c7e714937a036ebb21584b0ec526e9fcc0a51eb0e3da48786c525","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.8","deps":[],"cksum":"9bdb06de75f07c0c28cc773e39e5d95994e91cea8aec7ffcf8181185c9d6b449","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.9","deps":[],"cksum":"cd662f107bbe1296145871c16ab210d2e001b1600318c4431824ac8f53a00d7a","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.10","deps":[],"cksum":"445487fc1d45d3232ff1030c26cb39a35fcadcfb787283dbaee92b7607749eef","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.11","deps":[],"cksum":"ae84c7f78a0d7becf690619bb2d25a757ec82b2f73bff02899a985fb8ca135e7","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.12","deps":[],"cksum":"2dd4cf52b1ccdafdefa2938140dd9a7812d5c0ae5e3b0d5bebdc822e03a0db8a","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.13","deps":[],"cksum":"b77bb0ec8fd7a82720fa06ecf12e1ee70bd0a7e21910b8dc9815b0749a1472b6","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.14","deps":[],"cksum":"0d2afa0dd878eacc7d9b1e83cba5ae9b80b193efef64182b244a3ac87a6e9308","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0","deps":[{"name":"oxc_allocator","req":"^0.104.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"oxc_diagnostics","req":"^0.104.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"umc_span","req":"^0.0.0-alpha.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23ee23f5ffeadfc6b29352cbd694378d060bf48c77c137ac3d2621c9b70f3d43","features":{},"yanked":false,"rust_version":"1.89.0"}

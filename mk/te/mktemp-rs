@@ -1,0 +1,2 @@
+{"name":"mktemp-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0ea74fb5e10509468b7c74b58bca3a0dccd983b28a362ef30e3d9004ca31a73","features":{},"yanked":false}
+{"name":"mktemp-rs","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91145f1540600f57bfa5cca8484c175dd966909276ce9e933b3ead45bb557b74","features":{},"yanked":false}

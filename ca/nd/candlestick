@@ -1,0 +1,2 @@
+{"name":"candlestick","vers":"0.1.0","deps":[],"cksum":"68c54e9324615f3cd662bea8ce169011906402a4128bd3c1ba90b9e524e335ef","features":{},"yanked":false}
+{"name":"candlestick","vers":"0.2.0","deps":[{"name":"time-series","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a798cdb026b91c2b6a0c7647423f3e2697a3110836f861d37c4cc6196f8ff03","features":{"time_series":["time-series"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"crossword","vers":"0.1.0","deps":[{"name":"encoding","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53f5c3c68352829e876ddf120a529ced9480a81fcb66b86d320c2841fb95f405","features":{},"yanked":false}
+{"name":"crossword","vers":"0.2.0","deps":[{"name":"encoding","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c2122245f3b9acb781f631190d12885b54fbdb1e8ba44f988265df660c1bb6c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"nxos","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94f6d0498013eec3e591b7ea545831f6431d9d4e5050fb0376ba08e22821770f","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"whitespace_text_steganography","vers":"0.1.0","deps":[],"cksum":"0b3f2732c8dbbaba668cf8d3d29de3bed79b93dacafe894467a195459c7fdd8d","features":{},"yanked":false}
+{"name":"whitespace_text_steganography","vers":"0.1.1","deps":[],"cksum":"3030f289d12ec7ee0ee2a36c96649f5095218e2723a56bffa693f3eb51583d87","features":{},"yanked":false}
+{"name":"whitespace_text_steganography","vers":"0.1.2","deps":[],"cksum":"913c5f5a6445a9e51b5e290316858971ab8fa8b8a4fabbb7d69ee1e01202fec7","features":{},"yanked":false}
+{"name":"whitespace_text_steganography","vers":"0.1.3","deps":[{"name":"regex","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7f7325b93ba03d71bc375c0b09aa5737dd1bb44f8978ebcee89134a2b57b04e","features":{},"yanked":false}
+{"name":"whitespace_text_steganography","vers":"0.2.0","deps":[{"name":"regex","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33ef5c47970a11279eba552bb2163bb8fd27f2a009fa1c562c97ab5b0f04c0bd","features":{},"yanked":false}
+{"name":"whitespace_text_steganography","vers":"0.2.1","deps":[{"name":"regex","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69f992b13553f8fca03d6517b8af52bc285e8d30f7c0307864625f7327265397","features":{},"yanked":false}

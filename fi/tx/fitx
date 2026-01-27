@@ -1,0 +1,2 @@
+{"name":"fitx","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"beb33cc0fae17a4cba1775770d3f26b9824f12585593440214f2bcf500d23fba","features":{},"yanked":false}
+{"name":"fitx","vers":"0.1.1","deps":[{"name":"clap","req":"^3","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c28444d9d9128bf83d5c0a007e02c87586811038c906614940ceeddf36eb141a","features":{},"yanked":false}

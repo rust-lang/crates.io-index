@@ -1,0 +1,2 @@
+{"name":"dir_reader","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76d06142ee8d70644894e467fed8c410bc54273956219cd9fdd9cf106d93d71d","features":{},"yanked":false}
+{"name":"dir_reader","vers":"0.2.0","deps":[{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"619146182d8681911f99e52bd15b95b2b4f65113194224070b252a3ba5127f80","features":{},"yanked":false}

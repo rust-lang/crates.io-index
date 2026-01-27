@@ -1,0 +1,2 @@
+{"name":"diesel_as_wrap","vers":"0.1.0","deps":[{"name":"diesel","req":"^2.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"103f95dd9e0713e292278fb489a1cc887ed6ffd2e8ec62fb67cd2a6fb2ab0370","features":{},"yanked":false}
+{"name":"diesel_as_wrap","vers":"0.1.1","deps":[{"name":"diesel","req":"^2.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f01b7f37af0df7ad26516ad80cf299bf48937d484a1c6d03841af6cfb14788","features":{},"yanked":false}

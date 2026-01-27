@@ -1,0 +1,4 @@
+{"name":"flaggy-values","vers":"0.1.0","deps":[],"cksum":"78fa32bfafbca4fe288934446f331b3c5b38cdd8bfb8bc80dc54dd931bfbdc9e","features":{},"yanked":false}
+{"name":"flaggy-values","vers":"0.1.1","deps":[],"cksum":"33efde615885dd4eca7452356767ff200c3f06380d02e43e36c655a663c331e4","features":{},"yanked":false}
+{"name":"flaggy-values","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29dfb4df1043bd643e9f4dbb557d62fd82dd52ca1a72734f8bfb20fe6186eb91","features":{},"yanked":false}
+{"name":"flaggy-values","vers":"0.2.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cba61308d657435b8aad1173cc148035d0e093f30180adcdefad39a4361c1a1","features":{},"yanked":false}

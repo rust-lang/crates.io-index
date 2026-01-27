@@ -1,0 +1,1 @@
+{"name":"unit-interval","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3fbed6d1a038a820928af4ada8af87fb9be5b73d2b1db6b0ae1903768a291a3a","features":{"default":["std"],"std":["num-traits/std"]},"yanked":false}

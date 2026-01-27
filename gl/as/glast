@@ -1,0 +1,2 @@
+{"name":"glast","vers":"0.0.1","deps":[],"cksum":"02877f13a49cbb890c51d4cd4be3cef146ac77236a990b9777d93ee4657cbe72","features":{"logging":[]},"yanked":false}
+{"name":"glast","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45fa7ad92e8315e0f4e7ec521d95c89d2fd7e86be9ba57b0e48a28032c7c4351","features":{},"yanked":false}

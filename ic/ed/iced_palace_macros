@@ -1,0 +1,2 @@
+{"name":"iced_palace_macros","vers":"0.1.0","deps":[],"cksum":"69fe283fff441047e2b40b7b2604ef0b998c8ed2e63df22461651157223ef854","features":{},"yanked":false}
+{"name":"iced_palace_macros","vers":"0.14.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1e5f3675448d3d200626db2587743ee7a9873203a211db4137d06cef76c8701","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"zuoti_initer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04ae55d6609dfa177a6002b60d4435a9af206ca2fd97a1623e577bdc9153fb98","features":{},"yanked":false}
+{"name":"zuoti_initer","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d06e89e288ec0d7abe66763f7462e1bd78c8499dac243b2d8ceebf0e4fd7621f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rust_lib_example","vers":"0.1.0","deps":[{"name":"is-odd","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4083c9ba10b14633ead089230c89941121a5cc2a8d519c6068eb5fb668d5ac9c","features":{},"yanked":false}
+{"name":"rust_lib_example","vers":"0.2.0","deps":[{"name":"is-odd","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a607129e3d6a12eb864fa5a7cab8a933aec31ddcb7e7bc324f1c07430cffc57","features":{},"yanked":false}

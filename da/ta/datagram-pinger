@@ -1,0 +1,2 @@
+{"name":"datagram-pinger","vers":"0.0.11-dev","deps":[{"name":"flood-rs","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f331d1deb430e3c12bcf6e688973aa0e51890b708f652ac1d7f9e9a9c92ad96","features":{},"yanked":false}
+{"name":"datagram-pinger","vers":"0.0.12-dev","deps":[{"name":"flood-rs","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e152fc75f6b1d5610029b2bd1a32fecb2383b067cb11d959f80d4a18427cf954","features":{},"yanked":false}

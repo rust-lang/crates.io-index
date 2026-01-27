@@ -1,0 +1,1 @@
+{"name":"lesshand","vers":"0.1.0","deps":[{"name":"expect-test","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0900257bff61f72821687588c63479cecba905580ae6d88e96a7f2f1b995bff","features":{},"yanked":false}

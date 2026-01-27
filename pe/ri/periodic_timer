@@ -1,0 +1,2 @@
+{"name":"periodic_timer","vers":"0.1.0","deps":[{"name":"spin_sleep","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c83e6330eb541d7768656c95e280b4485e6101c5be504e58b6f4e7b025ac358","features":{},"yanked":false}
+{"name":"periodic_timer","vers":"0.1.1","deps":[{"name":"spin_sleep","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"883ea054184f4f7622ff0f1ad4afa2c9e6ce8c235fb7b8ee6ebb1cf5e7253ea6","features":{},"yanked":false}

@@ -1,0 +1,13 @@
+{"name":"rcu_128","vers":"0.1.0","deps":[],"cksum":"d6cbed119094545c4fd5375b573867bf7fbe8bc53ae2fda5551ef071ab19568d","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.1","deps":[],"cksum":"941a361e19f41cb0b205bbf467b52633a8cc126d90473e24bc5cca02708ba815","features":{},"yanked":true}
+{"name":"rcu_128","vers":"0.1.2","deps":[],"cksum":"9a0df3884daa00a59746acf7f1834bff4fd75436b0d5e4091219d773d3c3c63a","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.3","deps":[],"cksum":"81e00b0451418f8d9f8edfb36a0466612c4a1173d30dacc32a03fbc432f219cb","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.4","deps":[],"cksum":"c4e2b638acb4cd7db754271826a9ca0fe77ab7c35eabf56fee82dfd4cdebb98d","features":{},"yanked":true}
+{"name":"rcu_128","vers":"0.1.5","deps":[],"cksum":"61a51c3961d4938e55d00e1348a4dba86a0249bf9a4b6786dcca5a0afa3dbbfb","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.6","deps":[],"cksum":"72ad04dd61746c385ba30e0e0baba8cae7d91b44c84c7f271ff22a4f814dcc45","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.7","deps":[],"cksum":"ce4c9a326a3f40cc9b56df1978bfed672add4b2a1688b89f99b2846087293719","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.8","deps":[],"cksum":"cb01b6e6997d2960ab9f58497faeabaeb77c8ba79f67d5bda52ea79eb064f30a","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.1.9","deps":[],"cksum":"06d03ef2231127277ab1bcb7eb7f63642fd0a78fd92e8b5e2b8ccc386097def3","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d37f5c89dd60f5535830c7f0d8b706e991959fa4356d09c99e35fe9e2d989e9","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.2.1","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"706e17c0bcbd3eff874e2d612b69054a01a7584ab616f6a45c31d82dca7df2e7","features":{},"yanked":false}
+{"name":"rcu_128","vers":"0.2.2","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1142f2454a39b1f1b527b107633e951e57ccd19a3b2c77fbe4b0d34089ab4db","features":{},"yanked":false}

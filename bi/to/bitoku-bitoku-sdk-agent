@@ -1,0 +1,1 @@
+{"name":"bitoku-bitoku-sdk-agent","vers":"0.2.2","deps":[{"name":"anchor-lang","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"335b9298b40c96995aae204c3111fdc5563cc74e6a176c7d4a38a0a78799d017","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

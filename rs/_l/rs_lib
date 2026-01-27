@@ -1,0 +1,2 @@
+{"name":"rs_lib","vers":"0.1.0","deps":[],"cksum":"edd9074b9b3f728338e497bb52114b3db583dcadfe68a5034503d8a4f3c27a7f","features":{},"yanked":false}
+{"name":"rs_lib","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e396604cd8b9cf366dc817c9acd88e7c9b57b3b7d871f01d74bc95f05c3874cc","features":{},"yanked":false}

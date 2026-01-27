@@ -1,0 +1,2 @@
+{"name":"to_boxed","vers":"0.1.0","deps":[{"name":"to_boxed_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"963ea0d1c19774b76cec2868f094ee86c0b580031eb7059c49495867520e7296","features":{},"yanked":false}
+{"name":"to_boxed","vers":"0.1.1","deps":[{"name":"to_boxed_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46311f65b56ba4e2b558158781453c7ab30c47952672d96e21b0b45cd57c5b46","features":{},"yanked":false}

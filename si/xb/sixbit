@@ -1,0 +1,5 @@
+{"name":"sixbit","vers":"0.1.0","deps":[],"cksum":"81ef57e5e5677e61da12d8ed6a7ecde032096fdbbb7f906739ebfb38162ac061","features":{},"yanked":false}
+{"name":"sixbit","vers":"0.2.0","deps":[],"cksum":"a824e2cb2fa9bdc3ff820b601d39cd77d97c34a363429f4bfb41fa0679b87d04","features":{},"yanked":false}
+{"name":"sixbit","vers":"0.3.0","deps":[],"cksum":"212d43b9903dfd782a735e286d9f364624ea02ec5105822c2d6dc8b0cbb985a9","features":{},"yanked":false}
+{"name":"sixbit","vers":"0.4.0","deps":[],"cksum":"3bf88b90bc0a80092b8d65299a6f85165032793bfea9c59efd6e12d97fddcf62","features":{},"yanked":false}
+{"name":"sixbit","vers":"0.5.0","deps":[{"name":"arbitrary","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16d1bba3c67a01e0febe6942c8ccbc43ff43885d271761e45828561ecffd3930","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cargo-fortanix","vers":"0.0.1","deps":[{"name":"clap","req":"^2.23.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e7d6556b39a3fb8699092087ae25b2b6f40602b3246e5a66b61a2161c179ee3","features":{},"yanked":false}
+{"name":"cargo-fortanix","vers":"0.0.2","deps":[{"name":"clap","req":"^2.23.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9b5ffd0a24fe72cd1afffd10127b3d7532d172e6299d5bcaa2368a3742e7bfb","features":{},"yanked":false}

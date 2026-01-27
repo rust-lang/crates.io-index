@@ -1,0 +1,1 @@
+{"name":"trait_adapters","vers":"0.1.0","deps":[{"name":"trait_adapters_macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0b5ed3d30de0f59cb5e9bc6b63ad41ea2308ff5e89b6bfd2ff003bf1776abcf","features":{"default":[],"macros":["trait_adapters_macros"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mirage","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14cb6320c4c7d4df00fac4a46ad9fd0d21eb390da8ea8bf1b8dd7c8a3abeaf16","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"avila-time","vers":"0.1.0","deps":[{"name":"avila-serde","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8072d8cf91905f12cd2151f819205d6ef9e43b5e5c26ced7ec5f8bc9b922a2c2","features":{"default":[]},"features2":{"serde":["dep:avila-serde"]},"yanked":false,"v":2}

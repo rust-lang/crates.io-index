@@ -1,0 +1,2 @@
+{"name":"atom_str","vers":"0.1.0","deps":[{"name":"twox-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e94cfc421c6df0ce907821fdfd4c88c36076a21990c20c4868d08f2edb79b38e","features":{},"yanked":false}
+{"name":"atom_str","vers":"0.2.0","deps":[{"name":"twox-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b5525dddea10e93c7ed07a151bf29ec5919e9ab9efc869ae4dfd89ccde8ded1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"fenris-nested-vec","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6a46aaea6d4e539b7e8b4d12a3347b34330e1ccc2fba9ae06cba6817cee3f8e","features":{},"yanked":false}

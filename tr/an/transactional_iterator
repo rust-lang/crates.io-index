@@ -1,0 +1,5 @@
+{"name":"transactional_iterator","vers":"0.1.0","deps":[],"cksum":"11e23d3975c90a69617c1d548cec6848520269353491b8e8866db27493a4ff9e","features":{},"yanked":false}
+{"name":"transactional_iterator","vers":"0.2.0","deps":[],"cksum":"f664577eb03e4af935e3758985b0c8ea614363d14a69dc1bd4ef86fdbf82422d","features":{"default":["panic_on_drop"],"panic_on_drop":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"transactional_iterator","vers":"0.3.0","deps":[{"name":"sealed","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"690db86c3a23b8e2addcf991d628c057a928b5cffaa11bf4be695c9265306ee5","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"transactional_iterator","vers":"0.3.1","deps":[],"cksum":"046f7b869ff19b775b685da1ed4c00bf9205f96c44ee5cf05fca4e9c10cc02f3","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"transactional_iterator","vers":"0.4.0","deps":[],"cksum":"23ad3b745a699a165245c7c505e15a9ca13e373b6d8860c7cba2177d1531b29c","features":{},"yanked":false,"rust_version":"1.65.0"}

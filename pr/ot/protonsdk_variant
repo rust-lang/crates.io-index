@@ -1,0 +1,2 @@
+{"name":"protonsdk_variant","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d86238557aff597784bec4a1903620ccf832867c9cce9385cc508ee68915a5e8","features":{},"yanked":false}
+{"name":"protonsdk_variant","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"168ecc951e3e9b940df5c33ae8678d75ef260f7c61dff9fc31a0b7c607774b83","features":{},"yanked":false}

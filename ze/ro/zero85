@@ -1,0 +1,2 @@
+{"name":"zero85","vers":"0.1.5","deps":[{"name":"quickcheck","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d64c87b6337e9fae57fd989aa9903ff9499a71a50d6bec24acbfca3f4f4c32d","features":{},"yanked":false}
+{"name":"zero85","vers":"0.2.0","deps":[{"name":"quickcheck","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6687a10cb200d98c452f6745235b6a23eef23e4fdd324d0f8597d239c90c5e37","features":{},"yanked":false}

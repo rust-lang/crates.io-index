@@ -1,0 +1,1 @@
+{"name":"parity-publish-semver-checks","vers":"0.32.0-pre","deps":[{"name":"cargo-semver-checks","req":"^0.32.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e7a4f73f6699da7c76a3493f66c8a309ace6721b41cc068fdb5858f7e759e55","features":{},"yanked":false}

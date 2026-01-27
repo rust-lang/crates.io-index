@@ -1,0 +1,4 @@
+{"name":"sgx_build_helper","vers":"0.1.0","deps":[{"name":"filetime","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee53e3b297178bf5a3b6275015020875149e12424d7d2ec01a2f0cfcc475b878","features":{},"yanked":false}
+{"name":"sgx_build_helper","vers":"0.1.1","deps":[],"cksum":"fce1be5114b148d8a613052b1efaea077e84d1f83d64da021355b894c504e6d9","features":{},"yanked":false}
+{"name":"sgx_build_helper","vers":"0.1.2","deps":[],"cksum":"7d6a6765c93442afe5f820fdf159f8976b745368420c1909ef5335b93f943945","features":{},"yanked":false}
+{"name":"sgx_build_helper","vers":"0.1.3","deps":[],"cksum":"2554e308f6aacd9198eac74d99fe72dd079c83e2e6de4e1af475bfe352ddb0df","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bookkeeper-rs","vers":"0.0.1","deps":[{"name":"protobuf-codegen-pure","req":"^2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"56a74b1e0f8d01af1746614050680827556bf8df09f06e6b071ec5b65b4ad7fc","features":{},"yanked":false}
+{"name":"bookkeeper-rs","vers":"0.0.2","deps":[{"name":"protobuf-codegen-pure","req":"^2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1636ea909047d5f6561c4097463466e8dbb4d956db9cb8f95aa6d9364f0b1768","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tgopher","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df8e30ded97cdec960014ace8e1b0c56494340fa18f60a5302ea82d2395013bf","features":{},"yanked":true}
+{"name":"tgopher","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2889c834aefa2316fcfdb5232f3ff0a84d0ccb72a25640e4cda53fb7ba3cd8f2","features":{},"yanked":false}

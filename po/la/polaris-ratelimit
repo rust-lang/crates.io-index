@@ -1,0 +1,2 @@
+{"name":"polaris-ratelimit","vers":"0.1.2","deps":[{"name":"polaris-specification","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c189a7dc07250a2fde244b2bf13521be3579a90dd7123a0a68c8c0d14d8f7eee","features":{},"yanked":false}
+{"name":"polaris-ratelimit","vers":"0.1.3","deps":[{"name":"polaris-specification","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"075cf280ef027fc6d4a8cea15b8f62992ea55f8a8c2e5193cbb2f75662e900f2","features":{},"yanked":false}

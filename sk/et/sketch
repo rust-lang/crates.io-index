@@ -1,0 +1,1 @@
+{"name":"sketch","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":["events","windows"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1ca9abf3b261beb2633ed66c8f1f2f52066432f2f578b6be639af1025e99c748","features":{"default":["paste"],"paste":["crossterm/bracketed-paste"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"grp-cli","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30aba6d2f561d1b12def634b1a614e3bb57c989c5513b3cc7fb47a569bf5f193","features":{},"yanked":false}
+{"name":"grp-cli","vers":"0.2.0","deps":[{"name":"structopt","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1625452cbfa47cf8a528c5e98b646555cf38ce6135c5742b4bcc121ce2e85e8f","features":{},"yanked":false}

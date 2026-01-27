@@ -1,0 +1,3 @@
+{"name":"shield-email","vers":"0.0.3","deps":[{"name":"shield","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69bb8498094b98b9f6c2730221c420f9ba96c133efdfc8557052b6633c96c9c4","features":{},"yanked":false}
+{"name":"shield-email","vers":"0.0.4","deps":[{"name":"shield","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74660ff2f694ec883a5632dc4665e1e29b26c3ed0bb8cb86928311fc179571c1","features":{},"yanked":false}
+{"name":"shield-email","vers":"0.1.0","deps":[],"cksum":"244cca5a62605676c83c55826fcb97a391d80588a8df772a03c8dd6f16e317a9","features":{},"yanked":false}

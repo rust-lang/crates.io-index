@@ -1,0 +1,6 @@
+{"name":"waitcell","vers":"0.1.0","deps":[],"cksum":"a5ddc45694b8b7b350094d186b395112eca6ca5459308ecae6f59bf416726c10","features":{},"yanked":true}
+{"name":"waitcell","vers":"0.2.0","deps":[],"cksum":"f4e45f480468a8f62d8f547af5f417b99f081e3913053f4e66c56d251c3b00b3","features":{},"yanked":true}
+{"name":"waitcell","vers":"0.3.0","deps":[],"cksum":"62173b56d40423fe37f8fefc2f7e5301727df1b0d0a0fb5034f925ab5974f00f","features":{},"yanked":true}
+{"name":"waitcell","vers":"0.3.1","deps":[],"cksum":"f4b31107454ee84ee8be8b8b8b38b658d0bfd7c6628bd9439aee2c6fb7c9c4ae","features":{},"yanked":true}
+{"name":"waitcell","vers":"0.4.0","deps":[{"name":"scopeguard","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd1bbe3a9a8db693bd2351a096bfe8b6654b9b5cdde9efee4d0f93987a471069","features":{},"yanked":false}
+{"name":"waitcell","vers":"0.4.1","deps":[{"name":"scopeguard","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bc33afa67e4689b6860320ac0f88ee105fdcf955b1c79bda9006248494b2e7c","features":{},"yanked":false}

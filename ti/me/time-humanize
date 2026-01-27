@@ -1,0 +1,4 @@
+{"name":"time-humanize","vers":"0.1.0","deps":[],"cksum":"ea94c6dda29e385e169ac2d43eb2140a557a61435b517434a6345f712db064ba","features":{},"yanked":false}
+{"name":"time-humanize","vers":"0.1.1","deps":[],"cksum":"574b3a1a44d9a72d12ea5d12abda6f9af1bdb27baff90feb315cff7535cdab0f","features":{},"yanked":false}
+{"name":"time-humanize","vers":"0.1.2","deps":[{"name":"time","req":"^0.3.5","features":["formatting"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"094045cdf53654db5ccf58b2d77758931338923be2b83ccd62645923cf6eb98a","features":{},"yanked":false}
+{"name":"time-humanize","vers":"0.1.3","deps":[{"name":"time","req":"^0.3.5","features":["formatting"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e32d019b4f7c100bcd5494e40a27119d45b71fba2b07a4684153129279a4647","features":{},"yanked":false}

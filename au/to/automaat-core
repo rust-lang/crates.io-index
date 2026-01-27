@@ -1,0 +1,1 @@
+{"name":"automaat-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"551f035b3d4ad8a040f204b33305a3e7804e70d545d62dd0f0de3bd653c3b673","features":{},"yanked":false}

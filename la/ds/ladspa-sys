@@ -1,0 +1,1 @@
+{"name":"ladspa-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b57f4ad4d795064755fc01920634c8c66487432859d3e0192c91bc06b286e343","features":{},"yanked":false}

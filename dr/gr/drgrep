@@ -1,0 +1,3 @@
+{"name":"drgrep","vers":"0.1.0","deps":[],"cksum":"5560e67b3766686f3867e7531ebbae1856661080448283c98be4039f17369bc3","features":{},"yanked":false}
+{"name":"drgrep","vers":"0.2.2","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60637234f26796d08a35a4db7abef2aa0bfa2dab6c431872ef34d2f533af01d5","features":{},"yanked":false}
+{"name":"drgrep","vers":"0.2.3","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fff0e62430ab49da43ee3753ce85e944f4742357becb55040438c1543ad3966","features":{},"yanked":false}

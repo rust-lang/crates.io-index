@@ -1,0 +1,2 @@
+{"name":"http-status-code","vers":"0.0.1","deps":[],"cksum":"99366866bab6a828f08ca774f75ca5e0456768693a8e13d0c27f5fa3b13364d0","features":{},"yanked":false}
+{"name":"http-status-code","vers":"0.0.2","deps":[{"name":"itoa","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d436c6f00144f3076cdbd4e9dc111e4f1efbaaf22decd1a4db8e6a2523ed26bb","features":{},"yanked":false,"rust_version":"1.85"}

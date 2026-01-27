@@ -1,0 +1,4 @@
+{"name":"capillary","vers":"0.1.0","deps":[],"cksum":"034269eec3573c554217c52b17ffc26bbe450bece2f60889fede7a47409f4e64","features":{},"yanked":false}
+{"name":"capillary","vers":"0.2.0","deps":[],"cksum":"c3c5e93276f0d79cdfd015ed7de688e405912db368c2f27239f1f77d6c0b033c","features":{},"yanked":false}
+{"name":"capillary","vers":"0.3.0","deps":[],"cksum":"86e685cf768e9a66a8d9890766742a51a076c9272b6d40a8c44074f425a6364d","features":{},"yanked":false}
+{"name":"capillary","vers":"0.4.0","deps":[{"name":"petgraph","req":"^0.6.2","features":["stable_graph"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a8b14d060b09d6ebd098737701ab444372e780436b23232e26e5909dcec614b9","features":{},"yanked":false}

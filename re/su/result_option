@@ -1,0 +1,4 @@
+{"name":"result_option","vers":"0.1.0","deps":[],"cksum":"e6003a76fe20d0ede24e2626603b05760bb7213d4ba976edebfde2ab79611536","features":{},"yanked":false}
+{"name":"result_option","vers":"0.1.1","deps":[],"cksum":"095fea4fd965392df55c357f629f83d6adcf25c1fc097b84308035d304984756","features":{},"yanked":false}
+{"name":"result_option","vers":"0.2.0","deps":[],"cksum":"45e8d8e3a9a60966c9040beef4b7fd125c75b70dba9d77aba07a98f7b6bb44bf","features":{},"yanked":false}
+{"name":"result_option","vers":"0.3.0","deps":[{"name":"unwrap-infallible","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02edac65fd0f9618c84cad7d1aae617688b313eed707a1df732003ebcffcd021","features":{},"features2":{"default":["unwrap_infallible"],"unwrap_infallible":["dep:unwrap-infallible"]},"yanked":false,"v":2}

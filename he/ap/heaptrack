@@ -1,0 +1,4 @@
+{"name":"heaptrack","vers":"0.1.0","deps":[],"cksum":"2f03902f45531c341338f797e2bf48558a2491902da0604ed385b1c9e92c9ddc","features":{},"yanked":false}
+{"name":"heaptrack","vers":"0.2.0","deps":[],"cksum":"944d152114f93901c8badc501e49c57c49b68c4f7578a104589a99ee82b806ed","features":{},"yanked":false}
+{"name":"heaptrack","vers":"0.3.0","deps":[],"cksum":"8a5f3c2341045ae29cc6d1004caf4c043addd7b658f9d11464fd6914dff6609b","features":{},"yanked":false}
+{"name":"heaptrack","vers":"0.4.0","deps":[{"name":"ccl","req":"^4.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ce003b38d396220612f9021eac9e2154629a499ba4982cab7744023b900b59","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"nff","vers":"0.1.0","deps":[],"cksum":"4d7d29d5626913094fa6bcffbc6a16cef1e641549fd45d59958009750e2b0dd2","features":{},"yanked":false}
+{"name":"nff","vers":"0.1.1","deps":[],"cksum":"6db6dda2ec54ce9d5fbe40e2909a02b4fab7c321535c28daa7d45fb3f5fe1f3a","features":{},"yanked":false}
+{"name":"nff","vers":"0.1.2","deps":[{"name":"hashbrown","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"253abc73412551a730dacf18834ed11ce8ac1c02589c6b7414c893fbda058245","features":{},"yanked":false}

@@ -1,0 +1,8 @@
+{"name":"colol","vers":"0.1.0","deps":[],"cksum":"647a402cda01dba7a68978d71e7f07239d995c2b104302f42408db692b19ed7e","features":{},"yanked":false}
+{"name":"colol","vers":"0.2.0","deps":[],"cksum":"ff8b11acc50990dc9c71914ae7f326481805dfe7b40465d8c92d36a3e16e6af2","features":{},"yanked":false}
+{"name":"colol","vers":"0.2.1","deps":[],"cksum":"70fcc26a0ebaa2fe807cf7e15c4128eb3e4755293b534daefa470ea380db2c6b","features":{},"yanked":false}
+{"name":"colol","vers":"0.2.2","deps":[],"cksum":"2268735b160a184476b53812eeaba76a6a32a0236f4c57094d1f58f9d03e176d","features":{},"yanked":false}
+{"name":"colol","vers":"0.3.0","deps":[],"cksum":"e1af51c56d0c30fe7e1da63fed481cabcbd6d0e932ff1b5a19fbfe2b00194704","features":{"colol":[],"default":["colol"]},"yanked":false}
+{"name":"colol","vers":"0.3.1","deps":[],"cksum":"a77321e83152e0d86e3ff9a8c278467d87a53de850b8d145dcdfc54a3c97b5ef","features":{"colol":[],"default":["colol"]},"yanked":false}
+{"name":"colol","vers":"0.3.2","deps":[{"name":"winapi","req":"^0.3.4","features":["errhandlingapi","consoleapi","processenv"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"360767127f011a6b595f24e59ee4d8d1d3c2689a44fa81bc87496356eca275f4","features":{"colol":[],"default":["colol"]},"yanked":false}
+{"name":"colol","vers":"0.4.0","deps":[{"name":"winapi","req":"^0.3.9","features":["errhandlingapi","consoleapi","processenv"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"1c0a8462810280180600442c80c1ac6e237f45b6a6e2f009f770842b99b43f2f","features":{"colol":[],"default":["colol"]},"yanked":false}

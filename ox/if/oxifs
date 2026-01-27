@@ -1,0 +1,1 @@
+{"name":"oxifs","vers":"0.1.0","deps":[{"name":"tar","req":"^0.4.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"792609ce5126ce20295e83d7d4129d338b9d8f896cbc774906b90c274b6e1235","features":{},"yanked":false}

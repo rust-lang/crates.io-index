@@ -1,0 +1,2 @@
+{"name":"irv","vers":"0.0.1","deps":[],"cksum":"ea6b29e728d9431a94253b851d37228628e93472432bfdad2e0f959111349b19","features":{},"yanked":false}
+{"name":"irv","vers":"0.0.2","deps":[{"name":"irv-loader","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"irv-traits","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccae7426ed951b1cfa64646f5f492ca062bacbc2b9168f21eb3d99ad91802979","features":{},"yanked":false}

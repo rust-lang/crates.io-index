@@ -1,0 +1,2 @@
+{"name":"nvvm","vers":"0.1.0","deps":[{"name":"find_cuda_helper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"50dc387ec60d3ee609715fdc82e69f4527a29d00b52d2c77adb0249493332274","features":{},"yanked":false}
+{"name":"nvvm","vers":"0.1.1","deps":[{"name":"find_cuda_helper","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2863e4a5b7a092579346ff8c22413796467703dc4c1d92495c1c27370f371088","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"twobit","vers":"0.1.0","deps":[],"cksum":"8bb3aa79fcaa866596107abce58ea5ff2da19b84f71f1aa0b6ec33a77348dc01","features":{},"yanked":false}
+{"name":"twobit","vers":"0.1.1","deps":[],"cksum":"dd4419cdaac51d77e95ac5685af882b098c530dcce95e052759204df3702373a","features":{},"yanked":false}
+{"name":"twobit","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":"cfg(bench)","kind":"dev"}],"cksum":"c75547642f27334b94b27d355bc06cdba239c9b8a46f356a26a74f666f253cdd","features":{},"yanked":false}
+{"name":"twobit","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":"cfg(bench)","kind":"dev"}],"cksum":"ccd5793b6a7a2c3cace1e9826ec03449a632b228c5e2d1e63a2d77ab663d9006","features":{},"yanked":false}

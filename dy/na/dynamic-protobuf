@@ -1,0 +1,2 @@
+{"name":"dynamic-protobuf","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42dd4310a13acd6a9cefa2c7633bd286dfe626fb48a1f34087d42fa59d38d421","features":{},"yanked":false}
+{"name":"dynamic-protobuf","vers":"0.1.1","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d62b52c2af9f6e98573be5555ceee92eebdbbafe61f5f3fba7585dbdcdc5242f","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"r7rs-parser","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93e2d6c2d7a3ac89f36c208e6d6944535c89fa4555e381a5e68d40e69baf6860","features":{"default":["fixnum32"],"fixnum32":[],"fixnum64":[]},"yanked":false}

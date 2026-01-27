@@ -1,0 +1,1 @@
+{"name":"mwps","vers":"0.0.0","deps":[{"name":"pyo3","req":"^0.17.2","features":["extension-module","multiple-pymethods","abi3-py37"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e36e80b2a2eca25e6f9851bcfd3c45472a9c5c509213dbd14887f0dc293950d0","features":{"default":[],"python_binding":["pyo3"]},"yanked":false}

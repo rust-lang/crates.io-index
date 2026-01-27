@@ -1,0 +1,1 @@
+{"name":"winpty-rs-cppwinrt","vers":"0.3.2","deps":[{"name":"winpty-rs-windows-link","req":"^0.1.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f8a61c78f360a4c9f312b3fd5b716da5d28c9a331e5f3ca49ef3e0e2e090322c","features":{},"yanked":false,"rust_version":"1.74"}

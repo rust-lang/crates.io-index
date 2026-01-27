@@ -1,0 +1,1 @@
+{"name":"pl","vers":"0.0.0","deps":[{"name":"ext","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f17eae0492b3626a15cf5b280ce8b584d1e76952ebc68d80a06834680eb8c8c","features":{},"yanked":false}

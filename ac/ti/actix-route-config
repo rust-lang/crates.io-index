@@ -1,0 +1,2 @@
+{"name":"actix-route-config","vers":"0.1.0","deps":[{"name":"actix-web","req":"^4.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"04e388ccc77028a3812eb6c079dd4c616a5a820278de1477ff5590cf692cea8c","features":{},"yanked":false}
+{"name":"actix-route-config","vers":"0.1.1","deps":[{"name":"actix-web","req":"^4.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c9db96a81c3c67543d48bba65af24c7b643799d0218218edcd5190e4b2f16815","features":{},"yanked":false}

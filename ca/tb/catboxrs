@@ -1,0 +1,1 @@
+{"name":"catboxrs","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11","features":["json","multipart","blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f3e9099c129836360465fdbac3bb69feff7c259150be5e7f98011552e927898","features":{},"yanked":false}

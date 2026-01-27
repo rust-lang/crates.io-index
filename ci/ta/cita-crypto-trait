@@ -1,0 +1,3 @@
+{"name":"cita-crypto-trait","vers":"0.1.0","deps":[],"cksum":"52f26b36fa0e9cd6f3cba9461596f3f8f4a9ebc12873dcf912ce94cc960a4e2c","features":{},"yanked":false}
+{"name":"cita-crypto-trait","vers":"0.2.0","deps":[{"name":"cita-types","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af079ca25c69f4772606629fdf1b265743f10411308797a69d35e6a27e206c37","features":{},"yanked":true}
+{"name":"cita-crypto-trait","vers":"0.2.1","deps":[{"name":"cita-types","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50f6dfe841c19994365fb69df0836f3bc22bf5c3bf3920a8963f5f8afc99c64f","features":{},"yanked":false}

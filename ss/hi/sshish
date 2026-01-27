@@ -1,0 +1,2 @@
+{"name":"sshish","vers":"0.1.0","deps":[{"name":"ssh2","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64e1ee53c6d5fad4125a5aec2006c51b2713af3fbba8b5ae73ea094c59498869","features":{},"yanked":false}
+{"name":"sshish","vers":"0.1.1","deps":[{"name":"shell-escape","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47cb7a759a4596d259849125fd9d58aceaea76fa521fed2540b06967b82827f9","features":{},"yanked":false}

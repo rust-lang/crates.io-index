@@ -1,0 +1,1 @@
+{"name":"xylosip","vers":"0.1.0","deps":[{"name":"atoi","req":"^0.3.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"nom","req":"^5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ccb42b5da39bdd3c0460dd67df21fb7cffc6c058a4f534b1aa1d1330eacaddbb","features":{},"yanked":false}

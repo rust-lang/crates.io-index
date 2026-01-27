@@ -1,0 +1,2 @@
+{"name":"newport_os","vers":"0.0.1","deps":[],"cksum":"9b806d433b7200fa5f7eacbc8cb3c97686794486ac388b69868bee4a4fff8f5d","features":{},"yanked":false}
+{"name":"newport_os","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"newport_math","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3a0e725f174ac7a0eff80746de37f5b7a0ea72c76d00c8619dfedee67b5b412","features":{},"yanked":false}

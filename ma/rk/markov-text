@@ -1,0 +1,2 @@
+{"name":"markov-text","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd1a1a67775478ffdf1a2a06c2e4752c157894945f25c195d6d0907ce8ce2780","features":{},"yanked":false}
+{"name":"markov-text","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23dc94af4403d38eb96ef91595eaea079070071ceb9ec8c0d03b685cc6649614","features":{},"yanked":false}

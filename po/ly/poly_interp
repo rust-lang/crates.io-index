@@ -1,0 +1,2 @@
+{"name":"poly_interp","vers":"1.0.0-beta.0","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52cd535176a0848d3cd8e6c61e188368a858369e3d06d95c91b6a3e92023493a","features":{},"yanked":false}
+{"name":"poly_interp","vers":"1.0.0-beta.1","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"edd32793c196f0ef134096544054566b2a453f1535316f6b11a940a93598008e","features":{"default":["std"],"std":[]},"yanked":false}

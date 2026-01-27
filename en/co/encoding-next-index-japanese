@@ -1,0 +1,1 @@
+{"name":"encoding-next-index-japanese","vers":"1.20180106.0","deps":[{"name":"encoding-next_index_tests","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cf1797243d6c8f00a269ec6abc8b13a3b74c30d76f2834a6e801a814204f257","features":{"no-optimized-legacy-encoding":[]},"yanked":false}

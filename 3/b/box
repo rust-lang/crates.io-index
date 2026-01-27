@@ -1,0 +1,2 @@
+{"name":"box","vers":"0.1.0","deps":[],"cksum":"d51299b890b1a1a64a407626804cb995ca13542279bbdf8f282ab8a6943c6d64","features":{},"yanked":false}
+{"name":"box","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fc9b84aa7e02a63e3e33acd48b809cc515c9d22038339124103fe50beaae669","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"frame_counter","vers":"0.1.0","deps":[],"cksum":"8b6d960119ad521d784f45e8ddb0fcc810f47678023fcde953aa9c7a244195d4","features":{},"yanked":false}
+{"name":"frame_counter","vers":"0.1.1","deps":[],"cksum":"0008d2afbb0a258a3ea52978317c7db4e28f81b8f85fd0c3e7307e37060a7600","features":{},"yanked":false}
+{"name":"frame_counter","vers":"0.1.2","deps":[],"cksum":"978b57c497630aff289900e7feb9f9b7b351504ede9a59ebfdd39b7e8ad7e840","features":{},"yanked":false}
+{"name":"frame_counter","vers":"0.1.3","deps":[{"name":"minstant","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"quanta","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b4d87ca6cea9bc8bcbec98d3f6e1cfd5ab39c57d389668d82a2dc4e7275c9c","features":{},"features2":{"default":["quanta","minstant"],"minstant":["dep:minstant"],"quanta":["dep:quanta"]},"yanked":false,"v":2}

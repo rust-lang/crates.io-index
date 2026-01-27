@@ -1,0 +1,3 @@
+{"name":"depcycle-x","vers":"0.1.0","deps":[],"cksum":"fa93bb37bd6a6ca61447e6e9654de13a7891d5fa80c57ce064cde7b092c8ef02","features":{},"yanked":false}
+{"name":"depcycle-x","vers":"1.0.0","deps":[],"cksum":"c533bb643e37f48a6e3a4c3cc4cb12b6a0e96a0d5af17111888551d9c284ba45","features":{},"yanked":false}
+{"name":"depcycle-x","vers":"1.0.1","deps":[{"name":"depcycle-y","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ce6e080c5489f4ad38016bc2f101a78c5da114e24717228671c6d238c0acca5","features":{"y":["depcycle-y"]},"yanked":false}

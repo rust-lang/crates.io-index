@@ -1,0 +1,2 @@
+{"name":"oxid_sip","vers":"0.1.0","deps":[{"name":"nom","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5679266792fc0dc9d5d6be2243d8e0a45d99d6c49e06a3c1beb101f7238a536f","features":{},"yanked":false}
+{"name":"oxid_sip","vers":"0.1.1","deps":[{"name":"nom","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3dc9d05ec52f01b0ca790df9bc507abca5fc89152e0f3a18db380596a1a4ca3","features":{},"yanked":false}

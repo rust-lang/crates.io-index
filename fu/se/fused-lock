@@ -1,0 +1,2 @@
+{"name":"fused-lock","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488db85790b9ea619abde2420ab2808d92e6ed7080c28ff909d1194b13a3a320","features":{},"yanked":false}
+{"name":"fused-lock","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb44c3a977300f858563dbe56f2e4f4fc505183a45486fe3089e00957b185a2d","features":{},"yanked":false}

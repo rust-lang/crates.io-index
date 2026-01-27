@@ -1,0 +1,1 @@
+{"name":"solana-voting","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"908a43110376742bc999076e4de054895fd8b8462277cf0d991374fd7166da8f","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

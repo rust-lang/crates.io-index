@@ -1,0 +1,1 @@
+{"name":"aeiou","vers":"0.1.0","deps":[{"name":"aeiou-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6937fa9743d23bdf6f76c5808b7b261ab354712787c2739fa03588efb8f23c80","features":{"derive":["aeiou-macros"]},"yanked":false}

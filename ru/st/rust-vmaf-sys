@@ -1,0 +1,2 @@
+{"name":"rust-vmaf-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2fab2c5838740eef4afb34dc9a75cf518c3a430387a58be36b40942c85d6c2a5","features":{},"yanked":false}
+{"name":"rust-vmaf-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7b5b7b10bf505ba750912e69899918910c70685704c1fc220f4f37de64df286a","features":{},"yanked":false}

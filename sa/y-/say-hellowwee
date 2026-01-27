@@ -1,0 +1,3 @@
+{"name":"say-hellowwee","vers":"0.1.0","deps":[],"cksum":"61f41fa4c14fd8dbb53aa4ada42d8638277dc8b034fa17e64c89f38150a754da","features":{},"yanked":false}
+{"name":"say-hellowwee","vers":"0.2.0","deps":[],"cksum":"6512199f6e07456a7d0b2da0204036d5ea4d1156fa38332f537522bc5bea4390","features":{},"yanked":false}
+{"name":"say-hellowwee","vers":"0.3.0","deps":[],"cksum":"5593014ba169d2d7a2668c7732169ac29f6401df38de67d8ff018d327e220244","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

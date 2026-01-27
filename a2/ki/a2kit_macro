@@ -1,0 +1,2 @@
+{"name":"a2kit_macro","vers":"0.1.0","deps":[{"name":"a2kit_macro_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e135a7bfb91d77b7528367f9ecb372c2a1adf5fa020a8aaf7967768b91dcae29","features":{},"yanked":false}
+{"name":"a2kit_macro","vers":"1.0.0","deps":[{"name":"a2kit_macro_derive","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eca2719902b156e2987e5fc94533e4ec4a849fe0b7bba7f8d3a4743f6c780bb7","features":{},"yanked":false}

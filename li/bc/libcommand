@@ -1,0 +1,1 @@
+{"name":"libcommand","vers":"0.1.0","deps":[{"name":"phf","req":"^0.13.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f835d0a93acdf294e307943a3b5001e08e632888a030575708c7553ce542b19","features":{},"yanked":false}

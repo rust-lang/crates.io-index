@@ -1,0 +1,5 @@
+{"name":"iowrap","vers":"0.1.0","deps":[],"cksum":"daf0a60b1245d0e6721bfd0404f82633d6c48cf45955b064cba49dfab15e8bd1","features":{},"yanked":false}
+{"name":"iowrap","vers":"0.1.1","deps":[],"cksum":"d30af75b0b6c1dc7b4a93b53e64563c9d70abf418ea681f44064aa798104b0e8","features":{},"yanked":false}
+{"name":"iowrap","vers":"0.1.2","deps":[],"cksum":"a6611682dffaf11240636d037de58c9a42a61e60a2a3c8d5f5ec2f6194dc5236","features":{},"yanked":false}
+{"name":"iowrap","vers":"0.2.0","deps":[],"cksum":"aae06e081563a8d3c978679d8fea1c03456b324945138dfd26ae6667d02ace62","features":{},"yanked":false}
+{"name":"iowrap","vers":"0.2.1","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d778bd9a4fa138d91f62017e3ac5ff905d2b829a30d3b1be473cb57d32ad15a","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"sdshout","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"eyre","req":"^0.6.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e84795ab4daebe124859348c9854a7f9ea2ff040b01569050234b62e5f2ab1e","features":{},"yanked":false}

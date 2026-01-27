@@ -1,0 +1,2 @@
+{"name":"concurrent-kv","vers":"0.2.0","deps":[{"name":"crossbeam","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6920d3b3b1860c201a086dc05136ca1eb439171cca17a771f302c12822f0b44","features":{},"yanked":true}
+{"name":"concurrent-kv","vers":"0.2.1","deps":[{"name":"crossbeam","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7990ed1edbab3b697df7dc2e0a9387f4edbbf6f9c0bcf254898bd43de484b078","features":{},"yanked":true}

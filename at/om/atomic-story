@@ -1,0 +1,2 @@
+{"name":"atomic-story","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c13f403d607f6ceb10ffa4581701028c94910ca516d9998441f724b268126a2b","features":{},"yanked":false}
+{"name":"atomic-story","vers":"0.1.1","deps":[{"name":"loom","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58fdc83600e89c863946b958c2c863b17ce20b2cd238606789550ff9e92e9343","features":{},"yanked":false}

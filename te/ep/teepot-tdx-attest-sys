@@ -1,0 +1,1 @@
+{"name":"teepot-tdx-attest-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"53cf70787c4f3e542f59ac9a7c6bf26373a08031315b6fb45be1d6b84c291251","features":{},"yanked":false,"links":"tdx_attest"}

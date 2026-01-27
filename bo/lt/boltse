@@ -1,0 +1,7 @@
+{"name":"boltse","vers":"0.1.0","deps":[],"cksum":"c87cb9d4db209b80b5aa6f45a7064c76eac5180ad9f0e999b95eabd4a6f1dc28","features":{},"yanked":false,"pubtime":"2024-08-23T09:49:40Z"}
+{"name":"boltse","vers":"0.1.1","deps":[],"cksum":"fadcd48de81d67027ef22ee591fe92c31fd02d9df21e8993346af1419333df25","features":{},"yanked":false,"pubtime":"2024-09-03T12:46:29Z"}
+{"name":"boltse","vers":"0.1.2","deps":[],"cksum":"c98c15d2126e07e6de1f74286b50716e26c6b3c392214e7c1cb4beed64d74aa7","features":{},"yanked":false,"pubtime":"2024-09-06T10:09:20Z"}
+{"name":"boltse","vers":"0.1.3","deps":[],"cksum":"361b37bf901a4aaefa63d75d1bbfb826d7b124876cd0fde36d9889e8cfff8c87","features":{},"yanked":false,"pubtime":"2025-03-28T12:29:24Z"}
+{"name":"boltse","vers":"0.1.4","deps":[],"cksum":"58ae1781287ecf311addc262204a398bb513b75be6128849ea1af68a2814acc3","features":{},"yanked":false,"pubtime":"2025-04-25T11:52:08Z"}
+{"name":"boltse","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.48","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9fbc5ca5a71e3077ac572a7093657caeff066e43c2ab422bb8da8b1d06e9e78","features":{},"yanked":false,"pubtime":"2025-10-03T07:33:47Z"}
+{"name":"boltse","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.54","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8777dc7584695c850844882413614509c7d104d3035c86fc325d27fd63bc0ce5","features":{},"yanked":false,"pubtime":"2026-01-27T09:13:49Z"}

@@ -1,0 +1,16 @@
+{"name":"vgzzq","vers":"0.20241028.0","deps":[],"cksum":"48fa8dff4d33489943bc23ec08a2c9814ccd69fb63d09ea42a6723018e79960b","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241028.1","deps":[],"cksum":"35f1e2823abb1fac9c554916ffaf9c939657cbe37f0e4ea72654b54062d7d080","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241028.2","deps":[],"cksum":"29f9a09b70138d7aea9d0a8165fae0a3b517e45ad8f2ed9dd85094d40b0f1e0e","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241028.3","deps":[],"cksum":"3aa902277e164eddfdcbd545a464c591622d6a52a9660722ccaa4c1c0179dcc6","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241028.4","deps":[],"cksum":"88b25013619d0b9f7a400589bd542d6bb441c7cda88fac6a582a859fdd054a64","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241028.5","deps":[],"cksum":"01e2b515a5528506cd0e04212f79f492e003004d0f52724a1c6180a0e2e906b4","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241029.0","deps":[],"cksum":"4865c8189e902f8e2cbba76d5db00e8dc2dbead94d0bfbcb3a7c3ca15c4f5d56","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241029.1","deps":[],"cksum":"3dc0d8e1c24e9b5452d55b8ef57cd83a593a8562ace217786e9285d27d2cdcd3","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241029.2","deps":[],"cksum":"7252d9c631aca24da65ff7ef5d58d9d04a839b77b1fe9b6e25cb05f3baddff72","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.0","deps":[],"cksum":"edc867f2ba38183e0d276056d6728fa0bc824a1bf0ca92429592b26456fd298b","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.1","deps":[],"cksum":"56fa62cd2dcc0ea06880c4aae2657dd1fdf8bc6f49534f1ead62164c8c840d54","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.2","deps":[],"cksum":"00d5a52afebe3eefd60d9e721283e81db70618edbd8068217de0e0002d73ba2a","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.3","deps":[],"cksum":"975ba00fed2fceea80c2ca652dcecff13a69399d4d4aacabf762b01c09f6b8c9","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.4","deps":[],"cksum":"cc3ca1042080545f19bf6c60dab5b6dc8c5315e4868b4d09eb8291919f65231e","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.5","deps":[],"cksum":"2416e1594a946d3af88d762afe21a4f2cf24af5643c61a42c2467a3dba8c05e2","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.6","deps":[{"name":"cc","req":"^1.0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"62bbb6d72c6aab445b123a78f0f1201fb839c4c03afd708355cca33502175bef","features":{},"yanked":false,"rust_version":"1.59"}

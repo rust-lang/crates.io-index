@@ -1,0 +1,1 @@
+{"name":"turngate","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.10.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^1.2.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3890e6b44c8246213426fa4aed922c8efbea33cfccd2d851404c93c2492e7150","features":{},"yanked":false}

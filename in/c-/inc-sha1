@@ -1,0 +1,1 @@
+{"name":"inc-sha1","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"sha","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ddd9a6dacd3299dabc9709ff9a0a51191b78b3cc65420d57ee218c61939428c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rulet","vers":"1.0.0","deps":[{"name":"figfont","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aba2125dfc187261e7b154c102a4b9979681166bddb8e2f55fc1fddc334b743b","features":{"zip":["figfont/zip"]},"yanked":false}
+{"name":"rulet","vers":"2.0.0","deps":[{"name":"figfont","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e32e48ddbda3ff962e39741b2497729abf0458bb10f8b8f0cbf96b2ba5c086c2","features":{"zip":["figfont/zip"]},"yanked":false}

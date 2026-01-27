@@ -1,0 +1,2 @@
+{"name":"cbitset","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e3a9afa72f63942dd7e7f01c67b863ce9df35c523ae10e3dddd3eec8f1e07eac","features":{},"yanked":false}
+{"name":"cbitset","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"29b6ad25ae296159fb0da12b970b2fe179b234584d7cd294c891e2bbb284466b","features":{},"yanked":false}

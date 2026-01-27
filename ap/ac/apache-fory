@@ -1,0 +1,2 @@
+{"name":"apache-fory","vers":"0.1.0","deps":[],"cksum":"804765cf26656c09cba4155543683d270c060b7479847136aa431324187639b5","features":{},"yanked":false}
+{"name":"apache-fory","vers":"0.13.0","deps":[{"name":"fory","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab11e71a75910f2ecc6653e8340911dd09b0e43f734ab852081b83ebeda89276","features":{},"yanked":false}

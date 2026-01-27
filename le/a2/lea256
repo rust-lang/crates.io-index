@@ -1,0 +1,5 @@
+{"name":"lea256","vers":"0.1.0","deps":[],"cksum":"a975f28eec571fa02f12a1bd8f6e461f412b0f669070c6e7fc00ef2e1c9a0def","features":{},"yanked":true}
+{"name":"lea256","vers":"0.1.1","deps":[],"cksum":"070e2795ca68e4950984b277e29c8d862756cf720cdca96dee5d59e2d623a9d5","features":{},"yanked":true}
+{"name":"lea256","vers":"0.1.2","deps":[],"cksum":"16000dcffdbeddecd666e46d639e90c28efb6f02e4e602d6c112ba93d1376541","features":{},"yanked":true}
+{"name":"lea256","vers":"0.2.0","deps":[{"name":"block-cipher-trait","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"343976c737e3414768b05b672e78abc42f4dc4fcab87311a087f660272060dc6","features":{},"yanked":true}
+{"name":"lea256","vers":"0.2.1","deps":[{"name":"block-cipher-trait","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d29b39e26dc79f2552262acfe3ce9c4363b162658a1acb7fc609e9d99380ac94","features":{},"yanked":true}

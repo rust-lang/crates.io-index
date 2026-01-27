@@ -1,0 +1,2 @@
+{"name":"rlp-iter","vers":"0.2.0","deps":[{"name":"bit-vec","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de345a4b8373aae6ad46f4dcfdb86040f6090df2da66f3557faafe810d5bc7f","features":{},"yanked":false}
+{"name":"rlp-iter","vers":"0.2.1","deps":[{"name":"bit-vec","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86cbc7d8f6e30c8ea8856bde62b4c9d07032819bb81726d64772c295e8d6e129","features":{},"yanked":false}

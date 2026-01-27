@@ -1,0 +1,1 @@
+{"name":"cic","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"csv","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b62ff4108b21d5d40195e2911b676179d9a7f1411a15cf8bbc0ff01126589de0","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rcurs","vers":"0.1.0","deps":[],"cksum":"0ca3a5aa97cb83f70ab2f44ee1cf89dba12fc46bcfa6146dda968fcac53b6908","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rcurs","vers":"0.2.0","deps":[{"name":"portable-atomic","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1cc5e75fdb3de696cba6eb5c0da253671473be2d2f2f87f865864ba751dd69d9","features":{"default":["std"],"std":[]},"yanked":false}

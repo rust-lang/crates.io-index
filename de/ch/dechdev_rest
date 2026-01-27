@@ -1,0 +1,1 @@
+{"name":"dechdev_rest","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12.28","features":["json","blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"089038a7ade077ea0646bca73c12d5b0b8fa82a2b90e4460acf715be533caab5","features":{},"yanked":false}

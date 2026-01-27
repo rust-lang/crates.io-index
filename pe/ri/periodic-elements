@@ -1,0 +1,1 @@
+{"name":"periodic-elements","vers":"1.0.0","deps":[{"name":"rgb","req":"^0.8.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37e1f61cf1966c6eca3d53a1a5ae3d44574e4ccabc9687acb8aecdc48024631d","features":{"default":["std"],"std":[]},"yanked":false}

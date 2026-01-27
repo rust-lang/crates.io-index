@@ -1,0 +1,2 @@
+{"name":"triamond","vers":"0.0.1","deps":[{"name":"amethyst","req":"^0.15.1","features":["vulkan"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10ac796473a01b5d4547007d2327204bdfa4cbaeaedeb7906c5269cf30898791","features":{},"yanked":true}
+{"name":"triamond","vers":"0.0.2-discontinued","deps":[],"cksum":"71f86d49ac87addc552c561d5fcc263a92b6e21454c10c50c69bbcaf2ac23d0e","features":{},"yanked":false}

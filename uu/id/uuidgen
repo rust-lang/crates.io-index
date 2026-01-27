@@ -1,0 +1,1 @@
+{"name":"uuidgen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":["std","std_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a16661d02a861f6da3619efda7e5f2f34eba56f36d81dc714edca29cf70511fd","features":{},"yanked":false}

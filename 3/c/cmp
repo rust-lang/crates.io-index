@@ -1,0 +1,3 @@
+{"name":"cmp","vers":"0.1.0","deps":[],"cksum":"c4292b48ad12f62c0ecb53d47c5542fb7a938171f536458fc52ceb97726a54cd","features":{},"yanked":false}
+{"name":"cmp","vers":"0.1.1","deps":[],"cksum":"0e133c37e2a7f27ebf7ea18e2bc56cc2bee07014920f2f1cd8f097ca9fcf4560","features":{},"yanked":false}
+{"name":"cmp","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"587e17a70c5890bc44333ab0c0d960cb2b1d952d62bfa7b7a4e21519b5b447d3","features":{"default":[]},"features2":{"serde":["dep:serde","dep:serde_json"]},"yanked":false,"v":2}

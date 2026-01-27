@@ -1,0 +1,1 @@
+{"name":"rfc3339","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90ab76bc97b79ad330510b35978f7ba2f936fa9e6b3a04bf3d8a4978c8d2b689","features":{"default":["std"],"std":[]},"yanked":false}

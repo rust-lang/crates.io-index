@@ -1,0 +1,1 @@
+{"name":"scribec","vers":"0.1.0","deps":[{"name":"argh","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thrift","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0badcc567574343b047d020a9b70326e661762fac0538e07dba66dbd6395524","features":{},"yanked":false}

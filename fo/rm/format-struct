@@ -1,0 +1,11 @@
+{"name":"format-struct","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"943b3b431606839a5601954d8732a5369c4f97610a870ffe0a7597028bf670ec","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37b4a1f3c40abe245fc679ed72d17f6ba812210767d642aa4af1daac2a7363f5","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.2.0","deps":[],"cksum":"64acb222b8c219b069010aa7db7b583c98a376dfaff1f9b3ac40feaa6b5325d1","features":{"std":[]},"yanked":true,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.2.1","deps":[],"cksum":"0f3680b1440d15a42daeb446939098f2809494a4a6c64e94f5c54453b9e43c96","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.2.2","deps":[],"cksum":"693dc139cc4cc25c093019778f84b4e372a197edbf03c7f5d8b3ed1d300a41f7","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.2.3","deps":[],"cksum":"fc3ba837e208c663fab75903a956394e526d7701c1d0e7e9359baf40ff26988d","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.3.0","deps":[],"cksum":"d59b425b5751b465eeed1c341e838453f970406d6b6e13a989b276bd77f12faa","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.3.1","deps":[],"cksum":"42b14be80bb2e759a64da2ba3885f8e6280afc606baec46df4a0f6e2a4ee809d","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.4.0","deps":[],"cksum":"0151233848fe782102b43f52fbfef7a778ac476aceea2cd876ed755e8f9365db","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.5.0","deps":[],"cksum":"1fd5fbc8b25090b66663c407274dba20ec72cea419fa831c9f16329014881dbe","features":{"std":[]},"yanked":false,"rust_version":"1.65"}
+{"name":"format-struct","vers":"0.6.0","deps":[],"cksum":"4e1969467a25de9bddd4fb64258a113f5c8ac6ab338becb10c88295d56a30900","features":{"std":[]},"yanked":false,"rust_version":"1.65"}

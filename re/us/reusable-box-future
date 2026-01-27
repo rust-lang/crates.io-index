@@ -1,0 +1,2 @@
+{"name":"reusable-box-future","vers":"0.1.0","deps":[],"cksum":"0c4110512460de450a7ddfbfed20b06c27075d4c3b93d71f47baabd1bfd60bf1","features":{},"yanked":false}
+{"name":"reusable-box-future","vers":"0.2.0","deps":[{"name":"futures-executor","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e0e61cd21fbddd85fbd9367b775660a01d388c08a61c6d2824af480b0309bb9","features":{},"yanked":false}

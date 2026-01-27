@@ -1,0 +1,1 @@
+{"name":"transpose-cli","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.35","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c624d0bb7b90d9b9798b65ca7ce4a7ffa9966b4197e4dbc760a5b3b1fe01c6b9","features":{},"yanked":false}

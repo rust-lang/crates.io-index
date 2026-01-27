@@ -1,0 +1,2 @@
+{"name":"evcxr_runtime","vers":"1.0.0","deps":[],"cksum":"7f1ba505b203623076d57b646dbcced2ed490fe13f78d630e23be2eca41b1c8b","features":{},"yanked":false}
+{"name":"evcxr_runtime","vers":"1.1.0","deps":[{"name":"base64","req":"^0.13.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d67d629aea3cb2555b447b4882c243dcd4697daa3692ed3eda70ca15a36b73f4","features":{"bytes":["base64"]},"yanked":false}

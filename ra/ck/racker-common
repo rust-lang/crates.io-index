@@ -1,0 +1,1 @@
+{"name":"racker-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"883786261972596a935c8bad5022aa771a9220202da11713ae34ccfd53736a75","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"bsky-rs-models","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.159","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"496dd86b8191baa24ea05da439bf4bfbb2aa3bcfb0746dc22e2858fd664b72ae","features":{},"yanked":false}

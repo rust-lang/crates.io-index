@@ -1,0 +1,1 @@
+{"name":"logscreen","vers":"0.0.0-development","deps":[{"name":"color-eyre","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08f86197053a7024f1d89759926f4794dad44f9fe74dbbc3f5e77ac04d28612c","features":{"coverage":[]},"yanked":false,"rust_version":"1.76.0"}

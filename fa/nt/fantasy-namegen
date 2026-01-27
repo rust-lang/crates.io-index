@@ -1,0 +1,2 @@
+{"name":"fantasy-namegen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3af51d7e82ed1e88ce8d34cce4c2bd1107223d991348e4638255a8991e3e2417","features":{},"yanked":false}
+{"name":"fantasy-namegen","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fd964c53912277e8a24d02f64453d912bf6487aeed3fb990914b96477932202","features":{},"yanked":false}

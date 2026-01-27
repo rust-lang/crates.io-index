@@ -1,0 +1,1 @@
+{"name":"event-bus","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80005818abf5c14142414adc8fab8b536f7c0c86a9799543544ad939f5cc1250","features":{},"yanked":false}

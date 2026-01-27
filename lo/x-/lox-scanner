@@ -1,0 +1,3 @@
+{"name":"lox-scanner","vers":"0.0.1","deps":[],"cksum":"0f6d7a19ffdfe5e7f3338245f96233d2d6e8977e1c8adb9cf6f507126db02dfb","features":{},"yanked":false}
+{"name":"lox-scanner","vers":"0.0.2","deps":[],"cksum":"e231f58a07a3598945427f3023de84ab2a07ed1eea6e006b00927dbdca0f2290","features":{},"yanked":false}
+{"name":"lox-scanner","vers":"0.1.0","deps":[{"name":"peekmore","req":"~1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"023869e1f72a3997cd68bfa77e6088debc4384f809f7a4daedfb59e15dbf4585","features":{},"yanked":false}

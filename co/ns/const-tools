@@ -1,0 +1,2 @@
+{"name":"const-tools","vers":"0.1.0","deps":[{"name":"trybuild","req":"^1.0.111","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6dba360af9dc2fb594b2efe9e91e63e2e392e756e02eb523df64148cb6bc1fe","features":{},"yanked":false}
+{"name":"const-tools","vers":"0.1.1","deps":[{"name":"trybuild","req":"^1.0.111","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4d2e4dee00b51cea1c549f7e156391e99d1b7080a8d69fb747570c99b96edde9","features":{},"yanked":false}

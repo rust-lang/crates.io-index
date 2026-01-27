@@ -1,0 +1,1 @@
+{"name":"relayne","vers":"0.0.0-alpha.1","deps":[{"name":"relayne-core","req":"^0.0.0-alpha","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"977365007c0e6f806d74f84e1342749e30a5ad1938e8c437e7e8b3225267fdba","features":{},"features2":{"core":["dep:relayne-core"],"default":["core"]},"yanked":false,"v":2}

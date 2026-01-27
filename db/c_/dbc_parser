@@ -1,0 +1,1 @@
+{"name":"dbc_parser","vers":"0.1.0","deps":[{"name":"prost","req":"^0.11.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4db852aed88f7b4151a462cd0b6b7238690c5321e180a4e829997959a08a45d4","features":{},"yanked":false,"rust_version":"1.70.0"}

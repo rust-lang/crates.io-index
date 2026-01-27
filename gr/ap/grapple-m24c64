@@ -1,0 +1,2 @@
+{"name":"grapple-m24c64","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"006531b5a7dad360655c640214a81c85d6e13556b7f7c43dbb9f5f6f71d60f2b","features":{},"yanked":false}
+{"name":"grapple-m24c64","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8efbde3f6a3a0bae6dcb73e314b01566a5604139ef7a43ea6df90c516d0ba9c","features":{},"yanked":false}

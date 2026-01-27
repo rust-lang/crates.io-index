@@ -1,0 +1,2 @@
+{"name":"guessing_game_fork","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79bc34798ac3746df3951dc828d37e0c7d1b362cd057c8d7aff526a40fc5ff1c","features":{},"yanked":true}
+{"name":"guessing_game_fork","vers":"0.1.3","deps":[{"name":"rand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8aab457589f84ad4527f009aa9c215b2bee508ba0bd6c73eb30d2a9c5096952","features":{},"yanked":false}

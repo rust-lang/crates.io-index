@@ -1,0 +1,1 @@
+{"name":"expecto-patronum","vers":"0.1.0","deps":[{"name":"fastmurmur3","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf1978e98f9917a473e84435ed1dda8f83ee00c1240633d2cfbb2c33e736fd7f","features":{"default":["std"],"std":[]},"yanked":false}

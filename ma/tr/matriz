@@ -1,0 +1,2 @@
+{"name":"matriz","vers":"0.0.1","deps":[],"cksum":"6e6ead85cff59022788aeef7b51da59d6d6d41597c39d945824505d966739b58","features":{},"yanked":false}
+{"name":"matriz","vers":"0.0.2","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"nalgebra","req":"^0.32.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"22dd02b1b4a275d24af453f2c76b6e76a8ac9be0760e17c4445c69f931013d2c","features":{"default":["std"],"full":["std"],"std":[]},"yanked":false}

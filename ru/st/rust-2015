@@ -1,0 +1,2 @@
+{"name":"rust-2015","vers":"1.0.0","deps":[{"name":"reedition","req":"=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e56c5c80add6795f8c64b2da395208eef8f673e640a6d80b6120e31376e6d89","features":{},"yanked":false}
+{"name":"rust-2015","vers":"1.0.1","deps":[{"name":"reedition","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0483c43d87a8d9705d3e59254085ae481ce133b4000c1706868c522b5b07ce50","features":{},"yanked":false}

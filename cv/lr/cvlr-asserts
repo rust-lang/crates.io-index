@@ -1,0 +1,4 @@
+{"name":"cvlr-asserts","vers":"0.4.0","deps":[],"cksum":"726eb8537abb9e0ba3e09dade092f5da210b42e7852d78cc771c1d936749f0dd","features":{"rt":[],"vacuity":[]},"yanked":false}
+{"name":"cvlr-asserts","vers":"0.4.1","deps":[],"cksum":"e5986ab535703c6fff042bd257c0f3d591f6fcd4c611ec117c93807fc4444804","features":{"rt":[],"vacuity":[]},"yanked":false}
+{"name":"cvlr-asserts","vers":"0.4.2","deps":[],"cksum":"71e7a195e607a28a430609b407e2643d6a1c237279424fd6cfb2ac655c6e0938","features":{"rt":[],"vacuity":[]},"yanked":false}
+{"name":"cvlr-asserts","vers":"0.5.0","deps":[{"name":"macrotest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a9ac461cb05190d556f71501514f2bcdc4e13a5c9bcc428eec8bb78a1351aaa2","features":{"no-loc":[],"rt":[],"vacuity":[]},"yanked":false}

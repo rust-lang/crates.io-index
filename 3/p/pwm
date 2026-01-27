@@ -1,0 +1,1 @@
+{"name":"pwm","vers":"0.1.0","deps":[{"name":"base64","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55f55849821f0a224cd983032b542ade72c31626ddd0f05800b5524571723a9f","features":{},"yanked":false}

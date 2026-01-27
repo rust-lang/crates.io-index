@@ -1,0 +1,2 @@
+{"name":"rmusic","vers":"0.1.0","deps":[],"cksum":"bdd4c141bd34e38acf27e0b9a3af6d7798ce021771434e15c529bc50a59ae221","features":{},"yanked":false}
+{"name":"rmusic","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6322d0adf85bbc8639196d0098723f4162f70fb02e2b76cb43a9923e5b853aba","features":{},"yanked":false}

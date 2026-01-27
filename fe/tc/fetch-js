@@ -1,0 +1,1 @@
+{"name":"fetch-js","vers":"1.0.0-alpha.1","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3217d1bde7a9714879e46c0b3930ac374a9ccc6cbc84891cf07f6b217749e8fe","features":{"tokio-fetch":["tokio"]},"yanked":false}

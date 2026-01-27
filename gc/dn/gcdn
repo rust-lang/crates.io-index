@@ -1,0 +1,2 @@
+{"name":"gcdn","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b05f81d5b5404d8f27cb3db65b55b662c5813fd24ad93ab3ef92ebaebbc155c","features":{},"yanked":false}
+{"name":"gcdn","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7bf29bec27022e07f531e39a706711d91eeddf5149daf552266cb9dd1c8cb17","features":{},"yanked":false}

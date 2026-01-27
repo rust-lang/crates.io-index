@@ -1,0 +1,2 @@
+{"name":"terminal-wait-exit","vers":"1.0.0","deps":[{"name":"tokio","req":"^1.38","features":["signal","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcb2952aa383535f84bff8dc0f53c1a1552c171c6bdaea13e77a3209e6c54d26","features":{},"yanked":false}
+{"name":"terminal-wait-exit","vers":"1.0.1","deps":[{"name":"tokio","req":"^1.38","features":["signal","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"780fe046e2766508f297d2f7cd2bff67194a87c6a41f1138f417cda1839ea325","features":{},"yanked":false}

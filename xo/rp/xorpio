@@ -1,0 +1,2 @@
+{"name":"xorpio","vers":"0.0.0-alpha.0+efc2292","deps":[],"cksum":"7f224bb9323fec805c95e0bb9df931e3096cebc4f20e4706b86d8d9f861f098f","features":{},"yanked":false}
+{"name":"xorpio","vers":"0.0.0+1beef237e7bd295d7af89d690d41a3714b97b8a1","deps":[{"name":"syscalls","req":"^0.6.18","features":["all"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2faf1fd47468be4a0d310c2abe1c2f8dfa20d61bdd71f94526977e63b12cf952","features":{},"yanked":false}

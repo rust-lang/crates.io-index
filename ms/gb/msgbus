@@ -1,0 +1,2 @@
+{"name":"msgbus","vers":"0.1.3","deps":[],"cksum":"2df36c7f0058bc68d25c2019d54ca571aee23d9aaf19c770333d088b1672886a","features":{},"yanked":false}
+{"name":"msgbus","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0.101","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e5bb1c5f1dcb7667496b164f062fb4b6ac0022312654a672faaf6029bdfb74d","features":{},"yanked":false}

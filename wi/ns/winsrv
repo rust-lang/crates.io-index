@@ -1,0 +1,1 @@
+{"name":"winsrv","vers":"0.0.1","deps":[{"name":"windows","req":"^0.57.0","features":["Win32_System_Services"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1749211d19ef3266f01d4750726c2f7f576c668f3e51e875bec63eab5e355e35","features":{},"yanked":false}

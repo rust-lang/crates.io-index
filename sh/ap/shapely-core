@@ -1,0 +1,5 @@
+{"name":"shapely-core","vers":"1.0.0","deps":[{"name":"nonmax","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aecdb7176cb186f5477d33887c442851bdc1bed1f88a9a8282e062909b79327","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"shapely-core","vers":"2.0.0","deps":[],"cksum":"ee5967cc5e77315a1015ce59479f5477536126faefbbff29586b6d581309f5bf","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"shapely-core","vers":"2.0.1","deps":[],"cksum":"9f2db1aa64bb5e1ef33726eadaeda2d16c18df36493ae13a27c3c4e8d8214542","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"shapely-core","vers":"3.0.0","deps":[],"cksum":"3ec2f45c5c1a2ae41e6acd80806ea44c7950b27b2df06587f55f1caf7eea2675","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"shapely-core","vers":"3.1.0","deps":[],"cksum":"a465b3a462135334d33696b34435466a157c98fe1cc55a14f0bbefcaba3db067","features":{},"yanked":false,"rust_version":"1.85"}

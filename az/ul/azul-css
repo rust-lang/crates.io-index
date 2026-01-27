@@ -1,0 +1,2 @@
+{"name":"azul-css","vers":"0.0.1","deps":[],"cksum":"c323e70e1a3a7f0872301a72aa87bd31a1bbc99eb8fdd8d2186f9f0b2115693f","features":{},"yanked":false}
+{"name":"azul-css","vers":"0.0.5","deps":[{"name":"azul-simplecss","req":"^0.1.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"libm","req":"^0.2.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f6b0c205607826ce8869efb5edd583c2e6ba0c8603c91cff112137d880efd702","features":{"parser":["azul-simplecss"]},"yanked":false}

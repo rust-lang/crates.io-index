@@ -1,0 +1,2 @@
+{"name":"rust-type-sizes","vers":"0.0.1","deps":[],"cksum":"dcfaad592fc12a3c485dcf67330fa7212366e79418c94323524942335d6cbd6f","features":{},"yanked":false}
+{"name":"rust-type-sizes","vers":"0.0.2","deps":[{"name":"filetime","req":"^0.2.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85abfe4224984d92c831b7e339042a5090717880c9dad1df0b68f238cc81c687","features":{},"yanked":false}

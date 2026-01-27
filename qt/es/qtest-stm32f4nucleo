@@ -1,0 +1,2 @@
+{"name":"qtest-stm32f4nucleo","vers":"0.1.0","deps":[{"name":"qtest","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08e67cefb245a4222e8f3108595263de4141d609ee1d14e75b467fe897d78eb1","features":{},"yanked":false}
+{"name":"qtest-stm32f4nucleo","vers":"0.1.1","deps":[{"name":"qtest","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f86b24adb1c1d25d72e46488bdecb49fa2c08277921995d29313286d8e5bd28","features":{},"yanked":false}

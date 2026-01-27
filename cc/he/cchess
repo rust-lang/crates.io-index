@@ -1,0 +1,1 @@
+{"name":"cchess","vers":"0.1.0","deps":[{"name":"iced","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log4rs","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"353427fc81e22c4454e049b83fe6c3d2acaac2d438b915353289b871f8f43a9f","features":{},"yanked":false}

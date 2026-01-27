@@ -1,0 +1,2 @@
+{"name":"fancy-sys-info-test","vers":"0.1.1","deps":[{"name":"fancy_sys_info","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d506fc3e2850ec54c38e51c56fb1681ea75a2ce228eb9b0e52b47207d6ec238f","features":{},"yanked":true}
+{"name":"fancy-sys-info-test","vers":"0.1.2","deps":[{"name":"fancy_sys_info","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4566a6b1dae9b8422ba70069cee3f5c494c217107a6d95906f2d89e83a998cf0","features":{},"yanked":false}

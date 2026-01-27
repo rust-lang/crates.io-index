@@ -1,0 +1,2 @@
+{"name":"korg_nano_kontrol_2","vers":"0.1.0","deps":[{"name":"midir","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f31ed2a7ef74ebf60223b3a7a021ede58b10cdbc1c1c641f706aed416be8d749","features":{},"yanked":false}
+{"name":"korg_nano_kontrol_2","vers":"0.1.1","deps":[{"name":"midir","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"642ab045de529966829f4b17c70f4f90e2aa9beb538a62da0f8ca9f96ef9fd1c","features":{},"yanked":false}

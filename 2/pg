@@ -1,0 +1,2 @@
+{"name":"pg","vers":"0.0.0","deps":[],"cksum":"fdd634eade359fa077671d8d72c5aba373a9dfdab89a218465a69dd19f7c2b88","features":{},"yanked":false}
+{"name":"pg","vers":"0.1.0","deps":[{"name":"flags","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"real-memory","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eafa85609e39649a966bc48141fa71155c4f2244a6b4b72d5dbf1547899ec576","features":{},"yanked":false}

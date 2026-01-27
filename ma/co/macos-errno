@@ -1,0 +1,1 @@
+{"name":"macos-errno","vers":"1.0.0","deps":[{"name":"posix-errno","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2227e1008327da17b7206b6ac5e62b571143b0332f8d2a31fec7db45362f49a","features":{},"features2":{"default":["posix-traits"],"posix-traits":["dep:posix-errno"]},"yanked":false,"v":2}

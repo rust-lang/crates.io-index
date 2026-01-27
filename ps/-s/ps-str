@@ -1,0 +1,3 @@
+{"name":"ps-str","vers":"0.1.0-1","deps":[],"cksum":"a7ea9133cada90be25f9e032f896da2676702e0a91d9b818b07a83b86b6bb757","features":{},"yanked":false}
+{"name":"ps-str","vers":"0.1.0-2","deps":[{"name":"encoding","req":"^0.2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68c8ecabc70e6df47983222334c4ba72ca48fdede6819131a91154b216633db6","features":{},"yanked":false}
+{"name":"ps-str","vers":"0.1.0-3","deps":[{"name":"encoding","req":"^0.2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"907a1fddca3b57b90836df7328a77a2e700b7361bd093cf09c7ee675ececb53b","features":{},"yanked":false}

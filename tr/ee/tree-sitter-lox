@@ -1,0 +1,2 @@
+{"name":"tree-sitter-lox","vers":"0.0.0","deps":[],"cksum":"b8e2763cb0a4f1437dc8721fd54a8b174a15ca9ccb1ebd1c86c6c3df804b7865","features":{},"yanked":true}
+{"name":"tree-sitter-lox","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"tree-sitter","req":"^0.20.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a2d27e4d5c1f443e95f3fb00bdcc851d360f0a08744c5996b1c53c18153f37","features":{},"yanked":false}

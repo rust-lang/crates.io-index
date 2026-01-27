@@ -1,0 +1,3 @@
+{"name":"rust-crates-mcnwr","vers":"0.1.0","deps":[],"cksum":"66db7f5abf7b5d4db12133724b16cc2492590307d2d886f7d2ea28292c726d73","features":{},"yanked":false}
+{"name":"rust-crates-mcnwr","vers":"0.2.0","deps":[],"cksum":"cb9fa20681296e6f59158044aba4076d939d55cb05cdb1e9a805127ecbb0462a","features":{},"yanked":false}
+{"name":"rust-crates-mcnwr","vers":"0.3.0","deps":[],"cksum":"302ba9f7fe9373879b6fab99ed71e401a3d45428c47dda145c72bc1aace01b13","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

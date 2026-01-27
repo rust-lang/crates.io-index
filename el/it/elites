@@ -1,0 +1,1 @@
+{"name":"elites","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b917d0a1376522e213f85b698f5fcfbe46502e12453943758e33e74ece07659","features":{},"yanked":false}

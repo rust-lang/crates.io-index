@@ -1,0 +1,2 @@
+{"name":"permafrost","vers":"0.1.0","deps":[{"name":"permafrost-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa8e7ed753b29f87b35f64c930bcf9d3a113d86de6a3e04e37e11506f73bb130","features":{},"yanked":false}
+{"name":"permafrost","vers":"0.1.1","deps":[{"name":"permafrost-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bca7b527df4fa6fc3fbdc9c4ca551f1eb8c21c3f130ecf5ff59bbf4969816c1","features":{},"yanked":false}

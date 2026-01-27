@@ -1,0 +1,2 @@
+{"name":"binding_powers","vers":"0.1.0","deps":[{"name":"binding_powers_impl","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"579c5cbdf2668e7d56f59449335e6185a721f66b6f8b5a58d9fbb2ae5736b45d","features":{},"yanked":true}
+{"name":"binding_powers","vers":"0.1.1","deps":[{"name":"binding_powers_impl","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21fdc9e512c4d71bc3c6d1d1d0e0dfa87daac7d8c9918a651549ec2bff59149a","features":{},"yanked":true}

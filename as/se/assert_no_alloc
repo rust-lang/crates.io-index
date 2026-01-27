@@ -1,0 +1,4 @@
+{"name":"assert_no_alloc","vers":"1.0.0","deps":[],"cksum":"712761daee9ea8c4fead55d916d9a339c0e800e83f437312a0bcfe671fe0df43","features":{"default":["disable_release"],"disable_release":[],"warn_debug":[],"warn_release":[]},"yanked":false}
+{"name":"assert_no_alloc","vers":"1.1.0","deps":[],"cksum":"2798d8eed2385fe2570f8a0daf377d2ca54d662fa012c28dfbaabc05a80f957d","features":{"default":["disable_release"],"disable_release":[],"warn_debug":[],"warn_release":[]},"yanked":false}
+{"name":"assert_no_alloc","vers":"1.1.1","deps":[],"cksum":"096e8bf092c03dd4eacd9c36dc5918ba07b30ba6a6737f29b6239bc7678b5520","features":{"default":["disable_release"],"disable_release":[],"warn_debug":[],"warn_release":[]},"yanked":false}
+{"name":"assert_no_alloc","vers":"1.1.2","deps":[],"cksum":"55ca83137a482d61d916ceb1eba52a684f98004f18e0cafea230fe5579c178a3","features":{"default":["disable_release"],"disable_release":[],"warn_debug":[],"warn_release":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"cheat","vers":"0.1.0","deps":[{"name":"clap","req":">= 1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":">= 0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"883f1f3f6886d1b6979d64fb4a38d9878424fc5823ff68503c5276d5ea469b9a","features":{},"yanked":true}

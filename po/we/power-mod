@@ -1,0 +1,2 @@
+{"name":"power-mod","vers":"0.0.0","deps":[],"cksum":"ce3c237b0aede4dbb87dd6ccfd96b6581d731d3f3193318f257c443a449acb3a","features":{"default":[]},"yanked":false}
+{"name":"power-mod","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71022e850596ef81de3246a73d8197bfe8f07f7b46d34c6cafa791af1e1a9d3d","features":{"default":[]},"yanked":false}

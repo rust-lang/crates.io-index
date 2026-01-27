@@ -1,0 +1,1 @@
+{"name":"riscv_assembler","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e9cdc2790a017682b1dd406a9e0ca4801abb3b717cd5a162f420cbf83251e7a","features":{},"yanked":false}

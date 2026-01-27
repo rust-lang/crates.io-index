@@ -1,0 +1,2 @@
+{"name":"invisible_unicode","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5b49c2eb6118ffccf07d2a126e727b6dd7620dff430db3d50246c70b5dfee99","features":{},"yanked":false}
+{"name":"invisible_unicode","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e74129798ab1364892005875a235d48f32dff9abdcd926c7a1406987be43057f","features":{},"yanked":false}

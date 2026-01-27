@@ -1,0 +1,2 @@
+{"name":"ent-rs","vers":"0.1.0","deps":[{"name":"statrs","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58680eee875712942a3083434503877752e00ca70b5f54ebfe3766b3d65d43f5","features":{},"yanked":false}
+{"name":"ent-rs","vers":"0.1.1","deps":[{"name":"statrs","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa2a45fd979e59f58adcf7d02f13c4ee7dbfebadd7fa676b00bbf4e265c9047a","features":{},"yanked":false}

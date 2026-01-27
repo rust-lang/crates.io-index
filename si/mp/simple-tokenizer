@@ -1,0 +1,5 @@
+{"name":"simple-tokenizer","vers":"0.1.0","deps":[],"cksum":"a72cba7d8b230ccee8b4c079f47bba5ed2182e928ddcb6b281c6cde516dd85f8","features":{},"yanked":false}
+{"name":"simple-tokenizer","vers":"0.2.0","deps":[],"cksum":"c7995eb50aed9f87dc967caf10c8274ef666f11cebadd7d675d96404775e9f42","features":{},"yanked":false}
+{"name":"simple-tokenizer","vers":"0.4.0","deps":[{"name":"yap","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"110aeb57e7ff509336448ee1e77839904cc75609b43062a270349b4c7e001fb9","features":{"default":[]},"yanked":false}
+{"name":"simple-tokenizer","vers":"0.4.1","deps":[{"name":"yap","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5b92f45367a6b34c7bc69ad06cb072c6ba34b479268902ca1bb5c118f99de61","features":{"default":[]},"yanked":false}
+{"name":"simple-tokenizer","vers":"0.4.2","deps":[{"name":"yap","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40b426378e5782242d741f936cceaef906ba05644593e91816030000dd8ae8f1","features":{"default":[]},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"hex-utilities","vers":"0.1.0","deps":[],"cksum":"8184fb792a27a8bd145eb3b3dee7048753b5b7a79d579f70b5c75610fedb0f94","features":{},"yanked":false}
+{"name":"hex-utilities","vers":"0.1.1","deps":[],"cksum":"1dabc868945a69c22d5ddcdd01cea5238d667767b709270628319981b6569a63","features":{},"yanked":false}
+{"name":"hex-utilities","vers":"0.1.2","deps":[],"cksum":"5997fe99f2e2bbc1d05b0e0b415160a1ab89b192d6a4d7751377d0d6ecba69be","features":{},"yanked":false}
+{"name":"hex-utilities","vers":"0.1.3","deps":[],"cksum":"6f6baf4a28f66596d2a64584f67086903d75baae09d80bae2291f6f77f5207c7","features":{},"yanked":false}
+{"name":"hex-utilities","vers":"0.1.4","deps":[],"cksum":"734cd932aa5ff5d7233f5b3f84a0478e395dabe30d30741e4b13ce38a22b6007","features":{},"yanked":false}
+{"name":"hex-utilities","vers":"0.1.5","deps":[{"name":"binary-utils","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2157a552ab12c50849f3972720483bbf2499671bc1f8a3a39084fdf1108e892","features":{},"yanked":false}

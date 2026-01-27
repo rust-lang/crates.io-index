@@ -1,0 +1,2 @@
+{"name":"timber","vers":"0.0.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab374c05ea226a8f55a2c347b8bc4dda3f07f22466af573b29e0e29ac3cba158","features":{},"yanked":false}
+{"name":"timber","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12f39b54a54c3c9e1aa9d50ff101889936485fe5c1e32c7f098dc5f9464a06dc","features":{},"yanked":false}

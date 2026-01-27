@@ -1,0 +1,4 @@
+{"name":"procrastination_sort","vers":"1.0.0","deps":[],"cksum":"35749429ec991e20749eadc68294201f30586df16edaa11365487e0e05e9e284","features":{},"yanked":false}
+{"name":"procrastination_sort","vers":"1.0.1","deps":[],"cksum":"bd9f583cbfcc5d2e8f0ba8cb556c6287dc157e54f0516f1ae3addb3dc14f3b8e","features":{},"yanked":false}
+{"name":"procrastination_sort","vers":"1.0.2","deps":[],"cksum":"07adf369ab57d9cc833f9585c5f2a1f12f2d4ab59d74e3ce054c4688801f0a5b","features":{},"yanked":false}
+{"name":"procrastination_sort","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ffe6f73c26c68d0059225516a55346577399f764778ae9dd65be90f145f18d2","features":{},"yanked":false}

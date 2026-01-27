@@ -1,0 +1,1 @@
+{"name":"minecrevy","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0197e77c6d2f62ea65ebd41ee8ab58bd6ae87f190e64cce2bca3428574d7a7c1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"ndate","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98d5ea888901b3a9458e95c7cd3a3aa66630457991cee5410759b8ed575675f6","features":{},"yanked":false}

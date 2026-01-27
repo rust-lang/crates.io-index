@@ -1,0 +1,2 @@
+{"name":"wait-parent","vers":"0.1.0","deps":[{"name":"sysinfo","req":"^0.34","features":["system"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"724667224fca5606092b9f0f0a2efed72c4655332853829fa8264ba38648cd2b","features":{},"yanked":false}
+{"name":"wait-parent","vers":"0.1.1","deps":[{"name":"sysinfo","req":"^0.34","features":["system"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0b434875cbea9d0af67127a44535dd7a6316e4340756398eec0834059fc91189","features":{"debug":["sysinfo/debug"]},"yanked":false}

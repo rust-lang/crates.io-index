@@ -1,0 +1,1 @@
+{"name":"faker-cli","vers":"0.1.0","deps":[{"name":"fake","req":"^2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d47c58ab692862584f8088a30e6d659888c27e75b25486dab94151ac5f464581","features":{},"yanked":false}

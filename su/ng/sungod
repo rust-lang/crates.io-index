@@ -1,0 +1,8 @@
+{"name":"sungod","vers":"0.1.0","deps":[],"cksum":"f5d3d93d89c2a1e5106f412b64c91b367eded9974e2fc6711906ea5b18338c78","features":{},"yanked":false}
+{"name":"sungod","vers":"0.1.1","deps":[],"cksum":"6ce05ba2eaf2b33caf0aedaa5a8a7551b9c77b5dfec5b784bd203e32f9cca93d","features":{},"yanked":false}
+{"name":"sungod","vers":"0.1.2","deps":[],"cksum":"e6059b00b51d0f086d18189c75211a655db0503353b986296b96e5592be7d7e7","features":{},"yanked":false}
+{"name":"sungod","vers":"0.2.0","deps":[],"cksum":"bf7c128b2efc8f9f381b51f94033213d3ea2bdce77970f4910c39ce934fe157b","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"sungod","vers":"0.2.1","deps":[],"cksum":"09813b6498c9a22f85a7d1c01bc171bfb75addec99613debd581603f7058133b","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sungod","vers":"0.2.2","deps":[],"cksum":"2eee8eb6e8040ce1fcd07d72e39d89efc59121b9b1187c6b9d4030d8ddad0f61","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sungod","vers":"0.3.0","deps":[],"cksum":"7e0428afddf443b621fb257cd8c48b200c402be8354c86227b127431bf5a6921","features":{"default":["std"],"default_is_random":["std"],"std":[]},"yanked":false}
+{"name":"sungod","vers":"0.3.1","deps":[],"cksum":"b351cad1154eca506fab7bc868ffa732e641171a53d6e75aeaae0a042269c6f4","features":{"default":["std"],"default_is_random":["std"],"std":[]},"yanked":false}

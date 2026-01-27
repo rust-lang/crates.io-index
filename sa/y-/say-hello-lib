@@ -1,0 +1,3 @@
+{"name":"say-hello-lib","vers":"0.1.0","deps":[],"cksum":"52a1655fdf047ebd88c08dbbf200d6d7114b46405cfa7a878acfb738637e9560","features":{},"yanked":false}
+{"name":"say-hello-lib","vers":"0.2.0","deps":[],"cksum":"65113b678e55c8e7622471ecd3f1e27b42c398c4efe746b207e7caf76d5ec626","features":{},"yanked":false}
+{"name":"say-hello-lib","vers":"0.3.0","deps":[],"cksum":"eb19210dec135ba07ac32a2b52040d7f4861b418ad263c0411293531a2a77164","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

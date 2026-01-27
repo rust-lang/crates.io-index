@@ -1,0 +1,8 @@
+{"name":"ufotofu_queues","vers":"0.1.0","deps":[],"cksum":"ebb35efc56317bdec9fd506f11f11bc74ca5bd9f61955bbb50b593522b3aa4f3","features":{},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.2.0","deps":[],"cksum":"6fc9d3891db34fbcd3083bbb4f6de07248132cfaf0a46ca8cc16d387fc328fdc","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.3.0","deps":[],"cksum":"5db205b4fb8f540cf2eeeb7c626a4ab318f9e901f50f06b4159b765ed765b51e","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.4.0","deps":[],"cksum":"3c5ff287c701ff2a205cbafeaa78d691850ebb7ad91262f052b0495aff4c06d9","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.4.1","deps":[],"cksum":"57eb67569d0473b820d7a29c9e6aa923500109cdf2b03e7bab01882dff48d3b9","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.5.0","deps":[],"cksum":"d903d5bc0e14d24559dac3b9690d004ad3fb08d66f93d87d28f5cb3466b5b55b","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.6.0","deps":[],"cksum":"9abd2f0123cc71fa3adf9329b85d9eb863874e489744803f3a41fff59b56968d","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}
+{"name":"ufotofu_queues","vers":"0.6.1","deps":[],"cksum":"56ceb4bd284eeef9206c4443954bd784c2c5fbbea78e14081a5419f276c71900","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false}

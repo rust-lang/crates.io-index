@@ -1,0 +1,2 @@
+{"name":"static-automata","vers":"1.0.0","deps":[{"name":"static-automata-macros","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f14cec6e34cb0a8ee5bb65567028a4cadf8b07dfb59508da4847c4a980af91f7","features":{},"yanked":false}
+{"name":"static-automata","vers":"1.0.1","deps":[{"name":"static-automata-macros","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58513eadbf8a7fe324bb909a41126e669c91a14cd190860c47cfbeac1325eb94","features":{},"yanked":false}

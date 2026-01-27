@@ -1,0 +1,12 @@
+{"name":"rxml_validation","vers":"0.4.0-alpha.0","deps":[],"cksum":"906b85c2549172081b6ff4e156f2a23322ce6b6da3ad2e1f7410a2f16a845c8a","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.4.0","deps":[],"cksum":"823a048ee5f3f1e8854550cb19e7b157571f5a652eec7d167147d6db5ca2b059","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.5.0","deps":[],"cksum":"2ebaf9ae7aadba0541f3a870fa18e06b9a32922d308179430a306d9af6c5e5a5","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.6.0","deps":[],"cksum":"b1ff07c75921c97fc5d85a5d216584f2ed25f4ef5d2fb7be34530cb7ae7e40e7","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.7.0","deps":[],"cksum":"e16eb65ded57d9fb85bec18ca5ff70ce5d592175374ec3b44640e95087b4136b","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.8.0","deps":[],"cksum":"a8b61ed7c6553bd779fbcc623abf837bf845d390beaf5d2fc38b08881ef14ab0","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.8.1","deps":[],"cksum":"a8633dff4bb93061867c8411c6e99068c5f59d9f890c87384169004b0fbb929a","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.8.2","deps":[],"cksum":"53bc79743f9a66c2fb1f951cd83735f275d46bfe466259fbc5897bb60a0d00ee","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.9.0","deps":[],"cksum":"c31aacd4b60bb4c149cfd8b77649e2c728bc36cb231d656a4d47b3cb780445eb","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.9.1","deps":[],"cksum":"22a197350ece202f19a166d1ad6d9d6de145e1d2a8ef47db299abe164dbd7530","features":{},"yanked":false}
+{"name":"rxml_validation","vers":"0.10.0","deps":[],"cksum":"1562ddff46efab0822a2407768eed232345a32de8cfe3534d034c90737bdbd4f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rxml_validation","vers":"0.11.0","deps":[{"name":"compact_str","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"826e80413b9a35e9d33217b3dcac04cf95f6559d15944b93887a08be5496c4a4","features":{"default":["std"],"std":["compact_str"]},"yanked":false}

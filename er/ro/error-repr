@@ -1,0 +1,1 @@
+{"name":"error-repr","vers":"0.1.0","deps":[{"name":"cfg-match","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41e24eb4354acf0dd0738e585151609f6f4f40356afb26982a7d0d5259d78ad4","features":{"alloc":[],"error-track_caller":[],"std":["alloc"]},"yanked":false}

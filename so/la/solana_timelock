@@ -1,0 +1,1 @@
+{"name":"solana_timelock","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03a93da8d55919e24bc3276f9c017f15ed1783800d8a124262946b2247d2322b","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"halo2_legacy_pdqsort","vers":"0.0.0","deps":[],"cksum":"345d04942bbc2ce44b12ab8ddd91f26888d14609b7741f26090f28defa7fb940","features":{},"yanked":false}
+{"name":"halo2_legacy_pdqsort","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47716fe1ae67969c5e0b2ef826f32db8c3be72be325e1aa3c1951d06b5575ec5","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"wspr","vers":"0.1.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39c7b607bfb255692a902aad2d18050100d69bdcec96790bea20f7c6925c53d4","features":{},"features2":{"defmt-03":["dep:defmt"]},"yanked":false,"v":2}

@@ -1,0 +1,1 @@
+{"name":"wasmlite-llvm","vers":"0.0.1","deps":[{"name":"llvm-sys","req":"^60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3204292d2ff150558b7ccd797df117a1a4bb73b639125bd9a6373689cf890557","features":{},"yanked":false}

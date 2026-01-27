@@ -1,0 +1,2 @@
+{"name":"kitn_python","vers":"0.0.0","deps":[{"name":"kitn","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pyo3","req":"^0.20","features":["abi3-py37","extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d50b7c9093fa1017e21b89a8c00232cd0f40ae478763c53d28cc1c6a0b5ed1f5","features":{},"yanked":false}
+{"name":"kitn_python","vers":"0.0.1","deps":[],"cksum":"8824e96434a075eb136a8e53c78299c870a5791ce657523fc0956db011a751d1","features":{},"yanked":false}

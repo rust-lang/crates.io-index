@@ -1,0 +1,12 @@
+{"name":"arc-cell","vers":"0.1.0","deps":[],"cksum":"98eea445a08bbb2771ef836b7e31a35f3ed0f74cd94cf1fc830893e0373ef3d8","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.1.1","deps":[],"cksum":"bbadc1ea5d12c1e4a85b71add69ec2cd61480e84cf41a7e599d3ecb936f4f915","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.1.2","deps":[],"cksum":"8d2f8259cf0f7e36aee3d361afde7cc0479078c03ef3508ba5f07e71fd79b4cd","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.1.3","deps":[{"name":"spin","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c196f75c138b7407370f574e1c88d1e724cc1fb92b7754c41c1ada13dfb88f91","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.1.4","deps":[{"name":"spin","req":"^0.4.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c37b26707b58029974b212ae52f609ca4095f3bdac134ddaebe67b4f8d224c08","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.1.5","deps":[],"cksum":"613cfb8a55cb73ef5dd630d05cd9824165a0dfb4e7c96ab7501493caa9195802","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.2.0","deps":[],"cksum":"75d11eb22d8a3ca7c00c217a9f97b4269344de0c283b96926ea57c44758aa96c","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.2.1","deps":[],"cksum":"e365ff8e55a77225ce45d6ca3b0ee51f8b9706a0d14b6c430e5bf3486e306554","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.2.2","deps":[],"cksum":"4c0c2707375f4d35d0c838b185b72175a7bb27863e380286eea332c244d3d3de","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.3.0","deps":[],"cksum":"2903d3ff00deb21a136474fb64c6496771bdc7577d493e1768e23119c73ee23f","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.3.1","deps":[],"cksum":"6db846ea31faf0120af216d4e292f802c512ff992ac9e65e24d38e5b1b48dbee","features":{},"yanked":false}
+{"name":"arc-cell","vers":"0.3.3","deps":[],"cksum":"fec9da9adf9420d86def101bd5b4a227b0512d456b6a128b0d677fdf68e5f7b8","features":{"const-new":[]},"yanked":false}

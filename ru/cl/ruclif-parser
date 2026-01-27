@@ -1,0 +1,9 @@
+{"name":"ruclif-parser","vers":"0.1.0","deps":[],"cksum":"160a5c77e0e01cf0449e2ab635758150568e7431d96a9c1d6d7102c4ebf617bf","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.1","deps":[],"cksum":"71ad97ef2f0daa1735e52554a4a1931bfc132f2fff39e5bf4ed34aa458b2273a","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.2","deps":[],"cksum":"4b113202251e1a152bce67df1bf2788e6c6abfd1b35eada770d011de6804b342","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.3","deps":[],"cksum":"99903d19f8d98637a5b58716c5e14c6e88a12ba519d5a3f87d267922c12f1ef7","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.4","deps":[],"cksum":"0c5689c4feca37e1cc45ee108cd4c1c3d123362c6125c1581f3880bc59de3293","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.5","deps":[],"cksum":"588946203aeb109c198fc3b6c901f7e5686d8eebcb329cc0e4bbb77c76ea6734","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.6","deps":[],"cksum":"a5bef744c370e0d14228e4c6d4c016c7946ad52ec42cae813c8495fcac60ab97","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.7","deps":[{"name":"ruclif-parser-clap","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97bb1aad7e7f198b4c0cab1d46e21c1d29ceff912cf819eee6ce641e712db51e","features":{},"yanked":false}
+{"name":"ruclif-parser","vers":"0.1.8","deps":[{"name":"ruclif-core","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ruclif-parser-clap","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6c9baa747b3463d010c6568d84af11da4096ce729a2cbf5975dd60892caecd","features":{},"yanked":false}

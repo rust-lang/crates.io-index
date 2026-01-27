@@ -1,0 +1,2 @@
+{"name":"loglite","vers":"0.3.1","deps":[{"name":"chrono","req":"^0.4","features":["now"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e03f830c5e9acbbce3e6d2007dc7e5cba764b5b6c8f46af77a832e64ecd986f4","features":{},"yanked":false}
+{"name":"loglite","vers":"0.4.0","deps":[{"name":"chrono","req":"^0.4","features":["now"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02727c183800de57aeb5ebc6b7c65781bc62dcac2cc5715e505b5af0411b4ee3","features":{},"yanked":false}

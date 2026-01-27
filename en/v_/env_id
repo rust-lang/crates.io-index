@@ -1,0 +1,1 @@
+{"name":"env_id","vers":"0.0.1","deps":[{"name":"quote","req":"^1.0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d74f2251363d23650f2fccda0a795493e16c8684562f1c22afebebc78fd928af","features":{},"yanked":false}

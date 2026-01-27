@@ -1,0 +1,4 @@
+{"name":"moon_math","vers":"0.1.0","deps":[],"cksum":"0094a4c88b686674bea3724e4ddb5f6a8f4f259114676b854cfb6383a5b9dade","features":{},"yanked":false}
+{"name":"moon_math","vers":"0.1.1","deps":[],"cksum":"3184432bf6929e580362bc971c3421fef16029e42a99306fd3901cb600d5cf36","features":{},"yanked":false}
+{"name":"moon_math","vers":"0.1.2","deps":[{"name":"getrandom","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4117e60f86c382a382b1817af7889d4c6b1cadd18a5ffcebbcaaf722afe455d","features":{},"yanked":false}
+{"name":"moon_math","vers":"0.1.3","deps":[{"name":"getrandom","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0652500e4db96c0afedfca07a44ea002b3b08566ffc7dd14044571eee437c28b","features":{},"yanked":false}

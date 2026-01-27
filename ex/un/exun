@@ -1,0 +1,2 @@
+{"name":"exun","vers":"0.1.0","deps":[],"cksum":"466e7214c6417026835a8cc2bc81b1cfee500ddd37cd5df8b73a59d92a4c90a5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.41.1"}
+{"name":"exun","vers":"0.2.0","deps":[],"cksum":"f342aeae3812dec48768ab95c029c5b687a83cde17ab06f68bc5783e152d70bf","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.41.1"}

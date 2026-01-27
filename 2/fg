@@ -1,0 +1,3 @@
+{"name":"fg","vers":"0.0.0","deps":[],"cksum":"a88f80c4f9a1a0f57c1d45b2d356a9423dc34ef1f485ccdc05cf24c4f4c68bec","features":{},"yanked":false}
+{"name":"fg","vers":"0.1.3","deps":[],"cksum":"0fc9edbed5f85c1f1f9fcb0455cfa248fb4ca2b0be99bc142779b2cf329c4858","features":{},"yanked":false}
+{"name":"fg","vers":"0.1.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c61f6d319e405abd519f34e3c068b0f3af0737b728820a6d9323ae5f61e823e1","features":{},"yanked":false}

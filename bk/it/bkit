@@ -1,0 +1,2 @@
+{"name":"bkit","vers":"0.1.1","deps":[{"name":"buildkit-client","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04756bcccb5a137ac8b6ab71dc07ac62e0e8896ddf472cf1612c32c8f217d83e","features":{},"yanked":false}
+{"name":"bkit","vers":"0.1.3","deps":[{"name":"buildkit-client","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c70061cff95537bdfbdb8c09c54c564f4fc034fd1ace487f04b7f4e49d25d05","features":{},"yanked":false}

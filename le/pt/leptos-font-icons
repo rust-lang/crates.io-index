@@ -1,0 +1,2 @@
+{"name":"leptos-font-icons","vers":"0.1.0","deps":[{"name":"leptos","req":"^0.6.5","features":["csr","nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db2b6fec2a4c07b85846cca4b72d16ed5181b3ace17a357bf98c8f2aa86fe7f1","features":{},"yanked":false}
+{"name":"leptos-font-icons","vers":"0.1.1","deps":[{"name":"leptos","req":"^0.6.5","features":["csr","nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"861f39bbf36ad99bb6b41815b1a0977ed60e7bf4da81fc423d231ed22f34d1e1","features":{},"yanked":false}

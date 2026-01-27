@@ -1,0 +1,2 @@
+{"name":"pez-fork-tree","vers":"0.1.0","deps":[],"cksum":"284830d8b77ca308b416a0d8b17255fa98a992a7fc443535bc97c6588c8e4fb4","features":{},"yanked":false,"pubtime":"2025-12-14T03:23:28Z"}
+{"name":"pez-fork-tree","vers":"12.0.0","deps":[{"name":"codec","req":"^3.7.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"parity-scale-codec"}],"cksum":"d3e4139a26d6bf143fb8f83bec463a1e113684d9b9cfd27012a6f3f566250a8b","features":{},"yanked":false,"pubtime":"2025-12-30T09:15:40Z"}

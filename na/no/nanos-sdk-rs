@@ -1,0 +1,2 @@
+{"name":"nanos-sdk-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bbcc4f745ebde78be0313b63b29f2f692384519c2429d98350665f31449a0036","features":{},"yanked":false}
+{"name":"nanos-sdk-rs","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"499d5dc3e67ee94f891d5681bd59f2243d84f6ff8d1ee07051ed208161806baa","features":{},"yanked":false}

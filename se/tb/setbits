@@ -1,0 +1,1 @@
+{"name":"setbits","vers":"0.1.0","deps":[{"name":"akin","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19b72f25593a9587b64ae980eafe6fdf049d60b755fc95b70e4343868806c517","features":{"default":["inline"],"inline":[]},"yanked":false,"rust_version":"1.78.0"}

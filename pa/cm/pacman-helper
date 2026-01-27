@@ -1,0 +1,1 @@
+{"name":"pacman-helper","vers":"0.1.2","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"503a8afd0584ec4a59deea26cc9358f1b85a3b02c365d7b2f1e683499f1c50a0","features":{},"yanked":false,"rust_version":"1.61.0"}

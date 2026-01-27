@@ -1,0 +1,2 @@
+{"name":"tunnel","vers":"0.1.0","deps":[{"name":"openssl","req":"^0.10.16","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5024af973f11bad7103203ab200bb6854028a5dd782c5ed0a132e7132c4c207","features":{},"yanked":false}
+{"name":"tunnel","vers":"0.2.0","deps":[{"name":"openssl","req":"^0.10.16","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b1f63c6dfbab441a1de7fb1cddb36e47b43af5f731b80687bce41bca526dd9c","features":{},"yanked":false}

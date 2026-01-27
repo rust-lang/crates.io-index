@@ -1,0 +1,4 @@
+{"name":"vulkan-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a5701257a7dd978828673f80d49664e181c464f4a1bfd7db74ca3e8c884925fd","features":{},"yanked":false}
+{"name":"vulkan-sys","vers":"0.0.2","deps":[],"cksum":"c6b9e5799db0795a4b4c2294f8b3effcf3b8f86ca60377a831bc29ffa435a4e3","features":{},"yanked":false}
+{"name":"vulkan-sys","vers":"0.1.0","deps":[],"cksum":"ac217528244042c6f9a779497eb1bcd5383ac998554bfa203c3da1bcc337d020","features":{},"yanked":false}
+{"name":"vulkan-sys","vers":"0.1.1","deps":[],"cksum":"952fc06d4b8be437a8c9042c77658be32cba1512de894b77cf676967f5c06b5c","features":{},"yanked":false}

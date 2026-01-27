@@ -1,0 +1,2 @@
+{"name":"minced-parser","vers":"1.0.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e2aff63505b60e69d11e8ad22e9c855b630cb00761f4d5c7f5178611a31cc3c","features":{},"yanked":false}
+{"name":"minced-parser","vers":"2.0.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e25d0a94b6131dd30344061fabf918c2c6d12c092d20f7909efd81e6590e3ee9","features":{},"yanked":false}

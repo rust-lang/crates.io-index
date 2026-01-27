@@ -1,0 +1,4 @@
+{"name":"fx-rs","vers":"0.1.0","deps":[],"cksum":"fe1bba5a0b8b9a1b536628ca212d5381638b48dccb4515e06e36916bbebb22d2","features":{},"yanked":true}
+{"name":"fx-rs","vers":"0.1.0-dev0","deps":[{"name":"dyn-clone","req":"^1.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b5a5387e62bb3541795b2092be4682cc54a71edf25a81d2761a6e4ffbabb6d0","features":{},"yanked":false}
+{"name":"fx-rs","vers":"0.1.0-dev1","deps":[{"name":"dyn-clone","req":"^1.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef8cdf2a037f990cbf7ba49c4694459505677404bbc276899ca164a2c73c5a57","features":{},"yanked":false}
+{"name":"fx-rs","vers":"0.1.1-dev0","deps":[{"name":"dyn-clone","req":"^1.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f076d00f92211238fbb5ef25d933494e0d122b8859d0b327ace4279ecb775590","features":{},"yanked":false}

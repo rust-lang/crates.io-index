@@ -1,0 +1,1 @@
+{"name":"peace-table","vers":"0.1.0","deps":[{"name":"str_indices","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6e28e364ba321c8cf5c8da7457a7c4758384212df4f66cf24885a80bd38f1da","features":{"contiguous-inserts":[],"default":["optimizations"],"optimizations":["contiguous-inserts"]},"yanked":false}

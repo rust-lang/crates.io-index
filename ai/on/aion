@@ -1,0 +1,3 @@
+{"name":"aion","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a51ed1040075f0af1ebd6896e706bdae131dd8cad517360caf6d38a054d3dd5","features":{},"yanked":false}
+{"name":"aion","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d69d90012f3539ce0842fec9b609eb57cfdabf75cc085252dbfaeb275c0c22f","features":{},"yanked":false}
+{"name":"aion","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fc69e3360c9034aec142dca93c4bd7a7394069ed5ee99c1fc745cc79173ceb2","features":{},"yanked":false}

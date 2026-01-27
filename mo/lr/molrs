@@ -1,0 +1,2 @@
+{"name":"molrs","vers":"0.1.0","deps":[],"cksum":"9acf0455b3cb6b843cf484cae0d42e38c3474ce383767035466af53ccea219da","features":{},"yanked":false}
+{"name":"molrs","vers":"0.1.1","deps":[{"name":"pertable","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pretty_assertions","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"072954640cd5df33302ac5054d434a00306ea864b91f3765c6b786283cda3595","features":{},"yanked":false}

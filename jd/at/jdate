@@ -1,0 +1,1 @@
+{"name":"jdate","vers":"0.1.0","deps":[{"name":"time","req":"0.3.*","features":["local-offset"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a78835d443e641ea33599a4cc8591aea22de663240ef3d5f3c3f670922df5c8","features":{},"yanked":false}

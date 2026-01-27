@@ -1,0 +1,3 @@
+{"name":"family","vers":"0.1.0","deps":[],"cksum":"ef2f5e34398ed41e8860c5f425d797b5ea3fdd6ef267d4f22dd7555629f44e6d","features":{},"yanked":true}
+{"name":"family","vers":"0.1.1","deps":[],"cksum":"432d8e3d0cbc833c05c5576996754dbcb61648f43b6489531541838e101945b7","features":{},"yanked":false}
+{"name":"family","vers":"0.1.2","deps":[{"name":"family-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"878ff4851ab6f53348093775bac08e464f6b91ff3ed4dac646c12dead3733393","features":{},"yanked":false}

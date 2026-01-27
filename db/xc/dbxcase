@@ -1,0 +1,1 @@
+{"name":"dbxcase","vers":"1.0.0","deps":[{"name":"ureq","req":"^2.9.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf171f9e0ac7c43df6e4c4bdb5d46cf650dc903d89920ab5859dac66a82fed34","features":{},"features2":{"generate":["dep:ureq"]},"yanked":false,"v":2}

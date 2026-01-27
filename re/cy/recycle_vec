@@ -1,0 +1,8 @@
+{"name":"recycle_vec","vers":"1.0.0","deps":[],"cksum":"ab6e9398dea4723d4602255f88880b7a75c8996181f3bcef3416cceb7d56b828","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.0.1","deps":[],"cksum":"5cd82aa85f9e9ce0b8c29fa3bf50a626d7208506eb5434c043f64605533fcca2","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.0.2","deps":[],"cksum":"41b663104a5e1a93d33c24a629ba6a421056b62d271f1bc65a5376c27cccca2c","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.0.3","deps":[],"cksum":"2444222edee6617edf479d6f2b24f7842220fd3bda948f643fb5e0df2294bc1d","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.0.4","deps":[],"cksum":"c93f1bc0ff629615c72a2d918c794b85d6f583e22de547115a502c9e9852133c","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.1.0","deps":[{"name":"trybuild","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4b9652b312de19d8c1b40f28911083874641f216329ebe161ad2c6f8bc74224","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.1.1","deps":[{"name":"trybuild","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d904a8070bcbee8743ac957cf96da827269c7b1071266777eebd69dddc06ec4","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.1.2","deps":[{"name":"trybuild","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"10e9cc122e426bc407b6645a97bd351c2678abbeffd2295e73ca854cd2f15aed","features":{},"yanked":false}

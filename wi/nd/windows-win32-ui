@@ -1,0 +1,4 @@
+{"name":"windows-win32-ui","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3768c1e5ac6d14acc2dc2438e7e2740f43fddd0a529e7d3938c8f2e4b890c4ff","features":{},"yanked":false}
+{"name":"windows-win32-ui","vers":"0.22.5","deps":[],"cksum":"4025758ff8601b39761d3ddbc7fa4c96bf493b41524e2e3dc0a4a52d54dde2a6","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-ui","vers":"0.22.6","deps":[],"cksum":"0bb1aa5d43fe1d4c529472bb6fcde0776d2096bb935f564dcdb51e363f12d6ae","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-ui","vers":"0.23.0","deps":[],"cksum":"422af8f8263b11834d20570cf956372fc6678b29e57f9ae27fdab5c778b3d87e","features":{},"yanked":false}

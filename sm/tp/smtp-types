@@ -1,0 +1,1 @@
+{"name":"smtp-types","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a887a645bb184d15552072004cd63b25a8b51186394f5519de197b3841c9cc9","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

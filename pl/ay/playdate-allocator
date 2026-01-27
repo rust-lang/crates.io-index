@@ -1,0 +1,2 @@
+{"name":"playdate-allocator","vers":"0.0.0","deps":[],"cksum":"065a06c3081ff210c55ca87b73235fa34150928490e8dcca92375902b422e61a","features":{},"yanked":true}
+{"name":"playdate-allocator","vers":"0.1.0","deps":[],"cksum":"4e47c964892a255860e54137e3037aba725f358bd80f646464d62d69b3660184","features":{"allocator-api":[],"default":[],"global":[],"global-error-handler":[],"static-link":[]},"yanked":false}

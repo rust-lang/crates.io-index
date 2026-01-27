@@ -1,0 +1,1 @@
+{"name":"ezpz","vers":"0.0.1","deps":[],"cksum":"c1020f01473d4ab123e1c5e15333e8769ba4c37f8044873ea1067ac8a531f62a","features":{"api":[],"cli":[],"default":["cli"],"full":["cli","api","wasm"],"wasm":[]},"yanked":false,"rust_version":"1.70.0"}

@@ -1,0 +1,1 @@
+{"name":"crabby_dns","vers":"0.1.0-alpha.5","deps":[{"name":"clap","req":"^2.33","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bcae08b355b12a10eba5115955d2d18f11366317a987d1b0d0c4fa6d19b1315","features":{},"yanked":false}

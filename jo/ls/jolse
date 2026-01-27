@@ -1,0 +1,2 @@
+{"name":"jolse","vers":"0.1.4","deps":[{"name":"zstd","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c234e9ce1f390425469ba31f88d3f83201df4d92da32b0b2defed944e2ad6dd","features":{},"yanked":true,"rust_version":"1.77.2"}
+{"name":"jolse","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bddd29f50d89a76085201ccd76106a9fd423484158b1e19690d4d4bb578e4468","features":{},"yanked":false,"rust_version":"1.77.2"}

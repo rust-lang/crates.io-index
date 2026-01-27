@@ -1,0 +1,2 @@
+{"name":"simple-rate-limit","vers":"0.1.0","deps":[{"name":"ring-vec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa6c6f072e1f2269c2fa2b3606607c0a68340057650cb4f3657db12dbd5b1fb7","features":{},"yanked":false}
+{"name":"simple-rate-limit","vers":"0.2.0","deps":[{"name":"ring-vec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ccab4cdca88b8b31c38794901f47b7fddc618ae4c79407ddcb1136d1fed1270","features":{},"yanked":false}

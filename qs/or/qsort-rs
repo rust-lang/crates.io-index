@@ -1,0 +1,2 @@
+{"name":"qsort-rs","vers":"0.1.0","deps":[],"cksum":"094f484e670b3116bac3de51dcae2bbb58e94ed94cfc046e60a3237219c8bba3","features":{},"yanked":false}
+{"name":"qsort-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2bd2fd5ffbb7ba4d93963e1e9dbf605b425b9b39e1436b4bce27b30ee58b49b7","features":{},"yanked":false}

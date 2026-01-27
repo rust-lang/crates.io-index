@@ -1,0 +1,2 @@
+{"name":"brvm","vers":"0.3.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e74333444dcbed02c4eebcd2796f6cc42714bcb83877f7dff17247cad6127ac","features":{},"yanked":false}
+{"name":"brvm","vers":"0.3.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef2b1419eae0321d24206c03ae04094ce517dd63c24ae9d7cd3d5209f3275ae8","features":{},"yanked":false}

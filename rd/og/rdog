@@ -1,0 +1,1 @@
+{"name":"rdog","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e65e104968b7ebbf33fe41aa482fb3eb77d7ba8b18ff7e7a55937bd10822af7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"json2str","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aaf79095e1d51a985b0ce3a8e0c3b7cdc16651ca24e0820a9e753336c1975b0","features":{},"yanked":false}
+{"name":"json2str","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1a3882d04988431bef267d04e7b6e56d16008c80a41953804f957a970eb5cd0","features":{},"yanked":false}

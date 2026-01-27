@@ -1,0 +1,2 @@
+{"name":"card-backend","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"608e608cee7791cb1cc67ba5b5e697cb566623feda90ca6192e42579d67125e1","features":{},"yanked":false}
+{"name":"card-backend","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd3ee3a298842065dc489180c34a4fe4bbbb8643bb422009d79558a099fb42e5","features":{},"yanked":false}

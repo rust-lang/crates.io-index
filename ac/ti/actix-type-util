@@ -1,0 +1,1 @@
+{"name":"actix-type-util","vers":"0.1.0","deps":[{"name":"actix-web","req":"^4.9.0","features":["cookies"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"03cf5144507e5e44aa0e9425da20940ceff36e6f1f2b811a5667651203264232","features":{},"yanked":false}

@@ -1,0 +1,16 @@
+{"name":"tinyjson","vers":"0.0.1","deps":[],"cksum":"62326455ad5595c3f67de4adc84fae810ae357171992df40b83fe4abeadf6ac9","features":{},"yanked":false}
+{"name":"tinyjson","vers":"0.0.2","deps":[],"cksum":"cf0ae841732c38399461a9a4f63e97535704fe0932958d299e56afd84082ca1b","features":{},"yanked":false}
+{"name":"tinyjson","vers":"0.1.0","deps":[],"cksum":"fe4e5295fb264721097c1ba15143a0c859c493c33c1ba3bf0af5d70a67b86e57","features":{},"yanked":false}
+{"name":"tinyjson","vers":"1.0.0","deps":[],"cksum":"c03a4df0756f8bb0124260b9d9527f6a136732a40e5b4bf789367b63d7eae45f","features":{},"yanked":false}
+{"name":"tinyjson","vers":"1.1.0","deps":[],"cksum":"64c0f361147c4a4d5a5e113278d8dfc7ed427d4e19dea725eac7dadc283e4c13","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.0.0","deps":[],"cksum":"75437544a8b950bb274cc8b77da314c81d88c1211c2c672748195726d3b2092b","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.0.1","deps":[],"cksum":"628c2d2a9b5f069624845fe4e83f2fb0441e54925d2cf4f354f7ffc44e9e5176","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.0.2","deps":[],"cksum":"621113c91acdc57ff4e77e18618350418f4a1b8c0bf03fd7d2b9ec3866716fe7","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.0.3","deps":[],"cksum":"7f883009b433d4cb27837834d0f63072eb138394c8ae1107b15d25e3f50efe77","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2665f9e6c2bba18efb2265a65f8b9383c906f9803f4e344829f29cf0ecb70fe","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.1.1","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53c76489afcdd3a2c348e0484922c8c3df380bfc8d3fa20f1d2250751c9eb75a","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.2.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad73d64a61cff5b678aa6a06871966914b356c176ca278e62f76c37d04d52506","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.3.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a8304da9f9370f6a6f9020b7903b044aa9ce3470f300a1fba5bc77c78145a16","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.4.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"493b8f4ebf0b2d815f7db3416df207d62cd4782ec7f5ccb571703ecba20effb1","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.5.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4b2f023483085707f4f0c1238a8a7baf8b502a1d427b9ed2a243884d3d687bb","features":{},"yanked":false}
+{"name":"tinyjson","vers":"2.5.1","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9ab95735ea2c8fd51154d01e39cf13912a78071c2d89abc49a7ef102a7dd725a","features":{},"yanked":false}

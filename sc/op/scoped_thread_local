@@ -1,0 +1,15 @@
+{"name":"scoped_thread_local","vers":"0.1.0","deps":[{"name":"reborrow","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scopeguard","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d88900aed7853257a2720c6c6620b17b36283168bbbb03ce427a553bc1234689","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.1","deps":[{"name":"reborrow","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scopeguard","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3820ad6eb3fc2b1ac8eab926ec00eb61410b2dde6f2625e1d64d94f1895885c5","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.2","deps":[{"name":"scopeguard","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe24239f4a77ad48ec0a9ef004c69b7a759a8a7e895503b75ad06832596a4168","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.4","deps":[],"cksum":"2ded69ce806ab0e54fca6ce4c24703109b5828c2a7cf91f230bf5b4e5c5f568f","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.5","deps":[],"cksum":"74edb69979ea0142d8a265eb617847fa849f60ca3534d703ef01cdc6c5283c83","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.1.6","deps":[],"cksum":"29320381d4cc81d67bde5f19695b693ce59b8816aa465d8e544a7244da34fa64","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.2.0","deps":[],"cksum":"10fcca44144446eea69e626256bd6bb6da85233c4d143e071c2929e37818f37f","features":{},"yanked":true}
+{"name":"scoped_thread_local","vers":"0.3.0","deps":[],"cksum":"2dfb8eb9136869882c082634bdce09fa4d52ec90c530e8e9e926c67bef59ff72","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.4.0","deps":[],"cksum":"dcdaccc283970655657203c821218a0b6a16b897cfdf87ebf510075c2ce546f1","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.5.0","deps":[],"cksum":"fca488507e0243bc6fbe36594bc8b274f205f32725065ebaa7636ee563ad47c4","features":{},"yanked":true}
+{"name":"scoped_thread_local","vers":"0.5.1","deps":[],"cksum":"a2691044c7b46fd9d05f8efe0801732346a332eb358962489bed7598c3decd41","features":{},"yanked":true}
+{"name":"scoped_thread_local","vers":"0.6.0","deps":[],"cksum":"9eb91c52f993dcc33afb8963880749cc8c8c06b2d09c437f580edfb711c4d3d8","features":{},"yanked":true}
+{"name":"scoped_thread_local","vers":"0.6.1","deps":[],"cksum":"c8d02ffc27a1bbcc17092a4d7750e0d132dd28e9d86cb10d336a4b6dd7b033bc","features":{},"yanked":true}
+{"name":"scoped_thread_local","vers":"0.6.2","deps":[],"cksum":"c76c4638c2dad66721cd690056210784eac1090fa646bc35c2f439cfd24feb57","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"1.0.0","deps":[],"cksum":"72f74536a5851ef52e5e8a5e8ba1449fe69a310181df41c453a0b31d0d9a3a0c","features":{},"yanked":false}

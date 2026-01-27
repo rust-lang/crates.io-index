@@ -1,0 +1,2 @@
+{"name":"rcolors","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33851795bd0c038c5e2913ce4bd48672bf2a6aae13f1c321bd4fb5c7d9a99f75","features":{},"yanked":true}
+{"name":"rcolors","vers":"0.1.1","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14152fabbd8959200c73f9003b666104d4681d1840fd1971fbdb97b4d4d6a827","features":{},"yanked":false}

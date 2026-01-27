@@ -1,0 +1,6 @@
+{"name":"nibble_vec","vers":"0.0.1","deps":[],"cksum":"20ad48530931e54b50eaa1ccec4f72b373310a28194c94af2bdae8c6ad320261","features":{},"yanked":false}
+{"name":"nibble_vec","vers":"0.0.2","deps":[],"cksum":"c49dc0cbda35ef607b58b7a023b7db8436969f399f52df101157dde9c20a73b5","features":{},"yanked":false}
+{"name":"nibble_vec","vers":"0.0.3","deps":[],"cksum":"62e678237a4c70c5f2b917cefd7d080dfbf800421f06e8a59d4e28ef5130fd9e","features":{},"yanked":false}
+{"name":"nibble_vec","vers":"0.0.4","deps":[],"cksum":"c8d77f3db4bce033f4d04db08079b2ef1c3d02b44e86f25d08886fafa7756ffa","features":{},"yanked":false}
+{"name":"nibble_vec","vers":"0.0.5","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"smallvec","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24551005ff184ee30bff25b5ab8aedd60deeec86b27afc2e5fc55b128942de4c","features":{},"yanked":true}
+{"name":"nibble_vec","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"smallvec","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77a5d83df9f36fe23f0c3648c6bbb8b0298bb5f1939c8f2704431371f4b84d43","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sapiens-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9fa529b0668ccd508b36bf77abc883ab8ac6a10b6a505b6c4eeed926976073dc","features":{},"yanked":false}
+{"name":"sapiens-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f1ad73b4b3dcecdd621e0577ad4a5ef33073b0d3ecf94213ec782939c990e7bc","features":{},"yanked":false}

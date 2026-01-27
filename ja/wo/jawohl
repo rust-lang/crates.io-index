@@ -1,0 +1,2 @@
+{"name":"jawohl","vers":"0.1.0-dev","deps":[{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"742c2ca3ab5f6b5fb164febdb94859379211cc5b6cf53d9adc1b65da1743f742","features":{},"yanked":false}
+{"name":"jawohl","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0da2ea8700b5798ffcf1a5311c4c541753ed5e0c47aba7c7187152871389ec7c","features":{},"yanked":false}

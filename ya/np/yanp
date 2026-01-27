@@ -1,0 +1,2 @@
+{"name":"yanp","vers":"0.1.0","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a5e5f2c558ca815a25c159b079a155f313f06360a8f5cefc1e92d051042116df","features":{"alloc":[],"default":[]},"yanked":true}
+{"name":"yanp","vers":"0.1.1","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"529edf891c41afc95d803ab1a55257a66f7ca90332a45aeba37b7f91efedba43","features":{"alloc":[],"default":[]},"yanked":false}

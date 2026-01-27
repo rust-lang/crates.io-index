@@ -1,0 +1,1 @@
+{"name":"galois-kernels","vers":"0.1.0","deps":[{"name":"bindgen_cuda","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3af439933478d3c1ff581bc14b895516abe24bbf4319d9f5a05c9cf2829381ef","features":{},"yanked":false}

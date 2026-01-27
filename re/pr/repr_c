@@ -1,0 +1,1 @@
+{"name":"repr_c","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":false,"target":"cfg(not(target = \"wasm32-unknown-unknown\"))","kind":"normal"}],"cksum":"9fc957a4670fea915ae9f495be90f54f15d7bff33b60e5c6edb4ef8dbb9c5c55","features":{"alloc":[],"default":["alloc"]},"yanked":false}

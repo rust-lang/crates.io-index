@@ -1,0 +1,4 @@
+{"name":"buguc","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lib-rv32-asm","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed1ab801024aada194ebeb106dbbc8daea166376a2ef3a47ecf16c91e959b533","features":{},"yanked":false}
+{"name":"buguc","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f88fea43340f491f05202362213e0a56d0e2e5f372f0558799dbebf3cc00130","features":{},"yanked":false}
+{"name":"buguc","vers":"0.2.1","deps":[],"cksum":"b216a5f150b52830f8c1a5b42d30dcc79c2127cf0ed52bd0cc1a20c358885a0f","features":{},"yanked":false}
+{"name":"buguc","vers":"0.3.0","deps":[],"cksum":"9d919e0a0f4753a0cf1038adc788dd97a4b31f3e80206bcbd2876178e07d09f7","features":{},"yanked":false}

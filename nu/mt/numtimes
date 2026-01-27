@@ -1,0 +1,2 @@
+{"name":"numtimes","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.40","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"055f389c7da0db8051d2571b93d5bcb044b2dfc65894f2573960402a64f599b5","features":{},"yanked":false}
+{"name":"numtimes","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.40","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f650951b1745d365167ca784b50edb0b6ad6d01245aa920ccd17e3a80c77a6e","features":{},"yanked":false}

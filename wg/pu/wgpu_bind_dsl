@@ -1,0 +1,2 @@
+{"name":"wgpu_bind_dsl","vers":"0.1.0","deps":[{"name":"wgpu","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fbfdf4bf2e4b50efa2162a1b2d3e61545f6d999e66529d29559600009497c1b1","features":{},"yanked":false}
+{"name":"wgpu_bind_dsl","vers":"0.1.1","deps":[{"name":"wgpu","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"341c11e63ccec9a01c003664395816b23029d5a3080d62f84e5ebbac00d7ce03","features":{},"yanked":false}

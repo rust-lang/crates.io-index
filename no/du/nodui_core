@@ -1,0 +1,1 @@
+{"name":"nodui_core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ee9105f6c8e541f75b53c04d52d7de39a8b86f0941e779cab34067c15ace8249","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.79","v":2}

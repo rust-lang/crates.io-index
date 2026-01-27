@@ -1,0 +1,9 @@
+{"name":"rustkey","vers":"0.1.0","deps":[],"cksum":"e7a5d48c6860b36534e9bd132fae3507d4ea91eb8800d306a9820ea269d596fe","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.2.0","deps":[],"cksum":"169e6d5d0b276dd3e7d0f5fa8ce2e47affe989ffd78bd1273c7ba5be7c906527","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.3.0","deps":[],"cksum":"c60372d6247f84a7fd9ca5c9c0847882057a4646e788f46e47aa6d00d690d04f","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.3.1","deps":[],"cksum":"5a4d886f1fd6c55b0b842b608de46bba8e2f21d18f9ca45e862e732631de2a28","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.4.0","deps":[],"cksum":"f2a84f2520f76d4d99f29c6a1a88372a97b8b3eeb07ed22716bf12ef88b7d893","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.4.1","deps":[],"cksum":"dff73425be22e7e8208bfc319d6259a72fdcb4937dbe7162e81a7fc42ca59eea","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.4.2","deps":[],"cksum":"767afcbd85a2fc63135bd27529aa1d0eb1f34b9d39785555fe9b3edf5be682c7","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.4.3","deps":[],"cksum":"58a611ee2eb56d436e080a45ea31994c90545f4885f95155fbc91ca593ab39f9","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.5.0","deps":[],"cksum":"8a3cd1aaacad6778b77a4ec0822185c5b17ba65e153ca9bbb4841c6c1cdf38a3","features":{"blake2-firmware":[],"blake2-standalone":[],"default":["blake2-standalone"]},"yanked":false}

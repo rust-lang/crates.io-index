@@ -1,0 +1,1 @@
+{"name":"minigrep_jimloop","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.3","features":["derive","color","suggestions","unicode","wrap_help","unstable-v5"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c7107e9c40f819743ec3029ac137d9e36a7aa345089b930619f278f2594a5f3","features":{},"yanked":false}

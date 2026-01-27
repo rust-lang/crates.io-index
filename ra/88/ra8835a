@@ -1,0 +1,2 @@
+{"name":"ra8835a","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"926ff1ed63c3266924c9e81d38849981e42ce3e64229794d9f714982716c4f2f","features":{},"yanked":false}
+{"name":"ra8835a","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd6e6075880530a2728667013c3dabcd4a7a4bb4b7cd6bdd3747c6900cfc6900","features":{},"yanked":false}

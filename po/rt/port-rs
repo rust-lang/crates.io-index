@@ -1,0 +1,2 @@
+{"name":"port-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1069ead72fd1d0f488c37cfcee7385bac45400a41aed2ad99c602826b9c47d62","features":{},"yanked":false}
+{"name":"port-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"903e11f0f843569f53e23fa3feeaf9486c3f12c3682b9ba432342f2824a022df","features":{},"yanked":false}

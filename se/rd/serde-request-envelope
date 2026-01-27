@@ -1,0 +1,3 @@
+{"name":"serde-request-envelope","vers":"0.1.0","deps":[],"cksum":"6a2157a81b663f484a18915ede0cf91d9699701097c579a6b661ca4cb6709936","features":{},"yanked":false}
+{"name":"serde-request-envelope","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.216","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73385b8e114a4e6013f41eb5f72579ff1844413eb10fc44f1417c11aef229c8d","features":{},"yanked":false}
+{"name":"serde-request-envelope","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.216","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6f09e0c689298a8ca529378f7454ae59e890b96554495e377af8b49a522968b","features":{},"yanked":false}

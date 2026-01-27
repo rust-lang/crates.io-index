@@ -1,0 +1,2 @@
+{"name":"alembic-log","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2a321ebf13deed3c33e3e9b16199c63dbba6130c7f290573d36fd4cfaaaf9ec","features":{},"yanked":false}
+{"name":"alembic-log","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1fb6b043bf69f4421145f5928dbcd7ec8598aef16b2f5907dbe195b8d35d842","features":{},"yanked":false}

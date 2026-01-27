@@ -1,0 +1,3 @@
+{"name":"autopp_inc","vers":"0.1.0","deps":[],"cksum":"3409d6602d6867d767108de542a0b05af60dae81f8e04412ef7b5a8e89b5b45e","features":{},"yanked":false}
+{"name":"autopp_inc","vers":"0.2.0","deps":[],"cksum":"d6a9a11281f44819b6221dabf764dafb8156a4c71f265ec50590de6d4846472f","features":{},"yanked":false}
+{"name":"autopp_inc","vers":"0.3.0","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebd57039f4f7d748a4222790ed3c1d7c105beec53ff0d6ce81cace5f85f7a21d","features":{"cli":["clap"],"default":[]},"yanked":false}

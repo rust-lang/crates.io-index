@@ -1,0 +1,2 @@
+{"name":"chemise","vers":"0.1.0","deps":[{"name":"clap","req":"^2.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"587b68485a4626fddab4afd1eca4576ec1707811174349a8c4ba3f74d478037d","features":{},"yanked":false}
+{"name":"chemise","vers":"0.1.1","deps":[{"name":"clap","req":"^2.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d95d1ac50b99a972281f962f874f6c0627a8231c22c04ed8a50694338f96b0a5","features":{},"yanked":false}

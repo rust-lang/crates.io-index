@@ -1,0 +1,2 @@
+{"name":"na_print","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65cb6dad1bf1459f7feb93a22e8ed41409e9a54794c57feeeb8a4435c7f3b956","features":{},"yanked":false}
+{"name":"na_print","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c8db6c57d7b4541577a17ac5cf599412411eb59fccb2fe4ebe2546881134f6d","features":{},"yanked":false}

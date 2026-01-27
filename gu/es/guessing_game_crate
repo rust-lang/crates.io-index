@@ -1,0 +1,2 @@
+{"name":"guessing_game_crate","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58f0191eb8db43e3fb617a3aacb79de7378dc9fd43ae46ce04b9987da9a404ce","features":{},"yanked":true}
+{"name":"guessing_game_crate","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3021f71d12fd2ba258e994e14346f5017872523b5d6ec92bfcdc5020b2414663","features":{},"yanked":false}

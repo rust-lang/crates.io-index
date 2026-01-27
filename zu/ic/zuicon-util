@@ -1,0 +1,4 @@
+{"name":"zuicon-util","vers":"0.1.0","deps":[],"cksum":"f1fcbce5a045d13296cda9b92de59e8672445a11c3598b3dc2ef2c31dc07f55b","features":{},"yanked":false}
+{"name":"zuicon-util","vers":"0.1.1","deps":[],"cksum":"5242780dfb0b72b2912762e5867b8d9111614ca0de467e4ec9e39342bd78d9ed","features":{},"yanked":false}
+{"name":"zuicon-util","vers":"0.2.1","deps":[{"name":"roxmltree","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e18058decdff07979af845d39f6e60fffed50cd2319d325009dca1f96285c20e","features":{},"yanked":false}
+{"name":"zuicon-util","vers":"0.2.2","deps":[{"name":"roxmltree","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e621cc5c4a601e32e97218deca43278e0fa79bf149d5c99296e5738e5426a8b8","features":{},"yanked":false}

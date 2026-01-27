@@ -1,0 +1,2 @@
+{"name":"parquet-viewer","vers":"0.1.0","deps":[{"name":"peroxide","req":"^0.39.5","features":["parquet"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ef2a9cf0380ea47ac2791567bada5eeded4d9480c1b4bfc5846eafa6dedd8e8","features":{},"yanked":false}
+{"name":"parquet-viewer","vers":"0.2.0","deps":[{"name":"peroxide","req":"^0.40.0","features":["parquet"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4b8d2df4d0c45e8ffdb6737351dfb15641ed591eac21ccb163c8214d3428d2d","features":{},"yanked":false}

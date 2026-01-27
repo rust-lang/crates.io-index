@@ -1,0 +1,1 @@
+{"name":"ez9","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winreg","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25ad076dda33dd3fbc7674ed794bc6df36d0f9adb51820de4c489047f89117d8","features":{},"yanked":false}

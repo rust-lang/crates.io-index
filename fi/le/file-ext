@@ -1,0 +1,12 @@
+{"name":"file-ext","vers":"1.0.0","deps":[{"name":"rust-web-server","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e68bbb4fee45067096550d0f709c8bbdad1b55f3a056806bfad05a2baaef76e","features":{},"yanked":false,"rust_version":"1.64"}
+{"name":"file-ext","vers":"2.0.0","deps":[{"name":"rust-web-server","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3420a98cefeb6a759bcd13aa783284589f970148511e184ad488fb4a5abb646c","features":{},"yanked":false,"rust_version":"1.64"}
+{"name":"file-ext","vers":"8.0.0","deps":[{"name":"rust-web-server","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c97ee2d3b9df50768025ddb6ab4bf03eb27497bb0654a72684c5a4a253f7c6c6","features":{},"yanked":false}
+{"name":"file-ext","vers":"8.0.1","deps":[{"name":"rust-web-server","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f820097052247ab75d90c9ba2fef6a41364a6a06b26cb9f9109bd8fd2fb64806","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"file-ext","vers":"9.0.0","deps":[],"cksum":"fc4300d378887762c88caca638eb52bd507b7d56f295f649bfd39fc202ac3d58","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"file-ext","vers":"8.0.3","deps":[],"cksum":"78ee2722cdc6a756a9fb5ed87c48a6135c5a640c6fe39ca98d5aefc94df305c4","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"file-ext","vers":"9.0.1","deps":[],"cksum":"2ac71392db8da60f8ac18f706603356feab206dbd182895171ae94dbaf19e461","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"file-ext","vers":"9.0.2","deps":[],"cksum":"320bf5f0e2ede22c3a2a56c5a2671fb0058e9c2f848e792bdbc560a9747fd16d","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"file-ext","vers":"9.0.3","deps":[],"cksum":"69b1fd2a427ec2927ff44e2afee5c3198e247ab22a0d0ad72542209bbca53d8a","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"file-ext","vers":"10.0.0","deps":[],"cksum":"348a2a0905871744c15adf18870d9d65ee912aa16ec7b8111a4cf9d574f01182","features":{},"yanked":false,"rust_version":"1.68"}
+{"name":"file-ext","vers":"11.0.0","deps":[],"cksum":"8ed25c8ba94e43d7fcbf8190f63431455f566f435a617bd41d032d9d0564c360","features":{},"yanked":false}
+{"name":"file-ext","vers":"12.0.0","deps":[],"cksum":"311de60fc9d3d5d99e74fed71ac20340d14c2653b01d3c60a15603b0c0c342cd","features":{},"yanked":false}

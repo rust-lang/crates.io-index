@@ -1,0 +1,2 @@
+{"name":"iowkit-sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79c5ccaf8929b9518aa028b3669f050da013c45f35d6258aa85693c04a694c7d","features":{},"yanked":false}
+{"name":"iowkit-sys","vers":"0.1.1","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fded90815f83b178f7072baa18e94d5b59183f073d098b91d048dbe912b84ea7","features":{},"yanked":false}

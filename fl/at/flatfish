@@ -1,0 +1,1 @@
+{"name":"flatfish","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9498f58cf300203fd0a1c5d0df8c7252da992154ce986b66c562fd0a4b229ee8","features":{},"yanked":false}

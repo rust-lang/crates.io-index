@@ -1,0 +1,7 @@
+{"name":"fixedvec","vers":"0.1.0","deps":[],"cksum":"b7040992e48cf6b0bb01acbc99a5794d6f82504ed540bb133cd4cbfbe5ca8a82","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.1.1","deps":[],"cksum":"88da4a5d948c1b40cfa11e9565cbb3329b09b2b27ff2bc74cbb8df3da233a93f","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.2.0","deps":[],"cksum":"e54646b8dd13ed14fc0913559bd1f3916fd6f006adf4aa5b3121c0ff68c83178","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7674fe1cfec7fdee789191de0778b5b67f800ececae0b162cf0226fcbd9c53fc","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.2.2","deps":[],"cksum":"a4ab4b98c4788a1d1639183ec2e971071139770ff1a8b9ec4cb4c25c422a5bd5","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.2.3","deps":[{"name":"skeptic","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"skeptic","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7c6c16d316ccdac21a4dd648e314e76facbbaf316e83ca137d0857a9c07419d0","features":{},"yanked":false}
+{"name":"fixedvec","vers":"0.2.4","deps":[],"cksum":"b395ef2adf62bdeefcd1b59ad0dd2225c6c333ec79656ea79ac5285c46d051ea","features":{"unstable":[]},"yanked":false}

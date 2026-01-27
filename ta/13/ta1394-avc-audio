@@ -1,0 +1,2 @@
+{"name":"ta1394-avc-audio","vers":"0.1.0","deps":[{"name":"ta1394-avc-general","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a680d4b9a98d123b214c554c5029a12e1408325ffe2046490291c87ffa21576","features":{},"yanked":false}
+{"name":"ta1394-avc-audio","vers":"0.2.0","deps":[{"name":"ta1394-avc-general","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efe364a279e288a65c8085f66f6539baa7ed3ecbd1369350045b3b19bf4ee30e","features":{},"yanked":false}

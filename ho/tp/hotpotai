@@ -1,0 +1,1 @@
+{"name":"hotpotai","vers":"1.0.0","deps":[{"name":"reqwest","req":"^0.11","features":["blocking","multipart"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b44d17e56199885a6f58f6570c632ebd80c35a659ed10e4729c142af9feef2cb","features":{},"yanked":false}

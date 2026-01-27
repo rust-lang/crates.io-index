@@ -1,0 +1,4 @@
+{"name":"assert_has_field","vers":"0.1.0","deps":[],"cksum":"8561ddd2b2fe700460113d1204d29fcbfc6417df541ec41b8f98bd487936ebe9","features":{},"yanked":false}
+{"name":"assert_has_field","vers":"0.1.1","deps":[{"name":"type-equalities","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9313ebc518bac8811ba91cbff7c3a770c47ead1efa21fa62c6360dfebf01e5","features":{},"yanked":false}
+{"name":"assert_has_field","vers":"0.1.2","deps":[{"name":"type-equalities","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"563837b5dee68255b5fffac3076935845e8b1fd5aef77027c6a153e7d21292f6","features":{},"yanked":false}
+{"name":"assert_has_field","vers":"0.1.3","deps":[],"cksum":"c94a3e31e0850485db5a2556d447bde116df38a2edf8a7a895b2387beaa7a057","features":{},"yanked":false}

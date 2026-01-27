@@ -1,0 +1,1 @@
+{"name":"pi_debug_info","vers":"0.1.0","deps":[{"name":"web-sys","req":"^0.3","features":["console"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68d94ce05afc31df7597c0b5dec25fd14ace4790aec72102f3aa967cb95de35e","features":{"default":[],"print":[],"wasm-bindgen":["web-sys"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"beam","vers":"0.1.0","deps":[],"cksum":"22f80f81555cf2ab0e0df10a7cb393b9087dfbcda9143f68bc98c4a9fd3642a8","features":{},"yanked":false}
+{"name":"beam","vers":"0.2.0","deps":[{"name":"expectest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"point","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b635e1290f7889d044b4943898cfdab76ac7a1aeb8b913b4b36933c79f667ad3","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"thinarray","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6db08d332d605d49f4c26646848a5fa4e6c4c34e79b4ad01c540409b2a88c7","features":{},"yanked":false}
+{"name":"thinarray","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6057365d7b73770139a632b8d92ddbb63bf5455fc43c61153bff63f7eaeffa52","features":{},"yanked":false}

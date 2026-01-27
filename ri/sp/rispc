@@ -1,0 +1,1 @@
+{"name":"rispc","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c62228a339691c7699d9dc90545a4b6bf47adc5862712baa08b75ad88ca2845","features":{},"yanked":false}

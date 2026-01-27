@@ -1,0 +1,2 @@
+{"name":"redgold-safe-bindings","vers":"0.1.46","deps":[{"name":"ethers","req":"^2","features":["abigen"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf273fe492c83505970a19459a153a5d9e6224984bb6ec550292b911ab4508a6","features":{},"yanked":false}
+{"name":"redgold-safe-bindings","vers":"0.1.48","deps":[{"name":"ethers","req":"^2","features":["abigen"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"31ba5fa54781565a05cc2746096aeedad1bfb1eb19f685780e02ad32cc2823d7","features":{},"yanked":false}

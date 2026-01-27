@@ -1,0 +1,2 @@
+{"name":"regex_prime","vers":"0.1.0","deps":[{"name":"fancy-regex","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a786e02181258f9c7310b8a07aed37a5e6cfa7e2fc0d6ceec85c98f41ac7e639","features":{},"yanked":false}
+{"name":"regex_prime","vers":"0.1.1","deps":[{"name":"fancy-regex","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee401d6d352000c1537c6b6e42feb09108672356b73beae4544e65bf1404b304","features":{},"yanked":false}

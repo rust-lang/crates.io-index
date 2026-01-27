@@ -1,0 +1,2 @@
+{"name":"cands_transport","vers":"0.1.0","deps":[],"cksum":"56292774af2e45959460d8a778b4ebd12bc83d3df45e1a4bdad9d2e3c1e0ea0a","features":{},"yanked":false}
+{"name":"cands_transport","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.210","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"560c6cb20cffc479cdceb011b52915769bacc99e5c392e5877c46b8699c462f8","features":{},"yanked":false}

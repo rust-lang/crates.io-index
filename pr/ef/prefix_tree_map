@@ -1,0 +1,3 @@
+{"name":"prefix_tree_map","vers":"0.1.0","deps":[],"cksum":"4d9464839103a960ce63d5a0e37c93619c576465b49d35814660ba9c53f6a0a1","features":{},"yanked":true}
+{"name":"prefix_tree_map","vers":"0.2.0","deps":[],"cksum":"4d364ad9fb58f8525a4e8521bda99abef4e31dff216bb94bdd5450950278d608","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"prefix_tree_map","vers":"0.2.1","deps":[],"cksum":"ff18d4689013a9426f91537e79fcc8ccdb1b8f595a42b510fcbb7687e96f71da","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.59"}

@@ -1,0 +1,5 @@
+{"name":"datastructures","vers":"0.1.0","deps":[],"cksum":"8738766e3f92af62062ad03322a1b8b5c002d9e8be0352ca7a433311251b6d49","features":{},"yanked":false}
+{"name":"datastructures","vers":"0.1.1","deps":[],"cksum":"61818fa2be48a53f4a1c2dd711a300cadb5d185995189000a45ca425f450371b","features":{},"yanked":false}
+{"name":"datastructures","vers":"0.1.2","deps":[],"cksum":"08daf35fe0c3238874a7807a55a149ff5df242afc28f65cff4aa556c82e10de3","features":{},"yanked":false}
+{"name":"datastructures","vers":"0.1.3","deps":[],"cksum":"8e310033b7baa7579c6bcfa1a675b4561f86f6b38d7d49bb1d998d3787f766d1","features":{},"yanked":false}
+{"name":"datastructures","vers":"0.1.4","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"522cdafa648d9586b2a22ac0b672333fd481b1c3c9da5a34561a1272c53fd7c1","features":{},"yanked":false}

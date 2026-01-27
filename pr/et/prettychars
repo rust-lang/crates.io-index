@@ -1,0 +1,1 @@
+{"name":"prettychars","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e962f0117f861f8ce058e1d3a1a482dc496cdd7b6da7989f55305c2ff4d4c39","features":{},"yanked":false,"rust_version":"1.70"}

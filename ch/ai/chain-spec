@@ -1,0 +1,2 @@
+{"name":"chain-spec","vers":"0.0.0","deps":[],"cksum":"93820ce5db53f09fd48fcc51f1ceb84cf576776f6f9abb57dc5a8ce10bdedb76","features":{},"yanked":false}
+{"name":"chain-spec","vers":"2.0.1","deps":[{"name":"serde","req":"^1.0.101","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b100dc07048f1028cd015e4cba90c82d3f39dfd0deccc1c8d1a90271edb4741","features":{},"yanked":false}

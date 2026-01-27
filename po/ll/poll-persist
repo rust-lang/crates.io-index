@@ -1,0 +1,1 @@
+{"name":"poll-persist","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.28.1","features":["test-util","macros","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"196bee568176aa2a623826f6ea98127ebd5c74c9772e42875bf544f29f467261","features":{},"yanked":false}

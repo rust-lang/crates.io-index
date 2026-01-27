@@ -1,0 +1,2 @@
+{"name":"seqio","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d031ac0f11afcb70f723569607784f3a4454656bf8365e3885a48e1da4d5709","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"seqio","vers":"0.1.1","deps":[{"name":"flate2","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88e228accd9a8d908799d1784ef463d030f9aaab745b645ca01db5d42583760d","features":{},"yanked":false,"rust_version":"1.65.0"}

@@ -1,0 +1,2 @@
+{"name":"librador","vers":"0.1.0","deps":[{"name":"librador-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba5f058b52833d37cc7ecbfa13442e2075a1d2d88b5c32baa4968a47829741ee","features":{},"yanked":false}
+{"name":"librador","vers":"0.1.1","deps":[{"name":"librador-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e22720e24f2e68d0344812e2db4bd5e2e10fb2ac9c85dd026a0ba4f7ec092f4e","features":{},"yanked":false}

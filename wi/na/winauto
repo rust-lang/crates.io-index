@@ -1,0 +1,1 @@
+{"name":"winauto","vers":"0.1.0","deps":[{"name":"windows","req":"^0.61","features":["Win32_System_Com_StructuredStorage","Win32_System_Ole","Win32_System_Variant"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bc0ee1f550b739799f008316473c75eed34c650bebc3bf3c40b93210bf7b111","features":{},"yanked":false,"rust_version":"1.85"}

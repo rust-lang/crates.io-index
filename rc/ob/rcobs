@@ -1,0 +1,2 @@
+{"name":"rcobs","vers":"0.1.0","deps":[{"name":"hex-literal","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47cc18a203a7491ed0bbb53e9077fe08bbd546e2e39290ce9299233a7d08fdf3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rcobs","vers":"0.1.1","deps":[{"name":"hex-literal","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"06cdc4ce376f8155e90aa043d76cd40ecd11b2ec4bb4dea713194683ae01a252","features":{"default":["std"],"std":[]},"yanked":false}

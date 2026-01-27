@@ -1,0 +1,2 @@
+{"name":"gccrs-tools","vers":"0.1.0","deps":[],"cksum":"fe271f226ef7c3516b78688636a6c196033f49535505badd53605bb4d064060a","features":{},"yanked":false}
+{"name":"gccrs-tools","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"271f4b21e3c96550d5270757cdaea457958c8d713c083d9a41125d039afa84c6","features":{},"yanked":false}

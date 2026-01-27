@@ -1,0 +1,12 @@
+{"name":"hash-chain","vers":"0.0.0","deps":[],"cksum":"3a7cef9d1ff13aceb52127806ee56674bb5f1347ac5953032beba07485adb84f","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.1.0","deps":[],"cksum":"161c668ded062b12e17d2add6fdce8d880fbef7854e70c5748ced627def6edc1","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.0","deps":[],"cksum":"0d6bf304ba77a7054725f006c564922b7deea404b92f9bb753e4dfa141f052a4","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.1","deps":[],"cksum":"9a9a89bc3d3a6127379a5d3b01b52d18102dfed456bcfec9c0bc905123d0db2c","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.2","deps":[],"cksum":"86ac781129e8432d07a09fbe9651de89c10c916f150bc34638759a529fe71238","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.3","deps":[],"cksum":"a3246870050abe9ba3d4757fb26a741d5d9cc248fddeffa271de30ddf9b89373","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.4","deps":[],"cksum":"bca9840e2c0ff8522c53debfd0e584ddcfc062f7f0e40c777a741c131303a4c5","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.5","deps":[],"cksum":"07cef88ac0b3915a6439e1ad0d3be84ca4030b24a5e78ab9932913faad92ed14","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.2.6","deps":[],"cksum":"43f89a9fec762e82e651baabde42adc82c649fd1361944e334a99f1061f83070","features":{},"yanked":true}
+{"name":"hash-chain","vers":"0.3.0","deps":[],"cksum":"2106c38c9afc567d946949f30d039b10c590ee10c6fcda013984c87dff63828e","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.3.1","deps":[],"cksum":"cd7f5b2926d6cf007df2faaf9544852e8643e4551fa5b57acbf47e68dade187a","features":{},"yanked":false}
+{"name":"hash-chain","vers":"0.3.2","deps":[{"name":"hashers","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"im-rc","req":"^14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae1e9c6caefb8e1fb1be731642c99a7d5803d2282ee890f78dce35aeee988b2","features":{"default":[],"imutable":["im-rc"]},"yanked":false}

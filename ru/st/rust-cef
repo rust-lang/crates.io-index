@@ -1,0 +1,14 @@
+{"name":"rust-cef","vers":"0.0.1","deps":[],"cksum":"170f5e025ea6f6bc73b876ab63c55b8890aa34e842338adb4b0f6d79cd581138","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.0.2","deps":[],"cksum":"9f4b7f6708fe5f0fc44ced67ecbf6a8469acb73e339154d75c0126c07d80867b","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.0.3","deps":[],"cksum":"011421cc67d912c991e56173fe61c0c5d32be6a5cfe9e54ad9da210e14c2a3a4","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.0.4","deps":[],"cksum":"2eaeeef37d0365afef68ed269f87f4487da5b2ae70208d5e1017b09f605dde5d","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.0.5","deps":[],"cksum":"1255a297321ffc9e992769df0b97add0d58f00056657ac8bc58dd51b2fc9d744","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.1.0","deps":[],"cksum":"5b8cdd71a2abea831533204870167833c6d318d1c403ef46e369b7c66daf9744","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.1.1","deps":[],"cksum":"d267ce1717cf645a6a76e02f177493c5ebb6feae9be2a2412411ea17e14cd09f","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ec71289cd3c243a393a59f84e9d26e7521b6468b85f69005dbf5dd086daf506","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.0","deps":[{"name":"time","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1309bda4c4be0b2878f00c9b8cdea0d3e6dbc5154bd3371719fe6ed92506a89","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.1","deps":[{"name":"time","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0bd1eefc7988cc072123c70698032a8dfe2722550d66503b9ba59f04d898d0b","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.2","deps":[{"name":"time","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a70a8c58f005af7241f588ef4037dafa6b8e66348f9d2773ca9b555b9d87da6f","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.4","deps":[{"name":"time","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2436dd7605efe400838899ed0240b46854a4d9cf139fc0ae9e57a4bc0c2408d5","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.5","deps":[{"name":"time","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d93dd9e0f35519630ebd25832c499ca70d9b0d313f0a90fd19379bc791a4c9f4","features":{},"yanked":false}
+{"name":"rust-cef","vers":"0.2.6","deps":[{"name":"time","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70ce5bde30eff4a399cc73f99f3b7f6e03da59c4aa23d7c1c1b35c5a6f834966","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"dummy-bin","vers":"0.1.0","deps":[],"cksum":"fca08939b4c2b68f433ed6f480fc333732ff9946526cf564c25d482edd8d43bd","features":{},"yanked":false}
+{"name":"dummy-bin","vers":"0.2.0","deps":[{"name":"dummy-lib","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2024c3802b3a159eea2566a5ceee21425b13dc7c22388d4b0edd6ae679a91895","features":{},"yanked":false}
+{"name":"dummy-bin","vers":"0.3.0","deps":[{"name":"dummy-lib","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca7e4b3d3358bf65d6fb5996f4908e529adb37d2f4fdfe0816075c7aea8a9324","features":{},"yanked":false}
+{"name":"dummy-bin","vers":"0.4.0","deps":[{"name":"dummy-lib","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95ea0a2e0712eadca0d5b87584446b18596bdf5c65bfaf65f2dd003e55162f09","features":{},"yanked":false,"rust_version":"1.58.1"}

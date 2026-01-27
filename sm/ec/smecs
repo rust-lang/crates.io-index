@@ -1,0 +1,5 @@
+{"name":"smecs","vers":"0.1.1","deps":[],"cksum":"fcc8b968048bfa0b9468a08acc1c026ba594128f58ca379f865c816049f79210","features":{},"yanked":false}
+{"name":"smecs","vers":"0.1.2","deps":[],"cksum":"2ce52fd05727952037c9b77bb5931be503e32fbd168d61cebf17ff9f6f1f1fda","features":{},"yanked":false}
+{"name":"smecs","vers":"0.1.3","deps":[],"cksum":"dc41072d36af52b41de63ed5ba8f3959fd346ff40cfa62d159424bcc99e2fac8","features":{},"yanked":false}
+{"name":"smecs","vers":"0.1.4","deps":[],"cksum":"c27cac32eb948d7880a04abd934c8f135e2ad806c2eb9d3c0356c6d862f6af5d","features":{},"yanked":false}
+{"name":"smecs","vers":"0.1.5","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4aed8b57ab828806ba2f2715c56cdf6c54197e4ab5b43fdb917bf1965261471c","features":{"deafault-fatures":[],"static-dispatch":[]},"yanked":false}

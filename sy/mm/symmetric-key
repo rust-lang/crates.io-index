@@ -1,0 +1,1 @@
+{"name":"symmetric-key","vers":"0.1.0","deps":[{"name":"der","req":"^0.7.9","features":["alloc","oid","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce8a675807efd69f7c763b8adb50c65eafe22ad2e3eef75f6f0f79966671eb23","features":{},"yanked":false}

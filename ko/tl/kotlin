@@ -1,0 +1,2 @@
+{"name":"kotlin","vers":"0.0.1","deps":[],"cksum":"52e6e70560504a46304dadfb85eb324b7dab445e25fdf5d321a6729b93600c27","features":{},"yanked":true}
+{"name":"kotlin","vers":"0.0.2","deps":[{"name":"chumsky","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd1a0eb4463f50b5da730868959bbdd5cc5e242e414d7c66feacbb133ba8acfa","features":{},"yanked":true}

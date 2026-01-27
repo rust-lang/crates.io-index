@@ -1,0 +1,1 @@
+{"name":"nosejob","vers":"1.0.0","deps":[],"cksum":"a1a00fa428b6de262fb18ce918f712b93088ebbbb3e878e6d6a5bf02a81a5b01","features":{"arr-iter":[],"default":["full"],"full":["iter"],"iter":["obj-iter","arr-iter"],"obj-iter":[]},"yanked":true}

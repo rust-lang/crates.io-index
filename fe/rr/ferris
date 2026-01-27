@@ -1,0 +1,3 @@
+{"name":"ferris","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d98957aeaf6ccb8d7039c9e399654222d351ccde4b6b50184a0a9e33696ed628","features":{},"yanked":false}
+{"name":"ferris","vers":"0.1.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d3a065de76ec3693f497af0043fa8f0d753b3fae8ff2b7837587d7e015f1df8","features":{},"yanked":false}
+{"name":"ferris","vers":"0.2.0","deps":[],"cksum":"f1d5a00f0aaf50c99b8254add9a85fc834a046b82df1c544cd1dc0a404139f84","features":{},"yanked":false}

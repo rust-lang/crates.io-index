@@ -1,0 +1,1 @@
+{"name":"iter-fi","vers":"0.1.0","deps":[{"name":"either","req":"^1.15.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bcde5b53d9180fc7bbd93935820d233d5f9388568a5649ca3b13841cfe05b43","features":{"std":[]},"features2":{"branched":["dep:either"],"default":["branched","std"]},"yanked":false,"v":2}

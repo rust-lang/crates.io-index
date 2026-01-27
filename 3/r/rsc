@@ -1,0 +1,13 @@
+{"name":"rsc","vers":"0.1.1","deps":[{"name":"peek-nth","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4263504a2160a76a4d275d57f960523c2d13e4fb7f3e6a5866c51d04a0870cfa","features":{},"yanked":false}
+{"name":"rsc","vers":"0.1.2","deps":[{"name":"peek-nth","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37253603f4cd0227b1c7419468dfa6da16288e98ede04635533b03e82d8a61d2","features":{},"yanked":false}
+{"name":"rsc","vers":"0.1.3","deps":[],"cksum":"fcf45976415a9d956e47b8c5b129b8ec85fb7317d5e10f2a271dbdeb333f3e51","features":{},"yanked":false}
+{"name":"rsc","vers":"0.1.4","deps":[],"cksum":"aecee197e7b82f2bc45d1b8affb6a725d931207f979a88b2927c7535cadc4f9f","features":{},"yanked":false}
+{"name":"rsc","vers":"0.1.5","deps":[],"cksum":"e965a772159978f04504a26ebacee34a62bc6ba44fab6d3e2256c045b1358f07","features":{},"yanked":false}
+{"name":"rsc","vers":"0.1.7","deps":[],"cksum":"c45296782cfcbb05e9fbb4a2ad9533dbccb3332fddd904f1f16df4cc03c81514","features":{},"yanked":false}
+{"name":"rsc","vers":"1.0.0","deps":[],"cksum":"6d186a349f532bcbc187949cb2e9872035369fe4465bfad7f765c64e274c4e71","features":{},"yanked":false}
+{"name":"rsc","vers":"1.1.0","deps":[],"cksum":"518fca531ca1f7c7ab17bd0fe1782ff22eab56693b6c5120cb0e32f4d32347df","features":{},"yanked":false}
+{"name":"rsc","vers":"1.1.1","deps":[],"cksum":"624176ace74446f43244490a7d9384614eb964e89704c27687d7464d8b0c1c01","features":{},"yanked":true}
+{"name":"rsc","vers":"1.2.0","deps":[],"cksum":"fc1f08685caa8350eec9252daab6f9ddfcba10e7955216bd8d9e6c042b821cc0","features":{},"yanked":false}
+{"name":"rsc","vers":"1.2.1","deps":[],"cksum":"75f77260fc0f977a858f0c064cec6d9cefb4218a4a1bb481fe6cea09a46474d9","features":{},"yanked":false}
+{"name":"rsc","vers":"2.0.0","deps":[{"name":"colored","req":"^1.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d6345277feccd67184367ab35412f067133c3daeb8149304125b0696164eb4f","features":{"build-binary":["structopt","colored"]},"yanked":false}
+{"name":"rsc","vers":"3.0.0","deps":[{"name":"colored","req":"^2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"peekmore","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d4ca4a1caaa8b8e1209b7dde216556fc1e0bbf7343d04b0b8e2f4c7b42af1e9","features":{"executable":["structopt","colored"]},"yanked":false}

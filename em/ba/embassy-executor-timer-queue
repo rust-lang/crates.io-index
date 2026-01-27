@@ -1,0 +1,1 @@
+{"name":"embassy-executor-timer-queue","vers":"0.1.0","deps":[],"cksum":"2fc328bf943af66b80b98755db9106bf7e7471b0cf47dc8559cd9a6be504cc9c","features":{"timer-item-size-4-words":[],"timer-item-size-6-words":[],"timer-item-size-8-words":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"kindaxml","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.21","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82840d7f718c51aa12864576d9a83d053078764dbc52072add3ebc4cf61d4268","features":{"default":[],"python":["pyo3"]},"yanked":false}

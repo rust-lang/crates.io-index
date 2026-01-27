@@ -1,0 +1,3 @@
+{"name":"cli-tables","vers":"0.1.0","deps":[],"cksum":"5bc35d640cbbb0ebad8c8c80577a9732e0716e7890c350654f3917a5600425b7","features":{},"yanked":false}
+{"name":"cli-tables","vers":"0.2.0","deps":[{"name":"terminal_size","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba83fd00375403fc03c5b3f0e38337f3eda359cc0aae197fa59c21953f9f0e99","features":{},"yanked":false}
+{"name":"cli-tables","vers":"0.2.1","deps":[{"name":"terminal_size","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50023707b9ed841a0d2b92e5d3fe650a15ab42b24f3e7da4e1d7f25b8ddf2357","features":{},"yanked":false}

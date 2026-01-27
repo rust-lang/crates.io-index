@@ -1,0 +1,1 @@
+{"name":"u7","vers":"0.1.0","deps":[{"name":"speedy","req":"^0.8.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0fc7424aa86858f059b69b22e96c359dd6d590c4ebf7663e9c0f6f982486809","features":{"default":["speedy"]},"features2":{"speedy":["dep:speedy"]},"yanked":false,"v":2}

@@ -1,0 +1,1 @@
+{"name":"reqwest-env-proxy","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b8f9785c6c2fb5e3e04fda3780009773a36b1ef20d59b6095f4805d38ca76127","features":{"blocking":["reqwest/blocking"],"default":["blocking"]},"yanked":false}

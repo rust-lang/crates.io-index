@@ -1,0 +1,2 @@
+{"name":"worker-sentinel","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e965c8cb5300c9fafd274d731ef988f482515b4897315e9f3f010463c8c8d24","features":{},"yanked":false}
+{"name":"worker-sentinel","vers":"0.3.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bb1594a244a0b84a61c7c077634ee6685372105162708f7410ecada5bccbdb32","features":{},"yanked":false}

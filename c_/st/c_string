@@ -1,0 +1,15 @@
+{"name":"c_string","vers":"0.1.0","deps":[],"cksum":"acc58e7b8c45845cc4d3cd2b742801528c87cac8bef7c2b1824ce10b17e1c74f","features":{},"yanked":false}
+{"name":"c_string","vers":"0.2.0","deps":[],"cksum":"f14bbff40b5ac562eb9db1117a3263cb38ecf7747a53075f96943666b8f22547","features":{},"yanked":false}
+{"name":"c_string","vers":"0.3.0","deps":[],"cksum":"c465a37f8b7727cef71045818540c0ddf14b5c7c1e6d744fcd57425f77b186fe","features":{},"yanked":false}
+{"name":"c_string","vers":"0.3.1","deps":[],"cksum":"5b9721ad9549f71490cfc827818399fcd63b968a4f53018fbc649d3bed80dce3","features":{},"yanked":false}
+{"name":"c_string","vers":"0.3.2","deps":[],"cksum":"03c4c4f0b0dbaadca1e6b2aeadb566dfba482e7ac6832d38a129d58ebc233ab6","features":{},"yanked":false}
+{"name":"c_string","vers":"0.4.0","deps":[],"cksum":"e924ee380fb14baf9cb64786cdb343ff6200d66fa89dc4d3f6f25f8af09ac932","features":{},"yanked":false}
+{"name":"c_string","vers":"0.4.1","deps":[],"cksum":"5b3dacda52ebc17b80eaa341a0696c5b93032ce99d1d43772bce9a3c37e30b56","features":{},"yanked":false}
+{"name":"c_string","vers":"0.5.0","deps":[],"cksum":"eac93b60b9b7530bfca2864960494e205d923e5f9d46f7a06ad7bcc3a2fa8858","features":{},"yanked":false}
+{"name":"c_string","vers":"0.5.1","deps":[],"cksum":"ef8ac1af6f8eefc3d3513cb67179ff0107fcfa8ea07258dc049a0a112e09a901","features":{},"yanked":false}
+{"name":"c_string","vers":"0.6.0","deps":[],"cksum":"36b952825e925cfd1827bd22dd94a420843204d6b7f87576ed0808ef9200d8df","features":{},"yanked":false}
+{"name":"c_string","vers":"0.6.1","deps":[],"cksum":"bcf1c64ddce7c3de9b4da474026d21ca6b390e493cd0798b7b29ffebd4229ce8","features":{},"yanked":false}
+{"name":"c_string","vers":"0.6.2","deps":[],"cksum":"4b15b608e49da41d8fc67e5dbe14cd47f169b17e217b669956a39d949be6ea4f","features":{},"yanked":false}
+{"name":"c_string","vers":"0.7.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"042256930ddf845b94f0906a60fc7143d1f5f9bc0ba7fd154392035d1a7ee66e","features":{},"yanked":false}
+{"name":"c_string","vers":"0.7.1-obsolete","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f6e175c5f8a5a91171ec7d576ab621f117aed5c3c9794ed46216c1f8af22798","features":{},"yanked":false}
+{"name":"c_string","vers":"0.7.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5950a6452ef676c0ae607bb61f91cd7f938b3d8def225a560372ca01bf1616b8","features":{},"yanked":false}

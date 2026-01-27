@@ -1,0 +1,2 @@
+{"name":"horde","vers":"0.0.1","deps":[],"cksum":"19047c622ca09f5eb81827f19a5fa4da35d90f1ea5aafaaabc1a0da5d225f438","features":{},"yanked":false}
+{"name":"horde","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa3ed99882aaca3fcbc5099da3190cd9e6f55faeea995c3e8402cdd42edf6062","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"onednnl","vers":"0.0.1","deps":[{"name":"onednnl-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7956d33f52ae12b321ec4cddaa36b9d5414f46891bfab8925f1d1ef6c44d3ab3","features":{"bindings":["onednnl-sys/bindings"],"default":[]},"yanked":false}

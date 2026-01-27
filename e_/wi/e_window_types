@@ -1,0 +1,1 @@
+{"name":"e_window_types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93bc89d279f7ac89ef93b017fdc43285b2b86f00cabe94a01e29d3ac82c4f41a","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

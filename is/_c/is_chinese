@@ -1,0 +1,4 @@
+{"name":"is_chinese","vers":"1.0.0","deps":[],"cksum":"895e26d70d75e797c3642b48f4efda89315fc07b065642f0104bf210a6ba73e2","features":{},"yanked":false}
+{"name":"is_chinese","vers":"1.0.1","deps":[],"cksum":"6eb4b0b53bcbb1fede1b2b5eafbbd0be1f558c672bc0dbd0c7921b1effeb282f","features":{},"yanked":false}
+{"name":"is_chinese","vers":"1.0.2","deps":[],"cksum":"c428723ca3750996289e4ca105b2eabc20945b6ab07cd8e85a211ca6fb74c055","features":{},"yanked":false}
+{"name":"is_chinese","vers":"1.0.3","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1c342ca220b8f5b470b645cf9aa184b255a44413f81334bd60c8e71dc8a3358","features":{},"yanked":false}

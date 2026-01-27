@@ -1,0 +1,1 @@
+{"name":"rayon-par-bridge","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cb6a14d8f65834aca6b0fe4cbbd7a27e639cd3efb1f2a32de9942368f1991de8","features":{"default":[],"web_spin_lock":["rayon/web_spin_lock"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"test-validator-plugin-hello","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"274a471eeaf7bd9b950ff632ba02fa15252f687db262e7f3ace893babdf52692","features":{},"yanked":false}

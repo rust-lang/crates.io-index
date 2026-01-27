@@ -1,0 +1,2 @@
+{"name":"corewlan-sys","vers":"0.1.0","deps":[{"name":"objc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c22ce6a412f28a313504d0a994ae3d6b7030f6fe265b76a9bbd70d2466ac1d4c","features":{},"yanked":false,"links":"CoreWLAN"}
+{"name":"corewlan-sys","vers":"0.1.1","deps":[{"name":"objc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"901fa086b0c2ce4e6f4fee61bac8ed7785fb9143c1df0f9f1cd986c4505ebde6","features":{},"yanked":false,"links":"CoreWLAN"}

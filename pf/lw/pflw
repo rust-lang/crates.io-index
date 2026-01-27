@@ -1,0 +1,1 @@
+{"name":"pflw","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.25.0","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"197fd20d5bbfb8b52b1460164780caffbda3fb0c3887da3c377ac3715b4cf181","features":{},"yanked":false,"rust_version":"1.87.0"}

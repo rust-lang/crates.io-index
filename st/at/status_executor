@@ -1,0 +1,1 @@
+{"name":"status_executor","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"363ef83ae871a533b76e730c7451e33584e25c0f6991e74a6a4c34621f35a838","features":{},"yanked":false,"rust_version":"1.63"}

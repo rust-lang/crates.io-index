@@ -1,0 +1,2 @@
+{"name":"ida-rs","vers":"0.1.0","deps":[{"name":"spin","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a825bdc99c04f2d1c283d801b187408dacc5d5ef2eb93781f6a655f10271578","features":{},"yanked":false}
+{"name":"ida-rs","vers":"0.1.1","deps":[{"name":"spin","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f6eb32b11ef70edda8c5d7e04221188bb2e6fa6eedb842c265a7e911fdaee6","features":{},"yanked":false}

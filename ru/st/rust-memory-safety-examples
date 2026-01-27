@@ -1,0 +1,2 @@
+{"name":"rust-memory-safety-examples","vers":"0.1.0","deps":[],"cksum":"87b3125cd803f968c207168d2b716bc47b8a8bda09a64edf1ef6eb0cc2ef4d02","features":{},"yanked":false}
+{"name":"rust-memory-safety-examples","vers":"2.0.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd9333cdd45e4638b940c322c3cba60acd0e982401b364e44d1e5f3e85648d59","features":{},"yanked":false}

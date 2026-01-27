@@ -1,0 +1,6 @@
+{"name":"pct-str","vers":"1.0.0","deps":[],"cksum":"307609d4b38802e46ad8473335d370b81336a84a75538c86e1bd2cebbb49a28b","features":{},"yanked":false}
+{"name":"pct-str","vers":"1.0.1","deps":[],"cksum":"e7a1472cb2a48187c9db8c4cf07293c1d38e42f3e86e31587daa1bb9c1de3a9f","features":{},"yanked":false}
+{"name":"pct-str","vers":"1.0.2","deps":[],"cksum":"2d8ce52888b81a9c46cc1bd00663149eb7a2dc206a8568f561ccf079d5149ee9","features":{},"yanked":false}
+{"name":"pct-str","vers":"1.1.0","deps":[],"cksum":"1240e3e7bfdde5660ba0fc3e9e3565d3b30c2ae1973e218e93b869da771ff2e9","features":{},"yanked":false}
+{"name":"pct-str","vers":"1.2.0","deps":[{"name":"utf8-decode","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77d207ec8d182c2fef45f028b9b9507770df19e89b3e14827ccd95d4a23f6003","features":{},"yanked":false}
+{"name":"pct-str","vers":"2.0.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"utf8-decode","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf1bdcc492c285a50bed60860dfa00b50baf1f60c73c7d6b435b01a2a11fd6ff","features":{},"yanked":false}

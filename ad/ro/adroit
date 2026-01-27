@@ -1,0 +1,2 @@
+{"name":"adroit","vers":"0.0.0","deps":[],"cksum":"ac102027bf37d05b3f4cc0ebb665ddfe2b40a22adad5c596a723f8b239ea7050","features":{},"yanked":false}
+{"name":"adroit","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"logos","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0416ec1bb0732245b40a41a059fc3a8ef007bf6e1e09298f50894e7e7c8a7c25","features":{},"yanked":false}

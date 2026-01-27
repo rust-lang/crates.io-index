@@ -1,0 +1,2 @@
+{"name":"tnr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"661bd134f6cf17975dc031450d80e6c9db073e9b0828d55b29ab70fb2ed92ae8","features":{},"yanked":false}
+{"name":"tnr","vers":"0.2.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4edc426d5ff2b3a7b824142833b8da8e5438dc5ae0485cb86049c6632b024e09","features":{},"yanked":false}

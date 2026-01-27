@@ -1,0 +1,2 @@
+{"name":"replace-homedir","vers":"0.1.0","deps":[{"name":"dirs","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f62eddf793ed9b009398b11fd3ccffea1443abe63bca920b722ef354c18a784","features":{},"yanked":false}
+{"name":"replace-homedir","vers":"0.1.1","deps":[{"name":"dirs","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3e03df677924bef3e03b5440480f862b0a622bca453159d86278c82bd43220b","features":{},"yanked":false}

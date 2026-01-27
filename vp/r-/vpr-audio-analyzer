@@ -1,0 +1,2 @@
+{"name":"vpr-audio-analyzer","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.29.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf7d7886c9c11047379f6c3569f6d26b5e2fe93cdb0fd688a8cf802b5ac14a8b","features":{},"yanked":false}
+{"name":"vpr-audio-analyzer","vers":"0.1.1","deps":[{"name":"symphonia","req":"^0.5.3","features":["all"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e4098d1cf0d0d8ff0c5521136b8a921e63ccf6be2e7d712962b6d9679ee57db","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"libmmap","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"40d17093e7f10c3f501271a33b9871ad4320882e693267b4d2c611f084cafa61","features":{},"yanked":false}

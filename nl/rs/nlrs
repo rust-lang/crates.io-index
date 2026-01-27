@@ -1,0 +1,1 @@
+{"name":"nlrs","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.48.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4677f2381b7fccb4a0dcee2b56904036754e050446b9980f89f10bbfd2dd2006","features":{"default":[],"tokio-netns":["tokio/signal"],"tokio-socket":["tokio/net"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"approx_shannon_entropy","vers":"0.1.0","deps":[{"name":"micromath","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cbf54ce5e4a79ca5f8377d4cd4e805589add177918bd368b8cae5e21cfe1b89","features":{},"yanked":false}
+{"name":"approx_shannon_entropy","vers":"0.1.1","deps":[{"name":"micromath","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3918c09e3f48323a06cd76e14150f1343e12f08ae39f26e1039dcba3146df131","features":{},"yanked":false}

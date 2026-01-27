@@ -1,0 +1,4 @@
+{"name":"counted_map","vers":"0.1.0","deps":[],"cksum":"f73b5c3fe992045c8af28ba70725c0b1d0d316306fb7d5f4e545c4b2045295cb","features":{},"yanked":false}
+{"name":"counted_map","vers":"0.2.0","deps":[{"name":"num-bigint","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51207f7df2b2be84bfcdc75f9e4f361fcf48dfd77d6006773620c40b4d0cb1de","features":{},"yanked":false}
+{"name":"counted_map","vers":"0.3.0","deps":[{"name":"num-bigint","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7363ce5010261bc5086d2a79f706b8a562a6d50c622e850135741815b00e15c2","features":{},"yanked":false}
+{"name":"counted_map","vers":"0.4.0","deps":[{"name":"num-bigint","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c7aa4682d1ad00f3128404c4876e59eb284f7e21221ecdc4f6a7964acbef6de","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"number_easing","vers":"0.1.0","deps":[{"name":"number_traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"907a3f036a7ccbf135eafb182db340f054513d2e8ca821215a09e444ddbdeafe","features":{},"yanked":false}
+{"name":"number_easing","vers":"0.1.1","deps":[{"name":"number_traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"305826159f7ef42677bec61d646fc2aa360e6c4d11d875b4e130715a817a7261","features":{},"yanked":false}

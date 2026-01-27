@@ -1,0 +1,9 @@
+{"name":"dupchecker","vers":"0.1.0","deps":[],"cksum":"74a94e2e5c19c79209725668fd1088f26f373b1f69f78c43724051c27981d24a","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.2.0","deps":[],"cksum":"5cc5eb96f2545fbfb697307a461578d271bb644c840e1e03360b1ec86f84b7b1","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.2.1","deps":[],"cksum":"44077bd5057002ccb6a55c11ae8ccdeadcd5c140e13de8ba363ff188ec1f28ec","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.3.0","deps":[],"cksum":"20466aecf65be658f0df1ff4a37eb36955c24dfafa64d5bdb89dc700ed28c1bc","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.4.0","deps":[],"cksum":"215bc869b5aeaee18543e0ae82bacb6223429ce96c4e23dd3d6b8e5c38fa49ec","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.4.1","deps":[],"cksum":"5b0f2bf605c1c5f0ba5fec837cacaf02790d9fa9b4f8aa875c7a5d62ee1ec8ea","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.5.0","deps":[],"cksum":"b16b5c149f9d5f6d130a3b1751295db55715f86969772cc1266288701559a0c2","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.5.1","deps":[],"cksum":"65f5485a87f2c2ede9e49216235f2230693b64207e5c59d34e3a5abb56e02390","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.6.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a01e8707129d79a5c44ea9d69cbfe54a10f2c18534e8f5b394eef3f43ccac382","features":{},"yanked":false}

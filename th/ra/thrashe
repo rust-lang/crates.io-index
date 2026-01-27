@@ -1,0 +1,1 @@
+{"name":"thrashe","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adf16352ee4db0b4cab79a3882b5f4bf25902fbd29d7d5ee3e8525553877fe1f","features":{"convenience_types":["paste"],"default":["convenience_types"]},"yanked":false}

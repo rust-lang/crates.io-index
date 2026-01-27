@@ -1,0 +1,2 @@
+{"name":"dap-types","vers":"0.0.0","deps":[],"cksum":"b834820a6c8bd693a59f6a9e94df779bb78755c361d90f49e5a8927624271689","features":{},"yanked":true}
+{"name":"dap-types","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.201","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.117","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac6ec62ed0beeca294d83389461ba6a2ff29e9f531cbacb9d98c4ffedac9339","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"libferroxid","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db57e00e3d19c525b157109da359276f41b9d54554b1def4fa23d1b6f3d859e1","features":{},"yanked":false}
+{"name":"libferroxid","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00645a1148661778cdcea3f56f817ad526610e463f4e1022eb62d4a6f91ee475","features":{},"yanked":false}
+{"name":"libferroxid","vers":"0.2.0","deps":[],"cksum":"6ea6a6461b04401ab684268efb812ddf5436e095598d98a3834e1772b5a50ea4","features":{},"yanked":false}
+{"name":"libferroxid","vers":"0.2.1","deps":[],"cksum":"763ed42da2288c9c249433a9a5dc602178af967a272407d52795b9034d4e1ce1","features":{},"yanked":false}
+{"name":"libferroxid","vers":"0.3.0","deps":[],"cksum":"13b635981227321756e3d7da74a0919a5254f24912cd20deb2209b6e1f990d2b","features":{},"yanked":false}

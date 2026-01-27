@@ -1,0 +1,4 @@
+{"name":"fast-interleave","vers":"0.1.0","deps":[],"cksum":"f18d4d3eabe45ed984db84b3b7eeb14e13e8f5bc54b3879eee984bc66550b9e1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fast-interleave","vers":"0.1.1","deps":[],"cksum":"1a7e05e2b3c97d4516fa5c177133f3e4decf9c8318841e1545b260535311e3a5","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fast-interleave","vers":"0.1.2","deps":[],"cksum":"cde4904dff186ac556b65b23da228bc9fd87865c9b2e3c9fdb5c43e068ba0969","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fast-interleave","vers":"0.1.3","deps":[],"cksum":"a0a5ab837f0983c0a9210d7847931f64e3be67fcb0ab93d625f7845a0132c825","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

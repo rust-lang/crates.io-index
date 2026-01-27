@@ -1,0 +1,5 @@
+{"name":"maprc","vers":"0.1.0","deps":[],"cksum":"dec42b736b32fb95bf787f63038b89b267e4a26d77e8415a92e250b4ace3837e","features":{"arc":[],"default":["arc","rc"],"rc":[]},"yanked":false}
+{"name":"maprc","vers":"0.2.0","deps":[],"cksum":"51979c8f62c98f6d282fcc33f51760150ea0d411510ed9f5df7d124507b01a5a","features":{"arc":[],"default":["arc","rc"],"experimental_allocator_api":[],"rc":[]},"yanked":false}
+{"name":"maprc","vers":"0.3.0","deps":[],"cksum":"86b8bab01d02f87b098cc5cc9d76938228140caf23559f3ce4461184fde89c47","features":{"arc":[],"default":["arc","rc"],"experimental_allocator_api":[],"rc":[]},"yanked":false}
+{"name":"maprc","vers":"0.3.1","deps":[],"cksum":"928936697b58227b83b46e903ae3d6aaf02ba2cff574a144ab0f83edfefbbcd7","features":{"arc":[],"default":["arc","rc"],"experimental_allocator_api":[],"rc":[]},"yanked":false}
+{"name":"maprc","vers":"0.4.0","deps":[],"cksum":"09523cc35e63698c2922da2c30db03bf2b1d1c1fd73e72a4a04dcdc004de9c33","features":{"arc":[],"default":["arc","rc"],"experimental_allocator_api":[],"rc":[]},"yanked":false}

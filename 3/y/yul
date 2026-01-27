@@ -1,0 +1,2 @@
+{"name":"yul","vers":"0.1.0","deps":[],"cksum":"c443e6e3e86c845588becd07ce34d3ba3a6501b7adc70167f67b6cbf44a56964","features":{},"yanked":false}
+{"name":"yul","vers":"0.1.1","deps":[{"name":"yul-parser","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2ff373043021e21f23873a428d20bb93e8c682a7d1f69e65d2aefeee522cbf4","features":{},"yanked":false}

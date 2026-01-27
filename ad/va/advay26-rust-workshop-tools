@@ -1,0 +1,3 @@
+{"name":"advay26-rust-workshop-tools","vers":"0.1.0","deps":[],"cksum":"e5928c6a66fd041d75207ae477e3a0cecb6c23404c15b8f9b8836f969fe4c460","features":{},"yanked":false}
+{"name":"advay26-rust-workshop-tools","vers":"0.1.1","deps":[],"cksum":"e0c9a587604d748813ccb9a8be751b00b11aa3a03260398c9b4c7a2416f7bada","features":{},"yanked":false}
+{"name":"advay26-rust-workshop-tools","vers":"0.1.2","deps":[{"name":"advay26-rust-workshop-tools-lib","req":"=0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b6a1f9031a5b6603a21756ddc13b4e475e718c46c619c7fb1ce9a4d4b7f621","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"pi_adler32","vers":"0.1.0","deps":[{"name":"adler32","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a69ce3d1648c891af2bfbd941129c4086c895a3086ada705b89db83badf48bc","features":{},"yanked":false}
+{"name":"pi_adler32","vers":"0.1.1","deps":[{"name":"adler32","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dce221c11e1fe50eaa85300d41e655515439e1b75e9d994cb74377ab6c48c1da","features":{},"yanked":false}

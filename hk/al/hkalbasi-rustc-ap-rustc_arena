@@ -1,0 +1,1 @@
+{"name":"hkalbasi-rustc-ap-rustc_arena","vers":"0.0.20230517","deps":[{"name":"smallvec","req":"^1.8.1","features":["union","may_dangle"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a2d81a6a13ad0fb1e7628d16ae3bce5ae36580f0736089de0a76c29095e9f67","features":{},"yanked":false}

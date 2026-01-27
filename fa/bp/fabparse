@@ -1,0 +1,2 @@
+{"name":"fabparse","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"074938cabbd848599e27023e042e697833a45782172be1c66d5a91592951f57b","features":{},"yanked":false}
+{"name":"fabparse","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e36ef83b7bb15c4736f7474effa0fba9ee66551dc53222ee92605f6e18eeec7","features":{},"yanked":false}

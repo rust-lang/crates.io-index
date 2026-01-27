@@ -1,0 +1,5 @@
+{"name":"jockey","vers":"0.0.0","deps":[],"cksum":"58ca974203d09b326235c3aff2e224584fd527f7e229f1c1ca038debb5d2299f","features":{},"yanked":true}
+{"name":"jockey","vers":"0.1.0","deps":[],"cksum":"10d60b44ff792b014dd3101b4d4cf8434b64727d2dbb3a777ba97cb8beb27dec","features":{},"yanked":false}
+{"name":"jockey","vers":"0.2.0","deps":[],"cksum":"d8fde8edb9aba8a4f969bf4670c3ee0afde078a0d179e7e62e96cd3bc1330c87","features":{},"yanked":false}
+{"name":"jockey","vers":"0.2.1","deps":[],"cksum":"a54a047d04e8b9d791cd374c5768a4ef91c04e3bc9d70cdd46b6cb9eb91a0a8c","features":{},"yanked":false}
+{"name":"jockey","vers":"0.3.0","deps":[{"name":"jockey_derive","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8e2c07ba2613d8931dbf43c431cad4a577162af2d6973f22b64159a6e5aa2766","features":{},"yanked":false}

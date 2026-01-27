@@ -1,0 +1,2 @@
+{"name":"lazycmd","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e65d5377f9a6b8acea4ba9d1154c5d1aebc4df8c29e473654fc7459f55a835a","features":{},"yanked":false}
+{"name":"lazycmd","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfa28ae3b4dbef66650155586254f0cb9263749b36f06e1a2d4ce769c46dc726","features":{},"yanked":false}

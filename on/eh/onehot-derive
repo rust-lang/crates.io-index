@@ -1,0 +1,1 @@
+{"name":"onehot-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"823a488bbe2ce8edf5a07d633dd8bcc8fab86f654a261cb7c0e1abfb2d6cdb72","features":{},"yanked":false}

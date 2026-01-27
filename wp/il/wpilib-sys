@@ -1,0 +1,5 @@
+{"name":"wpilib-sys","vers":"0.1.0","deps":[],"cksum":"7731c7d3336615fe8befd2742af3aa3e11961226058a99b086d8dd1f84d41e9d","features":{},"yanked":false}
+{"name":"wpilib-sys","vers":"0.2.3","deps":[{"name":"bindgen","req":"^0.37.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"edd0dbb9a3d0834015bdad29a6d63bcfcb694568392a13dbf4a76c879e2a30d2","features":{"dev":[]},"yanked":false}
+{"name":"wpilib-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.43.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eb2d5d2eb3a19f894af342f85f7666c4d9e9bda1305d65f9c7b69629e262c630","features":{"dev":[]},"yanked":false}
+{"name":"wpilib-sys","vers":"0.3.1","deps":[],"cksum":"5ce989ae5353f23e55ce9d6e6653a7dc7fb14cb160ec832e60e10e197804fd85","features":{"dev":[]},"yanked":false}
+{"name":"wpilib-sys","vers":"0.4.0","deps":[],"cksum":"aac28154c5b91968d15d183a9fb512e5ad41837e0c838700e673285e0c59fdf0","features":{"dev":[]},"yanked":false}

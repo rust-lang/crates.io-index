@@ -1,0 +1,1 @@
+{"name":"novax-redis-async","vers":"0.0.1","deps":[{"name":"redis","req":"^0.27.2","features":["aio","tokio-comp","connection-manager"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d671c9eb649e4a14b1ac86c6affd8cfb2d3a6aac46f84172c32e51a782b24471","features":{},"yanked":false}

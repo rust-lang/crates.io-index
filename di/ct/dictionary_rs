@@ -1,0 +1,2 @@
+{"name":"dictionary_rs","vers":"0.2.0","deps":[{"name":"indexmap","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e2082f5dcd875726c853b98f3d3e8aeffa9a13a5431a4d87833aec3b7c13c9","features":{},"yanked":false}
+{"name":"dictionary_rs","vers":"0.2.1","deps":[{"name":"indexmap","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52020b3b3a9ef0313a4531eb6b7d3b4b6df6ef615e37f020e0122d08b7a84038","features":{},"yanked":false}

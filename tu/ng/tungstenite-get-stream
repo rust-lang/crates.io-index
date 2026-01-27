@@ -1,0 +1,1 @@
+{"name":"tungstenite-get-stream","vers":"0.1.0","deps":[{"name":"tungstenite","req":"0.27.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4d0ec7152ace831d3deaa3e93aaf9a42cbe644b24438c6f2c1d765ac0ded759","features":{"native-tls":["tungstenite/native-tls"],"rustls-tls":["tungstenite/__rustls-tls"]},"yanked":false}

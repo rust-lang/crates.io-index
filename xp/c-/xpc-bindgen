@@ -1,0 +1,2 @@
+{"name":"xpc-bindgen","vers":"26.0.0","deps":[{"name":"bindgen","req":"^0.72.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2e4d9e4c1ca1af47950da9621dd5755461cc721bf101b8ee301bda64943819f4","features":{},"yanked":false}
+{"name":"xpc-bindgen","vers":"26.0.1","deps":[{"name":"bindgen","req":"^0.72.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"afca267de5bb174d3c85d91a2af3667d235c0693859c9cd4e73f8cd3c8f0ff89","features":{},"yanked":false}

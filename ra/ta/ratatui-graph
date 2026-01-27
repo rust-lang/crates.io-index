@@ -1,0 +1,1 @@
+{"name":"ratatui-graph","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.28.0","features":["unstable-widget-ref"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6927b9ceca514024f346a0d8bf510eb972e39f8e7a8382df71e1c6004aecebea","features":{},"yanked":false}

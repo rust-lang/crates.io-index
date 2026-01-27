@@ -1,0 +1,2 @@
+{"name":"impl_inheritance","vers":"0.0.1","deps":[{"name":"impl_inheritance_macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fd892a60bfc9ff973f52d56d48a0cbc85cac3752b0062680d7f0db066a12e0c","features":{},"yanked":false}
+{"name":"impl_inheritance","vers":"0.0.2","deps":[{"name":"impl_inheritance_macros","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b28fb8a61d4fe154bdcf7c13bdd4dffb7804c70f73f6c160fcdd624e611b59a","features":{},"yanked":false}

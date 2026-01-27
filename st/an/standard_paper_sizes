@@ -1,0 +1,2 @@
+{"name":"standard_paper_sizes","vers":"1.0.0","deps":[],"cksum":"5a8fd5a1facb54a19b8528ae1637e0037138b29df744a62642abbc6f8c63565a","features":{},"yanked":false}
+{"name":"standard_paper_sizes","vers":"1.1.0","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a445d770bbde9b10e5d12c9b1a6a37d8cc0a330a0c76331f3b50f4f350ad1207","features":{},"yanked":false}

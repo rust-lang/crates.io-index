@@ -1,0 +1,15 @@
+{"name":"managed","vers":"0.0.0","deps":[],"cksum":"2756de0fbab723fa5e9c3da9e8b84c5e8a510034433a9c42ae251c9c524ec0a0","features":{},"yanked":false}
+{"name":"managed","vers":"0.1.0","deps":[],"cksum":"5e1cd1435deb7fc745a6930dbbeb7b33768aacea6dcf0ad5262b81d432da5e4b","features":{"default":["use_std"],"use_alloc":[],"use_collections":[],"use_std":[]},"yanked":false}
+{"name":"managed","vers":"0.1.1","deps":[],"cksum":"b4834992c217410d45adca0e4a836a03947dd9f1ec3fc8126f2f0836b17cf573","features":{"default":["use_std"],"use_alloc":[],"use_collections":[],"use_std":[]},"yanked":false}
+{"name":"managed","vers":"0.2.0","deps":[],"cksum":"c94ada75669dbe61ef16666546b180b150910c4b69c60517bccf22062fbdc8fa","features":{"default":["use_std"],"use_alloc":[],"use_collections":[],"use_std":[]},"yanked":false}
+{"name":"managed","vers":"0.2.1","deps":[],"cksum":"5981b4c6de5ce272aaf2caaa56adb8f6fd24a73206b38302db572ab9374aab10","features":{"default":["use_std"],"use_alloc":[],"use_collections":[],"use_std":[]},"yanked":false}
+{"name":"managed","vers":"0.3.0","deps":[],"cksum":"61eb783b4fa77e8fa4d27ec400f97ed9168546b8b30341a120b7ba9cc6571aaf","features":{"alloc":[],"collections":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.4.0","deps":[],"cksum":"b5d48e8c30a4363e2981fe4db20527f6ab0f32a243bbc75379dea5a64f60dae4","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.5.0","deps":[],"cksum":"786bd3519bdfb0e1a57146a74b7584555dd6c4f1b6e1137c70e177d60dde8186","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.5.1","deps":[],"cksum":"43e2737ecabe4ae36a68061398bf27d2bfd0763f4c3c837a398478459494c4b7","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.6.0","deps":[],"cksum":"cc4dce4670430c6e519ee0b5d43ad16adaa935fa0a83d2af0cabbb06e154f03f","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":true}
+{"name":"managed","vers":"0.6.1","deps":[],"cksum":"5a31885241e61ba264d780d2e6686e7e59561c947b4581470364eb3e10102d86","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.7.0","deps":[],"cksum":"ba6713e624266d7600e9feae51b1926c6a6a6bebb18ec5a8e11a5f1d5661baba","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.7.1","deps":[],"cksum":"fdcec5e97041c7f0f1c5b7d93f12e57293c831c646f4cc7a5db59460c7ea8de6","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.7.2","deps":[],"cksum":"c75de51135344a4f8ed3cfe2720dc27736f7711989703a0b43aadf3753c55577","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.8.0","deps":[],"cksum":"0ca88d725a0a943b096803bd34e73a4437208b6077654cc4ecb2947a5f91618d","features":{"alloc":[],"default":["std"],"map":[],"std":[]},"yanked":false}

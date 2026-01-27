@@ -1,0 +1,1 @@
+{"name":"nano_clock","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":["extra_traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09393fa853e5f8bfbabcfd101c6f254a45ae721b3f484900c700864fb63bbfba","features":{},"yanked":false}

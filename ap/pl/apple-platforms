@@ -1,0 +1,3 @@
+{"name":"apple-platforms","vers":"0.0.1","deps":[],"cksum":"4f92e733e1df552c006ebc25b950a63de51128fdbbd569f1826247fa83b92067","features":{},"yanked":false}
+{"name":"apple-platforms","vers":"0.0.2","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"815d6ba034f3e2b69d3705334ebe46836d58c9bbd31db67700531c13580fae54","features":{},"yanked":false}
+{"name":"apple-platforms","vers":"0.0.3","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c6d5de4814be72173c23d73d7866ae52c8d702f9fa74e3e8ecc090db85239f7","features":{},"yanked":false}

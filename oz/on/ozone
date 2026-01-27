@@ -1,0 +1,2 @@
+{"name":"ozone","vers":"0.0.1","deps":[],"cksum":"8548ebc1f282dc0f1099a6783d43b40cd281d4c958203a92b5681e992f54df57","features":{},"yanked":false}
+{"name":"ozone","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488d50cf4badf6eff776554e1f88593ba3bd55a0e0eaeeddfc1bafa95a238b8b","features":{},"yanked":false}

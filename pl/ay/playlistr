@@ -1,0 +1,2 @@
+{"name":"playlistr","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19c9838b30fdddd5552da7b289d0adc1e2087fdd7610fed9e8f1deab95acc4e9","features":{},"yanked":false}
+{"name":"playlistr","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0.0-beta.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7609271b4c181b270e3f24eada2cfb733854b91a107b11ee25568f28a35b80a","features":{},"yanked":false}

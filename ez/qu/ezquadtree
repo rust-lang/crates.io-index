@@ -1,0 +1,1 @@
+{"name":"ezquadtree","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4234dcff7cce347a15b304e755388e37306a036d5cf0fa34b345eca06b6243ed","features":{},"yanked":false}

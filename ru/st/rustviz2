@@ -1,0 +1,1 @@
+{"name":"rustviz2","vers":"0.1.0","deps":[{"name":"rv-plugin","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1ed35c26e522131058bc195c2e29014e98caa0638cc56618eca03560f4a5bfe","features":{},"yanked":false}

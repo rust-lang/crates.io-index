@@ -1,0 +1,1 @@
+{"name":"flexrc","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af922013b901aa6f462358bbceb2db334153186a187595741c0e1ed436fd602a","features":{"default":["std"],"std":[],"str_deref":[],"track_threads":["std"]},"yanked":false}

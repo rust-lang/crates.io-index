@@ -1,0 +1,2 @@
+{"name":"bounded-vec-deque","vers":"0.1.0","deps":[],"cksum":"7c425caac5a8aaf808c1981ed27819ebfb1e4a5a54caf45e5af667440676280e","features":{"default":["fused"],"fused":[],"resize_with":[]},"yanked":false}
+{"name":"bounded-vec-deque","vers":"0.1.1","deps":[],"cksum":"2225b558afc76c596898f5f1b3fc35cfce0eb1b13635cbd7d1b2a7177dc10ccd","features":{"default":["fused"],"fused":[],"resize_with":[]},"yanked":false}

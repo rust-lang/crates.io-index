@@ -1,0 +1,9 @@
+{"name":"create_vox","vers":"0.1.0","deps":[],"cksum":"5103afded9a9cb48dae4b3f46a9dad986a18d44df02323ef9e7b9a945be47408","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.1.1","deps":[],"cksum":"7f6c295e0f3f46ab07768d527b214c93ce7302d914e49e602c1817f4b0353350","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.2.1","deps":[],"cksum":"54695c8e1829fd27162cdcc99254dfcbb18269eda67693762550196aed72471c","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.3.0","deps":[],"cksum":"da28c12e7cab286576bc4f38a98f86d01e0152466a024ecb458a5cc48fb409eb","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.4.0","deps":[],"cksum":"ecb1e3a5d51802617aeec05bd76d461854b59e85bacb185bb94bb5991ef4f9f2","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.5.0","deps":[],"cksum":"9747644cd9a84c90a6ff08e20d24526c7f9bc3275887ed6888adfa1cd11da249","features":{},"yanked":false}
+{"name":"create_vox","vers":"0.6.0","deps":[],"cksum":"9850c2280a038cec1c5d5c939ba5ca8f805efeb46e693b1f54e6050909d0a873","features":{},"yanked":false}
+{"name":"create_vox","vers":"1.0.0","deps":[{"name":"easybench","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"391bdec70d486d708000270490fa35e45635248956c7f2336779f47ba6abaa10","features":{},"yanked":false}
+{"name":"create_vox","vers":"1.0.1","deps":[{"name":"easybench","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a23b522bd0363980ed101b7fd2c2ad110fc982126a527c4e247dd7fcf0b65047","features":{},"yanked":false}

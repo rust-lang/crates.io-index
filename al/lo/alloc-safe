@@ -1,0 +1,4 @@
+{"name":"alloc-safe","vers":"0.1.0","deps":[],"cksum":"33ab369166dc5f504313009f1e374c0f31a3b260dbfc024ca6957e3a82f70317","features":{},"yanked":false,"rust_version":"1.57"}
+{"name":"alloc-safe","vers":"0.1.1","deps":[],"cksum":"ee4bb1ad3c76764cf8b490d48c32c97a80beafafa89f5546eb24e4c63c016c82","features":{"default":["global-allocator"],"global-allocator":[]},"yanked":false,"rust_version":"1.57"}
+{"name":"alloc-safe","vers":"0.1.2","deps":[],"cksum":"68c3e18d5fe6a34ce4783805540ab24434199654963e545e3b3ab87327f7f3f4","features":{"default":["global-allocator"],"global-allocator":[]},"yanked":false,"rust_version":"1.57"}
+{"name":"alloc-safe","vers":"0.1.3","deps":[],"cksum":"babb19c3a9c0ba721560ebda8d5f9b60cff4a743f77ebe6bb94af52b665fadca","features":{"default":["global-allocator"],"global-allocator":[]},"yanked":false,"rust_version":"1.57"}

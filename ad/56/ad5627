@@ -1,0 +1,2 @@
+{"name":"ad5627","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0592e1c508de4ae2cf2f01fe6c00403840eebd76bf147ecc2c810f78561f4c7","features":{},"yanked":false}
+{"name":"ad5627","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c767ea6ed1ea4cb848caffb09e70899b23824bbe5fcba0a4fe9e0ece8eacbee4","features":{},"yanked":false}

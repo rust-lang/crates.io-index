@@ -1,0 +1,1 @@
+{"name":"axumcli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0322a733b102b0efcc48d76b8e4758f1179213ee0478c5bf620d3a9d13d4101","features":{},"yanked":false}

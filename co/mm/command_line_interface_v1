@@ -1,0 +1,2 @@
+{"name":"Command_Line_Interface_v1","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a67298ea470550f32482e2bd13102e651fdd0754213084fba6fd77995f4832e3","features":{},"yanked":true}
+{"name":"Command_Line_Interface_v1","vers":"0.2.0","deps":[],"cksum":"b42a3d4dc6882d83e0cf4b2764a8e15a8e35ebbd2d357a11a88dfd0bcff84a38","features":{},"yanked":false}

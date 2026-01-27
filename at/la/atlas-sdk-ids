@@ -1,0 +1,2 @@
+{"name":"atlas-sdk-ids","vers":"3.0.0","deps":[{"name":"atlas-pubkey","req":"^3.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f485fed82f090f1cb0050dc6d5f43f754e4676187493690c3d37fa754bf4ac2a","features":{},"yanked":false}
+{"name":"atlas-sdk-ids","vers":"3.1.0","deps":[{"name":"atlas-address","req":"^2.0.0","features":["decode"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8fdbe6a3c81cda519d2c8a80dcdedbd6628d63e82934e378f7658d34d186fd1","features":{},"yanked":false}

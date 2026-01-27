@@ -1,0 +1,2 @@
+{"name":"base64_t","vers":"0.1.0","deps":[{"name":"base64","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ac87570ae969f9930eed9f0f1f13423571540be3b65f68dc0ae5effd9e166fa","features":{},"yanked":false}
+{"name":"base64_t","vers":"0.1.1","deps":[{"name":"base64","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9573ebba91469c36780ff27800b8a146c09e31c14a753b24bd051bd49dea9f7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"leaf-module-sdk","vers":"0.0.0","deps":[],"cksum":"ef9e2be96dd54b2bfbce750387020fa2b5d633e1ef4cc72464ae984a51ba115c","features":{},"yanked":false}
+{"name":"leaf-module-sdk","vers":"0.1.0-alpha.1","deps":[{"name":"anyhow","req":"^1.0.99","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"leaf-stream-types","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dd57f17f8391a0a5fd37d33be2467c6be69ea5a007a121efb4120d8c3e84826","features":{},"yanked":false}

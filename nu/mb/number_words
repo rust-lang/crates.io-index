@@ -1,0 +1,4 @@
+{"name":"number_words","vers":"0.0.1","deps":[],"cksum":"8d54b8b3572d05644f0e905f8c63f6766f31b05db4a0a63896d6efa72279afb2","features":{},"yanked":false,"pubtime":"2014-11-21T04:39:31Z"}
+{"name":"number_words","vers":"0.0.2","deps":[],"cksum":"cd3a493713fc96287d99b422bec8396d3879722ec6dbfdb8df21359132e2ea95","features":{},"yanked":false,"pubtime":"2014-11-21T05:25:20Z"}
+{"name":"number_words","vers":"0.0.3","deps":[],"cksum":"97c3092edd9492ab673be7c8abe5fb7c1047e12e73fe64136131147fd3638f24","features":{},"yanked":false,"pubtime":"2015-08-15T14:54:40Z"}
+{"name":"number_words","vers":"0.0.5","deps":[{"name":"divan","req":"^0.1.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94327362ef19f6d243b2e6a7da8063471651da94451b95ce8f87525eea3e3dde","features":{},"yanked":false,"pubtime":"2026-01-16T04:38:27Z"}

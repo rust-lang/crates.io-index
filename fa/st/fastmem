@@ -1,0 +1,2 @@
+{"name":"fastmem","vers":"0.0.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12ef3e45d34ec245e7c5ee3cb0e14df537cbdece1fb726a425c3d1dbe1f38ec8","features":{"enable":["rayon"]},"yanked":false}
+{"name":"fastmem","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d9ab1ad3bd0b2439d57f6dcdb1556bcd2ef6886652789aee9b236cc950128e4","features":{"enable":["rayon"]},"yanked":false}

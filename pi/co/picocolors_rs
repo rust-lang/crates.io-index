@@ -1,0 +1,2 @@
+{"name":"picocolors_rs","vers":"0.0.1","deps":[],"cksum":"1d86c91c1f6f0c506ff33d074c9ac64447ebf8810c1aa7d72d04c0939bd4400e","features":{},"yanked":false}
+{"name":"picocolors_rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a5fea6f92f3bfef939876909a496ef72c3bf7e7712d7dbfcc4d27d81b9b79e8e","features":{},"yanked":false}

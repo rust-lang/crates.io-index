@@ -1,0 +1,2 @@
+{"name":"swamp-resource","vers":"0.0.9","deps":[{"name":"swamp-macros","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"26963f76a0bf46ce96438f01df412e402e00ed7ebf38d9f4bea53c2df668acaa","features":{},"yanked":false}
+{"name":"swamp-resource","vers":"0.0.10","deps":[{"name":"swamp-macros","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ade856380f537f57d07e66da2c674ee9dff28c974313fe6d633fa26ab9cea92","features":{},"yanked":false}

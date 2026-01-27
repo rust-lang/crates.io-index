@@ -1,0 +1,4 @@
+{"name":"read_pipe","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b1dcfcaa3993229229852883ce83ee049e5f1574dfa67ef2a834f982cd0365e","features":{},"yanked":false}
+{"name":"read_pipe","vers":"0.1.1","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"116656f02d35f7d481b0bb28c3e27e5361788d6d8fb72d333a230c863f4ee0ab","features":{},"yanked":false}
+{"name":"read_pipe","vers":"0.1.2","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb9f221cc71d8721f2f0c6d844e974d1027e95575ebfc1c685021a4f15db1e7","features":{},"yanked":false}
+{"name":"read_pipe","vers":"0.2.0","deps":[],"cksum":"ca97a8d20e26389dca2dd5520ec3d15aceb7ca4bc2c6f0a9335dd72e05cb5c15","features":{},"yanked":false}

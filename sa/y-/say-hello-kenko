@@ -1,0 +1,3 @@
+{"name":"say-hello-kenko","vers":"0.1.0","deps":[],"cksum":"26a3507f3a8115eea1fbdefee8e91ec8ca2fd13d0fbe0e45a25f9d4aa62c2ef2","features":{},"yanked":false}
+{"name":"say-hello-kenko","vers":"0.2.0","deps":[],"cksum":"035fd1a048c207bfc03a1a90c49d43083db13f661d00d6425e36adfb82d85b55","features":{},"yanked":false}
+{"name":"say-hello-kenko","vers":"0.3.0","deps":[],"cksum":"a77e13bb9ad623c89e441127abeb46f458da38902eb72780c368018943ddbbb4","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

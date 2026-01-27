@@ -1,0 +1,1 @@
+{"name":"serde-toon-rs","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c98e2fe737a8c2d5312436820a53767b3ba60c06648163698978565007b4967","features":{},"yanked":false}

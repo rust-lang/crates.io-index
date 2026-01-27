@@ -1,0 +1,3 @@
+{"name":"hafiddna-say-hello","vers":"0.1.0","deps":[],"cksum":"cb98fd46632face1bd3ab017f46acfd1e64f9ddd8b4f630a0e99c08d0f5e4833","features":{},"yanked":false}
+{"name":"hafiddna-say-hello","vers":"0.1.1","deps":[],"cksum":"1dc3134cfa657b75ab95d8011fd75bb59243ed6a6e997d630b4de46e6bfd0395","features":{},"yanked":false}
+{"name":"hafiddna-say-hello","vers":"0.1.2","deps":[],"cksum":"d1b8cbdc378eed133d3cd8b2fe14efd7a1350ea267d547415d327383fd12134a","features":{"all":["hello","bye","math"],"bye":[],"default":["hello"],"hello":[],"math":[]},"yanked":false}

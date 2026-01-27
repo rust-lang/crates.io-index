@@ -1,0 +1,2 @@
+{"name":"beautician","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5e15519bb24bc806a3835874b039ae3e289022e9aaccb7d748c6aebe82c4a41","features":{},"yanked":false}
+{"name":"beautician","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f201ebdad9869609408239d535116f524e6bd67d3d94e744496ac591b502de51","features":{},"yanked":false}

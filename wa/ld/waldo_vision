@@ -1,0 +1,2 @@
+{"name":"waldo_vision","vers":"0.1.0","deps":[{"name":"image","req":"^0.25.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b15c918f5c3a38299105f36ce5d21ceae5b986e87c164e25fd2eecdb0d7d7f8","features":{},"yanked":false}
+{"name":"waldo_vision","vers":"0.2.0","deps":[{"name":"image","req":"^0.25.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d22f1a7e2c909953cc2a55ab25793042c0e5abbeed8015b420730515c851e9f3","features":{},"yanked":false}

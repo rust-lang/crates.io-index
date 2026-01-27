@@ -1,0 +1,2 @@
+{"name":"pngcrush","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.9.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1308603898f5c59b411f67e42bf1da53c4ea5a19d158f50131274c552f31fc39","features":{},"yanked":false}
+{"name":"pngcrush","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.9.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aab6850031245f43d3b9f9601a17765b6800a3b3a787044503dfc928683956ae","features":{},"yanked":false}

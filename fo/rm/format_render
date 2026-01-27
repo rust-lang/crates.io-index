@@ -1,0 +1,1 @@
+{"name":"format_render","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac484e85e3f08e99ffe171129bcee496c4addd56a79b5456c7ce1977943def6e","features":{},"yanked":false}

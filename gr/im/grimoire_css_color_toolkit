@@ -1,0 +1,1 @@
+{"name":"grimoire_css_color_toolkit","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"496f6157cfdc7bb03852a87a00ba37445b737e8354a9cec0c49d2832eb28ef6a","features":{},"yanked":false,"rust_version":"1.88"}

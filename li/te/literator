@@ -1,0 +1,2 @@
+{"name":"literator","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38f58a1cafc5c59a605c2e279bfa428b432b0c6afbab15ef6c83fcec994389ca","features":{},"yanked":false}
+{"name":"literator","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f05a9a878cef6384ffb23a6ecee85c7a450c37594ec583ceee407d0b01548c7","features":{},"yanked":false}

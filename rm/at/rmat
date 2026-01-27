@@ -1,0 +1,2 @@
+{"name":"rmat","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef186413db091ef52c55da5467ef87d84b62481c69030181ae059c2f589d93be","features":{},"yanked":false}
+{"name":"rmat","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc4090d268383033f5e8bf01b837a4f84368d2b87c0bb082ce772a8bca7ab691","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"netid64","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0a01346b030bb505f989727a0662391ca65631a69f21500db437b9d3a5c2c0e","features":{"default":["std"],"std":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"crypto-brainfuck","vers":"0.1.0","deps":[],"cksum":"9e7f1c0d9b688803bd452cefc69842d15615f0e618929136c23457221963552f","features":{},"yanked":false}
+{"name":"crypto-brainfuck","vers":"0.2.0","deps":[{"name":"shortest-brainfuck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98bdd20a700ed97fded17376df0736e6a13f4c1529cfb40d60db5ce8aca6f0b3","features":{},"yanked":false}

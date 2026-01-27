@@ -1,0 +1,2 @@
+{"name":"nautilus","vers":"0.1.0","deps":[],"cksum":"1b73343cedeec2d8eacfbac4740579914e88fa089c4fe677eca70c79c895c3ce","features":{},"yanked":false}
+{"name":"nautilus","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cc0da518acbb01119c014f07926e3700a520236b060e3d9f3f85ff6ca17139e","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"beap","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6cd2ec69d4d52c387b472cde48cf06d874cb167d2d217383d3eb3c202f5e7c40","features":{},"yanked":false}
+{"name":"beap","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1c85d625b4c369c1f6b043c3c0683089400fe275e1cb0b443bf0a027b013b7fe","features":{},"yanked":false}
+{"name":"beap","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20d8f712c81d9c31dffd9c386a82420983c1cad72f3d7ad95fe8e5bb84bccea7","features":{},"yanked":false}

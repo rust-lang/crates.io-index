@@ -1,0 +1,2 @@
+{"name":"ceasa","vers":"0.1.0","deps":[],"cksum":"ecb513b713f1d832c6c1a26dd41e206a254a5f6c976ee6ed126ec606a3456998","features":{},"yanked":false}
+{"name":"ceasa","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19bac38793367d4bcef3d0b2436b2b4ca0739652434032b0cb645753ed764fe2","features":{},"yanked":false}

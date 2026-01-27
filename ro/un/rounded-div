@@ -1,0 +1,6 @@
+{"name":"rounded-div","vers":"0.0.0","deps":[],"cksum":"00ab275beef26b4d78f1b7fa6dde7e2aff52117059252b990f04b110e6f40254","features":{},"yanked":false}
+{"name":"rounded-div","vers":"0.1.0","deps":[],"cksum":"5156dc898b612fa28cd2f16b38d108a619877a65638fe637813d3ea14b3e392c","features":{},"yanked":false}
+{"name":"rounded-div","vers":"0.1.1","deps":[],"cksum":"6254d99b9f9e3d5f6bee8f9a3e99dcfdb2b7250ef4a5de3e5be585010422e662","features":{},"yanked":false}
+{"name":"rounded-div","vers":"0.1.2","deps":[],"cksum":"464c8fb0a126d6a0326baf6abf1aa62c2da0d5780aa781a81451d64f543f5e2f","features":{},"yanked":false}
+{"name":"rounded-div","vers":"0.1.3","deps":[],"cksum":"e162464649a7f0550e372a6f7b4d0cae6b74163a2e2e8b2ed6517909445b4b90","features":{},"yanked":false}
+{"name":"rounded-div","vers":"0.1.4","deps":[{"name":"decimal-rs","req":"^0.1.43","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"11dc1f50dc7944fb82cb7ac01b2e0b2356bf7d8b176547b92cd462262d7f8ec3","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"cu-sys","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21378f313c079ed6b4c360fbb2ae1b4d0991b22862a547d2dd07816cd4389ae1","features":{},"yanked":false}

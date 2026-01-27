@@ -1,0 +1,1 @@
+{"name":"bitkeypair-getrandom-hack","vers":"1.0.0","deps":[{"name":"getrandom","req":"^0.2","features":["js"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36ca8e0019ac19e57b6d7e3c96415d4cdcdd073ae4b97c39716c71e22a9909cc","features":{},"yanked":false}

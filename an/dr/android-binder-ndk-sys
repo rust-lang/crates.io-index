@@ -1,0 +1,1 @@
+{"name":"android-binder-ndk-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4a4625b6f123fbfef6751fa95e88dc21d548012aa894fdb93296d35be5052d56","features":{},"yanked":false}

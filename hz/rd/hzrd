@@ -1,0 +1,7 @@
+{"name":"hzrd","vers":"0.0.1","deps":[],"cksum":"c29e35b84a4acf7db84aa370b3ad9f4ba67eae26c0dc89f092f1cf58827428ec","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"hzrd","vers":"0.0.2","deps":[],"cksum":"32d2ff843da4c97e45512b82ea39bcc9971a06731c60d7329117bcdf21fc266a","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"hzrd","vers":"0.0.3","deps":[],"cksum":"e825bdc496876abd80e6cfffb807ea93baaaa69f1509e9e0e675cd373dedeb5b","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"hzrd","vers":"0.0.4","deps":[],"cksum":"426b1aef1e95b361de0793ca40ee084c025df0b40aec274f5624eb6423a91ff3","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"hzrd","vers":"0.0.5","deps":[],"cksum":"1cee6b6271da264020cc61485be41beaa88145ecf94eb00677180533ef085cbc","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"hzrd","vers":"0.0.6","deps":[],"cksum":"bfaf8fb0f24e3188128c9db99ecf290cb321dde218870c39e2ec9bab5c89ccdc","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"hzrd","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"30718b747ddd9637d9d794b92c33181eb4790ae2188e337e5960712f0d637e07","features":{},"yanked":false,"rust_version":"1.70"}

@@ -1,0 +1,2 @@
+{"name":"ferrisume-domain","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ffb6b5a933bd3a64ebd326eef6a3d38835cf84ecc34dd024077fccb7753d2f","features":{},"yanked":false}
+{"name":"ferrisume-domain","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c95bdf4eb5a7a9828addb8db7b12f33e5adc52d7892e48dcc50c4c2295be6cf","features":{},"yanked":false}

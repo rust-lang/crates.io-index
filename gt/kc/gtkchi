@@ -1,0 +1,1 @@
+{"name":"gtkchi","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.10.0","features":["v4_12"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"7172872bed8528a08bacf307050d412a9d9c14dae3b02fb17cf7f94061f1fe6a","features":{},"yanked":false}

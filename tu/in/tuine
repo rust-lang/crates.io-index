@@ -1,0 +1,1 @@
+{"name":"tuine","vers":"0.0.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tui","req":"^0.13.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fd11d12d779f2dbb21b741c8045b8a1dbae080b792b8ac26b6e6523772f84143","features":{},"yanked":false}

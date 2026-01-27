@@ -1,0 +1,4 @@
+{"name":"chapter14_light","vers":"0.1.0","deps":[],"cksum":"bcdc4456874f485f2058e04658fca4d3a5f33e6ef55d87a8ff72e08ff0c2eb62","features":{},"yanked":false}
+{"name":"chapter14_light","vers":"0.1.1","deps":[{"name":"strum","req":"^0.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"598cf618bcbd5edd0f0fccef7bf53d22f29b6ec8cbaac7588f939bc5a067c05a","features":{},"yanked":true}
+{"name":"chapter14_light","vers":"0.1.2","deps":[],"cksum":"362791143d6771fe522f3123e0071b40d399b63653d1ecaf7de7e35c0c4cbe3c","features":{},"yanked":false}
+{"name":"chapter14_light","vers":"0.1.3","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c217d5542fe0fe2315a55956897120014701988a6860691977839009e5e83ae0","features":{},"yanked":false}

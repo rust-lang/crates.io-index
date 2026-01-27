@@ -1,0 +1,2 @@
+{"name":"xrpl-wasm-stdlib","vers":"0.7.0","deps":[{"name":"xrpl-address-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01c25b3ea053092928efd53aab4da08d8003a16d4352d5a463457a5b87b5e54a","features":{},"yanked":false}
+{"name":"xrpl-wasm-stdlib","vers":"0.7.1","deps":[{"name":"xrpl-address-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f6cf974912fa3d503a2929a72b673e35ceee9cdbd0092df1df27cdba17d394c","features":{},"yanked":false}

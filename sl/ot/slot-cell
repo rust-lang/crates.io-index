@@ -1,0 +1,4 @@
+{"name":"slot-cell","vers":"0.0.1","deps":[],"cksum":"ef001ac580af8cdda96db417f2e1da3c63bf5f60021e22dc5f0346453950de38","features":{},"yanked":false}
+{"name":"slot-cell","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f783e30bb00259358ee86a2d6bc068a22b274690a3c28fb0cc87b8304e4d5a88","features":{},"yanked":false}
+{"name":"slot-cell","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0da551c66e57c432cfe5f87c6a43001168f7ec362f4c83bf38de1ed33be169fe","features":{},"yanked":false}
+{"name":"slot-cell","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"938871b6893eff9a7b0c2244cee5d8ed8479d21a465005bc1c9e229388ae232b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"arborust","vers":"0.1.0","deps":[],"cksum":"ec1594a73f37a654a6660e1efd0baaa34e4047ac18b4c4d7781fe119f54c1ed9","features":{},"yanked":false}
+{"name":"arborust","vers":"0.2.0","deps":[{"name":"ignore","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12a50a22f238cd01dd8b3085126b3737c44cca927064b47e25f66a194e9b70c6","features":{},"yanked":false}

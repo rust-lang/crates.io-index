@@ -1,0 +1,8 @@
+{"name":"alloc-compose","vers":"0.1.0","deps":[{"name":"alloc","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"alloc-wg"}],"cksum":"c8a2dfde843643feb534a03a4c4bf9235f7817ab3e5056d6680a333cc34a6ea9","features":{},"yanked":false}
+{"name":"alloc-compose","vers":"0.2.0","deps":[],"cksum":"07dbdbb79ba14bbe7686c567c44d14c76f93983fe99d8493f31cb61f5c2e420b","features":{"alloc":[]},"yanked":false}
+{"name":"alloc-compose","vers":"0.3.0","deps":[],"cksum":"4b01c47a64c2fce35f6671b09f37f47d52840333f7366147e20235bd7fef478e","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"alloc-compose","vers":"0.3.1","deps":[],"cksum":"5fd2da49c94a47f9be4391c3715bc9d88d17044ca1a7b47962935a006e651fba","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"alloc-compose","vers":"0.4.0","deps":[],"cksum":"2434af793ba41be0935175633ea2c7dd879ca123d4cf11741bd87148d641d7e9","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"alloc-compose","vers":"0.4.1","deps":[],"cksum":"7380d08277bbe0c2816e784cf61df977d7a4292d6fbcb27d4c7b2f1393b3f836","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"alloc-compose","vers":"0.4.2","deps":[],"cksum":"27e405bab3091f5a1a736541cd25da67bdcf5df9ef6e56c26ec1c8463e4251de","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"alloc-compose","vers":"0.5.0","deps":[],"cksum":"2b82ff3cdb5d3cf393e7503cc1a11f84b0382fd212fa0089df8995d2cacc0794","features":{"alloc":[],"default":["alloc"],"intrinsics":[]},"yanked":false}

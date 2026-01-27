@@ -1,0 +1,3 @@
+{"name":"psd-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fef7e9e3936946e1bacb2b088da8bd4522a890f8b832028c5262fee1c02cc5b9","features":{},"yanked":false}
+{"name":"psd-sys","vers":"0.2.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9702f041cceba93147e6e60d667ff11d89889a0d460ac04b9bd5d6fe0564faed","features":{},"yanked":false}
+{"name":"psd-sys","vers":"0.2.1","deps":[],"cksum":"65876aa00c34556a1c7694e0b160c7c9bd63df8ca69865f1ac0c8613353f7d98","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"stable-step","vers":"0.1.1","deps":[{"name":"stable-step-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0656136a905f302e129b165880875ddd9c499651ac3b439f5ebe9f38e67c752d","features":{"default":[],"derive":["stable-step-derive"]},"yanked":false}

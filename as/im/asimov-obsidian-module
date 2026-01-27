@@ -1,0 +1,1 @@
+{"name":"asimov-obsidian-module","vers":"0.0.0","deps":[{"name":"asimov-module","req":"^25.0.0-dev.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cbc3d309b9d767cfbd3d1d46878379027dee2a39f2966da2e5dbe6bb9a3283cf","features":{"all":[],"default":["all","std"],"std":["asimov-module/std"],"unstable":[]},"yanked":false}

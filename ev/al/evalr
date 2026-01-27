@@ -1,0 +1,1 @@
+{"name":"evalr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94aecde3687b34884a68530fcba8231959b2c13a27feba465ad0485694f3a83c","features":{},"yanked":false}

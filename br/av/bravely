@@ -1,0 +1,1 @@
+{"name":"bravely","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"flate2","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"154ec4221ca7373ee257a245de0a94e000e3156d4b16f022c4c93490c2501246","features":{},"yanked":false}

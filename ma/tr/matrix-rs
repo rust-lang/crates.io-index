@@ -1,0 +1,2 @@
+{"name":"matrix-rs","vers":"1.0.0","deps":[],"cksum":"ee9d4cf3a95a77a30929c88dea906fdea6c05e306887ed0eb15149a9926b7e76","features":{},"yanked":false}
+{"name":"matrix-rs","vers":"1.0.1","deps":[{"name":"checks","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0482dd55369c268832f3688cc648593e2e01d2dc823cd5a1b46d7b1068650700","features":{},"yanked":false}

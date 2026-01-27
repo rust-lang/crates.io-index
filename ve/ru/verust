@@ -1,0 +1,2 @@
+{"name":"verust","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5aad78f9b0c67807c103cdd1c20dd8c342ff2c44b1651530ac07f5d0fff012e5","features":{},"yanked":false}
+{"name":"verust","vers":"0.2.4","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0aafc1eea92d9e0ed042c2ad6b52a7d338a3f0c8863e1f623a95ba328b34e946","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cohere","vers":"0.1.0","deps":[],"cksum":"c84e7468310c09744debcbac150ea79398d18749e330a288545c396c30848049","features":{},"yanked":true}
+{"name":"cohere","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"308edb96e05915834229e01a0812be11069d823e7292a2da3bb16dac7a9b9abb","features":{},"yanked":true}

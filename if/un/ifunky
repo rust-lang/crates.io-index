@@ -1,0 +1,2 @@
+{"name":"ifunky","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"610d203b403d1a527d9ac5b06db2bd57633899a0cb568ba6bd5621b4461d57cd","features":{},"yanked":false}
+{"name":"ifunky","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ba9284fd5bb2382f2c506c8e98ae9640865dd42a424279b2b5244ac9995414c","features":{},"yanked":false}

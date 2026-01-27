@@ -1,0 +1,16 @@
+{"name":"deque","vers":"0.1.0","deps":[],"cksum":"e7930cd1a8e146e18827e970dc333b46b1a9971c7eb06c2b6c13f27b8516f98e","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.1","deps":[],"cksum":"1a6611c7881c6d181bae3f67a1bd5e27d602b930366345ec357b9466065d2041","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.2","deps":[],"cksum":"5b591108c409b0959961311ac27af65304a964d010cec8401bbe0fa56cc91736","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.3","deps":[],"cksum":"8905687de11c247415848db43c081ca0fcafa0777a0693a528e4f35ff894ca85","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.4","deps":[],"cksum":"059638ae9d78cbc11f737a6ed88ed3a91276b6226a8e5cc1f50108d4eed34805","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.5","deps":[],"cksum":"8c80517827cc72f0c1d0646b5658b48488ad4697fe6bb3baaaea7b7aa71d7883","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.6","deps":[],"cksum":"66a8b612d244566e2550992f4c50855e8bbad734fa3ce61e4313a44aa04c2ca2","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.7","deps":[{"name":"rand","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61e4dc4acdbc8d4fdeed33dcd48b1f80f693fae5e42787484d88bfe07a7a45ea","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.8","deps":[{"name":"rand","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b30545167e132856c7cb620fe83abc1ccadebc139b6f1f780822b80816bbd03d","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.9","deps":[{"name":"rand","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0af384a63ee67c9555662356981d5a0e413d81ce16e6a4443e06e97f7f1f24b","features":{},"yanked":false}
+{"name":"deque","vers":"0.2.0","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e05ff7f8647ddc4a2df338aa289974f1b4dff2c9aae4ea05155538e8e9c45e42","features":{},"yanked":false}
+{"name":"deque","vers":"0.2.1","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ee04e741ff1e86c61b6aa4ac948b15101f0dd289d360a61f6adf41601e5538a","features":{},"yanked":false}
+{"name":"deque","vers":"0.2.3","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88f5d9da4dc0d80b65a9597914fdbc6c0ab0227b4c60f6dd8621578542382465","features":{},"yanked":false}
+{"name":"deque","vers":"0.3.0","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c40ca73db1dc776604513b6d517eb9ac896db37c0a073106f579c9d7e7bc591c","features":{},"yanked":false}
+{"name":"deque","vers":"0.3.1","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1614659040e711785ed8ea24219140654da1729f3ec8a47a9719d041112fe7bf","features":{},"yanked":false}
+{"name":"deque","vers":"0.3.2","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a694dae478589798d752c7125542f8a5ae8b6e59476172baf2eed67357bdfa27","features":{},"yanked":false}

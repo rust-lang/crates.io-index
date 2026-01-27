@@ -1,0 +1,3 @@
+{"name":"say-hello-lvender","vers":"0.1.0","deps":[],"cksum":"9898ed2922bde0e53feeca148b79f266589974001f4453ff433524fdf997dc2f","features":{},"yanked":false}
+{"name":"say-hello-lvender","vers":"0.2.0","deps":[],"cksum":"288fbd5f9af7949a4424210dd2939eccb8b7f058c31cb6a7be0ee408b2a8b74d","features":{},"yanked":false}
+{"name":"say-hello-lvender","vers":"0.3.0","deps":[],"cksum":"dc97b0acdc46eb95bcb4c02adb73f685ec8626f5a51fc1b77d0ba68adc86c451","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"vpm","vers":"0.0.0","deps":[{"name":"pretty","req":"^0.12.1","features":["termcolor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29761ffde8539b11ef8733feac76a53d8af814bbdbcfa4a82d79932ea549c1fd","features":{"default":[]},"yanked":false}

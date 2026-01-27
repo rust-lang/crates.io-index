@@ -1,0 +1,1 @@
+{"name":"wso2-interceptor-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.196","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"623c57dcaee6f87f7abf64abfd6c80bf082537962f3a012bbefd193e4f0b8aca","features":{},"yanked":false}

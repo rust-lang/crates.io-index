@@ -1,0 +1,2 @@
+{"name":"sharded-offset-map","vers":"0.1.0","deps":[{"name":"sharded-vec-writer","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c92c4f1c760f58ce29dfcc5eccf6e31f427bdb08313b3b3ce7b707cf703a043","features":{},"yanked":false}
+{"name":"sharded-offset-map","vers":"0.2.0","deps":[{"name":"sharded-vec-writer","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a420d414434523aec9421abd8cc7e674795d6cd3eec9a4080c35ea16a82754c6","features":{},"yanked":false}

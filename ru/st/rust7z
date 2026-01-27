@@ -1,0 +1,2 @@
+{"name":"rust7z","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1a04fc3373d997ed118c7bcb2c8740fa0f1cf13ddb1b7721f7a1ec5ca39ab893","features":{},"yanked":false}
+{"name":"rust7z","vers":"0.2.0","deps":[{"name":"cc","req":">=1.0.0, <2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f32c9105bea8754ab411790d3c40e763db8034f6013a0f512a2e1f94045289d3","features":{},"yanked":false}

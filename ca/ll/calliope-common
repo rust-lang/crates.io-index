@@ -1,0 +1,2 @@
+{"name":"calliope-common","vers":"0.0.1","deps":[{"name":"nrf51-hal","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87208a0c25dd70bbb294ef92805ee5bb5fbc182d6a0f3792e39974d188b6ffa2","features":{},"yanked":true}
+{"name":"calliope-common","vers":"0.0.2","deps":[{"name":"nrf51-hal","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75a608c3d7244a4306c8084ea9f7523de35ab9934195c6a9d4bbdf28721378ea","features":{},"yanked":false}

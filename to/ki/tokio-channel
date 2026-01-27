@@ -1,0 +1,2 @@
+{"name":"tokio-channel","vers":"0.0.0","deps":[],"cksum":"766ed62287a51bde1a13cba7ca45d8376e42452bcf656da6a72fd80e41c2663d","features":{},"yanked":false}
+{"name":"tokio-channel","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"530d0fb87416dd531600f7cccc438bb35c5b91883065c9e6dca7cdecee991cfa","features":{"async-await-preview":[]},"yanked":false}

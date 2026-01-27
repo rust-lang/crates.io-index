@@ -1,0 +1,1 @@
+{"name":"bevy_scene_hot_reloading","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.16","features":["bevy_scene"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6e0c83038cd0dc090ca014872e6a3c3ae69bf9468b48f74a2e8da3ad56c0e7f1","features":{"default":["log"],"log":["bevy/bevy_log"]},"yanked":false}

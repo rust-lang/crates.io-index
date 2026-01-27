@@ -1,0 +1,3 @@
+{"name":"robi-dev-say-hello","vers":"0.1.0","deps":[],"cksum":"7c0e9d00e335b3c59b6e31b29e71cbe576419df02b36c5d0b6a44c5755425707","features":{},"yanked":false}
+{"name":"robi-dev-say-hello","vers":"0.2.0","deps":[],"cksum":"158bbb310410d78464ff9f67fed76bf03caeecf0eac2c6acb565ffd54e199601","features":{},"yanked":false}
+{"name":"robi-dev-say-hello","vers":"0.3.0","deps":[],"cksum":"ad90cc1348b2d18c412bca4dfa469de06863f9c7d8ded04d48d706beb5e27f6c","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

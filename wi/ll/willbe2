@@ -1,0 +1,1 @@
+{"name":"willbe2","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5209e6477e2531eebdbac2199edc9ba50a030daf1de440249f16bfcdc76386ae","features":{"default":["use_std"],"full":["use_std","use_alloc"],"use_alloc":[],"use_std":[]},"yanked":false}

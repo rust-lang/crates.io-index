@@ -1,0 +1,2 @@
+{"name":"rfc-4226","vers":"0.1.0","deps":[{"name":"ring","req":"^0.14.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae91259b8513b837f17a6e05f95a3865f7160d2220965d614f5dd89bed0cfd5b","features":{},"yanked":false}
+{"name":"rfc-4226","vers":"0.2.0","deps":[{"name":"ring","req":"^0.16.20","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"417ba791080d79f6a28fcdf473cb2cd73f1bd8b625e78e1875904549f4a73d23","features":{},"yanked":false}

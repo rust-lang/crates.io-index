@@ -1,0 +1,2 @@
+{"name":"magnify","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"361e66d6dd7cdcd6b4aa041a51c7054423a5dfc6077d45c8a9fa1413ff1dd19d","features":{},"yanked":false}
+{"name":"magnify","vers":"0.2.0","deps":[{"name":"image","req":"^0.25.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6d7cca63b8f4fd79549e509669865f1f1af22b75ed011678f4447177f2c62bd","features":{},"yanked":false}

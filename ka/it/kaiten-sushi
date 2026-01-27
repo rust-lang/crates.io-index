@@ -1,0 +1,2 @@
+{"name":"kaiten-sushi","vers":"0.1.0","deps":[],"cksum":"9ae0855d3206eefabe261b475d153fcd7049337f8ac1454f75a538ea22df2877","features":{},"yanked":false}
+{"name":"kaiten-sushi","vers":"0.2.0","deps":[{"name":"rand","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8c32bc7a68174c78ca1f595d9c229f7289505075524ddd0c2badef20c3d3b18","features":{},"yanked":false}

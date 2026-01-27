@@ -1,0 +1,1 @@
+{"name":"hbs-acc","vers":"0.2.0","deps":[{"name":"hbs-acc-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"521d384183063973bbbfed1f21c1c6881ead2fcc88c0c24c2c6cca0a5896a635","features":{},"yanked":false}

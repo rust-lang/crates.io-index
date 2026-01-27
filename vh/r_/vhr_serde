@@ -1,0 +1,1 @@
+{"name":"vhr_serde","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecbfc550bc7030eff1a60dc9cec5834664b1f0e9398d50f20a2cba7b659ea6c5","features":{},"yanked":false}

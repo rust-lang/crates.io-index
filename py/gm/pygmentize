@@ -1,0 +1,2 @@
+{"name":"pygmentize","vers":"0.1.0","deps":[{"name":"winapi-util","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1ff4f31e6ce57d7e2201ee85cc56fdc8a44298d71a498f8cd88333a632408a16","features":{},"yanked":false}
+{"name":"pygmentize","vers":"0.2.0","deps":[{"name":"winapi-util","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"ee7d15fa1e045a1c43cec886ec58bd58e845176654119930d3642d84be69b453","features":{},"yanked":false}

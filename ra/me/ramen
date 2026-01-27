@@ -1,0 +1,3 @@
+{"name":"ramen","vers":"0.0.0","deps":[],"cksum":"1416051696e8b853b2b499f07cc1dc75d4eaf3d4f7c92d8a36298d7b3dd60691","features":{},"yanked":false}
+{"name":"ramen","vers":"0.0.1","deps":[],"cksum":"71428cfd60f80e5a473ec4000812a141cf7d72bb549da44c3f0a0f7e0d182524","features":{},"yanked":false}
+{"name":"ramen","vers":"0.0.2","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a38bf9ea8ec72307a6849392b59a89b2b5b6e5dd47372410b3714cfcf69040ae","features":{"default":[],"parking-lot":["parking_lot"]},"yanked":false}

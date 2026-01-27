@@ -1,0 +1,2 @@
+{"name":"directopsy","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d2c4c3e4472ffee79e8d3c063715c7b54df86932e10e7657cd4eccdc8c9b9e9","features":{},"yanked":false}
+{"name":"directopsy","vers":"0.0.2","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"842191d52bb5bc2ebc09f2e8d0acc1e03dd0ba5aa7e2047153e5c4dee1c73e1e","features":{},"yanked":false}

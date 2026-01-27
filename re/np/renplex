@@ -1,0 +1,3 @@
+{"name":"renplex","vers":"0.0.1","deps":[],"cksum":"36f462bfec0b7406110cceedb41e08b678ab80d17c24c239942fab5a8f3dbaef","features":{},"yanked":false}
+{"name":"renplex","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d50d317a0480c9bb2356235c8cdbdae868ae7ae11b44bf32167f159613b6385","features":{},"yanked":false}
+{"name":"renplex","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76a17ba66604488d9fbb7d3605ae0de67daeb56f51e7dbe4c92acd021a4ae585","features":{},"yanked":false}

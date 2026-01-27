@@ -1,0 +1,10 @@
+{"name":"anpa","vers":"0.2.0","deps":[],"cksum":"366fad492718c62b73a2dd3b60d0a4ec2dfd4298e62719e4662f035acd6ed24c","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.3.0","deps":[],"cksum":"c90ba98a87d70afc281b94992d1ac491478903cfd39d358bce412df17a315ae9","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.4.0","deps":[],"cksum":"7df460c6d45ea57cc9373b00c07c8673c6198927cec785b94e863ec147b63b18","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.4.1","deps":[],"cksum":"e425fd88754e5349bc82785f4fb9fcc782b4ed75adbe13eca2052d3037116464","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.5.0","deps":[],"cksum":"1f7dfd1f7d454c9e1e4f3594547f194165a621f795bdb5512d6e0339f329040c","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.6.0","deps":[],"cksum":"95c74561f3ef0e0c7456472255b13f8e527292d27a65014800e74622635bcb1c","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"anpa","vers":"0.7.0","deps":[],"cksum":"3674c30f9abe40803a0755a8ea2c42cd0a4b8dc0c4b0253f8d3dfd2e3cdc6c81","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"anpa","vers":"0.8.0","deps":[],"cksum":"09cc10868d7021cf487c57acf6ce7fa6bbf740506629d19ebe02a840231ab7e6","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"anpa","vers":"0.9.0","deps":[],"cksum":"dbd042758b51a8f57b0e4777d1d14a49db0c0a04d2b21ceae3f64d7a066384b1","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
+{"name":"anpa","vers":"0.10.0","deps":[],"cksum":"4d032745fe46100dbcb28ee6e30f12c4b148786f8889e07cd0a3445eeb54970f","features":{"alloc":[],"build_bench":["std","json","semver"],"default":["std"],"json":["alloc"],"semver":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82.0"}

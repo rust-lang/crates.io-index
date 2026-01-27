@@ -1,0 +1,2 @@
+{"name":"gdrust_player_controller","vers":"0.1.0","deps":[{"name":"godot","req":"^0.2.4","features":["experimental-wasm","lazy-function-tables"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"055434f46270703fbdab283192c98f5b4f5f7eff925088be2b1f79f72bf05841","features":{},"yanked":false}
+{"name":"gdrust_player_controller","vers":"0.1.1","deps":[],"cksum":"32414eb85c522467c8418b62144bfd69f6246de7e470c076e6c9475b531de1be","features":{},"yanked":false}

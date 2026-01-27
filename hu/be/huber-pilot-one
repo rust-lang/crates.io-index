@@ -1,0 +1,3 @@
+{"name":"huber-pilot-one","vers":"0.1.0","deps":[{"name":"num-derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94831f824d5fe85095e1d260b6657134fb139b91e6f57c2cae0ff3d9bcce0955","features":{},"yanked":false}
+{"name":"huber-pilot-one","vers":"0.2.0","deps":[],"cksum":"d841784ac5a4722c6f47318d483ad5fa22e0622d90045214bdb44fbfaa7e1380","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"huber-pilot-one","vers":"0.2.1","deps":[],"cksum":"a434ec7a6222c8f768eb861d8c7dc1e9972ef76a1f234ca2458c4606b3cba766","features":{"default":["std"],"std":[]},"yanked":false}

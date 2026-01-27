@@ -1,0 +1,2 @@
+{"name":"prometheus-macros","vers":"0.1.0","deps":[{"name":"prometheus","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9361a3406e236b2edb2515eb225a874324080b906706e39bcf8ac72cec1257a0","features":{},"yanked":false}
+{"name":"prometheus-macros","vers":"0.2.0","deps":[{"name":"prometheus","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fac4bba92b4014adb773f15a79d6bb4be71f3827d63d417541d94c70ecf935f","features":{},"yanked":false}

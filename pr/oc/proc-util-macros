@@ -1,0 +1,2 @@
+{"name":"proc-util-macros","vers":"0.1.0","deps":[{"name":"syn","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45e6073edb3261de7793bbde3002e69e6a4baaa34f5e321e299dd30e3c7489ad","features":{},"yanked":false}
+{"name":"proc-util-macros","vers":"0.1.1","deps":[{"name":"syn","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4321714148262be8802fe10e2cdbad79585b04bde0823dcc89b10379f8cc3563","features":{},"yanked":false}

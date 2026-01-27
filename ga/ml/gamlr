@@ -1,0 +1,6 @@
+{"name":"gamlr","vers":"0.1.0","deps":[],"cksum":"614fc846a6857c7f979dd0e869fb4e94fe3811f79686f0811b07d0cc0cf95261","features":{},"yanked":false}
+{"name":"gamlr","vers":"0.1.1","deps":[],"cksum":"568aeb51e72af1d4508cdaa693f79691d314492b6a06b858873c3b698062e466","features":{},"yanked":false}
+{"name":"gamlr","vers":"0.1.2","deps":[],"cksum":"f99d02c14e1822fa47be4c341ae08e32d282cf05545d3764486dbff7ac7a35b3","features":{},"yanked":false}
+{"name":"gamlr","vers":"0.2.0","deps":[],"cksum":"778aec9cc09f59060776628896688e002af03db9e1c309b475765bc6488045ff","features":{},"yanked":false}
+{"name":"gamlr","vers":"0.2.1","deps":[],"cksum":"39abc4480927e78f6e00e28a9b87ecaa27fb5f497c77b802bf59b73732821752","features":{},"yanked":false}
+{"name":"gamlr","vers":"0.3.0","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fcb5d9128c193584bd3d3d46a842106dda19a65b0437c0370f483fe669c1678","features":{},"yanked":false}

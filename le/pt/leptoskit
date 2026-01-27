@@ -1,0 +1,1 @@
+{"name":"leptoskit","vers":"0.0.0","deps":[{"name":"leptos","req":"^0.1","features":["serde","stable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c139386a842ae5f428b89d56c5661f206cda890f0def9ab2a793612b7f25613e","features":{},"yanked":false,"rust_version":"1.67.0"}

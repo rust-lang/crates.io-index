@@ -1,0 +1,2 @@
+{"name":"jvmti-autobindings","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ba8baabd3e1b0ba378f89f6c1ac77381d86c9ad24b5c6e5b1afc866e047207cc","features":{},"yanked":false}
+{"name":"jvmti-autobindings","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"132bef45892b9e7b3e0c4136ddb6826d2afd216367d6ef122fb6373683c80f1c","features":{},"yanked":false}

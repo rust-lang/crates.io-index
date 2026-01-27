@@ -1,0 +1,1 @@
+{"name":"ufloat","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6256a15cc9842407941570b555af1f2a18da7429a592aabbd0ef857cd794d5d0","features":{},"yanked":false}

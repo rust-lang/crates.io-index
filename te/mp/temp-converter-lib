@@ -1,0 +1,5 @@
+{"name":"temp-converter-lib","vers":"1.0.0","deps":[],"cksum":"a1ad3aab6146352cc68ea6bc46b46045cc1601d83749a8cc0bbe63c5c3f3ebae","features":{},"yanked":false,"rust_version":"1.59.0"}
+{"name":"temp-converter-lib","vers":"3.0.2","deps":[],"cksum":"af6a4b5b91894568cfc84ab43d1a9fa657b662f60632baea27e0e73057614bd4","features":{},"yanked":false,"rust_version":"1.59.0"}
+{"name":"temp-converter-lib","vers":"3.1.1","deps":[],"cksum":"79152c7a05cafc63a68354129ad0a0a50eebc00b9c8b1d24ccf972f34b6ac637","features":{},"yanked":false,"rust_version":"1.59.0"}
+{"name":"temp-converter-lib","vers":"3.1.2","deps":[{"name":"rstest","req":"^0.19.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b39a8ffb65bc14cc968de1bff7f775b473c6246b436f84afd89d2482daeed2a4","features":{},"yanked":false,"rust_version":"1.59.0"}
+{"name":"temp-converter-lib","vers":"3.1.4","deps":[{"name":"rstest","req":"^0.21.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"2bb39213317464ecdec67b2882ce424d5372d4ed68d10473029ce9ee9a422948","features":{},"yanked":false,"rust_version":"1.59.0"}

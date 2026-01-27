@@ -1,0 +1,3 @@
+{"name":"fishiwak-say-hello","vers":"0.1.0","deps":[],"cksum":"560fe3f583d45f9899ba164557856a222d9163ebde012cbbeaa1233ff67449f6","features":{},"yanked":false}
+{"name":"fishiwak-say-hello","vers":"0.2.0","deps":[],"cksum":"321e52b9eedd4e831ba7d0414fcc1b11848a4f83b433002e6c526f13609eb49f","features":{},"yanked":false}
+{"name":"fishiwak-say-hello","vers":"0.3.0","deps":[],"cksum":"26575b0f1eced723ab2e9e9150a423c4de8869dfd93b655a62abe5fa2a2b1a8f","features":{"all":["hello","bye","rawr"],"bye":[],"default":["hello"],"hello":[],"rawr":[]},"yanked":false}

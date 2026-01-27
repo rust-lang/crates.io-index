@@ -1,0 +1,2 @@
+{"name":"x42ltc","vers":"0.0.5","deps":[{"name":"x42ltc-sys","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e9d8c31c7b2beebd2cfa1267d75131b01e508b57eedf5ce9fe23d9822b9d288","features":{},"yanked":false}
+{"name":"x42ltc","vers":"0.0.6","deps":[{"name":"x42ltc-sys","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41570f2da7174ab1f80f99f6dd50fa20dcd95d6e1015da7b387f401b06f7d74b","features":{},"yanked":false}

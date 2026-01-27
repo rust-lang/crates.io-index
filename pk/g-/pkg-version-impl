@@ -1,0 +1,2 @@
+{"name":"pkg-version-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f319c9889bc7c46e9f8795ea50df531258026597b75e6ebfd6236a0d80766ed7","features":{},"yanked":false}
+{"name":"pkg-version-impl","vers":"0.1.1","deps":[{"name":"proc-macro-hack","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1564bf5d476bf4a5eac420b88c500454c000dca79cef0a2e4304a1fe34361a3b","features":{},"yanked":false}

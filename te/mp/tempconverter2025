@@ -1,0 +1,2 @@
+{"name":"tempconverter2025","vers":"0.1.0","deps":[],"cksum":"b73d4504c4b0c06ac1ea5c81cf7052962cc1e01ad1399d3b23b36555a2acea28","features":{},"yanked":false}
+{"name":"tempconverter2025","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1766a7a856785c1ba79478275e958a6ee27f6b6dd908ad520ffc3e6f0c0b24b6","features":{},"yanked":false}

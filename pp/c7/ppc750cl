@@ -1,0 +1,5 @@
+{"name":"ppc750cl","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ppc750cl-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a32b6d5286ee545fe064b8ba68b68e0608796e80b2fa8007e8a59cdd1ab5984","features":{},"yanked":false}
+{"name":"ppc750cl","vers":"0.3.0","deps":[],"cksum":"ec2e75e5744faa29508df2feb2d057609934b40de4f699b049953c2dc21dc649","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"ppc750cl","vers":"0.3.1","deps":[],"cksum":"b2a50eb2cbe906e0b9d06c91a8c3b3d359c4f636fedcdd293a10826eaf47c3a8","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"ppc750cl","vers":"0.3.2","deps":[],"cksum":"be8e5b9d48ab30323e8ece6d655d20fc16a570e4f1af0de6890d3e9ebd284ba0","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"ppc750cl","vers":"0.3.3","deps":[],"cksum":"405ab38d4b7a4168632c9208bcb11914730fdf847f12ff1442423b38693fabfa","features":{},"yanked":false,"rust_version":"1.74"}

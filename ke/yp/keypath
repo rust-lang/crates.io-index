@@ -1,0 +1,3 @@
+{"name":"keypath","vers":"0.1.0","deps":[],"cksum":"bb33e9bc55945ef8004befeac85f6abf19ba2f6261f32c505ffa0106cfdc0171","features":{},"yanked":false}
+{"name":"keypath","vers":"0.1.1","deps":[{"name":"keypath-proc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7518c562224fd20bd8bcdc4e44467649784065b186bb96a2804e836a7e59b79","features":{},"yanked":false}
+{"name":"keypath","vers":"0.2.0","deps":[{"name":"keypath-proc-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c53fde7c906a469938b1bca616f2a3a00d12b98e93bd777cf0ec4555c781858","features":{},"yanked":false}

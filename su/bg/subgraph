@@ -1,0 +1,2 @@
+{"name":"subgraph","vers":"0.1.0","deps":[],"cksum":"94240a015ac80d76da091ac81fd5566b27ab0ae4e61d8946e42bde2909bce654","features":{},"yanked":false}
+{"name":"subgraph","vers":"0.2.0","deps":[{"name":"indexmap","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed7944c6f713b7c1f024bc2cd1e65429b6e78e6ae5bbcd1df86dd9fe645378f8","features":{},"yanked":false}

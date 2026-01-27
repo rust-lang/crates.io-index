@@ -1,0 +1,4 @@
+{"name":"jit_rs","vers":"0.1.0","deps":[],"cksum":"93c5b4e606ac35879be715205c99391e321b6fc2048786acf03f4d530ee520b7","features":{},"yanked":false}
+{"name":"jit_rs","vers":"0.1.1","deps":[{"name":"jit_rs-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d938f7a386e4a61977761e85b9a609a1a0370bd2d3ab7e40f5f45ce73c9b394f","features":{},"yanked":false}
+{"name":"jit_rs","vers":"0.1.2","deps":[{"name":"jit_rs-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae3b4d99897b3364b4b4492501f4234f521fa20386a45113eb5fa677964f7dfc","features":{},"yanked":false}
+{"name":"jit_rs","vers":"0.1.3","deps":[{"name":"jit_rs-sys","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef4e0f7f52ff4ae1962292c3f868e9136cd0ea19432d32fa9eb243cf12a2a92e","features":{},"yanked":false}

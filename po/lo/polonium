@@ -1,0 +1,2 @@
+{"name":"polonium","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a50fad688163c61763e12f800ff0e72082e7d1aa5240e446d8ad5815bcf815b7","features":{},"yanked":false}
+{"name":"polonium","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0bd911d4dcb10fa3ba1e67f6b7dccf73360d2a82c6fd9ca559a37de931b9fb9c","features":{},"yanked":false}

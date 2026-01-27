@@ -1,0 +1,7 @@
+{"name":"tcg","vers":"0.1.0","deps":[],"cksum":"237660fb8832700d57fb7a7abcb0d2bfae064202371ad833e7308645bbb5f0a6","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.1","deps":[],"cksum":"2720ad02d40643265b45c1002f33cca7916a3d3c5839b5be9051a718fe6b2be0","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.2","deps":[],"cksum":"3d6c43d034774cee7205d608e140b2a4c8b598a4344da0c002e29088ccd019ba","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.3","deps":[],"cksum":"ea77b98b7e610f91dd41b69b55e8b55a4e7bdddc1ac1b3138a1e71444fe33cdc","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.4","deps":[],"cksum":"60ba3595b8b3a372f722944e33d03ce028c78de080bd78712d71a01d534c7de3","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.5","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80a1466159641342c5f3803397659f90b4877547ab4cc2cfc93ea917c83f6a95","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.6","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c09e575dfd8d223e6eefdd258a98424b806c3dfcfdf2c49536a697424ac0684","features":{},"yanked":false}

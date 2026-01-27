@@ -1,0 +1,1 @@
+{"name":"firecore-text","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63fc8bf14ed83ed41f97f3b91c363ab6a47cd903d1bd605f0c066d1db6b33290","features":{},"yanked":false}

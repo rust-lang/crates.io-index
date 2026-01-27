@@ -1,0 +1,2 @@
+{"name":"greentask","vers":"0.1.0","deps":[{"name":"coroutine","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4353b26e6ab2460f0461c4d4ebab8abaf033ca4d526eda47627dd3450512b2e4","features":{},"yanked":false}
+{"name":"greentask","vers":"0.2.0","deps":[{"name":"coroutine","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ee2b79ca75e38874946e6dc95948106f07f447e1fcba66f04ecbe095c4e0432","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mdc-yew","vers":"0.1.0","deps":[],"cksum":"f96e48ab166f5d18ecbc742c5b8895b175a5711f904f208bce7736a5c1b11a20","features":{},"yanked":false}
+{"name":"mdc-yew","vers":"0.1.1","deps":[{"name":"mdc-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yew","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"48f134fa599fc8dc4f954c1f5c88bf8378ceb25593c57aa4832724942524e372","features":{},"yanked":false}

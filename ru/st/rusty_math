@@ -1,0 +1,11 @@
+{"name":"rusty_math","vers":"0.1.0","deps":[],"cksum":"316a542931720f34beace784d84ad60013e006e012e03f31e8fc1b351798dd2d","features":{},"yanked":true}
+{"name":"rusty_math","vers":"0.1.1","deps":[],"cksum":"4fd7a84d76a8385d9fa70bc44da40d5a52e6fb9d556192592d26dbf121daaaef","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.1.2","deps":[],"cksum":"a34c474ac40629687c89ecff19b02a8f43894c4c1fdc2f9cae479204763b891c","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.2.0","deps":[],"cksum":"795e07002e948d5ff3dcb573cfc4c254e8d3e2316c5296847361e079371cdee3","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.2.1","deps":[],"cksum":"830a69958aed19ddf9b54d74b44e94ff2ba005f669ccbadb27087d6f10630020","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.3.0","deps":[],"cksum":"22bc42a74d3584216580180889fffb66fa26419418ef7f067507e4d2302ae3ed","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.3.1","deps":[],"cksum":"d1c9ab11b8cdf56d0d1db94738a7917bf3f83a399309f7db8b5d9c0a8e98297c","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.4.0","deps":[{"name":"itertools","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75aad4f94397303f321fe6c6e54ad5427d6fd4c03e400fdc810acd479d1c76d0","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.5.0","deps":[{"name":"itertools","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36dca6a473290f99b86d98d0a695a838ba4d8320840c82e343129c102897c2ee","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.6.0","deps":[{"name":"itertools","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b6797729171d7905439b5ab706aa7e713ba8b12627f1c046fab0948b6bc5a2b","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.7.0","deps":[{"name":"itertools","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6b2c7c49f7656f0e738b92a65d6dd4de96f5a6b7000b51eaa3ed6a2b606d0a1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rustylink-chess","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb2d2f4d4667e66272cc8fea21f885614e72a614f6c183e71bf31176d6701ee3","features":{},"yanked":false}
+{"name":"rustylink-chess","vers":"0.1.1","deps":[{"name":"hidapi","req":"^2.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be1597ac1d261da366e7f7b751775112b2742bfb6b51b278bc61530bd5409fd1","features":{},"yanked":false}

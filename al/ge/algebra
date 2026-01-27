@@ -1,0 +1,2 @@
+{"name":"algebra","vers":"0.1.0","deps":[],"cksum":"afd08b5b63d42bbc106a77d700a6e1f2315d7638ef8f4effbbce44c77855b4de","features":{},"yanked":false}
+{"name":"algebra","vers":"0.2.0","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2cdb23412c644640708b5b97763fcfeae52d64e5c16dad1d75fd909f64cbf55c","features":{},"yanked":false}

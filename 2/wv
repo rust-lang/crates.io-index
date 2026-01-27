@@ -1,0 +1,3 @@
+{"name":"wv","vers":"0.1.0","deps":[{"name":"wv-sys","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9c803347afd5b74002cea7a340e53c96ea7176e960ab6aba2824991b0956e41","features":{},"yanked":false}
+{"name":"wv","vers":"0.2.0","deps":[{"name":"wv-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af7a3cf1bce8868e0f2c2516a7bf6e1572f81f8a9f924e3df6db339d9e20b763","features":{},"yanked":false}
+{"name":"wv","vers":"0.2.1","deps":[{"name":"wv-sys","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22b7d75a8d7137942e6919c2679fbca36a7419574a65e92dd6cf79b1ae307227","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"try-lock-portable-atomic","vers":"0.2.5-patch0","deps":[{"name":"portable-atomic","req":"^1.3.0","features":["require-cas"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e5fdb48ca18a5a980a9985b41278f5bb13b31a333ff056f616007dee2ebcf981","features":{},"yanked":false}

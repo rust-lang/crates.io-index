@@ -1,0 +1,3 @@
+{"name":"gdrust_collision","vers":"0.1.0","deps":[],"cksum":"d57f50c453e8d818eb6451816bf963e10d655f8707a9b0a12def3b823bd61b69","features":{},"yanked":false}
+{"name":"gdrust_collision","vers":"0.1.1","deps":[{"name":"godot","req":"^0.2.4","features":["experimental-wasm","lazy-function-tables"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25bdf80e6f883f30a83cdb7bde52c29884bcc7ad45ecd9175589cc37d7cf1c1d","features":{},"yanked":false}
+{"name":"gdrust_collision","vers":"0.1.2","deps":[],"cksum":"c9459a3642980205abab04911cef2a860f0c0804df8013f05931764e2292e186","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"tinydyn","vers":"0.1.0","deps":[{"name":"tinydyn_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e87a83674616bd8441a5374e4dc65e1f6f66467dbb36344365e4a57d4372a725","features":{},"yanked":false}
+{"name":"tinydyn","vers":"0.1.1","deps":[{"name":"tinydyn_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe6cd5d63fc95c6bde42d4357133ccde75715fbd040d23ba76a6822c6fcc4837","features":{},"yanked":false}

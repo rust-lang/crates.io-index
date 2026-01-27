@@ -1,0 +1,4 @@
+{"name":"parse_kubectl_time","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ba3c066bfea82ee1e793c389d94f44a5f033766fb188927ce99be92a2d8cf01","features":{},"yanked":false}
+{"name":"parse_kubectl_time","vers":"0.2.0","deps":[{"name":"regex","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ef89a64da1e110638d934678995c061e547e2c39c96b6008bde0c8e9d47e7d6","features":{},"yanked":false}
+{"name":"parse_kubectl_time","vers":"0.2.1","deps":[],"cksum":"849cc816676e006edbe29392244f893195f93c2469d5e5e0a5f35bc11373ee4e","features":{},"yanked":false}
+{"name":"parse_kubectl_time","vers":"0.2.2","deps":[],"cksum":"097a59e65f9884b36d0c6fdeb286e965959bf6b2422aedc0246991167056256e","features":{},"yanked":false}

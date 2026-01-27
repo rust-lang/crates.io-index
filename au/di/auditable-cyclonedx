@@ -1,0 +1,2 @@
+{"name":"auditable-cyclonedx","vers":"0.0.1","deps":[],"cksum":"879bddb0b3084f250c52fedd3fb73c46171dacd060f204be67300f6e16872423","features":{},"yanked":false}
+{"name":"auditable-cyclonedx","vers":"0.1.0","deps":[{"name":"auditable-serde","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cyclonedx-bom","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d257ff99ba771d1b0ea93659dc14876fa61c90a0f97a643deda51d4ac1e55c3f","features":{},"yanked":false}

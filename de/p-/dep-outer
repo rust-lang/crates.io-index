@@ -1,0 +1,1 @@
+{"name":"dep-outer","vers":"0.1.0","deps":[{"name":"dep-inner","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e028d27cd139dc01b05970d1326aba3dc00c2171d6d08d683723e93a0c1a5bbf","features":{},"yanked":false}

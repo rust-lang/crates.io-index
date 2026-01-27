@@ -1,0 +1,2 @@
+{"name":"cargo-use","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f911ad83ced8f7c68129697a575e81c45ba68c474174aed3f15438afa5e5fc14","features":{},"yanked":false}
+{"name":"cargo-use","vers":"0.1.1","deps":[{"name":"clap","req":"^4.2.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1522765223b87768d82ab350843f00981b4d88ab51bf4fa0d48a0d129cf7554f","features":{},"yanked":false}

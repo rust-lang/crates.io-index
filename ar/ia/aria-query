@@ -1,0 +1,6 @@
+{"name":"aria-query","vers":"0.0.1","deps":[],"cksum":"d22b7f13ec201267aa3eb14a08d0e7a9beae90fb748aaeac072c2681a8f3df02","features":{},"yanked":false}
+{"name":"aria-query","vers":"0.0.2","deps":[],"cksum":"6f56f74b3f0d6e68dd0574bc43b95cdc847d20658c8e26f7a219733546179d69","features":{},"yanked":false}
+{"name":"aria-query","vers":"0.0.3","deps":[],"cksum":"f7941a6946d250f632014209d796c733656c4519c50693bc3deec395ec8c88f8","features":{},"yanked":false}
+{"name":"aria-query","vers":"0.0.4","deps":[],"cksum":"e4c6e6778de8b9abfa42ebcc484b7295a2e53da985c428bdb473a7bddf124fd7","features":{},"yanked":false}
+{"name":"aria-query","vers":"0.0.5","deps":[{"name":"ordered_hash_map","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d4456c92d34f933d42cdd8d5b4eca7f816c88c323a3b9ab80872c17e2a3d19d","features":{},"yanked":false}
+{"name":"aria-query","vers":"0.0.6","deps":[{"name":"ordered_hash_map","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be9b9157d5ea67b5f25449f94fd9b91806b12a27bd165e84f746b654480d44b6","features":{},"yanked":false}

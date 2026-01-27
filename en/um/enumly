@@ -1,0 +1,2 @@
+{"name":"enumly","vers":"1.1.0","deps":[{"name":"enumly-derive","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7940ccc955d361c7c4495891e4af03b1af28e21f9b590fb44579522a32e2cd4a","features":{},"yanked":true}
+{"name":"enumly","vers":"1.1.1","deps":[{"name":"enumly-derive","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d840b319ee28ac0bde40489bbadf6604c3c7790d116bdd294a2477b5ba0076b4","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"rustenv","vers":"0.0.1","deps":[],"cksum":"fb4a7f5ac776db47b8e6a4aa07cea65e95e5391099ad0ac1cb5610dfb387e03d","features":{},"yanked":false}
+{"name":"rustenv","vers":"0.0.2","deps":[],"cksum":"32ef61b41de67d8a7bc0e24cd8321bb3ce60a13b5c10dcd5cc0589d17d50a46b","features":{"default":[],"write":[]},"yanked":false}
+{"name":"rustenv","vers":"1.0.0","deps":[],"cksum":"c1fb88fefefa2585fb7bb55f6cbcab3118149cb651809faf96ddb0b41e4f25c9","features":{"all":["read","write"],"default":[],"read":[],"write":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"factorio-lua-src","vers":"544.0.1","deps":[{"name":"cc","req":"^1.0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee8af16d117eb21316778cfab8c95a8aed7f9bca280ed5724f0d368ac8c41339","features":{"ucid":[]},"yanked":false}
+{"name":"factorio-lua-src","vers":"546.0.0","deps":[{"name":"cc","req":"^1.0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"441d8fb3184fdc8b816bad26e0fc44631b4134d0be3d3d40407af6cffe2179bf","features":{"ucid":[]},"yanked":false}

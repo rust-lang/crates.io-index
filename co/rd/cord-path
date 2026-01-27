@@ -1,0 +1,1 @@
+{"name":"cord-path","vers":"1.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"125b798a09d8a1e5607ed2b4ef0f45fcbe116ae93e88c8c7bf6806c14034bf8b","features":{},"yanked":false}

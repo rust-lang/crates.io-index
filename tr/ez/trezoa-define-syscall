@@ -1,0 +1,3 @@
+{"name":"trezoa-define-syscall","vers":"3.0.0","deps":[],"cksum":"44029f93746fa1ad930a445f076a3c7245d4d3ba9738d62060163d312e507c12","features":{},"yanked":true}
+{"name":"trezoa-define-syscall","vers":"3.1.1","deps":[],"cksum":"6b891c9220e1c9c4a53222a412bb2473362296ab1e720480f703f03fa3063c3a","features":{},"yanked":true}
+{"name":"trezoa-define-syscall","vers":"3.2.2","deps":[],"cksum":"793a1f3e10a5c14547318912ccb603ee9e0905833515724fdd5993327114c48e","features":{"unstable-static-syscalls":[]},"yanked":false}

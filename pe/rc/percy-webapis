@@ -1,0 +1,2 @@
+{"name":"percy-webapis","vers":"0.0.1","deps":[{"name":"wasm-bindgen","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f83575d2387200404f41ec2ba0dc22d477986d835fb98cb604f5f883dfe0d43","features":{},"yanked":false}
+{"name":"percy-webapis","vers":"0.0.2","deps":[{"name":"wasm-bindgen","req":"^0.2.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67ba737d8ee01d282d700de884646ee6e28667ce013290f590a8e0981b7ca0db","features":{},"yanked":false}

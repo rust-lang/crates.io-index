@@ -1,0 +1,1 @@
+{"name":"dotlock","vers":"0.5.0","deps":[{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"},{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30c541575b952e53113caddb5be24869705052591b534ea11a81a3d4743416a3","features":{},"yanked":false}

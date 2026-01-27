@@ -1,0 +1,1 @@
+{"name":"lineargen","vers":"0.1.0","deps":[{"name":"rand_core","req":"^0.6.4","features":["getrandom"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ae8cd1dc321807e47ff4d678e6101d45ee577cd39d607017eb4aa1f8dc2af7d","features":{},"yanked":false}

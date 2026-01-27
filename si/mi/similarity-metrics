@@ -1,0 +1,1 @@
+{"name":"similarity-metrics","vers":"0.1.0","deps":[{"name":"polars","req":"^0.25.1","features":["lazy","timezones","dtype-datetime","strings","lazy_regex","concat_str","fmt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec5e718e89f94f564ac0aad2e86d9d65c37bf27c913e074c14f7c2c87f1f34ba","features":{},"yanked":false}

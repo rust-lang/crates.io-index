@@ -1,0 +1,1 @@
+{"name":"unempty","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"909567e208bea949a6d18cd2bf4d6947d70fb1acbaef760254d94e7fd7b118d1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56.0"}

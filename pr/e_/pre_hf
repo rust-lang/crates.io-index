@@ -1,0 +1,2 @@
+{"name":"pre_hf","vers":"0.0.0","deps":[{"name":"wee_alloc","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342bb1878930adf850a4e0639ea11ebc7eeb6ce3e46abc8a9e921992c124a5ba","features":{},"yanked":false}
+{"name":"pre_hf","vers":"0.0.1","deps":[{"name":"wee_alloc","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e38d13e8783b2722217fb9ea3330230d88d0f8c07383a971debe6615e92871","features":{},"yanked":false}

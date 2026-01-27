@@ -1,0 +1,1 @@
+{"name":"pokeball-rs","vers":"0.3.0-alpha.1","deps":[{"name":"uuid","req":"^1.11.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2138a9059e8c6bd876fe1b401490067feb77a9765b061396615ac8a6e75b886","features":{"default":[]},"features2":{"full":["uuid"],"uuid":["dep:uuid"]},"yanked":false,"v":2}

@@ -1,0 +1,5 @@
+{"name":"tatk","vers":"0.2.0","deps":[],"cksum":"29d84c2779a5d0878fa03855db6280b63072ae4de4f87298074f936c479fb44e","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
+{"name":"tatk","vers":"0.2.1","deps":[],"cksum":"084bf43f4f20a7a8b1c27ae383a88906871bd1cce22ca2f2640d3cb3f3e082aa","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
+{"name":"tatk","vers":"0.2.3","deps":[],"cksum":"8440491030102f31099f8a7a6265006d9aa5d1b790ee8d5b3934f0dd2bbf1d9e","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
+{"name":"tatk","vers":"0.2.4","deps":[],"cksum":"d2257e8ce105a66fc1a48f7e90ef90c50dfe2d430c550fbf85eb41b8a88b0e99","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
+{"name":"tatk","vers":"0.3.0","deps":[{"name":"tatk_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f04601c5c77fcf5302563b78a985f099df2a9d60e5e73768e81dc28c327fc563","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}

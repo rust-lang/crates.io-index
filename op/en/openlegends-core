@@ -1,0 +1,3 @@
+{"name":"openlegends-core","vers":"0.1.0","deps":[],"cksum":"fad4f1460445744952d8343d49e270ec4b80705cdacf58bc96554c5ccddd8d7a","features":{},"yanked":true}
+{"name":"openlegends-core","vers":"0.1.1","deps":[],"cksum":"78ace237389d9b5cbbb6e6279a2d155ad13ce29d69a54892aed88c5334c6c78a","features":{},"yanked":false}
+{"name":"openlegends-core","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eebbc23bf2c48001512cf44d57ad8d73fb3e6317a4ccc7ec6b83ea9aa423cb1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jupnet-atomic-u64","vers":"2.1.6","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_pointer_width = \"64\"))","kind":"normal"}],"cksum":"9439ec8866c97a6f979f045eaada77dff1ca8f00c25636eb1102cc80a077b67c","features":{},"yanked":true}

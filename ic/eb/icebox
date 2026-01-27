@@ -1,0 +1,1 @@
+{"name":"icebox","vers":"0.0.0","deps":[{"name":"glam","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proptest","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f399a355246751fe20739b71cca1dd7e214493b17f6462d0b631321cc9e03fa","features":{},"yanked":false}

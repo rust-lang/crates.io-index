@@ -1,0 +1,2 @@
+{"name":"opus-rust","vers":"0.1.0","deps":[{"name":"opus-cmake-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"785cc13c632cbd08dedcc45ca0afbf2072305bfa72dd1310da9e14e4b79b2500","features":{},"yanked":false}
+{"name":"opus-rust","vers":"0.1.1","deps":[{"name":"opus-cmake-sys","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3defc4c4481da82a5c661eff992e1ea25c7fe5414f19b1157d053e9e32f5a69a","features":{},"yanked":false}

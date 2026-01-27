@@ -1,0 +1,2 @@
+{"name":"kerberos-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"67a5b6f4d9ce375c8b9b6f38cab58acf9ef8bb5165493529bea2419d84408b19","features":{},"yanked":false}
+{"name":"kerberos-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"342f9e73140a3b2c59d2572655060b996ebdbc44ebf7f56f883421f774c6e3f8","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"ipfs-effector-types","vers":"0.1.1","deps":[{"name":"marine-rs-sdk","req":"^0.14.0","features":["logger"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2d6601e9ce7a3d5ec9ac807207cfefaf547b699500910ad8262b234ad9bd25f","features":{},"yanked":false}

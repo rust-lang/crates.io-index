@@ -1,0 +1,2 @@
+{"name":"netsnmp-sys","vers":"0.1.0","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"992187b49bcc3dbd863e89e9797ba021f5fd60a5aaec1eb1e1514bed6d524241","features":{},"yanked":false,"links":"netsnmp"}
+{"name":"netsnmp-sys","vers":"0.1.1","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"631b53a54f07e7f8e390ba494a5fa4cac4c92abed56506025714c62a237c27c3","features":{},"yanked":false,"links":"netsnmp"}

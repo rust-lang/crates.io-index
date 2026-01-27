@@ -1,0 +1,1 @@
+{"name":"bevy_entity_ptr","vers":"0.1.0","deps":[{"name":"bevy_ecs","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86aa7b8492e2e8a95c5bf14b9743f514b3d1cce5a36f6a227cb859ae1eecc9eb","features":{"default":[],"nav-traits":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-01-27T01:30:18Z"}

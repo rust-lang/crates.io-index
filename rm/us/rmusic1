@@ -1,0 +1,2 @@
+{"name":"rmusic1","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e905ab2c430a2684f10000f41514b8ba71a72b469855d85ffe28278b80995bb","features":{},"yanked":false}
+{"name":"rmusic1","vers":"0.1.2","deps":[{"name":"rodio","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"495afa519ab39964cde4efb60c38209c490cc41743e814f2c97a3014295721a7","features":{},"yanked":false}

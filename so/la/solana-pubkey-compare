@@ -1,0 +1,2 @@
+{"name":"solana-pubkey-compare","vers":"0.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"39d66fb07794f96485e63f8eb08c1d23da1db42e5aa597786249c52091bc8482","features":{},"yanked":false}
+{"name":"solana-pubkey-compare","vers":"0.0.0-alpha0.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e391f1080698a6f09d0a4837a7d4ae4ad20a352c464a002e20db615004c860c2","features":{},"yanked":false}

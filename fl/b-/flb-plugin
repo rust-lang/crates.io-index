@@ -1,0 +1,2 @@
+{"name":"flb-plugin","vers":"0.1.0","deps":[{"name":"flb-plugin-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a3a4d4bc16f6d940c7a241afd4f90ba6de627bffcc244656a8831967fb17bf6","features":{},"yanked":false}
+{"name":"flb-plugin","vers":"0.1.1","deps":[{"name":"flb-plugin-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06b78eabba477a88062b4290307cd810451cc75d676a5fe14b9647a10bf89fdf","features":{},"yanked":false}

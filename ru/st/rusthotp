@@ -1,0 +1,1 @@
+{"name":"rusthotp","vers":"0.1.0","deps":[{"name":"hmac-sha1","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"036c2e2642ec473589e41a2ec1b5f1e5aec15f307d7a7b4edb120ce5f911d555","features":{},"yanked":false}

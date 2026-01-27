@@ -1,0 +1,2 @@
+{"name":"take_ref","vers":"0.1.0","deps":[],"cksum":"94928600f2ec58461e9e9464367c529b6e6275c031ba2aa6bd19109157ff4353","features":{},"yanked":false}
+{"name":"take_ref","vers":"0.2.0","deps":[],"cksum":"3632702837eadef528cb052950e3da387351729a4df2a52a52cc756900617d2e","features":{"default":["use_std"],"use_std":[]},"yanked":false}

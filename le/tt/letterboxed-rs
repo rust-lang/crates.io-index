@@ -1,0 +1,2 @@
+{"name":"letterboxed-rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12c8c7397d0149e54f206dee2ced42d0f04bd4706f47a114ef554f6010ae5363","features":{},"yanked":false}
+{"name":"letterboxed-rs","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af86f5030634bd9461a61f97e9adbf8285edf628c35c842d4646f18b8f12712a","features":{},"yanked":false}

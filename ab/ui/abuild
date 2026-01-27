@@ -1,0 +1,1 @@
+{"name":"abuild","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.39","features":["cargo","derive","unicode"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e52a8358116d7394bea556ffdca364967deed82bf44f91c8f643687d29f6f8ec","features":{},"yanked":true}

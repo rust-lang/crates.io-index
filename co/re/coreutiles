@@ -1,0 +1,1 @@
+{"name":"coreutiles","vers":"0.1.0","deps":[{"name":"clap","req":">=4.5.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddbd098860afd357ebfdd2de04584c1bd748c96e625e075842359e4550c1d1f8","features":{},"yanked":false}

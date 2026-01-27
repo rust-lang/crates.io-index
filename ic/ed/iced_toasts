@@ -1,0 +1,2 @@
+{"name":"iced_toasts","vers":"0.1.0","deps":[{"name":"iced","req":"^0.13.1","features":["advanced"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef0b143cec05dc9556bc8323d5ad79bd484e9e02b12d210e1c27dee80b07b226","features":{},"yanked":false}
+{"name":"iced_toasts","vers":"0.1.1","deps":[{"name":"iced","req":"^0.13.1","features":["advanced"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7867fa2bb9dafb59831baa27987fcc9c75969f2909953fb6848cab940f0e456","features":{},"yanked":false}

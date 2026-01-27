@@ -1,0 +1,2 @@
+{"name":"cpuinfo","vers":"0.1.0","deps":[],"cksum":"6dbf4b7e90c46f12a367b0cbe2873fc8eb6c40e045bc69bb2161bf9fc3592cd5","features":{},"yanked":false}
+{"name":"cpuinfo","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9db68970c27ea78b9345e2d0e8e0e4d60e8b9d36779a8f554e77f6d992c22c80","features":{"default":[]},"yanked":false}

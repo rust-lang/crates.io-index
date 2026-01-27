@@ -1,0 +1,1 @@
+{"name":"rosd_cli","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rosd","req":"~0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"44f249e73eeeda52cf4973d3a58433b69594f35afb49d879885857be49a36322","features":{},"yanked":false}

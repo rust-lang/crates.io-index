@@ -1,0 +1,1 @@
+{"name":"pretty-bytes-enum","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.182","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6175315bd09b3c5757e1a8cab40625bd4115beecc3ecd8bfd1ca661f3044aa7","features":{},"features2":{"serde":["dep:serde"]},"yanked":true,"v":2}

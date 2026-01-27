@@ -1,0 +1,2 @@
+{"name":"rkrga-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"80aa8f36d721e7f2beb007bb6da08dadf2aaf908a2a0e8b504be1b2bee988488","features":{},"yanked":false}
+{"name":"rkrga-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"d62cd9034dbf13533424b8527cabfbf287db70bc7e52a992ba95eea65032d35a","features":{"default":[],"use-bindgen":["bindgen"]},"yanked":false}

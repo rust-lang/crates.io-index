@@ -1,0 +1,2 @@
+{"name":"domtree","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5e66df2d8955e4962b99f4a7682e234343d87544a8b7ab20dfcc1f2195ca9ea","features":{},"yanked":false}
+{"name":"domtree","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"224fcd392ab417586716f27fbae110548dce5ae439ccd617ae2006b971cb015d","features":{"materialized_idf":[]},"yanked":false}

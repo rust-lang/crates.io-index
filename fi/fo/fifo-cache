@@ -1,0 +1,2 @@
+{"name":"fifo-cache","vers":"0.1.1","deps":[],"cksum":"e226085376051ee5fee218bff81cdb54f0ca52f67c61332d948f29759ba22221","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"fifo-cache","vers":"0.2.0","deps":[],"cksum":"8ff6f598a3e7326cd923e62ed19b099fb4b9ab0a0627cd5a9b2a932d6e1ef0ba","features":{"default":["ttl"],"ttl":[]},"yanked":false,"rust_version":"1.59"}

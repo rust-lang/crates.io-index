@@ -1,0 +1,6 @@
+{"name":"solver","vers":"0.0.1","deps":[],"cksum":"684d06888a2517f7bdc06cc6977ed6b895b5c7f6ff0cef8f7bacbf2d9d5a3a4a","features":{},"yanked":true}
+{"name":"solver","vers":"0.0.0","deps":[],"cksum":"35c57ad8c29c8076033f9f6dda6c34e16efe23f82b2ca2f2418791afc85bc008","features":{},"yanked":true}
+{"name":"solver","vers":"0.0.2","deps":[],"cksum":"cc10d37d5d0ce66763da4ae3b3dc26244249417756a69288a7320af403eb0bf2","features":{},"yanked":true}
+{"name":"solver","vers":"0.0.3-alpha.0","deps":[],"cksum":"89d1c41a0ba2303ebc89fc829cee2c6048f1647c068682305f9c620714e8f86b","features":{},"yanked":false}
+{"name":"solver","vers":"0.0.3-alpha.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3338da6060b207f12eddb7c6cd9adc5bd7ae7d1b88b46e77fea49fc7d2dbd411","features":{},"yanked":false}
+{"name":"solver","vers":"0.0.3-alpha.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ec0040f216604647071f468dc64fb484614328800a31553129640255a54e607","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rust-libvirt","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dd4be00fc43ea9040f7b0f715db51f343a0dac828ddfc019177153e2ba17e0ed","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"jip-say-hello","vers":"0.1.0","deps":[],"cksum":"a8248d6dc245601a2f8fa4e339702aa766fbc26e821c279f4a177e1f85b08889","features":{},"yanked":false}
+{"name":"jip-say-hello","vers":"0.2.0","deps":[],"cksum":"d4e8dc1b48c8c8f0bca7d641e4355ac749b31ec2800b6978d28df5f7238acda3","features":{},"yanked":false}
+{"name":"jip-say-hello","vers":"0.3.0","deps":[],"cksum":"67bc07012b12fd7d1b6f2919a26aaeb3653c073b8574b31007fd4897a168fcf3","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

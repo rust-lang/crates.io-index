@@ -1,0 +1,1 @@
+{"name":"sierra_libs","vers":"0.1.0","deps":[{"name":"clap","req":"^3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607c07fbb04760a63e65311c278b79d6820e71539a0206248ef65dab140ce4aa","features":{},"yanked":false}

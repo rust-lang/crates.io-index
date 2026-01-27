@@ -1,0 +1,2 @@
+{"name":"cardio","vers":"0.1.1","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90768b33c6e20bf3313d7f5e71ce82af6c6cb6bb3ea8f2dbc4a657c0f81ef9a8","features":{},"yanked":false}
+{"name":"cardio","vers":"0.1.2","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c02021466dffb0f7f35935e4a11a8f9d894b695cc0b4a7e2ff490499e5d222c","features":{},"yanked":false}

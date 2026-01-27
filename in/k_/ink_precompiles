@@ -1,0 +1,1 @@
+{"name":"ink_precompiles","vers":"6.0.0-beta.1","deps":[{"name":"ink","req":"=6.0.0-beta.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"15e04a35b3652a7c474518a1ffa2e3c158559b949b952f86d26033dd5f244ac0","features":{"default":["std"],"std":["ink/std"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pillars","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.32.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67c66394efecd43424f7fb9b83a89c31810ceec2915935c2c74d0500f7a147f0","features":{},"yanked":false}

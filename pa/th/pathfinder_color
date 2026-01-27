@@ -1,0 +1,2 @@
+{"name":"pathfinder_color","vers":"0.1.0","deps":[{"name":"pathfinder_simd","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20e330873a4955d5f16067e6b278f4c2202128a3a3f0a7c74f38599156b93354","features":{},"yanked":false}
+{"name":"pathfinder_color","vers":"0.5.0","deps":[{"name":"pathfinder_simd","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69bdc0d277d559e35e1b374de56df9262a6b71e091ca04a8831a239f8c7f0c62","features":{},"yanked":false}

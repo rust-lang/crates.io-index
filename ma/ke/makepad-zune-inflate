@@ -1,0 +1,1 @@
+{"name":"makepad-zune-inflate","vers":"0.2.54","deps":[{"name":"simd-adler32","req":"^0.3.4","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"983c67986c17cd40afb2d90e77838eaab5bfa8ad9d9b02fbba7329b393765f34","features":{"default":["zlib","gzip","std"],"gzip":[],"std":["simd-adler32/std"],"zlib":["simd-adler32"]},"yanked":false}

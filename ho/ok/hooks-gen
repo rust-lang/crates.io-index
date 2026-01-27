@@ -1,0 +1,2 @@
+{"name":"hooks-gen","vers":"0.1.0","deps":[{"name":"slab","req":"^0.4.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3de1e14c4eeb7d443cd5224eaa4d5249d4e9e2bcdad84edd065c9e7bcfd9b01e","features":{},"yanked":false}
+{"name":"hooks-gen","vers":"0.2.0","deps":[{"name":"slab","req":"^0.4.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3371136019c917ecf198c738eac42bd1e9698c2aeb85ff307f85c955a29a26a5","features":{},"yanked":false}

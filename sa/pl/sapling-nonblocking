@@ -1,0 +1,1 @@
+{"name":"sapling-nonblocking","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.30","features":["async-await","compat"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5190595f39a20f732f54e969974aac6840731b20ab85fcac010728f0e1735c69","features":{},"yanked":false}

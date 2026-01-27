@@ -1,0 +1,1 @@
+{"name":"and_then_map_err","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"192291d513f0889b75bed1ce9c50e1bc85f8c66dab80978d51705329b0482077","features":{},"yanked":false,"rust_version":"1.80.0"}

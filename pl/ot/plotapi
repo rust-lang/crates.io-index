@@ -1,0 +1,2 @@
+{"name":"plotapi","vers":"0.1.0","deps":[{"name":"ureq","req":"^1.5.5","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be88c2401b3b90c24eb80c2eaee46310eea6268cb293b931aaa965791a712b95","features":{},"yanked":false}
+{"name":"plotapi","vers":"0.1.1","deps":[{"name":"ureq","req":"^1.5.5","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2e75671869dae07e9538ff8e0c5ee147922251275a915dfbe9933084c9fcb57","features":{},"yanked":false}

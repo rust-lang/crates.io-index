@@ -1,0 +1,15 @@
+{"name":"intel8080","vers":"0.5.0","deps":[],"cksum":"99125faaaf2a2e62024be4e32fa11a0e68d1a3cfc8739d5cb887a6136af23ba2","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.6.0","deps":[],"cksum":"2058707f9ffde343532a93a10c9fecbb81d27d4afc7038d7b03bc3400ca26d3d","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.7.0","deps":[],"cksum":"410d019d512e344027674176292cd27f17f48ca4ea8866c2648894de62cad827","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.8.0","deps":[],"cksum":"87da3b35d11737c04f71e347960fc162f93175a0ffada50747ceaeae31118378","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.9.0","deps":[],"cksum":"e7eb2c6a19a9d99ddf9c70c25a9fbc4d2c31df6671a1a82f00ccf6ba03696708","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.10.0","deps":[],"cksum":"6cb931ab111463a0a044feed9f92ef0adc1debdba2a88558e1a212010ba6feea","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.11.0","deps":[],"cksum":"f32cdc3f0986aae4d121b6ed55299819afc1d84c8514e7b8ccedace7d3ca3652","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.12.0","deps":[{"name":"spin_sleep","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1c81b8734264e87148a05dcfe588fe322a9e11237ef13f8efdf856ad2b95eb17","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.13.0","deps":[{"name":"spin_sleep","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"6fbabd1d594ea4b315fdec80128eab76da419475481e69225ba2abb2517ba51a","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.14.0","deps":[{"name":"spin_sleep","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"25967af3699851d973f677df3d0c4e1a5ffb234bf0e9b4d2048f2bcbafe2017f","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.15.0","deps":[{"name":"crossbeam-channel","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"spin_sleep","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"e0b5960e7de6af78914b1780a54d6602193c43fc626b6a26893f8231633be79f","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.16.0","deps":[{"name":"spin_sleep","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"bac1c9c87b249e1bdc2607cf10e14662abc1ef14ddd30cfbaf5cb94e0f91f793","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.17.0","deps":[],"cksum":"4b0079c2f03edf4298d3114976d00f2b6198486ecfc93dcc0f7fd1fc1ac6bf0f","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.18.0","deps":[],"cksum":"73cb7ad4e667a4c58334e06ff7118910ce654248cd81d4c6ca6f2750f8d8d0ae","features":{},"yanked":false}
+{"name":"intel8080","vers":"0.19.0","deps":[],"cksum":"a38912d957b44b70d74f271ab417bcdcb9441dab662fb6da92915e916b112488","features":{},"yanked":false}

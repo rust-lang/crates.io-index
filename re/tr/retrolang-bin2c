@@ -1,0 +1,2 @@
+{"name":"retrolang-bin2c","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75935bafa17a3ed3399edd64ac6d6bfcb3d2d99d01b0da214347c3044c6ad88c","features":{},"yanked":false}
+{"name":"retrolang-bin2c","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c50506968b979c4f42c191daf1a7df500689c172d32b637587f8868e126197d","features":{},"yanked":false}

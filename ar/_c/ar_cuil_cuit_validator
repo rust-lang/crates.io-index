@@ -1,0 +1,2 @@
+{"name":"ar_cuil_cuit_validator","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddcf16ab00c57111a95ff110372835a108a962d09937da277a1e026cab83e156","features":{},"yanked":false}
+{"name":"ar_cuil_cuit_validator","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d4a30e328ca0fc7fa3147eef882b397acb9f745c406fe8c79dfbd888c1fc088","features":{},"yanked":false}

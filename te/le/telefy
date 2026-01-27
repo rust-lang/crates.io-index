@@ -1,0 +1,2 @@
+{"name":"telefy","vers":"1.0.0","deps":[{"name":"reqwest","req":"^0.12.24","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"786bf9886eac1ef37c0733d05c624a09760be9c468db2e8402f656131c49cc65","features":{},"yanked":false}
+{"name":"telefy","vers":"1.0.1","deps":[{"name":"reqwest","req":"^0.12.24","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f567573755f26d4c1ae5dbcfae61006de320872d6f6477f5b413f608a6b38ee","features":{},"yanked":false}

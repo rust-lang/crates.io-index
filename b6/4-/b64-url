@@ -1,0 +1,5 @@
+{"name":"b64-url","vers":"0.1.0","deps":[],"cksum":"a09cddf12023bf91a235a5d66cd2c8a2ae72609e77c6cb8ae2dfcc83413b916e","features":{},"yanked":false}
+{"name":"b64-url","vers":"0.2.0","deps":[],"cksum":"65f21ffda49253edd14f9272c65200bfb3314bd9f224a5c5d474e6b1510e0252","features":{},"yanked":false}
+{"name":"b64-url","vers":"0.3.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c46b1ee5c810f8a2b6e4a5ac7853ca7c9ca3369d4c119ec2da98cc90c239dcb","features":{},"yanked":false}
+{"name":"b64-url","vers":"0.4.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"925e3b40bce30efe2d2d0d679627e73f3d830a53726559b543e38c7e00077f90","features":{},"yanked":false}
+{"name":"b64-url","vers":"0.5.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a42256b0f4b8bb05b42a019d3dd120ed8e637ce3513d27e6d77d6e45a1bcc6c","features":{},"yanked":false}

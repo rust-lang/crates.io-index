@@ -1,0 +1,1 @@
+{"name":"token-source","vers":"1.0.0","deps":[{"name":"async-trait","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75746ae15bef509f21039a652383104424208fdae172a964a8930858b9a78412","features":{},"features2":{"async-token-source":["dep:async-trait"],"default":["async-token-source"]},"yanked":false,"v":2}

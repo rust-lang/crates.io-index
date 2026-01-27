@@ -1,0 +1,2 @@
+{"name":"seokmin_fenv","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbaf54123bfb3b15f9cb12ad1d6c3ef73631a142e73f3bec683ba36aa49901c4","features":{},"yanked":false}
+{"name":"seokmin_fenv","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4941bbd443cb0a538902d09aaab37ddf51633a52daa2c216143bf207f5affc80","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"flammkuchen","vers":"0.1.0","deps":[{"name":"yare","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aad0cbf9ca7872982e3f6f7e34038d498b5ba4c1a6f4403a8164b78fd7b06c32","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"flammkuchen","vers":"0.1.1","deps":[{"name":"yare","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c53506ab4d6bd1d5c95808220215e7c2f793688ae4da762f271efb9d9a067e93","features":{},"yanked":false,"rust_version":"1.56"}

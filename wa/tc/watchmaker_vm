@@ -1,0 +1,2 @@
+{"name":"watchmaker_vm","vers":"1.0.0","deps":[{"name":"half","req":"^1.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f63f7fe9db2e195cb619211dcbe6586ffffbb25812e8894e2ee580af22fb650a","features":{},"yanked":false}
+{"name":"watchmaker_vm","vers":"1.0.1","deps":[{"name":"half","req":"^1.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6abbcce5bfd4dd1514a3dd3992e5218d960b8b7747808788a45e38b463cb2de","features":{},"yanked":false}

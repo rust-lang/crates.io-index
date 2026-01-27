@@ -1,0 +1,11 @@
+{"name":"json-tools","vers":"0.0.1","deps":[],"cksum":"4b7fec4ca07a32af7ac1e213a562d5fc6d060e0ead6e5aa3c490a49f74e9b26a","features":{},"yanked":false}
+{"name":"json-tools","vers":"0.1.0","deps":[],"cksum":"ce82484393beacd49adedcec44a313e8d598576cb14e055601aaba4299ec67a8","features":{},"yanked":false}
+{"name":"json-tools","vers":"0.1.1","deps":[],"cksum":"f861ad75c956c45ffcd943dff3179285e35c1c5df009e659ab4150a1315c68f4","features":{},"yanked":false}
+{"name":"json-tools","vers":"0.2.0","deps":[],"cksum":"81e9a43d134d405c112fa5a30030d80899b69204b1f66b307a64caeb6a7107c8","features":{},"yanked":false}
+{"name":"json-tools","vers":"0.3.0","deps":[],"cksum":"86ca65d23255e303bc27c7ea0f682155c2e3a46846121ee16f5e29c6269781b9","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.0.0","deps":[],"cksum":"c1ece2873590f899f91535bb2eda27789bd446b5d10ac159a4c217f2b101b526","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.0.1","deps":[],"cksum":"2e95efb9e47aad18dcc29361a14558fabeb7ea0b13f6a3def55580c246c737dd","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.1.0","deps":[],"cksum":"61c1dce7cc9e9414d839927161bfdd922b6c4098c9c3c9948d8999afb7c40fdf","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39d6197650bd2e9355f17db9457c335e60e8a3c0ce6af68b88ba580ed03ddd53","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.1.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"233ed60f8b0f64b6e630359c9f54efa91859100644a199ed4c5c753d949b45cc","features":{},"yanked":false}
+{"name":"json-tools","vers":"1.1.3","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d28c16c044c4acdd8c511f9b505a33cba1eff7b116448c8985b84011ee8d8368","features":{},"yanked":false}

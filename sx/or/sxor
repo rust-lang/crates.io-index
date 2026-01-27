@@ -1,0 +1,2 @@
+{"name":"sxor","vers":"1.0.0","deps":[{"name":"clap","req":"^2.33.0","features":["color"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a18aee5a57e09ef95ee82e0cdb8112deae88d676443e807a29442b1b8994698","features":{},"yanked":false}
+{"name":"sxor","vers":"1.0.1","deps":[{"name":"clap","req":"^2.33.0","features":["color"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6189a872efe82ca3aeea3b3d82009deb6757570c37f49e890ef40e822e3c3984","features":{},"yanked":false}

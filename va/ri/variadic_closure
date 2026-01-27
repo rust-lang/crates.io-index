@@ -1,0 +1,8 @@
+{"name":"variadic_closure","vers":"1.0.0","deps":[],"cksum":"317b3516fbfdff5904e327bb35b670709fa67bf359ce53a165e46b5d2cccd012","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.0.1","deps":[],"cksum":"c9cce2ea5c5dbe3aa3fb5aa66b416868a089f3f4613a74e0d94a62f83742b97d","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.0.2","deps":[],"cksum":"dd6b20aaca3d0378de9aa0cf98e5341cf70c8a791210d6b2d8e7e4e968ae5b6b","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.0.3","deps":[],"cksum":"e9ae56d19040cc913bb8704210e4ca6805d0518b91f8da71e90bef046373dd59","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.1.0","deps":[],"cksum":"fb169b9af3a74cc0ebd09d42390a4470c2519386361b01181723d77c19f435e3","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.2.0","deps":[],"cksum":"0bc0131ca27c0ff4fb834a6aafc900f2bcfabf0eacdd4784df49f9cb400ea5d6","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.2.1","deps":[],"cksum":"4a2953216a2d6bdf07e4842828727209ceb619ce4cc2da491ab7034e191fb980","features":{},"yanked":false}
+{"name":"variadic_closure","vers":"1.3.0","deps":[{"name":"destructure_traitobject","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eacc120fc52b75242efb6fab383cfbd169d1d7754b4949d7d1fced8011590830","features":{},"yanked":false}

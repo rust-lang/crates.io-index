@@ -1,0 +1,2 @@
+{"name":"packed-encoder","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e64921757d7a83735cc3a715a7ce471ea9ad687e8cd0600eb8e5b77e683dce2","features":{},"yanked":false}
+{"name":"packed-encoder","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f059d6cb40809af4dea7682823e1234234a3adbc35a4f80700f497e61c6b9ee4","features":{},"yanked":false}

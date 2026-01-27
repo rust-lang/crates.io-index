@@ -1,0 +1,2 @@
+{"name":"xer_adder","vers":"0.0.1","deps":[{"name":"xer_add_one","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b155478546054ba8a2d80461c0e19801a88682b72b963c01c5db505c226b38b","features":{},"yanked":false}
+{"name":"xer_adder","vers":"0.1.0","deps":[{"name":"xer_add_one","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"426085e7171a63b6b10ff71a907957b5c66e646f643664a71f7d71d1babea470","features":{},"yanked":false}

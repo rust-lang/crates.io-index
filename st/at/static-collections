@@ -1,0 +1,5 @@
+{"name":"static-collections","vers":"0.1.0","deps":[],"cksum":"b44b37b294fb9535ed6dbc1a2fb4f5f007282af773820923f03f30add6db617c","features":{},"yanked":false}
+{"name":"static-collections","vers":"0.1.1","deps":[],"cksum":"aaa27841da1472d6e4e912aa0d93f1c733a5a45bff35226270b1e5f41ae70bbe","features":{},"yanked":false}
+{"name":"static-collections","vers":"0.1.2","deps":[],"cksum":"bdcac1c76154a8d1f4014862e01df6a5ad3c9aabda70e3233b977ab4ecbd54b1","features":{},"yanked":false}
+{"name":"static-collections","vers":"0.2.0","deps":[{"name":"utf16_lit","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"031e203895bb071e4196fabfabffedff4e0596e8b4b593b862030cbbe4beb5e0","features":{},"yanked":false}
+{"name":"static-collections","vers":"0.2.1","deps":[{"name":"utf16_lit","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"331bc287ccc005adadde7ae05e0bd710c2aa61386d9b0a694790ec52dc49f262","features":{},"yanked":false}

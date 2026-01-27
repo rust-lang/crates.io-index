@@ -1,0 +1,1 @@
+{"name":"parsip","vers":"0.1.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"40cacf2ab145cc54b283e5067a3bc4f7b929faeeda207d93894a6f06442515b5","features":{"default":["std"],"std":["nom/std"]},"yanked":false}

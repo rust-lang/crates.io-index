@@ -1,0 +1,2 @@
+{"name":"chrf","vers":"1.0.0","deps":[],"cksum":"32aaeee0820f704beb38c79a4b612cc18756e52e2f0c9e23b74beb2526b19ece","features":{},"yanked":false}
+{"name":"chrf","vers":"1.1.0","deps":[{"name":"ahash","req":"^0.8.10","features":["std","runtime-rng"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dca466321c16ef342cb1aeabe780c8622725e5979f1cf5fbcb31098713d88357","features":{"default":["ahash"]},"features2":{"ahash":["dep:ahash"]},"yanked":false,"v":2}

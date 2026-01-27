@@ -1,0 +1,3 @@
+{"name":"substr_rs","vers":"0.1.0","deps":[],"cksum":"07a647adbddf8480b6f1481f863917cc4710c1495ed6d1f4d31e289bda50cc0f","features":{},"yanked":false}
+{"name":"substr_rs","vers":"0.2.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad8d8ca3b86e8540be59ab798ba8e131f40e5dee93583c2702a1c59bb1050c84","features":{},"yanked":false}
+{"name":"substr_rs","vers":"0.3.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8577772a3a049c0782e4bac74a197acbe5b4bc5995d44cdfeeda9ccf792fa224","features":{},"yanked":false}

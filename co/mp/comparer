@@ -1,0 +1,5 @@
+{"name":"comparer","vers":"0.1.0","deps":[],"cksum":"98ae62a215aba656475b5d88af2fa4501548be0ccda688dc39c519a87b61a6d5","features":{},"yanked":false,"pubtime":"2024-07-19T15:09:18Z"}
+{"name":"comparer","vers":"0.1.1","deps":[],"cksum":"489c65bdd27780e834c07408ca8528802911547784c5e7c61e8066422e01cd6d","features":{},"yanked":true,"pubtime":"2024-07-19T20:40:36Z"}
+{"name":"comparer","vers":"0.1.11","deps":[],"cksum":"f1db23a18ef3abfb24c434f6351db3458b3fef22f284f29834d0a195805f80d9","features":{},"yanked":false,"pubtime":"2024-07-20T01:13:41Z"}
+{"name":"comparer","vers":"0.2.0","deps":[],"cksum":"886b1f21427795da3401b11b76c841046e882c95afba33f5b056bd15dfceee4d","features":{},"yanked":false,"pubtime":"2024-07-20T13:19:12Z"}
+{"name":"comparer","vers":"0.3.0","deps":[{"name":"dashmap","req":"^6.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"687005cb4cf8cf28bdcd766a315bc90de7bde5741dba8c4efd1c91ca1b16284f","features":{"default":[]},"features2":{"dashmap":["dep:dashmap"]},"yanked":false,"pubtime":"2026-01-22T18:46:31Z","v":2}

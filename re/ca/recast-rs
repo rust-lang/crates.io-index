@@ -1,0 +1,1 @@
+{"name":"recast-rs","vers":"0.1.0","deps":[{"name":"recastnavigation-sys","req":"^1.0.0","features":["recast"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81c0f490077de992c0b14e7c68019869125efe4a7f1edcf82dc2af9eca5a33c6","features":{},"yanked":false}

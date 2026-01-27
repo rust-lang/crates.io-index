@@ -1,0 +1,2 @@
+{"name":"jpl-sys","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1dffa0fc181ac30c66454048cd7e0eae466f835a74a34c3dfaac6b8137bd1153","features":{},"yanked":true,"links":"jpl"}
+{"name":"jpl-sys","vers":"0.0.2","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4f26f402f228e401324e4c2293742727ee92c59f522daaf93a957a35fed49c54","features":{},"yanked":false,"links":"jpl"}

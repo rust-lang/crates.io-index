@@ -1,0 +1,2 @@
+{"name":"bevy_color_blindness","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b6d172a230ee5b8363177f1345e3e77e04ff678e6d59888e7ef2befa8adf028","features":{},"yanked":false}
+{"name":"bevy_color_blindness","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"816c180f08e27d287c0996d4131b0036d85e1eb1239ab6142cfd62183ce9f369","features":{},"yanked":false}

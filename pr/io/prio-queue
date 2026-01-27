@@ -1,0 +1,2 @@
+{"name":"prio-queue","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9057c7e5d9f4cde00a4237f0eb046e9fcf50da2b588cec635dde25905206c44","features":{},"yanked":false}
+{"name":"prio-queue","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f480f7b402173a7e7e1637c6709deb6e41e93ce17d2daad7d70ccea5b5d8985","features":{},"yanked":false}

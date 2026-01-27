@@ -1,0 +1,2 @@
+{"name":"struct-merge","vers":"0.1.0","deps":[{"name":"struct-merge-codegen","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7ad15b5198a923e60023ae6ed5da1c4c26e699a85dcaf13f5d56b6c5d0b5232","features":{},"yanked":false}
+{"name":"struct-merge","vers":"0.1.1","deps":[{"name":"struct-merge-codegen","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7638724d121353bfefbc93907f59011737f9cf227e4207e7d56f613ddc256bb","features":{},"yanked":false}

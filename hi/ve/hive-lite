@@ -1,0 +1,1 @@
+{"name":"hive-lite","vers":"0.0.1","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f19f2dbbb65f4b05e2f6dea4209b312c60fd4ee3cf06de9b001c974ff986121","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-25T17:53:08Z"}

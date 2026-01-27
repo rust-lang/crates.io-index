@@ -1,0 +1,1 @@
+{"name":"weakheap","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bb23b3396cd9ec21a7fa37e59062f4d6bd00d97ac29810b8966356cb2cf5f7ef","features":{},"yanked":false}

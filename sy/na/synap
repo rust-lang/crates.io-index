@@ -1,0 +1,2 @@
+{"name":"synap","vers":"0.1.0","deps":[],"cksum":"7037c9c072b17b7b840ee5db7d68cdc5bbf07bb7f198d079866a9fe7dc17c8fd","features":{},"yanked":false}
+{"name":"synap","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f8984f8548bd4b107812d8e76aefb7baa80ea021d8ebe6d3679e6bee78e2abf","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"ohos-init-binding","vers":"0.0.1","deps":[],"cksum":"768858f4c7679369c68a4b8938d748bb25bcfdfae39322d54b0efeb76b5414fe","features":{},"yanked":false}
+{"name":"ohos-init-binding","vers":"0.0.2","deps":[],"cksum":"13a8467f3608d3244a4cf06b188acfdd65b205e04abac563397afc4d5e87eeb4","features":{},"yanked":false}
+{"name":"ohos-init-binding","vers":"0.0.3","deps":[{"name":"ohos-init-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66c0aed2b773de0f45d2200b1c44147a777f9d8e3ad7aa5bc9594c2c4e0df352","features":{},"yanked":false}

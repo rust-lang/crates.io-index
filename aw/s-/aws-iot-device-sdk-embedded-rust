@@ -1,0 +1,1 @@
+{"name":"aws-iot-device-sdk-embedded-rust","vers":"0.0.1","deps":[{"name":"arrayvec","req":"^0.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6eed4596936aed46b5eb58a24183f33beb7017ecb1d650cc3598e6d2121310d9","features":{"std":[]},"yanked":true}

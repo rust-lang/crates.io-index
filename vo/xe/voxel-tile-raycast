@@ -1,0 +1,1 @@
+{"name":"voxel-tile-raycast","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ec0a34f4511af8bfea9b64e937143c8c3cf2a84bfa91fdfaa4a4c5086fb2cde","features":{"default":["f64","tile","voxel"],"f32":[],"f64":[],"tile":[],"voxel":[]},"yanked":false}

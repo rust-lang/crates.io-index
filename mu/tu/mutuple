@@ -1,0 +1,1 @@
+{"name":"mutuple","vers":"1.0.0","deps":[{"name":"pyo3","req":"^0.21.1","features":["extension-module","gil-refs"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38e2547b186f590aff9a18e68a7f89beb3bc94dd3d4ccb2b909e3ad604c784f2","features":{},"yanked":false}

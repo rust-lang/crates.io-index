@@ -1,0 +1,2 @@
+{"name":"nrd-sys","vers":"0.1.0","deps":[{"name":"sysreq","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"551dcb2f18b43b9c6c165fa11750d2fe0ba6d3da2ecfd95b8e36483edd73dda6","features":{},"yanked":false}
+{"name":"nrd-sys","vers":"0.2.0","deps":[{"name":"sysreq","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c26eb986fe5536491c8f99564bde86390fe4dbec8e515733e338aed4ae586e94","features":{},"yanked":false}

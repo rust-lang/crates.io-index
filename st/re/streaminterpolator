@@ -1,0 +1,2 @@
+{"name":"streaminterpolator","vers":"0.1.0","deps":[],"cksum":"e83b898e4d2d5f447f8f45ca4ccfe529b7bdf80bbe9edda1ded1928a0a0afaed","features":{},"yanked":false}
+{"name":"streaminterpolator","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.128","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"975a4e73010fbb94f4ec5f87395d1b0de93e008e48c1ef43e41e696650088948","features":{},"yanked":false}

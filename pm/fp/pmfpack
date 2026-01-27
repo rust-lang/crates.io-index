@@ -1,0 +1,1 @@
+{"name":"pmfpack","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libpolymesh","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8bbcda01fc3354487032451b60a6926bad3f590b1a083e9818592c3a0c9ed23","features":{},"yanked":false}

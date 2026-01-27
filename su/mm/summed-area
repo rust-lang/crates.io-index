@@ -1,0 +1,1 @@
+{"name":"summed-area","vers":"1.0.0","deps":[{"name":"imgref","req":"^1.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rgb","req":"^0.8.34","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4f1f27a7bd4a768217d048b3543c762a15a69b5ed77d506d751d133f89ecf4b2","features":{},"yanked":false}

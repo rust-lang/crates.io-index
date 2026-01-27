@@ -1,0 +1,2 @@
+{"name":"comfy-print-sync","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"861114e4f09bc6d1e826eadbc7727af00b7351aa2943f1b20cb932550c12e0ba","features":{},"yanked":true}
+{"name":"comfy-print-sync","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f7fbdf653d45b23f6a766404019f4f8c7b064ce8be510b69fdcefeadf618f44","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"prism3-function","vers":"0.1.0","deps":[],"cksum":"f237fd8c8850b4f6c5be9aca32da029b8fdb29b53d435908441f129e53a882b5","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"prism3-function","vers":"0.2.0","deps":[],"cksum":"1cc457620e0020eb0d35358f88bfe1c6d4c195ad1c14270238d3554f3463ce42","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"prism3-function","vers":"0.3.0","deps":[],"cksum":"d13dd521b9f575c13071d5dcbee1c722e8c3aca32063ce572e20cc31d0d36cdf","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"prism3-function","vers":"0.4.0","deps":[],"cksum":"c053aab3fe76b5ccadb47363472958533bfbed64ad0e8d27d1d022aeca0263f9","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"prism3-function","vers":"0.5.0","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fff68316cfe737affd4a1b576cdb541ed4f534c46218d4b109f72d03eb1f045a","features":{},"yanked":false,"rust_version":"1.70"}

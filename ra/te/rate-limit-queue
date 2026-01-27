@@ -1,0 +1,2 @@
+{"name":"rate-limit-queue","vers":"0.1.0","deps":[{"name":"delegate","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b64788e32dc846219e73195ba5e812144c66b85cbc51f38557fe5044d97acc","features":{},"yanked":false}
+{"name":"rate-limit-queue","vers":"0.1.1","deps":[{"name":"delegate","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d93a7ad3adc157d4a4e8a58e2995ee3e2c396f8e991618e80b71a59da46978f9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mfarag_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9982d66f39bc460b802e2efa144cd815947c0d2b5b6be810f7fb6b9406cc2bd9","features":{},"yanked":true}
+{"name":"mfarag_guessing_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d4831889b1acd326bfb3326215b83da6754e569bf20152b5e1cd8ee4d1330ce","features":{},"yanked":false}

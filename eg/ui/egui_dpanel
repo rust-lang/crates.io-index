@@ -1,0 +1,1 @@
+{"name":"egui_dpanel","vers":"0.1.0","deps":[{"name":"eframe","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"egui","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a02ed7fbbad03e8dc287a163830e2a7813f5b1030afd82203af8b65f226ab35","features":{},"yanked":false}

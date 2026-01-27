@@ -1,0 +1,2 @@
+{"name":"peak_finder","vers":"1.0.0","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdbd8225ce7e77959326b1953b8bb3e41d82e60600f897988cbbaae745ca38ea","features":{},"yanked":false}
+{"name":"peak_finder","vers":"1.0.1","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1fdefe8f09c73d345c83418f8057b194b22aeec2284ae2db3dca7c2a6b9cd18","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"nls","vers":"0.1.0","deps":[],"cksum":"53fc798a06e044dfc2409b34a22a414aa067dd37f5cb1778b6f09a0cfff6402f","features":{},"yanked":true}
+{"name":"nls","vers":"0.1.1","deps":[],"cksum":"c70e2fb896c7828b04d10340a66dcf5b50f32df8ae5995d82de9121388ba09c3","features":{},"yanked":true}
+{"name":"nls","vers":"0.1.2","deps":[],"cksum":"3ee032d9b842deedaf340539667919fc956c99324a318064466fb6fc3c3ae979","features":{},"yanked":true}
+{"name":"nls","vers":"0.1.3","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8323d51c9577da76ae67bc3ec59b044c6de8ab555b3d96ec6af84633d314a435","features":{},"yanked":true}
+{"name":"nls","vers":"0.1.4","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd9518aa404542f71974441cfbc4299b2c9f21a82772f2f633f005d0b143f697","features":{},"yanked":true}

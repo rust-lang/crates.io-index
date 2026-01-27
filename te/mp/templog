@@ -1,0 +1,1 @@
+{"name":"templog","vers":"0.1.0","deps":[{"name":"kern","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"plotlib","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e0d9f010bc21750c4fc0839ea66502c4fa4e52c69bf9465458e290a6ef0c57d","features":{},"yanked":false}

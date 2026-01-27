@@ -1,0 +1,1 @@
+{"name":"typed-arena-nomut","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bfc9d8d4e8c94375df96d6ac01a18c263d3d529bc4a53a207580ae9bc30e87c1","features":{"default":["std"],"std":[]},"yanked":false}

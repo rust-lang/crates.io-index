@@ -1,0 +1,2 @@
+{"name":"auth_service_alicklee","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bc4a3db1ee4fedf85d4c801b8eeb8b744c1af69db0dd0b3a399188d5684bf01","features":{},"yanked":false}
+{"name":"auth_service_alicklee","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dc4afe5c63837a20ba7362402b0d1f2d1c92547110c54fbb9ce51295fde14ac","features":{},"yanked":false}

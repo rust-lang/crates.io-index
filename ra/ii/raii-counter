@@ -1,0 +1,6 @@
+{"name":"raii-counter","vers":"0.1.0","deps":[],"cksum":"a2c1c1d9d29c5376ff210f4e3644d325049fc1bd7a2e84c7511d5c6f837dc642","features":{},"yanked":false}
+{"name":"raii-counter","vers":"0.1.1","deps":[],"cksum":"14dbf462fa4dcc7777f949a6773df73a337e574e62164003dafd6dc34c870e33","features":{},"yanked":false}
+{"name":"raii-counter","vers":"0.2.0","deps":[],"cksum":"0884f16fbb90083eec2e6302a7eaf3cdf3d0a1ba0befa7524a85d0f6376522bd","features":{},"yanked":false}
+{"name":"raii-counter","vers":"0.2.1","deps":[],"cksum":"ca2cc9eb8fd5c1faa55b5ec00c3088edcef008fc388647bd34bf3677c2f9d3e4","features":{},"yanked":false}
+{"name":"raii-counter","vers":"0.3.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c12fce7cad670fb0400095dcaf855723f8dff116d1b23102d9b4168937fab3e","features":{},"yanked":false}
+{"name":"raii-counter","vers":"0.4.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18be43092d34822bc8bac4c74d6f0f6bf8297cf5413e28e560eace74bc27faf5","features":{},"yanked":false}

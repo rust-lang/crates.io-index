@@ -1,0 +1,2 @@
+{"name":"guessing","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38045c12f825e1fabfb0eba98a6260ee412889ab2330de672a22b29337e1e0d5","features":{},"yanked":false}
+{"name":"guessing","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ea825a08e579ee4081f41588e114a222261e7983717c8ce67baef8f95cce69","features":{},"yanked":false}

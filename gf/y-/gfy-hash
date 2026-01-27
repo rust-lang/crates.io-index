@@ -1,0 +1,2 @@
+{"name":"gfy-hash","vers":"0.1.0","deps":[{"name":"crc","req":"^1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79ce9a87d36a0584cc0c9bcf43ec16c26d0b7dffaf3a07581364182ba7805a67","features":{},"yanked":false}
+{"name":"gfy-hash","vers":"0.3.0","deps":[{"name":"wyhash","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccce8cf73abe0a20dab95a9ad57ad87b1f88841c1b63790c20963bd9f753fdde","features":{"default":["list_builtin"],"list_builtin":[]},"yanked":false}

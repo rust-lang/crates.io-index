@@ -1,0 +1,1 @@
+{"name":"novax-tokio","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.40.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa5059b9ff8d712094519d90f344d459903d298322709c1c52285d4ec6c2dc83","features":{},"yanked":false}

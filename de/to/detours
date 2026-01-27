@@ -1,0 +1,1 @@
+{"name":"detours","vers":"0.1.0","deps":[{"name":"detours-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a9dc76b26607a9cbbf8e61ac2c768e595d011fb02064c9c1da00cd12ba69c76","features":{"buildtime_bindgen":["detours-sys/buildtime_bindgen"],"default":[]},"yanked":true}

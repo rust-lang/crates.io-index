@@ -1,0 +1,1 @@
+{"name":"reusable-box","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b9cb77e81b1d036c2543436df7c5ac85839b1a774a826a9f2607c57094d1a23","features":{},"yanked":false}

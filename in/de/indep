@@ -1,0 +1,2 @@
+{"name":"indep","vers":"0.1.0","deps":[{"name":"log","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df3879d0b3e0cda3462647325c0535df85b108488b120f1dbcd6974f5015c9cc","features":{},"yanked":false}
+{"name":"indep","vers":"0.1.1","deps":[{"name":"log","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11abb274a1ecd224d2f7de4e93bf26773a8e74e7f68ea7f6699e9db3c650537b","features":{},"yanked":false}

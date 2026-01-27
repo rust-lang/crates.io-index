@@ -1,0 +1,6 @@
+{"name":"rusty_regex","vers":"0.1.0","deps":[],"cksum":"f541b1169685819d85b9fea0a19bcd80911960b023659af3bdf149d2dd4a3849","features":{},"yanked":false}
+{"name":"rusty_regex","vers":"0.2.0","deps":[],"cksum":"7831da621ca1d1f7f59ad2ab4463b43dbe3879093597a4938daddfa322da120d","features":{},"yanked":false}
+{"name":"rusty_regex","vers":"0.2.1","deps":[],"cksum":"136784549b983f4c67ad92da67af9c8bd795e2b605ff37ec3773ffadb3db08fb","features":{},"yanked":false}
+{"name":"rusty_regex","vers":"0.2.2","deps":[],"cksum":"67fba1ffe4df2739a0fc4f02ed8d6565734600611db0f2186c8fa5104a6f4012","features":{},"yanked":false}
+{"name":"rusty_regex","vers":"0.2.3","deps":[],"cksum":"c3d4520dd0d45f1bf4fe923afd9c4d220ca40196472710335243a0960baa9956","features":{},"yanked":false}
+{"name":"rusty_regex","vers":"0.2.4","deps":[{"name":"visibility","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e02685d36051c3328420e598286e91e43dcaff799973dc5f534f54121333e44","features":{"default":[],"expose-internals":[]},"yanked":false}

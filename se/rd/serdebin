@@ -1,0 +1,1 @@
+{"name":"serdebin","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6d34a094a6fdb2197615c7424fc5294ca694236ff298bb75e6fdfb1cd5de9e2","features":{},"yanked":false}

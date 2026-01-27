@@ -1,0 +1,1 @@
+{"name":"clang-preload","vers":"0.1.0","deps":[{"name":"clang-sys","req":"^1.8.1","features":["runtime"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7b146d8a00dd2bd141bb08b0619c6814ccebe1dc3cd5cc1f31b6ab8d19ff2d8","features":{},"yanked":false}

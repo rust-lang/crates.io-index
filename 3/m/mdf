@@ -1,0 +1,2 @@
+{"name":"mdf","vers":"0.1.0","deps":[{"name":"md5","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef26e62118f88d375a967e21c71c1300152de40c03503fbd2c6252559f2e591","features":{},"yanked":false}
+{"name":"mdf","vers":"0.2.0","deps":[{"name":"md5","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c67c8c231247041f567e8c1af35f0baa013ce6bf7bd56fc82dbcc93c53b489e7","features":{},"yanked":false}

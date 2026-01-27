@@ -1,0 +1,2 @@
+{"name":"date-parse","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d45b272231508f061a40ea4ffda431a64a07363a84cb41a1ce8c1e767783b90","features":{},"yanked":false}
+{"name":"date-parse","vers":"1.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e95c23ccb462c94a06b54ea1ed0187270bd14cfc9a800924e39e75d512ce7ca","features":{},"yanked":false}

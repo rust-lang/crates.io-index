@@ -1,0 +1,2 @@
+{"name":"hash-index","vers":"0.1.0","deps":[{"name":"blake3","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c181c93472a93c81d31289ac8846662d9ab55ecc7789f3493aefdadb2f732a0","features":{},"yanked":false}
+{"name":"hash-index","vers":"0.1.1","deps":[{"name":"blake3","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c0fa097705a2cb8f26aa69ab501ae94064385256c8ad9297c8c4b04bac75635","features":{},"yanked":false}

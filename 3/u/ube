@@ -1,0 +1,1 @@
+{"name":"ube","vers":"0.0.1","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9911e421ab0d3a5ecc9ab7a9307c91d80a79ea7e62af34ce1e67e16dcb4190d","features":{},"yanked":false}

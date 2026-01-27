@@ -1,0 +1,1 @@
+{"name":"boxed","vers":"0.1.0","deps":[{"name":"default_allocator","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"loca","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7d0c10441f79bf5ca0fd938f8196dc1d8fe44e4ead074693c6ae17f38c7402e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"dvd","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c1308743093d58e0c0c5bb96ced568c8959aefd5af41da5a5c25fdf1652cc22","features":{},"yanked":true}

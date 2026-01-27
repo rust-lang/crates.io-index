@@ -1,0 +1,2 @@
+{"name":"xops","vers":"0.1.0","deps":[{"name":"xops_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ddbfcbf3e87ce78f163abf297d417a8d1592440628bbec2297adc91d7a7832d","features":{},"yanked":false}
+{"name":"xops","vers":"0.1.1","deps":[{"name":"xops_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71234266a33a299834cc545671a563b00ec1361e508e42e8e9b1212149fd6672","features":{},"yanked":false}

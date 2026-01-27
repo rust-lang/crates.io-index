@@ -1,0 +1,1 @@
+{"name":"fancy_print","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0495eeb3902fae7f65a4c77bd41b55bfb77e49ffc5d2446312e8590023fdc3af","features":{},"yanked":false}

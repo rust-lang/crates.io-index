@@ -1,0 +1,2 @@
+{"name":"makepad-android-state","vers":"0.1.0","deps":[{"name":"makepad-jni-sys","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd004cda8be459fd76954218b76a1249a079fb9360bbca4e724cb7ddb2962857","features":{},"yanked":false}
+{"name":"makepad-android-state","vers":"0.9.0","deps":[{"name":"makepad-jni-sys","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9f31854327279b26461607b4dcc26230f7dba62bb97bf33d0123f3fb2f3af7f","features":{},"yanked":false}

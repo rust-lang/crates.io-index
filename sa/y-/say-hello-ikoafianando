@@ -1,0 +1,4 @@
+{"name":"say-hello-ikoafianando","vers":"0.1.0","deps":[],"cksum":"0e80d3f79df783369d1bcfc6bb9d7943dba10a0c0c5d291a36639f250e2845c3","features":{},"yanked":false}
+{"name":"say-hello-ikoafianando","vers":"0.2.0","deps":[],"cksum":"8e16e121d472ff95190d341d25dde672d274687b3944abf3330f87160146ccc5","features":{},"yanked":false}
+{"name":"say-hello-ikoafianando","vers":"0.3.0","deps":[],"cksum":"c2c416a18691cf552e55d2073015038f064ce7596251e11774ceb01d939a6ab4","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-ikoafianando","vers":"0.3.1","deps":[],"cksum":"a2e55640512400a715d8d43edfff0cb2f1548fad07fe6a6cb52d5f1585781107","features":{"all":["hello","bye","word"],"bye":[],"default":["hello"],"hello":[],"word":[]},"yanked":false}

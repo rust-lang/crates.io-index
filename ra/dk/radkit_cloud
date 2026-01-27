@@ -1,0 +1,2 @@
+{"name":"radkit_cloud","vers":"0.0.1","deps":[{"name":"radkit","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c0c4a6895b6cc031335c57f375f90f80962dff7c6247bc7b3b1f2aea53e5c9e","features":{},"yanked":false}
+{"name":"radkit_cloud","vers":"0.0.2","deps":[{"name":"radkit","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e9dd8c285ea721c54c6d8d93525298e2317c5e6eda23c51a4b8f0884bb5a13f","features":{},"yanked":false}

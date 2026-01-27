@@ -1,0 +1,1 @@
+{"name":"fixed-index-vec","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607f22de4d9b0b3a4d4d1dfe48f9f22a7b71e6a824864f74e2007ff1387b00e0","features":{},"yanked":false}

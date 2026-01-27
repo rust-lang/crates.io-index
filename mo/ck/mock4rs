@@ -1,0 +1,2 @@
+{"name":"mock4rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f352b17f3d8e62f92b2451e861735d6cf89394cd4c7f1a381605f07d041eaad7","features":{},"yanked":false}
+{"name":"mock4rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4492190d8f63665bb11ee83b133b4f7c57876a7e3ca71ffeefccf7ff5a849db0","features":{},"yanked":false}

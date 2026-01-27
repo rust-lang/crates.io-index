@@ -1,0 +1,3 @@
+{"name":"bundlebee","vers":"0.1.0","deps":[],"cksum":"4bf2641ceb6cb2ca11ba51c00583e9a613f740a098759455ac4bdc7824c41eb4","features":{},"yanked":false}
+{"name":"bundlebee","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"184098027122d2a2364f75ef32edf7ca906c7da9bacc65a8eefffe92e5588f39","features":{},"yanked":false}
+{"name":"bundlebee","vers":"0.1.2","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff142a7680b17f297a255dd2efaf9e97241ab5bc6d11f3ec044e4a5204622a49","features":{},"yanked":false}

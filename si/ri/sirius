@@ -1,0 +1,2 @@
+{"name":"sirius","vers":"0.1.0","deps":[],"cksum":"ac78062131ae70e7251abd864b1338906fae033c9460d10b7819e52853443497","features":{},"yanked":false}
+{"name":"sirius","vers":"0.1.1","deps":[{"name":"sirius-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a9b22c0a22f79c450e106800265182b8fd33798a5cf2d222940409e136f1680","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"integer-iterator","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fea7b322d3be5cd2f0c11cfd4fa0bf755d4b214a2e627e22b158238f61e1a5d","features":{},"yanked":false}
+{"name":"integer-iterator","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc79a82a8852ec1902185b1308e77658d1b5ae930d28d4d34201e163ff17dce2","features":{},"yanked":false}
+{"name":"integer-iterator","vers":"0.3.0","deps":[],"cksum":"2ebff4739436710d4670c98c6a1a0c8685ff0570865311b08ab5908583bfc74c","features":{},"yanked":false}

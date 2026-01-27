@@ -1,0 +1,1 @@
+{"name":"getaddrs","vers":"0.1.0","deps":[{"name":"bitflags","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efba1d44fc45a1639dd3aae2b59fd966d75cb925dc2bbd2839d9e49afaa0c92d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"factorize_rayon","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5899031cc608a8d91dcdcfdc825244520bc21717b8c130de5dcb24fee81bb688","features":{},"yanked":false}
+{"name":"factorize_rayon","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6541302bcc24e69684214c5b62b47b5e37af440be85b7403a60e48a4bbbee9f7","features":{},"yanked":false}

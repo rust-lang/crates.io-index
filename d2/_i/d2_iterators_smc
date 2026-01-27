@@ -1,0 +1,2 @@
+{"name":"d2_iterators_smc","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"167de69cc6d6aa02a33948f59d87020e96ee649514e21a679ba9fa7630049d36","features":{},"yanked":false}
+{"name":"d2_iterators_smc","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02c4910797b6e7af2975af71b3458fbe8225feeb7e0b7b050f2c2216b5938d16","features":{},"yanked":false}

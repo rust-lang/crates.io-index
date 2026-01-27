@@ -1,0 +1,1 @@
+{"name":"tumo_path","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc0b377c4d102dc7d7c8ec856f80b3d655999ba371f14e3620eda760ea38075c","features":{"default":["std"],"std":[]},"features2":{"libm":["dep:libm"]},"yanked":false,"pubtime":"2026-01-22T20:30:51Z","v":2}

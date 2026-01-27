@@ -1,0 +1,2 @@
+{"name":"phyc","vers":"0.1.0","deps":[],"cksum":"5def1fcdbfcc58487b2aa7c8d277562a3a249c60b1123de9314cdfb05a5ddd39","features":{},"yanked":false}
+{"name":"phyc","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.53","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee0c4211b09b96f745508e75991e88058862932f57a7959e847d88ffb6c2a855","features":{},"yanked":false}

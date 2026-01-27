@@ -1,0 +1,1 @@
+{"name":"ops-janus","vers":"0.1.0","deps":[{"name":"janus","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ops-core","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e72175d8dd0b9ee35b5f02f29ead147447ed8705165f30ebcba2906508af6f1","features":{},"yanked":false}

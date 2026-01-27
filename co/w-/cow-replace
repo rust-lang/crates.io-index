@@ -1,0 +1,2 @@
+{"name":"cow-replace","vers":"0.1.0","deps":[],"cksum":"c6f09b96cbf713dcfc02f79b4df5d2cc52189213fc827350e52ed0221f44f5d2","features":{},"yanked":false}
+{"name":"cow-replace","vers":"0.1.1","deps":[{"name":"ascii","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6cab584c4b83b5b36f81a10bd15191fd77f70432d624787ee68ec64edd6d7ed","features":{},"yanked":false}

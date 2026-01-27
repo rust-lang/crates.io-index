@@ -1,0 +1,6 @@
+{"name":"runmany","vers":"0.1.0","deps":[],"cksum":"ad5c3a15b0885b1c0245daef80c7cef2e9285ed365a7c9201509dbdac638b4e5","features":{},"yanked":false}
+{"name":"runmany","vers":"0.2.0","deps":[],"cksum":"4ffec4c7f9ddf35bbb5b2391d034449cf2d027d0b65538eb49bdd0fd3ad461f9","features":{},"yanked":false}
+{"name":"runmany","vers":"0.2.1","deps":[],"cksum":"7cf4d1bd3248f2355b6e1511646307b6e0696777d80bb099daf1c3f011694489","features":{},"yanked":false}
+{"name":"runmany","vers":"0.2.2","deps":[],"cksum":"e60ba2e7a97f7696370d455574384188391205245209db7042b3ad8ff0ebef3a","features":{},"yanked":false}
+{"name":"runmany","vers":"0.3.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32627cab94c1ff132428bf6c71b2c85cf7306ed6900de7d7f5119cf2089667e5","features":{},"yanked":false}
+{"name":"runmany","vers":"0.4.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a92519b2bfca0a7a6621e96c57e52fdb54d6e5f4371cc2b5c0208cea805b68c5","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"ncd","vers":"0.1.0","deps":[],"cksum":"b47b542d89f61619c20aff750c1763d8b33320f247d4aa0bb570eb4531a19645","features":{},"yanked":false}
+{"name":"ncd","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cb4390e820406cea6f4a42cb568200ce5c36c00411930d306bee65c08688082","features":{},"yanked":false}
+{"name":"ncd","vers":"0.1.2","deps":[{"name":"parking_lot","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d4fb76e9d4110c676b3567ad1fb986b785eca040ab6f74840d9c654e3ce3b51","features":{},"yanked":false}

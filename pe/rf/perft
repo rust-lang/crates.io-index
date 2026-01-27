@@ -1,0 +1,3 @@
+{"name":"perft","vers":"0.1.0","deps":[],"cksum":"10f6e9d63e437e0200a18c8c31e937cdeb0cebd39642f8845f192f72a054396c","features":{},"yanked":false}
+{"name":"perft","vers":"0.1.1","deps":[{"name":"chess-oxide","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee870ead31b4089cb715f750322ec2ffafc45553c507108795b91e6e832876b5","features":{},"yanked":false}
+{"name":"perft","vers":"0.1.2","deps":[{"name":"chess-oxide","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c445cd64476077ed7a378ed2e2ce59795ed4c78a31d913f049f46106ebe0552","features":{},"yanked":false}

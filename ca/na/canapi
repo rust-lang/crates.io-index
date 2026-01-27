@@ -1,0 +1,2 @@
+{"name":"canapi","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff3e02a04f44b531d851d2db62f95aabf65d033a6724767a4bed9732563e9bc4","features":{},"yanked":false}
+{"name":"canapi","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aab4d6d1edcef8bf19b851b7730d3d1a90373c06321a49a984baebe0989c962c","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"umlauts","vers":"0.1.0","deps":[],"cksum":"af260c3494cf9b39255e684dc7ad4a5289997c9c77b6d83e96ca30138646115f","features":{},"yanked":false}
+{"name":"umlauts","vers":"0.2.0-alpha.1","deps":[{"name":"memchr","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729ce7dda027b55178d5d848834ba33a0e7f1414e2622857d56f4efffa4119aa","features":{"unsafe":[]},"yanked":false}
+{"name":"umlauts","vers":"0.2.0-alpha.2","deps":[{"name":"memchr","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d78666332547407a667143e2a6cf2e4602ae8908f6b3b210d7590ed052a6f817","features":{"unsafe":[]},"yanked":false}
+{"name":"umlauts","vers":"0.1.1","deps":[],"cksum":"56f82c45cb4da6ea9294716b4b8904f4994083293119151c7c67f47d9545ae12","features":{},"yanked":false}
+{"name":"umlauts","vers":"0.2.0-alpha.3","deps":[{"name":"memchr","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ebe5b5ee346d605e19b9aeaf3a56a8537b88630d709123839d379af895dc6e1","features":{"unsafe":[]},"yanked":false}

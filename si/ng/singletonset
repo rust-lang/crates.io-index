@@ -1,0 +1,3 @@
+{"name":"singletonset","vers":"0.1.0","deps":[],"cksum":"31712ebc2bcb5fb36fb6a471110f056e003da6ee9408961b1da6cfb1ddd1b19c","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"singletonset","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f83667868da0864767900776075fa85e4b56563858d29e0d3a19b350eb12887b","features":{},"yanked":false,"rust_version":"1.57.0"}
+{"name":"singletonset","vers":"0.1.2","deps":[{"name":"indexmap","req":"^2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00e5495a4aa01b648e0f0ba86d894eb3d31deb2d84627ca7682571ebeea7a6d0","features":{},"yanked":false,"rust_version":"1.57.0"}

@@ -1,0 +1,1 @@
+{"name":"compile-time-lisp","vers":"0.0.1","deps":[{"name":"rust_lisp","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cb3118141aa0d8a0dafff76af3718770527f1f543585781b8b9ec41dacf76b6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"vulk-rs","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"73d8b3e7618e7598f2c1398f1a107620db211136a1d02022dbaadc36dfd3a1f9","features":{},"yanked":false}
+{"name":"vulk-rs","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"43d3191de815d7edd77976fe694831555d1c896150dabc561ed25833768da14a","features":{},"yanked":false}

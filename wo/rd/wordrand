@@ -1,0 +1,1 @@
+{"name":"wordrand","vers":"0.1.0","deps":[{"name":"clap","req":"^2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0d4e86bcff1779529ef6e8506b1bcc245cc2f18f6b3fd384eda848fa4ec18a3","features":{},"yanked":false}

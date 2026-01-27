@@ -1,0 +1,2 @@
+{"name":"fs-router","vers":"0.0.1","deps":[],"cksum":"d2e6ac1a87c1ba340a28296522b1b4b03359c2b529926bbf9bf10c869d249f72","features":{},"yanked":false}
+{"name":"fs-router","vers":"0.0.2","deps":[{"name":"gpui","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f675e0548da71749be576aa968010d7a3df441f2f40ca08581db52cee0a4d281","features":{},"yanked":false}

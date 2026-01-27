@@ -1,0 +1,1 @@
+{"name":"blewm","vers":"0.1.0","deps":[{"name":"ahash","req":"^0.8.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"criterion","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0f810d81b6b908cb5ed54a8ec834e9c470af1cfc6a66f5780800d34a1efc8ea8","features":{},"yanked":false}

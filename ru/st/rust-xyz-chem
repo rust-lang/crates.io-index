@@ -1,0 +1,2 @@
+{"name":"rust-xyz-chem","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6840b0f881b7a982ea1640178a8af368e1bdb84597a1cce1ad7a99d4a14bb9b","features":{},"yanked":true}
+{"name":"rust-xyz-chem","vers":"0.0.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0c875c9739278d22871e73dd644cf1f82aca452ee2267a3dc619baf2271c95e","features":{},"yanked":true}

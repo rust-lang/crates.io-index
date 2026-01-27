@@ -1,0 +1,2 @@
+{"name":"base4","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2b0c4bfbfb31d41ef24ee6aff1b816f1f664c3922ee7306392d38c3e69bb3af","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"base4","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32ec82384cc40b2f46f22ebc9a764319c76ce0580df507ea5c1ca5f2ed8e06fe","features":{},"yanked":false,"rust_version":"1.85.0"}

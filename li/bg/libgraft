@@ -1,0 +1,2 @@
+{"name":"libgraft","vers":"0.1.0","deps":[],"cksum":"2113205daf5838914b3ac501fd18572da9454743ab0a39343006270c0c71461f","features":{},"yanked":false}
+{"name":"libgraft","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1db4cf0ee63d8ec3476fc6186ea0902a87c650b74fe5f255a78c79259da1c7a7","features":{},"yanked":false}

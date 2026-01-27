@@ -1,0 +1,1 @@
+{"name":"bitcoin-embed","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.32.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbbca7939350037cbbfce0fb2f9b1ce49dc2bf01ce2300b60f628cb1bb648cca","features":{"compiler":[],"default":["std"],"std":["bitcoin/std"],"trace":[]},"yanked":false,"rust_version":"1.85.0"}

@@ -1,0 +1,2 @@
+{"name":"element-ptr","vers":"0.0.1","deps":[{"name":"element-ptr-macro","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1aaedb4755ee4c7a8d14b37c11596e935ee48960b0dce2aff5a87f4048387967","features":{},"yanked":false}
+{"name":"element-ptr","vers":"0.0.2","deps":[{"name":"element-ptr-macro","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91596eb9a72e0cb16e4993a79fcc190511c20bc34cf2c06aad78577611846c31","features":{},"yanked":false}

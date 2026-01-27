@@ -1,0 +1,2 @@
+{"name":"anywrap","vers":"0.1.0","deps":[{"name":"anywrap-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3905d7a9ee6c093f469e57b27d6a928fcf4078b7fa19ed43ac2ec9f660bbafba","features":{},"yanked":true}
+{"name":"anywrap","vers":"0.1.1","deps":[{"name":"anywrap-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97e787491509268baa7b121d975ebe20cde9da458c2bdd74406508a27975f6f5","features":{},"yanked":false}

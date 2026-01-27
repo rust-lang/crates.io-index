@@ -1,0 +1,2 @@
+{"name":"panic-ramdump","vers":"0.1.0","deps":[{"name":"cortex-m","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"699e5f8c3ae987deb02e8fea0099145f944b0d94b19efaa72d2d81484c908e4e","features":{},"yanked":false}
+{"name":"panic-ramdump","vers":"0.1.1","deps":[{"name":"cortex-m","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f979b14fb579cccb599e38dbc96fdd8847eec2eac80b5dd9ed27f8be3e918c14","features":{},"yanked":false}

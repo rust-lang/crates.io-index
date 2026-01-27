@@ -1,0 +1,15 @@
+{"name":"rnu","vers":"0.1.0","deps":[],"cksum":"990e2f95a964c18944a41226a6e8da68d8931334a75fed8112f19e3a89798653","features":{},"yanked":true}
+{"name":"rnu","vers":"0.1.1","deps":[],"cksum":"3724194353ecabb246cd983a968479898bf6fdfa7fb5fb432e68b9d4b8750135","features":{},"yanked":true}
+{"name":"rnu","vers":"0.1.2","deps":[],"cksum":"850380201906c503dd2dcdcb14e1d37e5860e468b0198e50c781973b1c459ac5","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.0","deps":[],"cksum":"9842705da48047a8a4545ff3b32adf6bd87b8bb0171896a908d36839396b6c16","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.1","deps":[],"cksum":"e6f660db643e21640cb2b20cadd16e4a976698e8ff74aa9228451d5ff9668f4e","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.2","deps":[],"cksum":"6a589eec21ff58150eac2f1e62e624a2cf432e67f27c39df7cfa055648338b22","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.3","deps":[{"name":"shell_command","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa0de4f1bab95b742b382bf1f20501cc7f7f6c77f61aff1d50d1b30563f2609","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.4","deps":[{"name":"shell_command","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f85ca58fbbb1db6a256b74ad270636f637e046e367886b3edaa32ba56756d73","features":{},"yanked":true}
+{"name":"rnu","vers":"0.2.5","deps":[],"cksum":"59ca0f03f3d770e96353a85bd51aa14ad78ba8ccd0208da137057aa79f46b28e","features":{},"yanked":false}
+{"name":"rnu","vers":"0.2.6","deps":[],"cksum":"bd7c7b387f1666e43734dacab53ab57d309642efbb5d364e0d500276631a62e3","features":{},"yanked":false}
+{"name":"rnu","vers":"0.3.0","deps":[],"cksum":"b5e2e50167f52bb80f52740f668886d8e504168825d4555f0496f82fc0b35a9b","features":{},"yanked":false}
+{"name":"rnu","vers":"0.3.1","deps":[],"cksum":"f78e66a0725b8e1e56788dbb5a51dbfd9e5bc96cd6d3b6a0b24df1bf54c94485","features":{},"yanked":false}
+{"name":"rnu","vers":"0.3.2","deps":[],"cksum":"c753310d52f6b00ec0938efb04cd3007114be27bf03c787b189350d97bc80edc","features":{},"yanked":false}
+{"name":"rnu","vers":"0.4.0","deps":[],"cksum":"2ee8fe577b7c4e2fa796ccd66471b9b198b52757581b8b842b8118d8078b00db","features":{},"yanked":false}
+{"name":"rnu","vers":"0.4.1","deps":[],"cksum":"cee0bc3b9a8263c30c4f792c1fab696269c6b28a4d4aa92feebb7aacc12a125e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rust-polynomial","vers":"1.0.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cae08d75cf3eb1ba5b6cbc06c5f714c6ff60abbeb777d22f38f204dd4d885aa","features":{},"yanked":false}
+{"name":"rust-polynomial","vers":"1.0.0-r","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1102f96f3c7c17b618693f9a7e29b0b42fa4a9b52bece508b5aae9b1494bb3ba","features":{},"yanked":false}

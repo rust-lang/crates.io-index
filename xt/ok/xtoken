@@ -1,0 +1,2 @@
+{"name":"xtoken","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"210fc5980c734bd87c318ac6255b896b72eabaafe71c13ffb9dd692e2282d698","features":{},"yanked":false}
+{"name":"xtoken","vers":"0.1.1","deps":[{"name":"memchr","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9982e1f42975af927d5713d7970884ea10502c74818533082be8a164ec4476c0","features":{},"yanked":false}

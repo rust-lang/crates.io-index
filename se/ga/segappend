@@ -1,0 +1,2 @@
+{"name":"segappend","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"514c11f2e4cf7f6f14ed17ac8de92742f68cd4e2feb62d804991324809743cd0","features":{},"yanked":false}
+{"name":"segappend","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"611dce1b3269b421eb69b28e85532626971f3a12066cc3f622f986aa329adaaa","features":{},"yanked":false}

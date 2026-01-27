@@ -1,0 +1,2 @@
+{"name":"tinysetqueue","vers":"0.2.1","deps":[],"cksum":"f2c1485c8078e2f872b223ac4efda23264489ddc20472b02b5a6d9354306069b","features":{"clear_on_new":[],"default":["std","clear_on_new"],"pow2":[],"std":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"tinysetqueue","vers":"0.3.0","deps":[],"cksum":"e9fad3c12d545f2fa409b4865998c115672b50240749e9679ca14a7e08f3cbc9","features":{"clear_on_new":[],"default":["std","clear_on_new"],"pow2":[],"std":[]},"yanked":false,"rust_version":"1.70"}

@@ -1,0 +1,1 @@
+{"name":"ludum","vers":"0.1.0","deps":[{"name":"rustbox","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.1.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"839e5f99b066e9a258207451d1da7e62c63cc1e7fbb1d3f53872e5b61b273137","features":{},"yanked":false}

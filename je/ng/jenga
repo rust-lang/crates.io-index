@@ -1,0 +1,11 @@
+{"name":"jenga","vers":"0.1.0","deps":[],"cksum":"213d49d426e068283b71da7482fede26fdcc7ad5099cbef97c20137eab0fe91f","features":{},"yanked":false}
+{"name":"jenga","vers":"0.1.1","deps":[],"cksum":"41dcbd6d2a5f8abe48dd289c7ed20ec3b3a136770da52dcf36d4f7cf39b3d804","features":{},"yanked":false}
+{"name":"jenga","vers":"0.1.2","deps":[],"cksum":"5a089b4c435d657e9d7653542e320c7b2217460b523e10d065abaf62ab09dac9","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"jenga","vers":"0.1.3","deps":[],"cksum":"d036212134ec478fb8feb3d245754a6198cfdbbc36a2e1b8ff77fa6b3698ef81","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":true}
+{"name":"jenga","vers":"0.1.4","deps":[],"cksum":"cb382535d6807066052d90ebda04da4735afbb706b621a89cf544da50a078391","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":true}
+{"name":"jenga","vers":"0.1.5","deps":[],"cksum":"ca7ddeb9a9f893a87e28fc9ff200b48e89c1ab918bf98195de76e8e18eacc2cd","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":true}
+{"name":"jenga","vers":"0.1.6","deps":[],"cksum":"6bf9d977d19cd13e04f163334cdaa5cc3fd4e3660f82f6f552fd4b8937bc0990","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}
+{"name":"jenga","vers":"0.1.7","deps":[],"cksum":"cb81deeda31dd44be14e5a631bc0c2ccf9dbc774556e5ce9fd36bf560ecd5ab4","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}
+{"name":"jenga","vers":"0.1.8","deps":[],"cksum":"1bf7c41f0f097714b8d0f8b74a6fcc0772918adae37ab7a3afce04c4a7dfa658","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}
+{"name":"jenga","vers":"0.1.9","deps":[],"cksum":"a044ab029e602b911ef32ed6d3a9b2b3f7c22385773def6c38512892c8f08e1a","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}
+{"name":"jenga","vers":"0.1.10","deps":[],"cksum":"a87ed59d025731386b6617e66d3bf7ad8502ec97b400faebc80ba133d0b23791","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}

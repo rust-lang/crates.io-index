@@ -1,0 +1,1 @@
+{"name":"park","vers":"0.0.1","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4064eb1cb3e15a10098fe4fd11e956c4d7e45b89341d9ec10a65f70fbf03ed63","features":{},"yanked":false}

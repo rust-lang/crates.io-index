@@ -1,0 +1,2 @@
+{"name":"haltia","vers":"0.0.0","deps":[],"cksum":"039b49057416ae0bee012a14ca9169f51da40b86c339831df2d6cea749cc5e02","features":{"default":[]},"yanked":true,"rust_version":"1.70"}
+{"name":"haltia","vers":"0.0.1","deps":[{"name":"haltia-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79736412037a0f5d79119253b13367a7c79fe1eaf33806669840f376e0799562","features":{"default":[]},"yanked":true,"rust_version":"1.70"}

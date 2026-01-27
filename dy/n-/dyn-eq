@@ -1,0 +1,4 @@
+{"name":"dyn-eq","vers":"0.1.0","deps":[],"cksum":"f573ecf9922cb3492544f3a9e3b30cfd1172f325220e669c91913b987b0e1df2","features":{},"yanked":false}
+{"name":"dyn-eq","vers":"0.1.1","deps":[],"cksum":"4f4adbba95eb9c71fa3baa177fa22be41f584d593d841d83c4c757b2a2bfc694","features":{"alloc":[],"default":["alloc"]},"yanked":true}
+{"name":"dyn-eq","vers":"0.1.2","deps":[],"cksum":"295db830b560f828b110c0def5f4e8ff249c59fdeb337c0f7892694173f8ac58","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"dyn-eq","vers":"0.1.3","deps":[],"cksum":"5c2d035d21af5cde1a6f5c7b444a5bf963520a9f142e5d06931178433d7d5388","features":{"alloc":[],"default":["alloc"]},"yanked":false}

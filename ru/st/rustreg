@@ -1,0 +1,2 @@
+{"name":"rustreg","vers":"0.1.0","deps":[{"name":"csv","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53c0fe69d2d8655858f7219266cc0cf3b015d8a455005c865e7bc9598850442a","features":{},"yanked":false}
+{"name":"rustreg","vers":"0.1.1","deps":[{"name":"csv","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fd8ff27c696601ed9f8074f35ce82f721eb1175bf607e1d2c54207c17ee175d","features":{},"yanked":false}

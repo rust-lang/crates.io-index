@@ -1,0 +1,2 @@
+{"name":"qdplot","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"212cb7a55021c03f95155f3a3a28da6eefe1bee37bd5c42486902dff004644a7","features":{},"yanked":false}
+{"name":"qdplot","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.37","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdfe6a333e3f5a7dc0e362486dc965b373dfd11ba002e46c56dbfd97d8eee91c","features":{},"yanked":false}

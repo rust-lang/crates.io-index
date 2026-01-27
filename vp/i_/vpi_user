@@ -1,0 +1,1 @@
+{"name":"vpi_user","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2e70e3b3c183aad571a91f54f6815f3158551b92529408e060d39845de8f6ae5","features":{"default":["verilator"],"ghdl":[],"iverilog":[],"verilator":[]},"yanked":false}

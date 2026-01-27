@@ -1,0 +1,3 @@
+{"name":"hitesh_me","vers":"0.1.0","deps":[],"cksum":"d87934d8bf848eb76cab2554bd85bd76c3fa8dc8e63d4a5b15f1a45dbaa8cc24","features":{},"yanked":false}
+{"name":"hitesh_me","vers":"0.1.1","deps":[],"cksum":"c10f27844db53bef51cf3d41d62cd48b41ccc31e1d565965db7c8405d7781d39","features":{},"yanked":false}
+{"name":"hitesh_me","vers":"0.1.2","deps":[{"name":"cargo-readme","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"841b8a8586ff55711e0d6f4646fb082b560b9fc6d1424710bac2d53e05eebad0","features":{},"yanked":false}

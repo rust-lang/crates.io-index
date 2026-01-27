@@ -1,0 +1,2 @@
+{"name":"salloc","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.59.0","features":["Win32_System_Memory"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"995b38657fb5b6cb4721d2df3e6ecfee80d10a053676f0893f4337f3855ab8d9","features":{},"yanked":false}
+{"name":"salloc","vers":"0.1.1","deps":[{"name":"windows-sys","req":"^0.59.0","features":["Win32_System_Memory"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e0a4a207662a1e8976ea263fb2ede5f3a1ecac55a57805dbc632ebedee266e0","features":{},"yanked":false}

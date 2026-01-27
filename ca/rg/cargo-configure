@@ -1,0 +1,2 @@
+{"name":"cargo-configure","vers":"0.1.0","deps":[{"name":"inquire","req":"^0.7.5","features":["console"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4339864c4199f02e048fa3a3206044a6c91b35390b6d063b80e2067c79058910","features":{},"yanked":false}
+{"name":"cargo-configure","vers":"0.2.0","deps":[{"name":"inquire","req":"^0.7.5","features":["console"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5794ca19288a7d8ddde32674a952263bbb326cde81147f6b9dbd249d87b969f3","features":{},"yanked":false}

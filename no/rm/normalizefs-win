@@ -1,0 +1,1 @@
+{"name":"normalizefs-win","vers":"0.0.1","deps":[{"name":"windows","req":"^0.52","features":["Win32_UI_Shell","Win32_Foundation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90cfa0aab9e114dff834163e51c727ae6564333fbc8490fe34958dea3fd81f5b","features":{},"yanked":false,"rust_version":"1.56.0"}

@@ -1,0 +1,1 @@
+{"name":"ipslim","vers":"1.0.0","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a648c0f6a39044a894ba74f106093ce61c764030c0c6a5c385548d306df14b","features":{"default":[],"dev":["clippy"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mono-clock","vers":"0.1.0","deps":[{"name":"embedded-time","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9255f82d355f9ab3607c99beb1b28dd5e484d998500bb1dbe9037d1dd5ff1af","features":{},"yanked":false}
+{"name":"mono-clock","vers":"0.1.1","deps":[{"name":"embedded-time","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1f9d58e3308e8a9fec7a9d96c6ddf7b079c95af9a9ce8dca236c1d8a64166a8","features":{},"yanked":false}

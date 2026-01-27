@@ -1,0 +1,1 @@
+{"name":"hellorust20xx","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f062f9f629092570b982255ccbd6b70d0e5e69771d5704b2d793f2f209d7a624","features":{},"yanked":false}

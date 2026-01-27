@@ -1,0 +1,1 @@
+{"name":"avila-serde","vers":"0.2.0","deps":[{"name":"avila-serde-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3756ccbbacf10b388d9205fc3547d7029051c391ee2fec4ed46f8d10208cfccf","features":{"default":[],"derive":["avila-serde-derive"],"full":["derive"]},"yanked":false}

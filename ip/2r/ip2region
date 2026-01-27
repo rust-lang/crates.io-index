@@ -1,0 +1,1 @@
+{"name":"ip2region","vers":"0.1.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"speedy","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"177ec63ab00a02b8f36b501caa8a5eb86e65d23a3ec0a89621cd8c9225191be2","features":{},"yanked":false}

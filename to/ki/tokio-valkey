@@ -1,0 +1,2 @@
+{"name":"tokio-valkey","vers":"0.0.0-alpha1","deps":[],"cksum":"625093aa557218c498f2103c369b59efebcab366188d6c13ec52355dfaf72eb3","features":{},"yanked":false}
+{"name":"tokio-valkey","vers":"0.0.0-alpha2","deps":[{"name":"tokio","req":"^1","features":["net","io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d090d4c493086c9a0b3628df42a946f9beb12339eac2f90f481067043051e58d","features":{},"yanked":false}

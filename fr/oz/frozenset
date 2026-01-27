@@ -1,0 +1,5 @@
+{"name":"frozenset","vers":"0.1.0","deps":[],"cksum":"3b25b82b8b88d10355a7d517d87a0d37804f7375fed03647e44a27610fcd594f","features":{},"yanked":false}
+{"name":"frozenset","vers":"0.1.1","deps":[],"cksum":"cbd11d90196426197b1124396cf89fd05a4e4119b78233d0aa3f4689b1c07b8a","features":{},"yanked":false}
+{"name":"frozenset","vers":"0.2.0","deps":[],"cksum":"aa15c9a3b875fd902253707007424766329f98640a6c89cfb1ec7a86fc0dab9c","features":{},"yanked":false}
+{"name":"frozenset","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0.164","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"882039dba6d5231f44105e5e9e6ec91a826e69bc78844287939347eca208c33e","features":{},"yanked":false}
+{"name":"frozenset","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0.164","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b110328f46621e69076da1a5780b17bd8f6035dc27676bc13c03af5717da8b","features":{},"yanked":false}

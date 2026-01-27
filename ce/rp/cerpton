@@ -1,0 +1,2 @@
+{"name":"cerpton","vers":"0.1.0","deps":[{"name":"encoding_rs","req":"^0.8.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d41c69c11602bfd019ab95e72c5042b7a89605b7a482967dfdee495781814c2","features":{},"yanked":false}
+{"name":"cerpton","vers":"0.1.1","deps":[{"name":"encoding_rs","req":"^0.8.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30ace055922b69e3230456cc607c41c3f495c8f80af459b7172dc681ec09d9ce","features":{},"yanked":false}

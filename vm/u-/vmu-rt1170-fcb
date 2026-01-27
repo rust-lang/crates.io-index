@@ -1,0 +1,2 @@
+{"name":"vmu-rt1170-fcb","vers":"0.1.0","deps":[{"name":"imxrt-boot-gen","req":"^0.3.0","features":["imxrt1170"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8b0656decf2cb06c6502a9e9df3f47031139691519b4c843f8cf929d5a26e93","features":{},"yanked":false}
+{"name":"vmu-rt1170-fcb","vers":"0.2.0","deps":[{"name":"imxrt-boot-gen","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba0c275e4d5f948333a7bfaf1f5f7719575256798f86727df6692112225cd4c6","features":{},"yanked":false}

@@ -1,0 +1,10 @@
+{"name":"void-app-api","vers":"0.0.1","deps":[],"cksum":"bd55815baee969c33e2df2804d9216e9689fd09b3369e5ad9169e571ce9900a0","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.2","deps":[],"cksum":"19ec055b898f4f86c9a99ece4e8e266ffe689e67a7a85169accf78024254a294","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.3","deps":[],"cksum":"2139426192195d5e658040421145b1d9be593df659ef408a9c1b38ccffa9ff57","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.4","deps":[],"cksum":"fc6dbdcacdac8a5e95ec6057dad525367e7d7454282c7fc22a77040f2fe01419","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.5","deps":[],"cksum":"87827660e0e7af2537a7669c95abe19d97f54a19ebb09e7b427b03fdafcf41fa","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.6","deps":[],"cksum":"70adb8493389f922c58ba00c882957f5bd72a0ea867468627c7e5482af1d3901","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.7","deps":[],"cksum":"400ce6d0044ad348baebeab5020b3908bdd522163e60c224880035f1dcade6a5","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.8","deps":[],"cksum":"2ed6d1fa7d3ffc68aeac81554cb8153b5487be9bd56c0b43bc73214cafe0a324","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.9","deps":[],"cksum":"3ea5c9c97286eda9ad49c3f8b36068c5e8edcc7571b11ea6bbad19f20e737c94","features":{},"yanked":false}
+{"name":"void-app-api","vers":"0.0.10","deps":[{"name":"egui","req":"^0.27.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a4143a5ad9fda3f2369125bcbc12bbe84ea2b29c2e16434e3568b3c8ff8b838","features":{},"yanked":false}

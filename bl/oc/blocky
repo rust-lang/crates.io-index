@@ -1,0 +1,3 @@
+{"name":"blocky","vers":"0.1.0","deps":[],"cksum":"470267d29977db0fc2242306abc4a1f415449203546ddcdb2fd117de42136a74","features":{},"yanked":false}
+{"name":"blocky","vers":"0.1.1","deps":[],"cksum":"f371aa729da55080cad82a773389f6162c01f5c8847e54b164681d7f15b48957","features":{},"yanked":false}
+{"name":"blocky","vers":"0.2.0","deps":[{"name":"blocky-net","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acdd96d0209eddf1be554396188cabdd8757db95951d185634827c13007d3112","features":{},"yanked":false}

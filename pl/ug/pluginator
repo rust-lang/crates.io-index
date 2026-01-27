@@ -1,0 +1,2 @@
+{"name":"pluginator","vers":"1.0.0","deps":[{"name":"libloading","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4001ec837925b488c8612d38c5c8e402c667fd29ecd784ac2c8906fb7770aae","features":{},"yanked":false}
+{"name":"pluginator","vers":"1.0.1","deps":[{"name":"libloading","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbddb84b4e6e46de39bf57d63ce57c45e5fc3843650090f4ce1cf4f3f022641d","features":{},"yanked":false}

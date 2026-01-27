@@ -1,0 +1,1 @@
+{"name":"poee","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.28.2","features":["full","mio"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13351471511ffb95dd7b6651d5cd6129d243a014059471dd3d6be441ac0b07d1","features":{},"yanked":false}

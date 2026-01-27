@@ -1,0 +1,1 @@
+{"name":"math_64","vers":"0.1.0","deps":[{"name":"log_64","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mem_64","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d28865941aed573d04399ca69f1a5d937affb7588ef4339dfd74daa6c4aecd79","features":{},"yanked":false}

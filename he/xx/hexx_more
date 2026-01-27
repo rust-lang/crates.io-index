@@ -1,0 +1,2 @@
+{"name":"hexx_more","vers":"0.1.0","deps":[{"name":"hexx","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"470cbb37b956fd5af146b4c9915477992dadeb01b0270f9b5192688a73bc5c16","features":{},"yanked":false}
+{"name":"hexx_more","vers":"0.2.0","deps":[{"name":"hexx","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd21fcdf5514dc33d1a4f2a33bd094b05569e76c43826354f1ce5fdd5e1d451","features":{},"yanked":false}

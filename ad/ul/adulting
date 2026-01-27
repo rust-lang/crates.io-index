@@ -1,0 +1,4 @@
+{"name":"adulting","vers":"0.1.0","deps":[{"name":"rand","req":">=0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec8f682d8dfad573bb3551a6810d9c85eb474634381d6f03ebef780eff5570ef","features":{},"yanked":false}
+{"name":"adulting","vers":"0.1.1","deps":[{"name":"rand","req":">=0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c2787c102f2b83e544f6115cdca609507ade7622a9114106141119bdeeac946","features":{},"yanked":false}
+{"name":"adulting","vers":"0.2.0","deps":[],"cksum":"b79324319c8d2f7db5e4ede1169ec23b0c2aba9f9581f8fb56067e0b88379367","features":{},"yanked":false}
+{"name":"adulting","vers":"0.3.0","deps":[{"name":"clap","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"096a99c54f40af2facc9fa5976f59186715a9a657fa305751ec2d05f6c672ce7","features":{},"yanked":false}

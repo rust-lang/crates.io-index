@@ -1,0 +1,1 @@
+{"name":"compact_sql_traits","vers":"0.0.1","deps":[{"name":"tokio-postgres","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a1b2ddfb160068e19b526cd9edaddda5c043c6f9be10e7a32b23e81529249ea","features":{},"yanked":false,"rust_version":"1.63"}

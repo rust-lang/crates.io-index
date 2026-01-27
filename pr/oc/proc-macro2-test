@@ -1,0 +1,1 @@
+{"name":"proc-macro2-test","vers":"0.0.1","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"49ec6ebb498c628b6f3754b4529b0cb430187c221915cd70095b5c20eaa837d2","features":{},"yanked":false}

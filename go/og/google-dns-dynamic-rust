@@ -1,0 +1,1 @@
+{"name":"google-dns-dynamic-rust","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11","features":["blocking","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d98b73f9486c67043306cccb964d550bad094679e063dd4167995c6aaa531d0a","features":{},"yanked":true}

@@ -1,0 +1,1 @@
+{"name":"wasm4fun-sound","vers":"0.1.0","deps":[{"name":"wasm4fun-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84938aa14fff5b169a4a1e057e67e5ec1966b04bea7347791c81fa7919cc8983","features":{"default":[],"nosound":[]},"yanked":false}

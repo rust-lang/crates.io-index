@@ -1,0 +1,2 @@
+{"name":"ksw2","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"924b9f3267be845126f954916f73c302ae072f328072ec708bb816643e28d613","features":{},"yanked":false}
+{"name":"ksw2","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d8217a9ecee208f212f055ef47c9aa3755bb4445e5270200209ab7530ce7cdcd","features":{},"yanked":false}

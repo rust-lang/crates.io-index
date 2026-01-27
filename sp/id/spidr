@@ -1,0 +1,2 @@
+{"name":"spidr","vers":"0.1.0","deps":[],"cksum":"bac4ed07c3afde99880c2b18a90fcbc8153b2870d620f69b88c8e1fb52ed18c4","features":{},"yanked":false}
+{"name":"spidr","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.9.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89bab37d5598963955be781a152a6a3305310be23f96812d4fd2465c3e9e5b8b","features":{},"yanked":false}

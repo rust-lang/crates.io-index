@@ -1,0 +1,2 @@
+{"name":"enum_const","vers":"0.1.0","deps":[{"name":"enum_const_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edc1b1db44e78e854444dd5139d0eff104c8a1d6cee2a58335d6ff1cc0bb002d","features":{},"yanked":false}
+{"name":"enum_const","vers":"0.1.1","deps":[{"name":"enum_const_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a137187326a8bb41bba483c501e324b91e22b6fb6978d47c06fa6e5e04fee54f","features":{},"yanked":false}

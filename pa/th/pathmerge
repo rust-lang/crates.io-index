@@ -1,0 +1,2 @@
+{"name":"pathmerge","vers":"0.0.4","deps":[{"name":"clap","req":"^4.3.11","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0774a87ce3f0128649673dec8b4c78fa0e9d8713645aa32409b376c48cecdcb","features":{},"yanked":false}
+{"name":"pathmerge","vers":"0.0.5","deps":[{"name":"clap","req":"^4.3.11","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"660b130e8debcbb3c503f3a79a44c9a29542136990106deadfddb7e457d11aa3","features":{},"yanked":false}

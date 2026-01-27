@@ -1,0 +1,2 @@
+{"name":"ish","vers":"0.0.1","deps":[],"cksum":"b077c9992b9199d896b9869385f3b237b15f43a46fb7447541dc1971244ecafa","features":{},"yanked":false}
+{"name":"ish","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ada9bb905fe014346ff67c50808d5a686b61e6ed49324d282991f24244a2f62d","features":{},"yanked":false}

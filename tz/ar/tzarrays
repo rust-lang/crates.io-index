@@ -1,0 +1,2 @@
+{"name":"tzarrays","vers":"1.0.0","deps":[{"name":"ulid","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1eb528c69b3f2ea8edb9a830dac2be8a1fbcb72faa8047fef0e551e736f2b62d","features":{},"yanked":false}
+{"name":"tzarrays","vers":"1.0.1","deps":[{"name":"ulid","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fe0d80d2de4e089c80daf642ace29343bcb1507eb90443b210cb2949de529fe","features":{},"yanked":false}

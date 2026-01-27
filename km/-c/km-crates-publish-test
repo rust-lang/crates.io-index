@@ -1,0 +1,27 @@
+{"name":"km-crates-publish-test","vers":"0.0.0-development","deps":[],"cksum":"b499701eebc5acf59b5dd1418ce9bc4cfeae89637a83e6704780b3c10fd7a0c6","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.0.0","deps":[],"cksum":"502c3d02f5a3b7c6a0975917e83064021cc3e5ec646048acb02732f8a081f019","features":{"coverage":[]},"yanked":true,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.1.0","deps":[],"cksum":"448332aeb23cb88983bd468dfa6657d84f143e078673fc3b8523bde62983302f","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.9.0","deps":[],"cksum":"dca2b3a686f6cdb7f32b52ab42eb0467151dc995642d23df083ebf1e6982e136","features":{"coverage":[]},"yanked":true,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.11.0","deps":[{"name":"color-eyre","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"openssl","req":"^0.10.73","features":["vendored"],"optional":false,"default_features":true,"target":"cfg(all(any(target_arch=\"x86_64\", target_arch=\"aarch64\"), target_os=\"linux\", target_env=\"musl\"))","kind":"normal"}],"cksum":"6e3e251f210381035bb48326ba9e781ce543de93b8ea7250d7e695104b915116","features":{},"yanked":false,"rust_version":"1.88.0"}
+{"name":"km-crates-publish-test","vers":"1.12.0","deps":[],"cksum":"4a814bbb88469859deecd6ea2d09727cdd425c2f38fab686e9437e2d571906af","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.13.0","deps":[],"cksum":"a3bd54a59a559ba1d7918bfc29fddaf2c4f7ec54d1e2c5d4251a6ecdf3557331","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.13.1","deps":[],"cksum":"c70176e662e8da4f0e1ed6196831bbf4899edf0dce1fd84e799484d3061b0abb","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.14.0","deps":[],"cksum":"4fa0fad5881137f41d95f6f34eee95c3f116dbbbdfda637624dd055cb2262eb6","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.15.0","deps":[],"cksum":"f04a3ba98a3bd88df4a6734c84031d2f921d40290248ed8260e94a6ff0ce6e98","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.16.0","deps":[],"cksum":"02a8f08837fca4421eb0559ea53aa5d26a7b183ed5b0b7e2e399d5f9ec978b59","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.17.0","deps":[],"cksum":"a726c36ee966893b17a062f1078b8019adc9e210b24b163bcccd0a8d6a3698c9","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.18.0","deps":[],"cksum":"f4cd3450bd387d17671d4a4e9e12ab6f2d40b01346e37d3315de8307483deefe","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.19.0","deps":[],"cksum":"7619482486ca43d48233514609f36036a2734e03f4930e2a801b4b3487ab42f6","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.20.0","deps":[],"cksum":"c9b7ae4cc12c64803b18dbd21999db0a61f9b19ede488f8d52137eb8e28908a0","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.21.0","deps":[],"cksum":"eb04d8f8850e6ed5448bf3926b6d24e67fe841d72e986c4865b9c44b19b8de1f","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.22.0","deps":[],"cksum":"42c15b18bd5bd1eaa3b929fd3dd7dcc58bf945d2a8b7f2ee4eacfd5e4dd5b944","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.23.0","deps":[],"cksum":"dd8680c4075e87e889f800968ef9c6c3f01fe62834bf6f321bc27136a307adfc","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.24.0","deps":[],"cksum":"d94334d11af0694e78c2a1e43198f993281ff8f19df326c48d781e0a681f2597","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.25.0","deps":[],"cksum":"5d486246e301e93f10cda673b305abe3c59cddabee41310ddb71155b41c69353","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.26.0","deps":[],"cksum":"cdf9add257393c052d79dbb30755eb6c57f787af6d69682bd099a18f6fc50080","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.27.0","deps":[],"cksum":"f9ee696be4a00ec21a2d59174154c47e2453a074e389941db7b15a29b0f10c9b","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.28.0","deps":[],"cksum":"c33df061cb4718eb5836f3e3059cb304e85a85def200c58ec95b3cf19a5a728b","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.29.0","deps":[],"cksum":"4aee9320db5a48a7c63347021e6779413933c7da12a439abde6f3c9cca11cd35","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.30.0","deps":[],"cksum":"18f939ca1dd8f8d25ec390ef584359470b633f84e57c869dfc1ff1d71bf76c73","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.92.0","deps":[],"cksum":"322a7f9435e115d850e07a285c53e422dad41791fe1e4c0bad5d648215d78203","features":{},"yanked":false,"rust_version":"1.91.1"}
+{"name":"km-crates-publish-test","vers":"1.93.0","deps":[],"cksum":"2dfef039e3587d024940e276778e9dc28d10525801a118881978677a5a1b9163","features":{},"yanked":false,"rust_version":"1.92.0"}

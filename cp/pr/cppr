@@ -1,0 +1,3 @@
+{"name":"cppr","vers":"0.1.0","deps":[],"cksum":"f6724c8c44c8e38f3ea9b2d19713e3b4ed24d99810b6e455dd748bbb2d964c1d","features":{},"yanked":false}
+{"name":"cppr","vers":"0.1.1","deps":[],"cksum":"2d42ded04899c4fdcecbd8925cda2435d0d00b3986462055bc9f665c5c962ef2","features":{},"yanked":false}
+{"name":"cppr","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f4697e19fe815b293cbc1b3f067dd116495b4e5eb6fded6a0df0e804736ff71","features":{},"yanked":false}

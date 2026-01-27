@@ -1,0 +1,1 @@
+{"name":"aio","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ec55a78b27b75491a8e0d636f9be64056c43e534aa7cd41739d678147d0df05","features":{"default":[]},"features2":{"log":["dep:log"]},"yanked":false,"v":2}

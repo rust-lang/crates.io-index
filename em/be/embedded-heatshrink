@@ -1,0 +1,1 @@
+{"name":"embedded-heatshrink","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ae6a665026572afe1cea2ab7ad3eb527a2ffb4bb21b7844982278ab5a4de9cb1","features":{"default":[],"std":[]},"yanked":false}

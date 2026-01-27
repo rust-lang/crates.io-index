@@ -1,0 +1,2 @@
+{"name":"whist","vers":"0.0.1","deps":[],"cksum":"0b1a89c81c0309ce1d1e4d1e4bf83bfe3a7291a86324bf3c7835cc4139546c92","features":{},"yanked":false}
+{"name":"whist","vers":"0.0.2","deps":[{"name":"bstr","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unicase","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abf53000a880d2e71f73a5ee59264396974c472d328a7a9109da7284878128a2","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"librqbit-clone-to-owned","vers":"2.2.1","deps":[],"cksum":"c33f149bc6cef41a9f24ad43ece20c87e0617fc88affa01d95850eb68210daac","features":{},"yanked":false}
+{"name":"librqbit-clone-to-owned","vers":"3.0.0","deps":[{"name":"bytes","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dabe584079813bc1bb675eb8cddfcf378e97590e5927af594e7596b0946757d","features":{},"yanked":false}
+{"name":"librqbit-clone-to-owned","vers":"3.0.1","deps":[{"name":"bytes","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbd1e66d773ba9c475ff89286dc1d6f9d167cbb898603797467dd0ea6844c445","features":{},"yanked":false}

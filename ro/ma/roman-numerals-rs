@@ -1,0 +1,6 @@
+{"name":"roman-numerals-rs","vers":"1.0.0","deps":[],"cksum":"7ab4efbb7e817a4bd324d560e42a9336fc922707dcaa63438d99e93b5a1a780b","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"roman-numerals-rs","vers":"2.0.0","deps":[],"cksum":"8ec9020a6d55f8942edeb09fff4f58fe07f04037dbd33f27a9ceb2fca2131391","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"roman-numerals-rs","vers":"3.0.0","deps":[{"name":"divan","req":"^0.1.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0367048bb069e6eadb22cd280c2589c1067769eb9eeef5542f75aaf9ff751fb6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"roman-numerals-rs","vers":"3.1.0","deps":[],"cksum":"c85cd47a33a4510b1424fe796498e174c6a9cf94e606460ef022a19f3e4ff85e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"roman-numerals-rs","vers":"4.0.0","deps":[],"cksum":"067cadc536984994a946c90da10f2dd2a6c42eae9821c89b766c235b3621dba0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81.0"}
+{"name":"roman-numerals-rs","vers":"4.1.0","deps":[],"cksum":"8408ef3512d2c5d6876de3cf8f24751e19c5f2566e37e1d31ced56a1892f1e92","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81.0"}

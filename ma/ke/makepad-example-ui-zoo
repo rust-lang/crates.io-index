@@ -1,0 +1,2 @@
+{"name":"makepad-example-ui-zoo","vers":"0.9.0","deps":[{"name":"makepad-widgets","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f1c9e54e90b6d5b133ab883cc6375e91a2932e08ef5ba18fc285d20e49a5d42","features":{},"yanked":false}
+{"name":"makepad-example-ui-zoo","vers":"1.0.0","deps":[{"name":"makepad-widgets","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"564aa3d685d7e1166476d05f538c42df9efa3ca5d6048d891a88627b64dbc5f3","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"cmdline_words_parser","vers":"0.0.2","deps":[],"cksum":"346b10598869bcdcd53cd166ecfb04ff8a4d5d7bb33e4ef4acbdb2a447ac3c73","features":{"no_std":[]},"yanked":false}
+{"name":"cmdline_words_parser","vers":"0.1.0","deps":[],"cksum":"2f82d4d9b75a0a6f8423e5d2b4572f35da7fe3fb196df01b335a4a66342109ea","features":{"no_std":[]},"yanked":false}
+{"name":"cmdline_words_parser","vers":"0.2.0","deps":[],"cksum":"af9dbc4850158d031093007e4bdbf6fe277200edfc58b297a9c6d849f47ab4e3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"cmdline_words_parser","vers":"0.2.1","deps":[],"cksum":"75d8078f03daf673d8bd34a1ef48c680ea4a895204882ce5f0ccfb2487b2bd29","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

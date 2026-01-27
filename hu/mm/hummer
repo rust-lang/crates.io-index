@@ -1,0 +1,2 @@
+{"name":"hummer","vers":"0.1.0","deps":[{"name":"hex-simd","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c5e5a0c617522b7843157e8fc5101451b3ae4cdcb87b8e45031d3ab507527a","features":{},"yanked":false}
+{"name":"hummer","vers":"0.2.0","deps":[{"name":"faster-hex","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"373ca45b03aec340e2090ce8e2f14fb7f0fbfe3500b3daedfe116548bb2776ec","features":{},"yanked":false}

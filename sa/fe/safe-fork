@@ -1,0 +1,2 @@
+{"name":"safe-fork","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5160f23b6e17712b7d96557fa30fdea8c95243344e5bf06bbea84e41154d0ee8","features":{},"yanked":false}
+{"name":"safe-fork","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c462d33e3620425d736af9ad879f84b1b81bde57ff141f4e6bbb449561478be6","features":{},"yanked":false}

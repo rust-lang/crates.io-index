@@ -1,0 +1,2 @@
+{"name":"koibumi-net","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0.116","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"227a169e6dc941bf35efa712d2085f4993782ec8dd2ecc7897c637144fc8da47","features":{},"yanked":false}
+{"name":"koibumi-net","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.200","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5409b11184f9f80d887e6c54c4e73f6848fcfd57dbb62e7d76bacdecda58538e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"egui-scrubber","vers":"0.1.0","deps":[{"name":"egui","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9835303941ed5e71393604d43b572659c4f183d2e1b9d0155bd14fbf5632eaa","features":{},"yanked":false}
+{"name":"egui-scrubber","vers":"0.2.0","deps":[{"name":"egui","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d702616f608db655945755be8e0020c5c21b12cda76956072fcf6a4eb4827976","features":{},"yanked":false}

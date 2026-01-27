@@ -1,0 +1,2 @@
+{"name":"html_sanitizer","vers":"0.1.0","deps":[{"name":"html5ever","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b30540ffe3d6fe03f36d2e459245f1b707cae7b2f99c410f3e40dc95912f854","features":{},"yanked":false}
+{"name":"html_sanitizer","vers":"0.1.1","deps":[{"name":"html5ever","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7725cf476eb2793339d423334ca8ec9a77c9c94e4805479089f6afd49f3e4e0","features":{},"yanked":false}

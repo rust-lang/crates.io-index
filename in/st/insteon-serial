@@ -1,0 +1,2 @@
+{"name":"insteon-serial","vers":"0.1.0","deps":[{"name":"serialport","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79b17c1440727ebda9ace72047d0e0449876c9d49347735daae456421c3b8682","features":{},"yanked":false}
+{"name":"insteon-serial","vers":"0.1.1","deps":[{"name":"serialport","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"268dedf822a4e308d75a8068a219c1187d72117278e604e155196a27b7a7953e","features":{},"yanked":false}

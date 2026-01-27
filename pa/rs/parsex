@@ -1,0 +1,2 @@
+{"name":"parsex","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2fcfeb09a69b3815699e53e3c4b2d94dbea9049dd54afcb72d4c84ad0f66592","features":{},"yanked":false}
+{"name":"parsex","vers":"0.1.1","deps":[{"name":"regex","req":"^1.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9095f25a8d4667fd375d9e70e9d072bb330ebc99f11919f599732ccd0842fc9d","features":{},"yanked":false}

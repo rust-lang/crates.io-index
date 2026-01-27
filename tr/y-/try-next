@@ -1,0 +1,6 @@
+{"name":"try-next","vers":"0.1.0","deps":[],"cksum":"96e2925e04b2736f49ca61bc21f9dda3a55a4633ec1af58dee487e2ec656f699","features":{},"yanked":false}
+{"name":"try-next","vers":"0.1.1","deps":[],"cksum":"ca544b9062b0ec1d40f0064fe931af74ec8f7bfad92ac400d68921e189e704d9","features":{},"yanked":false}
+{"name":"try-next","vers":"0.1.2","deps":[],"cksum":"097183eb0d8c023f83621f46dc8480196f5adf67926467ce024b3bc3fd8950ca","features":{},"yanked":false}
+{"name":"try-next","vers":"0.2.0","deps":[],"cksum":"2879f23768a0a4f430eb62ae26dfd8f5791d864ce951e15a8c4cee45090c0c32","features":{},"yanked":false}
+{"name":"try-next","vers":"0.3.0","deps":[],"cksum":"98d89a8a254e909cecf9c1ca18e830818b1b9a1e3b47bcdbca8b9dff4e852b02","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"try-next","vers":"0.4.0","deps":[],"cksum":"8ec9dc3c758a23320179ba3a6b003861adc66a55dfd73363fcd3d2ab5d428769","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

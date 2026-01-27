@@ -1,0 +1,2 @@
+{"name":"base95","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c5548903a6ad510f13677d4dd6ad37366a3659e68c3e17fd59697d3ef0f42e50","features":{},"yanked":false}
+{"name":"base95","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"270eefa63d93dd66bb75a07f183197ec16b2ff78023775de48a865aa3c629a1d","features":{},"yanked":false}

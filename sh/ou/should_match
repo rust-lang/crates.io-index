@@ -1,0 +1,2 @@
+{"name":"should_match","vers":"0.1.0","deps":[{"name":"macro_rules_attr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de875c804c47be9bc16793cedda1c3543454c99096cf9eacc1b5455046a3a5af","features":{},"yanked":false}
+{"name":"should_match","vers":"0.1.1","deps":[{"name":"macro_rules_attr","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5fab918559fc37bfc5d4ee7aa4d13d2efe018e30bfea61e518f59dc1007d693f","features":{},"yanked":false}

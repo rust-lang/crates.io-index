@@ -1,0 +1,1 @@
+{"name":"earshot","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"88d6e21bffead7abb6d9202cfb3285b34b2e750335d8cf3460b004f886c6f6db","features":{"alloc":[],"default":["std","alloc"],"std":[]},"yanked":false}

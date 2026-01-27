@@ -1,0 +1,2 @@
+{"name":"underscore_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6574cac9e0e7fd1853ebb5626b30522fb0b4bfb91fd00f7f6667140b74bde71a","features":{},"yanked":true}
+{"name":"underscore_sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0251fdd0413775103a9d40ac017f7273726b344d512c6ade9da6b86c62d78ebe","features":{},"yanked":true}

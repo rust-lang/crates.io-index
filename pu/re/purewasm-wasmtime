@@ -1,0 +1,1 @@
+{"name":"purewasm-wasmtime","vers":"0.1.0","deps":[{"name":"wasmtime","req":"^12.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b49ac9f2260f5fcd8d0cfe8a31abe4051afb542cce656fd7570894a9eae803","features":{},"yanked":false}

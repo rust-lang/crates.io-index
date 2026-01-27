@@ -1,0 +1,3 @@
+{"name":"str-shorthand","vers":"0.1.0","deps":[],"cksum":"06118b961541175f5b08ab59bdee34aaedb0da25f311d66511ffe61263d32dbb","features":{},"yanked":false}
+{"name":"str-shorthand","vers":"0.2.0","deps":[],"cksum":"edc1433c61f71e7f10bd3c7553fd9667933c8f8734a73975724e4ab4391365cb","features":{},"yanked":false}
+{"name":"str-shorthand","vers":"0.3.0","deps":[{"name":"export-magic","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unicode-segmentation","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb7cd46c3f6ac1fbb5a777c518ee107cc951794893231da305b0b820784b8b9","features":{},"yanked":false}

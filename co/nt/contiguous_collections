@@ -1,0 +1,2 @@
+{"name":"contiguous_collections","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adb26e22e1786c9c83ac225cd5406ad8e68df4f644331fbc36989376ac4588de","features":{},"yanked":false}
+{"name":"contiguous_collections","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37cee5d18e70f3ba506784a7ba6bd8f149c3751acb6bcdd8e47f83bb8094c986","features":{},"yanked":false}

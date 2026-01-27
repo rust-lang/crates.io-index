@@ -1,0 +1,3 @@
+{"name":"expiringmap","vers":"0.1.0","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c2b9ce61e34b3901bf6d9f2b256bfe91575091735a7b7c7003b5ea004f83005","features":{},"yanked":false}
+{"name":"expiringmap","vers":"0.1.1","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd331adaba67e47c8a3073919f2fd28f20816c8e321087b0995df5dfb4808737","features":{},"yanked":false}
+{"name":"expiringmap","vers":"0.1.2","deps":[],"cksum":"d0e78e7e8e4096f86dbf0d9098e7222ee251664edb46183ab5d43e847130cf3f","features":{},"yanked":false}

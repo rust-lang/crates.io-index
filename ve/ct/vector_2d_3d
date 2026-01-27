@@ -1,0 +1,7 @@
+{"name":"vector_2d_3d","vers":"0.1.0","deps":[],"cksum":"ee117d7b8d1351000204b5c122df7ac625ed2d2f299722353632501dbe385c94","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.2.0","deps":[],"cksum":"a5259b60f3f0c814cf5c0b49af6a6fea759899ca99b2de30b152fe6c9aadd64b","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.3.0","deps":[],"cksum":"85418fef73d709d1a1a94c0b75f75a91351ba9d3085d17f58a31856bf0433b76","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.3.1","deps":[],"cksum":"2072cf740ff61a09e29cf53c99644e2d55fdba8302002a23e33d5e0bbf1a632f","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.4.0","deps":[],"cksum":"8d174320c3adfddf2c74d64cbaecf4810845717e7b4f30ee8c457242f2db37b4","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fa0a500da02b7c0ef50df24cd5d657571232258b6cf3be7e030ba786fbb79b7","features":{},"yanked":false}
+{"name":"vector_2d_3d","vers":"0.5.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c287d36de190a95e93f40c3089f50ae8295f5e68055712a8d9bcb16f4fc5050b","features":{},"yanked":false}

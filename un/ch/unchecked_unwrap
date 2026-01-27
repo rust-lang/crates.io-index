@@ -1,0 +1,10 @@
+{"name":"unchecked_unwrap","vers":"0.1.0","deps":[],"cksum":"3abc63ea2e8b312fd0a8db9ba0baf2819ee97717d41e57e467e2820fd03f6e9b","features":{"debug_checks":[],"default":["debug_checks"]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"0.8.0","deps":[],"cksum":"867fb3def1b2e032fbb78bb49fcd1d51e1eb52d2ab589caae92ebeb4d72e00f5","features":{"debug_checks":[],"default":["debug_checks"]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"0.9.0","deps":[],"cksum":"5c0c7f91772691ccdaf5a885236a8144df650e95f9a5eff300fa9d04054c7959","features":{"debug_checks":[],"default":["debug_checks"]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"1.0.0","deps":[],"cksum":"064a430d9b99a2464c8cf2282f3902644f20822b9fb55f1780f227691ba9be1e","features":{"debug_checks":[],"default":["debug_checks"],"doc_include":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"1.0.1","deps":[],"cksum":"21b2133b2b7ba1bfaa90483c4e363dfe2c114eba5d36fd5b1e942de1dcb55cdb","features":{"debug_checks":[],"default":["debug_checks"],"doc_include":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"2.0.0","deps":[],"cksum":"88f7c0a390f08ab0826e83e6ffd4aee6f29962d8de7947c2c5091a46cd8fe49f","features":{"debug_checks":[],"default":["debug_checks"],"nightly":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"2.0.1","deps":[],"cksum":"83fda957624830e67236d867cc74782a2d873aa4878383bb1c95635e4f1c7200","features":{"debug_checks":[],"default":["debug_checks"],"nightly":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"2.0.2","deps":[],"cksum":"4da3758203a1b51dde0aa9ab4b8d75761cda72b1a467a0a47205491cf0942e4e","features":{"debug_checks":[],"default":["debug_checks"],"nightly":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"3.0.0","deps":[],"cksum":"3c24f3a206e040c2d1f2bc5987864f777cb807ad4f50bed46dbfa2af917be2d8","features":{"debug_checks":[],"default":["debug_checks"],"nightly":[]},"yanked":false}
+{"name":"unchecked_unwrap","vers":"4.0.0","deps":[],"cksum":"3225965522cd8ec8a857c1496adf6c17ecb9c0de554a09dbdaa89080bbb74088","features":{"debug_checks":[],"default":["debug_checks"]},"yanked":false,"rust_version":"1.54"}

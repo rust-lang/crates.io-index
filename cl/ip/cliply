@@ -1,0 +1,2 @@
+{"name":"cliply","vers":"0.1.0","deps":[{"name":"coutils","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73bd9db91dff8575350dca65a7452c84aabfd79531b088ac86658de1fbc95732","features":{},"yanked":true}
+{"name":"cliply","vers":"0.2.0","deps":[{"name":"coutils","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4026d0fe6a651506b990a28d4cc435ed3b0ef2e53340d7e1325708f02b37b638","features":{},"yanked":true}

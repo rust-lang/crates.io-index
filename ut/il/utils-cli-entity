@@ -1,0 +1,2 @@
+{"name":"utils-cli-entity","vers":"1.0.5","deps":[{"name":"sea-orm","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62ade184c3e1c5d3ab5a66053f8f5305ef747406336e742f19cecc2bd0879d1b","features":{},"yanked":false}
+{"name":"utils-cli-entity","vers":"1.0.9","deps":[{"name":"sea-orm","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be18474535340c96f19db9d627582962829f537e06e8bf918cca29fa2175990f","features":{},"yanked":false}

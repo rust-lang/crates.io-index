@@ -1,0 +1,7 @@
+{"name":"cov-mark","vers":"1.0.0","deps":[],"cksum":"e6f90a0281a7ce78cfa25b49eb53d362da5a023aced41244589c895a7f9f0e3e","features":{},"yanked":false}
+{"name":"cov-mark","vers":"1.1.0","deps":[],"cksum":"9ffa3d3e0138386cd4361f63537765cac7ee40698028844635a54495a92f67f3","features":{"thread-local":[]},"yanked":false}
+{"name":"cov-mark","vers":"2.0.0-pre.1","deps":[],"cksum":"0d48d8f76bd9331f19fe2aaf3821a9f9fb32c3963e1e3d6ce82a8c09cef7444a","features":{"default":["enable"],"enable":[]},"yanked":false}
+{"name":"cov-mark","vers":"2.0.0","deps":[],"cksum":"0570650661aa447e7335f1d5e4f499d8e58796e617bedc9267d971e51c8b49d4","features":{"default":["enable"],"enable":[]},"yanked":false,"rust_version":"1.63"}
+{"name":"cov-mark","vers":"2.0.1","deps":[],"cksum":"898f9f661ca3c06a58ffe46e34a1e20fdaf5eeba467560f61b96fc85a05fc083","features":{"default":["enable"],"enable":[]},"yanked":false,"rust_version":"1.63"}
+{"name":"cov-mark","vers":"2.1.0","deps":[],"cksum":"3f1d92727879fb4f24cec33a35e3bff74035541326cbc12ad44ba8886d1927b0","features":{"default":["enable"],"enable":[]},"yanked":false,"rust_version":"1.63"}
+{"name":"cov-mark","vers":"2.2.0","deps":[],"cksum":"90863d8442510cddf7f46618c4f92413774635771a3e80830c8b30d183420b14","features":{"default":["enable"],"enable":[]},"yanked":false,"rust_version":"1.63"}

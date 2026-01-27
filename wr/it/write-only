@@ -1,0 +1,1 @@
+{"name":"write-only","vers":"0.1.0","deps":[{"name":"droptest","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"312005bd75bab4bbc40cb08da262c99d5724022add986f534dc4c857976ad967","features":{"default":["std"],"std":[]},"yanked":false}

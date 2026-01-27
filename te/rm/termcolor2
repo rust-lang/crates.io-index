@@ -1,0 +1,2 @@
+{"name":"termcolor2","vers":"0.1.0","deps":[{"name":"winapi-util","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"01863e27baf8b8b8190cad208dc7d0859cfc57f9e3e7735fcf5e3b4b14764ef7","features":{},"yanked":false}
+{"name":"termcolor2","vers":"0.1.1","deps":[{"name":"winapi-util","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"7ea3d31a747e9920918ed2519dffbc54b7b59af0fd5304a331bb5e9a5762f76d","features":{},"yanked":false}

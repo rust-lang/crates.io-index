@@ -1,0 +1,2 @@
+{"name":"include_folder_shared","vers":"0.2.0","deps":[],"cksum":"8839b025e3e94a2c63e806f8921b32458bd5b7daea8bfec81b3cd728438d0f12","features":{},"yanked":false}
+{"name":"include_folder_shared","vers":"0.3.0","deps":[{"name":"globset","req":"^0.4.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49df0057f6e18d613f17936cf848f0cf5f02c0941fcc5d4f3d46e007b1efe5c7","features":{},"yanked":false}

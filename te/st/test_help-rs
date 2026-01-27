@@ -1,0 +1,2 @@
+{"name":"test_help-rs","vers":"0.0.0","deps":[],"cksum":"5774d138e940797464c2e379824f15c253b3ff7d9477e001ac98813fb4870c80","features":{},"yanked":false}
+{"name":"test_help-rs","vers":"0.1.0","deps":[{"name":"base-traits","req":"~0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7d2df2cc6a57f53f03c47cc937df746b8f2d0f5e63b77b7d81aa30b9ceb2842","features":{"default":[],"nan-equality":[],"null-feature":[]},"yanked":false}

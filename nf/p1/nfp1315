@@ -1,0 +1,2 @@
+{"name":"nfp1315","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba9d3098195897c1264d78a3c26850b250b3116e8304fd1844378ac677686e0d","features":{},"yanked":true}
+{"name":"nfp1315","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f648339e670606928f07346aa65854d85a39ce7eaf250b85708187ce935cb5c6","features":{},"yanked":false}

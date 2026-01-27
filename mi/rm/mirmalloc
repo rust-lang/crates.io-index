@@ -1,0 +1,1 @@
+{"name":"mirmalloc","vers":"0.1.0","deps":[{"name":"libmimalloc-sys-ms","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0a9704c6e6d197ab4a722e797bc562699e641769a051ad99de6a04a33acbe8c4","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-01-26T22:27:51Z"}

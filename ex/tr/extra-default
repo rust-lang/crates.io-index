@@ -1,0 +1,2 @@
+{"name":"extra-default","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db7803f5449f27f7dc720854ee7613949cdf3528b6532f257609e1f2579a4b12","features":{},"yanked":false}
+{"name":"extra-default","vers":"0.2.0","deps":[],"cksum":"ca1434e1920ba21b45516c16b5edbd82e8f2e4349b12a7a53eb9903ed2928d56","features":{"alloc":[],"collections":["alloc"],"default":["std"],"std":["collections"]},"yanked":false}

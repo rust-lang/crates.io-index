@@ -1,0 +1,2 @@
+{"name":"tiny-lz4-decoder-sys","vers":"1.0.0","deps":[{"name":"lz4-builder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c542a9440daa6a7611810a405ac6199df5b0461e28794a79d9783382f748087f","features":{},"yanked":true}
+{"name":"tiny-lz4-decoder-sys","vers":"1.0.1","deps":[{"name":"lz4-builder","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4227f46e9c92fb1eca19a3edf29895436e1426f8c56716308c925c3e4adcdc2e","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"bmp280-driver","vers":"0.0.6","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a897a1fc51af730cb2887e99fc3e998f4a56d239b3b41e4cf28af95c3d2c2f1","features":{},"yanked":false}
+{"name":"bmp280-driver","vers":"0.0.7","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6803eb675d874c0653d161d76e7d3d8face7cbef80be675f684b555d7dcbb373","features":{},"yanked":false}

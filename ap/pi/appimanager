@@ -1,0 +1,2 @@
+{"name":"appimanager","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a1416160c0e7156e2a38880790394e229d181cc3aa8984e6db48d6542ab8229","features":{},"yanked":false}
+{"name":"appimanager","vers":"1.0.1","deps":[{"name":"clap","req":"^4.3.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01b087e1779957f2e0a9af8f3e80d97c591e0b5f86a0fb5df7eff510a9ef0989","features":{},"yanked":false}

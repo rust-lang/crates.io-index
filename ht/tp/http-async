@@ -1,0 +1,2 @@
+{"name":"http-async","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb7c7c628e6ec2d9ddb4c9369f722063418432704169c0d6fa78cebd872b3541","features":{},"yanked":false}
+{"name":"http-async","vers":"0.1.2","deps":[{"name":"async-std","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37f7ca90ccd08c8cb576fa028a89c5821d428d60113dbc6e62badd1d39d805cc","features":{},"yanked":false}

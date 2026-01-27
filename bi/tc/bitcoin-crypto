@@ -1,0 +1,1 @@
+{"name":"bitcoin-crypto","vers":"0.0.0","deps":[],"cksum":"131ab9f80f11a10478ced1a139867f09e317059b80c90b98b9b9a3805459d0f6","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.74.0"}

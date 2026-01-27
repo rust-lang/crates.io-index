@@ -1,0 +1,2 @@
+{"name":"rsedn","vers":"0.1.0","deps":[],"cksum":"67477564cd7db8590274396a416780d78982aca02a9b04ac2f6afe5a4c66aaf6","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"rsedn","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a1e9c35152a3565fbcf4cc61c9a9227c250662145d21a9fe5846fc777250310","features":{},"yanked":false,"rust_version":"1.70.0"}

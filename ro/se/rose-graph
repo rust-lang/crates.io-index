@@ -1,0 +1,1 @@
+{"name":"rose-graph","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.149","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89b12f74b7b900316cb0adc050e70ee3d715de404f4ee0d69fd24e0c3e3689da","features":{},"yanked":false}

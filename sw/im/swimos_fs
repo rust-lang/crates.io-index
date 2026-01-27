@@ -1,0 +1,2 @@
+{"name":"swimos_fs","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddfcc50c2fc712331d146f683a1e859775b49e533477e4b4ee499491a6e04cb3","features":{},"yanked":false}
+{"name":"swimos_fs","vers":"0.1.1","deps":[{"name":"tempdir","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"855c778baaaa45f4139896c01bab39a30ef1e029dad477c1b3592f92751e1989","features":{},"yanked":false}

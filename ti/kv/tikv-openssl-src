@@ -1,0 +1,1 @@
+{"name":"tikv-openssl-src","vers":"111.10.3+1.1.1g","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20b40f16a109caf4be6f048e1c48ffff9462cd372cdb8c0657eff2d648923513","features":{"camellia":[],"default":[],"idea":[],"seed":[],"weak-crypto":[]},"yanked":false}

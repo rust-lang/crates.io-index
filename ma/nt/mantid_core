@@ -1,0 +1,2 @@
+{"name":"mantid_core","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bc07ba02dbbefd015bc30f7b33cb4fdf5408cf99bad799b7ce728e7d9136916","features":{},"yanked":false}
+{"name":"mantid_core","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a0ba63edb31252ad51241bae6bd8146b4342171e5702f39ba0fc39828644814","features":{},"yanked":false}

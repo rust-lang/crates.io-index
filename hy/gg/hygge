@@ -1,0 +1,4 @@
+{"name":"hygge","vers":"0.1.0","deps":[],"cksum":"78d61fdf9f01b45de2600e299c197542ee1560fd14e3343daee05ab14af918d7","features":{},"yanked":false}
+{"name":"hygge","vers":"0.3.0","deps":[{"name":"kdl","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ac64151e08122cbf69ac17a6a20c41d2a395097d21f35360380a014437738a4","features":{},"yanked":false}
+{"name":"hygge","vers":"0.3.1","deps":[{"name":"kdl","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec96b6ecb7816150380f9a02633f2cf04a2093d372c1aa0525a47e8d54e520b6","features":{},"yanked":false}
+{"name":"hygge","vers":"0.4.0","deps":[{"name":"kdl","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d19a4be20b2abaa2e5778ce0dc2d049b293d0a8b8900198bdf65cde7e2df7554","features":{},"yanked":false}

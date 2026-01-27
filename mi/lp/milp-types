@@ -1,0 +1,2 @@
+{"name":"milp-types","vers":"0.0.0","deps":[],"cksum":"d2ce237716e32ba0cee12af478c013c4aaeaf5758e2aa5368d3da3cd825abd6a","features":{"default":[]},"yanked":false}
+{"name":"milp-types","vers":"0.0.1","deps":[{"name":"lp-types","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6868bee24216d7e2f871e1b6780cdd809b1a4ef33012ac71fb6125ab8b8d22ea","features":{"default":[]},"yanked":false}

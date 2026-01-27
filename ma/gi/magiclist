@@ -1,0 +1,1 @@
+{"name":"magiclist","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand_chacha","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"30be2bb757b2ff1727d19d3a014ab509456c1911a084de39e691cb32b55af65b","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"timegate","vers":"0.1.0","deps":[{"name":"sled","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"246f083c90ca9c561293f1ca81cdcb52fcdf4d104e8086d0bd443ac8f87a7aa8","features":{},"yanked":false}

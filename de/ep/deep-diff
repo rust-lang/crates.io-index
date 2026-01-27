@@ -1,0 +1,2 @@
+{"name":"deep-diff","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.143","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de02bb3027850d8433c596929018fd25c94d52530c6430602cc17a33782314c5","features":{},"yanked":false}
+{"name":"deep-diff","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.143","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dba2d64ab987119f2cd8b34a18dfed3744af6dcef584235bb8d89dd3e03a9372","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"miru-gl","vers":"0.1.0","deps":[{"name":"gl_generator","req":"^0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"518f97751d65294af397373feeaebbc979e129b7cfd2bdbde743f87bb8fcd113","features":{},"yanked":false}
+{"name":"miru-gl","vers":"0.1.1","deps":[{"name":"gl_generator","req":"^0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"1aac37cf37c4e8b2ed2016408960ff502b22042bb26d6c9eadf902fe352de9aa","features":{},"yanked":false}

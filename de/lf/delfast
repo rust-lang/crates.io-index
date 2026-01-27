@@ -1,0 +1,5 @@
+{"name":"delfast","vers":"0.1.5","deps":[],"cksum":"a381e9dccc8ad0a1566147410944cb343d4918016f0ae227e1361916e2c60aad","features":{},"yanked":false}
+{"name":"delfast","vers":"0.1.6","deps":[],"cksum":"621677af11e4121dda3a8741deb654b7bb96e827976d4397e3a6c92f53c1fb5a","features":{},"yanked":false}
+{"name":"delfast","vers":"0.1.7","deps":[],"cksum":"188fb8c8274b2dd47a6c70066fd4da0d8b935e6b4dc40ed0323eb31171e4dc3b","features":{},"yanked":false}
+{"name":"delfast","vers":"0.1.8","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"297de56d770d66e22f2fa989ef4cccbe31f52a40490b13d80ce77ebf17320ba6","features":{},"yanked":false}
+{"name":"delfast","vers":"0.1.9","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02abe5217b5947075a76a59e1b350e8a98fd7bb196af2b07c571cfe49eb9de8d","features":{},"yanked":false}

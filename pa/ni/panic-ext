@@ -1,0 +1,4 @@
+{"name":"panic-ext","vers":"1.0.0","deps":[],"cksum":"57829871198770bcb787f187e7527cbd3289af2f926460319b7717499d19bcb0","features":{"alloc":[]},"yanked":false}
+{"name":"panic-ext","vers":"1.1.0","deps":[],"cksum":"976123f653b9031dae42e55af8b33c75e5357dc2a82f3835b50582f592b392a3","features":{"alloc":[],"std":["alloc"]},"yanked":false}
+{"name":"panic-ext","vers":"2.0.0","deps":[],"cksum":"6cee99f7f13662b0b398823242a0fc09f218c46b187edba2d47fdc7819ccbb02","features":{"alloc":[],"std":["alloc"]},"yanked":false}
+{"name":"panic-ext","vers":"2.1.0","deps":[],"cksum":"b3067c800d2b0cf8f5e70c157c01e1f8d3b651e829cfb1cdbe925d51918e8c2b","features":{"alloc":[],"std":["alloc"]},"yanked":false}

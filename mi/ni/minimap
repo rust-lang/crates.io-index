@@ -1,0 +1,1 @@
+{"name":"minimap","vers":"0.1.0","deps":[{"name":"image","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syntect","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6972745168e051da03501227c48c28054e97e3fe13068cc347edd9febc501d3","features":{},"yanked":false}

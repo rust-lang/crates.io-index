@@ -1,0 +1,5 @@
+{"name":"timpack-cli","vers":"0.1.0","deps":[],"cksum":"a2eb7b082e9fc034babd2b202722b41fa0e33444953e471ec613a573e7429b6b","features":{},"yanked":false}
+{"name":"timpack-cli","vers":"0.2.0","deps":[],"cksum":"3f59d7aa0c77436d03ac59de6ac9d9244a500ee0b9f63c3c06b594edd405ac23","features":{},"yanked":false}
+{"name":"timpack-cli","vers":"0.2.1","deps":[],"cksum":"620657e7828b86ca216bb90a3eff55caf5646d09218b20c0165165b772c743a9","features":{},"yanked":false}
+{"name":"timpack-cli","vers":"0.3.0","deps":[{"name":"which","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c4284a4c28cc22d6edb93f71fc820b4a48deceb569593d337964d4d4dc77f8","features":{},"yanked":false}
+{"name":"timpack-cli","vers":"0.3.1","deps":[{"name":"which","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"059cf6e57c6de12b7bcf740aff48c1284b69742c048072ad0563540445b5f1f2","features":{},"yanked":false}

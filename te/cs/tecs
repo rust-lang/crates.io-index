@@ -1,0 +1,4 @@
+{"name":"tecs","vers":"0.1.0","deps":[],"cksum":"dfa2f4137e70273d6bddbec919a726305f0bbd53932fc4bfe1f5fe8f433587b6","features":{},"yanked":false}
+{"name":"tecs","vers":"0.1.1","deps":[],"cksum":"f7997811e75cd72c3b1054ac73a4e0a4022fff099b3d727ee4525e8c270606a1","features":{},"yanked":false}
+{"name":"tecs","vers":"1.0.0","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1543901b8544163b2047226ea3403791a24d1a1723cb58b48f3d04ce6ba079bb","features":{},"yanked":false}
+{"name":"tecs","vers":"1.1.0","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55d8d77cbe6220d24926573f6af577b3442a81514d50aba6a94904fc8a84642f","features":{},"yanked":false}

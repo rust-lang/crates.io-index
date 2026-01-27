@@ -1,0 +1,3 @@
+{"name":"fileparthasher","vers":"0.0.1","deps":[{"name":"shared_io_utils","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60c12c8578c2b3bc2f02d14ddac6458cf4ec8c838383748c42feb45409fbd365","features":{},"yanked":false}
+{"name":"fileparthasher","vers":"0.0.2","deps":[{"name":"shared_io_utils","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a44e19eec9319edf06113b2a97051944df7056b0905aa1bad3cb66381ac212bc","features":{},"yanked":false}
+{"name":"fileparthasher","vers":"0.0.4","deps":[],"cksum":"0ba2eca5bf898be0dc815c02902f69551a230a80ec2460f5607719dbbc050df3","features":{},"yanked":false}

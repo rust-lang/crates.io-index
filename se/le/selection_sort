@@ -1,0 +1,3 @@
+{"name":"selection_sort","vers":"0.1.0","deps":[],"cksum":"053792c6c6763011f143bce5950f6cd49e6fdae0c6f5bd5d39deeb313e80cbe0","features":{},"yanked":false}
+{"name":"selection_sort","vers":"1.0.0","deps":[{"name":"quickcheck","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0af076ccd8d5280ed962ab105e7d375eedbafc4d924182ef8c349dde277ea73","features":{},"yanked":false}
+{"name":"selection_sort","vers":"1.1.0","deps":[{"name":"quickcheck","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83613c44c255dd3a1b8a578972735523d117da4606d8df748fba2a689ec506ca","features":{},"yanked":false}

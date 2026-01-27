@@ -1,0 +1,2 @@
+{"name":"actions-core","vers":"0.0.1","deps":[{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49b90a580a48951d8ed36580a224d382ead4042e893672c20623b4b74c03938c","features":{},"yanked":false}
+{"name":"actions-core","vers":"0.0.2","deps":[{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d56cc5cfda7bee687c69222601afcaf356a4847554371dc04f17d26dd779e581","features":{},"yanked":false}

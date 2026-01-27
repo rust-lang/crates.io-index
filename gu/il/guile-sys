@@ -1,0 +1,2 @@
+{"name":"guile-sys","vers":"0.1.0","deps":[],"cksum":"374e5b4de20fe25d7f64b3ba6f9ac878c8e69916887e3f8221d9634c8b476453","features":{},"yanked":false}
+{"name":"guile-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb3f09382b58d8612df0e0712c9ecb331cbd6a05e9f6b436c38c70829f01dce7","features":{},"yanked":false}

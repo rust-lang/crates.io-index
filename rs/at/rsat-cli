@@ -1,0 +1,1 @@
+{"name":"rsat-cli","vers":"0.1.0","deps":[{"name":"rsat","req":"= 0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"415c9b1b99b3d90b24b713a39dd0f44858c651ee21fa59a62fcffe7758ae15eb","features":{},"yanked":true}

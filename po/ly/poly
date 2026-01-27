@@ -1,0 +1,1 @@
+{"name":"poly","vers":"0.1.0","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smallvec","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2acb57facf61d3e59bec194f4aae7bba70a524985ac8b88e5907dab6fa10c54f","features":{},"yanked":false}

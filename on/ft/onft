@@ -1,0 +1,2 @@
+{"name":"onft","vers":"0.1.0-beta.1","deps":[{"name":"openssl","req":"^0.10","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13652ed36792b7756241fe75df6bff4c903f6c51cefcc34d8fe0b5b072d22ba5","features":{},"yanked":false}
+{"name":"onft","vers":"0.1.0-beta.2","deps":[{"name":"openssl","req":"^0.10","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18e388d1c8177cf5d43b8fd55b81b263f30c4d8fd9386f24a768f54e4361e514","features":{},"yanked":false}

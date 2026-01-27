@@ -1,0 +1,2 @@
+{"name":"modern-multiset","vers":"0.2.0","deps":[],"cksum":"c95a51254902799902747272d997573195811edfcc18ee95e054bfec67ccb86f","features":{},"yanked":false}
+{"name":"modern-multiset","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.216","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873d30a51d5c85bc9704dfdf40cce08ea63b94aecef3eb767860256cd5c58d91","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

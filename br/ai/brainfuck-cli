@@ -1,0 +1,2 @@
+{"name":"brainfuck-cli","vers":"0.1.5-alpha","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ede6edb27022c6601da6b1e040c886ea82e46a078eb90170b3388d18a26f1041","features":{},"yanked":false}
+{"name":"brainfuck-cli","vers":"1.0.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"988d4de30d0633d73750cd82ad0c45e8362bfa286b72ea82649a008bb7394484","features":{},"yanked":false}

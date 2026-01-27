@@ -1,0 +1,3 @@
+{"name":"say-hello-styawan","vers":"0.1.0","deps":[],"cksum":"23a3a217fc8351b8ca057a0522505106fe98d79d48be24e0232fa28cf8611035","features":{},"yanked":true}
+{"name":"say-hello-styawan","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7715f1a861393b5f8d73d5662b8ed87c766256edc466eb618a22ae367a7e311a","features":{},"yanked":true}
+{"name":"say-hello-styawan","vers":"0.3.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06698652b11170535cf14692b6aac20fb349eb4d21ea9fc790859a5a2c0728a2","features":{"all":["hello","bye","greet"],"bye":[],"greet":[],"hello":[]},"yanked":true}

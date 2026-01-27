@@ -1,0 +1,2 @@
+{"name":"wcrs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab200537779d036febb7b06c68ae64012039cb0e44b70a213045c0cc148468f","features":{},"yanked":false}
+{"name":"wcrs","vers":"0.2.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aab34f300dccaf85f2240900645c29c393884389ecbfb4e101b2d159c7dbc576","features":{},"yanked":false}

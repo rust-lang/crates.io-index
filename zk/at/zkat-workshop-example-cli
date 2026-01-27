@@ -1,0 +1,3 @@
+{"name":"zkat-workshop-example-cli","vers":"0.1.0","deps":[],"cksum":"814fe30b2d6d912023c137f2e7c7edf482fac9a3346afcb1be43260b5b2aaaae","features":{},"yanked":false}
+{"name":"zkat-workshop-example-cli","vers":"0.1.1","deps":[],"cksum":"6185755b20229ddda908805467fb1ab6e5ad3e91d4b984c42e6d4e3470231973","features":{},"yanked":false}
+{"name":"zkat-workshop-example-cli","vers":"0.1.2","deps":[{"name":"zkat-workshop-example-lib","req":"=0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a0e18f7c6e25625e58b9f4dd53d608984ccb0cf7db3f0c003cc45777e39396d","features":{},"yanked":false}

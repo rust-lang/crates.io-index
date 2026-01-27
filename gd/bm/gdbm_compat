@@ -1,0 +1,2 @@
+{"name":"gdbm_compat","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e5237fb59de0101e327ba5f0182f6eddd8ef0fa7a0f570a93600c2261c14cc7b","features":{},"yanked":false}
+{"name":"gdbm_compat","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ed8802a418d9a579b4644a688d773938df73e4e1cbbdb686085cbce393fd6f9b","features":{},"yanked":false}

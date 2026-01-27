@@ -1,0 +1,13 @@
+{"name":"numid","vers":"0.1.0","deps":[],"cksum":"a5dfaa76d09ec7d687c8ab27b7003e50ae1f85b3562c3ff0061c8d223c990fa1","features":{},"yanked":false}
+{"name":"numid","vers":"0.1.1","deps":[],"cksum":"14d4fbed66280549b943b270d30e5b5f9950e50ca2c96563a70f47a7febf4eac","features":{"default":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.1.2","deps":[],"cksum":"ad58e7627e913a5fb7d404bedfa9a8f371464717002a28c676e338b10319ee66","features":{"default":["std"],"example":[],"std":[]},"yanked":true}
+{"name":"numid","vers":"0.2.0","deps":[],"cksum":"55ee8975376fee45bf2b267bf432a8264039c6bf9cb280d48e1fe2ef30966bee","features":{"default":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.1","deps":[],"cksum":"26b4511e1c15811baa4c8fe7f519ecc9f09f2e00953c58b9c8e77909c32b64a3","features":{"default":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.2","deps":[],"cksum":"15e5b7f69142b1acfb5e439877f11eb278519263653c0b1ec0a1ae49cd462833","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.3","deps":[],"cksum":"0b51bf036b3ee40589e8576e0281006014b0a7739c07fbbed1e1b212e0499cf7","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.4","deps":[],"cksum":"5a60b75da516af5410326067b7156cca7a7d96eb1189d5a9c6aca08b5cd270d1","features":{"default":["display"],"display":[],"example":[]},"yanked":true}
+{"name":"numid","vers":"0.2.5","deps":[],"cksum":"acf3d35dab828e7ea33258587cb8944b93db1a5e02fc071dd1aeb2525879b50f","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.6","deps":[],"cksum":"5558ac117316b30174f72764ef1afcfa449f36998e8870dbf82b31e96dba4feb","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.7","deps":[],"cksum":"b6ebf1922fc7ee23878ce9de6801505757778219aa803562fa1de95476225e0d","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.8","deps":[{"name":"const_fn_assert","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d59f121e80e82fcb8f9ee098287cefed091d2b7b31d2e3027e9d2eaec5d7c86c","features":{"default":["display"],"display":[],"example":[]},"yanked":false}
+{"name":"numid","vers":"0.2.9","deps":[{"name":"const_fn_assert","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e07bcc1f12e445e3fadb440ab9eadeb6818764721723817151f4f3c318aeeaed","features":{"default":["display"],"display":[],"example":[]},"yanked":false}

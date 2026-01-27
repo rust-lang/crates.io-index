@@ -1,0 +1,14 @@
+{"name":"better-config-core","vers":"0.1.0","deps":[],"cksum":"84bb0dca562979d555bac032965b0cd6fb2a4d94bffc6e5adcde502a623aa2b3","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.1","deps":[],"cksum":"cb13edd64b3f0942b91383434b39835e3914f13ac55ac1b7de3545ace39dcc39","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.2","deps":[],"cksum":"72ba64079de648122ca57dd2c1815c850791586db9e93cee034b06e0105aa840","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.3","deps":[],"cksum":"a0fb7d6a135066549a67797ef3fffca9921694465f613b3260a41f86dbe84892","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.4","deps":[],"cksum":"619f6d7ee1f0c2bda77b9cc811dfa43a2b32b52d6106e1a9f4b8a5015cf3e89b","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.5","deps":[],"cksum":"4e47c4e4ddf17b474ae12f44759d52cef4a1fa89082899120870e366957c0a36","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.6","deps":[],"cksum":"4ae04b5420f9ce82428645eff78e93afe3ef42413b44b3791b808ec413734a79","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.7","deps":[],"cksum":"388ac8834981b2beb13139ee744696a50b966b8c2e40b9594f3947e9debd5b8d","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.1.8","deps":[],"cksum":"edcec12476bdf2193a0893bb2237f11518efe1e2a763740fbda6c637cc81817c","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.0","deps":[],"cksum":"f01550b14064bb46dc65d3f26525577d85c4d11dc3fd6b13ac2cacde7c9b1969","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.1","deps":[],"cksum":"80712752323fe08ceec0bd831a76133aeb1e48a4c9d9091abe673bdb41be10f3","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.2","deps":[],"cksum":"76c6597b3fd403edd0a82466392ebf0de014a171b20c31450fa56c65740fc786","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.3","deps":[{"name":"serial_test","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d080eae031f6b530c20b76d73aba197ead5d503b21aa3bfd37599bda61da1f40","features":{},"yanked":false,"rust_version":"1.87.0"}
+{"name":"better-config-core","vers":"0.2.4","deps":[{"name":"serial_test","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"245e6e106948a24e584b090cec524df10e26429287959f732ef3080eed0fa5ed","features":{},"yanked":false,"rust_version":"1.87.0"}

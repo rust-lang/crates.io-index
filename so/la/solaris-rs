@@ -1,0 +1,2 @@
+{"name":"solaris-rs","vers":"0.0.1","deps":[],"cksum":"6433d6c292e47f4b7032a31447ff972696efb267e7eaa3e16603b95b8ccdc93b","features":{},"yanked":false}
+{"name":"solaris-rs","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fb5239aeb2bab0a3f856591970ee56a30324b764f680452d9479d3ca1be6748","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"mem_println","vers":"0.1.0","deps":[],"cksum":"8d37d16713e810ebcf35b2bff64db66c0efb9067dc5c717a56f8cd7ee6b0b5e4","features":{"default":["println_mem"],"println_mem":[]},"yanked":true,"rust_version":"1.60.0"}
+{"name":"mem_println","vers":"0.1.1","deps":[],"cksum":"56e8eae30a273f914f0c5132f9909c38e22f12c127cef6c3751e04debad4a2a8","features":{"default":["println_mem"],"println_mem":[]},"yanked":true,"rust_version":"1.60.0"}
+{"name":"mem_println","vers":"0.1.2","deps":[],"cksum":"43297e9b8d10837981b783c66acc06162a77147ea84fe060e2ecf0c414762118","features":{"default":["println_mem"],"println_mem":[]},"yanked":true,"rust_version":"1.60.0"}
+{"name":"mem_println","vers":"0.1.3","deps":[],"cksum":"03d3e3ed70fd71fd29110bf3202df3cda5eb9259697018128a8a327b83170ed3","features":{"default":["println_mem"],"println_mem":[]},"yanked":true,"rust_version":"1.60.0"}
+{"name":"mem_println","vers":"0.1.4","deps":[],"cksum":"1a3f26950daa30d2a5647c662398078098796e7aa6f74855cdcc5f0185c9cbfe","features":{"default":["println_mem"],"println_mem":[]},"yanked":false,"rust_version":"1.60.0"}
+{"name":"mem_println","vers":"0.1.5","deps":[],"cksum":"8f5abe7175f09c4aebc73608d99b60b8bd37e7b2e0c4eb688b5f3726aaf6e7e9","features":{"default":["println_mem","get_size_of_val"],"get_size_of_val":[],"println_mem":[]},"yanked":false,"rust_version":"1.60.0"}

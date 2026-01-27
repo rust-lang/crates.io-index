@@ -1,0 +1,2 @@
+{"name":"nomad","vers":"0.1.0","deps":[],"cksum":"8e5a77835674c24ef1bd16bc3c88c9bef88cebd17cc6499999ad91f6d1b62e3a","features":{},"yanked":false}
+{"name":"nomad","vers":"0.2.0","deps":[{"name":"reqwest","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83df119a1667777902b6504e2f830dcf4b5ae9c5e873cfc58b00ba860930f7c3","features":{},"yanked":false}

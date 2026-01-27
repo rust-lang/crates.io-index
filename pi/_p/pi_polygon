@@ -1,0 +1,4 @@
+{"name":"pi_polygon","vers":"0.1.0","deps":[],"cksum":"570c510b82dafa56cc1f4605066e994da0f5ba343811f4ccd1cc66c4d00f2c43","features":{},"yanked":false}
+{"name":"pi_polygon","vers":"0.1.1","deps":[],"cksum":"e0e16545dfd02a6c5c656e54e1ff3d8754940615e51b5f7aebf21a8aa2f0c5cb","features":{},"yanked":false}
+{"name":"pi_polygon","vers":"0.1.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"222abb829af38ccf82ba68b945fb420229589a3f94a64b901c597766094ca8e7","features":{},"yanked":false}
+{"name":"pi_polygon","vers":"0.1.3","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"402fd4e2a931164b59dfd2e4fa2e80aa64b2984175d0b0f055f812611d0e6dab","features":{},"yanked":false}

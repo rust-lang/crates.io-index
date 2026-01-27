@@ -1,0 +1,1 @@
+{"name":"uptime","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"utmp","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7b43bb2ccd0bcf22ff869a3e395a1a52872e58ea8219e6cdd2c23eb86ebf3eb","features":{},"yanked":false}

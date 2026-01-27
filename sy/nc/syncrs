@@ -1,0 +1,8 @@
+{"name":"syncrs","vers":"0.1.0","deps":[],"cksum":"8303d40905877816c6afcc6ac1292fa2c8edd5428de178f37071b1bb2cb87754","features":{},"yanked":false}
+{"name":"syncrs","vers":"0.1.1","deps":[],"cksum":"5c5c1e220d4a0019ab2e138904c02a8bbdd04495436efbc7f8b189f037b57716","features":{},"yanked":true}
+{"name":"syncrs","vers":"0.1.2","deps":[],"cksum":"09184b4a44398b24971482280a2013dffbccd0f873e25114c5cede6fc1931b10","features":{},"yanked":false}
+{"name":"syncrs","vers":"0.2.0","deps":[],"cksum":"cceb16bfc2d7abe89e8584e57b25f83b133d9e30122ffc58e82428b59e21c2be","features":{},"yanked":false}
+{"name":"syncrs","vers":"0.2.1","deps":[],"cksum":"3a1c8f7af974406edb312accc18fc33be3c0f088eef1dd2ea43abd32945017e0","features":{},"yanked":false}
+{"name":"syncrs","vers":"0.3.0","deps":[{"name":"allocator-api2","req":"^0.3.0","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1182cf04456a0cc82780756c9264d42cb0006e5df1e488b07d04d21e4a0cd8df","features":{"alloc":["allocator-api2"],"default":[]},"yanked":false}
+{"name":"syncrs","vers":"0.4.0","deps":[{"name":"allocator-api2","req":"^0.3.0","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"df09c0dbf7028d60fd62fd7966c657146b875acb2ae8c825c42017a5c5defc4a","features":{"alloc":["allocator-api2"],"default":[]},"yanked":false}
+{"name":"syncrs","vers":"0.5.0","deps":[{"name":"allocator-api2","req":"^0.3.0","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"98f0e1aa3519d8ba2fe07ccf46af8f328ac7cd1a4e25d6f459440091b2315e55","features":{"alloc":["allocator-api2"],"default":[]},"yanked":false}

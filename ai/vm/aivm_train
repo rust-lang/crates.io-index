@@ -1,0 +1,1 @@
+{"name":"aivm_train","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"rand_pcg","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607773cfa5606ead520971d0164ebcc84924f3aa9d8b5b2ad8c16696072b0066","features":{},"yanked":false}

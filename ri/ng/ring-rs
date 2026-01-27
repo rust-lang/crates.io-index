@@ -1,0 +1,1 @@
+{"name":"ring-rs","vers":"0.0.0","deps":[{"name":"blake2","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"349b8302f66797ff5d60c6d78745f66bfe390e798db089a80c469fb8f8ab802a","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"fwht","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.17.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04f077b155079d2c32e6d57b5b75d81cff92ce27c539613b95c6ed6bfc9afb3c","features":{},"features2":{"default":["ndarray"],"ndarray":["dep:ndarray"]},"yanked":false,"v":2}

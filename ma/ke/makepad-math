@@ -1,0 +1,4 @@
+{"name":"makepad-math","vers":"0.3.0","deps":[],"cksum":"1ef552f5dfd5d16b530b89799c73513db00c989d29d270be98d570b870586cdd","features":{},"yanked":false}
+{"name":"makepad-math","vers":"0.4.0","deps":[],"cksum":"1c23b1b562681c7f38e94d349a4fd722b90f3dbd39f42949b49dfceae3b8f5d8","features":{},"yanked":false}
+{"name":"makepad-math","vers":"0.9.0","deps":[{"name":"makepad-micro-serde","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"203d149d144481c7631e99f4beab8109e3e0a0b9f5817379a83e0c1d6fe8d311","features":{},"yanked":false}
+{"name":"makepad-math","vers":"1.0.0","deps":[{"name":"makepad-micro-serde","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1f2b5e8591ee5d974e4a7e39172c91f9671cc57c4ace0b40f7c551c7cbec453","features":{},"yanked":false}

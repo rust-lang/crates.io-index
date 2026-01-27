@@ -1,0 +1,2 @@
+{"name":"imagezero","vers":"0.0.0","deps":[],"cksum":"7cb858042fbd4195b5ee4590e5674def103e165d07f3aa172565e0261fc2378e","features":{},"yanked":false}
+{"name":"imagezero","vers":"0.0.1","deps":[{"name":"clap","req":"^4.1.6","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"image","req":"^0.24.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4140b096b92bba42317cc0b3bbeb60624bc028eb964ecc5c7e2e03e4579bdb0","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"json_macro","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"~0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b3dee04b438b4457d943db541394c91b8e809a9df50528c65fd839ee24cd1e5","features":{},"yanked":false}
+{"name":"json_macro","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"~0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cae828a10b461ca79f7a1e366e4aead4c4bd8fc9c39a57546c39cbda8ee3a0c1","features":{},"yanked":false}

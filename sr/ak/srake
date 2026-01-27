@@ -1,0 +1,2 @@
+{"name":"srake","vers":"0.1.0","deps":[{"name":"stop-words","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b32ca478315af515db38d52f337c768205c7ac93d8d51a7f0c17674794645275","features":{},"yanked":false}
+{"name":"srake","vers":"0.1.1","deps":[{"name":"stop-words","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec77d3a1b1d5c0c6066eda8968bf66d37ceb7344225ae98e2ba48380f54af84d","features":{},"yanked":false}

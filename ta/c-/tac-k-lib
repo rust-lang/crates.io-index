@@ -1,0 +1,2 @@
+{"name":"tac-k-lib","vers":"0.3.2","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c540fbbcfc060d425076446c6e92d6d9ff087126ba0c30c6fea8aa1b82c7168","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"tac-k-lib","vers":"0.3.3","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b10636391497ef53f69578efaa9354ba7e02c3669ed539d4b55e20fb5347ed76","features":{},"yanked":false,"rust_version":"1.70"}

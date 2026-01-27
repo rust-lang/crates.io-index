@@ -1,0 +1,2 @@
+{"name":"oxid8-core","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a4a97da48148b7d7e8fa06c17b97ecbf239f158f3d17c89e8c1b3e06a48d769","features":{},"yanked":false}
+{"name":"oxid8-core","vers":"0.2.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba981d9f400775acf462f091dcea6dc8466f6963af6acd3fc511072995fc81d4","features":{},"yanked":false}

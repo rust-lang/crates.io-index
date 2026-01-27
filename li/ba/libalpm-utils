@@ -1,0 +1,2 @@
+{"name":"libalpm-utils","vers":"0.0.1","deps":[{"name":"nom","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83e81c2f72a6bcd495d869604f17f7b8dc4dc3b3d62fe4be4292588d6449798c","features":{},"yanked":false}
+{"name":"libalpm-utils","vers":"0.0.2","deps":[{"name":"nom","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"754dc226716eac194d26a7a5a9c2929fcbac612c1e6f234459a45bddb474cebb","features":{},"yanked":false}

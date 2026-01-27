@@ -1,0 +1,1 @@
+{"name":"multipart-boundary","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":["std","std_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1cd82e49bad0c4e88b47586849a88f37a9862a99a37e2225908f66fc18bdc9c3","features":{},"yanked":false}

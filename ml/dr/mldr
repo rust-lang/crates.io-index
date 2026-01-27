@@ -1,0 +1,1 @@
+{"name":"mldr","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dirs","req":"^6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"120d514fe1c31046a969df63100f41e6b1e13673c75a54ff4b6f754973c22616","features":{},"yanked":false}

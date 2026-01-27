@@ -1,0 +1,2 @@
+{"name":"libvibrant-ffi","vers":"1.1.0","deps":[{"name":"libvibrant","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e3e39adf9cd5d7804c556559226b8f7f18e1c2dde3cb52200b58a7121f24770","features":{},"yanked":false}
+{"name":"libvibrant-ffi","vers":"1.1.1","deps":[{"name":"libvibrant","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"617d1ac3a25a0b3a7ba35c139365ae7a80f0f5efd56b3732634bcff05144d58f","features":{},"yanked":false}

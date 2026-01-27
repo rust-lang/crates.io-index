@@ -1,0 +1,2 @@
+{"name":"the-usual","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"059336728e1512aca608d165c7f62902c56478532b5faa9c1ef9aecd11c8badb","features":{},"yanked":false}
+{"name":"the-usual","vers":"0.1.1","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a0876004feffb84150cef31efe3602db8a578a26fd05898546649323acf31f9","features":{},"yanked":false}

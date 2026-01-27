@@ -1,0 +1,1 @@
+{"name":"better-vdf","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.197","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd59103ba12b44b665c6e56e4b221fb60cb26fa244bd460ddb8ea23696d5c058","features":{},"yanked":false}

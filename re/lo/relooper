@@ -1,0 +1,1 @@
+{"name":"relooper","vers":"0.1.0","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"petgraph","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efae3de559cde28a2580a0cd4bb80e6a3100e3ebeb390c0d9f82c9cd4cedf118","features":{},"yanked":false}

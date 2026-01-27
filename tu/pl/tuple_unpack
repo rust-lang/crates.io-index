@@ -1,0 +1,2 @@
+{"name":"tuple_unpack","vers":"1.0.0","deps":[{"name":"seq-macro","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93317e565e3619829e2eae1087432f6da0e0475c53115865967fc05e2c437cfc","features":{},"yanked":false}
+{"name":"tuple_unpack","vers":"1.0.1","deps":[{"name":"seq-macro","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0bd18628693baa92754872f80d4ee3de016f011d7eef0b725d287039a5e00dc","features":{},"yanked":false}

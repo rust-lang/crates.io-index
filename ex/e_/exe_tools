@@ -1,0 +1,1 @@
+{"name":"exe_tools","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"73b40d8bd48fada55af74eefda6c2928fcb165a5dd4d30755c09fe79e21c1ce5","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":[]},"yanked":false}

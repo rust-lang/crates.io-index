@@ -1,0 +1,2 @@
+{"name":"dyncast","vers":"0.0.1","deps":[],"cksum":"c90e39b97616fe86bc9492fc39e591dc9bdd9ea56bc0c8324fb9070ae9292bea","features":{},"yanked":false}
+{"name":"dyncast","vers":"0.1.0","deps":[{"name":"dyncast-impl","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sptr","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df6d66d0bcf46522f3b7cf319b51e2d21d1adeaad0f9e7ff6c1d575d5807cedc","features":{},"yanked":false,"rust_version":"1.74"}

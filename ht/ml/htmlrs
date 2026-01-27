@@ -1,0 +1,3 @@
+{"name":"htmlrs","vers":"0.1.0","deps":[],"cksum":"f8472b6012bd5c36489e447c1d8db483070ca8da80983a0f58ba7d7830e560c7","features":{},"yanked":false}
+{"name":"htmlrs","vers":"0.1.1","deps":[{"name":"leptos","req":"^0.6","features":["ssr","experimental-islands"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf2f6447050ea5d0de0e066183a3bf56cb642e04c02f17d994fae8d75cc74dea","features":{},"yanked":false}
+{"name":"htmlrs","vers":"0.1.2","deps":[{"name":"leptos","req":"^0.6","features":["ssr","experimental-islands"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb7410c8ceb27dc5b09a5740e490c30fabf1b1b1e495df7a36833a791e93e607","features":{},"yanked":false}

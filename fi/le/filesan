@@ -1,0 +1,2 @@
+{"name":"filesan","vers":"0.1.0","deps":[{"name":"bitflags","req":"^2.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"202d30a624d774945a66ac0a49be81a24e82f86d2b4a0698b7115093a2c5fc5c","features":{},"yanked":false}
+{"name":"filesan","vers":"0.2.0","deps":[{"name":"bitflags","req":"^2.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12ed18e60d3839670124a3decba625e3f1fac631e21e724adf55dbb083b09f28","features":{},"yanked":false}

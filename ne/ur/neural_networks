@@ -1,0 +1,2 @@
+{"name":"neural_networks","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9725b7cbafdf919373335b32f49f599278dbcd832774fd225dcda201f2de7b5e","features":{},"yanked":false}
+{"name":"neural_networks","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f56d8f8357f5a1e64a7ab8c5c6a37c4642c6e550b5c4bda86075bb0451156b1a","features":{},"yanked":false}

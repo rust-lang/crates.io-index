@@ -1,0 +1,1 @@
+{"name":"ebene","vers":"0.2.0","deps":[{"name":"quickcheck","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"897a0b00c2041b378d5d1f58bc4fcf77c7f4196956f859c42dc72e830b66e00b","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"frut_std","vers":"0.0.3","deps":[{"name":"frut_lib","req":"^0.0.3","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d588a9be86b05958665a88555db796baf9d4dd97f0a4f98650eb55fc8e8f6f3","features":{},"yanked":false}
+{"name":"frut_std","vers":"0.0.4","deps":[{"name":"frut_lib","req":"^0.0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ed1016068156e19a116d13158c6d85fc017f8f2c834c51179eea783f28cb1e9","features":{},"yanked":false}

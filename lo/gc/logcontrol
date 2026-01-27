@@ -1,0 +1,4 @@
+{"name":"logcontrol","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb918112c2d02c785aaafd12f027f9db63401105934daa3e0d7e705fd0fa71af","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"logcontrol","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b6b2aca79336bbb859d036cdfd9d60a9a5ccf9e6897577ae823262e5b59cc76","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"logcontrol","vers":"1.0.2","deps":[],"cksum":"c8100ab0f1ffb6d00f747199b584286ae73f32e669a784a8b2636a8113b6523a","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"logcontrol","vers":"1.0.3","deps":[],"cksum":"dd4b883d038baa27804a3ba0b497f123a5292912ec5f0870c3fcda0a103053fb","features":{},"yanked":false,"rust_version":"1.77"}

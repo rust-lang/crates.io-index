@@ -1,0 +1,2 @@
+{"name":"simplest-logger","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a830fbd57292c50ebb0cac55b778380d0e19fb4622887b33a06415e43a02ce68","features":{},"yanked":true}
+{"name":"simplest-logger","vers":"0.2.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f05dd76acd6cf845929d93d73d506c19855c2df5f49bf4a8a9cdc7c40af2fff7","features":{},"yanked":true}

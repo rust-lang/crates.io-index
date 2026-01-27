@@ -1,0 +1,1 @@
+{"name":"extract-clips","vers":"0.0.0","deps":[{"name":"clap","req":"^2.33.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f973152521379610dbdc0a9d710f6c07dbab9a0387620fa49067f31a02bff27","features":{},"yanked":false}

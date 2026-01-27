@@ -1,0 +1,11 @@
+{"name":"upt","vers":"0.1.0","deps":[],"cksum":"1d44d03925e9b9bd430e0ecc6e563f2032a6940760a253ecc2ee153a623da9fe","features":{},"yanked":false}
+{"name":"upt","vers":"0.1.2","deps":[],"cksum":"0cfb1bfcfaca2ae0aa2613e13c46af9b52bb9aad8417e222336fb5cd9606c1e6","features":{},"yanked":false}
+{"name":"upt","vers":"0.1.3","deps":[],"cksum":"8206b960294c714a3d43417815e1b830f6a5d47b2d3af5ff9e312ff93d4f4a14","features":{},"yanked":false}
+{"name":"upt","vers":"0.2.0","deps":[],"cksum":"c3307b3d866c82b96afcaa68be700a096585e4b5840d8cafde289c4e72278798","features":{},"yanked":false}
+{"name":"upt","vers":"0.3.0","deps":[],"cksum":"6964150bef2eedbe2e1a12128818c0d2b2c143be83b390bf1012076e0a2e5275","features":{},"yanked":false}
+{"name":"upt","vers":"0.4.0","deps":[{"name":"which","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74b717018a54b05d8d25baa5af9c1827de42ce0f6eac8aaf326e31c65bea71af","features":{},"yanked":false}
+{"name":"upt","vers":"0.5.0","deps":[{"name":"which","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df9305a046a953e2e4496132f859521617c686857b4139806a244fc9e4a8f8f5","features":{},"yanked":false}
+{"name":"upt","vers":"0.6.0","deps":[{"name":"which","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5692eab91456f718af1b8a642ef130d7476b9653a4ceb2e883ca8b22bec46455","features":{},"yanked":false}
+{"name":"upt","vers":"0.7.0","deps":[{"name":"which","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"074b41987523923d8747aa36ee3e39f161c6213b31dc6c72534f7d2274dace8e","features":{},"yanked":false}
+{"name":"upt","vers":"0.8.0","deps":[{"name":"which","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e020e71cd9a7591c173c08842f4a4683b228352b508822f9e7cf41a1fda549e","features":{},"yanked":false}
+{"name":"upt","vers":"0.9.0","deps":[{"name":"which","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b0da8cd60fb13231ba769793ff58e2769401e38b12fc8e838aa5c2a3dade29d","features":{},"yanked":false}

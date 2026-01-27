@@ -1,0 +1,1 @@
+{"name":"ngau","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.115","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37e38397089d25226f2f92972b86f8a6070d66d99c5000fbf61735249a8e9677","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"estimate_size","vers":"0.1.0","deps":[],"cksum":"5f65e98cce9956e18a9d054d5e1671d87aee46161247065eb32efc710c185910","features":{},"yanked":false}
+{"name":"estimate_size","vers":"0.1.1","deps":[],"cksum":"76879b5dc775f828bd5a103613cff9997f4d6a94dbcc69ec8da3c67dd50b422c","features":{},"yanked":false}
+{"name":"estimate_size","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.7.0","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9ab538b8708dd3ce99ce53cacb550b20c4947365396d503020c42e17191cd9fd","features":{},"yanked":false}

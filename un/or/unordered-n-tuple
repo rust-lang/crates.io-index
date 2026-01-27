@@ -1,0 +1,1 @@
+{"name":"unordered-n-tuple","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5cdaf7e79144835fe03b796125ef512e43f7856062fd626b25fbb7f8ee55c02","features":{"default":["std","serde"],"std":[]},"yanked":false}

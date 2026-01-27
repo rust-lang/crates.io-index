@@ -1,0 +1,1 @@
+{"name":"serde-jellyfin","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b46f801308a5ad59117028ee397c726e7f01d3ed324e7d2f93c99f01270555f","features":{},"yanked":false}

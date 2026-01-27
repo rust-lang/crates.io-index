@@ -1,0 +1,5 @@
+{"name":"rp_sandbox_c","vers":"0.1.0","deps":[],"cksum":"a84be192737a0c3ad5e5be9da2888181d89b58b07337afb2566ea01e87929385","features":{},"yanked":false}
+{"name":"rp_sandbox_c","vers":"0.1.1","deps":[],"cksum":"cc6b9ef961219fe0e195c582ceac27342ab19a443df40be24c4588baf8262564","features":{},"yanked":false}
+{"name":"rp_sandbox_c","vers":"0.4.1","deps":[{"name":"rp_sandbox_a","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df36e25266c8fcdac2ff964da0959338291495d00ec6cb4531049781bb5ea261","features":{},"yanked":false}
+{"name":"rp_sandbox_c","vers":"0.11.0","deps":[{"name":"rp_sandbox_a","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"978150b59e012dbfad8eec8e275a8cd1f384ec78c85ee1a64a6e50efff98a21f","features":{},"yanked":false}
+{"name":"rp_sandbox_c","vers":"0.12.0","deps":[{"name":"rp_sandbox_a","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da38dfb3bbc63c9cc304d8767b385fd68e5d402de6064d9c96f6d90826672f86","features":{},"yanked":false}

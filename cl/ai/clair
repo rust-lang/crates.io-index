@@ -1,0 +1,1 @@
+{"name":"clair","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.28","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab83fb9eb342e29d4ea94b75f9a7ae1b87d3ca451746c8b4de0b5f7506ed0dab","features":{},"yanked":false}

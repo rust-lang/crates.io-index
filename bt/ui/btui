@@ -1,0 +1,17 @@
+{"name":"btui","vers":"0.1.0","deps":[],"cksum":"665465c25167aec0fe46a82da6fa175036633963ad4a4747dc10bd78b8356858","features":{},"yanked":false}
+{"name":"btui","vers":"0.1.1","deps":[],"cksum":"eebf345ea1cbb8d72479b1ec2501050f72cf937c06ca91cd46cb132c8d0369eb","features":{},"yanked":false}
+{"name":"btui","vers":"0.2.1","deps":[],"cksum":"8e6a4b5700a6b5dace0522c2798f61abc0ce3a7cc366c8413561bd8fb3aef5d9","features":{},"yanked":false}
+{"name":"btui","vers":"0.3.2","deps":[],"cksum":"2685435d99b8882cb0bd6046cbfd2d1e9b2c753cf0a2aa10c06e4e37e9ecbcda","features":{},"yanked":false}
+{"name":"btui","vers":"0.3.3","deps":[],"cksum":"97a799ef154e4bb416f9be2a75b2ae328af97e7b58b405b9fa31e31097c0687c","features":{},"yanked":false}
+{"name":"btui","vers":"0.4.3","deps":[],"cksum":"4bd0108b9654b98d7d134f1867f557873306b906691ddd9cb85afba72a2c3064","features":{"core":[],"default":["core"],"linux":["core"]},"yanked":false}
+{"name":"btui","vers":"0.4.4","deps":[],"cksum":"8579c2f1bdf53babe8f37298f57e662ca0a754ed1b0c13bd0d589f1576a57fbc","features":{"core":[],"default":["core"],"linux":["core"]},"yanked":false}
+{"name":"btui","vers":"0.4.5","deps":[],"cksum":"61ef1729cdb73fa2a67fef8700446af4e002e0c361b562501d53c4a318960d47","features":{"core":[],"default":["core"],"linux":["core"]},"yanked":false}
+{"name":"btui","vers":"0.5.5","deps":[],"cksum":"0e5873ea978f4e04e5e1a44f4bec79bab45cf80f69aa0135f12054a04c753558","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.5","deps":[{"name":"ncurses","req":"^5.101.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e47f0222e247f195868dca000dcbc9a0f68d2c58c17d16e1f74dc2244629e3ed","features":{"core":[],"default":["core","linux","pbar"],"linux":["core","ncurses"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.6","deps":[],"cksum":"9dd086086b7740f9d3cb04c8971c28ab04742eb8d1970ec40ae637f1c90f580a","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.7","deps":[],"cksum":"5f005192ace68db891ec98030a6decf7e4f077f1eafbdea67945129c44d54fec","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.8","deps":[],"cksum":"59879cbd9f5aa23d0bb3b531abfdfc2d3d9f50c53d88cd201f880d1a1b19c52b","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.9","deps":[],"cksum":"9f0cfac910e4f09ee8b9f0a7defd092e14402fcaa64de30d54fd659fa1863e1c","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.10","deps":[],"cksum":"399d6609c70236564531bee3989fbe1caebbfe737e420de7d1d33d38ab8c0c67","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.11","deps":[],"cksum":"dfd8f2199701b222474b91b149bcb5f8078f4bc73c0fba9f2740e358655eecb7","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}
+{"name":"btui","vers":"0.6.12","deps":[],"cksum":"9773a3ce8e76c897e05eba47f98a8073857750eef6c65d2b8f54f4b7a57b6483","features":{"core":[],"default":["core","linux","pbar"],"linux":["core"],"pbar":["linux"]},"yanked":false}

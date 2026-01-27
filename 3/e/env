@@ -1,0 +1,3 @@
+{"name":"env","vers":"0.0.0","deps":[],"cksum":"2df100894e93515acbb9525a754370f81a5ab1715914c76845f2a3f73e586d6a","features":{},"yanked":false}
+{"name":"env","vers":"1.0.0","deps":[{"name":"num_threads","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf61859c137220093f1f6a6073dfbb629f32c943d2c53d4358e9e64395abf6da","features":{},"yanked":false}
+{"name":"env","vers":"1.0.1","deps":[{"name":"num_threads","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc95de49ad098572c02d3fbf368c9a020bfff5ae78483685b77f51d8a7e9486d","features":{},"yanked":false}

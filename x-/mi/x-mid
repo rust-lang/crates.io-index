@@ -1,0 +1,1 @@
+{"name":"x-mid","vers":"3.0.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hmac-sha256","req":"^1.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61d3219f6450e5a5fd55c4068d901b733c94ba1c75edfc9c53b88cb6a64b5f13","features":{},"yanked":true}

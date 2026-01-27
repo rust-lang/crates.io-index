@@ -1,0 +1,2 @@
+{"name":"supasim-spirv-tools-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"959d824e8d7eba7013c2c5b0e600e0c44e1614ffa89f0bb693affc6d5673f927","features":{},"yanked":false}
+{"name":"supasim-spirv-tools-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5b80ef697aecd8903ee97f6353be533a0d2f986a6e3c50ac2c6b70d3966c9d05","features":{},"yanked":false}

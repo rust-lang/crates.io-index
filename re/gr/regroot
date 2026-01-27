@@ -1,0 +1,1 @@
+{"name":"regroot","vers":"0.3.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glob","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33286fbbaa5501e90de0057100bbadd8c98db8fd8f0dfa8d9af137f9b6cf116a","features":{},"yanked":false}

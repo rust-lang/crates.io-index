@@ -1,0 +1,2 @@
+{"name":"check_mate","vers":"0.1.0","deps":[],"cksum":"107309f83e23bbccbf9862cc8cbbb2331b30ba4365ceda90b434f938ce756a5b","features":{},"yanked":false}
+{"name":"check_mate","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd1187113dc820c465d4f5ff6958dc52cfa139dc27003d30dc4d5165a965326b","features":{},"yanked":false}

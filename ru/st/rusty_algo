@@ -1,0 +1,2 @@
+{"name":"rusty_algo","vers":"0.1.0","deps":[],"cksum":"e2f3cbfed04a87de3f5d4b79943f765bb3b825d151d789ea63b2c6e80b729cfa","features":{},"yanked":false}
+{"name":"rusty_algo","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"93b721554e3a49c9713acf379807a3e2faf2c24b45dfe5944d06737a04a453e8","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rrhodium","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f96608fcf4aa6fa22d660c001ab2c8e4c5ae11b3773b5a8d4ea69a2d008d4f8","features":{},"yanked":false}
+{"name":"rrhodium","vers":"1.0.0","deps":[{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"044ea0fe2fff5d792759921d1d6d5b39477f523d6fbce0339037c64b8a7982a2","features":{},"yanked":false}

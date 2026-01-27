@@ -1,0 +1,2 @@
+{"name":"traitgate","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"06ade0a63cc70006c719ad9f6505443c68784bc2c0016e541a0dd65ce07d8fb6","features":{},"yanked":false}
+{"name":"traitgate","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"14a6af0a4f79c83b0dd031e216a401c9ceb5d61223baac8bd97f5ba0484d1d03","features":{},"yanked":false}

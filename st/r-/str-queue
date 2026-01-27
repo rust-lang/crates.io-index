@@ -1,0 +1,1 @@
+{"name":"str-queue","vers":"0.0.1","deps":[{"name":"memchr","req":"^2.4.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"40f30e93016ebb38a1b304f3b396803125ceada3748f4c8304b2f8319bc7675b","features":{"default":["std"],"std":[],"std_with_memchr":["std","memchr/std"]},"yanked":false}

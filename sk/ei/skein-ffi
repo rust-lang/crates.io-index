@@ -1,0 +1,2 @@
+{"name":"skein-ffi","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ab8da9fa5d13c32a83608c19a68e35ddb3f5a130242743da99c19b366c4ed5e4","features":{},"yanked":false}
+{"name":"skein-ffi","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d7bb3edfcd2661392442446174c8661ac1e76ebbf5228fff7fcf4b7d97f587c6","features":{},"yanked":false}

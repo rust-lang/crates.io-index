@@ -1,0 +1,5 @@
+{"name":"regi","vers":"0.1.0","deps":[],"cksum":"09dea3ff753f9a04ce5e9429e9e2b36469330e534f5b20d0c6c668e8f97aa8ce","features":{},"yanked":false}
+{"name":"regi","vers":"0.1.1","deps":[],"cksum":"718a97fa37d344fcfc321fd3e81cc820e55dc75cc88c19399700276869789ecf","features":{},"yanked":false}
+{"name":"regi","vers":"0.1.2","deps":[],"cksum":"cdc1e8d0e4c216763d8fe0d4fd699c89cde5f208348526467c30802988f42bff","features":{},"yanked":false}
+{"name":"regi","vers":"0.1.3","deps":[],"cksum":"94cda446c23965565f653c3b315458ee6126bed376da926ba3ff9e4970068f7b","features":{},"yanked":false}
+{"name":"regi","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db003f30861166be91bc90720c91deaa14001e5683a7b18d22ee1be90ccd78f0","features":{},"yanked":false}

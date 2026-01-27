@@ -1,0 +1,1 @@
+{"name":"pi_wtree","vers":"0.1.0","deps":[{"name":"pi_dyn_uint","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5ec139ea8faae89ddc169074921960bd390a0cbbb98cc1dd3717e4fa1bfdaf20","features":{},"yanked":false}

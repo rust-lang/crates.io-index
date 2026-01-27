@@ -1,0 +1,6 @@
+{"name":"nvme","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8779774ed019503a6bcbda92004aa826dfb420f3dabe0591e9035fec86869675","features":{},"yanked":true}
+{"name":"nvme","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"769d5e9fca712130840c2ddcc690e7b9e618a6ac853ab12469d4522baf6b81f0","features":{},"yanked":true}
+{"name":"nvme","vers":"0.1.2","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc1415988a5830a9600fd30214a26cec425c7130b8b113536036105e0addc9ed","features":{},"yanked":true}
+{"name":"nvme","vers":"0.2.0","deps":[{"name":"crossbeam-queue","req":"^0.3.12","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2d9408210a747bfdf1445ec63c234a7b785976d494c1d4c3611f23a6abd9b560","features":{},"yanked":true}
+{"name":"nvme","vers":"0.2.1","deps":[],"cksum":"29b66ca8758fe47b58a68275b1a4708b65e51d4f6cd4ebaab3202d9b15e0ad1b","features":{},"yanked":true}
+{"name":"nvme","vers":"0.2.2","deps":[],"cksum":"755d247bd0b7dc6e98a338865f45d7a4072cb50705b770d061b9abb50cce82fe","features":{},"yanked":true}

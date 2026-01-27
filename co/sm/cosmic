@@ -1,0 +1,1 @@
+{"name":"cosmic","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99294ebe013170a29a7a36f498974f1ad5ee378ddb5ce5c98cfa3b2e2e08d35a","features":{},"yanked":false}

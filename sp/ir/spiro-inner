@@ -1,0 +1,1 @@
+{"name":"spiro-inner","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad0035e3e6451669d2355e03b9a1d8c98226b00f1993d31fda918580f718ae91","features":{"default":["log"]},"yanked":false}

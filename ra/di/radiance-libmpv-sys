@@ -1,0 +1,1 @@
+{"name":"radiance-libmpv-sys","vers":"3.1.0","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"402f5309cfe9cde90297d569599b9457ebc207072b2531f653c5c074f8e7575c","features":{"use-bindgen":["bindgen"]},"yanked":false}

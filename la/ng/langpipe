@@ -1,0 +1,2 @@
+{"name":"langpipe","vers":"0.1.0","deps":[{"name":"downcast-rs","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7276ff077de01e99957c2210360a2f09b6815bb7661f79206a85ec9c5d11b011","features":{},"yanked":false}
+{"name":"langpipe","vers":"0.1.1","deps":[{"name":"downcast-rs","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96825cab7ab556e713488edaf26700bee1c48f3d7a9faccc4a1a97286e4a95de","features":{},"yanked":false}

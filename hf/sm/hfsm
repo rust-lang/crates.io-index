@@ -1,0 +1,1 @@
+{"name":"hfsm","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":["async_tokio"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33a85a0e0c96724701a5b257622682050eb0033a6ff9d2f760008b5e093f7fdf","features":{},"yanked":false}

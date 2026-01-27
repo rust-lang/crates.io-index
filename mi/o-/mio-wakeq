@@ -1,0 +1,1 @@
+{"name":"mio-wakeq","vers":"0.1.0","deps":[{"name":"mio","req":"^1.0","features":["os-poll"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f32171b040e074c2308aeaa750831c0e5774178f8a65695ee9fb80be4938ce5c","features":{},"yanked":false}

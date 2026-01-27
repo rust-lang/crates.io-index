@@ -1,0 +1,2 @@
+{"name":"spi-handle","vers":"0.1.0","deps":[{"name":"embedded-hal-async","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3297c16e3c5437d99f52da23adf7b7ec2c0b142fd8c110d9c57576d5904f8d67","features":{},"yanked":false}
+{"name":"spi-handle","vers":"0.1.1","deps":[{"name":"embedded-hal-async","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bc96efb8a34d231f10c77dec5fca1d0d677c63eedfafdf361b2488fb697e12c","features":{},"yanked":false}

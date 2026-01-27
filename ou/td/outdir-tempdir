@@ -1,0 +1,2 @@
+{"name":"outdir-tempdir","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.3.0","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3c4b4da4098431378a81d1ea4949ed83aa336ecc71f793b3f0e3d4ca4027516","features":{},"yanked":false}
+{"name":"outdir-tempdir","vers":"0.2.0","deps":[{"name":"uuid","req":"^1.4.1","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f326cab07f78d6e26cbae17cb1b5aa5ec3cf856bcf7e2bbd06847677907612e","features":{},"yanked":false}

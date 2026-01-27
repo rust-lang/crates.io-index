@@ -1,0 +1,2 @@
+{"name":"lisp-by-rust","vers":"0.1.0","deps":[{"name":"codespan","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26efad7f5f31743c9a7e9c2672fbfc494ef47ffefe30f1bb8601cc9c2ef77c02","features":{},"yanked":false}
+{"name":"lisp-by-rust","vers":"0.0.9","deps":[{"name":"codespan","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18a844ebefb7ebe5beb84659752d4dc056c63c46656bdcac892dbe0905ec20df","features":{},"yanked":false}

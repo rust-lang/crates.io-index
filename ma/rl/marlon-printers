@@ -1,0 +1,2 @@
+{"name":"marlon-printers","vers":"2.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9338dceda5e8265092bfdb9a7953d6277f4570057003ee7096e9ebee7de8159c","features":{},"yanked":false}
+{"name":"marlon-printers","vers":"2.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a49caf01e208196f77865eb0bfcebb6f6e33da83156f7dd7e400bd7ff1efa91","features":{},"yanked":false}

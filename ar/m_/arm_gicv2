@@ -1,0 +1,1 @@
+{"name":"arm_gicv2","vers":"0.1.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47d25e73c949c69f75d1b9dba39c5475523403b31eb8c2fdc99da4dc33bc1aca","features":{},"yanked":false}

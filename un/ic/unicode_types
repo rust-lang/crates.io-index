@@ -1,0 +1,2 @@
+{"name":"unicode_types","vers":"0.1.0","deps":[],"cksum":"fcb3cb408077ce0071dfa7e1a962769da393be291694e4b5141af98f4152ecb5","features":{},"yanked":false}
+{"name":"unicode_types","vers":"0.2.0","deps":[{"name":"string_morph","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ad5cf130d9596c1a6a1b2b4b400753ff26b725534f33a7b431f1b798f9726ae","features":{},"yanked":false}

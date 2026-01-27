@@ -1,0 +1,5 @@
+{"name":"acon","vers":"0.3.3","deps":[{"name":"clippy","req":"^0.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2e90832fc2af29ba2ae02ab861c33e5e9d84f0b50ee7a947f2d8f18fa4a6bb2","features":{},"yanked":false}
+{"name":"acon","vers":"0.4.0","deps":[],"cksum":"a2522dba211cf39d99bfb23170ccd5890f9f34e95d6d9228f0ccb4e3e49de58d","features":{},"yanked":false}
+{"name":"acon","vers":"0.5.0","deps":[{"name":"clippy","req":"^0.0.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc12c00a799eb4e7291dc0e9be15ec46b88da844c62ab14b3ddb44227e4c5423","features":{},"yanked":false}
+{"name":"acon","vers":"0.5.1","deps":[],"cksum":"6957c685bab394a36cc190605d65d25676a156ee724c704380295222d1fe236e","features":{"default":[]},"yanked":false}
+{"name":"acon","vers":"0.5.2","deps":[],"cksum":"ba9f6e25959569ced74b9aa7dc7742ca9ce6c2383d7ef41a97d9e8f0016f9b34","features":{"default":[]},"yanked":false}

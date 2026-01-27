@@ -1,0 +1,1 @@
+{"name":"templer","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"14907fc23306d283531fa7123d845df6510aed1e7a80a9e5783c9a19bd771cb7","features":{},"yanked":false}

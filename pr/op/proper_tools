@@ -1,0 +1,1 @@
+{"name":"proper_tools","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"424f26ba6fcf468089b359b75ea54365c78f3faa919173cca886db15f99b2bb2","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"no_std":[],"use_alloc":[]},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"ucred","vers":"0.0.1","deps":[],"cksum":"6fca5446a6184ac3665cf9e3a4d1bdf4e18c6cf31b8e369ba03a73ccad0fe744","features":{},"yanked":true}
+{"name":"ucred","vers":"0.2.0","deps":[],"cksum":"309f29a33f6c66517988e3bc906c3f60790e329ebd99fe04fd270f4a22c4bcc6","features":{},"yanked":true}
+{"name":"ucred","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c238429c68b8ca97988c66ce8dadc0cf18416807392636a30b36cc55c7ab23a5","features":{},"yanked":false}
+{"name":"ucred","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a46ba96072d100423b60ef5b2b07295d427b23415c787446017e01da9c99f92","features":{},"yanked":false}
+{"name":"ucred","vers":"1.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4514743cfdebacacd3b6ff69dfc0256eae3a9622420e711423c748fdb395357a","features":{},"yanked":false}

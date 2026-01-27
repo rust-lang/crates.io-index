@@ -1,0 +1,2 @@
+{"name":"maglio","vers":"0.1.1","deps":[],"cksum":"b6f1b0b5527a5b45a07bc875dd8e40582f0523d3f3bbcca4387b07a3619a7aed","features":{},"yanked":false}
+{"name":"maglio","vers":"0.1.2","deps":[{"name":"ordered-float","req":"^2.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55a5071b91aaa6542e7f592eea9d6651eb38359ea299b9cfc60ddf7f3de80edf","features":{},"yanked":false}

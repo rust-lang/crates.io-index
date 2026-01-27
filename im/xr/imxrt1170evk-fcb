@@ -1,0 +1,2 @@
+{"name":"imxrt1170evk-fcb","vers":"0.1.0","deps":[{"name":"imxrt-boot-gen","req":"^0.3","features":["imxrt1170"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de54e9dd09c01cdca787c63bd033a75119a4f43fd38bb37e73903f45174464a3","features":{},"yanked":false}
+{"name":"imxrt1170evk-fcb","vers":"0.2.0","deps":[{"name":"imxrt-boot-gen","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88a8b1cb9130fe5713ab9be9a051705ded608a4a8d3dc32104abcdaa716583d1","features":{},"yanked":false}

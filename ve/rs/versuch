@@ -1,0 +1,1 @@
+{"name":"versuch","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e32ba481e100fd6cbada338a3dab9516da99d286aa2426f72c62c81eb21616cf","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rasp","vers":"0.1.0","deps":[],"cksum":"ab078fe455dc719a6a888a411b7889e2c86784735a4083554efacc1c1173f308","features":{},"yanked":false}
+{"name":"rasp","vers":"0.2.0","deps":[{"name":"ureq","req":"^1.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6cf437c6d6c333b6ce553954f33a8a73b45fde16ff6d7651878ae167b487bcdd","features":{},"yanked":false}

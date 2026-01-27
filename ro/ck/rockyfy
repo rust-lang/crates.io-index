@@ -1,0 +1,1 @@
+{"name":"rockyfy","vers":"1.0.0","deps":[{"name":"rodio","req":"^0.17.0","features":["mp3"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dc8198f5725dac03510e08f81149e04ec1e91839dd647f5c168b42bade351245","features":{},"yanked":false}

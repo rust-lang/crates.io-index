@@ -1,0 +1,1 @@
+{"name":"breezy-timer-lib","vers":"1.0.0","deps":[{"name":"cpu-time","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a6e0375052455bbb41f531b8907c6aead37a034a315fec8fb5edfe420e31a4e","features":{"breezy_timer":[]},"yanked":false}

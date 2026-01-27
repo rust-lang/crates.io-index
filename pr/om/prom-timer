@@ -1,0 +1,2 @@
+{"name":"prom-timer","vers":"0.1.0","deps":[{"name":"prometheus","req":">=0.4, <=0.13","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"05573caac02046697f10719301187bd70d369f8164f8b975994fda803f968852","features":{},"yanked":false}
+{"name":"prom-timer","vers":"0.1.1","deps":[{"name":"prometheus","req":">=0.4, <=0.13","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"14bbffc6207f6914d8a5a2116fd2a0cf08128b96c39aa8ebf919cd40923f3179","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mkdtemp","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.147","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93b27306419c07aca86140a406d01a04fac50434f40fa78c29e95d268e892d34","features":{},"yanked":false}
+{"name":"mkdtemp","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.147","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1f9af14c2347a8014983c0aa64fc9abb5270726d4d85002bf470306299c9e29","features":{},"yanked":false}

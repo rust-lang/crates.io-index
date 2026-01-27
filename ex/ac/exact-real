@@ -1,0 +1,1 @@
+{"name":"exact-real","vers":"0.0.0","deps":[{"name":"ibig","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9998676c4d671c17381ef92b168633f56c03cf947abf23fa277cf69c3c89955d","features":{"default":["std"],"std":[]},"yanked":false}

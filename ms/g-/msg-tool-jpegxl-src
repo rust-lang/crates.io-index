@@ -1,0 +1,1 @@
+{"name":"msg-tool-jpegxl-src","vers":"0.11.2","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5b6b09d7b013a95614b62ef2bf668b268853d9a3d90b93ada715f2007c815b8","features":{"threads":[]},"yanked":false,"rust_version":"1.81.0"}

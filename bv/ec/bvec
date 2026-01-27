@@ -1,0 +1,3 @@
+{"name":"bvec","vers":"0.1.0","deps":[{"name":"glam","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d42a6d81bc1d69cfdba85ae5ed6157b8916a83fa7551f1ef09119500c6114de","features":{},"yanked":false}
+{"name":"bvec","vers":"0.1.1","deps":[{"name":"glam","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21e5be34d335abc30281dfcfce3f9dfff9b201a8dacfc417bda13cc668d722ab","features":{},"yanked":false}
+{"name":"bvec","vers":"0.1.2","deps":[{"name":"glam","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d65c9227a526a54ff933f0057286dbdc7a1c3a802a8e1139ecae24f1b6b6fe27","features":{},"yanked":false}

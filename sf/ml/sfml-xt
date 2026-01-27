@@ -1,0 +1,2 @@
+{"name":"sfml-xt","vers":"0.1.0","deps":[{"name":"sfml","req":"^0.23.0","features":["graphics"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5af77a6e04dcffc16976325a6f7dcbe5a89d1e46b80e35c146aa97fe60daa62b","features":{},"yanked":false}
+{"name":"sfml-xt","vers":"0.2.0","deps":[{"name":"sfml","req":"^0.24.0","features":["graphics"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dfc9a7a7a111c2d3941a84ae7dd54af9e9ecb25f3f173088c1d038340a7f513d","features":{},"yanked":false}

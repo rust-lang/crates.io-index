@@ -1,0 +1,6 @@
+{"name":"darkdown","vers":"0.1.0","deps":[],"cksum":"40ab2e48eb9653a37a0b95dd5731c2d7683034a6666ef50ec07c78ecef9815c2","features":{},"yanked":false}
+{"name":"darkdown","vers":"0.1.1","deps":[],"cksum":"dff569e35a318c62561e3e2e77ee743dc4965534e2b462a9400a0947f6b9962f","features":{},"yanked":false}
+{"name":"darkdown","vers":"0.1.2","deps":[],"cksum":"db7004db1676a1494f147a5d10a30858cfdf60a14a11823cb4758a7ef0f7c83a","features":{},"yanked":false}
+{"name":"darkdown","vers":"0.1.3","deps":[],"cksum":"3ca822aa5bf81ac6bc75d7aa03ef9594dffddfc47d35302010f91dfff6c3d640","features":{},"yanked":false}
+{"name":"darkdown","vers":"0.1.4","deps":[],"cksum":"230b82b40833eb12833912d90233bbe5408522f69219cf6201efb2a202f80903","features":{},"yanked":false}
+{"name":"darkdown","vers":"0.1.5","deps":[{"name":"clap","req":"^4.4.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3a4af87fea5f39005bfb1887efb79b6ea5b085fbee3f92dffb1fd2308a20f6a","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"notepad-rs","vers":"0.1.0","deps":[],"cksum":"dfbbdfa108d6ef1b1e95614bea12861200652f839170650e7a009f4e04fef01c","features":{},"yanked":true}
+{"name":"notepad-rs","vers":"0.0.0","deps":[{"name":"iced","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04299760de3a5ec7a735c96e408a50d56a8216f21e0772faf9a8a43362404ed2","features":{},"yanked":false}

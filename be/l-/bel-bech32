@@ -1,0 +1,2 @@
+{"name":"bel-bech32","vers":"0.11.0","deps":[],"cksum":"03edcb4f3840921d3f5b8457a7ba904eaa89610b852144103e623cc566589a58","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
+{"name":"bel-bech32","vers":"0.11.1","deps":[],"cksum":"84a51c94acba6b435e2de7ef5c3b51a0d828c50b8e0167af107f9daa061294a2","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}

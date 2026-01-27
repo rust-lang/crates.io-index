@@ -1,0 +1,1 @@
+{"name":"tui-snake","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termion","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae117657cdb211d02edcb9094adcb5bebadfea8fc5262b64430f8528eabe26e","features":{},"yanked":false}

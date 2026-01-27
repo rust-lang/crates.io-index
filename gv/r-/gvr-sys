@@ -1,0 +1,9 @@
+{"name":"gvr-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3a5893f59cffed2b881fb1449458e034f39e0224c38df71992f31a7dd33fbff","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"04fa0b70e130eb0f6f4acecd6ad8e2e5f1de05e2a82f5dc93be1990961a06d93","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6d1509fd3afc12e136897e679ed6b0fac4ba67682cd4ed6fdab5593975116d07","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.4.0","deps":[],"cksum":"261d86a8936db5cd0ad4a664be00d06e43312551b29ec5726f663bb4fac7e682","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.5.0","deps":[],"cksum":"e84ba5e13cd925de87b669475525f956f8e936e67ddb24fbb1a077d96bbe174c","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.6.0","deps":[],"cksum":"92de62505f21ed0ce04f36cb0dca582a100fc4204d392e6b97bba2a15f9d24b3","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.7.0","deps":[],"cksum":"b1334b94d8ce67319ddc44663daef53d8c1538629a11562530c981dbd9085b9a","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.7.1","deps":[],"cksum":"497f434db373538ce6bfbeb233f2dae1cd7e6d8d89e59575721125193f61958a","features":{},"yanked":false}
+{"name":"gvr-sys","vers":"0.7.2","deps":[],"cksum":"d2a8e6ed12756f9e5fd8d50019e4f6839f50cf95f82657353e9d860730a5f797","features":{},"yanked":false}

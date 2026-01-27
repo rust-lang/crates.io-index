@@ -1,0 +1,2 @@
+{"name":"super_cell","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55230211f3da5a0313f141b9286b1ff03d19f8d65a4e7170919d1965964a8704","features":{},"yanked":false}
+{"name":"super_cell","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb639aa428a2524694fbfddbe661947001126c949d3f90b83893f3a7ab3611cd","features":{},"yanked":false}

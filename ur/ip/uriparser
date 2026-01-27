@@ -1,0 +1,2 @@
+{"name":"uriparser","vers":"0.1.0","deps":[{"name":"uriparser-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec2bee0f3bf68c6945f36bdac01fcbadef8ae3270ff62fed5dacfbdec600e48f","features":{},"yanked":false}
+{"name":"uriparser","vers":"0.2.0","deps":[{"name":"uriparser-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee272885830ba58ed399c8a52a0b560d497dadb5cd5847fe5a66b32c4bd42113","features":{},"yanked":false}

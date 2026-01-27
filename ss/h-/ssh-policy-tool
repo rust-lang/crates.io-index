@@ -1,0 +1,2 @@
+{"name":"ssh-policy-tool","vers":"0.0.0","deps":[],"cksum":"15b5999e2c505a38739d7cc9b65373f32ac14e500fed4adb72dd431e5c6790c8","features":{},"yanked":true}
+{"name":"ssh-policy-tool","vers":"0.1.0","deps":[{"name":"ssh-key","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f9fb3393e0f0c70a308ba4151341496c703ad3c36c95f1def4f43e5a8de2210","features":{},"yanked":true}

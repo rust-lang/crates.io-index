@@ -1,0 +1,5 @@
+{"name":"sndjvu_format","vers":"0.0.0","deps":[],"cksum":"a379ce112c5fea57dc1719edbd611fd959f7f49566e11ba0f998a03e5dabaeda","features":{},"yanked":true}
+{"name":"sndjvu_format","vers":"0.1.0","deps":[],"cksum":"af4777d6dbda22c3a810e58fd9a79b3ef4ea86548c008e8f354198f069e4b8be","features":{"backtrace":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"sndjvu_format","vers":"0.1.1","deps":[],"cksum":"100674357c0d1c0da275bfff745206f1ddcdc3bf345d7826ace6bebf9319a856","features":{"backtrace":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"sndjvu_format","vers":"0.1.2","deps":[],"cksum":"a2f6186f73e0fde53a175f5352fb8bf923f84b7b363e08513047b56179a7ef8e","features":{"backtrace":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"sndjvu_format","vers":"0.2.0","deps":[],"cksum":"8a49bf3cb286947889c1d0c4675393257725d9aea2fbefe15c1e56defa597c1b","features":{"backtrace":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}

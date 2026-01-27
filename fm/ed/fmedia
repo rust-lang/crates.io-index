@@ -1,0 +1,2 @@
+{"name":"fmedia","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3234a7378b8b18f7fa452a32c72aa10a8ca986b05b34bcfbca61ea6a810fbf7","features":{},"yanked":false}
+{"name":"fmedia","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c11103b6f828644a089f3b88290826cdfbe4e35a7222edf19e19b76897d9618b","features":{},"yanked":false}

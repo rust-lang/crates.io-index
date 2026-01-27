@@ -1,0 +1,2 @@
+{"name":"lombokrs","vers":"0.1.0","deps":[{"name":"lombokrs_codegen","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7d6d23f9ce5d72be3ccc6f18422ba5e1fbd48bc65f13e31546efe6ee8ffbbf2","features":{},"yanked":false}
+{"name":"lombokrs","vers":"0.2.0","deps":[{"name":"lombokrs_codegen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09632eab1f7f2b387f73529708f4630dd24813bceae22d9a4d304de268ebd609","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rp-mock","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6aacdd249b10faa5092131d3d64d9c100c81db14ee0f261d73b7851c691ccedb","features":{},"yanked":true}

@@ -1,0 +1,1 @@
+{"name":"swizzler","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43a1822ef5939b55f47ff2614f2909e4ee7f24a375042f8fde78c5e449e0d1db","features":{"default":["u8"],"u16":[],"u32":[],"u8":[]},"yanked":false}

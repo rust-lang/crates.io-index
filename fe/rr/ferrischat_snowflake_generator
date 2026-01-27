@@ -1,0 +1,4 @@
+{"name":"ferrischat_snowflake_generator","vers":"0.1.0","deps":[],"cksum":"aa2d3c5f0dbd9ffb055ca8373e09610edafb4f6ccf92d2eb0ab82405859e751e","features":{"default":["time-safety-checks"],"time-safety-checks":[]},"yanked":false}
+{"name":"ferrischat_snowflake_generator","vers":"1.0.0","deps":[],"cksum":"17dc9c9e2c29b2b3b814dce3aeea764a4dd6a38ef933db16c0bf924c59c83c8f","features":{"default":["time-safety-checks"],"time-safety-checks":[]},"yanked":true}
+{"name":"ferrischat_snowflake_generator","vers":"1.0.1","deps":[],"cksum":"3a9a223c65b767e793a74f1bf6777271984c7acc664e3347c558e8e7bbdee1d8","features":{"default":["time-safety-checks"],"time-safety-checks":[]},"yanked":false}
+{"name":"ferrischat_snowflake_generator","vers":"2.0.0","deps":[],"cksum":"cd32c7f0ea91ab0e23542881f3d05fd30196dd650b9b71a84d074b65bc00685d","features":{"default":["time-safety-checks"],"time-safety-checks":[]},"yanked":false}

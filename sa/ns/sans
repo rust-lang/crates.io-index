@@ -1,0 +1,2 @@
+{"name":"sans","vers":"0.1.0-alpha.3","deps":[{"name":"either","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6deeaebdf7e687a9956f5fd38cd8d0848f5172832eb560369ddb4bae1d1be9d5","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"sans","vers":"0.1.0-alpha.4","deps":[{"name":"either","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06bf3737ef0d17c375af4e01c92e5957e26c8359d356f3e1eda1d6e2564dc7b6","features":{},"yanked":false,"rust_version":"1.85.0"}

@@ -1,0 +1,4 @@
+{"name":"chain-assertions","vers":"0.0.1","deps":[],"cksum":"364f13943d548329cdc2507d9005689d4b56682ed0d9c755680af45be06a32d5","features":{"default":["std"],"passthrough":[],"std":[]},"yanked":true,"rust_version":"1.56.1"}
+{"name":"chain-assertions","vers":"0.1.0","deps":[],"cksum":"e8fae4ffb1f535b5eab4efaba9dbe70630c845a3388cd369048abdf40129a405","features":{"default":["std"],"passthrough":[],"std":[]},"yanked":false,"rust_version":"1.56.1"}
+{"name":"chain-assertions","vers":"0.1.1","deps":[],"cksum":"7070137ba6c0adf67ba0dcacb13e0e94654b98eb80b28162d4e7b1b8ae8e6771","features":{"default":["std"],"passthrough":[],"std":[]},"yanked":false,"rust_version":"1.56.1"}
+{"name":"chain-assertions","vers":"0.1.2","deps":[],"cksum":"2dc8ec23851567e1b6ed52ded92e551ef48a77ffacbe07e0736179af264afcf1","features":{"default":["std"],"passthrough":[],"std":[]},"yanked":false,"rust_version":"1.56.1"}

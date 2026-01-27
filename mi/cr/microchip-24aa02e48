@@ -1,0 +1,2 @@
+{"name":"microchip-24aa02e48","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc22197245f48f1f0f4a1d7bf85cf9dc8849eacf6f853bb291261a317178809e","features":{},"yanked":false}
+{"name":"microchip-24aa02e48","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9935e6dc929ccca397cba11ede06ba50b9063d4c2e8189351a5322fe61922a29","features":{},"yanked":false}

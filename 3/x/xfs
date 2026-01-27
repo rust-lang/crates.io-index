@@ -1,0 +1,2 @@
+{"name":"xfs","vers":"0.1.0","deps":[],"cksum":"f59f68faba47034cd71150adf283c7b8cdae28caecd21a0a5f49068f65d2d5b6","features":{},"yanked":false}
+{"name":"xfs","vers":"0.2.0","deps":[{"name":"nom","req":"~1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4960fb28aae5354f7e1ddf3953bff86427a098c42c5737b14419c66af9dfb967","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rf","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20305a5a02ff093b657936b09a4380f0bb8e38eda443beb37f23f53087193b22","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"uoctl","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a659d7a184468012c8a03b2ce63802af32274e0ba4f4f6f4636dae29608b25a9","features":{},"yanked":true,"rust_version":"1.85"}
+{"name":"uoctl","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2.172","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82a1984060a018034bd16642b1c25a2178cf211c3930abb0099f01e995b38eeb","features":{},"yanked":false,"rust_version":"1.85"}

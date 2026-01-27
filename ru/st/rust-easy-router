@@ -1,0 +1,2 @@
+{"name":"rust-easy-router","vers":"0.1.0","deps":[{"name":"iron","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e028fcde14a250a32c8f01ddfcd014985fa47b355b101837210e92830119e53e","features":{},"yanked":false}
+{"name":"rust-easy-router","vers":"0.1.1","deps":[{"name":"iron","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf68c8f291783c0d8bb254f8a561ba806ece042c45c1ea64a137f12e4fa5914","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"simple-xml-builder","vers":"1.0.0","deps":[{"name":"indexmap","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7a12a6dd16f84338edb4d53f8fb94a8acadc596ce866b5edc94b0b270b1c0c4","features":{},"yanked":false}
+{"name":"simple-xml-builder","vers":"1.1.0","deps":[{"name":"indexmap","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a50cb1e76f89e3c076f7ae0a609c4b0033c26034f740eddbeb761b64b2f42980","features":{},"yanked":false}

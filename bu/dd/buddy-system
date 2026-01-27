@@ -1,0 +1,2 @@
+{"name":"buddy-system","vers":"0.1.0","deps":[{"name":"generational-arena","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c1f47a64f3a9ef24cf9420af3e9bc01795139bbacd786f13c392d802135d9c9","features":{},"yanked":false}
+{"name":"buddy-system","vers":"0.2.0","deps":[{"name":"generational-arena","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e5c3fa927d927dae22f876a68ee01769a016c6ceb9004c5bf2fd1aad88464b0","features":{},"yanked":false}

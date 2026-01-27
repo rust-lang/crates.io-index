@@ -1,0 +1,4 @@
+{"name":"bkgm","vers":"0.1.0","deps":[],"cksum":"0981e41bcfc42f26a1873d5faa3e926480f50b692b92392e5122a5ba983ca3db","features":{},"yanked":true}
+{"name":"bkgm","vers":"0.2.0","deps":[{"name":"base64","req":"^0.21.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce00fa1f12cbfbd3a46d2585e2214f44ca21f3f1e2e27aa1a928486c31080a9f","features":{},"yanked":false}
+{"name":"bkgm","vers":"0.3.0","deps":[{"name":"base64","req":"^0.21.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe3ffdd6d4a51227e0febbb48f457f6fafb957b4430343f723fde41ffc0c35c9","features":{},"yanked":false}
+{"name":"bkgm","vers":"0.3.1","deps":[{"name":"base64","req":"^0.21.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa4acd56571bffe52e8303735adc9d7610b7b00ce2bbd293b48d1c946d798444","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"sig","vers":"0.1.0","deps":[],"cksum":"d49d3bc47b462754c8a16c0a20103f87b46ae681a54eec39d3c02f7c819a7411","features":{},"yanked":false}
+{"name":"sig","vers":"0.1.1","deps":[],"cksum":"c6649e43c1a1e68d29ed56d0dc3b5b6cf3b901da77cf107c4066b9e3da036df5","features":{},"yanked":false}
+{"name":"sig","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6567e29578f9bfade6a5d94a32b9a4256348358d2a3f448cab0021f9a02614a2","features":{},"yanked":false}

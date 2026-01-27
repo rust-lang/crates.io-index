@@ -1,0 +1,2 @@
+{"name":"ebcandle-kernels","vers":"0.7.2","deps":[{"name":"bindgen_cuda","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6fc61031575b8458899fb069db08c86c69de104704ec587d04c55260c871fcb3","features":{},"yanked":true}
+{"name":"ebcandle-kernels","vers":"0.7.3","deps":[{"name":"bindgen_cuda","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"09c1e4541ec47faeb2c094a05bcd4586ea3958ab367a5f68efe74ec77bdcad47","features":{},"yanked":true}

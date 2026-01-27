@@ -1,0 +1,2 @@
+{"name":"py-regex","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.24.1","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22c10bd22cdd0573e44dd5223e51165ff6f60ba7929bd7cbe8386606baf17947","features":{},"yanked":false}
+{"name":"py-regex","vers":"0.1.1","deps":[{"name":"pyo3","req":"^0.24.1","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8915eebdd27bb2a65aba079a096a5e936d4bba184c80153b06996f4577bcc92c","features":{},"yanked":false}

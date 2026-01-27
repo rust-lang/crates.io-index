@@ -1,0 +1,7 @@
+{"name":"wgsl-macro","vers":"0.1.0","deps":[],"cksum":"4233399157c74d72b9e702bccdda1bb86fff374b6123223ce421f5cca8df213c","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.2.0","deps":[],"cksum":"0f81e0a2077bf8dc2311213196ed30f0772795dd04651654896b764eeefc9bd7","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.2.1","deps":[],"cksum":"550cd0924930d8b2f46153d97bd6d9770dd49fdd4da426c35474cb81e912550c","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.2.2","deps":[],"cksum":"c2eaba011351b96550c3c3e254e6332f758640903e7e5f8c39c69e4820c88ae0","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.3.0","deps":[{"name":"pollster","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6436857f8f2d6f8ea63b796a296117838e5a9b939d7ef6e3248a1ba73b22f011","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.3.1","deps":[{"name":"pollster","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"62cebdbe07343a602e079397bef66f9e64065eb01bf18173ce00a44017ed664b","features":{},"yanked":false}
+{"name":"wgsl-macro","vers":"0.3.2","deps":[{"name":"pollster","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0.219","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"352be560369fcefc0cb9c62fb2a7c4c2d5c191f3af62b8bf9f0b4beae0e81b64","features":{},"yanked":false}

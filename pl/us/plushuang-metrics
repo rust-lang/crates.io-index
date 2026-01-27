@@ -1,0 +1,2 @@
+{"name":"plushuang-metrics","vers":"0.1.0","deps":[{"name":"sysinfo","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d732fd266f4faffbb30dc700c70d9b6f9c34d3258658f901b4e9e6e644dd235e","features":{},"yanked":false}
+{"name":"plushuang-metrics","vers":"0.2.0","deps":[{"name":"sysinfo","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05386f83d38a0c09cd7f05fa6133ddd6015240180c388a4ba1b96bf8c823d352","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"pillow-fs","vers":"0.3.0","deps":[],"cksum":"ebd947b5fdad809dbfc35a61113cf1154ed3dc56feb90fbc946e378bafab989d","features":{},"yanked":false}
+{"name":"pillow-fs","vers":"0.4.0","deps":[],"cksum":"d2c986165bdaa319b65b4eaeeb391ff5dd690730f2e4b43cb17b03aaad071ab0","features":{},"yanked":false}
+{"name":"pillow-fs","vers":"0.4.1","deps":[],"cksum":"176c49a9c5030a0fefbed6853a92f0d107a6d334f0df32139704629015989127","features":{},"yanked":false}
+{"name":"pillow-fs","vers":"4.2.0","deps":[{"name":"mime_guess","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"906f4009a1f5d7b0ab2cf3f060c590bf6ce719d718a6ad1fbec6ae4571418aae","features":{},"yanked":false}

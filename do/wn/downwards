@@ -1,0 +1,3 @@
+{"name":"downwards","vers":"0.0.1","deps":[],"cksum":"b7495ad3f24adc0fe7296d61500e3d9d45e6440c5ff77df281236222413b612c","features":{},"yanked":true}
+{"name":"downwards","vers":"0.0.2","deps":[{"name":"downwardsdep","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"downwards"}],"cksum":"a8ac4bf0f99eecd72912804b3dc99cc612331bfc955c60d37e4918c07ce9c922","features":{},"yanked":true}
+{"name":"downwards","vers":"0.0.3","deps":[{"name":"downwardsdep","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"downwards"}],"cksum":"ad8024ddf82a8025685ef8589f121220eb6b0b62d35b46fe310c8f39672d1c04","features":{},"yanked":true}

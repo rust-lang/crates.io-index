@@ -1,0 +1,1 @@
+{"name":"win32_notification","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["shellapi","combaseapi","errhandlingapi","impl-default","winerror","impl-debug"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"364cdb51ad77d274630365572788fd9653312eb271cf11735b995f4d672271ee","features":{},"yanked":false}

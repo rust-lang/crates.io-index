@@ -1,0 +1,2 @@
+{"name":"dvdread-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"76190860035fa03f8fab61926b1fc353f91149e7ee1dacec57c8dd9b10739931","features":{},"yanked":false}
+{"name":"dvdread-rs","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.71.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e831a87809c05803f707e466ba2bd64261f15722877e6870bd49c3b5aa1f6941","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rustenium-macros","vers":"0.1.0","deps":[{"name":"rustenium-bidi-commands","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31cf0a8c52aa52d35d0cfa2850864e6d148e7e884c69dc8571279bfa44a5d97e","features":{},"yanked":false}
+{"name":"rustenium-macros","vers":"0.1.1","deps":[{"name":"rustenium-bidi-commands","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"821fe2f5f832f3db72c5fbae6755c9407db5dc6d8e3f35e32f8bae64456019c5","features":{},"yanked":false}

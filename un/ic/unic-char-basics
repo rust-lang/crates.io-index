@@ -1,0 +1,2 @@
+{"name":"unic-char-basics","vers":"0.8.0","deps":[{"name":"unic-char-range","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8cd427a8fe91507b4fab3aa0b462884601f94df2f46120ddbc00c8c11de2d25e","features":{},"yanked":false}
+{"name":"unic-char-basics","vers":"0.9.0","deps":[{"name":"unic-char-range","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20e5d239bc6394309225a0c1b13e1d059565ff2cfef1a437aff4a5871fa06c4b","features":{},"yanked":false}

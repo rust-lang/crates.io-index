@@ -1,0 +1,1 @@
+{"name":"rust_bridge_traits","vers":"0.1.0","deps":[{"name":"neon","req":"^0.10","features":["napi-6"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd6b11b924e2c5eeed118d8544e032e06809b3026c545a500cca52172f095063","features":{},"yanked":false}

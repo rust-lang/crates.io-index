@@ -1,0 +1,2 @@
+{"name":"coffee-time","vers":"0.0.1","deps":[],"cksum":"f3b0885520237fc7532a57e838fe1277e741fa20717b1076db45b421f9048105","features":{},"yanked":false}
+{"name":"coffee-time","vers":"0.0.3","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4.3.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fe6fd00b234b8d817a0c6fdb2802039099d35130834421e5d54275dd75b42d5","features":{},"yanked":false}

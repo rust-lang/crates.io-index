@@ -1,0 +1,1 @@
+{"name":"pmem-log","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pmemlog-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"499b309d7334a0384021a06bf3bec230b0fc964a27d94fe9074d653c98a2d6ab","features":{},"yanked":false}

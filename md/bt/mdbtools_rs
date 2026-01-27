@@ -1,0 +1,4 @@
+{"name":"mdbtools_rs","vers":"0.1.0","deps":[],"cksum":"c4b66172c94d397bb5e465cf5454de4daecce3965d69e93e0b7c89f5b3642c10","features":{},"yanked":false}
+{"name":"mdbtools_rs","vers":"0.1.1","deps":[],"cksum":"abb1bf65ea4f3034685b9c25295e188782e8e4bfc45287d8187b28e4bb9088dc","features":{},"yanked":false}
+{"name":"mdbtools_rs","vers":"0.1.2","deps":[],"cksum":"cb1bf6f5f15919d6e25fed2a46d579a5fcc4d3321cd4d04d02366f0c7a2ca497","features":{},"yanked":false}
+{"name":"mdbtools_rs","vers":"0.1.3","deps":[{"name":"version-sync","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"319c91ad5a177138a8c05a38f6dc344c14cbb7cd516ea3b0c7ca6b675c5d8196","features":{},"yanked":false}

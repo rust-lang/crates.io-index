@@ -1,0 +1,2 @@
+{"name":"irox-arch-x86-64","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"347bac279d8d39fe54b775ed94e5173d04fdf154fe5a13b7c8cf446b88a2a8ce","features":{},"yanked":false}
+{"name":"irox-arch-x86-64","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"952dd670630c1638a752f4b4c47556a66e12014e91f6a55cd2bf8640f27310c3","features":{},"yanked":false}

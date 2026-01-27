@@ -1,0 +1,5 @@
+{"name":"say-hello-rector","vers":"0.1.0","deps":[],"cksum":"cc43bea4d4afc740177be758ed51bda17f099ad00ebe70766ab5c84e714131cb","features":{},"yanked":false}
+{"name":"say-hello-rector","vers":"0.2.0","deps":[],"cksum":"35b3515fb31f74550808b7c4d52980ee35883e948979e66c6355aff9f0c0839d","features":{},"yanked":false}
+{"name":"say-hello-rector","vers":"0.3.0","deps":[],"cksum":"567448eb677a38fcbaa8b41aa0b8514c430591b2da1dee3be8ef798c0ee3d8a1","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-rector","vers":"0.3.1","deps":[],"cksum":"328ec3903884b4828f8b0f03613ba9f25d79dd58bdc99aafde30eaf675870797","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-rector","vers":"0.3.2","deps":[],"cksum":"0227acb3d2e5506e8c199a29202ba1538085a4f0490bb58968d7896d22165889","features":{"bye":[],"default":["hello","bye"],"hello":[]},"yanked":false}

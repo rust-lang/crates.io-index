@@ -1,0 +1,2 @@
+{"name":"color_parser_lib","vers":"0.1.0","deps":[],"cksum":"0c9309167c9bd34f7217196d35fe5c3bef79e0be1e255a5736d7eaa34ce6d5a0","features":{},"yanked":false}
+{"name":"color_parser_lib","vers":"0.1.1","deps":[{"name":"owo-colors","req":"^4.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7618f97d5327d5ebc78bc6883036d6e068c147501a8a82fca5660a68b50f6ae1","features":{},"yanked":false}

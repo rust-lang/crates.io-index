@@ -1,0 +1,1 @@
+{"name":"lzlib","vers":"0.1.0","deps":[{"name":"lzlib-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d0cf4b4f7ef77991c98f277ca277342e205086a08e9150efd55bfb2c5e743f3","features":{},"yanked":false}

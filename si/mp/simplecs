@@ -1,0 +1,3 @@
+{"name":"simplecs","vers":"0.1.0","deps":[],"cksum":"f495b6fe2167091879ec9878149acc65182e78e74bc9d2da463b4457a911209d","features":{},"yanked":true}
+{"name":"simplecs","vers":"0.1.1","deps":[],"cksum":"da144970843e1968a8f0b7fb64f405ac9d73f6eb043403754cff8e7f3032aa80","features":{},"yanked":false}
+{"name":"simplecs","vers":"0.1.2","deps":[{"name":"simplecs_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d35ab360a9278ac33cd50a772443681e5f8003d7f4cc3c4d5e3d278f2b233e6","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"ftnet-sdk","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c97e33ece69acaf3d28fcf5cb698251dfda03fc13032940f783fef12ee25fdc","features":{},"yanked":false}

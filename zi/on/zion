@@ -1,0 +1,2 @@
+{"name":"zion","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d23cf9ecdc558c36b755cde2df2bd0f281161277947ef2c6458640d270113ed","features":{},"yanked":false}
+{"name":"zion","vers":"0.1.1","deps":[{"name":"clap","req":"^3","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6d035c3937fef82e1fe63f36ac3eb24bc77069e70bc07f8a3c7033e441d1529","features":{},"yanked":false}

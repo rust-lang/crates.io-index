@@ -1,0 +1,2 @@
+{"name":"smac","vers":"0.1.0","deps":[],"cksum":"d1e2b48d52a5a3e2fac9f85c9b06696160000057faa42a45ec1320430f16ed35","features":{},"yanked":false}
+{"name":"smac","vers":"0.2.0","deps":[{"name":"zerocopy","req":"^0.8.27","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0106b72b832ca2910ff49d9b83522241b6bf567d2ad71223ee9ad0f8624fefe","features":{"default":[]},"features2":{"zerocopy":["dep:zerocopy"]},"yanked":false,"v":2}

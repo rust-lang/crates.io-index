@@ -1,0 +1,1 @@
+{"name":"memcache-rawl","vers":"0.1.20250514","deps":[{"name":"tokio","req":"^1.45","features":["io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f98c4f1656bb339f7ff3b52cd93a7069eac954185b1252558e25c4a564d77d","features":{},"yanked":false}

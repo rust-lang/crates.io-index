@@ -1,0 +1,1 @@
+{"name":"opengemini","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.12.7","features":["json","__rustls"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a18ee279ea7a854fc878f08857c09fa45f307c8369f44025515909c3eea0bf27","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rat_congestion","vers":"0.1.0","deps":[{"name":"fastrand","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d51dd9add83a03477d46bccb65fbe63f65b4b2938c50a2b4ed791f0a3dc5956","features":{"bbr":[],"cubic":[],"default":["bbr","cubic"],"platform-optimized":[],"simd":[]},"yanked":false}

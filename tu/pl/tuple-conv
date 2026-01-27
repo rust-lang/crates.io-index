@@ -1,0 +1,2 @@
+{"name":"tuple-conv","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1caaf98f5e1cde1926d80525ab085aa9652dd753d327cb67b080948e76b67ed3","features":{},"yanked":false}
+{"name":"tuple-conv","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1fd6314683350324c1bb3d71a65fbeacb4e870cb4faf30b28d8a7787fb8116dd","features":{},"yanked":false}

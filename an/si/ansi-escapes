@@ -1,0 +1,3 @@
+{"name":"ansi-escapes","vers":"0.1.0","deps":[{"name":"tempfile","req":"^2.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"163bff5f88583fe2d90e3002ea2a3b613c93b5e3eb84daf7fd539032e32a68b3","features":{},"yanked":false}
+{"name":"ansi-escapes","vers":"0.1.1","deps":[{"name":"tempfile","req":"^2.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e3c0daaaae24df5995734b689627f8fa02101bc5bbc768be3055b66a010d7af","features":{},"yanked":false}
+{"name":"ansi-escapes","vers":"0.2.0","deps":[],"cksum":"10b98e9c74265950a28ae39c02e290858714c23071ab4f71c61d2908e2edfe44","features":{},"yanked":false,"rust_version":"1.56"}

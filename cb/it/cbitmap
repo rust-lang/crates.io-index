@@ -1,0 +1,6 @@
+{"name":"cbitmap","vers":"0.1.0","deps":[],"cksum":"5de52f6b5c712a49e52996e5e20411eee2506ff749473c37b18d6999be2f144a","features":{},"yanked":false}
+{"name":"cbitmap","vers":"0.1.1","deps":[],"cksum":"30588963cc17d5d0ae9628869216be08161ddcea3f02fc1a3a8f0b0b947d13a1","features":{},"yanked":false}
+{"name":"cbitmap","vers":"0.2.0","deps":[],"cksum":"b2838a479179e78f6b764839787ab8a39bcc82e24965032bde734ca2ca997c88","features":{},"yanked":false}
+{"name":"cbitmap","vers":"0.3.0","deps":[],"cksum":"797cdbf5bb99ff7d24f8f50329b0f49d56063f4331d5c203dfdd6e6e0c6dbc0b","features":{},"yanked":false}
+{"name":"cbitmap","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"431acdfdf8aff9e267b8f8ba31f7d2db56f52364594f1490b1c7b7ce79a80967","features":{},"yanked":false}
+{"name":"cbitmap","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"223f2181eaaac1ec77a20f2d02c4a19c8ceaee207393e1bc7d3759d8fa76f6c4","features":{},"yanked":false}

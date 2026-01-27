@@ -1,0 +1,2 @@
+{"name":"seep","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f958ac362260d28f8cdb50523d566757b95d2ec74ba8d6acd2e4afadf4cf0b30","features":{},"yanked":false}
+{"name":"seep","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4037068402f0a2b9271703fcd4ad2ad9e5e42702cc194fc5463a354a21c728f1","features":{},"yanked":false}

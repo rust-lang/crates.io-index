@@ -1,0 +1,2 @@
+{"name":"thin-shunting","vers":"0.0.7","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dda93f5ad951fb4904e077d04d860944e79342bc97d755480ad0b959f9bbdc4","features":{},"yanked":false}
+{"name":"thin-shunting","vers":"1.0.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b539873c5572b3469b38efddcda7cac1d2c95bbeafc64b5add20e74f27d5c2a","features":{},"yanked":false}

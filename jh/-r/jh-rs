@@ -1,0 +1,1 @@
+{"name":"jh-rs","vers":"0.1.0","deps":[{"name":"jh-ffi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3bb4398b01c75ab13ab3d1ae1a5d5cc8f18905168460de8734a3622534f51684","features":{},"yanked":false}

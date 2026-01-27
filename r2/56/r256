@@ -1,0 +1,2 @@
+{"name":"r256","vers":"0.1.0","deps":[{"name":"winapi-util","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"915fbf4e56c80d2439bbe1333e9d52510e303c144ffb0159d4f5f94fd3a15629","features":{},"yanked":false}
+{"name":"r256","vers":"0.1.1","deps":[{"name":"winapi-util","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"bddc25efed11cd4d9a77d32e83900cdb12d4dc00b826a26ccf8d1643dd37ed81","features":{},"yanked":false}

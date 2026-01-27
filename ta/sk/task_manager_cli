@@ -1,0 +1,1 @@
+{"name":"task_manager_cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e567d9a1a1d2a47c2d67e86863dee6e461e7ebb291d92811a50963fe8b91579b","features":{},"yanked":false}

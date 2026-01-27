@@ -1,0 +1,3 @@
+{"name":"rusty-basic","vers":"0.1.0","deps":[{"name":"rustyline","req":"^14.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"037dcb6901f4d690096611dde200701e085b2bf660d36f2576ad705acabaa02f","features":{},"yanked":false,"rust_version":"1.81.0"}
+{"name":"rusty-basic","vers":"0.2.0","deps":[{"name":"rustyline","req":"^14.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"780540fa700066ba6ca08854ad1122b34b33f84b07ca7f9831dda3d6874ce513","features":{},"yanked":false,"rust_version":"1.81.0"}
+{"name":"rusty-basic","vers":"0.3.0","deps":[],"cksum":"cf130f826a4edae3a4d0edd3fd169dd2ab21b9fb80ca02915b00dadf4f74a43d","features":{},"yanked":false,"rust_version":"1.81.0"}

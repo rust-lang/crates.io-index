@@ -1,0 +1,3 @@
+{"name":"lexigram-core","vers":"0.8.0","deps":[],"cksum":"76d8843f4de0e80488bcb5e2ba06d5b55c757a503fb07acbd23770753c2b68ad","features":{"default":["generated_tests"],"generated_tests":[],"test_utils":[]},"yanked":false,"rust_version":"1.85.1"}
+{"name":"lexigram-core","vers":"0.8.1","deps":[],"cksum":"fe53b49484a6eb99b8a5bd3b24d20b2045975375689650ffb58d539435911c9e","features":{"default":["generated_tests"],"generated_tests":[],"test_utils":[]},"yanked":false,"rust_version":"1.85.1"}
+{"name":"lexigram-core","vers":"0.8.2","deps":[],"cksum":"9206878464f5b9e2f03f7354a95b7897a1f8db9dc00d43f0beb40ccb3ce13013","features":{"default":["generated_tests"],"generated_tests":[],"test_utils":[]},"yanked":false,"rust_version":"1.85.1"}

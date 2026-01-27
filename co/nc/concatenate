@@ -1,0 +1,2 @@
+{"name":"concatenate","vers":"1.0.0","deps":[{"name":"structopt","req":"^0.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ad4794242d28b875a950c03e44ce5c1d1cdb79f67bba1cb651b454b4d6e7c92","features":{},"yanked":false}
+{"name":"concatenate","vers":"1.0.1","deps":[{"name":"structopt","req":">= 0.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dd27fb8e98a6747f65c4b95ba7a78db8fad878324f932305964f5298eb7d19b","features":{},"yanked":false}

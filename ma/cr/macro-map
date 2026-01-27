@@ -1,0 +1,2 @@
+{"name":"macro-map","vers":"0.1.0","deps":[{"name":"postfix-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20b284140378d3fdca6a8fa02feedde0d7865e9535eb68d07bb6beefb7ba2720","features":{},"yanked":false}
+{"name":"macro-map","vers":"0.2.0","deps":[{"name":"postfix-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ad9fcd4228a8bd34944427a4a3ad8956a83a6e3d5b505c663c7797089932033","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"figue-attrs","vers":"0.0.0","deps":[],"cksum":"9f37952a4e226e5eca3538c64bf26eda1ae47d4ec08be6b9717c86c115a95faa","features":{},"yanked":false,"pubtime":"2026-01-26T17:54:51Z"}
+{"name":"figue-attrs","vers":"1.0.0","deps":[{"name":"facet","req":"^0.43","features":["indexmap","camino","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd7dbecbc9d5a4596393c374ebc4ed2888e9429c535ee1cf8b0ad871d893b6bf","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-01-26T18:12:54Z"}

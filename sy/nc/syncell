@@ -1,0 +1,2 @@
+{"name":"syncell","vers":"0.0.1","deps":[],"cksum":"732d8ec6ef124a0f8fa07bc7e67550972b9781ed97465629757348369ce83f21","features":{},"yanked":false}
+{"name":"syncell","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a36177f8e8830b41920b4bcda0d38ab27e6abc6310714e9b9452b05edf27aef","features":{},"yanked":false}

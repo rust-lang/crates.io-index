@@ -1,0 +1,2 @@
+{"name":"derive-insert","vers":"0.1.0","deps":[{"name":"derive-insert-impl","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"029b73c1ea70c7f228fa743b04cc0121c766a4a4f7b50aec220248cdb4ceee37","features":{},"yanked":false}
+{"name":"derive-insert","vers":"0.1.1","deps":[{"name":"derive-insert-impl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eaf2150b07a5ca1027daf6990fcfe986c09aac0eabef0400063d3644207e000","features":{},"yanked":false}

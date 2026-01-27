@@ -1,0 +1,2 @@
+{"name":"dvcompute_network","vers":"1.3.3","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bb302ff3fc32b8393e537b7c6bc4f88591bc4d7b11ce745b6ddeb870d0ed1a8","features":{},"yanked":false}
+{"name":"dvcompute_network","vers":"2.0.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3a1ebf5a95de450fa25a8bb2ac15141ada19ab19f68c1451e12cc1cf4874874","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"avila-primitives","vers":"0.1.0","deps":[{"name":"avila-nucleus","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9bc79cfc56ae7c5fd3bb742e0738810151696fc2ba6163dd2164fe4b670c021","features":{"default":["simd"],"simd":["avila-nucleus/simd"],"std":["avila-nucleus/std"]},"yanked":false,"rust_version":"1.70"}

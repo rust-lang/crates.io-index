@@ -1,0 +1,6 @@
+{"name":"utf8-bufread","vers":"0.1.1","deps":[],"cksum":"b1f33c5b229e0f8fd1c274f12174a89d71e463909fbf64177a70cde3f6bf7cb9","features":{},"yanked":true}
+{"name":"utf8-bufread","vers":"0.1.2","deps":[],"cksum":"b6d1ffb11fc74ce7b0e1e72d7e0f2c2a2ad8ba0306d7cf987ede837bb3613056","features":{},"yanked":true}
+{"name":"utf8-bufread","vers":"0.1.3","deps":[],"cksum":"d36bceef56e30438ebfd335d656485d818e2f9a2c6532bac28ea4c0b1b0a6dc7","features":{},"yanked":true}
+{"name":"utf8-bufread","vers":"0.1.4","deps":[],"cksum":"5d978ead8a6dca2542059ec2488aa4fd9a11b3310ab6f0606dd4afc30242c9e4","features":{},"yanked":true}
+{"name":"utf8-bufread","vers":"0.1.5","deps":[],"cksum":"0a48166cfc10de35e040a2eae7e76dd19e1772ae5f3fab67c55043ab5f6a27e7","features":{},"yanked":true}
+{"name":"utf8-bufread","vers":"1.0.0","deps":[{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6ec9133b06d6f0b8637205906bbeb6df78155559b8a311741f36c559488e0c10","features":{},"yanked":true}

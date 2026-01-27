@@ -1,0 +1,7 @@
+{"name":"membank","vers":"0.1.0","deps":[],"cksum":"c5246298c73a344abb8e0dac785e45d1f153e5f48954750885f0d77298a005d9","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"membank","vers":"0.2.0","deps":[],"cksum":"ed48f1d81d408006f8b5698e59a348b5a2fb06bb57123cca2dc2f3fb1760845d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"membank","vers":"0.3.0","deps":[],"cksum":"c6c6c274f1db5e9247ce427d89ec0c3014876626890f960864e5d4e4a5ea9180","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"membank","vers":"0.4.0","deps":[],"cksum":"58ba751c76563e59b71bf9d3d656293d28011575a981ffbcf01932bcfaec9b0b","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"membank","vers":"0.4.1","deps":[],"cksum":"52fae0ebffac10f56d78d4a97fabb2e37e6b21819639f0a09490b2cb9cb955a8","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"membank","vers":"0.5.0","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3293aad37da567fc1a7ad500f7faa3798ebbacbb86549ce9eb55a0151d799610","features":{"default":["std"],"std":["crossbeam-channel/std"]},"yanked":false}
+{"name":"membank","vers":"0.5.1","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0f0430a86b9ec2c312f48e38b5779c0267b14719645d0f86da2373ef60798601","features":{"default":["std"],"std":["crossbeam-channel/std"]},"yanked":false}

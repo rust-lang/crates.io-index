@@ -1,0 +1,2 @@
+{"name":"try_collections","vers":"0.1.0","deps":[],"cksum":"1c5213e922f0a24bd9680f46db6cd159019f30e96c675a3b8a7aa593bbfcc775","features":{},"yanked":false}
+{"name":"try_collections","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.8.2","features":["raw"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e60ea888f53ef115d927d029f0ec499e94fc2fc9976b9960ccf22247c93e854","features":{},"yanked":false}

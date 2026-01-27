@@ -1,0 +1,1 @@
+{"name":"ilass","vers":"2.1.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86c8e55d23804f3ce04ff90062ee817883000bc21d0f6c8dbac2f05718d3db83","features":{"default":[],"nosplit-heap-sort":[]},"yanked":false}

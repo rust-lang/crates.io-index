@@ -1,0 +1,1 @@
+{"name":"quantus-miner-api","vers":"0.0.3","deps":[{"name":"serde","req":"^1.0.214","features":["derive","alloc","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3c4679baded32201e79442bd57f9d4d69b72f0f4b9111e7e6ee2428cc04f30bb","features":{},"yanked":false}

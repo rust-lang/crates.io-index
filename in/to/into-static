@@ -1,0 +1,6 @@
+{"name":"into-static","vers":"0.1.0","deps":[],"cksum":"44c6522a8905d88aded59067ae24068cd8bfed5aafb9c78e3cb1f0529687b32b","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"into-static","vers":"0.2.0","deps":[],"cksum":"85e421a392e8fa66aec93ed0b2f8d80707d63944635497c39c91fc5b922edb33","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"into-static","vers":"0.2.1","deps":[],"cksum":"bf4c638b20d3d013948eb14a00774654303b7e40b286fa20330d479107e83058","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"into-static","vers":"0.3.0","deps":[],"cksum":"28524246d105bbb0f215d2b06bb6f55849524596780c51efaf99e7425f92f253","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"into-static","vers":"0.4.0","deps":[],"cksum":"1c9ddcff4104f25cc4ea5ec95b347e7ac41647ecb48cb7c273fb18ced32c13e4","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"into-static","vers":"0.5.0","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04b44893b027a9141c0583d3e78109fee44e64a35838197235fac70489b79906","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}

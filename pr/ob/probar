@@ -1,0 +1,2 @@
+{"name":"probar","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7758e33fc1d0a0c0d0c68285fb276100d2cefd9d704ee16bc998796406367cb2","features":{},"yanked":false}
+{"name":"probar","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1cde855ebc8a1d80d6d89d83a5a05889728a631be219a1bb0f94216ef85f928","features":{},"yanked":false}

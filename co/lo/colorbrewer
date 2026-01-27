@@ -1,0 +1,2 @@
+{"name":"colorbrewer","vers":"0.1.0","deps":[],"cksum":"84043c4c020dc2ec08f7cde95248fbb9d2d96a6a17284378d0dfba4f7f8839bb","features":{},"yanked":false}
+{"name":"colorbrewer","vers":"0.2.0","deps":[{"name":"rgb","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"525be5012d97bc222e124ded87f18601e6fbd24a406761bcb1664475663919a6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"inti25_rust_lib1","vers":"0.0.1","deps":[],"cksum":"e8755fda653a7d669929cb23e765b62171bd3a9c9add41683e7e7294f09605a5","features":{},"yanked":false}
+{"name":"inti25_rust_lib1","vers":"0.0.2","deps":[{"name":"inti25_solana_lib","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0164256ce34cd983249e7228ed726de2720e9a7a8c5f7cc1726da5f0be8624d3","features":{},"yanked":false}

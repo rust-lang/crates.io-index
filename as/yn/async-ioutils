@@ -1,0 +1,1 @@
+{"name":"async-ioutils","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.29","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b7e0b7ba34a790452bca8121fd685b3d608fb857a0c70e18d0b681815b4326c","features":{"default":[]},"yanked":false}

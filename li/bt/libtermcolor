@@ -1,0 +1,2 @@
+{"name":"libtermcolor","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2d3d790bf46c8762cce6c6fa4b131d6fd31aa2490edc04cf0a808d6eaf77f62","features":{},"yanked":false}
+{"name":"libtermcolor","vers":"1.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24a35a3e0683971a6daf8b1299a5dbae30f8f69c6e8b0557f4673a494e642a45","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"split-digits","vers":"0.1.0","deps":[],"cksum":"6c4876822165993dc4dd35fd59bd7b5d604eeb7b771a33ff9c4ff3e7ac666e2b","features":{},"yanked":false}
+{"name":"split-digits","vers":"0.1.1","deps":[],"cksum":"8e42b8bfda36022e0ec86658a35161b88abd367297df7fe88175617b483072e8","features":{},"yanked":false}
+{"name":"split-digits","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4dd87aa6f24259162361f39bb4e2cca52d02251aa43fe0ac1d6d110407faf710","features":{},"yanked":false}
+{"name":"split-digits","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3a7adcfb6d58efd3f456b631eadbcae0ebd9ca47fdf5563a8349c54cc4c14b8","features":{},"yanked":false}
+{"name":"split-digits","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c35d068f517f96390c545b32f8d5d3b8e46c25738b42ba9ed52e1d617dd4a703","features":{},"yanked":false}

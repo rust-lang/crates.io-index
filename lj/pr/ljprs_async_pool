@@ -1,0 +1,1 @@
+{"name":"ljprs_async_pool","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be430d5e1c9992cd05c9ba4e265ad3a6d1dbcb8670d79c93dc9fa4d15f6acdfb","features":{},"yanked":false}

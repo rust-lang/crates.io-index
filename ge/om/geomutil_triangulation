@@ -1,0 +1,2 @@
+{"name":"geomutil_triangulation","vers":"0.1.0","deps":[{"name":"geomutil_util","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab60c7760f92377138e004382450c1ddfc7ffb088e57a2b24d7198e03fdcead","features":{},"yanked":false}
+{"name":"geomutil_triangulation","vers":"0.1.1","deps":[{"name":"geomutil_util","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"408c43b7bf7a8b5d45126a2444281217e438bdf4183f58fc0b2ff1decf181da3","features":{},"yanked":false}

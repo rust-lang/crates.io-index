@@ -1,0 +1,3 @@
+{"name":"gradient-string","vers":"0.1.0","deps":[{"name":"gradient-slice","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74dba5964966a875e1043e8adf8b9eb057ee57f4b9fbd179ba6a73757054c165","features":{},"yanked":false}
+{"name":"gradient-string","vers":"0.1.1","deps":[{"name":"gradient-slice","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f856b9ff51bad44eafc200064caac22d314e566a6ae6c7471ced62799d1dc5ea","features":{},"yanked":false}
+{"name":"gradient-string","vers":"0.2.0","deps":[],"cksum":"a3d6327d7982b31523f43f5227a89bc6b9f0610fe276608cb536b2bd2e625a86","features":{},"yanked":false}

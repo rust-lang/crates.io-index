@@ -1,0 +1,2 @@
+{"name":"sqlite2db","vers":"0.0.0","deps":[],"cksum":"09797ce89a11b0fbb38e7fd92c1a30eb835db17e5af0020916702975bb6d38d5","features":{},"yanked":false}
+{"name":"sqlite2db","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47956a1af0e379a200aef610a5a17fecfab21a08ac099091ab486ca28d7e2980","features":{},"yanked":false}

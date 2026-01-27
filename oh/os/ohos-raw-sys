@@ -1,0 +1,2 @@
+{"name":"ohos-raw-sys","vers":"0.0.1","deps":[{"name":"napi-sys-ohos","req":"^1.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43e2208e8dadb40b895529261731c475b84b4fdaf8a016e2037d50027f865892","features":{},"yanked":false}
+{"name":"ohos-raw-sys","vers":"0.1.0","deps":[{"name":"napi-sys-ohos","req":"^1.1","features":["napi8"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdba34baa65ce4d165ebb8be3b1080fcf12eaf3320c23d69cfe1613432ebea01","features":{},"yanked":false}

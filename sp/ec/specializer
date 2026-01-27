@@ -1,0 +1,2 @@
+{"name":"specializer","vers":"0.1.0","deps":[],"cksum":"4c9f083879c4314f224acec6e15f5d77d91015e7790f99f622f13d376d625ca6","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"specializer","vers":"1.0.0","deps":[{"name":"pasts","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8634c745f03ae73f96fc21e80a3fa8b83481e2a72178ef77bb18e436385bc6d9","features":{},"yanked":false,"rust_version":"1.85"}

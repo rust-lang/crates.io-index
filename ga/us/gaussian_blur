@@ -1,0 +1,2 @@
+{"name":"gaussian_blur","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c1cbe8c026ab421f10f0341885d9440147efe62bab85583a0bced282c65876b7","features":{},"yanked":false}
+{"name":"gaussian_blur","vers":"0.1.1","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"adeca9ef62b4cb4c2281613d10b432abca98794705431ea1b2afce3e3635461b","features":{},"yanked":false}

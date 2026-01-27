@@ -1,0 +1,2 @@
+{"name":"dwarvish","vers":"0.0.0","deps":[],"cksum":"96dc7a7717584b053b9e4ad40a99ed7a8a5880e069717fdca4d7bc222bb37174","features":{},"yanked":false}
+{"name":"dwarvish","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"signal-hook","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdc4d44e426ae13e66c99a62039cad638076a2195768624d5310f6bac64e8100","features":{},"yanked":false}

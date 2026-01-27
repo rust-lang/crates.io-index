@@ -1,0 +1,2 @@
+{"name":"butterworth","vers":"0.0.1","deps":[],"cksum":"1a94c883228aba1641251c43f7276ba85f3038b18bad393a83322487094c051e","features":{},"yanked":false}
+{"name":"butterworth","vers":"0.1.0","deps":[{"name":"num-complex","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cbbb7f9bd55fef9fa04d086be27982f056e66a5bef324082bc38a0e634cc641","features":{},"yanked":false}

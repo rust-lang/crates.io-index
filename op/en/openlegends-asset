@@ -1,0 +1,2 @@
+{"name":"openlegends-asset","vers":"0.1.0","deps":[],"cksum":"bcd42aff41eb3fc3095802d4a5e560ffc959f600c88efda298be09df942e9c36","features":{},"yanked":true}
+{"name":"openlegends-asset","vers":"0.1.1","deps":[{"name":"core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"openlegends-core"}],"cksum":"a2f42ea85b5ce603892f28d5c27b20b48cd1b0ce9dddffc86bad55325c14d9bb","features":{},"yanked":false}

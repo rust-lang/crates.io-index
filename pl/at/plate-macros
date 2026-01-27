@@ -1,0 +1,1 @@
+{"name":"plate-macros","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a06c02a008d720316c7c51dfe135a9a92d4c164892f235ceec413d94630e2163","features":{},"yanked":false}

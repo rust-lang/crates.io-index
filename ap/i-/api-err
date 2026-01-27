@@ -1,0 +1,1 @@
+{"name":"api-err","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35d7df1a684fa21b4810569b8f2d7c7183e6cb6329b743fe2b44356acb3f30f8","features":{"http":[],"json_rpc":[]},"yanked":false}

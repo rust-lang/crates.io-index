@@ -1,0 +1,2 @@
+{"name":"sha3-extensions","vers":"0.1.0","deps":[{"name":"sha3","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3a8b8c645c7f329a7011e2aed301b1488d2148d747adb97821786fb3da2a0f1","features":{},"yanked":false}
+{"name":"sha3-extensions","vers":"0.2.0","deps":[{"name":"sha3","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d88ff02c8ab0bfeaaf4f789563e7c386294c48889a32f764b8e52b4a21ff407","features":{},"yanked":false}

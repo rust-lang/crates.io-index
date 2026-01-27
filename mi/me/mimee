@@ -1,0 +1,2 @@
+{"name":"mimee","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4149ea534dbbbbc0ecccd1c0ac8b4c391b6256e9b187f51372a590e57876bd5f","features":{},"yanked":false}
+{"name":"mimee","vers":"0.2.0","deps":[{"name":"rstest","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fcbf8797840244af488a3b541b758a40e1f623a643903116d390995bb0456b52","features":{},"yanked":false}

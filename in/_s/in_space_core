@@ -1,0 +1,2 @@
+{"name":"in_space_core","vers":"0.0.4","deps":[{"name":"warp","req":">=0.2.0, <0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"549c67c8b93ba3aa502a1ebb457e71754c363c9cdbcdff93985b9974fdd7ed9a","features":{},"yanked":false}
+{"name":"in_space_core","vers":"0.0.5","deps":[{"name":"warp","req":">=0.2.0, <0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4457fcdeea773c0a5d7845aea380a1060377db70c631c53c534710fb72f26647","features":{},"yanked":false}

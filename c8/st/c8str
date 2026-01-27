@@ -1,0 +1,5 @@
+{"name":"c8str","vers":"0.1.0","deps":[],"cksum":"14a9cc7679be695b7e3baf3404908e3f2121301eb715ae8081c0f7e950cc5b21","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"c8str","vers":"0.1.1","deps":[],"cksum":"930e365988f7132f4c5c1cf119d2cfa54ccb0f2e563916552127f9674aadff0a","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"c8str","vers":"0.1.2","deps":[],"cksum":"ecb82d3eebed36926fca5567adc986c38794955b2e105ff05eb137d3a2dc1435","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false,"rust_version":"1.72"}
+{"name":"c8str","vers":"0.2.0","deps":[],"cksum":"29ce5f1eb208954fd74169f54fd1b9c9d3365a13758ecfef25137e42563fad5e","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}
+{"name":"c8str","vers":"0.2.1","deps":[],"cksum":"97a407440c9adcc134ae4dc48cfd082fc5d5e8742c8876b55149071d349b9905","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}

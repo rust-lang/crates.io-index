@@ -1,0 +1,2 @@
+{"name":"dingon","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8166a69c8b9c619bfb8ffa5fd052f84424f7babc3fd10c2241732cd1261e8597","features":{},"yanked":false}
+{"name":"dingon","vers":"0.2.0","deps":[{"name":"rodio","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa368adc52a57f888a3a52a5dd9b7f45ac3a27df0982f6ec9a375d416de73ce7","features":{},"yanked":false}

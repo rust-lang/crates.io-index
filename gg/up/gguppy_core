@@ -1,0 +1,2 @@
+{"name":"gguppy_core","vers":"0.1.0","deps":[],"cksum":"1fb81201e5dddc855f54f9e123e6f31c9cfbcb175915eee1aefcea8f18142ae5","features":{},"yanked":false}
+{"name":"gguppy_core","vers":"0.4.0","deps":[{"name":"hashbrown","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439653946f85a04a15e13f4d202e70b8fdf55d265401d9d51a1ad2333c506cd3","features":{"default":[],"std":[]},"yanked":false}

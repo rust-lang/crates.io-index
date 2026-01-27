@@ -1,0 +1,1 @@
+{"name":"w32-error","vers":"1.0.0","deps":[{"name":"winapi","req":"^0.3.0","features":["errhandlingapi","winbase"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"fa7c61a6bd91e168c12fc170985725340f6b458eb6f971d1cf6c34f74ffafb43","features":{"std":["winapi/std"]},"yanked":false}

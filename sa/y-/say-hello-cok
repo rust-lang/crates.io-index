@@ -1,0 +1,4 @@
+{"name":"say-hello-cok","vers":"0.1.0","deps":[],"cksum":"2ed4cc9c74e66fb0e8beb69279eb3d835e3a3110469918c77f71bc90d5508a1f","features":{},"yanked":false}
+{"name":"say-hello-cok","vers":"0.2.0","deps":[],"cksum":"e46d624c0a4af0700406ef6a93257a15ea5c50ec4ae5adb17bb6650685753b8d","features":{},"yanked":false}
+{"name":"say-hello-cok","vers":"0.3.0","deps":[],"cksum":"d7b07b3c0382ee36d432cbb7cad33a6e8729507bc3ab313081168cca123c0b47","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}
+{"name":"say-hello-cok","vers":"0.4.0","deps":[],"cksum":"0402f529b0ec2bc9954dda62f0b191e57d9500aefebfa9c8972c9ccc81f2d9cb","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

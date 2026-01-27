@@ -1,0 +1,2 @@
+{"name":"mks-servo42","vers":"0.1.0","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"74f91eaf98875fd74ea372ff5e2c046fb325ed80430839a861e8a6c7d6f47323","features":{},"yanked":false}
+{"name":"mks-servo42","vers":"0.2.0","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a47b58357790d8afbe10d61ace49dac0510daa6dcf110b3aadcf0ecfc019349","features":{},"yanked":false}

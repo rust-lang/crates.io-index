@@ -1,0 +1,4 @@
+{"name":"rustic_ml","vers":"0.0.0","deps":[],"cksum":"f97bfca0dd8e8462dca82b933f125e7eaf0e76fd3c80521426be1571b4ec937d","features":{},"yanked":false}
+{"name":"rustic_ml","vers":"0.0.1","deps":[],"cksum":"99f444dcc2416a9a196f2b1d3fd0a9d2a1df6afe5297656f8343a3e501a26c5c","features":{},"yanked":true}
+{"name":"rustic_ml","vers":"0.0.2","deps":[],"cksum":"bbc4259b9be785294cfcd8df34c226bb8a7852ceb23690212b0fb4a97dc9a24d","features":{},"yanked":false}
+{"name":"rustic_ml","vers":"0.0.3","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86ecc6d8b1793723a85592415ad624827750af142311021909a4cd2c265f6234","features":{"extensive_benchmark":[]},"yanked":false}

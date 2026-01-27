@@ -1,0 +1,4 @@
+{"name":"windows-win32-globalization","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7038225cb6e8875338889ff505f4f39797bac9e81d2699ea10a3302ebd53fc52","features":{},"yanked":false}
+{"name":"windows-win32-globalization","vers":"0.22.5","deps":[],"cksum":"5873653c28b74205b331bafbd50e3e4df065a3c4877a73a5a5e4b09606808c53","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-globalization","vers":"0.22.6","deps":[],"cksum":"2657f131496ed7da9be2299a157d8b5aee3b2590653fb33aebf0b3c87228a25d","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-globalization","vers":"0.23.0","deps":[],"cksum":"ea890bc24588cd0326cbc7f5460ea35feea78d49c42dc6497064ec513331dfba","features":{},"yanked":false}

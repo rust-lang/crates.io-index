@@ -1,0 +1,2 @@
+{"name":"cargo-extract-test","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"474df6270dfad46e3303e29a2b927f23da2081bfbe7d56040bccde7dba8bbcb0","features":{},"yanked":false}
+{"name":"cargo-extract-test","vers":"0.1.1","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"136a1d69d8dbc9a9bdaa2d55cf89715566627275c48809a4e235a8470d986ade","features":{},"yanked":false}

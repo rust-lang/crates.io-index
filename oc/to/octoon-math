@@ -1,0 +1,8 @@
+{"name":"octoon-math","vers":"0.1.0","deps":[],"cksum":"fa443cd49fd3bbcbf928559f862c50bc588943f4dfa7121825d81634ab79a6a4","features":{},"yanked":false}
+{"name":"octoon-math","vers":"0.1.1","deps":[],"cksum":"6e24c8aa3235b245b56a162b5f1d58313feb4d269c67ebca6a94703838063b41","features":{},"yanked":false}
+{"name":"octoon-math","vers":"0.1.2","deps":[],"cksum":"903a236e11dc72bd2d32bbeeaf87034cd863e7246338d9eeb135c6fe54fdd912","features":{},"yanked":false}
+{"name":"octoon-math","vers":"0.1.3","deps":[],"cksum":"f5073ca60f7f7ef84a3266db23acdb7ab2a80d1bc850e159f96b045f7c69c20f","features":{},"yanked":false}
+{"name":"octoon-math","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"175b14ed145c5884a0a8066c4cedabe57af03fcbe6bd2992eaa11146de968822","features":{},"yanked":false}
+{"name":"octoon-math","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29b8aee324258cbc53e5563bc5a569881b816c4e43f01ca5aac592f8fb18005f","features":{"serialize":["serde"]},"yanked":false}
+{"name":"octoon-math","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68f86b864a8ad1862ae7f6b6879b1137f428c4359eb2ab3154282b70f8ffc92b","features":{"serialize":["serde"]},"yanked":false}
+{"name":"octoon-math","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"434e159ba1f8140b56a3d38fa6a4190d996d686fb0ab0153e5b639cb9d415d5f","features":{"serialize":["serde"]},"yanked":false}

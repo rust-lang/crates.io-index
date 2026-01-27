@@ -1,0 +1,13 @@
+{"name":"syscall-alt","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"fc8d9281507e103221a7a3334ace45cd4517f6a457b23d5f547fce936bba59d2","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.2","deps":[],"cksum":"c23afcce1c01977a5c35e3269424f378e84ede9afa47e9e858f26e41dbb13bb2","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.3","deps":[],"cksum":"3a55bdc5358b61294060bd55e9d3ee358d09896fb7911ac98d6db094ae13f1a5","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.4","deps":[],"cksum":"835ffea8f1cc5b6c9aa027edf731f872e4984377be22871cb0e49b395d564110","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.5","deps":[],"cksum":"15f3a959b683c991046ad11c492c1e2718a0365d4d5415ecf861dbbc1d7b0102","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.7","deps":[],"cksum":"c04a06c2b360a8ef4771764a05ea21635e895941af4544350315eebab4eef6b4","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.8","deps":[],"cksum":"6324a53e8be295c7daa773eaf58efddd7aec82aa4a68b44c12721f64c57e72c5","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.9","deps":[],"cksum":"3fa2c3fd21fb3c8d199b830dbdb6366e1d2cb46be768bd4a0d180dd8dca6eed7","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.10","deps":[],"cksum":"c90b26f5a155b21ff728d94668b38afa539c88d1bf0342e35b0aa741f524a364","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.11","deps":[],"cksum":"dd3da7501002539893ba94578945e81fd6702daf2d4835aa4e26ebf52a678580","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.12","deps":[],"cksum":"77f04f89c16571e18db858a07038d14649da6a0b483d019d50bddba97e59a207","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.13","deps":[],"cksum":"a5184a74ebdac95c0062a4a225f97506a35b8cf415f14b1e1e7be43601b8111d","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.14","deps":[],"cksum":"03435bf797f6be00b6807f9d22f85d208fec646215340881d5260ea9cd0202f0","features":{},"yanked":false}

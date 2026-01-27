@@ -1,0 +1,2 @@
+{"name":"oxidefurnace","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ac8d75c980ad7bdc4ca38f569d7b627ca07473fe4ac901b9db2fce2daa7cfa1","features":{},"yanked":false}
+{"name":"oxidefurnace","vers":"0.1.1","deps":[{"name":"hidapi","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eff278ca8513b1cf37d39f624920c863ba88bbdc58ad7434a1f258d5cf583f8","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"abibool","vers":"0.5.0","deps":[],"cksum":"4132dae3d49fc38cebaf456ef5401a4ba880a0c1bab284d70631d857ef90aacd","features":{},"yanked":false}
+{"name":"abibool","vers":"0.5.1","deps":[{"name":"bytemuck","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"508fe1024f8527bfcd67919e7e754e71b5431d2e422b3ee80992d275228db0c7","features":{},"yanked":false}
+{"name":"abibool","vers":"0.5.2","deps":[{"name":"bytemuck","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f44de67b8e3b858ff18eb6655966fce2ebbf073817e08edad8eb2cb7c8390cc","features":{},"yanked":false}
+{"name":"abibool","vers":"0.5.3","deps":[{"name":"bytemuck","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bd30f59e066010fda3421085177545205e1fd063de54700e9c7a6ceffad2e5e","features":{},"yanked":false}

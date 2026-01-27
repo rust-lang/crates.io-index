@@ -1,0 +1,4 @@
+{"name":"gdbm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"~0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d2e840cd8e38ad630ac7ca9c71ee71ed80a03548157a3254a72736989382ab35","features":{},"yanked":false}
+{"name":"gdbm-sys","vers":"0.2.1","deps":[],"cksum":"ea0641bae9cff8b2aa6d7b2b9ad949cd0a5c5b6bcbebb2756bf6d161c411bab8","features":{},"yanked":false}
+{"name":"gdbm-sys","vers":"0.2.2","deps":[],"cksum":"ec877177088a3d9ead682a1db838967ca6e19b8599609dd6c88a0931a69d491f","features":{},"yanked":false}
+{"name":"gdbm-sys","vers":"0.3.0","deps":[],"cksum":"0ccb3c99ab7f1d8ea377ce71f1c90021d1dc8e6da402778149d5d5eae53e5fd6","features":{},"yanked":false}

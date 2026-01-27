@@ -1,0 +1,1 @@
+{"name":"win-stdio-handle-dbg","vers":"0.1.0","deps":[{"name":"windows","req":"^0.43.0","features":["Win32_Foundation","Win32_System_Console","Win32_Storage_FileSystem"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c2536a3218e1d9fdc4ca4fb700df5705fb41d45c0ea0b924ccdb4f432bac578","features":{},"yanked":false}

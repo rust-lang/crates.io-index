@@ -1,0 +1,2 @@
+{"name":"anaglyph","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3929f93bf0ac9644ec58c033d3b945611e5e1eaf1e6588a811ab60efe581acc8","features":{},"yanked":false}
+{"name":"anaglyph","vers":"0.1.1","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3ebbefeb1568568dd6120e58769d18d8c5f56f33af582527ff8705f0f166cd3","features":{},"yanked":false}

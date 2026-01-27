@@ -1,0 +1,5 @@
+{"name":"btreemultimap-value-ord","vers":"0.1.0","deps":[],"cksum":"e13549a13aef0ba69f60341ee8f64195827e2ba9a1b5e27371173cbb482fd272","features":{},"yanked":false}
+{"name":"btreemultimap-value-ord","vers":"0.2.0","deps":[],"cksum":"4b6c38e3d35324fa1f3823227cb666707e6bd7790084b5e008da511cd286ff77","features":{},"yanked":false}
+{"name":"btreemultimap-value-ord","vers":"0.3.0","deps":[],"cksum":"1ad181b3cd86985b5840c8eed00017f930b775a45bb192f918adaa2a06c036e4","features":{},"yanked":false}
+{"name":"btreemultimap-value-ord","vers":"0.3.1","deps":[],"cksum":"d62f8cab4e3c1950050ab2e102ccc86a7642672635002ac2c0ae1e1f6f8a995c","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"btreemultimap-value-ord","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0.144","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8cf5b56bfddbf246cc27da2cc2795eba14cc73dd04d797e914c5d4bfd7be21b","features":{},"yanked":false,"rust_version":"1.56.1"}

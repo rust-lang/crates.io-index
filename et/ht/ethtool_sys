@@ -1,0 +1,1 @@
+{"name":"ethtool_sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fb78b15b14a8b832d457a4d110d1c519b2703ae8e94f988e330640e3eaea0f9","features":{},"yanked":false}

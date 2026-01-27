@@ -1,0 +1,1 @@
+{"name":"call","vers":"0.1.0","deps":[{"name":"aok","req":"^0.1.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tracing","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b3b46ad689b12becfbb191a1d3f270449a260f62d93bb9e9b6ad510f0c44778","features":{},"yanked":false}

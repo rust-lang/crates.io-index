@@ -1,0 +1,3 @@
+{"name":"sortlock","vers":"0.0.0","deps":[],"cksum":"84efdf37f7282331acc9d4af1762f387ded9fcb9644657564095cace30163162","features":{},"yanked":false}
+{"name":"sortlock","vers":"0.1.0","deps":[],"cksum":"6eb442174dd68583acc027274131ea15f45cb584fc925df43bf2c880c9ae1a7e","features":{},"yanked":false}
+{"name":"sortlock","vers":"0.2.0","deps":[{"name":"portable-atomic","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"spin","req":"^0.9.8","features":["mutex","spin_mutex","rwlock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0d92fd51680bf52612466533280396e600b03414bf50bfa30bbea7e3fa1f5fd3","features":{"default":["std"],"std":["portable-atomic/std"]},"yanked":false}

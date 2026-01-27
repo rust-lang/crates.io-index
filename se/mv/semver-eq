@@ -1,0 +1,1 @@
+{"name":"semver-eq","vers":"1.0.22","deps":[{"name":"serde","req":"^1.0.194","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ebeb7aadd34b84da6b114c9992ed67d28fecdb98ad946942bc76c3fce195af66","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.31"}

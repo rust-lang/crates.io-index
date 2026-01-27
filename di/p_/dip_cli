@@ -1,0 +1,1 @@
+{"name":"dip_cli","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"dip_macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f603edc74c18083c5712595dc8d30ab74c1448a2aaa3408caf21be61f737d86","features":{},"yanked":false}

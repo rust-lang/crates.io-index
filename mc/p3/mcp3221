@@ -1,0 +1,2 @@
+{"name":"mcp3221","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a8e6297f0cc1af80f555e7fccc01b4d34e2ea0297022502790b1260f6c64b34","features":{},"yanked":false}
+{"name":"mcp3221","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"882615ecc5c09d1e32aa922976644d042e007aa17f49fd6cadb4988c01fad1bb","features":{},"yanked":false}

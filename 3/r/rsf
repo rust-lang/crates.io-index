@@ -1,0 +1,1 @@
+{"name":"rsf","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a163bfd978c7712ef7b281c5565c3aa44c83fd941b489477d697f77281e0331","features":{},"yanked":false}

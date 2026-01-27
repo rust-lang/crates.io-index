@@ -1,0 +1,2 @@
+{"name":"random-trait","vers":"0.1.0","deps":[{"name":"doc-comment","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6463d8ebdd0d48ba95c823f510c1948d23d0ab02a3e902369b55e76a71308ff1","features":{"u128":[]},"yanked":false}
+{"name":"random-trait","vers":"0.1.1","deps":[{"name":"doc-comment","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d3186af2e04abe646626095b37293d7485027e8591c56430dfda49894a28447","features":{"u128":[]},"yanked":false}

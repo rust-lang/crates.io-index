@@ -1,0 +1,2 @@
+{"name":"mutex_logger","vers":"0.1.0","deps":[],"cksum":"39cf8fe15ba073063f4c8edfc2c4bb762be0bb2d830754390fadf95c8bea9a10","features":{},"yanked":true}
+{"name":"mutex_logger","vers":"1.0.0","deps":[{"name":"colored","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9cac1957af209a054843a725eb6a6b8e79203ef83637cd4b93ec4fa38d692ad","features":{},"yanked":false}

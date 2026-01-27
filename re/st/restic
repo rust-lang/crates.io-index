@@ -1,0 +1,1 @@
+{"name":"restic","vers":"0.1.0","deps":[{"name":"tokio","req":">=1.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eccf7f3408b030455e4346395995cc11ce2d0e71ffc6b22f378f0699bddd66dd","features":{},"yanked":false}

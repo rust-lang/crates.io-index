@@ -1,0 +1,7 @@
+{"name":"embedded_cotoutf8","vers":"0.1.0","deps":[],"cksum":"27bfd73d7484e611c751567f38ca32cde2b4deeb3a5ebe6497095b8c3f13f7e8","features":{},"yanked":false}
+{"name":"embedded_cotoutf8","vers":"0.1.1","deps":[],"cksum":"5bd53b6ab29476365aea587a0451c8671f449279b1f025d91bf89ea251d6f6c8","features":{},"yanked":false}
+{"name":"embedded_cotoutf8","vers":"0.1.2","deps":[],"cksum":"4dc1aa8667da3195b0cef32a64f7346e36d64cd918eb7668988664d95a3c5c28","features":{},"yanked":false}
+{"name":"embedded_cotoutf8","vers":"0.1.3","deps":[],"cksum":"f4d42cc4c9720745781b984b339c098488f574346ee9fa743b452f5206afd985","features":{},"yanked":false}
+{"name":"embedded_cotoutf8","vers":"0.1.4","deps":[],"cksum":"299d588ed092c46c9bd02d9a8b58531750d2665efefab7282d999cb6fcea3748","features":{"floato":[]},"yanked":true}
+{"name":"embedded_cotoutf8","vers":"0.1.5","deps":[{"name":"ufmt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"774668fee9fb39cc797867a6604fc345e6aa0693f3509500f38b96fe2ef9ee0e","features":{"floato":[]},"features2":{"default":["ufmt"],"ufmt":["dep:ufmt"]},"yanked":false,"v":2}
+{"name":"embedded_cotoutf8","vers":"0.1.6","deps":[{"name":"ufmt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c4c2e9cd7f54563ab99daa8fdd449bd8cc1bcaddd56aa35f341c76ec4b0f20b","features":{},"features2":{"default":["ufmt"],"ufmt":["dep:ufmt"]},"yanked":false,"v":2}

@@ -1,0 +1,5 @@
+{"name":"swipl-info","vers":"0.1.0","deps":[],"cksum":"08d453467427a55bfba8e11ddeb26722925f68eda43051dfcaffe1aaf4d11a47","features":{},"yanked":false}
+{"name":"swipl-info","vers":"0.2.0","deps":[],"cksum":"817818bf287bc22c6e279e07f448ea3acdaed2dfcf9c8989765f2cd340b7805a","features":{},"yanked":false}
+{"name":"swipl-info","vers":"0.3.0","deps":[],"cksum":"a1d2f02a519f595760c3283e6c03d272f4315a13a40903451c6d1511a44a5d92","features":{},"yanked":false}
+{"name":"swipl-info","vers":"0.3.1","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1b7cf6cbfa5484d916d67858e629874fcc76136aee299d184e81b9751c74828","features":{},"yanked":false}
+{"name":"swipl-info","vers":"0.3.2","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3c24ee13ef4f59cce23ccaff3006a861c7f8b02984c2a7821e7f1ced54b6c1a","features":{},"yanked":false}

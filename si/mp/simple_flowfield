@@ -1,0 +1,2 @@
+{"name":"simple_flowfield","vers":"1.0.0","deps":[{"name":"raylib","req":"^5.5.1","features":["wayland"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d06c62c97cff7b28624742f42c73d70303bc18df7118bf19278dd3ce9f9a0f3","features":{},"yanked":false}
+{"name":"simple_flowfield","vers":"2.0.0","deps":[{"name":"raylib","req":"^5.5.1","features":["wayland"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af875787edc2aa41a8817034129effee9f5a0104f84d1799a9744cd47f7c549f","features":{},"yanked":false}

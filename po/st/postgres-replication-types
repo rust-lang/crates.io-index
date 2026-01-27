@@ -1,0 +1,2 @@
+{"name":"postgres-replication-types","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d33fecbac11267bb7154ac71d3ee0488c813da247d327160531aace4c2e3e3b8","features":{},"yanked":false}
+{"name":"postgres-replication-types","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"285870d611f3860bd04461acd42718451e26ccd5c595068eea6b0e1cea41b6d6","features":{},"yanked":false}

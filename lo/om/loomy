@@ -1,0 +1,2 @@
+{"name":"loomy","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c8d5b32a2c10582e44c792a90b1bdb9df49c535396312ce34fc17638f3ebc5b","features":{"enable":["loom"]},"yanked":false}
+{"name":"loomy","vers":"0.1.1","deps":[{"name":"loom","req":"^0.5.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44ae98b3662a16914fbc8ed624f4388623ad9ffc96f0ce5844cf5bee51f091c7","features":{"enable":["loom"]},"yanked":false}

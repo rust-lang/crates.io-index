@@ -1,0 +1,1 @@
+{"name":"twiml_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03224ab401012e579936891df8a3b6a1a39ffb75de03d3a3ce650248bef561a1","features":{},"yanked":false}

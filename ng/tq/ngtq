@@ -1,0 +1,1 @@
+{"name":"ngtq","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d097df51fd85fb7b9d3e4afd385e013aae8f6d3c8eaec4057d9e853afc964e","features":{"default":[]},"yanked":false,"rust_version":"1.70.0"}

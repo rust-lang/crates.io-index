@@ -1,0 +1,1 @@
+{"name":"mrwei","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.0","features":["macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"657a36642fadf8e8bc0808b611db6f75284e5311c5dd6ad2ef002aecff5aa1c7","features":{},"yanked":false}

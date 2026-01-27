@@ -1,0 +1,3 @@
+{"name":"guts","vers":"0.1.0","deps":[],"cksum":"131e400c4c6facc4e970c9f8a14f0d2a79b933f931eb7e8d4312d0247ef105fc","features":{"never_type":[]},"yanked":false}
+{"name":"guts","vers":"0.1.1","deps":[],"cksum":"1cecdb49c19c6c6e8df6fca1dbb70b5e3d76da8bc954c56233f760c9be03fcd5","features":{"never_type":[]},"yanked":false}
+{"name":"guts","vers":"0.2.0","deps":[],"cksum":"17500f73372e0585e6db162044fe220fb1176cfd157b1d61a907d6b09c63f12b","features":{"default":["std"],"never_type":[],"std":[]},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"nx","vers":"0.2.0","deps":[],"cksum":"1708ca490ce9431adfa1c449377f430710f54276ed89032cd7f1c3826a664d7b","features":{},"yanked":false}
+{"name":"nx","vers":"0.2.1","deps":[],"cksum":"e079647d450c6a453d2cac454bc3621230df25db74577470e3edbef5ffb047a6","features":{},"yanked":false}
+{"name":"nx","vers":"0.2.2","deps":[],"cksum":"e2c47a8ae3f1c4f0b27ffa78b864c8c474db25d8cdba7a4227b9494ce8c2cbf6","features":{},"yanked":false}
+{"name":"nx","vers":"0.2.3","deps":[],"cksum":"fefef60ed644b2a53b2db20f7f8b78cbd77b6620b8d83edb1e5c2a9f9a177f44","features":{},"yanked":false}
+{"name":"nx","vers":"0.2.4","deps":[{"name":"memmap","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61aa3010f9525084369fd36f08c4e28a49b4ff5f52320c8c26cfc7105e72d4af","features":{},"yanked":false}
+{"name":"nx","vers":"0.3.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"image","req":"^0.18","features":["png_codec"],"optional":false,"default_features":false,"target":null,"kind":"dev"},{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"842d61c1e08702a2a263d8db5cfa87c6d211298bac80eafd8724a5f9ee2d1f48","features":{},"yanked":false}

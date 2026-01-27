@@ -1,0 +1,2 @@
+{"name":"rusty_kan","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20be64032afac91f02861c81857329fc292444e68d2988d7d1da9bf018a32670","features":{},"yanked":false}
+{"name":"rusty_kan","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae56c619e37fbd9cb0dd10ca55ab27ef8890e8deaac044c4d314c050ac98c3f9","features":{},"yanked":false}

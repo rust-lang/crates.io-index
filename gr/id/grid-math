@@ -1,0 +1,9 @@
+{"name":"grid-math","vers":"0.1.0","deps":[],"cksum":"904255bbaf3a2774b62544deeb5ec31a06f1ae1d46ad741db12ae6c33d617eeb","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.0","deps":[],"cksum":"c032f7d73207ae128d9a41ea192330ba92515bca2d262c65b7f167bc74fe6c77","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.1","deps":[],"cksum":"6e41eea3b60c6d589359aa121724a59d1a6917f6d16380b3f4caacf56070ceb2","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.2","deps":[],"cksum":"922f720bf21029e096578b46d580157a639e1424bd9ce3c6ab8381b3d6e3d57e","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.3","deps":[],"cksum":"65f2f58639a6b0ae79e6d8abe33b9c676534132469c686698594fe24f15fe5b8","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.4","deps":[],"cksum":"071fce4f1a62adc30a0db6b1b6fb8abcc13a23ad37056e8591bb6c61c150435f","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.5","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10cfa2fc32641940d522e348c3bc31ef558f5617b128986e4f5cbed9caf1709b","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.6","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15d70ca63723e0bad11c05ebea96fd68eb66cfa07538b3e90887a427540f3eaf","features":{},"yanked":false}
+{"name":"grid-math","vers":"0.2.7","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a2d09b036a54a59b60b7e98d2beff67a47e41db635614264c75c1d788c15f5d","features":{},"yanked":false}

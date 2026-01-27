@@ -1,0 +1,4 @@
+{"name":"supply","vers":"0.1.0","deps":[],"cksum":"e133a0c3f80c1146063cb9329578127d2144e303c8d5fc575b55c49b6dd79bc7","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"supply","vers":"0.2.0","deps":[],"cksum":"68c661e287e4897dda088bf38422b1c0c4efd7b36d837e07efab59d6138105a5","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"supply","vers":"0.3.0","deps":[{"name":"ty-tag","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2535a4a0093b3272ef2c8139127b6581eab9c5b1d6529f68708c283374e645cb","features":{},"yanked":true,"rust_version":"1.83.0"}
+{"name":"supply","vers":"0.3.1","deps":[{"name":"ty-tag","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ace62a6fb0a502889d6bb7e823a0073fb4611df7d30e72b54ac36850395d252e","features":{},"yanked":false,"rust_version":"1.83.0"}

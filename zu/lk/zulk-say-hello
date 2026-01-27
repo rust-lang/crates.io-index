@@ -1,0 +1,3 @@
+{"name":"zulk-say-hello","vers":"0.1.0","deps":[],"cksum":"091aa97600109bbc06c04c238ef17ebd0fde69b90621056c998c1a6a473dcdcf","features":{},"yanked":false}
+{"name":"zulk-say-hello","vers":"0.2.0","deps":[],"cksum":"1dbe864cfabaa7e4bcefb0ada8b78cd529e881bcfd995aef07dc5bcd593908be","features":{},"yanked":false}
+{"name":"zulk-say-hello","vers":"0.3.0","deps":[],"cksum":"4686d78e04a3825568affd3229432929421b045f4d09fe2e57c95d69ad934e01","features":{"all":["hello","bye"],"bye":[],"defalut":["hello"],"hello":[]},"yanked":false}

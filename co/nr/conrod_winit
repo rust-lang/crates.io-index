@@ -1,0 +1,16 @@
+{"name":"conrod_winit","vers":"0.62.0","deps":[{"name":"conrod_core","req":"^0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winit","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cee37fc94549190e69366d962984589bef4de951ffdc074c666fd1faca1ad8dc","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.63.0","deps":[{"name":"conrod_core","req":"^0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winit","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5975f29ccbe2a0c2257e9c19d18f21d0d907195a86350bb4c4c999d8bd05acb","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.64.0","deps":[],"cksum":"8c314f3dc9a51bb55e6baf870b82c3b6c749687f09c0ffed97b06a2f3e6b2d67","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.65.0","deps":[],"cksum":"f24a71ee75f9d833506e8c6d5b5832c700ab4b8191985f0617bda9a7cc25e581","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.66.0","deps":[],"cksum":"f55e77b5ba52c3dd49fa516d945762c2f84d94afb9b67a110c2ca5d4f1a042aa","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.67.0","deps":[],"cksum":"7a3331ac7503c407d11b21c204ceaf4cef4fb08df59bd06160c20f35db35d752","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.68.0","deps":[],"cksum":"139e5db60ce2a13d763a7ced88236fe3106338321a8b383f2b272d0021d75d24","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.69.0","deps":[],"cksum":"efd588b214393f86533303b8322562afb50c7ab7a406e541909c6afb7fb3337a","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.70.0","deps":[],"cksum":"4d12a5620cd3d4540565e32e6f322fb8bcf58c20bf3c3ccfdbf0a0c2201b8fba","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.71.0","deps":[],"cksum":"dfbe64a64440965cbb4897bd4c35631d34304426e683a4dd86fd00074cecb514","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.72.0","deps":[],"cksum":"d1454c16d44a020db7592351d52d255242d21897587a813d89b91c52e603f2f9","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.73.0","deps":[],"cksum":"91a668ae134a999a5f48a8dc03c2a0abb6ef24c98eb5b53d1aefd686feac8b6e","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.74.0","deps":[],"cksum":"f2ef59479f5d5f8de09fa1c14a388bacf430e9713fc83a8a86d95facbc85edb5","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.75.0","deps":[],"cksum":"22fe806f7253b43dc123f906c124b2edf6ed477c02a87cc0c5f8edfb43036a78","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.76.0","deps":[],"cksum":"8ba80e6493619a9323b69710e92752a40705712f604096e99e8281a57fd7e781","features":{},"yanked":false}
+{"name":"conrod_winit","vers":"0.76.1","deps":[],"cksum":"e4cbc630c9a424524653ba7ba6c9f896213dd8a6ef0940cbd2dabdaf02d6f0d0","features":{},"yanked":false}

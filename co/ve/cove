@@ -1,0 +1,9 @@
+{"name":"cove","vers":"0.1.0","deps":[{"name":"cove-num","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e13b4ac4a01c7f9aae0decaec0c06a9014ff7041a517b5620f728371d362c3c5","features":{},"yanked":true}
+{"name":"cove","vers":"0.2.0","deps":[],"cksum":"3157b583f5e0c0e3b2ef2237201eac6ab7a0aeb6193b77aad9bf50a2e99f978e","features":{},"yanked":true}
+{"name":"cove","vers":"0.3.0","deps":[],"cksum":"48cb9332f19247cafbc692626fc708567f4c4d3b53444169f6b943367125afd6","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"cove","vers":"0.4.0","deps":[],"cksum":"8142d87ea937cd046011e7192fd9c9285fd8554102a6007cedd9a36c077bd42f","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"cove","vers":"0.5.0","deps":[],"cksum":"39289b00eb9719d897944b5ada4ab227738cb0e700794bd82f3d6926f818899d","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"cove","vers":"0.6.0","deps":[],"cksum":"84825a15a8364e3ade2de245a079f847e12d7d21babb9fdde7bf3d35e230a2db","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"cove","vers":"0.7.0","deps":[],"cksum":"7dfe284f5e9b50db720a3f27cac503424539efabb1b7f2be8276c603a0848ac5","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"cove","vers":"0.8.0","deps":[],"cksum":"7e8c9958dff6baf4aca2c109d7a9a68ac7643bea8c6a7d096420ff2f800481b2","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"cove","vers":"1.0.0","deps":[],"cksum":"4b3737a534fce5218d54b865f26806d2191ff9ea08576dfb9722515b84d46bbe","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}

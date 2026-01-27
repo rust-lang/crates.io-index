@@ -1,0 +1,2 @@
+{"name":"pair","vers":"0.1.0","deps":[],"cksum":"82d0f453f9833cda59ccb647e6c28b39a37acbdec762871e0da2b358927af9c8","features":{},"yanked":false}
+{"name":"pair","vers":"0.2.0","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12f6ed93d0ee9ef6b8de27e51707a940c7c2275c758f444b6d6eb0f2a4de18df","features":{},"yanked":false,"rust_version":"1.85.0"}

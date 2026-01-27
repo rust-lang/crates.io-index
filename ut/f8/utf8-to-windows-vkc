@@ -1,0 +1,3 @@
+{"name":"utf8-to-windows-vkc","vers":"0.1.0","deps":[],"cksum":"45412e605ce7efba5bb8755be2958327fecdde4e16db0a4382ed8416459841b4","features":{},"yanked":false}
+{"name":"utf8-to-windows-vkc","vers":"0.1.1","deps":[],"cksum":"c052ab7bfbe0baec755c9e1dbd68ab16c06bd994f728913fbf2f62951bc1cd15","features":{},"yanked":false}
+{"name":"utf8-to-windows-vkc","vers":"0.2.0","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"35fd21a5062bd20c44d2f51daef7af61c75e5192d4b8a1e1a60dcd9a86b64062","features":{},"yanked":false}

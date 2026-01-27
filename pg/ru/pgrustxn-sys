@@ -1,0 +1,2 @@
+{"name":"pgrustxn-sys","vers":"0.0.7","deps":[{"name":"rustfmt","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"321e7dbb539251088067bf2981ad309369fb40d680bb65d37dcf23c58674ec86","features":{},"yanked":true}
+{"name":"pgrustxn-sys","vers":"0.0.8","deps":[{"name":"rustfmt","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8d24a5b8d1c1be9253ff44dcdf4cfd9dc239b35f9832bff52fad1810b70c7458","features":{},"yanked":true}

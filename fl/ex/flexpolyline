@@ -1,0 +1,2 @@
+{"name":"flexpolyline","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b52b4fc3197ffec77579458fca3c007ed9c1040d5d7351138cd0f12934f75491","features":{},"yanked":false}
+{"name":"flexpolyline","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"15f0709fdb3ca03c4d112480001aef7b28298752c69b48fa33b53f8338386d0b","features":{},"yanked":false}

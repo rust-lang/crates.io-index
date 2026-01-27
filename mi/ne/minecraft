@@ -1,0 +1,2 @@
+{"name":"minecraft","vers":"0.0.1","deps":[],"cksum":"103331e7b81931fab78dda77540699a2bba64c71d2c9262e7c9a3bb5f50f929d","features":{},"yanked":true}
+{"name":"minecraft","vers":"0.0.2","deps":[{"name":"minecraft-cli","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d3a515baa77fc9523e807e2a656f1c23acc98495cb19b2ae74a02672b7a2255","features":{},"yanked":false}

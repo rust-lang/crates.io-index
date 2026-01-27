@@ -1,0 +1,2 @@
+{"name":"abduco","vers":"0.1.0","deps":[],"cksum":"6d4832c036a2d41dcd71a6d533afbb936d113a910420716b5fe9178e3fc00c38","features":{},"yanked":false}
+{"name":"abduco","vers":"0.1.1","deps":[{"name":"nix","req":"^0.28","features":["hostname","term"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.3.36","features":["formatting","macros","local-offset"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1750064dd92c05655d2bb5d5947243d9e70f7874cd1546ebba758d0d54dcc947","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"templatify","vers":"0.1.0","deps":[],"cksum":"21d81f676675ffd120cfc84a3c9809a3481fc13c19b8e9bf63f345d4dd2281d8","features":{},"yanked":false}
+{"name":"templatify","vers":"0.2.0","deps":[],"cksum":"130b5f23e5212683c81811619a71de38fe42325b9fa502ba4f70d6cc95c34182","features":{},"yanked":false}
+{"name":"templatify","vers":"0.2.1","deps":[],"cksum":"fbb3fd3d83dca40d8545942d7356937d88ab8973135adb5c9b4a6ad490d07a3e","features":{},"yanked":false}
+{"name":"templatify","vers":"0.2.2","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b38725aecae9b9cc2f624340ea10759f667a124fcb835befeb5624fe9e4ad15","features":{},"yanked":false}
+{"name":"templatify","vers":"0.2.3","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a528032d6917c9a80cf894d9feeffe34056e8d62d3492bbfc15abfdcfa8a8fe1","features":{},"yanked":false}

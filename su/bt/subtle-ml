@@ -1,0 +1,1 @@
+{"name":"subtle-ml","vers":"2.5.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"78a905cc53e05703373c995fd13e493490d9ff67df17b140f10db94b52a149ad","features":{"default":["std","i128"],"i128":[],"nightly":[],"std":[]},"yanked":false}

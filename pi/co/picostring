@@ -1,0 +1,3 @@
+{"name":"picostring","vers":"0.1.0","deps":[],"cksum":"68ce00c9176d071a538fc58b538ed45c5bfb7fd59cbb69d1d591210cf544c0a8","features":{},"yanked":false}
+{"name":"picostring","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.188","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7cccc4bb37006f0540f393d872dfd9fd52bf1e6b07ada3a10a10a70a2109c8c","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
+{"name":"picostring","vers":"0.3.1","deps":[{"name":"serde","req":"^1.0.188","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c8dc984cf8384d41f4d787acbe65ca67cec2750a724bc4c7b1f4eb157f9511b","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

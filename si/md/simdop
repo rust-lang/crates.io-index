@@ -1,0 +1,1 @@
+{"name":"simdop","vers":"0.1.0","deps":[{"name":"llvmint","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"simdty","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fbff0ee3317e1f265c604182796879d50b5a07c6e62dc09088f626ea023d0f1","features":{},"yanked":false}

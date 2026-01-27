@@ -1,0 +1,1 @@
+{"name":"rolldown_ast_template","vers":"0.0.1","deps":[{"name":"swc_core","req":"^0.59.26","features":["ecma_ast","common","common_concurrent","ecma_utils"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcdfc42947a85fbc49538308090368c396984c3d62d94976cae2825f42eca7a4","features":{},"yanked":false}

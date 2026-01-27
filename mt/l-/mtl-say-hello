@@ -1,0 +1,3 @@
+{"name":"mtl-say-hello","vers":"0.1.0","deps":[],"cksum":"3f6d549cfe50fa07442ec6881c88b84fe1d57a6c762de8dd782561dacbe30888","features":{},"yanked":false}
+{"name":"mtl-say-hello","vers":"0.2.0","deps":[],"cksum":"e5ebe3277271f80779abaf41c855f5b2b5d27eb11ecd6695716de62500b11fb8","features":{},"yanked":false}
+{"name":"mtl-say-hello","vers":"0.3.0","deps":[],"cksum":"09a22e0cff9ea3c94bf22198cbb0ab56af86e897517a3302a59e0e1690c9409f","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

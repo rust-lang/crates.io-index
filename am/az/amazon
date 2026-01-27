@@ -1,0 +1,2 @@
+{"name":"amazon","vers":"0.0.0","deps":[],"cksum":"9308b08ec7445064a8fb101e701a59f62b79132cf243a2f2eb2fe51a9e2b2b2d","features":{},"yanked":true}
+{"name":"amazon","vers":"0.0.1","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0.101","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8b1e6745421be32c69bd93c60f30e27cf75ab25fb3139fd44c5d181e09dc1a","features":{},"yanked":true}

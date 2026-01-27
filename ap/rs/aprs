@@ -1,0 +1,4 @@
+{"name":"aprs","vers":"0.1.0","deps":[],"cksum":"41f36d93c51ea26c8cf4d146397dd6e2af606fc2f489c4bbec4fc9d394730150","features":{},"yanked":false}
+{"name":"aprs","vers":"0.2.0","deps":[{"name":"approx","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1b9a0df0a6984ac33a1a17c402a8c59071433d3a452712f9f9ee4aa1ae24ec8d","features":{},"yanked":true}
+{"name":"aprs","vers":"0.2.1","deps":[{"name":"approx","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46530684280de5d0c34f8e82444bfd4af96f7c856b672b3b0e2f18d62af4e01b","features":{},"yanked":false}
+{"name":"aprs","vers":"0.3.1","deps":[{"name":"approx","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1049eab6e8b7b37359eb1e0ba8be4f8d6614c6f13a404337715d4b9a6d63c584","features":{},"yanked":false}

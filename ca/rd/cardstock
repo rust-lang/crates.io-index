@@ -1,0 +1,1 @@
+{"name":"cardstock","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.209","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa5c08f70acd67afec851d7c107791a7ae388df12cf78daef37c147ed5e5a0bd","features":{},"yanked":false}

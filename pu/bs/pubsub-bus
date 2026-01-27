@@ -1,0 +1,6 @@
+{"name":"pubsub-bus","vers":"1.0.0","deps":[],"cksum":"854ff2d313b84597fcffc2e7d8374ca2b69591dcf035b60b190230e117d78e36","features":{},"yanked":false}
+{"name":"pubsub-bus","vers":"1.1.0","deps":[{"name":"shared-type","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a39fca2a87f69d03270e9cf833e42b0aa398f6c43a6658e64c1d2cb0b4202192","features":{},"yanked":false}
+{"name":"pubsub-bus","vers":"1.1.1","deps":[{"name":"shared-type","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9aa678a1fdfdc64e96ef0a9cf7af74d6d0f60d4f034764506400c0643d7cb133","features":{},"yanked":false}
+{"name":"pubsub-bus","vers":"2.0.0","deps":[],"cksum":"9d18acb297e0e29144523e55d0ddb4b79f379176bf6499cdb904efd3c34a8d99","features":{},"yanked":false}
+{"name":"pubsub-bus","vers":"3.0.0","deps":[],"cksum":"022da44126c26994e7768a9d8ca75764a8ba4db95f9ea1919d692ab1df913e52","features":{},"yanked":false}
+{"name":"pubsub-bus","vers":"3.1.0","deps":[],"cksum":"c64dbf4a74053f6529fde8c5b50a1471aced24233dffcabfeacd7cb8a07ba832","features":{},"yanked":false}

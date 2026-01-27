@@ -1,0 +1,2 @@
+{"name":"yaml-reader","vers":"1.0.0","deps":[{"name":"serde_yaml","req":"^0.9.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"897abd49815a6a7a04a42fd9881d8d9306122db5f309c68945e252e2850968cf","features":{},"yanked":false}
+{"name":"yaml-reader","vers":"1.0.1","deps":[{"name":"serde_yaml","req":"^0.9.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64b8a9dd391d3dd62f70e53c3ac93acd5e1e0a994277e683fd262add55dd7770","features":{},"yanked":false}

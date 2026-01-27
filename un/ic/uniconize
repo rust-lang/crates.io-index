@@ -1,0 +1,2 @@
+{"name":"uniconize","vers":"1.0.0","deps":[{"name":"x11rb","req":"^0.4","features":["vendor-xcb-proto"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3289d91ff77d28bb876ea913f27b976971b961571b18d24d742bab8e199f7d8d","features":{},"yanked":false}
+{"name":"uniconize","vers":"1.0.1","deps":[{"name":"x11rb","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"768948af2303f3ea9b3f476f47b183a301b9c8677ce7c2d293ec93922cc2edaf","features":{},"yanked":false}

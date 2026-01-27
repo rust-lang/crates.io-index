@@ -1,0 +1,4 @@
+{"name":"dolphin","vers":"0.1.0","deps":[],"cksum":"9d033a765ab03fc516fcc903d101e5197c682c41fe2ca434d662153c8fe1ea8d","features":{},"yanked":false}
+{"name":"dolphin","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00ce3bd43f7e05bb92ae4909d8d1f09e9e7da25766898d6c958e6cf0f2fc4fa2","features":{},"yanked":false}
+{"name":"dolphin","vers":"0.2.1","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9923e0d901f22762002ef0c95b28ea374d52236f84f4bce2f88e67440329385","features":{},"yanked":false}
+{"name":"dolphin","vers":"0.3.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d60fe0a2e65aca106757746052406f88c587be4274c6e72a1390025522cbd20c","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"consume_ptr","vers":"0.1.0","deps":[],"cksum":"dd9b7fde221c9e3b9499244ca62e79cbda30b3713c504b68929668ab2effef74","features":{},"yanked":false}
+{"name":"consume_ptr","vers":"0.2.0","deps":[],"cksum":"3b56cf0b8ac91bae59083c16f73192561ce85da5087761c4555998474aec3d5f","features":{},"yanked":false}
+{"name":"consume_ptr","vers":"0.2.1","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cfecbc614c2e4d1fa7c9d2680bdd6213895facd3bfe6f309edf4b2ce57f9e58","features":{},"yanked":false}
+{"name":"consume_ptr","vers":"0.2.2","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84bf95da48849e37920348b761d6a30c54e7f9bf10bb7fe07738e600f15cce97","features":{},"yanked":false}
+{"name":"consume_ptr","vers":"0.3.0","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6621fd83649e079e8916748b2075f0813c0e565bf7e08c2342972be735fa2109","features":{},"yanked":false}

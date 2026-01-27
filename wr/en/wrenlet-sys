@@ -1,0 +1,1 @@
+{"name":"wrenlet-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b14bf294954524997044ee692776e4f3ee9fa946ef767eb3f5b44dcc7bd9c85c","features":{"default":["meta","random","wren_v0_4_0"],"meta":[],"random":[],"wren_v0_4_0":[]},"yanked":false}

@@ -1,0 +1,10 @@
+{"name":"mini-server","vers":"0.0.1","deps":[],"cksum":"5571eeb7bad872574ad3d6f66a8a241d233aa566de311da834715b475d8cfa0d","features":{},"yanked":true}
+{"name":"mini-server","vers":"0.0.2","deps":[],"cksum":"7655c5717938cd030cc9ee991e5db16c260c1319b0b783f1bb93aacb32b1e779","features":{},"yanked":true}
+{"name":"mini-server","vers":"0.1.0","deps":[],"cksum":"d9a40c8da9664c5bae6d0a926d4c64673a8f8956281fd3993f94a17191d39cdb","features":{},"yanked":true}
+{"name":"mini-server","vers":"0.1.1","deps":[],"cksum":"9d951fa4c87a07e0519f9ea1997ef3a80e528273eb2146aa70fd659c1a831e6d","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.1.2","deps":[],"cksum":"d282a007c200d5ed81005b83ab75cf872668874c5297d11c212b34bb4a15e27c","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.2.0","deps":[{"name":"httparse","req":"^1.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729699ee492745219951aff1fb4f7694e85894ba9e91c4ec75decb851012f667","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.2.1","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ea35aa719501f5724ff3fa8e4cbdda210b633ebae0c12844d4ca0f12a8cd61d","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.2.2","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04595c82947560f94d4718698ec3ca843623a77d600d629da09ebab7621fdc66","features":{},"yanked":false}
+{"name":"mini-server","vers":"0.2.3","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd43e2889e35eb1a59978e705145867198a87caa619d4784fdbbbcf210b2fe9a","features":{},"yanked":true}
+{"name":"mini-server","vers":"0.2.4","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb42ad0b49a0a566dc4a2d1b05ecc202a62f5f31438000c3692338901c5448f0","features":{},"yanked":false}

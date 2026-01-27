@@ -1,0 +1,1 @@
+{"name":"x520-stringprep","vers":"1.0.0","deps":[{"name":"unicode-normalization","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9636764714ff558f8fce74e024f892ad39f5a5bdcba8e90a756a1d8d8491b4f7","features":{"alloc":[],"default":[]},"yanked":false}

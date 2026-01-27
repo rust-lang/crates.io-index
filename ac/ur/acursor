@@ -1,0 +1,2 @@
+{"name":"acursor","vers":"0.0.1","deps":[],"cksum":"c0cd62f09f594e522865803d0f3491b33c34ca8e33e38b722393fdfce6fd97e6","features":{},"yanked":false}
+{"name":"acursor","vers":"0.0.2","deps":[{"name":"concat-idents","req":"^1.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"346de831a87dcff042ac0c86b34fc589bb3d0976c1806b518ddda8f06d370e8f","features":{},"yanked":false}

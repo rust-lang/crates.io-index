@@ -1,0 +1,1 @@
+{"name":"luby","vers":"0.0.1","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"paste","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"969709a283c38c725d0d706fead7098120491716f7f30ec0b20dbfc1806c5ff2","features":{},"yanked":false}

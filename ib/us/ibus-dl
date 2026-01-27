@@ -1,0 +1,1 @@
+{"name":"ibus-dl","vers":"0.1.0","deps":[{"name":"dlib","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"once_cell","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87380cd74064a7d0ab238bde65daec41b929b5874c87f0f2cd1e6b9ba48b77b","features":{},"yanked":false}

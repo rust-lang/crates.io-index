@@ -1,0 +1,2 @@
+{"name":"smart_channel","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.37.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53dc94e1a3a82d2d6d7afdcd93c69d34946af357087723ecd2f7cc48b8ac512f","features":{},"yanked":false}
+{"name":"smart_channel","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.37.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7a1e5edd9b4d0cf951ea9e1ba769e97dd57a35c497fce70215eb00eb3c87723","features":{},"yanked":false}

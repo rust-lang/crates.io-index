@@ -1,0 +1,2 @@
+{"name":"interval-timer","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"571f396cbf2870265cfac3267f47c520104b1318ae9c00beb12c900b030a1f12","features":{},"yanked":false}
+{"name":"interval-timer","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0c229e4467dbc616ab759a4580d72e8c50808f364933614d3c52cc7326ee140","features":{},"yanked":false}

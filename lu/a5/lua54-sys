@@ -1,0 +1,2 @@
+{"name":"lua54-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1766bb4522e260a3b0e26f38f7f1cc8a4c83c5eccdecf0d3879267a885abbac1","features":{},"yanked":false}
+{"name":"lua54-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"32650e051860a658e5f3a88b23592390e77a1d84b8cbe1268d1b1e1d590b82f2","features":{},"yanked":false}

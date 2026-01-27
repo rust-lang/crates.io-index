@@ -1,0 +1,2 @@
+{"name":"woman","vers":"0.1.0","deps":[],"cksum":"09716e7287864d82216285078e6cd00f091acc2f4e89dd2958e256fe1e934f82","features":{},"yanked":false}
+{"name":"woman","vers":"0.1.1","deps":[{"name":"webbrowser","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"712e481ac16ff019e3344e4f2e5cc073ce0e6d9d324c6ef0f36cfed1c4048cbb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ioctl-term-light","vers":"0.1.0","deps":[],"cksum":"a219cc4ef3bd666b20ee804025c555381eaa2d72a250a3e98e25f25463545e6f","features":{"any-fd":["fd"],"default":["stdout"],"fd":["stdio"],"stderr":[],"stdin":[],"stdio":["stdin","stdout","stderr"],"stdout":[],"u8":[]},"yanked":false}
+{"name":"ioctl-term-light","vers":"0.2.0","deps":[],"cksum":"ff82f0002d7e266878d0950f3eac601a8097e14648e515c66c62252e2482336c","features":{"any-fd":["fd"],"default":[],"fd":["stdio"],"stderr":[],"stdin":[],"stdio":["stdin","stdout","stderr"],"stdout":[],"u8":[]},"yanked":false}

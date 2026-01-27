@@ -1,0 +1,2 @@
+{"name":"remote_led","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb55ec9a1e4ebf1fe141fc063095920cc3869476b3c47583f49adfd6dcb1daee","features":{},"yanked":false}
+{"name":"remote_led","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf62d212b443f855fe7341463fc725cf05e321b5a4bb15478dff81b1056286db","features":{},"yanked":false}

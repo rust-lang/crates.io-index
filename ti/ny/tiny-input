@@ -1,0 +1,2 @@
+{"name":"tiny-input","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dd4e77bbede3753c25ee554a404c5333d255dc397aaffd4747290b54ccc0403","features":{},"yanked":false}
+{"name":"tiny-input","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"def4375018f9c034a3ac7e4b347fc6a01e12019ca59b219b693f77ea19f36374","features":{},"yanked":false}

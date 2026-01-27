@@ -1,0 +1,2 @@
+{"name":"gles31","vers":"1.0.0","deps":[{"name":"beryllium","req":"^0.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00d8620b93d544447ea9e5aebb401c98673e633dc9800a30b4cf20795f8a268a","features":{},"yanked":false}
+{"name":"gles31","vers":"1.0.1","deps":[{"name":"beryllium","req":"^0.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e81b604a71575bcfd8a2a9eae06b9670e83cc350587cdde4d7cc0d563f231559","features":{},"yanked":false}

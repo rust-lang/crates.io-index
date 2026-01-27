@@ -1,0 +1,10 @@
+{"name":"icu_casemap_data","vers":"1.3.0","deps":[],"cksum":"aa34f80d65b34d081e075efa24e67a79ccc26990e696a617dd42716f6ee947f0","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"icu_casemap_data","vers":"1.3.2","deps":[],"cksum":"1251070c14d5b94cd00f97025e9cedce6a6eeb39485e2a226c58432cc4f72ffd","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"icu_casemap_data","vers":"1.4.0","deps":[],"cksum":"f36409fb8ce6f87c408310d87396ac471cc7320e007e648814c607c60fe77cc5","features":{},"yanked":false,"rust_version":"1.67"}
+{"name":"icu_casemap_data","vers":"1.5.0","deps":[],"cksum":"4d57966d5ab748f74513be4046867f9a20e801e2775d41f91d04a0f560b61f08","features":{},"yanked":false,"rust_version":"1.67"}
+{"name":"icu_casemap_data","vers":"2.0.0-beta1","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"775e0d5c043b5de41cd3c31e5133b985026b2a5032b80bbabb5c760feae5bf75","features":{},"yanked":false,"rust_version":"1.71.1"}
+{"name":"icu_casemap_data","vers":"2.0.0-beta2","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c73c14a74f7902d0101a574879a9994b27f34c75b4e6fcc5bc5259d5423b22d4","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"icu_casemap_data","vers":"1.5.1","deps":[],"cksum":"02bd9f6276270c85a5cd54611adbbf94e993ec464a2a86a452a6c565b7ded5d9","features":{},"yanked":false,"rust_version":"1.67"}
+{"name":"icu_casemap_data","vers":"2.0.0","deps":[],"cksum":"f7584067558ab4c60c95d1ac2abd1588689cb4bcd4e099507f62dae86ae8d2c0","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"icu_casemap_data","vers":"2.1.0","deps":[],"cksum":"5257c318cd124086c62b8b2b570c7a37235d2e8d38b8ff9476ff8a8be6702dd1","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_casemap_data","vers":"2.1.1","deps":[],"cksum":"98d4663d0f99b301033a19e0acf94e9d2fa4b107638580165e5a6ccc49ad1450","features":{},"yanked":false,"rust_version":"1.83"}

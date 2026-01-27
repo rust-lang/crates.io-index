@@ -1,0 +1,4 @@
+{"name":"sbcom","vers":"0.1.0","deps":[],"cksum":"938501cdcaa4da3402f35a6a88ba567176951ecaffc1b5e3c619b06ca27dc035","features":{},"yanked":false}
+{"name":"sbcom","vers":"0.1.1","deps":[],"cksum":"bae0bc330803d22d85a47f767ec632ca1d8e6ae4cbe28aad59bdbbf17eab93b2","features":{},"yanked":false}
+{"name":"sbcom","vers":"0.1.2","deps":[],"cksum":"e715ad387620d5c98fe0cdaf1efafb87c4192e1422c1c89392538f03beb4673d","features":{},"yanked":false}
+{"name":"sbcom","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81b54cdaca35ba44e1f230567dcd33c82194ffccb5dcddc1b8833943af1474a4","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"binmult","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5871bd161ef44e9365fb63a90971e51993a56fa5702797a8a526ab0a99fc6e31","features":{},"yanked":false}
+{"name":"binmult","vers":"0.2.0","deps":[{"name":"clap","req":"^4.3.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e51f4d3bba00802f89e206e70a23451e0221fc3f1b055f9458b7303aebe378c","features":{},"yanked":false}

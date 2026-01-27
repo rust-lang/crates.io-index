@@ -1,0 +1,2 @@
+{"name":"tico","vers":"1.0.0","deps":[],"cksum":"b9d73fbfe0205d9c15fb2768ac13d5bba2c39909bf326f5b36818aade6739464","features":{},"yanked":false}
+{"name":"tico","vers":"2.0.0","deps":[{"name":"dirs","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20504f870e91af64207477dcbf5da4c37276268c4c4c1245b0ec9d0c1e52ae89","features":{},"yanked":false}

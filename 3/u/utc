@@ -1,0 +1,2 @@
+{"name":"utc","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aeea00a3c155ca0f32e1b249f05c80c528047a39a6d5775a82cd3badf420d045","features":{},"yanked":false}
+{"name":"utc","vers":"0.2.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0d77eb4c5ba3b63fbf69d21b34bb54bdf076ce68182a53b17a2ae3114f92eba","features":{},"yanked":false}

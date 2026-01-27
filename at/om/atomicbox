@@ -1,0 +1,4 @@
+{"name":"atomicbox","vers":"0.1.0","deps":[],"cksum":"960c5b9f6219284f9b34d8c696f0577286ebd0d60fc4bb6a3a42e76181812a6f","features":{},"yanked":false}
+{"name":"atomicbox","vers":"0.2.0","deps":[],"cksum":"b75f6e0d8e4f812a02da3096065d33caae71a9c98749b6a1bd5cb4ace96ac1c4","features":{},"yanked":false}
+{"name":"atomicbox","vers":"0.3.0","deps":[],"cksum":"edb660842935616be7ef06ad7d9f942a75c9edf4cb6c34a28ac6752fd26735d0","features":{},"yanked":false}
+{"name":"atomicbox","vers":"0.4.0","deps":[{"name":"compiletest_rs","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8a9a3820bc9e9aaf60c8389c2a4808548599f4ff254ce6bdb608ac3631d4ad76","features":{},"yanked":false}

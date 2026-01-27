@@ -1,0 +1,2 @@
+{"name":"spooky-season","vers":"0.0.0","deps":[],"cksum":"5e0964bc2b07a5e9766e78a9546a6309cf199287353d2d9d8aafd3425ec50b82","features":{},"yanked":false}
+{"name":"spooky-season","vers":"1.0.0","deps":[{"name":"time","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c54c1b48f425d75fb1d1f38bad9327c0ce9bf00cc3b0b0107dfac5f6f57242b2","features":{},"yanked":false}

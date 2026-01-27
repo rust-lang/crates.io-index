@@ -1,0 +1,2 @@
+{"name":"bsd-kvm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fca9cf07f3919813213be25dc046d0797bc920cb065a8a8d497b28d97a6eb388","features":{},"yanked":false}
+{"name":"bsd-kvm-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"65408f926d3766661595309e0a70bbed02ef27bb74603db6199ab9394103c932","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fastcontains","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b773a1d9cf80ebfdb15ea9605e2cd13f1feca776dabce3b19cea44d39a677f46","features":{},"yanked":true}
+{"name":"fastcontains","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f28e1b9d6163cc8494a89ce8aeb0a070d890b1d95c7c02cdf0cce65ec5d89dd","features":{},"yanked":false}

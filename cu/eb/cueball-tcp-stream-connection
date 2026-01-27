@@ -1,0 +1,2 @@
+{"name":"cueball-tcp-stream-connection","vers":"0.3.0","deps":[{"name":"cueball","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad89a3a788475718a05245852cf56a983e1ba33065accf41b1a0517fbdd13463","features":{},"yanked":false}
+{"name":"cueball-tcp-stream-connection","vers":"0.3.1","deps":[{"name":"cueball","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f44023adcde6f562bd8483b3399b4908a752da5dcbfc82c99c6a1ca859434d1","features":{},"yanked":false}

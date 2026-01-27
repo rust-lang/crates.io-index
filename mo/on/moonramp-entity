@@ -1,0 +1,1 @@
+{"name":"moonramp-entity","vers":"0.1.22","deps":[{"name":"moonramp-core","req":"^0.1","features":["lib","sql"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f955850c18a20845aaede910b0950adeeb4567a065215ec0c19d334660f78ba4","features":{"testing":[]},"yanked":false}

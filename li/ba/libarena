@@ -1,0 +1,7 @@
+{"name":"libarena","vers":"0.1.0","deps":[],"cksum":"aac3632712784a91f7d3d5792d15d51a06269b82789b1d3ad56dbdcc767b7cf7","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.1","deps":[],"cksum":"f37e8a8d104862d507208254afc00527c1c17e61003ca9bd0df383ed5a4fec69","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.2","deps":[],"cksum":"099c66a728ca25b67fb277185c01b069ef3680077b113b2414b2441fc0a30a93","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.3","deps":[],"cksum":"fab603a801f3fb30ea36e0232d2038e54e7a839f80a1bf756937a7991acafb5e","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.4","deps":[],"cksum":"ef4b7781c1abb0334659b5ef09ba49dd33419a85545c4df8b496553e392f6421","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.5","deps":[],"cksum":"0a859ba80099db8a7720bc1b06e1b4386e6f67b1bcf07505cc8707e2f098ee9c","features":{},"yanked":false}
+{"name":"libarena","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d3e6317a31c319f8706d8141c81f23ac08094b9c9edab11aa7a46a8a8cfc5c5","features":{},"yanked":false}

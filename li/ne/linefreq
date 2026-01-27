@@ -1,0 +1,2 @@
+{"name":"linefreq","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"203570b2ef4182d5f44181c9ebba83bdaa55802a89931394bff4113bab2e8d44","features":{},"yanked":false}
+{"name":"linefreq","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85e4c7555a0eda00e59c7455b1836a15501c85e7f1d890d116c1c8c2090c89ff","features":{},"yanked":false}

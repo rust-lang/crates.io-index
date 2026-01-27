@@ -1,0 +1,1 @@
+{"name":"bearssl","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1133045c18d1123eeaee9a430938fc8e981bcd3fb2251f8ac656626f3febda60","features":{},"yanked":false}

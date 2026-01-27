@@ -1,0 +1,2 @@
+{"name":"log-rs","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b7b551d896469eb942153150399d97fabdd6869c58186e1713d4dfea4cb0e90","features":{},"yanked":false}
+{"name":"log-rs","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18eb3915d5f744da770202568f383d01a9d40ae21f8cc5919d5f2dc5c1a2b5b5","features":{},"yanked":false}

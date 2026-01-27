@@ -1,0 +1,2 @@
+{"name":"mkstemp","vers":"0.1.0","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03c8e3888ea397607f973979a82782f3582a3d737f40965d35902908977b6e2b","features":{},"yanked":true}
+{"name":"mkstemp","vers":"0.2.0","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f1f8797db84cbcc4a246d673f7d3062abffd53b062f9356e1169a122e3b149f","features":{},"yanked":true}

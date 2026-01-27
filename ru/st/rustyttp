@@ -1,0 +1,1 @@
+{"name":"rustyttp","vers":"0.0.1","deps":[{"name":"ctrlc","req":"^3.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d63b03c34baea6fe203ba77507edc32ea8c12f5f20d876896c89066d4f47e2b2","features":{},"yanked":true}

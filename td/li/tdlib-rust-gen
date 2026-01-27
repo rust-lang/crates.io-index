@@ -1,0 +1,2 @@
+{"name":"tdlib-rust-gen","vers":"1.0.0","deps":[{"name":"tdlib-rust-parser","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a300a4c2a3d3186c392bcb3002efd89f690e0b3f7c71617055e9719750cbc30","features":{},"yanked":true}
+{"name":"tdlib-rust-gen","vers":"1.0.1","deps":[{"name":"tdlib-rust-parser","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59ac9187b5b9a07fda256bdae6bd5fda06e8f7a89f5d2b676b09338dacc6476b","features":{},"yanked":true}

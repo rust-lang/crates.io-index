@@ -1,0 +1,1 @@
+{"name":"nailgun","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e0ca9d6413d927b8d11870c3a40c3162da663867f471ad76c5486ac7aa55be1","features":{},"yanked":false}

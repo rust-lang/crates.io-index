@@ -1,0 +1,2 @@
+{"name":"logical","vers":"0.2.0","deps":[],"cksum":"eb081f3b867ae40652578c1cb40403ee5aa063df78c71590391c8851af730c22","features":{},"yanked":false}
+{"name":"logical","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d46cfa7f4c6b5c7f978fd5402fe3aebe37c6186f4014d713a032a9136e02f72f","features":{},"yanked":false}

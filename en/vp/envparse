@@ -1,0 +1,1 @@
+{"name":"envparse","vers":"0.1.0","deps":[{"name":"compiletest_rs","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"62c1a5f4ccdee846cab47afc8caf7404cf4c8980ea0754e4e9742bf982cd0195","features":{},"yanked":false,"rust_version":"1.82.0"}

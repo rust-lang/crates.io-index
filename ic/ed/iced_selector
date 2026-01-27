@@ -1,0 +1,2 @@
+{"name":"iced_selector","vers":"0.0.0","deps":[],"cksum":"f29f18b89ef958162067382e247d8da9e6d7633fcc2e9b84830652bd42a1399c","features":{},"yanked":false}
+{"name":"iced_selector","vers":"0.14.0","deps":[{"name":"iced_core","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1442ccc30959cc48b3a624233521ef7f3bc3e06528b6fe306c3a775fbddc4fe","features":{},"yanked":false,"rust_version":"1.88"}

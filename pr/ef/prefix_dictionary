@@ -1,0 +1,2 @@
+{"name":"prefix_dictionary","vers":"0.0.1","deps":[{"name":"bitflags","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1137e0c5181625aa701e4e8ec8897b7b2eb3f6aa38bd0c1f48cb37be40c927d7","features":{},"yanked":true}
+{"name":"prefix_dictionary","vers":"0.0.2","deps":[{"name":"bitflags","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d72ff14807d1d961076b9d4cdfc8b0ca536111732b613b45401a6bc893126040","features":{},"yanked":false}

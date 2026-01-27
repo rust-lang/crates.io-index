@@ -1,0 +1,6 @@
+{"name":"wasm_mutex","vers":"0.1.0","deps":[],"cksum":"7cdd2368aa60d78b2421ccbdcb8020b3c5c69851682b30f3ae0e7d8610c38ae5","features":{},"yanked":false}
+{"name":"wasm_mutex","vers":"0.1.1","deps":[],"cksum":"63ed8b4fb7a05502382cb27f7a0c349832df6b460bf9c9ff7cf8b4f820c09040","features":{},"yanked":false}
+{"name":"wasm_mutex","vers":"0.1.2","deps":[],"cksum":"1e1bd49fd4f530038faaedb992b741ebe0dd86561201380212a0bda43911b3b6","features":{},"yanked":false}
+{"name":"wasm_mutex","vers":"0.1.3","deps":[],"cksum":"7ca6ae4f6c91f97f5e0a7a567734195816451e0430d706543fbc97e42a3ed4df","features":{},"yanked":false}
+{"name":"wasm_mutex","vers":"0.1.4","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efbdddc3b163fc2d639800b3411a5428d1e151ba2a400a560b1545e39f1e68cd","features":{},"yanked":false}
+{"name":"wasm_mutex","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd58278a2d9b33ae3e134252dc229751f2bdf9e5792f2288af3873b699240a1b","features":{},"yanked":false}

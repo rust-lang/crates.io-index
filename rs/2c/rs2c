@@ -1,0 +1,1 @@
+{"name":"rs2c","vers":"0.0.1","deps":[{"name":"syn","req":"^2.0.72","features":["clone-impls","derive","extra-traits","fold","full","parsing","printing","proc-macro","visit","visit-mut"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1580b5f21abe23715c0d0e96282b47687f0e0ce7a8036208aebde37aaa8bf7d","features":{"opencl":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"cfgc","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b94e92941b8b992b0fab8981429900edcf510608bc7263ec58ba48e76e7136","features":{},"yanked":false}
+{"name":"cfgc","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8c2737bbffcb89a74625678965d6b2cb2c95703b944483834e550e9225b1951","features":{},"yanked":false}

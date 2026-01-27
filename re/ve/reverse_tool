@@ -1,0 +1,1 @@
+{"name":"reverse_tool","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"516289b4800eb8619794e867ba17d0636c1493c61d89bdf55b94c8b693c231ec","features":{},"yanked":false}

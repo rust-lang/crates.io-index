@@ -1,0 +1,2 @@
+{"name":"polaris-registry","vers":"0.1.2","deps":[{"name":"polaris-specification","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c8542dee484c2a028b56ca24aea89de96a1b156b7774c148077156441bb3ef","features":{},"yanked":false}
+{"name":"polaris-registry","vers":"0.1.3","deps":[{"name":"polaris-specification","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8234897e71032d865564d8da0d696ab4f0cde8c5c632b8cf5f90e6950630943","features":{},"yanked":false}

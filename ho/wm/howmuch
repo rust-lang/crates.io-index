@@ -1,0 +1,3 @@
+{"name":"howmuch","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3f3680ef4750ac51062f768bfbe03912cd5d259f3691c7cec8f3f0b1180e6ac","features":{},"yanked":false}
+{"name":"howmuch","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeedcc0c533bbab2390cb330dc7db67e338b678f3b9c3222869b9e5aa1bf9a16","features":{},"yanked":false}
+{"name":"howmuch","vers":"0.1.2","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c27b680cc7edbb260a0750e66b79244ce9ac6d2ff14d61c19400426e9b9d24c2","features":{},"yanked":false}

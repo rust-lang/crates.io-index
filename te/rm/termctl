@@ -1,0 +1,3 @@
+{"name":"termctl","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19c1fae94cac8cbc0f683488a795bce55ed734c1386b57efc65e910a0a412ea1","features":{},"yanked":false}
+{"name":"termctl","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f868757948abf7ed8afba94d64d0e68e3d371085b9af81d25843507dc18cafe","features":{},"yanked":false}
+{"name":"termctl","vers":"0.1.2","deps":[],"cksum":"80dafb4c9c8a3a8296c7a09a2ca82df8fbb414dcd649d53d0e7ea10b77709c77","features":{},"yanked":false}

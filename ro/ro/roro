@@ -1,0 +1,1 @@
+{"name":"roro","vers":"0.0.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"roro-lib","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1877b103b9c497454f8d5389869aec980a85fdcf996b91af2d11be0be0433b2","features":{},"yanked":false}

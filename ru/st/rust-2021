@@ -1,0 +1,2 @@
+{"name":"rust-2021","vers":"1.0.0","deps":[{"name":"reedition","req":"=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db032ac6d582619805dd7d6778a5eaf10bcb9721713a7681dd88d0be05bf7fc0","features":{},"yanked":false}
+{"name":"rust-2021","vers":"1.0.1","deps":[{"name":"reedition","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7b893963041a2f92f35a7021eaee683579361410a137eca6951fb944c077170","features":{},"yanked":false}

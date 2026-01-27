@@ -1,0 +1,2 @@
+{"name":"AngryWolf","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f36097ec874289a3f17f8b3c4e6981000668b1291d5e5381674a54802d4e5eff","features":{},"yanked":false}
+{"name":"AngryWolf","vers":"0.1.1","deps":[{"name":"clap","req":"^4.1.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4114ef0f49d772729531ddc4b35ad219588eb66e21fb0023a58872b5f3a2f1ef","features":{},"yanked":false}

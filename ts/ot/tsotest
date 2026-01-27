@@ -1,0 +1,2 @@
+{"name":"tsotest","vers":"0.1.0","deps":[],"cksum":"f7e983e23db570866c0bb23ff7af177121d98b5335c3606cd2e02ad94a3fadbc","features":{},"yanked":true}
+{"name":"tsotest","vers":"0.2.0","deps":[{"name":"sysctl","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8fb1aa0286d2d28000a466d6d3393c75b3f834308099d3e5c51427f496c5aca","features":{"apple-tso":["sysctl"],"default":[]},"yanked":false}

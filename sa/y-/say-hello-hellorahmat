@@ -1,0 +1,3 @@
+{"name":"say-hello-hellorahmat","vers":"0.1.0","deps":[],"cksum":"131793b501c83ed2b8099e01517ffc818db23ffcecb9539b407b6e2e1680279f","features":{},"yanked":false}
+{"name":"say-hello-hellorahmat","vers":"0.2.0","deps":[],"cksum":"7ddee4f9d5847930515f8038cada98d6429ebe0342a2b3521db11dd6d8a498e4","features":{"all":["hello","bye"],"bye":[],"default":["all"],"hello":[]},"yanked":false}
+{"name":"say-hello-hellorahmat","vers":"0.3.0","deps":[],"cksum":"9d76294ad5a13dc1a67b13b1e9c753f0219cc4055ca99a3794a5c577bf0c88a3","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

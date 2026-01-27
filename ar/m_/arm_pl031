@@ -1,0 +1,4 @@
+{"name":"arm_pl031","vers":"0.1.0","deps":[],"cksum":"571188e730d161d896e494d821d14bf2afda822cb10fbe94b537e96791c9dd1d","features":{},"yanked":false}
+{"name":"arm_pl031","vers":"0.1.1","deps":[],"cksum":"3392676d21de757a82e91af9a38c1dad24a93fb024b8e6b9e27f113e876d2d73","features":{},"yanked":false}
+{"name":"arm_pl031","vers":"0.2.0","deps":[],"cksum":"8c648929b336714a4d3c4fc519d43f47b1869de1b72f0f2d9ac188cfecba51af","features":{},"yanked":false}
+{"name":"arm_pl031","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"13696b1c2b59992f4223e0ae5bb173c81c63039367ca90eee845346ad2a13421","features":{"default":["chrono"]},"features2":{"chrono":["dep:chrono"]},"yanked":false,"v":2}

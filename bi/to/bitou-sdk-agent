@@ -1,0 +1,1 @@
+{"name":"bitou-sdk-agent","vers":"0.0.1","deps":[{"name":"anchor-lang","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a97fff8ad338bdf66313e61bb4aa0960e5960182c8d1998c639d731ffb578cf","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

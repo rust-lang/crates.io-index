@@ -1,0 +1,2 @@
+{"name":"eta_obj_pool","vers":"1.0.0","deps":[{"name":"crossbeam","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15c3be199691f752b93126ade843c73670c707afb674da1acca8c1ed84273363","features":{},"yanked":false}
+{"name":"eta_obj_pool","vers":"1.1.0","deps":[{"name":"crossbeam","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76c3c53779fdec53ed8fe3996ef5de6b4665d0c22d55266936f329fa9016f16e","features":{},"yanked":false}

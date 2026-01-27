@@ -1,0 +1,2 @@
+{"name":"core-midi-sys","vers":"0.1.0","deps":[{"name":"core-foundation-sys","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a70ae7209ec8a5458710fb6e52a474e845c0f072af93eed7990838c5d27d913b","features":{},"yanked":false}
+{"name":"core-midi-sys","vers":"0.1.1","deps":[{"name":"core-foundation-sys","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80b9c70d61e7b1440e731fbbfef9f0c8d8d4bc93e7e12174af7c06b4e0dd45c9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rule_kit","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3346a67fbbe2f63a1c617259d9490957007402ebadf0e2deb1669c30bf063c79","features":{},"yanked":false}
+{"name":"rule_kit","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e206623b9a621ced2c332e3724026384af409169aaf5dbbfaf0b9503f331c4f0","features":{},"yanked":false}

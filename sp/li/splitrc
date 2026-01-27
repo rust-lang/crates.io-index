@@ -1,0 +1,13 @@
+{"name":"splitrc","vers":"0.1.0","deps":[],"cksum":"a29c814745bc46e33399672c5d58809cfb729f5ba74de26970bcc499d0bc04c4","features":{},"yanked":false}
+{"name":"splitrc","vers":"0.1.1","deps":[],"cksum":"853cd8cdaedf7429acefd23ed99c802cbc0cb86fd33c932a52572718fbb43b4a","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.2","deps":[],"cksum":"6dde37fc48f4159b8cf81a443f1091de088d031e6bde5f680f27a788ba9523d4","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.3","deps":[],"cksum":"83b259c3525b7322e9b400f4a64eda9aead3dfcbb4f96145e4ba56d7b7f97a32","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.4","deps":[],"cksum":"7fdb0c86c6c819b6056cb9aedb6c34112198ba6f979d8024337ec0b3e8811b9b","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.5","deps":[],"cksum":"e2ea97a478262ca99a42f1f07e9bf5b957ad6d10728c0f75b4fb281db57b9aca","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.6","deps":[],"cksum":"33c03656a937e7a1ff522fe103d1b77aeeeef030eb797322cc09654b21dbec9c","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.7","deps":[],"cksum":"8c937b5cd884ac9b5232bc2743069b4da28eae07ad055ebc6a58088c17f36fda","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.8","deps":[],"cksum":"b1f99f4ea86477a688a410230c5b8e85ab1f5b774842ad5e7a488d726e2bd630","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.9","deps":[],"cksum":"aae3c5ba2fe370dc29cdcbb09b9c735c68847d51fb40dbdecf2e3860a68767ca","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.10","deps":[],"cksum":"eb06140afd3c53fda01c2239614212eaa55b183d854a4183697516aa0b4e0d82","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.11","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"47b79ee2c54233ac5daac7d10591811ca6b2d4de567e025ae593f2b8265fbda2","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.12","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"4a2ce692d1bbd1cbda76240618a3a521d2306df6970be32fed03f8d9ac21c9a2","features":{},"yanked":false,"rust_version":"1.56.1"}

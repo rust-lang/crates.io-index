@@ -1,0 +1,9 @@
+{"name":"reim","vers":"0.0.0","deps":[],"cksum":"7beedf14974e5ee71180c2657aa94cc270315ec17d8d6a3b1cf0055b31464502","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.1","deps":[],"cksum":"29082fbf3de0215541595f33952c9b3c5585ef8804af7b538e360424da5d85fd","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.2","deps":[],"cksum":"11d58141c2bdc0faff1a63f09b060bad856e744f98c813afd54e8abbad734bf2","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.3","deps":[],"cksum":"be2f9a6f2cbd832459a3daaadd0e0de787ac851d3a80da9fcb445153ec166186","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.4","deps":[],"cksum":"df248874cb00de3c926a11a3a33089297fde5b14bc28ddf6e6267213579fe21f","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.5","deps":[],"cksum":"a57590f1bc10edb14587247a4b7a87dc95d4cb3d2606a5877bfac0e903446e73","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.6","deps":[],"cksum":"c4170a993dcf86bc29b417cd86e05562d6b56b556668815ae00d412aa23398ea","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.7","deps":[],"cksum":"2748fd6d802382247dbbac640f53e7cd94ff6ae83f6fdfefc45eb0ff762bbcd0","features":{},"yanked":false}
+{"name":"reim","vers":"0.0.8","deps":[{"name":"disp","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff9bb9d2a861e539098388ea76ec07f4ad6007b5e31af0ba1bb414b271eb7dd9","features":{},"yanked":false}

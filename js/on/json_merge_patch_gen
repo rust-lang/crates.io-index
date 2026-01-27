@@ -1,0 +1,2 @@
+{"name":"json_merge_patch_gen","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a808b37baea0c83feb644e7d82b7ce62d1ed8563e947a4b71788cd23ab8b8bb","features":{},"yanked":false}
+{"name":"json_merge_patch_gen","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f0d557b0ce11fdcb6f2c1c19e5a510be4ffda88ba47d7fd1c5a766c88a00170","features":{},"yanked":false}

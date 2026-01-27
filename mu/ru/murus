@@ -1,0 +1,2 @@
+{"name":"murus","vers":"0.1.0","deps":[],"cksum":"d2a5db5278700b567e37a41fb3f8c3d04ba9e3d52e3cb68fcc8d28d01f1184f7","features":{},"yanked":false}
+{"name":"murus","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf19785acdeba5c683a554fa7377a3b421ded1c5de6a0e6281c8eb48c7108f1a","features":{},"yanked":false}

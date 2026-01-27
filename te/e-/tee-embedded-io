@@ -1,0 +1,1 @@
+{"name":"tee-embedded-io","vers":"0.1.0","deps":[{"name":"embedded_io","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"embedded-io"}],"cksum":"c4040e9295b6bc2865a3e0c07c98ab4a2261a6321d5eab16466ccce984f540c3","features":{},"yanked":false,"rust_version":"1.82"}

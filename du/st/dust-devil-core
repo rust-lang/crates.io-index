@@ -1,0 +1,2 @@
+{"name":"dust-devil-core","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c31083f3812f7d270b1c2e8074b226bdeb19632ffd58620ed47f5ac608ea81a6","features":{},"yanked":false}
+{"name":"dust-devil-core","vers":"1.1.0","deps":[{"name":"tokio","req":"^1.36","features":["io-util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5d937c9e3efa117dad051753b2e151673243264cc0f69b3f54246a04113fdf9","features":{},"yanked":false,"rust_version":"1.76.0"}

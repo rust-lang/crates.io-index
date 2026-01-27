@@ -1,0 +1,3 @@
+{"name":"nimiq-collections","vers":"0.0.0","deps":[],"cksum":"f1fcba0bdb66a5b694f3c77666996dd9c687648c94fe14b3a8d08724119afcea","features":{},"yanked":false}
+{"name":"nimiq-collections","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"175d47ea326719f8ee503c43a85f923b5f8bbf1a308dcb1b8583ebd18239fc63","features":{},"yanked":false}
+{"name":"nimiq-collections","vers":"0.2.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"141e47b159c9af1b252340ee975c58bb8e39a87d060628ee730c2fe483c72d9c","features":{},"yanked":false}

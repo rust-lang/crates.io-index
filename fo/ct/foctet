@@ -1,0 +1,2 @@
+{"name":"foctet","vers":"0.0.1","deps":[],"cksum":"1a97d837020b6b3f383d3cd702e45a8e3e7aa050189a2211d10e924de01757ad","features":{},"yanked":false}
+{"name":"foctet","vers":"0.0.2","deps":[{"name":"foctet-core","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"foctet-net","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54f0fcccd58bd872dc12adbd27d4537e8bd3f0b8b95bce5faaf1b693dd4a1c39","features":{},"yanked":false}

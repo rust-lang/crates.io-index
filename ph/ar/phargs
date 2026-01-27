@@ -1,0 +1,2 @@
+{"name":"phargs","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f49cdfe3e1629fda6c817b0b0032001d369e7a5270e0222484e4da2bf683ead","features":{},"yanked":false}
+{"name":"phargs","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccc6072ec1be6f193c1f53a953ce82accc456d24a58b2d475e2890f13c32396d","features":{},"yanked":false}

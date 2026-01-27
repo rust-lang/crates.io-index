@@ -1,0 +1,2 @@
+{"name":"wolrs","vers":"0.1.0","deps":[],"cksum":"2fa210a95b8447bbad3da135360cd1218581b48ab57cd018877b3e86dda84226","features":{},"yanked":false}
+{"name":"wolrs","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e79ece034dead0587907e060561bbf49ee23e1ec4ce9754bc223f2a57229ac9c","features":{},"yanked":false}

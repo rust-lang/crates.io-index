@@ -1,0 +1,1 @@
+{"name":"nmcr_types","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0937a1914439354286212ef6e07dc4b20580a7233070838d04e351da31304a5f","features":{},"yanked":false}

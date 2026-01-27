@@ -1,0 +1,1 @@
+{"name":"rotext_core","vers":"0.2.0","deps":[{"name":"rotext_internal_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20a3839355b61f497e5991555dc91cb8ff504430a6f0ef74b6c8f5671ba61163","features":{"block-id":[],"line-number":[],"test":[]},"yanked":false,"rust_version":"1.80.0"}

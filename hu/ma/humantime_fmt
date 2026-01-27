@@ -1,0 +1,1 @@
+{"name":"humantime_fmt","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a68bc6edd83d2d86a8570adb0cfeb96a0cc9add78ad0885c14148dbc9ee4b97","features":{"default":[]},"features2":{"with-chrono":["dep:chrono"]},"yanked":false,"v":2}

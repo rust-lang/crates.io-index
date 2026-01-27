@@ -1,0 +1,2 @@
+{"name":"rsmt2d-rs","vers":"0.0.1","deps":[],"cksum":"11a055323f3c3094faa6d57c2e51ed5335a0aa58d8d3f7c1c2c242175df7171e","features":{},"yanked":false}
+{"name":"rsmt2d-rs","vers":"0.0.2","deps":[{"name":"eyre","req":"^0.6.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reed-solomon-erasure","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2702fe3214e73a7ce5645392085ae608f5554f2d00016c499f0fbca4711a8937","features":{},"yanked":false}

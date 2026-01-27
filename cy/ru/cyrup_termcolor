@@ -1,0 +1,1 @@
+{"name":"cyrup_termcolor","vers":"2.0.0","deps":[{"name":"winapi-util","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"7be7d2b05d0a97205c3da9e6c2c63a291852001f2fd4bd9a773909a002d8df89","features":{},"yanked":false,"rust_version":"1.85.0"}

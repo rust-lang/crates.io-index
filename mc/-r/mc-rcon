@@ -1,0 +1,2 @@
+{"name":"mc-rcon","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6c6218c0ab94aafea4a4c7925c9f720271615372f906356c0640a61bad4dfcb","features":{},"yanked":false}
+{"name":"mc-rcon","vers":"0.1.1","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7274fcd1a810664c2f8e3dd115750dee793e38085a1f4792c5f957c0b756e650","features":{},"yanked":false}

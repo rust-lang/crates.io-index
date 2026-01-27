@@ -1,0 +1,13 @@
+{"name":"biometrics","vers":"0.1.0","deps":[],"cksum":"17135d8199b1fcd5637bfdf5e07e64308ab87555f6d5b0589210d403234311ac","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.1.1","deps":[],"cksum":"a0d0f6fc75066ed9fe7d3a5358130539d861d8fe5e57027e04a54146140881ba","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.2.0","deps":[],"cksum":"73ad7bcc1d43a6d2615c2ee7cc6b2aa4be072f5cf169c7d6f584bf65652f4652","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.3.0","deps":[],"cksum":"d7377cdab9830397108431f108e6b48506595057362c631200b0597375746325","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.4.0","deps":[{"name":"utilz","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e33dc41771aa7d92e95755d464fbe87b0610635a66045b0a3add3e68e757adbd","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.5.0","deps":[{"name":"utilz","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97dd08b16d6b0c8abcafa3fd9ea19fb6372e502117fa5883b48f59480234bf02","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.6.0","deps":[],"cksum":"4a49bd0f27a9c4742d7ecf2114f6a63e6c29e4bf1368cb9cbc6f5e6d3c8e115a","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.7.0","deps":[],"cksum":"488d7d0845f42a7b542f34ad1af6ce4517b87bf2796640c60e3c410e77131bb2","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.8.0","deps":[],"cksum":"a17e5a5e5f113186483ade7c864b55d4ed738023908018e8cde832c3714dcf1a","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.9.0","deps":[{"name":"sig_fig_histogram","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22a50124c9be28b92ff57aa4f0d14744de4053b253d3d451b7bc08f989dba6a4","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.10.0","deps":[{"name":"sig_fig_histogram","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d497470bfb1e5ade63ac03cd2871ed7ef7c7cc8657ee43b1469e4988e1bafc97","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.11.0","deps":[{"name":"sig_fig_histogram","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a57ccb987381ca5b26969c7fd54582060e51b6582b3450b433307ae14fc4ab0","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.12.0","deps":[{"name":"sig_fig_histogram","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45f7064e02662745f850952e2193fbb22ee2c9375b1e16b57978f46074f62473","features":{},"yanked":false}

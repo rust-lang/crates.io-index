@@ -1,0 +1,2 @@
+{"name":"clay-sys","vers":"0.1.0","deps":[],"cksum":"1dc7d29552a58210ec4cc95f4892bf56b17af9a80bb345d97d56c63677752f73","features":{},"yanked":false}
+{"name":"clay-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.71.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ceb8da752c9b98a6a3e8b9051cb0a3ee31497829b762ef117a08a6ca6200497a","features":{},"yanked":false}

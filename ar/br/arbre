@@ -1,0 +1,1 @@
+{"name":"arbre","vers":"0.0.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ombre","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15c03349bb7e6693b8b5eb642f077066df8af4da817978584cfcc96af2fd9689","features":{},"yanked":false}

@@ -1,0 +1,10 @@
+{"name":"husky-rs","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"534cab1ebdb55e6d20a31af1613749a5cf252518b3621596f1d86944cd331729","features":{},"yanked":false,"pubtime":"2024-09-28T15:45:27Z"}
+{"name":"husky-rs","vers":"0.1.0","deps":[],"cksum":"99a3b537b1aa0bef63682e491b6cbe901b7f65ad963260767fbf98add8137a25","features":{},"yanked":false,"pubtime":"2024-09-30T06:26:42Z"}
+{"name":"husky-rs","vers":"0.1.1","deps":[],"cksum":"9ddfac7246a1c6d67c96502a5668a70b7aa6c0c454dca96527af90bfcaf15218","features":{},"yanked":false,"pubtime":"2024-09-30T11:39:59Z"}
+{"name":"husky-rs","vers":"0.1.2","deps":[],"cksum":"71a27f5032d996ed5d0cf3e6a072344ff1230c6ec658537daf8e3c15483d74c8","features":{},"yanked":false,"pubtime":"2024-11-21T10:32:03Z"}
+{"name":"husky-rs","vers":"0.1.3","deps":[],"cksum":"9729fb312823e96d3520a40b5437feabe9f9781eeabbbf6b16f36419c3f22ccc","features":{},"yanked":false,"pubtime":"2024-12-17T04:11:58Z"}
+{"name":"husky-rs","vers":"0.1.4","deps":[],"cksum":"5a8db0f38697ef9d7febf0c5fe38558b57196b2f6c27993be52fe1b3287c466f","features":{},"yanked":false,"pubtime":"2025-05-30T03:21:29Z"}
+{"name":"husky-rs","vers":"0.1.5","deps":[],"cksum":"8595e3e777338ccc8360c4eb89924f8d7e55a5ff831d057e1c65892c220da28f","features":{},"yanked":false,"pubtime":"2025-06-03T07:18:00Z"}
+{"name":"husky-rs","vers":"0.2.0","deps":[],"cksum":"a4d2a7deea8dd713d9abef1ed37bfdf273959e086660c521efa2e1ea03eb0f0e","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T06:58:08Z"}
+{"name":"husky-rs","vers":"0.2.1","deps":[],"cksum":"9e14139f558a2bb40b505b52727f95fa15f3666e5348f0ec98e9a0bc079a4f68","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T07:42:07Z"}
+{"name":"husky-rs","vers":"0.2.2","deps":[],"cksum":"8e19b1f9afa96d1ad62b9709744752f11f1e6d9ff8675ff3f53eac1b95f5d168","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T10:10:43Z"}

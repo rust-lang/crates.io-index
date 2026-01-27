@@ -1,0 +1,2 @@
+{"name":"oci-annotations","vers":"0.1.0-v1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b2901437389ea7d5b54541a2b055f64f0a46abc7a19f799e6496363601d781","features":{},"yanked":true}
+{"name":"oci-annotations","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c424f9bdcd62234607b91c46fcc40ec21408f406ecda63f0a4ddeb56473c5a","features":{},"yanked":false}

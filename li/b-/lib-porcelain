@@ -1,0 +1,4 @@
+{"name":"lib-porcelain","vers":"0.1.0","deps":[],"cksum":"4ba75c80937a7e7ee84b9b97864f0c96b83523d70785e65d024f4aa6bcd9d7ec","features":{},"yanked":false}
+{"name":"lib-porcelain","vers":"0.2.0","deps":[],"cksum":"03cb891877f7ff9586a76475636e8de3d53fec134fbdd13ef153fcd391d08a1b","features":{},"yanked":false}
+{"name":"lib-porcelain","vers":"0.2.1","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"950616a476ac8716987fba374c23f34058e9dbcea90a533dcc615ccbce8bc08f","features":{},"features2":{"num":["dep:num"]},"yanked":false,"v":2}
+{"name":"lib-porcelain","vers":"0.2.2","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbf0f87a257e989a217233eb7db4cfc345d5ca6365d55374bd6bb88177cca932","features":{},"features2":{"num":["dep:num"]},"yanked":false,"v":2}

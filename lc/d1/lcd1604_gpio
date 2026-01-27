@@ -1,0 +1,2 @@
+{"name":"lcd1604_gpio","vers":"1.0.0","deps":[{"name":"rppal","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d9e60f734c4358073ca7e1cd236dec7c3a9fae4b89f8631b79d5cd84ad7ddf9","features":{},"yanked":false}
+{"name":"lcd1604_gpio","vers":"1.0.1","deps":[{"name":"rppal","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e62266838e8e87a390438226789cdfd725956920e4ffa24d230c90f2a312b8e7","features":{},"yanked":false}

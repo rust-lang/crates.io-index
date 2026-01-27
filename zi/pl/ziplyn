@@ -1,0 +1,1 @@
+{"name":"ziplyn","vers":"1.0.0","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zip","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc5c5aabe6324ce98b7a359843fc1c55a275210b4de762b70e2e9c5769fdc452","features":{},"yanked":false}

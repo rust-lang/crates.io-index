@@ -1,0 +1,2 @@
+{"name":"no-std-moving-average","vers":"0.2.0","deps":[{"name":"heapless","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d20a232bb99ad8832a65935f03088f888560ee068a262a76c0a1c3fb7678d8a5","features":{},"yanked":false}
+{"name":"no-std-moving-average","vers":"0.3.0","deps":[{"name":"heapless","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c4b8f733db831b1c3d55d059c039fa4b167bde475da6f6f498c20160f910d29","features":{},"yanked":false}

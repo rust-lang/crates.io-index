@@ -1,0 +1,2 @@
+{"name":"cobt","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0bc7c28213d09209c87437a4e63f3fc24dcd735afb609c16d48cebfd5f7ac30c","features":{},"yanked":false}
+{"name":"cobt","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9123d18ef322e014e3c2769010300b46111b42acbd06d9721bffee7bdbc83ae9","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mnist_read","vers":"1.0.0","deps":[{"name":"ndarray","req":">=0.13.1, <0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5192e0c8eea716be8b52d2ccb95a02b9a3ee231a1172c8e3ba2b5eb23d9cc10","features":{},"yanked":false}
+{"name":"mnist_read","vers":"1.0.1","deps":[{"name":"ndarray","req":">=0.13.1, <0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3f5427cd3f348adeec11b8fee9a11683812800bae4f9a6ed853b9ba1f6f7023","features":{},"yanked":false}

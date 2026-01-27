@@ -1,0 +1,1 @@
+{"name":"ivt","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6183ce505137a58e14e7ab44fd1976f3328ff3acf56a13672facb768c502c90","features":{"serde_derive":["serde"]},"yanked":false}

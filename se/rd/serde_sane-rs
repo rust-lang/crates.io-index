@@ -1,0 +1,3 @@
+{"name":"serde_sane-rs","vers":"0.1.0","deps":[],"cksum":"1c0a5107d5fa5b9174677e141c5f3a0d6c7e8392619158f7a502ddca699f8524","features":{},"yanked":false}
+{"name":"serde_sane-rs","vers":"0.1.1","deps":[],"cksum":"c9858483f002eaf27214b04aa5102f1c7a67d64cdc769281b2a28e2e4b165e59","features":{},"yanked":false}
+{"name":"serde_sane-rs","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54a098855ce4f9784a2a5bfefda100c149546ed3622dc263c2389b7afe897f91","features":{},"yanked":false}

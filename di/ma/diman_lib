@@ -1,0 +1,2 @@
+{"name":"diman_lib","vers":"0.5.0","deps":[],"cksum":"3907169d65bc429a39644b556ec6f9aee1d053311c42430af6efe30c5b77b912","features":{},"yanked":false}
+{"name":"diman_lib","vers":"0.5.1","deps":[{"name":"num-traits","req":"^0.2.17","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf9739004e5a32a01e0fec56dc0d06ed78cc135c3f854ee2373b844f3c74cc9b","features":{"num-traits-libm":["num-traits/libm"],"std":[]},"yanked":false}

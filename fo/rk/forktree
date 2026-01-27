@@ -1,0 +1,3 @@
+{"name":"forktree","vers":"0.0.0","deps":[],"cksum":"c6df9172ee875c7425c69191aac2d94cd6baed658fbaa22168abb77304d19ef0","features":{},"yanked":true}
+{"name":"forktree","vers":"2.0.1","deps":[{"name":"codec","req":"^2.0.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tetsy-scale-codec"}],"cksum":"f658081d8b6086a382a3500730de51a1bb51ce382c218436b40c94a2f10948b7","features":{},"yanked":false}
+{"name":"forktree","vers":"2.1.2","deps":[{"name":"codec","req":"^2.0.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tetsy-scale-codec"}],"cksum":"f46c45588c285f9c9166af7d1faef32ec82c3e692e2b37d7b4c10ac2dbcdc499","features":{},"yanked":false}

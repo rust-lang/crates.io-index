@@ -1,0 +1,5 @@
+{"name":"tbc-rust-library","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.208","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97f3e18ccf7c51e496e9b3155f49688694d70205f164f205d95a7e9018089494","features":{},"yanked":true}
+{"name":"tbc-rust-library","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.208","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f41e100798749c1ea13dccf5f855343d89d26ec0a1ab020fe75de7d43d7c5742","features":{},"yanked":true}
+{"name":"tbc-rust-library","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.208","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"931a1429df82908513072e4df056e0f8cf354bc65e441c730b4e321ad88eb1d6","features":{},"yanked":true}
+{"name":"tbc-rust-library","vers":"0.2.0","deps":[],"cksum":"6ab6e187bdad2da0584acd8878504b72027dfb7251257b46496e839e6d19a149","features":{},"yanked":false}
+{"name":"tbc-rust-library","vers":"0.2.1","deps":[],"cksum":"1dd765ef48f2246463ee2443f5eb129a233ee7377d9a5247bc7384f2ddd0b205","features":{},"yanked":false}

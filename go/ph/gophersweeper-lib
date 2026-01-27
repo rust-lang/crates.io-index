@@ -1,0 +1,2 @@
+{"name":"gophersweeper-lib","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"989fc19634087b43d8a41acf3a8052634bb2f7e321fd60090a67f3486113fe57","features":{},"yanked":true}
+{"name":"gophersweeper-lib","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f5ff223640faff553384eda269555da61c6e227b4a44b613df1caea1318c970","features":{},"yanked":true}

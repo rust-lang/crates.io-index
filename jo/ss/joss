@@ -1,0 +1,3 @@
+{"name":"joss","vers":"0.0.0","deps":[],"cksum":"d2687ea136bb708cb68c66631d09b660fb4812a66c37f1ce09d7b3af90261f5b","features":{},"yanked":false}
+{"name":"joss","vers":"0.0.1","deps":[{"name":"cstring","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a87b30d4a4a92af8d4f012ad24d0307dbb8dcb4f435e23561e072228ff2906","features":{},"yanked":false}
+{"name":"joss","vers":"0.0.2","deps":[{"name":"cstring","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37c9e04137d28a35c39185b24511bb11c61c0655f77712501c827f0bfb19e985","features":{},"yanked":false}

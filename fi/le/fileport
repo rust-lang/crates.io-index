@@ -1,0 +1,2 @@
+{"name":"fileport","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b374130e77d799e55e5c557467e8ab7e49ed9fd857b427ac355551ddf7db8828","features":{},"yanked":false}
+{"name":"fileport","vers":"0.1.1","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53cba0e5fa7069d73a6fa5b9787100885be228b28ce6069ad701572fe5a81e9d","features":{},"yanked":false}

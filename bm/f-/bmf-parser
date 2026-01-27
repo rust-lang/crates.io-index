@@ -1,0 +1,2 @@
+{"name":"bmf-parser","vers":"0.0.1","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0fdcba1cf6f367e2116b8185a9a35bec5e5bc2680a17f62a1f4d407ad36c1b1","features":{},"yanked":false}
+{"name":"bmf-parser","vers":"0.0.2","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95722d6e5a3643fbcef7bb66204e95734d6b8a173c57d42de82afb43167a125b","features":{},"yanked":false}

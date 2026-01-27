@@ -1,0 +1,1 @@
+{"name":"mort","vers":"0.0.1","deps":[{"name":"docopt","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da05cf55b54fc271c0ca0e982c3653e6852947efc7174a99d412a73461d8077c","features":{},"yanked":false}

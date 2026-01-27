@@ -1,0 +1,1 @@
+{"name":"fume-blocking","vers":"0.0.0","deps":[{"name":"reqwest","req":"^0.12.20","features":["blocking"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b456c71860cb3ce8b244bae551a816fddfb9a6ffdc27953a440f196b98dfb60","features":{},"features2":{"reqwest":["dep:reqwest"]},"yanked":true,"v":2}

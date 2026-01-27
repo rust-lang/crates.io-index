@@ -1,0 +1,4 @@
+{"name":"libpower","vers":"0.1.0","deps":[],"cksum":"b258f26e26f4aa13f4fb7422d44e2284358a902891f194c67cc53cc3d3dfe465","features":{},"yanked":false}
+{"name":"libpower","vers":"0.1.1","deps":[],"cksum":"d0553ffded376700599817b14d99c8d0667e8d9321ae87c6e45b5cb78b7d70fd","features":{},"yanked":false}
+{"name":"libpower","vers":"0.1.2","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d9e10b03d1a70f2fcb9211a9fd128ab589768a4458a3f90b405cdc548c379f0","features":{},"yanked":false}
+{"name":"libpower","vers":"0.2.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a6ec5d8db271e0abb5c295fd121e1b0edfde92343371d33704b25507228224c","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"bevy_asset_manager","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.0","features":["bevy_asset"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"27c3ac475f6f78b49c139ef781635ef3debd7c04c6bcd2bbb5996221465f4303","features":{},"yanked":false}

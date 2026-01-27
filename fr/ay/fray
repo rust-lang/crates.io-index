@@ -1,0 +1,3 @@
+{"name":"fray","vers":"0.1.0","deps":[],"cksum":"d987ead27f99bc898db371dfa35aa189f9ad2ce67c81e1c62525c2b86b61f4c7","features":{},"yanked":false}
+{"name":"fray","vers":"0.1.1","deps":[],"cksum":"473835ddafcdbaa7531e12e2c5fa5df93a8793146d5242bfc0aea93e87895497","features":{},"yanked":false}
+{"name":"fray","vers":"0.1.2","deps":[{"name":"fray-macro","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71118ec83502291cbe57887a5171f5043f602c9c2d29276c21cfb2382c77e40c","features":{},"yanked":false}

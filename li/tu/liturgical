@@ -1,0 +1,2 @@
+{"name":"liturgical","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26c29dd6a4ae4f524acfb223bd92a98031d7ff3ad64f0062cb60d23451ed7852","features":{},"yanked":false}
+{"name":"liturgical","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a9b9c26257173e569c179e33109af31bcfc63f6e4b5467c4aedb6e188e08fd9","features":{},"yanked":false}

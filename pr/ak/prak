@@ -1,0 +1,1 @@
+{"name":"prak","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.27","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a94a19f44f855d1b06917c9d486d6a7a2a5a7736c177eea399ede9acf274a2bd","features":{},"yanked":false}

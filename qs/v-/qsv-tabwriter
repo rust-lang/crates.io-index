@@ -1,0 +1,1 @@
+{"name":"qsv-tabwriter","vers":"2.0.0","deps":[{"name":"unicode-width","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54463b66af16cc13ab644a864ca4f6972e7d612317d64caf4a30867f12637e50","features":{"ansi_formatting":[],"default":[]},"yanked":false}

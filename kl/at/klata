@@ -1,0 +1,1 @@
+{"name":"klata","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tui","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c8f32e82a8aad8876159f82ea571e58f8af76adbf1c0667af6755d4892e0773","features":{},"yanked":false}

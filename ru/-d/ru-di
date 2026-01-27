@@ -1,0 +1,5 @@
+{"name":"ru-di","vers":"0.1.0","deps":[],"cksum":"43e2e02bfba2605433ccf7bfd7a0aa73998efd2d67a011cc0fbb80e731bd0116","features":{},"yanked":false}
+{"name":"ru-di","vers":"0.1.1","deps":[],"cksum":"dcfeb192f7c744016540a9506cfb7dd168290b1fdd56479f5f78d1e53e737306","features":{},"yanked":false}
+{"name":"ru-di","vers":"0.1.2","deps":[{"name":"tokio","req":"^1.44.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f83cc3647ea21d3129d63405e65255280d6673839478abeb69275f866e41581","features":{},"yanked":false}
+{"name":"ru-di","vers":"0.1.3","deps":[{"name":"tokio","req":"^1.44.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c54e8b139278ab66498c1e368d6d8d29cf9c9c4f2b69b503ef7089f378e2150d","features":{},"yanked":false}
+{"name":"ru-di","vers":"0.1.4","deps":[{"name":"tokio","req":"^1.44.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01f7cb3239319b65b92c73a325b86f24a064a894b63eb15ad05d4c0f3262f930","features":{},"yanked":false}

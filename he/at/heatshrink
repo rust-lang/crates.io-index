@@ -1,0 +1,2 @@
+{"name":"heatshrink","vers":"0.1.0","deps":[],"cksum":"efb0a929f7a00a443ade1bb4532758a7a377bfcf9124faa7e77e907a9a2e342b","features":{},"yanked":false}
+{"name":"heatshrink","vers":"0.2.0","deps":[{"name":"hex-literal","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b94defcbbb6dc44a18c52fb872edc27fff6dad1c093e7b88ea3bc8f732e19f5","features":{},"yanked":false}

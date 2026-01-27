@@ -1,0 +1,7 @@
+{"name":"vec-btree-map","vers":"0.1.0","deps":[],"cksum":"6863c34874b850861350ac8816540a6532e683589fd6fb2fe9fadd561c4e9ec1","features":{},"yanked":false}
+{"name":"vec-btree-map","vers":"0.2.0","deps":[],"cksum":"a9ac4081c4d5f22f1e26ded940ebe096cc747d5cf148951a39c7645b90948313","features":{},"yanked":false}
+{"name":"vec-btree-map","vers":"0.3.0","deps":[],"cksum":"77f6f47fb3c7594b860280fb362c371062b8abf8c503cf782d01d609f731e660","features":{},"yanked":false}
+{"name":"vec-btree-map","vers":"0.4.0","deps":[],"cksum":"4426248ab863a26883227295ffe3ed8a6769890ae3b046079f8e43d52a7d1a24","features":{},"yanked":false}
+{"name":"vec-btree-map","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"80534768d62293fc6ca8518b33cd56dedadf3c9be8dbbd7d0c53082ce557c247","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
+{"name":"vec-btree-map","vers":"0.6.0","deps":[{"name":"serde","req":"^1","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"93ddbe9f42bfa86db202dc2a8bccef30b2d481bfdfde13b7c668d440b18b581e","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
+{"name":"vec-btree-map","vers":"0.7.0","deps":[{"name":"serde","req":"^1","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e36004911cd700a088671273b22d0d8eb56a3bb6799f156a2cd4ce56d1491059","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

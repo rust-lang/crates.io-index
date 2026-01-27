@@ -1,0 +1,2 @@
+{"name":"enttecopendmx","vers":"0.1.0","deps":[{"name":"libftd2xx","req":"~0.31.0","features":["static"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1782ac5ffff1fb4e425e1ddeb28cacc524ea6dceb3849036516feab903ebbcf6","features":{},"yanked":false}
+{"name":"enttecopendmx","vers":"0.1.1","deps":[{"name":"libftd2xx","req":"~0.31.0","features":["static"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439b5a6167b4d55c80838155742c65c5159f76ee4acd25324bdeb142828aa0c5","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"guessing_game_jack","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0a6ef95d6d817ac7771acaf20f9b537310c1d56ae1f3f622ebdc317fdee3505","features":{},"yanked":true}
+{"name":"guessing_game_jack","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e70480cfe6c932c13f6cfad2a8c61a3d8898bfcf4999aed425b2cde89891754","features":{},"yanked":false}

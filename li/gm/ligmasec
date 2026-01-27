@@ -1,0 +1,1 @@
+{"name":"ligmasec","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha3","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e18c987c936292f769b4e6cbee17637d6ff306738fad110ba1a2768f24b5cdb","features":{},"yanked":false}

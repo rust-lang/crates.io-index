@@ -1,0 +1,2 @@
+{"name":"lambda-rt-test","vers":"0.1.1","deps":[{"name":"lambda-rt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cc772bbde40a679ea1e171463dbce03ce92534469651316e7b788440b025900","features":{},"yanked":false}
+{"name":"lambda-rt-test","vers":"0.2.0-pre.0","deps":[{"name":"lambda-rt","req":"^0.2.0-pre.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99c13eac5ce4a91ac60efc06a0d44fb3c1896120c33d41f12663060e12a37bab","features":{},"yanked":false}

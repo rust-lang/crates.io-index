@@ -1,0 +1,1 @@
+{"name":"dumpalo","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.140","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"24339a9ed5e66f2ff21d450d2c0709895b881a34fa721e634ed6f50983cece74","features":{"zero-on-dealloc":[]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"darc","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"67c2e55bf470a2167918e41baf6abeade9d10d7eb2befc4bd24ec712067ed2ac","features":{},"yanked":false}
+{"name":"darc","vers":"0.0.2","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"178141a5cf698d9ae706243a409233e8f89c0190efcbb8bdb1ededc705fb1f22","features":{},"yanked":false}

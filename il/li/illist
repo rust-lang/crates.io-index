@@ -1,0 +1,2 @@
+{"name":"illist","vers":"0.0.1","deps":[{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"82b9c23e8ecfc030743ff249117f27dfff3c668c1573294ce3db81228b19795c","features":{},"yanked":false}
+{"name":"illist","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fc1b1a33d8c9c557d964eadcecca7a93ba49ba0cc66a5e75121215884c42a576","features":{},"yanked":false}

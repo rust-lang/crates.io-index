@@ -1,0 +1,3 @@
+{"name":"felt-ui","vers":"0.1.0","deps":[],"cksum":"49abd33f4934338ec3a2dd00f43264badc37b2728c061f21ac255c66784b49fb","features":{},"yanked":false}
+{"name":"felt-ui","vers":"0.1.1","deps":[],"cksum":"b8475c9578772efe4e9b90a989bdd4e068b164ba3dfebc060931b9374e1b0f7e","features":{},"yanked":false}
+{"name":"felt-ui","vers":"0.1.2","deps":[{"name":"felt-platform","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e55ad7d914bf0513ac4765ff2fa0576904987612b1fcb8ba42fd6a9c1f789e6","features":{},"yanked":false}

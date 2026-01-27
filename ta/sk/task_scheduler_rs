@@ -1,0 +1,5 @@
+{"name":"task_scheduler_rs","vers":"0.1.0","deps":[],"cksum":"4dcaa3db98df0a00ba636ab47eb3d3d009bf97fc0fb4d908eb9b25ab53c2c616","features":{},"yanked":false}
+{"name":"task_scheduler_rs","vers":"0.1.0-beta","deps":[],"cksum":"fb1772fafe5cbcead99368b07e3cd8dafa9b897ab90153abe067bbdddcc682f9","features":{},"yanked":false}
+{"name":"task_scheduler_rs","vers":"0.2.0-beta","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4fb3c42c6abf24633fa2f23b868a846d7cf986133b48556d6086d884c99349","features":{},"yanked":false}
+{"name":"task_scheduler_rs","vers":"0.3.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ae5316d53c4bf955bc75654497cbeef70e0cf6a8a313d610bcccc7026c07f8","features":{},"yanked":false}
+{"name":"task_scheduler_rs","vers":"0.4.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91fd065d96240e118238020a807d06d6f340b6af0b16516ee702306a7db669db","features":{},"yanked":false}

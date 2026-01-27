@@ -1,0 +1,4 @@
+{"name":"labello","vers":"0.0.1","deps":[],"cksum":"186e01a12ac2c3c83bbe1d6d33d957100313f14396659c17320e3ccaf5b3a678","features":{},"yanked":false}
+{"name":"labello","vers":"0.0.2","deps":[],"cksum":"3ad8b95e6ea5c2ec9e8c7d27774280855aa3c65217e1fa865c5b6f18475b1eea","features":{},"yanked":false}
+{"name":"labello","vers":"0.0.3","deps":[],"cksum":"1868c70b94783b223cf84aabf66482e017830e612a3aeb2350cef7d251645877","features":{},"yanked":false}
+{"name":"labello","vers":"0.0.5","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ad1592c143a424992d48272f79cbf12389008543448bea0c88dd0a3ccd52796","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rs_sudoku","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cca9a903295cb3abbffe61a184db99bece33b3827711dfc42d408d282ff904dd","features":{},"yanked":false}
+{"name":"rs_sudoku","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"368741409fe7987072d76b9eed8a2987294d8aa10fac3ffde79d45a9160ea39c","features":{},"yanked":false}

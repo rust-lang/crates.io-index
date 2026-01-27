@@ -1,0 +1,5 @@
+{"name":"objc-encode","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"661b282675b3e4f38bf409ca4a66c881b605efe0dd7782ed6d2b3eb91d7dcff1","features":{},"yanked":false}
+{"name":"objc-encode","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e0aaa754575bf874499b2cc055541b3c8e93ea0f0340b5282db7e6a7bab389e","features":{},"yanked":false}
+{"name":"objc-encode","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe9ed0e86c3dad8daa8571796bc365fa7fd73e12eb254c39222609e04134e1ea","features":{},"yanked":false}
+{"name":"objc-encode","vers":"1.0.0","deps":[],"cksum":"ae9a4f12b94b57e9aeb6c0fd084fea36aa7efdb36d3a8fd0fd2ea458bee80d4b","features":{},"yanked":false}
+{"name":"objc-encode","vers":"1.1.0","deps":[],"cksum":"8a34fdd0d389ac7d4a94d1afeb9e2acc8d74ecf6d730519dd1a8625e8e1ed822","features":{},"yanked":false}

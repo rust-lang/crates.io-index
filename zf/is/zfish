@@ -1,0 +1,3 @@
+{"name":"zfish","vers":"0.1.0","deps":[],"cksum":"a491c5ac4474020ce627e1eeb0dca547e6a368e2e422e193499aef1419df6d2a","features":{"colour":[],"default":["colour"],"interactive":["raw"],"progress":["raw"],"raw":[]},"yanked":true,"rust_version":"1.90"}
+{"name":"zfish","vers":"0.1.8","deps":[],"cksum":"421cc892bdb54e379d7f0b8c400f07a6bf6965875d08560a87bd684b681b1ce4","features":{"colour":[],"default":["colour"],"interactive":["raw"],"progress":["raw"],"raw":[]},"yanked":false,"rust_version":"1.90"}
+{"name":"zfish","vers":"0.1.10","deps":[],"cksum":"553ddec2f3771120bc9e4365166dcb1ccbc45019478742be282f14e84d8fefbe","features":{"colour":[],"default":["colour"],"interactive":["raw"],"progress":["raw"],"raw":[]},"yanked":false,"rust_version":"1.90"}

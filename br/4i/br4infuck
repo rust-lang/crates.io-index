@@ -1,0 +1,6 @@
+{"name":"br4infuck","vers":"0.1.0","deps":[],"cksum":"11f2e92ce7af4ea240b336a8334ffcb5bbfc618faf7ae8f0e834be331b74a260","features":{},"yanked":false}
+{"name":"br4infuck","vers":"0.1.1","deps":[],"cksum":"3981ea2f433cb81158720a11b561a9cb1f64ae2ae30e4b3895d31c0a22b49954","features":{},"yanked":false}
+{"name":"br4infuck","vers":"0.1.2","deps":[],"cksum":"6a7a59ee5c9fa8ac766e6001c160e4bdfb6abe068048eedf4a2180a716f125c8","features":{},"yanked":false}
+{"name":"br4infuck","vers":"0.1.3","deps":[],"cksum":"83f449e711560c6843e7e6412e6842387df3b29ae8841c7d5ba66fab24950fe1","features":{},"yanked":false}
+{"name":"br4infuck","vers":"0.1.4","deps":[],"cksum":"1bd44e9a5f3384955773e9c21f67cdf47bfdf9a048ef1ae2710583af61d1438f","features":{},"yanked":false}
+{"name":"br4infuck","vers":"0.1.5","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6696b7bf566009cb2695ec5f5fa6d33270c0368977e08d00b11907d641935cf4","features":{},"yanked":false}

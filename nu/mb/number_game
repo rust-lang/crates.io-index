@@ -1,0 +1,2 @@
+{"name":"number_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f84fc9b7c06dcb0264e03301d10a210e7aa13aa97cf8c12d59cc1e1ec0ddc76","features":{},"yanked":false}
+{"name":"number_game","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c1536786333581bfebcdc776fa404bc97b40283a37adc8f41a59630a04e53d9","features":{},"yanked":false}

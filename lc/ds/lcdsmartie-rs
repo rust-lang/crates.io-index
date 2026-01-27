@@ -1,0 +1,2 @@
+{"name":"lcdsmartie-rs","vers":"0.1.0","deps":[],"cksum":"f5f0de783b5ca35af29bc4f974edd7460222262ad8e0911edb774b832e1fda80","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.64"}
+{"name":"lcdsmartie-rs","vers":"0.2.0","deps":[{"name":"windows-sys","req":"^0.52","features":["Win32_Foundation","Win32_Globalization"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a960769f1d8b0e38a5e85ddf38233664e4d6853b778e3a1c49d660414e429c","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.64"}

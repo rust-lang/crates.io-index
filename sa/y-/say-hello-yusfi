@@ -1,0 +1,4 @@
+{"name":"say-hello-yusfi","vers":"0.1.0","deps":[],"cksum":"4f0d2e7936d68f5b417237e06100b3e746c9c87cd73b62b5f94d3767a41bd513","features":{},"yanked":false}
+{"name":"say-hello-yusfi","vers":"0.2.0","deps":[],"cksum":"dd61cc518c705201cc9e11db1d9c0f64402662e3cf3847e9ed170f64977cf95b","features":{},"yanked":false}
+{"name":"say-hello-yusfi","vers":"0.2.1","deps":[],"cksum":"e9884e62247a3a0a8d6a4e790b3b4bdf7d1efb92f5ce05fdfcc409bb8b0697a4","features":{},"yanked":false}
+{"name":"say-hello-yusfi","vers":"0.2.2","deps":[],"cksum":"24ddc34499f048e003a1b497717a9023e6cd294c62eeff4e8d3ce5f5563abbe7","features":{"all":["hello","bye","everyone"],"bye":[],"default":["hello"],"everyone":[],"hello":[]},"yanked":false}

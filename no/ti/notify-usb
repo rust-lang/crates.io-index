@@ -1,0 +1,5 @@
+{"name":"notify-usb","vers":"0.2.0","deps":[],"cksum":"f0cb7e6b30e8b08fc5e233b0369ac78b66bdf9af9c5d6a063d7380cddf0a78b5","features":{},"yanked":false}
+{"name":"notify-usb","vers":"0.2.1","deps":[],"cksum":"9d4e03f4a89d750c24bbf96a0d1e51117c5a36a9765a474cf51ed9f501c3be57","features":{},"yanked":false}
+{"name":"notify-usb","vers":"0.2.2","deps":[{"name":"clap","req":"^4.5.49","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b7980047f3fc8cafd445eb17183ed677df58c4af27afc8cd622ce3fc7b57f2f","features":{},"yanked":false}
+{"name":"notify-usb","vers":"0.2.3","deps":[{"name":"clap","req":"^4.5.49","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"532e2eca2e5abf27c51ee9ea2bb20afc54dcc68e8baa73707f76a51ef5258cb4","features":{},"yanked":false}
+{"name":"notify-usb","vers":"0.2.4","deps":[{"name":"clap","req":"^4.5.49","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a8a0f4807112e88a4ed2a8372c22f10eecf67bb555f435c003e0a070fce9fd1","features":{},"yanked":false}

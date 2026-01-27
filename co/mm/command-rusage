@@ -1,0 +1,2 @@
+{"name":"command-rusage","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f63f1e2fd9072f8ca27dceaadd7957f9d8e7f9c466ba4d291e20ef0e9b5c4dd","features":{},"yanked":false}
+{"name":"command-rusage","vers":"1.0.1","deps":[{"name":"libc","req":"^0.2.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e1a796da605334652ec4426b137a920ffe649ead45f5e8fd2f44d56a58a3c17","features":{},"yanked":false}

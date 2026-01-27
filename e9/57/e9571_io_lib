@@ -1,0 +1,2 @@
+{"name":"e9571_io_lib","vers":"0.1.0","deps":[{"name":"e9571_file_lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e8e2e290c29557b22ab08373d1449ea2f1e746554be400c074c98a3196ce661","features":{},"yanked":false}
+{"name":"e9571_io_lib","vers":"0.1.1","deps":[{"name":"e9571_file_lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a30e1806c7eb10d6e728cdc513854d7e14bf9c84554c0e89d930885c89c24517","features":{},"yanked":false}

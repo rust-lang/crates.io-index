@@ -1,0 +1,1 @@
+{"name":"flvparse","vers":"0.1.0","deps":[{"name":"nom","req":"^6.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"71748c87425e358c795de4bc26b86bbeb4a1158fc409675fbb28ebffca7a64f4","features":{"alloc":["nom/alloc"],"default":["std"],"std":["nom/std"]},"yanked":false}

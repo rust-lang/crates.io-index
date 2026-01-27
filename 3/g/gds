@@ -1,0 +1,2 @@
+{"name":"gds","vers":"0.1.1","deps":[{"name":"byteorder","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e295c5f168aafe7791ff617ce2b29e8b56b1e7e13f19ffb51b48462ea2ab4998","features":{},"yanked":false}
+{"name":"gds","vers":"0.1.2","deps":[{"name":"byteorder","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc9f1b0504160d9caf888c9b25d0c8946bef64c62d2f39fa6401dea0d0b8fc2b","features":{},"yanked":false}

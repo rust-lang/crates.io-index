@@ -1,0 +1,1 @@
+{"name":"kbus-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.171","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14f1584a12890d33b1564d7954cd012305b1c1b61ae2f5fba38993b4663d0a09","features":{},"yanked":false,"rust_version":"1.85.0"}

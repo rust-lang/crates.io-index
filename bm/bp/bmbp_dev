@@ -1,0 +1,1 @@
+{"name":"bmbp_dev","vers":"0.0.0","deps":[{"name":"salvo","req":"^0.68.5","features":["default","serve-static","cors","size-limiter","logging"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aba29a8230c5f63f434fc75e20677671113c58ee67ca74827e885e4706757162","features":{},"yanked":false}

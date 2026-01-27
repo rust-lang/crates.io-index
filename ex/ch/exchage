@@ -1,0 +1,2 @@
+{"name":"exchage","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.9.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2860231220269c21964ff52dc3bb816277750e94ff59e94e2a7c512ca7504745","features":{},"yanked":false}
+{"name":"exchage","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.9.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f1cbeb2222c7ae47ee844de9daa64eec0f5b6f36f368bee88ca80bd8d526492","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"nay","vers":"0.1.0","deps":[{"name":"nix","req":"^0.24.1","features":["zerocopy"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0769d60848e2a66ee7f30eb47022d8661173c6cbaae290d18034616ecc9d77a9","features":{},"yanked":false}
+{"name":"nay","vers":"0.2.0","deps":[],"cksum":"0b8322e2e7616b76fe25ca494d0bcc023393a394c3771e05c56269344f691544","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"q1tsim-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8cd71f021cc842eacc5e8af8ae62340b453b5092cf8e0737c9c0513d2c77059","features":{},"yanked":false}

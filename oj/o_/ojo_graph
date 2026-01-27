@@ -1,0 +1,1 @@
+{"name":"ojo_graph","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proptest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f857a1b8a83e10d219e0fdfb905eae4b7d71dbe0437ff95ad482d2e549dac02d","features":{},"yanked":false}

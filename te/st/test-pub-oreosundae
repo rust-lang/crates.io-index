@@ -1,0 +1,3 @@
+{"name":"test-pub-oreosundae","vers":"0.1.0","deps":[],"cksum":"7ce9fe2f0c576cf7820140b82c36947416dc4ba41497d71f75f443792cf06865","features":{},"yanked":false}
+{"name":"test-pub-oreosundae","vers":"0.2.0","deps":[],"cksum":"f19293f8206b30071cb482960428a6d7177d964719b22259808d2a2752b2178b","features":{},"yanked":false}
+{"name":"test-pub-oreosundae","vers":"0.3.0","deps":[],"cksum":"3d38d684fdc631d175dea310f2a5f10a79289da1719c97aa6c18964add0f89c2","features":{"all":["hello","number"],"default":["hello"],"hello":[],"number":[]},"yanked":false}

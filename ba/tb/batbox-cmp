@@ -1,0 +1,2 @@
+{"name":"batbox-cmp","vers":"0.15.0","deps":[{"name":"batbox-range","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"423de44f32114540e7a40e9afbb83ba475f1447d33a6c7aacc1733c6c2a09569","features":{},"yanked":false}
+{"name":"batbox-cmp","vers":"0.16.0","deps":[{"name":"batbox-range","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e23bdfd4ef0439071fa7349508eeecb9868837d9476a990d94baea3be936e1c1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"sima","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"memchr","req":"^2.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae075804217c69e732dff329d501e769f31d73d7600d631545493902a5f63970","features":{},"yanked":true}

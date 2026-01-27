@@ -1,0 +1,10 @@
+{"name":"owfs","vers":"0.0.1","deps":[],"cksum":"c30b0715943df59ce1368c58844220a95baae50af1ec68631fcdd0b02ffeb4f3","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.2","deps":[],"cksum":"cf4207294bb2266df67f35231d95adc5eb53a3d2d7e9592a0291351cbbcb5e5c","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.3","deps":[],"cksum":"4c0967826145057c0770f76b466212001bad067a926a138198c82ad3ddaf3417","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.4","deps":[],"cksum":"9fc12a4a850a0218ac7f93cb2090cb8060347081bc3ee4e6fc8061fed252a10a","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.5","deps":[],"cksum":"1d5536f4651f8f1a3b992db9273c1c7555d48de7e498e0857508cc2204603a91","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.6","deps":[],"cksum":"cfec7d8ff38a40631257c9446c01f7e0cc8be4dec4b08b2c41e52ef10d07e2a2","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.7","deps":[],"cksum":"cfb40971c23617628d9d3ca06dc7cb5280c4502ee56909c102bce0c88dfe6a5a","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.8","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c6891d6cb2fc6979e4fac3db26ec1f41244e3e099512846458817288873b61","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.9","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79774b018234e1b4c640b5f551cebbc9bf872a5ea73297c8c19294e426e1b791","features":{},"yanked":false}
+{"name":"owfs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num_cpus","req":"^1.16.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"},{"name":"ureq","req":"^2.9.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"54f10936abe1c621c4b131771c3b1747d4cc57bc9d6d80d11f0b45d5d1f0150f","features":{"vendored":["num_cpus","ureq"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"goroutine","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22125322af4411edf80223f7c4b43e09769f7f549e89c2832f5cdbf49c932c3d","features":{},"yanked":false}

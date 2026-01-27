@@ -1,0 +1,11 @@
+{"name":"pico-args","vers":"0.1.0","deps":[],"cksum":"f4ddfc374d910f55e30d9414a3b6d9854b964931c4b139a5447c1d1c9b1feb9f","features":{},"yanked":false}
+{"name":"pico-args","vers":"0.2.0","deps":[],"cksum":"2fce25154205cf4360b456fd7d48994afe20663b77e3bd3d0a353a2fccf7f22c","features":{},"yanked":false}
+{"name":"pico-args","vers":"0.3.0","deps":[],"cksum":"22e32b0f3771287ebb436130477eabf0f11f934ed036099ad548bc885e708667","features":{},"yanked":false}
+{"name":"pico-args","vers":"0.3.1","deps":[],"cksum":"3ad1f1b834a05d42dae330066e9699a173b28185b3bdc3dbf14ca239585de8cc","features":{},"yanked":false}
+{"name":"pico-args","vers":"0.3.2","deps":[],"cksum":"6a71836ceac43f0349e3bd964f5bb902f7b003916f32a4ad00354dafc447fa8f","features":{"default":["eq-separator"],"eq-separator":[]},"yanked":false}
+{"name":"pico-args","vers":"0.3.3","deps":[],"cksum":"1b1eee8b1f4966c8343d7ca0f5a8452cd35d5610a2e0efbe2a68cae44bef2046","features":{"default":["eq-separator"],"eq-separator":[]},"yanked":false}
+{"name":"pico-args","vers":"0.3.4","deps":[],"cksum":"28b9b4df73455c861d7cbf8be42f01d3b373ed7f02e378d55fa84eafc6f638b1","features":{"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false}
+{"name":"pico-args","vers":"0.4.0","deps":[],"cksum":"d70072c20945e1ab871c472a285fc772aefd4f5407723c206242f2c6f94595d6","features":{"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false}
+{"name":"pico-args","vers":"0.4.1","deps":[],"cksum":"7d7afeb98c5a10e0bffcc7fc16e105b04d06729fac5fd6384aebf7ff5cb5a67d","features":{"combined-flags":[],"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false}
+{"name":"pico-args","vers":"0.4.2","deps":[],"cksum":"db8bcd96cb740d03149cbad5518db9fd87126a10ab519c011893b1754134c468","features":{"combined-flags":[],"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false}
+{"name":"pico-args","vers":"0.5.0","deps":[],"cksum":"5be167a7af36ee22fe3115051bc51f6e6c7054c9348e28deb4f49bd6f705a315","features":{"combined-flags":[],"default":[],"eq-separator":[],"short-space-opt":[]},"yanked":false}

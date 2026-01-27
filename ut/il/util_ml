@@ -1,0 +1,1 @@
+{"name":"util_ml","vers":"0.1.0","deps":[{"name":"libmath","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66701550287529010b9fae0489b29b8cbabac98e8fb5357cb13acba282992b80","features":{},"yanked":true}

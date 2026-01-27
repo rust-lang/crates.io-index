@@ -1,0 +1,4 @@
+{"name":"upsc","vers":"0.0.0-dev","deps":[{"name":"ash","req":"=0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wgpu","req":"^27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecd1fcde64fc600330d90ffbed2160883f018fb4a6926439abc5f0e36b7fc849","features":{"default":[],"dlss":[],"fsr":[],"xess":[]},"yanked":false}
+{"name":"upsc","vers":"0.0.1-dev","deps":[],"cksum":"49e58c75db6b502521110cfa082e8e4695f907f5e2d3c8d2569a5e4631d852ed","features":{},"yanked":false}
+{"name":"upsc","vers":"0.0.2-dev","deps":[],"cksum":"981e4e17898076585ba952161d53738161e26352f051040379b6a11ca84b35d5","features":{},"yanked":false}
+{"name":"upsc","vers":"0.0.3-dev","deps":[],"cksum":"23a7a399fe71c3eb63c048c08f60e4076877a4590a93106961d6d9b26cd54905","features":{},"yanked":false}

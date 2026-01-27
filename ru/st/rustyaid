@@ -1,0 +1,1 @@
+{"name":"rustyaid","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b46a32b2ee95beea3318bfc58040cf49c94c397adcbdaa3427a50659d568ede6","features":{},"yanked":false}

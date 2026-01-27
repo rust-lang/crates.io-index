@@ -1,0 +1,2 @@
+{"name":"solana-rfc6979","vers":"0.2.0","deps":[{"name":"solana-hmac-drbg","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59099e66de3f207d7de34b4fb809c98fd6cce74e7ef8505cb5e3f098e2851ece","features":{},"yanked":false}
+{"name":"solana-rfc6979","vers":"0.2.1","deps":[{"name":"solana-hmac-drbg","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a84d10e7f87982764bae30c7186cfa862b1b0c3a1869eb55e73fa3d0495829ed","features":{},"yanked":false}

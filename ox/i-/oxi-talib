@@ -1,0 +1,2 @@
+{"name":"oxi-talib","vers":"0.1.0","deps":[{"name":"ta-lib-wrapper","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc253a4084377a6bafee7794ef25d5986416cdedeca66a6da4730b83ee499d9c","features":{},"yanked":false}
+{"name":"oxi-talib","vers":"0.1.1","deps":[{"name":"ta-lib-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"834a9d55b4c5553ef411089b91394465703786d11d60e533962e2ecff2fbce43","features":{},"yanked":false}

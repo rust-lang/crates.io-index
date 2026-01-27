@@ -1,0 +1,1 @@
+{"name":"standard_test","vers":"0.1.0","deps":[{"name":"arbitrary","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af4bac6cd647192c3cb6e687af2703eb3a30e9187e555c664520cd848443ae70","features":{"default":["arbitrary"]},"yanked":false,"rust_version":"1.63"}

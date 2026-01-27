@@ -1,0 +1,2 @@
+{"name":"local-event","vers":"0.1.0","deps":[{"name":"pollster","req":"^0.4.0","features":["macro"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c29a4073b893a5414219e45bbc209ed6b3598bbf18ba6b81f6fe4b6ad54217ee","features":{},"yanked":false}
+{"name":"local-event","vers":"0.1.1","deps":[{"name":"pollster","req":"^0.4.0","features":["macro"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6e47923ad1ca92d95ae86522b135284dc7f86ddc91b6cce0df4062074b66ba5e","features":{},"yanked":false}

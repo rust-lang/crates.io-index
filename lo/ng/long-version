@@ -1,0 +1,1 @@
+{"name":"long-version","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smallvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e60649020deefe5ad8dd5acaec3badcd16ebefce8aa91fd67333af363a8d518","features":{},"yanked":false}

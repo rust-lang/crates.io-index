@@ -1,0 +1,2 @@
+{"name":"catenary-frontend","vers":"0.1.0","deps":[],"cksum":"daf4cee596bfbfd3d749b2085bd8b34358ae137084b7b1a30be41dc758d7d883","features":{},"yanked":false}
+{"name":"catenary-frontend","vers":"0.1.1","deps":[{"name":"web-sys","req":"^0.3.77","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yew","req":"^0.21","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b25de7671e7e5fc619618471f322310146b3109d1fcbe625176e01ae052fb39e","features":{},"yanked":false}

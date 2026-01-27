@@ -1,0 +1,2 @@
+{"name":"warrant","vers":"0.1.0","deps":[],"cksum":"0b919694d8119dce0d34985863fc772b292c70d1f4f4f27b5083ade8537897bb","features":{},"yanked":false}
+{"name":"warrant","vers":"0.2.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35d79121c88d1393786a067fad2a8c5e92e99fe04bcd527d2ca13b5a43e54080","features":{},"yanked":false}

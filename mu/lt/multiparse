@@ -1,0 +1,2 @@
+{"name":"multiparse","vers":"0.1.6","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02ca399fc4116df13a81f53b154232ce1a0d5d3e750571252b06794f6a2acdfb","features":{},"yanked":false}
+{"name":"multiparse","vers":"1.0.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c585984d4c6163d2a08dd14b78b3f234f800b21b8b5264df6017678fc59289c8","features":{},"yanked":false}

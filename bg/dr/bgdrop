@@ -1,0 +1,2 @@
+{"name":"bgdrop","vers":"0.1.1","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a304cdf1bcb4a59eaa1a684dea52b36271b7ce046251fe787e506407f9e6b7a5","features":{},"yanked":false}
+{"name":"bgdrop","vers":"0.1.2","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a443b699abd9d94ac409d177f7a3843a7ff27ceec3b0a4f0b9fed66b2a8c3d64","features":{},"yanked":false}

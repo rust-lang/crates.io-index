@@ -1,0 +1,2 @@
+{"name":"number-bytes","vers":"1.0.0","deps":[],"cksum":"671581b2b8e5f850906bcde3243cfb40032669d7b0957bfdd4a77e0ce9326da8","features":{"endianness":[]},"yanked":true}
+{"name":"number-bytes","vers":"1.0.1","deps":[],"cksum":"797272915ac5255526a70da9fed52ba5a2db59ebeb05947305740cb232a4a45e","features":{"default":["endianness"],"endianness":[]},"yanked":false}

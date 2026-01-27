@@ -1,0 +1,2 @@
+{"name":"pros_bindgen","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c087c377578267a3aed49d2e9d79dcccef5d15adec43fcc9a1b8abc774c51bf","features":{},"yanked":false}
+{"name":"pros_bindgen","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93419e1f30f56d5cd6028e32ff7322234e0639d55ae6845aecc5f6704c2f68bc","features":{},"yanked":false}

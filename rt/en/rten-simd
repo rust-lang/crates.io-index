@@ -1,0 +1,15 @@
+{"name":"rten-simd","vers":"0.10.0","deps":[],"cksum":"8eb16da64e0d08ce56dc17d8304ab2da541176ee30430c0b0e581a7841a660ae","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.11.0","deps":[],"cksum":"7f1bb63fc8a157699e42a501cf43512871b20d3bea755f3ffac3ab63f1af10c4","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.14.0","deps":[],"cksum":"2e5421816b02c13e647bc38aca1cb1046c1ab12b82ed20db3a6c051b17e8543a","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.14.1","deps":[],"cksum":"e491fbae05cf42d15fa282fe4a9ef2e32a8d088b267764412e71b39015bdcd50","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.15.0","deps":[],"cksum":"110b90ce15adb254df4887e113ec9114722b9d948f3fb0aeb3722dc141bad085","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.15.1","deps":[],"cksum":"120666e2732c9a5f054c0e99561c537619b7973344a6d3389411faa6abe2b466","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.16.0","deps":[],"cksum":"a17e91b7a5de96d4e9ce6667380fd9f20c09154e9b18d4baa594b3d56528e396","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.17.0","deps":[],"cksum":"c6df3401815ed390e7ab39f51333d4e836c55b37b947d37a89b1f08969eb666b","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.18.0","deps":[],"cksum":"54435da0587bd026f1440f219c27688a5902aa9024a42d5a0857505038c85704","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.19.0","deps":[],"cksum":"a67ab2fe1b3f595bbdd5aadad924c364dd71f260c95b8891f3729bbac72ae9f4","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.21.0","deps":[],"cksum":"4c267d235b86221b41d14a02dc3b66434ed88690034906d7c78ac626a721b960","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.22.0","deps":[],"cksum":"9551ca518a75c9d6d4063e5f82db20fac446c05131474e16bf29cbd762263021","features":{},"yanked":false}
+{"name":"rten-simd","vers":"0.22.1","deps":[],"cksum":"c970be9fe37a05428a4ac6876fc32e126d6fc9c0e5cef78a7e69a751ccc8535b","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"rten-simd","vers":"0.23.0","deps":[],"cksum":"3459e4fdcb59d89d6d5fb004bdfd2a08347042cd690a3e9c22d98710a89839bd","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"rten-simd","vers":"0.24.0","deps":[],"cksum":"b19a0032dfcb70dd20960c1c51a37674b237586cbc1ce586f45b46605d108e82","features":{},"yanked":false,"rust_version":"1.89.0"}

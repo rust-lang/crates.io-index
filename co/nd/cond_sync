@@ -1,0 +1,2 @@
+{"name":"cond_sync","vers":"0.2.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ec3bf182397222fc130527dccd16a4b793ad85ea019b4d4c91d8122a297d01a","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"cond_sync","vers":"0.2.1","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"deb55b7ec2b08e48757119d63b9fcee1ee92d9de07a6866e7614579688c0fe7f","features":{},"yanked":false,"rust_version":"1.70"}

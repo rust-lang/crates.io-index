@@ -1,0 +1,4 @@
+{"name":"logical_clock","vers":"0.1.0","deps":[],"cksum":"49098c8538ff03bc79fcacba01bddf515703f0d6a212a6f30ba485298db08785","features":{},"yanked":false}
+{"name":"logical_clock","vers":"0.1.1","deps":[],"cksum":"361b214e2e970837464d85ae1224b7ec927c369c775e611ba68f2c81864dd19e","features":{},"yanked":false}
+{"name":"logical_clock","vers":"0.1.2","deps":[{"name":"nanoid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d03feb55a17dd8723a2efb9a0ea96f0fef1a8e9197b99a2577c273be69845f1","features":{},"yanked":false}
+{"name":"logical_clock","vers":"0.1.3","deps":[{"name":"nanoid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f47c394acf2d0dcf5872e5e455612d35cc30529f2f6bb1cd14e7c11ac09b2761","features":{},"yanked":false}

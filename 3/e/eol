@@ -1,0 +1,2 @@
+{"name":"eol","vers":"0.1.0","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18cfef495730eb1990fdd04012a51a715a26b879e7773d56c48849a370db4523","features":{},"yanked":false}
+{"name":"eol","vers":"0.1.1","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79c01a2ac9d058fd2d8d7a4bb6a5d10f3a836e8bc12fb48549ad0da3a559466e","features":{},"yanked":false}

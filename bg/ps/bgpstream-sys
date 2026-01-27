@@ -1,0 +1,2 @@
+{"name":"bgpstream-sys","vers":"0.2.3","deps":[],"cksum":"2d1c4205d24552c5358996a231be6b14d6d354061b66fdcb8f298972c68d5e21","features":{},"yanked":false}
+{"name":"bgpstream-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7190dc2a8c0aea82d4a6bd75b1557ae5e656fb2950eb08ccce8d19ec323bfdd1","features":{},"yanked":false}

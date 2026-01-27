@@ -1,0 +1,1 @@
+{"name":"kamiya_database","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6105fe252e45f4207917e4bd5c8d5119b49378eeaaeb6e9ed4f721842e82c2f7","features":{},"yanked":false}

@@ -1,0 +1,12 @@
+{"name":"ketchup","vers":"0.0.0","deps":[{"name":"proc-macro2","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.52","features":["full","fold"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16348034e74dce09d92eb00f8cf327bd4be45617914f21cd5800c98b74f75954","features":{},"yanked":false}
+{"name":"ketchup","vers":"0.1.0","deps":[],"cksum":"47cacee6e523f25172e6eedd4204d0f1a12858c8d64107965e91c997628c2efd","features":{},"yanked":false}
+{"name":"ketchup","vers":"0.1.1","deps":[],"cksum":"4edc27f4ea54506939f0781edd8ae249364a907c7b9e36d9d256597d915c8ec4","features":{},"yanked":false}
+{"name":"ketchup","vers":"0.1.2","deps":[],"cksum":"d6959fd3e0f2c0554f1473150765d8149c16c41ed811febe45b9eb76b178db5c","features":{},"yanked":false}
+{"name":"ketchup","vers":"1.0.0","deps":[],"cksum":"0038815ba00559b9851a8b01df66d65ee8b9946545f4b50acf3683a1a00526cb","features":{},"yanked":false}
+{"name":"ketchup","vers":"1.0.1","deps":[],"cksum":"c188804996065d3d0cbe91fb0cc2ea5a281ed32cf15ea39876c10232c38e44ed","features":{},"yanked":false}
+{"name":"ketchup","vers":"1.0.2","deps":[],"cksum":"f0f7f0c6e2c0fb6ddd6b90bd78f4b8238b34b5fbb31b68e5a29251d0a69e7e01","features":{},"yanked":false}
+{"name":"ketchup","vers":"1.1.0","deps":[],"cksum":"d50ca358d77c95fd23c8060dfe6fbf35198269df8f064b8c13fabce9042d2a44","features":{},"yanked":false}
+{"name":"ketchup","vers":"1.1.1","deps":[],"cksum":"c60f8bcae2b0a0f8199dee916529ef485882dc6cee0c7d2cd1efae902374e4b4","features":{},"yanked":false}
+{"name":"ketchup","vers":"2.0.0","deps":[],"cksum":"65dc91328a2b722ef349b96e857b72b3ba76a649826aba520bdda5b5cd90f052","features":{},"yanked":false}
+{"name":"ketchup","vers":"2.0.1","deps":[],"cksum":"6391f2f60463ecfa05909e4de2ca06172ab82070908149330358637b4e622e0b","features":{},"yanked":false}
+{"name":"ketchup","vers":"2.0.2","deps":[],"cksum":"291f00d1079c0637af3fea508e75545798710468bbb07868a73696cd5a9a33cf","features":{},"yanked":false}

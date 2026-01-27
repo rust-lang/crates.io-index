@@ -1,0 +1,2 @@
+{"name":"llm-chain-macros","vers":"0.12.3","deps":[{"name":"syn","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"694c1469b15f605fd26759a8fcbf6a4669e646907e894fa67e0a540ed0afe12e","features":{},"yanked":false}
+{"name":"llm-chain-macros","vers":"0.13.0","deps":[{"name":"syn","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9197e872766d88219c65a1c0ca4a91585e778741a829d4dd20e0dca17753c5d","features":{},"yanked":false}

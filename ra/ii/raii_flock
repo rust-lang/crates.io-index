@@ -1,0 +1,2 @@
+{"name":"raii_flock","vers":"0.1.0","deps":[{"name":"fs2","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94b86a62025f6d10f7563cc6bdd898ab0414c24cc5d963b353206eaef1bd0253","features":{},"yanked":false}
+{"name":"raii_flock","vers":"0.2.0","deps":[{"name":"fs2","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"646f231f0e9fccc745827d693665ab56ca1ca354d811859efed326f3f7a910ff","features":{},"yanked":false}

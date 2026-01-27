@@ -1,0 +1,4 @@
+{"name":"vektor","vers":"0.0.0","deps":[],"cksum":"00f3c2e2a6afb9adfb8759dbb8fd22869f8c5a855e942b2e4b35a018dfb7cebb","features":{},"yanked":false}
+{"name":"vektor","vers":"0.2.0","deps":[],"cksum":"1c02178092df3a503f1d6aa88b5b5f49b9d60c12162bc09337024bc05960b6cd","features":{},"yanked":false}
+{"name":"vektor","vers":"0.2.1","deps":[{"name":"packed_simd","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42e86fbee9ad5d7dd720dbe6dd2e47c598d98632d707e18ed5186bd284e933da","features":{},"yanked":false}
+{"name":"vektor","vers":"0.2.2","deps":[{"name":"packed_simd","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"packed_simd_2"}],"cksum":"de6c97230e7af15e27b3fab02f07c3909018d5e5ad9fe2f1e0f8fc984d1d1db0","features":{},"yanked":false}

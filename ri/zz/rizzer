@@ -1,0 +1,2 @@
+{"name":"rizzer","vers":"0.1.0","deps":[{"name":"unicode-normalization","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa622c514e1cb8433b2da7a8c728aecd1185f361721c18d59794a1767e968fdf","features":{},"yanked":false}
+{"name":"rizzer","vers":"0.2.0","deps":[{"name":"unicode-normalization","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f8d95ad2793ec3ba5a07fc87d0c528b6df3becbab0ead5deb6f9b34548f9d4e","features":{},"yanked":false}

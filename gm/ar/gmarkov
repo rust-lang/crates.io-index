@@ -1,0 +1,2 @@
+{"name":"gmarkov","vers":"0.0.1","deps":[],"cksum":"7b6751e115eaf8058e44bd856d5e6ecd95cc56bdd16949b8bb3f70a65f6d0193","features":{},"yanked":false}
+{"name":"gmarkov","vers":"1.0.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gmarkov-lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d40bf64c31307ce8cb2144a30c5d55e78467971e2480bda2ebd35d1cee55ac5b","features":{},"yanked":false}

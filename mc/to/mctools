@@ -1,0 +1,3 @@
+{"name":"mctools","vers":"0.0.0","deps":[],"cksum":"f260fe6ac9d53091a33dec73289945be0d9977ea670021d199287b1f68472d39","features":{},"yanked":false}
+{"name":"mctools","vers":"0.1.0","deps":[{"name":"png","req":"^0.17.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"144d770710af01c08a3a704e81777df0c1d5e5f1d12c03c37858758e9028d97f","features":{},"yanked":false}
+{"name":"mctools","vers":"0.1.1","deps":[{"name":"png","req":"^0.17.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"229fdd4d37aa55cb4cbf39af5361a8e0f7ed34eab2d175a2f25890afb9157fa9","features":{},"yanked":false}

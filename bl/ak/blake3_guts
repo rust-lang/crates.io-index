@@ -1,0 +1,1 @@
+{"name":"blake3_guts","vers":"0.0.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dda08308cd5393f749c853f8eb805d73e30b8bff2055856dfc24d7a9370a3ae7","features":{"default":["std"],"std":[]},"yanked":false}

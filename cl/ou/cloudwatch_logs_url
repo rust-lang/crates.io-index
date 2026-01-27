@@ -1,0 +1,2 @@
+{"name":"cloudwatch_logs_url","vers":"0.1.0","deps":[{"name":"urlencoding","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1446327294e49e4669b7bedd2c9d7e7583183794a8117c0668fe809fb8d89fd5","features":{},"yanked":false}
+{"name":"cloudwatch_logs_url","vers":"1.0.0","deps":[{"name":"urlencoding","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"030fba117ac1ad664ef3ea9d2056f502eff61743288b3a0a236caf32af3c482a","features":{},"yanked":false}

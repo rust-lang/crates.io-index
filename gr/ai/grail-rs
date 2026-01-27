@@ -1,0 +1,1 @@
+{"name":"grail-rs","vers":"0.0.0","deps":[{"name":"hound","req":"^3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rodio","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aac4384d6f585e90cba12288702325968080826d38c933e8457b28424ced13e2","features":{},"yanked":false}

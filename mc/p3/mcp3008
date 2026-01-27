@@ -1,0 +1,1 @@
+{"name":"mcp3008","vers":"1.0.0","deps":[{"name":"spidev","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"c5f717c9a59aef7cc16f9bdef0b81bd7cbb2792f03f50b0acf1d3b96595161b2","features":{},"yanked":false}

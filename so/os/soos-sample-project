@@ -1,0 +1,2 @@
+{"name":"soos-sample-project","vers":"1.0.0","deps":[],"cksum":"739519c40a362f280e6afe76f08a65ff927a20c965b44c37ceda3ffe7e0a45b0","features":{},"yanked":false}
+{"name":"soos-sample-project","vers":"1.0.1","deps":[{"name":"aac","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"acc_reader","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2870daab36a8058b253334fe24810e71906f5b6ab049aa6ae8355cc62240125","features":{},"yanked":false}

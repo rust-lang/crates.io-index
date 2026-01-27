@@ -1,0 +1,3 @@
+{"name":"lean-imt","vers":"0.1.0","deps":[],"cksum":"2e72b0683df18378c72877bfc0a1befc69b009f43e8f0ef3689f0cc98f067222","features":{},"yanked":false}
+{"name":"lean-imt","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.15.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6e92d3bc1d583cac165288e041547da8516c29965b862b9ba8dda45513ca385","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"lean-imt","vers":"0.1.2","deps":[{"name":"hashbrown","req":"^0.15.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa2acc6dee32b12409446a76b9c1877e5ba9afb36dfcbe96d0ddaf15ca08f18d","features":{"default":["std"],"std":[]},"yanked":false}

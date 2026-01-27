@@ -1,0 +1,2 @@
+{"name":"smallset","vers":"0.1.0","deps":[{"name":"smallvec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"105dc2cbaaefa920c4c2a8686777b15df27499c7e1c2774b4a8c5424b3ab25ba","features":{},"yanked":false}
+{"name":"smallset","vers":"0.1.1","deps":[{"name":"smallvec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f428a8707c0e10637f43f8065377cae75407eba742609d08f2b2b398ad8ef99a","features":{},"yanked":false}

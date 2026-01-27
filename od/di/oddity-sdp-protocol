@@ -1,0 +1,2 @@
+{"name":"oddity-sdp-protocol","vers":"0.1.0","deps":[{"name":"base64","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b31faeec28f59eff3abe936472e1ff6742c3236cecabbd55ee49d61220169f8","features":{},"yanked":false}
+{"name":"oddity-sdp-protocol","vers":"0.2.0","deps":[{"name":"base64","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bca97795bdff89e747a29d30290881a0f05dece5afcd7a10d41f3a7733b995a0","features":{},"yanked":false}

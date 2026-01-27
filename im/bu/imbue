@@ -1,0 +1,3 @@
+{"name":"imbue","vers":"0.1.0","deps":[],"cksum":"c5d08b17c9c6283a7c4298a180015568ed29f9ab05a62b7da003f47b6b273993","features":{},"yanked":false}
+{"name":"imbue","vers":"0.1.1","deps":[],"cksum":"ee2c7bc6f71bcbb5af50bdfb493891d0746d9098311b54608fa94bdfc115bc20","features":{},"yanked":false}
+{"name":"imbue","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.204","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"509eb6711a72e979eeaf4c0046aeb584674c3263de49344572b0d998ce6b4fc5","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

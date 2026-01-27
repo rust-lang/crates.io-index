@@ -1,0 +1,2 @@
+{"name":"gl_matrix","vers":"0.0.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b156be779b0638d6fb668a2604a80722bed0b6ca8f1b182128e4f81f0bef5dbb","features":{},"yanked":true}
+{"name":"gl_matrix","vers":"0.0.2","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df64d0245c589931a0b5a385a63e7db2aeff209bdd471df0417e0f230a4c33ae","features":{},"yanked":false}

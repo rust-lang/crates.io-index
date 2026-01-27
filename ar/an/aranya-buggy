@@ -1,0 +1,1 @@
+{"name":"aranya-buggy","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd12ad901a90557f29d9cdfc4486083576b80644e0b9aeaa857e66c644e5cb8f","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.81.0"}

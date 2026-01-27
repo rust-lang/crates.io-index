@@ -1,0 +1,1 @@
+{"name":"rouch","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"016b3d3e7f4ec71cf1f8844254a1be3cba52e7f0a17d576fedae0863676384f8","features":{},"yanked":false}

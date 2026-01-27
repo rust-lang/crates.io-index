@@ -1,0 +1,3 @@
+{"name":"bitarr","vers":"0.1.1","deps":[],"cksum":"5cdfde474bd269f361ebf8c3d903f7dde0f8d89c19163d64bc9d499b94493c0e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"bitarr","vers":"0.1.2","deps":[],"cksum":"d0f67accd3de20385827c5263c5e14240b0bda6515448170dde37095f31593a7","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"bitarr","vers":"0.2.0","deps":[],"cksum":"892f61d9868de8aa1ef613e44f073cd5355e130f0a3fdbc21fdb5a06c5a9fa08","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

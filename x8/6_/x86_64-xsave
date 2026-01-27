@@ -1,0 +1,4 @@
+{"name":"x86_64-xsave","vers":"0.1.0","deps":[],"cksum":"72c65baf7aa034bb0d52c43c38aa01eb47d07e5ccad91dc92cdc23add623b1b5","features":{},"yanked":false}
+{"name":"x86_64-xsave","vers":"0.1.1","deps":[],"cksum":"0c1d85e8c8f7d75d397e44237b27785cc2138b391d8767133341dd1110514e3b","features":{},"yanked":false}
+{"name":"x86_64-xsave","vers":"0.1.2","deps":[{"name":"arrayref","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6865d3a45e7bd2e457d3eec3aefe67664b5a4a0685a5709ba6527981a9888b0","features":{},"yanked":false}
+{"name":"x86_64-xsave","vers":"0.1.3","deps":[{"name":"arrayref","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12b2d81ee8e700e984725990a929ba324235014595975aef6a7986eb18bdc1e5","features":{},"yanked":false}

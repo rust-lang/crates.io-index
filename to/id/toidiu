@@ -1,0 +1,5 @@
+{"name":"toidiu","vers":"0.1.0","deps":[],"cksum":"bba92b524ca19bcd733e105fbc3149ff3f65fae364b24731d5337b2e251b27ec","features":{},"yanked":false}
+{"name":"toidiu","vers":"0.2.0","deps":[],"cksum":"93777883d91a9420935aa802317220f9a9bf1c46d4e42283ded58f32a23a0054","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"toidiu","vers":"0.3.0","deps":[],"cksum":"8dfabe0568561a6a46eb0589791697e2b6b973e59dc65bbe24b31a80b9a102a2","features":{"feature_1":[]},"yanked":false,"rust_version":"1.83"}
+{"name":"toidiu","vers":"0.4.0","deps":[],"cksum":"c7e97b0689ae84d6481ad8609256962be3529594c073a2cef53a843c8173af4c","features":{"default":["feature_1"],"feature_1":[],"feature_2":[]},"yanked":false,"rust_version":"1.83"}
+{"name":"toidiu","vers":"0.5.0","deps":[],"cksum":"de7f1f9b4744b5bc57df7dc52096a24d279f9ecf3eed7bc9bc4e90957027f389","features":{"default":["feature_1"],"feature_1":[],"feature_2":[]},"yanked":false,"rust_version":"1.83"}

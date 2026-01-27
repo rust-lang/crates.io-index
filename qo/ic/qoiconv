@@ -1,0 +1,1 @@
+{"name":"qoiconv","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libqoi","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75b11a2d7ba96831e7bc46bb6b30c8d1d8aa4b31524839a546e27f61201ce501","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"mro_mini_grep","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1087c284d8ab798f6ed289840c5eaab11fab028395b57bb5febcc83edd3244d0","features":{},"yanked":true}

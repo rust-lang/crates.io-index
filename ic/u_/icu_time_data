@@ -1,0 +1,5 @@
+{"name":"icu_time_data","vers":"2.0.0-beta2","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5b15e682b25e7f4b790941d29f014e0581e00d9565e052ce0e3476b1f2a94332","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"icu_time_data","vers":"2.0.0","deps":[],"cksum":"ac664744d470b24c22ea66596e529e5a165d3ec129270eb2c5c8ad81e11070e8","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"icu_time_data","vers":"2.0.1","deps":[],"cksum":"8472be4410d26a03d7208cae3a76c798dd6766e8226ab977cd8b2d349a6dbf08","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"icu_time_data","vers":"2.1.0","deps":[],"cksum":"949db4f4bac7d26a230d141039f3250235a311a773a064cddce16c47dafed285","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"icu_time_data","vers":"2.1.1","deps":[],"cksum":"3e10b0e5e87a2c84bd5fa407705732052edebe69291d347d0c3033785470edbf","features":{},"yanked":false,"rust_version":"1.83"}

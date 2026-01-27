@@ -1,0 +1,1 @@
+{"name":"libjuice-sys","vers":"0.9.7","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3b4fc209cd849d06b1efd05ed1659ca21e66d04a5ffe82f8ca29c46617d9c733","features":{},"yanked":false}

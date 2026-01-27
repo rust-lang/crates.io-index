@@ -1,0 +1,4 @@
+{"name":"async_limiter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"792a9c3c68824a6dea972abd9ffd2eb75452fc2f541f5ebb69073672692401e0","features":{},"yanked":false}
+{"name":"async_limiter","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.44.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"046fb7f62dae7ed8e073c926196e46bd99fc18cbe59fec15d1b53c513780da7c","features":{},"yanked":false}
+{"name":"async_limiter","vers":"0.1.2","deps":[{"name":"tokio","req":"^1.44.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e1ae8ff8f7949b09f5e3f56834f8bd5836d4c4023ed456447acf7cda54a3dc40","features":{},"yanked":false}
+{"name":"async_limiter","vers":"0.1.3","deps":[],"cksum":"77c5b9a350ab420d1f811fde5b587cf737051dfc5a1283e3de7da191a8f6ef2d","features":{},"yanked":false}

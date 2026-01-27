@@ -1,0 +1,5 @@
+{"name":"toad-cursor","vers":"0.2.0","deps":[],"cksum":"0dee8dde5a719faedaf8509f68a8ae1b72e6f0d96bcdbcd59b92de074fe7c33e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-cursor","vers":"1.0.0","deps":[],"cksum":"bc9e061c5511a53f0d20dc128bc389a72baa7381ee94df9e4ebfb60810b13d1e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":true}
+{"name":"toad-cursor","vers":"1.0.0-beta.1","deps":[],"cksum":"d366546d87b8e9ee3295a551e17640eca3deca5952afe4bbad883c073825158b","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-cursor","vers":"1.0.0-beta.2","deps":[],"cksum":"75524a2ac7a85eada143e2710756e2605d6106a4a67ce23532adb4bef270671b","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-cursor","vers":"1.0.0-beta.3","deps":[],"cksum":"7250cb827475029dc621204a871c3ba8c62403605e729b55004d40c8d2ffc0b2","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}

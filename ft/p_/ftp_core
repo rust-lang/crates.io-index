@@ -1,0 +1,1 @@
+{"name":"ftp_core","vers":"0.1.796","deps":[{"name":"approx","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e73c732e2cacfa4e834f164e0594d743370f2462e1d9b9681e8f0cf55e0989c","features":{},"yanked":false}

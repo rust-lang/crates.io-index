@@ -1,0 +1,1 @@
+{"name":"scamble","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"hound","req":"^3.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70e176b221429360a72687acf66fcd045799eede987f01dd27c7ae8f12bbadd6","features":{},"yanked":false}

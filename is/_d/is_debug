@@ -1,0 +1,4 @@
+{"name":"is_debug","vers":"1.0.0","deps":[],"cksum":"a296b668bacc8560d3d1fecd44e032d35cf69422fd07f2e746499de1c5ef5c44","features":{},"yanked":false}
+{"name":"is_debug","vers":"1.0.1","deps":[],"cksum":"06d198e9919d9822d5f7083ba8530e04de87841eaf21ead9af8f2304efd57c89","features":{},"yanked":false}
+{"name":"is_debug","vers":"1.0.2","deps":[],"cksum":"e8ea828c9d6638a5bd3d8b14e37502b4d56cae910ccf8a5b7f51c7a0eb1d0508","features":{},"yanked":false}
+{"name":"is_debug","vers":"1.1.0","deps":[{"name":"xshell","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1fe266d2e243c931d8190177f20bf7f24eed45e96f39e87dc49a27b32d12d407","features":{"default":["std"],"std":[]},"yanked":false}

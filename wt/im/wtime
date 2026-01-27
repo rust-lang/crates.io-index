@@ -1,0 +1,8 @@
+{"name":"wtime","vers":"0.0.0","deps":[],"cksum":"8398a693d6be6725fdacf93a2258bb69dad967a15f8ee428691b9026b041bc01","features":{},"yanked":false}
+{"name":"wtime","vers":"0.1.0","deps":[],"cksum":"02a27ea62d760ee90ac9fefd573aa20fb7da9c0f7116d9cdf4559793294ff9e0","features":{},"yanked":false}
+{"name":"wtime","vers":"0.2.0","deps":[],"cksum":"128303896c9979351132c650a06dd975a80e24d4b0941369609e0654f2b1c1ca","features":{},"yanked":false}
+{"name":"wtime","vers":"0.3.0","deps":[],"cksum":"18b4e85eb68b6059711ca3046e960c8374ef7c161bf16822f8d095f3ecbdfd75","features":{},"yanked":false}
+{"name":"wtime","vers":"0.4.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57b8deaac2318535414a1c766f4a253dd88d047091a4dc077119c2eb78394ef6","features":{},"yanked":false,"rust_version":"1.82.0"}
+{"name":"wtime","vers":"0.5.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ca0142c5fa81d05333b7233b43e858c1e825ee9bbc9aa700808b004875bea46","features":{},"yanked":false,"rust_version":"1.82.0"}
+{"name":"wtime","vers":"0.6.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1001c49b9744209de4b8e8b240052e8e16ab0531af74a3715fb8da48b55cdc1b","features":{},"yanked":false,"rust_version":"1.82.0"}
+{"name":"wtime","vers":"0.7.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7364d58f26f4373e94f87476a62a9b13727d1b15cbd6f8719533a23f57506d38","features":{},"yanked":false,"rust_version":"1.82.0"}

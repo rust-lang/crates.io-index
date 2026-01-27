@@ -1,0 +1,2 @@
+{"name":"rpos_drv","vers":"0.1.0","deps":[],"cksum":"6500b629e6a2d0c41f174a3b862ca53d1b3279f25a771dae538d29f85d19a3cb","features":{},"yanked":false}
+{"name":"rpos_drv","vers":"0.2.0","deps":[{"name":"quick-error","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9b567ca096f080008db1fa6b817290165eb179cb60b1f71825809292df6327b","features":{},"yanked":false}

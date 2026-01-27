@@ -1,0 +1,5 @@
+{"name":"simple-left-right","vers":"0.1.0","deps":[{"name":"crossbeam-utils","req":"^0.8.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"da166bafebf8465067b0aed357ef18c73032df62840e84ec0fd91db59ee01562","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"simple-left-right","vers":"0.2.0","deps":[],"cksum":"259a15c3fd29e1734c83ff0f02dd81271c0bf4f0ab1d586608d0261daa1f621a","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"simple-left-right","vers":"0.2.1","deps":[],"cksum":"72462f680e6aa61b8a5b31a0c98c2d0f1537d9cebab68fbf42a795e3f345b64d","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"simple-left-right","vers":"0.2.2","deps":[],"cksum":"8d14c606977d5f05c85d6c9d30da1d49567dd92c16e0bc693644659bcfbe8b05","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"simple-left-right","vers":"0.2.3","deps":[],"cksum":"a3a8aae2755857e854bf0aaa2024e240c39c75228789afe556f552a52dbb9d74","features":{},"yanked":false,"rust_version":"1.82"}

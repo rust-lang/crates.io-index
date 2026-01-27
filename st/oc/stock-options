@@ -1,0 +1,2 @@
+{"name":"stock-options","vers":"0.1.0","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb87288a001f2a8ac80f47f95213134d2727c0bb3017050f5b469c7137c66d16","features":{},"yanked":false}
+{"name":"stock-options","vers":"0.1.1","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56a172da6f227bee47f1c06584a622590ede54535bbbf99f8cd16bf6545b0965","features":{},"yanked":false}

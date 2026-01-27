@@ -1,0 +1,1 @@
+{"name":"kloggerrs","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0.46","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"128b8c4011ed97441244443b332de55788e8bbe52274c431e96136797c011a5e","features":{},"yanked":false}

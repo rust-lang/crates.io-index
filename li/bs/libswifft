@@ -1,0 +1,2 @@
+{"name":"libswifft","vers":"0.1.0","deps":[{"name":"libswifft_sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d31d6fa923bb42a2205e2465c80eb5c7671ba4bc04275215df84c5c54fd35a2e","features":{},"yanked":false}
+{"name":"libswifft","vers":"0.2.0","deps":[{"name":"libswifft_sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f354a61d9e98ec6ef9908d4a5085052c6ff8a1e273cd4605d830684b688c3a39","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"some_test_auth_service","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcdc52ec8593229c18fbf1b9f8399a046758d310a4966d73c772c8a30eec6bf2","features":{},"yanked":true}
+{"name":"some_test_auth_service","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a627737eff75e7f6ce7faadf331b26ec6321ce3241b6620f3c25eb69f0f78ae","features":{},"yanked":false}

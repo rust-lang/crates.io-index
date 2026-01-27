@@ -1,0 +1,3 @@
+{"name":"imgn-say-hello","vers":"0.1.0","deps":[],"cksum":"2a1f3b06000cc88af9c6a4ba64a829e6eb1345003946b99fcaf89a56fd70496c","features":{},"yanked":false}
+{"name":"imgn-say-hello","vers":"0.2.0","deps":[],"cksum":"d57457b051615bbb9cd4c20835c82476d0ecc7efe2029b7e23cde8f6e315650e","features":{},"yanked":false}
+{"name":"imgn-say-hello","vers":"0.3.0","deps":[],"cksum":"0f6c58406fd6848d9cd65a5cc8a154f716facc253564edf38e3e50f2ec648385","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

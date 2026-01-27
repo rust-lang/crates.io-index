@@ -1,0 +1,1 @@
+{"name":"novax-rsa","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rsa","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36ec733d8a96be19d25c2711cdcbf544f4c8065c78646635c53b26e0515dcb73","features":{},"yanked":false}

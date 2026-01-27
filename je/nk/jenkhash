@@ -1,0 +1,6 @@
+{"name":"JenkHash","vers":"0.1.0","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acfafaa596eedc82adea0830616f0f25cb826f5ab545d6259fe871674541839a","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.1.5","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64ae4d7fe157f75e38a85b9baa24e856869656e4cec00c969bfdce9f48b30eb8","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.1.6","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db17fe94cdf26b7442685357e27386a44183178c37d94e808e21d52940787d9a","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.2.0","deps":[],"cksum":"dd1603cfb98710d64927574cb2078b852ab0988b065bdb384accc09af5cdfd26","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.2.1","deps":[],"cksum":"93f23a399885aca83a94edac0cde78daa0273fd2728a9b70a691515270927a0b","features":{},"yanked":false}
+{"name":"JenkHash","vers":"0.3.0","deps":[{"name":"digest","req":"^0.10.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a0bc91de8cfaf8106f89bc2e797fc773bb216468cfe2006e649aa1a845fd4fd6","features":{},"yanked":false}

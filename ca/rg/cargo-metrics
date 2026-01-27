@@ -1,0 +1,2 @@
+{"name":"cargo-metrics","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad7df6ff7307030322b6b1ce456edc6b4a0e83b335bb5874fe70acad3eb1b238","features":{},"yanked":false}
+{"name":"cargo-metrics","vers":"0.1.1","deps":[{"name":"cargo_metadata","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7e81318194204e61374994806b3caf4b75ff808e1e555ef53b53b194f9bc8e5","features":{},"yanked":false}

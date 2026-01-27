@@ -1,0 +1,2 @@
+{"name":"bufs","vers":"0.0.0","deps":[],"cksum":"8bc2abb9366f9e7829688b292c2b11d282bc4fb38c8efe4c3ea814c77a666eb6","features":{},"yanked":false}
+{"name":"bufs","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fed3119cbcf10b5b2559adfcbaee517af4e8472b6bfe36bcb647aaf89f0c8cc","features":{},"yanked":false}

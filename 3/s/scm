@@ -1,0 +1,3 @@
+{"name":"scm","vers":"0.0.1","deps":[{"name":"commandext","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed456e690504f63d47b3f9dfc024b5ab76525eedcab6a9fe231df4c7c3ba326d","features":{},"yanked":false}
+{"name":"scm","vers":"0.0.2","deps":[{"name":"commandext","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"081f853729b609838bef06feb9f110774c4d4f7f840dd5ffac85b61970e248c5","features":{},"yanked":false}
+{"name":"scm","vers":"0.0.3","deps":[{"name":"commandext","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5936da10b3c74ba9102ccc940ae20a7584a230af5ad6a951f25151cdf22fd5b8","features":{},"yanked":false}

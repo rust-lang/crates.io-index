@@ -1,0 +1,2 @@
+{"name":"noez","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.21.1","features":["noise","playback"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d4c4121240fd28d3737da19b6c71777194baf36f020aad606f91e4280d887598","features":{},"yanked":false}
+{"name":"noez","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.21.1","features":["noise","playback"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"423aa8d206dce09edf0e060a20ea890ffa32aad391197c6ea5d71f29cc825c1a","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mofu","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed254192aba99568dfdeb8cffb3d0e5bf44fc537e083de0b95acc3a44d20fe47","features":{},"yanked":false}
+{"name":"mofu","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.228","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"914945eaab2f31b86fb94cb8816052b37372d9c5f756873572270c343af736c4","features":{},"yanked":false}

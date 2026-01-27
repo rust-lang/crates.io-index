@@ -1,0 +1,3 @@
+{"name":"fstd","vers":"0.1.0","deps":[],"cksum":"b2bef6cb0649e312dfbd48e0e29b2e27d3f58b7b09b546d1b8eb975d817e9e58","features":{},"yanked":false}
+{"name":"fstd","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e941128b15414765625dd72e376d9694111e783109bcbf36beeb238b1a2b9e44","features":{"rand_nobias":[]},"yanked":false}
+{"name":"fstd","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"44457d58e326b6d8aa1f90b78abd7ecb05090f24fa3b34f82cd77b11eb5ad322","features":{"rand_nobias":[]},"yanked":false}

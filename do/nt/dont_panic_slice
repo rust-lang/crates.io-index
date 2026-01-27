@@ -1,0 +1,1 @@
+{"name":"dont_panic_slice","vers":"0.1.0","deps":[{"name":"dont_panic","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40ee5bd72f1196e3ec7236d93728768c27e27569f621bd81ee316129f4619cf0","features":{"default":[],"panic":["dont_panic/panic"]},"yanked":false}

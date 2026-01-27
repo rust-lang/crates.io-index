@@ -1,0 +1,2 @@
+{"name":"xarray","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47bb9f6e3b4949da1ff16a7bf2504579bae2f3845e2b1baa03efc6d9b73e63e9","features":{"default":[],"std":[]},"yanked":false}
+{"name":"xarray","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"431e7ab217517be3db1eb729bac301abd89b923d8a74e36010e05831e0c131b1","features":{"default":[],"std":[]},"yanked":false}

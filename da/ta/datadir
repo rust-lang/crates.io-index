@@ -1,0 +1,1 @@
+{"name":"datadir","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"203820cc82716c6fc4474c48bd2541e9a22f1e9e14ef50067139453f9922a83d","features":{},"yanked":false}

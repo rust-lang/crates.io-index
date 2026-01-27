@@ -1,0 +1,2 @@
+{"name":"stdlib-rs","vers":"0.0.1","deps":[{"name":"man","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d299053559a413af6053f019772bb508dbc3ae1dafb0f87ed53553c5ba4753","features":{"build_deps":["man"]},"yanked":false}
+{"name":"stdlib-rs","vers":"0.0.2","deps":[{"name":"man","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d48458822ff7c54855895a66c1fa499d3dde03534f07f680449a8682f6db7f","features":{"build_deps":["man"]},"yanked":false}

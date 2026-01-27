@@ -1,0 +1,1 @@
+{"name":"mizuki-build","vers":"1.0.0","deps":[{"name":"tauri-plugin","req":"^2","features":["build"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4521f746d2027c8bd08497d2c11c4cbfda00c1ed34fd4ebe28b34aa844342de8","features":{},"yanked":false,"rust_version":"1.77.2"}

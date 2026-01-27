@@ -1,0 +1,1 @@
+{"name":"exif","vers":"0.0.1","deps":[{"name":"exif-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a3d04e1284789bde99b86efed7e78c9c12e88b8146be27faf4404e05d8716e","features":{},"yanked":false}

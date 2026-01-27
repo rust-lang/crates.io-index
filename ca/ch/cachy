@@ -1,0 +1,2 @@
+{"name":"cachy","vers":"0.1.0","deps":[],"cksum":"aaed947b9417267ce401655067a6c03224fe349b0dc420d892da2ef50a5a971a","features":{},"yanked":false}
+{"name":"cachy","vers":"0.2.0","deps":[{"name":"bus","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8389eb6526dabc08aff72f4761e2c62b1de32506523fd34222247f55f6035f05","features":{},"yanked":false}

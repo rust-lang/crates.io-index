@@ -1,0 +1,1 @@
+{"name":"arm_pl011","vers":"0.1.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efcf6afca4502993a737ba1e00952d1321078689da92bf7aab27d4e5756c0bec","features":{},"yanked":false}

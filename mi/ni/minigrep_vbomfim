@@ -1,0 +1,2 @@
+{"name":"minigrep_vbomfim","vers":"0.1.0","deps":[],"cksum":"1869f281fd2c5c236fddf79aee175790df90a0f88d7529c1f5e458b03d132ceb","features":{},"yanked":false}
+{"name":"minigrep_vbomfim","vers":"0.2.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serial_test","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c25769b728405a665abea2d5304af97f5d1e41262ab4a9ada108f6300914ad94","features":{},"yanked":false}

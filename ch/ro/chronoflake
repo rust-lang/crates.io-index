@@ -1,0 +1,2 @@
+{"name":"chronoflake","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff297f97f57d0daa8ec746dda6a00c847a80707171bbb78d1d41199d91838133","features":{},"yanked":false}
+{"name":"chronoflake","vers":"1.0.1","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5deb7fef9736f045c354500f727b82c8ecb90d98857fc05327802da0fd2374a9","features":{},"yanked":false}

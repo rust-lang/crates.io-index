@@ -1,0 +1,2 @@
+{"name":"darkly","vers":"0.1.0","deps":[{"name":"darkly-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4e727228c5b0c00723575c2b81186b50a3e04d32960072cb7781b1a3c2293e5","features":{},"yanked":false}
+{"name":"darkly","vers":"0.2.0","deps":[{"name":"darkly-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"565cc768a564cb6c8f9f31b91f92b9bca03061fc4ce9f88a2b7bff5e03180769","features":{},"yanked":false}

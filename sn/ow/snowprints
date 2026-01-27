@@ -1,0 +1,2 @@
+{"name":"snowprints","vers":"0.1.0","deps":[],"cksum":"18b0930940409db9915442ce7a76a98dfd6c193c26e0e6c241f7b8a9c9efb3fc","features":{},"yanked":false}
+{"name":"snowprints","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14d72b71b17f5d6fe4ecb886f838ec8573f19f9c9c7c11194f35e1b7441e169e","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

@@ -1,0 +1,3 @@
+{"name":"otter-solana-verify","vers":"1.0.0","deps":[],"cksum":"5c19488245d75892e44340c11eea89bd0f2609d22bcd94c79582945c0dd45ea1","features":{},"yanked":false}
+{"name":"otter-solana-verify","vers":"1.0.1","deps":[],"cksum":"c4f8a1a53993031281cbc30bb54f0c0d8c27272cf70bc628132e0b9331fbcd98","features":{},"yanked":false}
+{"name":"otter-solana-verify","vers":"1.0.2","deps":[{"name":"quote","req":"^1.0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0464401029a8d2b33b3349d0d993f7406c2af8701442152098fdc966a52aab4","features":{},"yanked":false}

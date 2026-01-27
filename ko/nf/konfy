@@ -1,0 +1,1 @@
+{"name":"konfy","vers":"0.1.0","deps":[{"name":"config","req":"^0.15.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pyo3","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b9d645c073edcffe4f076a68a373d906de68718e82ec3e965cdb67e2a66e0e7","features":{},"yanked":false}

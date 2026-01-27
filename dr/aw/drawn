@@ -1,0 +1,4 @@
+{"name":"drawn","vers":"0.1.0","deps":[],"cksum":"0a2abf753de6d9b51b088cedb857168ec1ab65a20e220e76327a0131fab0f623","features":{},"yanked":false}
+{"name":"drawn","vers":"0.1.1","deps":[],"cksum":"084de95f887ac1b7cdda1855adedcdf06ac9767cf46da85010c6b77e4ceda0c2","features":{},"yanked":false}
+{"name":"drawn","vers":"0.1.2","deps":[{"name":"sdl2","req":"0.32.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"370954a7b81855a03b348215c3c61cefc3057e2926969516c8531333cf7143c1","features":{},"yanked":false}
+{"name":"drawn","vers":"0.1.3","deps":[{"name":"sdl2","req":"0.35.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4aefc7ae0125b9fdfd58689c71a6059ec14eaa47f4a023f8370be0f10a9debb","features":{},"yanked":false}

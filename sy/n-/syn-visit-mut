@@ -1,0 +1,2 @@
+{"name":"syn-visit-mut","vers":"0.0.0","deps":[],"cksum":"519793d250fbcb84e8b68a785e1a7ad3002096f2fd36188e86ba757fe9f3728d","features":{},"yanked":true}
+{"name":"syn-visit-mut","vers":"0.0.1","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2aa1845c22ca3ed3dc2edc9be64dd88a8020e1857bd4e580ef9f1341659cbe9f","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"sevensegment","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c03a95a44d249c4757abb9be7b95f7e00c047a68114f46b37a76ef8048af0be","features":{},"yanked":false}
+{"name":"sevensegment","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8283fd466ca6e6018b2ad13592bdb43329a2beabd1fa70395186171bbea5fdc","features":{},"yanked":false}

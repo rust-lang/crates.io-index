@@ -1,0 +1,1 @@
+{"name":"rcl404","vers":"0.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efc055c5a485c6b825d212e6f39e0ddeec92d69ce8df14675b2f126388c2f506","features":{},"yanked":false}

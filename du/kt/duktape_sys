@@ -1,0 +1,2 @@
+{"name":"duktape_sys","vers":"0.0.1","deps":[{"name":"gcc","req":"~0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"45442a49f1e5e3c23d86878b14f3e0d14d5e45229adbabae8291e0e0b13b20e3","features":{},"yanked":true,"links":"duktape"}
+{"name":"duktape_sys","vers":"0.0.2","deps":[{"name":"gcc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d4dd9da659637384f44eed67b9cbef0c322bcf37f032018c8a61419b4b3e573a","features":{},"yanked":true,"links":"duktape"}

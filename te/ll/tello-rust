@@ -1,0 +1,2 @@
+{"name":"tello-rust","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8c97dd626b036c7a2cdee480b1296e1a8f3385e66a571e29d22bb74ea19fbdb","features":{},"yanked":false}
+{"name":"tello-rust","vers":"1.0.1","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a0cff2513d0d49420ec0d275883fdaf0987632f7daf9b28e97955d10979a23d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rzfile","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f8928150f8e33b442630719c737897510e44a673221e6dfaaf3bed739ab144","features":{},"yanked":false}
+{"name":"rzfile","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"641547efe0424e2e5f20471100aa12de36f2e70fb6362e4ed6f95e836f67c266","features":{},"yanked":false}

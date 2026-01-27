@@ -1,0 +1,6 @@
+{"name":"ninja-writer","vers":"0.1.0","deps":[],"cksum":"695cc99c3b24c1c0fafda8cba0a94dc0d06d75719b267a01d1a331a31ceca576","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"ninja-writer","vers":"0.1.1","deps":[],"cksum":"a34c2794aae46cf2edb821c78212c1374bb7b49f340c58e83073ca316871c8e7","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"ninja-writer","vers":"0.1.2","deps":[],"cksum":"fa9b33f6963612addd1e0e231595e4fac9e75f2472c9b3199de604d29de59091","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ninja-writer","vers":"0.2.0","deps":[],"cksum":"8e4779cbc91dcae9538be06322da26ec72eac1be8daa8f70838a93414ca61a64","features":{"default":["std"],"std":[],"thread-safe":["std"]},"yanked":false}
+{"name":"ninja-writer","vers":"0.3.0","deps":[],"cksum":"15b11a80871b0c17321ba0e4f6e63278e4d1063f2164a6e35b4f7f713aba23fe","features":{"default":["std"],"std":[],"thread-safe":["std"]},"yanked":false}
+{"name":"ninja-writer","vers":"0.3.1","deps":[],"cksum":"b61120b500ccc1666da569ce30a6578ba2c7dc70b12aa1eaf1c92c7b0ac69ac0","features":{"default":["std"],"std":[],"thread-safe":["std"]},"yanked":false}

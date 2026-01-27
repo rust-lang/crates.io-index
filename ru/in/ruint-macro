@@ -1,0 +1,10 @@
+{"name":"ruint-macro","vers":"0.1.0","deps":[],"cksum":"94edd286557500478a74340fc9afc705604791cf4723ab5a78c00b3a11acb504","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"0.1.1","deps":[{"name":"ruint","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d342e44672ad81ccc43602c98a3a130c0f092030da8d297e93f87076eee951e9","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"0.2.0","deps":[],"cksum":"dd1283a942a7f20d2adc507ff4f7e71fb3bae6e2f8564bc159b64e27ef924eb3","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"0.2.1","deps":[],"cksum":"c0f4dd8af87bc3b385595ce5f61887b5b8efd4def9eb1679ce4300ec4d89c308","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"1.0.0","deps":[],"cksum":"a4bb0fa2c9df745e5ebf08fb033655b5fba6511a3e6e82b68f5053963e267755","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"1.0.1","deps":[],"cksum":"c827ed98ab2233b4647e6e783d6238f4646a16680fe527a599b3d56f6ea73e2d","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"1.0.2","deps":[],"cksum":"62cc5760263ea229d367e7dff3c0cbf09e4797a125bd87059a6c095804f3b2d1","features":{},"yanked":false}
+{"name":"ruint-macro","vers":"1.1.0","deps":[],"cksum":"e666a5496a0b2186dbcd0ff6106e29e093c15591bde62c20d3842007c6978a09","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"ruint-macro","vers":"1.2.0","deps":[],"cksum":"f86854cf50259291520509879a5c294c3c9a4c334e9ff65071c51e42ef1e2343","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"ruint-macro","vers":"1.2.1","deps":[],"cksum":"48fd7bd8a6377e15ad9d42a8ec25371b94ddc67abe7c8b9127bec79bebaaae18","features":{},"yanked":false,"rust_version":"1.65"}

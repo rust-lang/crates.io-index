@@ -1,0 +1,4 @@
+{"name":"fool","vers":"0.0.1","deps":[],"cksum":"15e843abfd93765b1f7d3a5c5a9db3c8a4552e23137a3b6ed83200155b0ac825","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fool","vers":"0.0.2","deps":[],"cksum":"740c899bbdebacb480a1469dcedb35cd5792daa8e03c223410d56074a6536b79","features":{"default":[],"std":[]},"yanked":false}
+{"name":"fool","vers":"0.0.3","deps":[],"cksum":"b219e2f371596a2eab7dacc68f51a5ae76c0c94988a7ca92053f00eab37d3784","features":{},"yanked":false}
+{"name":"fool","vers":"0.0.4","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7ef01739d1587b38a6d60f9900b37a0735bbacf046c411be3978505ef055998b","features":{"bare":[],"default":[],"zip":["itertools"]},"yanked":false}

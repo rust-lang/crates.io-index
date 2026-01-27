@@ -1,0 +1,2 @@
+{"name":"gitingesters","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71b3bb94e509ad5d215c6a12b451620b959a0feee335f004aeedfc82f070edea","features":{},"yanked":false}
+{"name":"gitingesters","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c11fe1828b92968a023e68c713cfa2f677df9615395d4ef7e86d37580f5bf0fb","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"rex-shared","vers":"0.1.0","deps":[],"cksum":"c179ab9df841f36c320b3a510d5c03516c07fc55645613a65111d9ce51a4d3ce","features":{},"yanked":false,"pubtime":"2025-10-11T10:21:43Z"}
+{"name":"rex-shared","vers":"0.2.0","deps":[],"cksum":"c10a8a1c61d6978810a4048c79288cd178609ddb8a5399edf0b6dbcd7fbf98c8","features":{},"yanked":false,"pubtime":"2025-10-11T12:30:28Z"}
+{"name":"rex-shared","vers":"0.2.3","deps":[{"name":"chrono","req":"^0.4.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4b71e036911a539027bf1226ec15b650b1345329dfcb54a0dc6681aa20a5c35","features":{},"yanked":false,"pubtime":"2025-12-08T12:49:46Z"}
+{"name":"rex-shared","vers":"0.2.4","deps":[{"name":"chrono","req":"^0.4.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7564ca8ccf0c8214fb016eee249fed71924fc74bd91a9b6df22de88cca74689f","features":{},"yanked":false,"pubtime":"2026-01-06T13:24:19Z"}

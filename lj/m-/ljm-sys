@@ -1,0 +1,2 @@
+{"name":"ljm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.68.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ab2b3940e57ac0efc47e0eb1e0fad283a03b674e2647e4b86f084eb4530e58ac","features":{},"yanked":false}
+{"name":"ljm-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.68.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f60563c527b9394a34958ae5318cca7bfde01e1aacba401fd3fd5c1310390496","features":{},"yanked":false}

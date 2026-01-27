@@ -1,0 +1,1 @@
+{"name":"libutil","vers":"0.1.0","deps":[{"name":"time","req":"^0.3","features":["macros","local-offset","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acd1bb747ab6589f5b471e640ba58247dca6c110972b9cf8e81b5a2ad8df126e","features":{},"yanked":false}

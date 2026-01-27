@@ -1,0 +1,1 @@
+{"name":"ccv","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"40cbb0cf3ad32301cd51645014dec99ddde7c28fd6a8d0ee005d027d64397957","features":{},"yanked":false}

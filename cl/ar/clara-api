@@ -1,0 +1,1 @@
+{"name":"clara-api","vers":"0.0.0-reserved","deps":[{"name":"jsonrpsee","req":"^0.21.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2d55797251f03733e682934c3c05e2e745f9f38ece2558489708ec4052d21fc","features":{},"yanked":false,"rust_version":"1.75.0"}

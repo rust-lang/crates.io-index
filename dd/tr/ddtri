@@ -1,0 +1,5 @@
+{"name":"ddtri","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6c0d8c6aef23ae2436f9f181bccdc905c79c50fc1b3e404ce18331cc0b864c08","features":{},"yanked":true}
+{"name":"ddtri","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84035f938cdc40b1ed38255d395af7355f42e37166cf6a55013c93002621c9be","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"ddtri","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0011d75ae152409eb2250b67bb3df444fbd7a20d2c2973417c28bd0c57c6e694","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"ddtri","vers":"0.3.0","deps":[],"cksum":"07e0e16c182de188f8c3a759833587e7b84a30a3c8524fc54f6f06d1d0cd4b87","features":{},"yanked":false}
+{"name":"ddtri","vers":"0.3.1","deps":[],"cksum":"6ba6f1db24ae24bbf0824195cb0a7bbba41cfd775b24a9b31737cfc51df932a9","features":{},"yanked":false}

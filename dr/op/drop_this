@@ -1,0 +1,1 @@
+{"name":"drop_this","vers":"0.0.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb790b370a6169a035abcbc3a4fd487d8b575d2d479d3cffc98590c2f4979efc","features":{},"features2":{"tokio":["dep:tokio"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"genomics","vers":"0.1.0","deps":[],"cksum":"86ba2df1cb14809a49c2ec134ac12ff46abb319a458be1e9a5319a37a89da0e1","features":{},"yanked":true}
+{"name":"genomics","vers":"0.1.1","deps":[{"name":"csv","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ndarray","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62ddc725495cbb71bc8158d4442aae4b3cfa586b7eae7e747aa842c74fee7b95","features":{},"yanked":true}

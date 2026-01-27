@@ -1,0 +1,2 @@
+{"name":"q-rust","vers":"0.1.0","deps":[],"cksum":"6263dc9709ca9947a255a18f9e0fd8373ea4c7ba16680af884c8345651e8ef3f","features":{},"yanked":false}
+{"name":"q-rust","vers":"0.1.1","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"petgraph","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9550c84936e4f1dd0a4e017180d7d7f6fe7d6076e7eb2745e59ddac03bb1d79d","features":{},"yanked":false}

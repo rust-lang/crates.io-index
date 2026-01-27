@@ -1,0 +1,1 @@
+{"name":"hive-uniffi-error","vers":"1.0.0","deps":[{"name":"anyhow","req":">=1.0, <2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"325eab5f5b2563461cdfaca0eb6b719a9a990f1a610717aa074bf02adf4dc1c6","features":{},"yanked":false,"rust_version":"1.85"}

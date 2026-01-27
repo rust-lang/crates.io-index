@@ -1,0 +1,2 @@
+{"name":"pecos-qec","vers":"0.1.0","deps":[{"name":"pecos-qsim","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78661ac24aa48b1d662398d70b53a292bdb6777077a3166ebe45a42544fc0a7e","features":{},"yanked":false}
+{"name":"pecos-qec","vers":"0.1.1","deps":[{"name":"pecos-qsim","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6fb356493ad68bc173a632b9884f38545de73736690692a0fd39d3683a76477","features":{},"yanked":false}

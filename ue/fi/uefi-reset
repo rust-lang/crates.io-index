@@ -1,0 +1,1 @@
+{"name":"uefi-reset","vers":"1.0.0","deps":[{"name":"uefi","req":"^0.35.0","features":["panic_handler"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"027eb84decb3cdf79c9aab9bc3b48303e6189aaf4f9e684ec0cf0f98f9e4d142","features":{},"yanked":false,"rust_version":"1.81"}

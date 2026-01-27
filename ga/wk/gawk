@@ -1,0 +1,7 @@
+{"name":"gawk","vers":"0.1.0","deps":[],"cksum":"e3ac4e6e85ca7a6d18d4a97ec8fc98b6606ec28aeaf7675766b28de977feed10","features":{},"yanked":true}
+{"name":"gawk","vers":"0.1.1","deps":[],"cksum":"c8b21dd4e27303d02fa238637d6a060969c89071b9e7a20f633039808effc56a","features":{},"yanked":true}
+{"name":"gawk","vers":"0.2.0","deps":[{"name":"gawk_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9def8f3fc58f133b12a4327476ebbee40e61c7355253089851081341c8475acd","features":{},"yanked":true}
+{"name":"gawk","vers":"0.3.0","deps":[{"name":"gawk_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39e352fd582ab8412dd1c1e5672a246334cfb28b37160f1a56e80479ba6cb5ec","features":{},"yanked":true}
+{"name":"gawk","vers":"0.3.1","deps":[{"name":"gawk_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b01ea320dcf377726490765eaffcec8d15d14653032a48e8742cd79c27e63e85","features":{},"yanked":true}
+{"name":"gawk","vers":"0.3.2","deps":[{"name":"gawk_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25e0040d0864d078f470cc82d01d24278386fed382aa068130a021909444608d","features":{},"yanked":true}
+{"name":"gawk","vers":"0.4.0","deps":[],"cksum":"ad553dad2826c95a27a9ad26a9f3b15ea6969dbc0242381b34529570844f878e","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"coqui-tts","vers":"0.0.0","deps":[],"cksum":"5ed34288e59de8581a9429348b2873675555e291918c6eb1d6f1df32d4e2fba6","features":{},"yanked":false}
+{"name":"coqui-tts","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.16.5","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0acef44762ffccc168737daa927524e1e2bf5097a3d04f165847cc699c6dcaa4","features":{},"yanked":false}
+{"name":"coqui-tts","vers":"0.2.0","deps":[{"name":"pyo3","req":"^0.18.2","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ff0de4e63c420c625fb441b0093c0746f9613809ed4fa73996c6d8762ef410b","features":{},"yanked":false}

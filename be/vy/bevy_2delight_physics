@@ -1,0 +1,2 @@
+{"name":"bevy_2delight_physics","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc256e46d9ee1efed1a5ff0b1b21571db59fd6b597d2d69bdb7f395cc1863a9c","features":{},"yanked":false}
+{"name":"bevy_2delight_physics","vers":"0.2.1","deps":[{"name":"bevy","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3204a619656d139adb22b6ccd1c8b4281cc3124d0a01c5d3a316de94f85270d1","features":{},"yanked":false}

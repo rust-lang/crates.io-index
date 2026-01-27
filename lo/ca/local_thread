@@ -1,0 +1,2 @@
+{"name":"local_thread","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4cd49384dfa3e0a7f5f07a975de1b07959600ab45c2b460e8f1c6e38a986caa1","features":{},"yanked":false}
+{"name":"local_thread","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9de6c2a451f412ae21ae4667103043a92a9b70fe38838f973032a9d08bd34ff1","features":{},"yanked":false}

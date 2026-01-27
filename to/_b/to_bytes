@@ -1,0 +1,1 @@
+{"name":"to_bytes","vers":"0.1.0","deps":[{"name":"to_bytes_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"083d422349f54f6d36468d84e1fb12a4504a6577b456f0d1884f01f1ac2ce826","features":{"default":["derive"],"derive":["to_bytes_derive"]},"yanked":false}

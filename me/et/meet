@@ -1,0 +1,2 @@
+{"name":"meet","vers":"0.1.0","deps":[],"cksum":"9573d9ac1ff14a691c8cca6e5039dafd2ebeffb8bde62b4a01501e925b6758a3","features":{},"yanked":false}
+{"name":"meet","vers":"0.2.0","deps":[{"name":"notify","req":"^4.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8744c88bfd9b9dace084a8bf1da249aa2de6d222a2185a4535bc417ded617077","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"seqname","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27e9ce38c6d8c841d9b7cbfe004b301be53168d94eba38df90678e24fe5e89d0","features":{},"yanked":false}
+{"name":"seqname","vers":"0.2.1","deps":[{"name":"structopt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af55ab6d5c67206d8d2a029a5ef8b094d953abea881e4b47c5ac123d24d3eba4","features":{},"yanked":false}

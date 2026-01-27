@@ -1,0 +1,1 @@
+{"name":"smol-atlas","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7","features":["html_reports","csv_output"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00471d0267be228a9c4fc30516f44467430d4451e181721f14aec53fecc0157f","features":{},"yanked":false}

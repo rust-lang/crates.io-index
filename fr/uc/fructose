@@ -1,0 +1,12 @@
+{"name":"fructose","vers":"0.1.0","deps":[],"cksum":"47def1021b6bb8a52b58a8f6a3b305b686cf7727f17298e8c4d46648b5616f6c","features":{},"yanked":false}
+{"name":"fructose","vers":"0.2.0","deps":[],"cksum":"95af20e81febfdc9fdc4de61825d87e32724cc9098c965668359b801751c358d","features":{},"yanked":false}
+{"name":"fructose","vers":"0.3.0","deps":[],"cksum":"fa6037bd886d010dc594b6bdde62b8cf4ace9a80522bb6b1132034947ee88a8e","features":{},"yanked":false}
+{"name":"fructose","vers":"0.3.1","deps":[],"cksum":"14da0a0915c54c2a1c142ab79a8b01e33c47a9cb19bcc428eb255799377e3b74","features":{},"yanked":false}
+{"name":"fructose","vers":"0.3.2","deps":[],"cksum":"22d445f6684d3a2cb22808323e3e0ea48b765a17dde83c07170f961085b496dd","features":{"Full":["specifics","const"],"const":[],"default":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.3","deps":[],"cksum":"1263ca45e3edf4095525503005c5d5c8b8b3cdfbc09502fffbdc9d3eccb7ba84","features":{"Full":["specifics","const"],"const":[],"default":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.4","deps":[],"cksum":"e8972a2f3f4701ec647bf5b8f161838b4a71ffe52f33ee54cd71cd591e03fa17","features":{"Full":["specifics","const"],"const":[],"default":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.5","deps":[],"cksum":"287147d39657b00764d8ee75f2f04a7e6665149242634772c72aabe2503e32ac","features":{"Full":["specifics","const"],"const":[],"default":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.6","deps":[],"cksum":"3bb8d1dbd0facdf2d46ce587f3a91ab40d7830506428b113b26c3cbbd5a3be40","features":{"Full":["specifics","const"],"const":[],"default":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.7","deps":[],"cksum":"b1d0a7260ec6ae0594c1ac20e8faed9fc0a18bc59251169691c722a34cc5aaf4","features":{"default":["full"],"full":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.8","deps":[],"cksum":"dc49992d716b4db46ea5d488b766270592f358dbade8c1fccf6cf4f3ead1f332","features":{"default":["full"],"full":["specifics"],"specifics":[]},"yanked":false}
+{"name":"fructose","vers":"0.3.9","deps":[],"cksum":"4c186735a6ea373cc1d28c533562bc4104284e7166fd43e1041eb8fc3126a1b2","features":{"default":["full"],"full":["specifics"],"specifics":[]},"yanked":false}

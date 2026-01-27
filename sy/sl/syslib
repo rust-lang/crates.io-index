@@ -1,0 +1,1 @@
+{"name":"syslib","vers":"0.0.0","deps":[{"name":"syslib-macro","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd8f5c63590f2886293254d1d0b5011eff5efd6bfa84eb97e6cad0f4659b8320","features":{"default":["std"],"std":[]},"yanked":false}

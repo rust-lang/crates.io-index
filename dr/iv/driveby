@@ -1,0 +1,2 @@
+{"name":"driveby","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"88818373ad493ee42d8746a01aa4bdb4e185e27f39144f8fe164a1a3ad6db77a","features":{},"yanked":false}
+{"name":"driveby","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e030f19745f353404ea8df349e3adad950bacf14ed747c93da33e5c141fe2a69","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"dioxus-popup","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dccd58ae70e63ea8be1f85f7839cea6211a12466110ce2b805e45503d85f6ac","features":{},"yanked":false}
+{"name":"dioxus-popup","vers":"0.1.1","deps":[{"name":"dioxus","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ddf0e4630609c8dead19315da012bb938af11212aa6cea76a1e0949e76b0334","features":{},"yanked":false}

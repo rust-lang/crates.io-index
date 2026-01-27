@@ -1,0 +1,1 @@
+{"name":"libmic-rs","vers":"0.1.0","deps":[{"name":"cpal","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hound","req":"^3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26043ecd519df680baba9ea49277b6cacd97c960e1fc0ffff18d1ad9416acbff","features":{},"yanked":false}

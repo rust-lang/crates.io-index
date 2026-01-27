@@ -1,0 +1,1 @@
+{"name":"tckn_utils","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd4d6d1eae164c3dee7073f9bdf422d98840687ce5f05ccaa6e035153533321d","features":{},"yanked":false}

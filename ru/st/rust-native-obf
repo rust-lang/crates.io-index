@@ -1,0 +1,2 @@
+{"name":"rust-native-obf","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98eb7f7a466a36cf91a7affa3926ce438f2ce99f8f00ecfc25d0b2c931ebdd2c","features":{},"yanked":false}
+{"name":"rust-native-obf","vers":"0.1.1","deps":[],"cksum":"f6670fea72c1f05305f311bfd4ba0f8470dab1f62036748e26879f58eec06e65","features":{},"yanked":false}

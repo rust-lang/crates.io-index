@@ -1,0 +1,1 @@
+{"name":"gdunsafe","vers":"0.1.0","deps":[{"name":"gdnative","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"49db6b8223ca520a5b768f6a37edb2a547fbb1f5a9f01905099c68f38c27b514","features":{},"yanked":false}

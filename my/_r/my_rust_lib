@@ -1,0 +1,1 @@
+{"name":"my_rust_lib","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.18","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0c068a6daeefe3858ffd616e88352332be6473786a1c607a4975126ec700d2c","features":{},"yanked":false}

@@ -1,0 +1,8 @@
+{"name":"snap_cli","vers":"0.1.0","deps":[],"cksum":"4a6819f0e6b8019ddb013c05270ac30c097a7a90961731b9017bf54d79663e73","features":{},"yanked":true}
+{"name":"snap_cli","vers":"0.1.1","deps":[],"cksum":"0ffc9bceaf9e10428dfe62fa6dd38400cc20683f3962f58e5aace1ec1831852e","features":{},"yanked":true}
+{"name":"snap_cli","vers":"0.1.2","deps":[],"cksum":"1b423cd279045c58ed8de8175fa5b5eaf68cea2bc393d8ac03daef2e852fef48","features":{},"yanked":true}
+{"name":"snap_cli","vers":"0.1.3","deps":[],"cksum":"fb172fd5d8eccdeb3fdb9732e29ea2863bccdc2487a05cd3ba5d3a8afd6f091e","features":{},"yanked":true}
+{"name":"snap_cli","vers":"0.1.4","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62073e0878b2458a3994e53bcf090dc707526c2158b7c4275c5e6016429a4ef5","features":{},"yanked":true}
+{"name":"snap_cli","vers":"2.0.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e787a36af409e5623d8be973b6a8ea052625faa812b46b71807fd9863aa833d","features":{},"yanked":false}
+{"name":"snap_cli","vers":"2.0.1","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ca3ddec7a1052ef7d5088a4de5a59e355765c0b489902f3881e405ac71d80d","features":{},"yanked":false}
+{"name":"snap_cli","vers":"2.0.2","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55da681be25986e1722e8e459278b8df4ef0453c0135c10edbc58695a5702d4","features":{},"yanked":false}

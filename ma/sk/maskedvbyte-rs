@@ -1,0 +1,2 @@
+{"name":"maskedvbyte-rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"25548f29ad7f891cd7fc73b316545e8cccc5382325087c1ab93b07bbc10b4e7e","features":{},"yanked":false}
+{"name":"maskedvbyte-rs","vers":"0.1.1","deps":[{"name":"maskedvbyte-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59f4e180d042ed488d0c5eff76b474aab202858d99d992827a693d399a33518b","features":{},"yanked":false}

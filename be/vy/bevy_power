@@ -1,0 +1,2 @@
+{"name":"bevy_power","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.17.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60373490e067ac678b2ad9a418026d6cacb0db0573482bfd6957d71d9806bd49","features":{},"yanked":false}
+{"name":"bevy_power","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.17.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"270215d10de0e4832563b57d1883ee55ed206aaca7f4968ad1f8aef710a7efcf","features":{},"yanked":false}

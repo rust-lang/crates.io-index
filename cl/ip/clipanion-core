@@ -1,0 +1,10 @@
+{"name":"clipanion-core","vers":"0.1.0","deps":[],"cksum":"2dde04f978783b9a66bb9530f61eee66685f63fb5604e0d2edcadad7d38c48d0","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.2.0","deps":[],"cksum":"f5ad0ceb6e82ae84c04bd5b334a8e7f6644362385b6b0c129d02a0b1a6984763","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.4.0","deps":[],"cksum":"8acca8c9752c873ce207e4941e0c23cf9e9e5e4a9a26845c7d127995c98442d8","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.4.1","deps":[],"cksum":"ec918cd3535ec1f99d6a2284e7cace4832b310fc8573a4eab6bbcfbde5e0c192","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.5.0","deps":[],"cksum":"5a7ce25facacc9137754b651b198cf099c1d61931cb6ba3b40836cf88eb9a0ce","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.6.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"078fca95984ebaaca89cf7832a55b80fe97b6ca20493d32e09326c91bb53ef5c","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a221ae8946a35cb9e5fd79c11d781a89bb815e323d508f3f1104ea58b006c07","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.7.1","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ea2cb0acf86d19af8bbd19e4c553abcb6a8b093220b29a1ae6c5c6fbd66a7bb","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.8.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d1681d376f60e11bce605dc09d73fae054feecdd5833b8bb442c11cb12e489","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.8.1","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebdd6b14c77dda97b8f32cedab72ff385f6102eedd3cdc8cc05f0952e8fad6eb","features":{},"yanked":false}

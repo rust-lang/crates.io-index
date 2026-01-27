@@ -1,0 +1,5 @@
+{"name":"checksum-tapestry","vers":"0.3.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d067aa8d9443a7d163598ef8db767efe3afdae5a609f5120ea96272104becce","features":{},"features2":{"experiments":["dep:rand"]},"yanked":false,"v":2}
+{"name":"checksum-tapestry","vers":"0.4.0","deps":[],"cksum":"5acdb09d54837bab50d5cd2fa0afccde068216ff73c37ff0c157d5b17c653e28","features":{},"yanked":false}
+{"name":"checksum-tapestry","vers":"0.4.1","deps":[],"cksum":"f13e747683e3e94e4828b8882f94f3553fec5d2fea4ad6ab59f36a2c4f65a70b","features":{},"yanked":false}
+{"name":"checksum-tapestry","vers":"0.4.2","deps":[],"cksum":"bfe53e9bfe51ed563c0e3c1a0f26d964ba4015781ef11119e9e959b67dd35a9b","features":{},"yanked":false}
+{"name":"checksum-tapestry","vers":"0.5.0","deps":[],"cksum":"89b27bcb062aef646a2224c39e3708dd7ab0775e8b0e56874f00c53a55666912","features":{},"yanked":false}

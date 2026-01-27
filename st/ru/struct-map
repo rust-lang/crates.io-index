@@ -1,0 +1,2 @@
+{"name":"struct-map","vers":"0.1.0","deps":[{"name":"to_hash_map","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4edc1e1471d0287c5166583710bbdcd9ecd81bad42ceec4fbb56112df853603","features":{},"yanked":false}
+{"name":"struct-map","vers":"0.1.1","deps":[{"name":"to_hash_map","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f46c732a25fae2c52777d3b414f9add2b2a53c4d3923f956030e79d246dfba5","features":{},"yanked":false}

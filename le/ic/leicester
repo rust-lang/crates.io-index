@@ -1,0 +1,2 @@
+{"name":"leicester","vers":"0.0.0","deps":[{"name":"rust-iptables","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef581fa923a1d326080f31b58c6962a292807bf5202bc5164b05174243f6cf0b","features":{},"yanked":false}
+{"name":"leicester","vers":"0.0.1","deps":[{"name":"rust-iptables","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53e36455b3f837203e8094c00293eb87927bc4b71a033134ceafc8f9b1f616dd","features":{},"yanked":false}

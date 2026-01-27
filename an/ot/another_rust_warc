@@ -1,0 +1,1 @@
+{"name":"another_rust_warc","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.13.1","features":["v4","fast-rng","macro-diagnostics"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95648887048512862221c10f435885aaec776e7377a1fca71f1c1213b0959efc","features":{},"yanked":false}

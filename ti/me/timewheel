@@ -1,0 +1,1 @@
+{"name":"timewheel","vers":"0.1.2","deps":[{"name":"divan","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7b052e0087fa97ebe51de98b3e18f62b43808171a3a01f01cfe6a979d5b74896","features":{"default":["std"],"std":[]},"yanked":false}

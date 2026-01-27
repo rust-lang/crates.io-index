@@ -1,0 +1,4 @@
+{"name":"ayaya","vers":"1.0.0","deps":[],"cksum":"c2393672d4672f06f80c93baee14c52ace265b6ba999e07687913155f41d60bb","features":{},"yanked":false}
+{"name":"ayaya","vers":"2.0.0","deps":[{"name":"miniz_oxide","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5118a638b00b25980298b96711065d37e6001ef1574b5c5b309d054dc2aea15f","features":{},"yanked":false}
+{"name":"ayaya","vers":"2.0.1","deps":[{"name":"miniz_oxide","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8efb9532f4d42c969ea69224ccb0e80500cc3e05e7d81c25e3665dabb4e93bbb","features":{},"yanked":false}
+{"name":"ayaya","vers":"2.0.2","deps":[{"name":"miniz_oxide","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5e059fe594c10fc964fbed6a62ab9cccf3e08b6bb3ec8225ef33301a1ee6951","features":{},"yanked":false}

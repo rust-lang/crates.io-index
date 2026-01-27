@@ -1,0 +1,2 @@
+{"name":"file_lib","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9295d929b94adede2ee73230a9393e726e8de0f577e9109fe7aae32ea68d3774","features":{},"yanked":false}
+{"name":"file_lib","vers":"0.1.1","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"294c3c1026c3c7ef20711523b619e039ae1240538cf9df4b58bd52ad8ec2dbcc","features":{},"yanked":false}

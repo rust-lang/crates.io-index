@@ -1,0 +1,12 @@
+{"name":"sysfs-rs","vers":"0.0.1","deps":[],"cksum":"5bbed8c78db3146e6379c19f9eb807ef43610e6b77eae8e81592e8897c23c5c7","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.2","deps":[],"cksum":"0f0fcc755661e23d88035d8bb3220387afe1a643f006c028a0ebe15e5f84b6f6","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.3","deps":[],"cksum":"411641580e9002ac7b328813629f3e32a34e04f7b26319489f5cc7af41ab6b0b","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.4","deps":[],"cksum":"8948ec3a630b73f4f559ee87802a6b610ced698231c6016b7479d0e68b718509","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.5","deps":[],"cksum":"4a399508591b0c68c23ca528cd596671af3c1aa83da054b0683a23607382c7ee","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.6","deps":[],"cksum":"0deac00d54f7039290d2ca206c8c00466e7789c9237296ec98985b10bf052259","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.7","deps":[],"cksum":"4dbdd31e289cf733f6c7dbaf14364d388092331f4c6a3d73840a77eb97e77849","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.8","deps":[],"cksum":"044e6e3b20a318586d9c8a528668e03755a730a76494609d065a0e40e29681e7","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.9","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68deda1a0b7a1cdb2d2a7a60b93d96e6d065610db3668c2e518071e421827639","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.10","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a407601d474548a804321b76938a50fe14b59e8c754791e5a70e331439b4600a","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.11","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a44af71fd60d13816f2ce4a6cb8c842c86568287db79b9b20c842933cc08ee97","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.12","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03c4f0c8b4c19079e0bd0a8835bd7dd99cb5139df207f990facb68d36ba4e6b8","features":{},"yanked":false}

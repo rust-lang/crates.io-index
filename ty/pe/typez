@@ -1,0 +1,1 @@
+{"name":"typez","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.20","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"175ea0468baf545e4df76e42f895114c0980bb8a14d8555c4f701e9342059e87","features":{},"yanked":false}

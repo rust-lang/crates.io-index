@@ -1,0 +1,2 @@
+{"name":"liquid-dsp-bindings","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a129dfdc38896d07b582bbbd18e32dfa5ca3e4f43b969c70a446422fcbe248b6","features":{},"yanked":false}
+{"name":"liquid-dsp-bindings","vers":"0.1.1","deps":[{"name":"liquid-dsp-bindings-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03defdfc4fe5a9ce8b1821cf9ca54883d4921eb6e2441e63b80dea471bad2074","features":{},"yanked":false}

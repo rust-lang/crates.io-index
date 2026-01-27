@@ -1,0 +1,1 @@
+{"name":"passguard","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zxcvbn","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9780dfcd0944b5628378604f77e1ac168d31a4f7c9b7e020ace967da5a0d531","features":{},"yanked":false}

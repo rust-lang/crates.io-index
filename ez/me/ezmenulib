@@ -1,0 +1,3 @@
+{"name":"ezmenulib","vers":"0.2.7","deps":[],"cksum":"065e69c61ee213dfd481d26e81ae4f68633d875631b735e2a505837525c8c33b","features":{},"yanked":false}
+{"name":"ezmenulib","vers":"0.2.9","deps":[],"cksum":"46100c78842e86d9037907317fedfe3cc2143a5dfd225d3129712c571367d876","features":{},"yanked":false}
+{"name":"ezmenulib","vers":"0.2.10","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7094336647644c139e6e1111f1bcf635f0b95b53136c4a8644d15a6bbb3c171","features":{"date":["chrono"],"default":[]},"yanked":false}

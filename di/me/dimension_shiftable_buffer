@@ -1,0 +1,1 @@
+{"name":"dimension_shiftable_buffer","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6667aa15ed68e5bf0fd2641fa748c521ed5b4316a289909e84e87be522db1e4","features":{"csv":[],"default":["csv"]},"yanked":false}

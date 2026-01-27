@@ -1,0 +1,2 @@
+{"name":"frei0r-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a063c99120516831a819b16e814597df46e77e5a551393a20242d84a9c9ff220","features":{},"yanked":false}
+{"name":"frei0r-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"429ffc34fffdb2b59479b9e86a26fb794baac6edcb913c6135fbba379820e3a0","features":{},"yanked":false}

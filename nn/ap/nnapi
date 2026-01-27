@@ -1,0 +1,2 @@
+{"name":"nnapi","vers":"0.1.0","deps":[{"name":"nnapi-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78ae469282c1d95dd06ef8c21e19f942409a82ef5b641f77b8bc0f6dcb24cb37","features":{},"yanked":false}
+{"name":"nnapi","vers":"0.2.0","deps":[{"name":"nnapi-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0baee8e6fac4dc26375520c1196020173a1d3a735b49b0037835d3003c283dbd","features":{},"yanked":false}

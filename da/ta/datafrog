@@ -1,0 +1,4 @@
+{"name":"datafrog","vers":"0.1.0","deps":[],"cksum":"16d724bf4ffe77cdceeecd461009b5f8d9e23c5d645d68bedb4586bf43e7e142","features":{},"yanked":false}
+{"name":"datafrog","vers":"1.0.0","deps":[],"cksum":"71a3eacc779bb35090718501c2de27bb679dee18f6c28e6589590e4ed8b9fa08","features":{},"yanked":false}
+{"name":"datafrog","vers":"2.0.0","deps":[{"name":"proptest","req":"^0.8.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"77ba99c0ba9573918469fac8d6ec440cf6620af901c940e00003edf1b7caa32c","features":{},"yanked":false}
+{"name":"datafrog","vers":"2.0.1","deps":[{"name":"proptest","req":"^0.8.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0afaad2b26fa326569eb264b1363e8ae3357618c43982b3f285f0774ce76b69","features":{},"yanked":false}

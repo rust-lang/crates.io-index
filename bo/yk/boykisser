@@ -1,0 +1,2 @@
+{"name":"boykisser","vers":"0.1.0","deps":[],"cksum":"3e07ee3960483a474daf29100eb5e7930e08a5dd66cf74a617d0384c20c48845","features":{},"yanked":false}
+{"name":"boykisser","vers":"1.0.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c09ae3d3845dbd3f27529957d63ea84d9af7d44ec65ebb123c96107719646df","features":{"art":[],"default":["rust","kissers","art"],"kissers":["art"],"rust":["art"]},"yanked":false}

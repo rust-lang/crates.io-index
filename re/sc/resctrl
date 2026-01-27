@@ -1,0 +1,1 @@
+{"name":"resctrl","vers":"0.1.0","deps":[{"name":"ctor","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.148","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d4d4570e1b5b758368442e4da41b7c70798563ef0d4e5ed3e406fc01bf30f5d","features":{},"yanked":false}

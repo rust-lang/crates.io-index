@@ -1,0 +1,2 @@
+{"name":"luciferous-case-converter","vers":"0.1.9","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96cd6bdffdd3987691f94e537ac7a5e27e8c10572be5494d99ec06217667eac5","features":{},"yanked":false}
+{"name":"luciferous-case-converter","vers":"1.0.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"160b0f28c8d29c5f81ecf2c9f9b27702d99ff05bf0f0eb4a66f4e6e2fa557f48","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"hamiltonian","vers":"0.0.0","deps":[],"cksum":"0faeffbd8c9c593bcaeec09b16a815052098dfc617a8a8c8ae9fffc260982971","features":{"default":[]},"yanked":false}
+{"name":"hamiltonian","vers":"0.0.1","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe8266ab73627df84433d89c2f850f90d31363b5ba249d0f0596b125696f385c","features":{"default":[]},"yanked":false}

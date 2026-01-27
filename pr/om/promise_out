@@ -1,0 +1,2 @@
+{"name":"promise_out","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dfbf4c269fb4405cfc33ac6f3913ad175197afcf5cd0a9c988d10c046ea3f74","features":{},"yanked":false}
+{"name":"promise_out","vers":"1.0.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e2379876e9f0bf5be8b36184e13e81cea424e53a9d87e82db993ac6c94cfc311","features":{},"yanked":false}

@@ -1,0 +1,4 @@
+{"name":"fn-traits","vers":"0.1.0","deps":[],"cksum":"ca2e1c0f078093b5404bdd4cc6140bd1382a070c1c14230434b13a2eb08f4877","features":{},"yanked":false}
+{"name":"fn-traits","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d3665eaea49d491950c738d9b538e8d36ec4218465f22b8c0f9e62275dc5337e","features":{},"yanked":false}
+{"name":"fn-traits","vers":"0.1.2","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cd0eff6318cf8d98871f51ab547fd925058556c6518b076ea5a8b3e97dc8220c","features":{},"yanked":false}
+{"name":"fn-traits","vers":"0.2.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"63fa6a0487cbc51bbe29ca4fd89c0bccc18eca48e7cb750b61d0828074ba40d0","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fastcsv","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26c3137cab7fdade9cb2a2e97ad105b00286f58956bb3c793d237b8b1efd7646","features":{},"yanked":false}
+{"name":"fastcsv","vers":"0.2.2","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8b8d054d77e78a78f1540ecf865ce6e8ea92b54eb54892798226aa9131e803b","features":{},"yanked":false}

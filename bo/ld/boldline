@@ -1,0 +1,2 @@
+{"name":"boldline","vers":"0.1.0","deps":[{"name":"clap","req":"^2.11.3","features":["unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f930509aee895663e56dd4e05f750d669c0988349f665cee984be220dd809d3","features":{},"yanked":false}
+{"name":"boldline","vers":"0.1.1","deps":[{"name":"clap","req":"^2.11.3","features":["unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b3e53c8db86c5f9a1a6a651664a3be10f65d9b34cc4f92655c79975a5458fad","features":{},"yanked":false}

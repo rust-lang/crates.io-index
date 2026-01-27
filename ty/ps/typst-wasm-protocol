@@ -1,0 +1,2 @@
+{"name":"typst-wasm-protocol","vers":"0.0.1","deps":[{"name":"typst-wasm-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57f1aab4082892bc7650771f510855d08500fa0e25d9f64108f32b4fba0e5370","features":{},"yanked":false}
+{"name":"typst-wasm-protocol","vers":"0.0.2","deps":[{"name":"typst-wasm-macros","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e74aabca9c7bb93eb529915add290b6cc11231f3fb36f2c6080007a658699df","features":{},"yanked":false}

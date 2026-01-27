@@ -1,0 +1,1 @@
+{"name":"multidiff","vers":"0.0.0","deps":[{"name":"similar","req":"^2.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5aac6e659dccea8496c968747e3d51b9aba56e3294ebb51af1a39ae40aff7d9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}

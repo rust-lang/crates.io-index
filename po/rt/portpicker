@@ -1,0 +1,2 @@
+{"name":"portpicker","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b497d05c16fe00939445c00a4fe2fa4f3d3dfc9c0401a3ab5c577afda2debb9","features":{},"yanked":false}
+{"name":"portpicker","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be97d76faf1bfab666e1375477b23fde79eccf0276e9b63b92a39d676a889ba9","features":{},"yanked":false}

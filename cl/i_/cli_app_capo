@@ -1,0 +1,1 @@
+{"name":"cli_app_capo","vers":"0.1.2","deps":[{"name":"clap","req":"^4.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdf15228f6c26991cff91893bfde3ff9f453197db4ad8b6c38c9477d2374a2ea","features":{},"yanked":false}

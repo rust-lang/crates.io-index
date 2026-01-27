@@ -1,0 +1,1 @@
+{"name":"carton_shell","vers":"0.1.0","deps":[{"name":"bindgen","req":">=0.53.1, <0.54.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2a7fdaeda31f2afc7a3784e6286e6051df8c16f30efd1c9d1aaf578d8288e98d","features":{"default":["macos","windows","x11"],"macos":[],"wayland":[],"windows":[],"x11":[]},"yanked":false}

@@ -1,0 +1,7 @@
+{"name":"asexp","vers":"0.1.0","deps":[],"cksum":"aee027b2e66c7792f8faa85ca524845a27e01b3ddb0ccd32b8b7e35eb1c46478","features":{},"yanked":false}
+{"name":"asexp","vers":"0.1.1","deps":[],"cksum":"273c3065dd4b3ea3a14d81df5e0070147fafd046946600b137671a1b2274166f","features":{},"yanked":false}
+{"name":"asexp","vers":"0.1.2","deps":[],"cksum":"d2cc3383d51396f6609292d4cff73539c064393d658b5189a38978662180f1b4","features":{},"yanked":false}
+{"name":"asexp","vers":"0.2.0","deps":[{"name":"grabinput","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f799fd2b6cd366dcb95b80c8afea69d9acae0c630a9757130b23c539166f3b32","features":{},"yanked":false}
+{"name":"asexp","vers":"0.3.0","deps":[{"name":"grabinput","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a8a2144491bfd5418cdb6af21079c39e1121bedfd314d53f77ccca58a67870c2","features":{},"yanked":false}
+{"name":"asexp","vers":"0.3.1","deps":[{"name":"grabinput","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7732afa1e74fd81158a4614ee47a6b5d61cf3919296367c2dc3657d78a0c831b","features":{},"yanked":false}
+{"name":"asexp","vers":"0.3.2","deps":[{"name":"grabinput","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5e368761ce758947307f1c2db1f46077b1aabb5af7f268b6cededd1b52802652","features":{},"yanked":false}

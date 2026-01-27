@@ -1,0 +1,2 @@
+{"name":"tap-trait","vers":"0.0.0","deps":[{"name":"pipe-trait","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f134ee04662d6305a9f4dc941742d1200e8763d887cfb073e6b611382fcf4cb0","features":{},"yanked":false}
+{"name":"tap-trait","vers":"1.0.0","deps":[{"name":"pipe-trait","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b0916d8bc20d840527d357869235d4ef68adef244616390ff7d284313bc675d","features":{},"yanked":false}

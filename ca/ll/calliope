@@ -1,0 +1,3 @@
+{"name":"calliope","vers":"0.1.0","deps":[],"cksum":"3c9a7d5619e32f5c6eacd5d5c94c954ee0df44392ad31f4d1697b21d96a696c3","features":{},"yanked":true}
+{"name":"calliope","vers":"0.0.1","deps":[{"name":"calliope-common","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af1bdfcc9e688385be47aa0f68ab6807dc711adf08a62509877fa94816bdf4cd","features":{},"yanked":false}
+{"name":"calliope","vers":"0.0.2","deps":[{"name":"calliope-common","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26177c659d62d21c9e3e5de90db925c6ca594a9f9094288b0bd0c759acbbc60f","features":{},"yanked":false}

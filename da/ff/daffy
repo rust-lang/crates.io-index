@@ -1,0 +1,3 @@
+{"name":"daffy","vers":"0.1.0","deps":[],"cksum":"b8d7158b688fd5c343609754da167dc963a0bfd6a55c20ccc08da314bf3c3b1e","features":{},"yanked":false}
+{"name":"daffy","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9aa2d81513a7da02e25e4c661e317b64b9bd2e9628e2322b108178dba1b73ea","features":{},"yanked":false}
+{"name":"daffy","vers":"0.2.1","deps":[],"cksum":"e49a129879f1776de75f67fa33747c6f1e3fddabe98e9158dba6bfd4167b7f8e","features":{},"yanked":false}

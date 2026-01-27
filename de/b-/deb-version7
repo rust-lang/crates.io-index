@@ -1,0 +1,2 @@
+{"name":"deb-version7","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"495e55b690fe9029e2424d43348c295e8939170150aec55bc58a49d6dd8431ca","features":{},"yanked":false}
+{"name":"deb-version7","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be9a6a67c823ec57deb1e2deb77f8683d36f6af1511e4c034b7f3c58c40db6aa","features":{},"yanked":false}

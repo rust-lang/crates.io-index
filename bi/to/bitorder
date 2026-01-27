@@ -1,0 +1,2 @@
+{"name":"bitorder","vers":"0.0.1","deps":[],"cksum":"ed817e9a681754ba3b001a75b8089d8fa78278cea737f27aa0c2b43dd3b20b0d","features":{},"yanked":false}
+{"name":"bitorder","vers":"0.0.2","deps":[{"name":"deku","req":"^0.12.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bfd6dc3983816577a8468f23d03a1bd49e2718929d84445b34cf16387f857c58","features":{},"yanked":false}

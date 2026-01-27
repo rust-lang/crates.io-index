@@ -1,0 +1,1 @@
+{"name":"teepot-tdx-attest-rs","vers":"0.1.2","deps":[{"name":"tdx-attest-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"teepot-tdx-attest-sys"}],"cksum":"1afdf89d05913e884421a9e1a5f068412a54f69965a80736fd082e1ce9ed9dd7","features":{},"yanked":false}

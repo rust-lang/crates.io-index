@@ -1,0 +1,2 @@
+{"name":"not_copy","vers":"1.0.0","deps":[],"cksum":"8f6c6905e51490a3e7e3ec265c55a08342592a966d3b608c123153eaa9767156","features":{},"yanked":false}
+{"name":"not_copy","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ccc872488f555b4fdcb01018bea5fb1cec7cb447e37672bde8b51c37323598b","features":{},"yanked":false}

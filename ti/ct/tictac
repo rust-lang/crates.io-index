@@ -1,0 +1,1 @@
+{"name":"tictac","vers":"0.0.0","deps":[{"name":"env_logger","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a43e81a2ffe7052d34297e55a64a6ebd8c5252592b75a176b22d96fa84921624","features":{},"yanked":false}

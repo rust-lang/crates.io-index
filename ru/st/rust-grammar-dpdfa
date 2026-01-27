@@ -1,0 +1,2 @@
+{"name":"rust-grammar-dpdfa","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbb320c0689daa0b05d613ee468a5b4f90774480cea3b2f4c6d8b80a869e0477","features":{},"yanked":false}
+{"name":"rust-grammar-dpdfa","vers":"0.1.1","deps":[{"name":"smallvec","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcb098c363a6f2605eae6ab86fd65eef5e97f9e8d928aca316ec91cd2a7b3919","features":{},"yanked":false,"rust_version":"1.70.0"}

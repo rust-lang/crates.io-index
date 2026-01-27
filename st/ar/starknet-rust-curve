@@ -1,0 +1,1 @@
+{"name":"starknet-rust-curve","vers":"0.6.0","deps":[{"name":"starknet-types-core","req":"^0.2.0","features":["curve"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1977caca63a4e6439968abe0c9d8c0d2074df7641f1153e8a551f8200470d8da","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"rust-rtree","vers":"0.9.5","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5ab11cf73a0a3227e73391e4add8e61b574fd2707a6939abd4c0194506f6e3a","features":{},"yanked":false}
+{"name":"rust-rtree","vers":"0.9.6","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b15dd2824b67f71d61ed760be2f1bc979a029965a81b567d576f7251f36edda6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"daemon_forge","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"db61739037f0f142bf5e062ccff2432063c8f50460408b7d9a275fcdea5a7878","features":{},"yanked":false}
+{"name":"daemon_forge","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"f7bcf4c6b1f98b13666f7386e4f69bca4630b5ef60f7041b8d1f741f09097be7","features":{},"yanked":false}

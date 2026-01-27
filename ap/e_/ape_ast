@@ -1,0 +1,9 @@
+{"name":"ape_ast","vers":"0.1.0","deps":[],"cksum":"aec1897bacb0a9ee8d838868d9136004c0c349a3d7f89bc00b205340cdab60d4","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.1","deps":[],"cksum":"d43d6914128e2a399642e3257144a3756081df0ddb363325e31bb1be8674ec2e","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.2","deps":[],"cksum":"1682ccf90c8a32a49f0241e822c4f5dcffef5ba7852112b11ac2975daa2f072d","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.3","deps":[],"cksum":"989e229d2fafd0342db7f39e98cabee15509acc7f7015694c6c6124e224b081c","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.4","deps":[],"cksum":"6ca86766aa96e19c7c6b4d2f0713ce606f2ca4d5a6f5886f0f190182a3639c7a","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.5","deps":[],"cksum":"b0d22766607c0ae876cfdae19b3d4dae04d50e34341491a37cb8fb1b9e3f7302","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.6","deps":[],"cksum":"1a2f72143b38ec3b90fc4c4677e8843b6fa4a6e8c192915f5ace3f94523df464","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.7","deps":[],"cksum":"d774b83ac39a6d384e7cd89a0551d40ab053c995331a4133bd98b7c806b6c659","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.9","deps":[{"name":"ape_env","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ape_expr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2eda3484f7ab19af94424889b861653a6068f7bb803a7b7bd651340fbff2d72","features":{},"yanked":false}

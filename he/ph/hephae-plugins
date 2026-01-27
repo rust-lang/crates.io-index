@@ -1,0 +1,1 @@
+{"name":"hephae-plugins","vers":"0.7.2","deps":[{"name":"hephae-macros","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3fd6c546cd51c152365808e62a60eac53b077f48680416b98efe4d97c10acb3","features":{"atlas":[],"locale":[],"text":[],"ui":[]},"yanked":false,"rust_version":"1.85"}

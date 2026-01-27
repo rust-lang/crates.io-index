@@ -1,0 +1,5 @@
+{"name":"mudbase","vers":"0.1.0","deps":[],"cksum":"beedf80edca1abb57a43c4f32df6790a4212dd8a64a1d48da24f371787a39067","features":{},"yanked":false}
+{"name":"mudbase","vers":"0.1.1","deps":[],"cksum":"95830d673b8fdfea221c5c0fd3791956705a0c73f7f8c64ea8642bbc1e5c9b6e","features":{},"yanked":false}
+{"name":"mudbase","vers":"0.1.2","deps":[],"cksum":"47eaba16b9ad22733ee519cd7e733bca5c310db8388ac8831f88f74923baf96b","features":{},"yanked":false}
+{"name":"mudbase","vers":"0.1.3","deps":[{"name":"mudbase_server","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b6f1267ffbea0c8fa969733253bf2368673a0790313d79bf3692416cc6c1ad8","features":{},"yanked":false}
+{"name":"mudbase","vers":"0.1.4","deps":[{"name":"mudbase_server","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3473fe5fd53a3e96bb4d99fd67ffc1bf04851d4323f1567363ce7e15f9ac48bc","features":{},"yanked":false}

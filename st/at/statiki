@@ -1,0 +1,11 @@
+{"name":"statiki","vers":"0.1.0","deps":[],"cksum":"48dd037dd98a2d928cff0e63e30f09e4890f1fad59ac53f3fdf2bc79c16f3c7c","features":{"default":[],"docs":[]},"yanked":false}
+{"name":"statiki","vers":"0.2.0","deps":[],"cksum":"a9567f1c9a78eb3f48899992bec8007b937727bb54ca4e068051d60fca32e598","features":{"default":[],"docs":[]},"yanked":false}
+{"name":"statiki","vers":"0.2.1","deps":[],"cksum":"d1135def80e9f9247f4b12d4aef81368044f3287e75cbe245a0d41a02d1500de","features":{"default":[],"docs":[]},"yanked":false}
+{"name":"statiki","vers":"0.2.2","deps":[],"cksum":"da19a3afbea9f25a12c2fdec4a90912ce0db61ff08db9060a8061ffaae6ebfa8","features":{"default":[],"docs":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.3.0","deps":[],"cksum":"06cfc3895b1ec7c6251ffce36e87c2776e4c12d722c4ffadca3c76ea094064cb","features":{"default":[],"docs":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.4.0","deps":[],"cksum":"f3723341f6e0a960e5c1f49d4f49c652cdf352d756038b568d18e15c1f67c003","features":{"default":[],"std":[]},"yanked":true}
+{"name":"statiki","vers":"0.4.1","deps":[],"cksum":"ddd129209233819e48184d36b3067e6722dde17d73e1ea73899f046db5095643","features":{"default":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.4.2","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c4b35129f84b5b9ecab5826200bfb9f6d736acd75f48d26dde086b6bad1d51da","features":{"default":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.4.3","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7f6287e9c8a4779525c38656d5526cca30e6dea919f7f3bb674174604d888311","features":{"default":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"141fa7e1066311e7deec7e1e01faafbead54b064e63f784ac56ecaa886c4949a","features":{"default":[],"std":[]},"yanked":false}
+{"name":"statiki","vers":"0.5.1","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a1c67447fac391c432298ea64d0150fc1bfa911e2d00a37da6510e8fa72ab83","features":{"default":[],"std":[]},"yanked":false}

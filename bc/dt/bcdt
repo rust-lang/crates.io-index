@@ -1,0 +1,2 @@
+{"name":"bcdt","vers":"0.1.0","deps":[{"name":"time","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c72b62b0db9cd752ac85698f7cd582aa6e3b332a4b9f9199c1295aba27407670","features":{},"yanked":false}
+{"name":"bcdt","vers":"0.1.1","deps":[{"name":"time","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19eeafa2cfe44c1b156b35dc164cd58eaa566c00c575147984af47b808860ca0","features":{},"yanked":false}

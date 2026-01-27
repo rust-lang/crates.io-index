@@ -1,0 +1,5 @@
+{"name":"sunflowerecs","vers":"0.1.0","deps":[],"cksum":"2c4299b3fb46a5c339e56694596eaf4232a931411b87741af4f4e0168c575893","features":{},"yanked":false}
+{"name":"sunflowerecs","vers":"1.0.0","deps":[],"cksum":"3f2bd65d3897ea1bf6d6c24053d731266528c6f162497a9285d99738d2e8efa1","features":{},"yanked":false}
+{"name":"sunflowerecs","vers":"1.0.1","deps":[],"cksum":"c089e26f2382dbf32d5253c80c25848488a02578f11a1c44fe02395e415d4b6e","features":{},"yanked":false}
+{"name":"sunflowerecs","vers":"2.0.0","deps":[{"name":"boxmut","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dfed8f391abc63c0c8b9e5400e5ac1a1ceedeff95ee0e150c605a91ed96539e","features":{},"yanked":false}
+{"name":"sunflowerecs","vers":"2.1.0","deps":[{"name":"boxmut","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b08b2cad9ddee08f420b9c330390993c7872674b70136588db4a5a1610b07bb","features":{},"yanked":false}

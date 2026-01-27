@@ -1,0 +1,4 @@
+{"name":"grep-rs","vers":"0.1.0","deps":[],"cksum":"131ca933b86dcc810eab3636964c499f9532071ce445f469a8b643394e37abb1","features":{},"yanked":false}
+{"name":"grep-rs","vers":"0.1.1","deps":[],"cksum":"d43e05dc3469e8886b3d4aa359ff3151b7240c10399b239df5221a477f831fa3","features":{},"yanked":false}
+{"name":"grep-rs","vers":"0.2.0","deps":[{"name":"regex","req":"^1.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b56590ecea51715533876815579f0d7a2420ada6af1b4b0e49f5b6c0f1a4788d","features":{},"yanked":false}
+{"name":"grep-rs","vers":"0.2.1","deps":[{"name":"regex","req":"^1.10.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9305af751e779a9b370f26a233fdf89675888002811537328347cd9adc842ee1","features":{},"yanked":false}

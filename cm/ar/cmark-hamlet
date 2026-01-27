@@ -1,0 +1,2 @@
+{"name":"cmark-hamlet","vers":"0.0.1","deps":[],"cksum":"8de8a5d1b7ca64ed7e44b3948ae663ca54b9e591941c2443175d1d022e293915","features":{},"yanked":false}
+{"name":"cmark-hamlet","vers":"0.0.2","deps":[{"name":"hamlet","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pulldown-cmark","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f8c81a7179fda4726a7edfe38fd32d66c7dea85aecbb6c24092ef3182252c40","features":{},"yanked":false}

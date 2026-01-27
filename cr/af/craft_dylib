@@ -1,0 +1,2 @@
+{"name":"craft_dylib","vers":"0.1.0","deps":[{"name":"craft_core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6da76f2e0f58754b84d4bbac0124a97ddadc82ee7f3a31b44cf2ab4a365667f0","features":{},"yanked":true}
+{"name":"craft_dylib","vers":"0.1.1","deps":[{"name":"craft_core","req":"^0.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f93b5baff4819a0fc4a46e976225582178610869ba52b0a10ad357365aec6b81","features":{},"yanked":false}

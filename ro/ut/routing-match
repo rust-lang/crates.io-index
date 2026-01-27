@@ -1,0 +1,3 @@
+{"name":"routing-match","vers":"0.1.0","deps":[],"cksum":"22ea3258f0ff68cc6221cb67853ad74aa2c00f0fb21af21e2bb7114e68252c72","features":{},"yanked":false}
+{"name":"routing-match","vers":"0.1.1","deps":[],"cksum":"ee0e330d3a2d31d731c489c28ec0e557844453f9b46be9f1c5e6113abef9c30a","features":{},"yanked":false}
+{"name":"routing-match","vers":"0.2.0","deps":[{"name":"matchit","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f83b50bac237b739f93bef595af98c9110b3df287ddcae959bcf2b1827e2433c","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"stringutils","vers":"0.0.1","deps":[],"cksum":"c4ee3574d74177eae6b9b4d22ac01098c4812effcd1853bd90526f998968a16e","features":{},"yanked":false}
+{"name":"stringutils","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbb205235de98fef0288653afe530b81de779b988a1bed19736fb878635a4f92","features":{},"yanked":false}
+{"name":"stringutils","vers":"0.0.3","deps":[],"cksum":"037e61ae282c06f1f728d29ac631022d726394c0f436ee06dd0fe5d54c28cea9","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"flibc","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.155","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef689b4b1e72a952428ea072ac42a30e355d4e398b1a12f02508851068fc2e6","features":{"bit64":[],"full":["bit64"]},"yanked":false}

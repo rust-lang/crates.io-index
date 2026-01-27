@@ -1,0 +1,2 @@
+{"name":"countmap","vers":"0.1.1","deps":[],"cksum":"c563f64494ef232703b47c0b7e48b66f4cece5a045160145bf53f090e7ae58ac","features":{},"yanked":false}
+{"name":"countmap","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ef2a403c4af585607826502480ab6e453f320c230ef67255eee21f0cc72c0a6","features":{},"yanked":false}

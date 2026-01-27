@@ -1,0 +1,3 @@
+{"name":"mcmf","vers":"1.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"649008b3a7803b14576b9a068f89b014d6944dbaa897ea8aaa0131445888793a","features":{},"yanked":false}
+{"name":"mcmf","vers":"1.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8c1244c25aea2b3203344615134d783512ea783bfc25a9fb4fd5493c4e21d6ae","features":{},"yanked":false}
+{"name":"mcmf","vers":"2.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8cb289e5187a41de06144d7dd0e1c11f07f047fb7406b507bb365e6a6c378d93","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"thread-time","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.43","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"ec9a147c5b0645f03693232d3a68dce6d8cdc736c980a4171611c6a747dbdde6","features":{},"yanked":false}

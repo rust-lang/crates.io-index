@@ -1,0 +1,1 @@
+{"name":"shmup","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.37","features":["ttf","image","gfx","mixer"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cf43ff7e0c9011c46f2d29e6321f4fe081bf48faef8be4f5d31ab5035d7f3323","features":{},"yanked":false}

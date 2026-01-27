@@ -1,0 +1,3 @@
+{"name":"yaap","vers":"0.0.1","deps":[],"cksum":"87ee070554881af52f42ac28d6e8f1a302213537d91b3de2eb0a5aa47827ad39","features":{},"yanked":false}
+{"name":"yaap","vers":"0.0.2-dev01","deps":[],"cksum":"b6e16091568753ab1ac5516d8425085ebeba1454b0aa6c57bab7516a9ee97256","features":{},"yanked":false}
+{"name":"yaap","vers":"0.0.2","deps":[{"name":"generic-array","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"typenum","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd20f55ef71e71621469998177dd12a34e5232dcf861b97853511ca7671a678b","features":{"alloc":[],"default":["alloc"]},"yanked":false}

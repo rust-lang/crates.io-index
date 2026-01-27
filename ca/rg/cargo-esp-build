@@ -1,0 +1,2 @@
+{"name":"cargo-esp-build","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dfd4a2585dbc8a9d068dd59a0fc5c1ca411355c32456738368ed1eb954f7b98","features":{},"yanked":false}
+{"name":"cargo-esp-build","vers":"0.2.0","deps":[],"cksum":"5bb66fb143ce44b6944a7f23bd1ab509e1e7c3463883857ec96d200d6ad0c0eb","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"working_dir","vers":"0.1.0","deps":[{"name":"path_no_alloc","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a0c91a3b0ba9f469e2256dac8064a73c3b2a272a570011654f7000e017ebe88","features":{},"yanked":false}
+{"name":"working_dir","vers":"0.1.1","deps":[{"name":"path_no_alloc","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9eda0d638ccfc73c30305f23e9243b288d4c12b7bdbff202234249c371f6239","features":{},"yanked":false}

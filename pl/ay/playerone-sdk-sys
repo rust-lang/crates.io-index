@@ -1,0 +1,2 @@
+{"name":"playerone-sdk-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cc0830145d1cc7ff069e0cd8523b237e20a6322f29983daca9a3c85020797df1","features":{},"yanked":false}
+{"name":"playerone-sdk-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"71cd776bfc2e53c7b265be6f6c6c1b2421044419de2ca0f7262a75635f95f9fa","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"quik-core","vers":"0.0.5","deps":[{"name":"quik-util","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"144d6c8db4fe8db51e7b28d45e2373da9e68c84dbd45385096f70011904c77be","features":{},"yanked":false}
+{"name":"quik-core","vers":"0.0.8","deps":[{"name":"quik-util","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488a594e0b6a102d3c868341558a271df776849dd4856d0f102813c22e54e0a7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"lerpable","vers":"0.0.1","deps":[{"name":"lerpable_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"125b0df5e76cb709f689a8c46b90ae868e0ce18fcc26a8d8f3335e6e1e11f242","features":{},"yanked":false}
+{"name":"lerpable","vers":"0.0.2","deps":[{"name":"lerpable_derive","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02443ecb06977e9bac9ed58c5c78d70e045c24649cd39e13eadac0d743d5c986","features":{},"yanked":false}

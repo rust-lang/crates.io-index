@@ -1,0 +1,2 @@
+{"name":"toad-async","vers":"1.0.0-beta.1","deps":[],"cksum":"198b1ea58bf4f17c4a79ecd47b1c6ed750c8719b5b4706838db0be8983bc3c3a","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-async","vers":"1.0.0-beta.2","deps":[],"cksum":"2aa38cde7fe0f433dce7aefa7723be23fb616ade00215538df1950354338be65","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}

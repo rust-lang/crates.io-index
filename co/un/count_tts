@@ -1,0 +1,2 @@
+{"name":"count_tts","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"058d16699e379be53f865dc5afd40ef7ec049e8803ac141ad2f61b9fe9950c72","features":{},"yanked":false}
+{"name":"count_tts","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"809b88cb47b0327f505fc39f5415e4ab02629d2368d9eadac18d7012c5a40bb2","features":{},"yanked":false}

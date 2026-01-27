@@ -1,0 +1,1 @@
+{"name":"sbcut","vers":"1.0.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cbebf5a411d2c5e4824a8ee19430e72d5a801b12b19ac7f6dee65db1a1a906e","features":{},"yanked":false}

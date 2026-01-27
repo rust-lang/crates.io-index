@@ -1,0 +1,2 @@
+{"name":"cts-math","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6790d6d0c571e4f2cba22bfd461b10ef2057630af822167cfdc07798d438a664","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"cts-math","vers":"0.1.2","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"835edd221caf3a5accef7ef33d2d577a30f11136a482f85447551c3d046c0045","features":{},"yanked":false,"rust_version":"1.85.0"}

@@ -1,0 +1,15 @@
+{"name":"primes","vers":"0.1.0","deps":[],"cksum":"440db949de4fbc1aa28f1678f33dae077fef73a610b6a6d5d3dbb611be2c7b4b","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.1","deps":[],"cksum":"a1c74de4d5b06abb77f5a3c8678f121842318d8a645677bfea1d12adac09f2f3","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.2","deps":[],"cksum":"a3ea9bc405fe71b9f4c4f9a7adb25a3d5246cd83b14f6168d893e0b8c544aea6","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.3","deps":[],"cksum":"e9a37c4eb46e90d766059a190c6607f7943329a9716f6b82328b6d620759d6a1","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.4","deps":[],"cksum":"785dfd7264dca579a65d1f1280d52236aba90e933e09f49f8e062152bf02ebd3","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.5","deps":[],"cksum":"ce907f9cd3a0e99ef1c2120828cf1ec073a1747dd92625b635cbd33542aaec38","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.6","deps":[],"cksum":"e64519d8a651a0f3ac89fa1f43fd27e8d15dd1658b7a93992ad37ada87ee91e4","features":{},"yanked":false}
+{"name":"primes","vers":"0.1.7","deps":[],"cksum":"1135fbb94d525b9f5cffa7326355f009ebad6a46a29271c7ca7c70197f330533","features":{},"yanked":false}
+{"name":"primes","vers":"0.2.0","deps":[],"cksum":"3658a8efd89361a729ae45936e6b86f694f3be8554dc4d9ce454e7956eda8ad1","features":{},"yanked":false}
+{"name":"primes","vers":"0.2.1","deps":[],"cksum":"7f5b5f1a9fda996e929945961fd09e761de4470d24c965da224eae29ef2e0956","features":{},"yanked":false}
+{"name":"primes","vers":"0.2.2","deps":[],"cksum":"f1f5a3b470631f2dbb687087ab141673b3b376c9ccc87009a45bd521d3a08da5","features":{},"yanked":false}
+{"name":"primes","vers":"0.2.3","deps":[],"cksum":"b86865a31cec4ff702cb1e8fe2bc0ca4b31228f85156ebb2cf117c2b96d0c589","features":{},"yanked":false}
+{"name":"primes","vers":"0.2.4","deps":[],"cksum":"9db3ff766be19f62c387049c64fb11dd940020350824915fe323f3a09c34f266","features":{},"yanked":false}
+{"name":"primes","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68a61082d8bceecd71a3870e9162002bb75f7ba9c7aa8b76227e887782fef9c8","features":{},"yanked":false}
+{"name":"primes","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0466ef49edd4a5a4bc9d62804a34e89366810bd8bfc3ed537101e3d099f245c5","features":{},"yanked":false}

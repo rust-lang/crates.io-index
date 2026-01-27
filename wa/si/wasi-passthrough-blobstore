@@ -1,0 +1,1 @@
+{"name":"wasi-passthrough-blobstore","vers":"0.1.0","deps":[{"name":"wit-bindgen","req":"^0.34","features":["realloc","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc17862f821dc2625154ef31a895f4e4c9d55155c53cf3c4235e0ce3fdca1c9e","features":{},"yanked":false}

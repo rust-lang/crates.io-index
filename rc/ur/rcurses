@@ -1,0 +1,1 @@
+{"name":"rcurses","vers":"0.1.0","deps":[{"name":"ncurses","req":"^5.91.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ef76773f371f6cda86b5c1c27ea47c611a82079497a695e49f7f093a01a3e50","features":{},"yanked":true}

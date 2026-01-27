@@ -1,0 +1,3 @@
+{"name":"cyphal-udp","vers":"0.0.0","deps":[],"cksum":"8cd23ff58a8d2a8835e7beb8c03818d229782292e200994f4c8f15028ef3e9b1","features":{},"yanked":true}
+{"name":"cyphal-udp","vers":"0.0.8","deps":[{"name":"cyphal","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9a40cbe39d1ba61ba42d8286f0f1f1d3ebd3f957dae4a041f87b52293e68c32","features":{},"yanked":true}
+{"name":"cyphal-udp","vers":"0.0.9","deps":[{"name":"cyphal","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52caf037f2b6d346f6180040bc751f1870bcf4b02fc7fb090c6f8fa4c38ec5fa","features":{},"yanked":true}

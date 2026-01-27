@@ -1,0 +1,2 @@
+{"name":"bigfactorial","vers":"0.1.1","deps":[{"name":"num-bigint","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a80e764cf07ac0962dbc2c75fbc4a6c7b63b37686331cdda4c270c26e5beba3","features":{},"yanked":false}
+{"name":"bigfactorial","vers":"0.1.2","deps":[{"name":"num-bigint","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"442e3c7daa9ae704b285eeaaabbb3fcf5a7aad428f8f1659bbc1ed9c382c35b1","features":{},"yanked":false}

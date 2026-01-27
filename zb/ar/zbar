@@ -1,0 +1,1 @@
+{"name":"zbar","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"png","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"230683506f54a8f0dd6cb5c6e9b49f18d60174ce2b0401d5fb630c2a9e8ae2d6","features":{},"yanked":false}

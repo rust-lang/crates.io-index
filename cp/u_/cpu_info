@@ -1,0 +1,1 @@
+{"name":"cpu_info","vers":"0.1.0","deps":[{"name":"windows","req":"^0.62.2","features":["Win32_System_SystemInformation"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"249f3b24d52bd3c81b1a28b392c7306f9a1896d0857e2aba79bd8907537f9d62","features":{"default":["linux"],"linux":[]},"features2":{"windows":["dep:windows"]},"yanked":false,"v":2}

@@ -1,0 +1,4 @@
+{"name":"apply_if","vers":"1.0.0","deps":[],"cksum":"b26ebec7360c05da2cde1ebb9a6d666efe584378733d8db763c2b30e26d9eb36","features":{},"yanked":false}
+{"name":"apply_if","vers":"1.1.0","deps":[],"cksum":"056860da9103b8d7df7032abd357322658b051cfd422cd2b7e738b9f136b138c","features":{},"yanked":false}
+{"name":"apply_if","vers":"1.2.0","deps":[{"name":"derive_builder","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84a35fe8316919489cd29825cff7b05ab4717f78f9dcbe94842af71d7800f88e","features":{},"yanked":false}
+{"name":"apply_if","vers":"1.2.1","deps":[{"name":"derive_builder","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84837f84ecd00f423b2ad69b019cefe631846930e00c3275daff8a5944223807","features":{},"yanked":false}

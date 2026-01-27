@@ -1,0 +1,1 @@
+{"name":"rget_pdb","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reqwest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8af59903e8b792039f4bd456864e14495e672357f80c0c56f420b3bee02ed31c","features":{},"yanked":false}

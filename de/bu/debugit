@@ -1,0 +1,4 @@
+{"name":"debugit","vers":"0.1.0","deps":[{"name":"rustc_version","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c787a592810f0f3d16efd8b024ec577ddaff69ce168b8a4dd7d07b6c4fb280dc","features":{},"yanked":false}
+{"name":"debugit","vers":"0.1.1","deps":[{"name":"rustc_version","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"57444471e9bf7f112616926669adecd2b85cfa6c010d9a747066fd88534f8a2b","features":{},"yanked":false}
+{"name":"debugit","vers":"0.1.2","deps":[{"name":"version_check","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"63c2f7e3034df2b09f750327e23c1adfe33301e6b7388f05bb4fcc0fa46825e3","features":{},"yanked":false}
+{"name":"debugit","vers":"0.2.0","deps":[],"cksum":"2367905bd536c33554396370f16f7643083a14f95aebadb36572b66c6748f126","features":{},"yanked":false}

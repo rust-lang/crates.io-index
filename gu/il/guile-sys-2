@@ -1,0 +1,2 @@
+{"name":"guile-sys-2","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.42.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c375b681f43561ed1d9c490658372e96ace4b33a0522c60b2674f33b535231c2","features":{},"yanked":false}
+{"name":"guile-sys-2","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6a4560d1b19a3ef38a1751ad393a0b8f5139b2c2e6c61d88dac8f1a2770fe596","features":{},"yanked":false}

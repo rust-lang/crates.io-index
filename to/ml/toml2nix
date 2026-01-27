@@ -1,0 +1,2 @@
+{"name":"toml2nix","vers":"0.1.0","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d106a2ac6cd9906a1cd73bb05161f2a63afa4df863a55f7722fa457da3ff8b9","features":{},"yanked":false}
+{"name":"toml2nix","vers":"0.1.1","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c21f3961e3095e723ffa0601572265997cbf6de5c82044bd68ff79346ce44561","features":{},"yanked":false}

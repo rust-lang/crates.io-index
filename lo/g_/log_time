@@ -1,0 +1,1 @@
+{"name":"log_time","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca3518f47d4b2dd1ce19b677566a75bb388b68a19e6f14da7f3da6f74591b8fa","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"maybe-string","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive","std"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"07e54ea9f9c4e6cea5d9a7c2d5ab1539801b6cca2ca9db68e27ac318f6795fc1","features":{},"yanked":false}

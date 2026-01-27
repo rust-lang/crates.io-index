@@ -1,0 +1,2 @@
+{"name":"valser","vers":"0.1.1","deps":[{"name":"either","req":"^1.13.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b0b2c9d0c530f6613a892221bc4eee97300a620fd8de45b0436507f9cbe1aea4","features":{"alloc":[]},"yanked":false}
+{"name":"valser","vers":"0.1.2","deps":[{"name":"either","req":"^1.13.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f4f39c0467fc1ea48802855270d1985540659f5bcd6af562d13fa62021e34da2","features":{"alloc":[]},"yanked":false}

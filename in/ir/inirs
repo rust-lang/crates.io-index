@@ -1,0 +1,2 @@
+{"name":"inirs","vers":"0.1.5","deps":[{"name":"clap","req":"^4.5.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5ff42130bfcdbea07153141ac028ee42043b54b2ec6ff82ab1768b49226ab8f","features":{},"yanked":false}
+{"name":"inirs","vers":"0.1.6","deps":[{"name":"clap","req":"^4.5.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32da8e2f09372296e80219e131d19526e63d5cfb51bbe7af1f4c4c63b8211d3f","features":{},"yanked":false}

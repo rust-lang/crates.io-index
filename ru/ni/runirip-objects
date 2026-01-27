@@ -1,0 +1,1 @@
+{"name":"runirip-objects","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd3a8d3907b7993985d32b0a2303ec3499dd2f63cc26be6048fc7bb474c000c1","features":{},"yanked":false}

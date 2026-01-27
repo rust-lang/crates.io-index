@@ -1,0 +1,4 @@
+{"name":"seq-data-file","vers":"0.1.0","deps":[],"cksum":"6d41c149a4837dff99b3c15560fb64961db5d08c403041043b36ca9e7ccddb6c","features":{},"yanked":false}
+{"name":"seq-data-file","vers":"0.1.1","deps":[],"cksum":"11edf6001c8af3bd4b69f4a8966b45a7d2d5c4059a7722dd4d9de985f7bae036","features":{},"yanked":false}
+{"name":"seq-data-file","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["fs","io-util"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5519c070f9ae4b66586bc94f1f9dd8a847a42db97fb35b25fde6cab1f414a244","features":{"default":[]},"features2":{"async":["dep:tokio"]},"yanked":false,"v":2}
+{"name":"seq-data-file","vers":"0.2.1","deps":[{"name":"tokio","req":"^1","features":["fs","io-util"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c431dd2a23ed9387d590c9ce4b1670f7b3459cac1b18b21e09238d58992cea79","features":{"default":[]},"features2":{"async":["dep:tokio"]},"yanked":false,"v":2}

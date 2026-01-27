@@ -1,0 +1,1 @@
+{"name":"slabbable","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a013ef7c7cdb9f0560dcb898ee91a27f327eb55f04d7522cad7f3b593934b497","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}

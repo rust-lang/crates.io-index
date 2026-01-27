@@ -1,0 +1,2 @@
+{"name":"angel","vers":"0.1.0-alpha.1","deps":[],"cksum":"85b9ff65a265e7191ca5dda58287769511f3b2e96d94b7baa44d6250fd70459e","features":{},"yanked":false}
+{"name":"angel","vers":"0.1.0-alpha.2","deps":[{"name":"tracing","req":"^0.1.34","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2fa797b9acaa8bc4b26d694b9612b16e73fdd7d9516bff218bbdbeba50ee35e3","features":{"default":["std"]},"features2":{"std":["tracing?/std"],"trace-calls":["dep:tracing"],"trace-errors":["dep:tracing"]},"yanked":false,"v":2}

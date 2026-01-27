@@ -1,0 +1,6 @@
+{"name":"oxygen_quark","vers":"0.0.1","deps":[],"cksum":"e4b78b2d8eebe344fb7dea3dcc965f10aa68357e329af648a5401526c224cf15","features":{},"yanked":false}
+{"name":"oxygen_quark","vers":"0.0.4","deps":[],"cksum":"042475773e61bda2a05341d4d7178dbae2a18ad1d8ea2f1ee161fcddb8304c94","features":{},"yanked":false}
+{"name":"oxygen_quark","vers":"0.0.5","deps":[],"cksum":"ae20a0c31d4133080bd021cb9203d4edd9d48e23dd68faa890d09dce21da30dd","features":{},"yanked":false}
+{"name":"oxygen_quark","vers":"0.0.6","deps":[],"cksum":"c818b22236001ee51ccef41d334b488cc5d3ef9374cb10f80da4d866d3799e0c","features":{},"yanked":false}
+{"name":"oxygen_quark","vers":"0.0.11","deps":[{"name":"oxygen_quark_derive","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08cb352f8f003fc865d88344f75e3fd83efafc0783b6644376e3f85244462544","features":{},"yanked":false}
+{"name":"oxygen_quark","vers":"0.0.10","deps":[],"cksum":"9cab7150f0e9ae9825baa4693d4b36b31a493eeb9762651191499d2d59ea423f","features":{},"yanked":false}

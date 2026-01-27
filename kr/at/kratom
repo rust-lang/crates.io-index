@@ -1,0 +1,3 @@
+{"name":"kratom","vers":"0.1.0","deps":[],"cksum":"177fe083d239e98288cdad0930a0a0d047b82df5ecb322cd11886303427f454b","features":{},"yanked":false}
+{"name":"kratom","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b4694146409e32cac3bd6f4e4026d9d38c765c1ded4d8adde76aaf015108794","features":{},"yanked":false}
+{"name":"kratom","vers":"1.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f72b2c667414bf0ba47165e666a180e9dd29fb0987d27cfee9c276af1870ffea","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"proudcat","vers":"0.0.1","deps":[],"cksum":"c5a5f435195646abdcb787e75f30059dc55791861403a1f5ebc27a28b1b80302","features":{},"yanked":false}
+{"name":"proudcat","vers":"0.1.0","deps":[],"cksum":"a03c6a37448cc391bc75b310a7c52aa351e9141046addffef27595b57de4414b","features":{},"yanked":false}
+{"name":"proudcat","vers":"0.1.1","deps":[],"cksum":"29546ae6d3a190791915d47fa425416d2916cab2585ff468a6c38003fe5e796d","features":{},"yanked":false}
+{"name":"proudcat","vers":"0.1.2","deps":[],"cksum":"4a2866a2af3fe2ccbdf54446ad9639d8b22b0213d63b42fc08c6cce0c4058c9b","features":{},"yanked":false}
+{"name":"proudcat","vers":"0.2.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term_size","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27b2d373b211aa841b7d02ffc07b01b6bb33e881e204842f103754a2ad6c583d","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ssilide","vers":"0.1.0","deps":[{"name":"bevy_ecs","req":"^0.11.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"bevy_ecs_macros","req":"^0.11.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e53820bf76f30c622149c5a26353d8488c0c67c025d25e745c363c61899c0b74","features":{"bevy":["bevy_ecs","bevy_ecs_macros"]},"yanked":false}
+{"name":"ssilide","vers":"0.2.0","deps":[],"cksum":"2afc62cecb31ec7151e0fd5649540d9fd25221588857677e673b581ff0aa2b82","features":{},"yanked":false}

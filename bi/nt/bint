@@ -1,0 +1,15 @@
+{"name":"bint","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.302","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d04eb80354ecbc0e3c69181b073fb6ea1880b168e8243325e3c67b977a1a1eb","features":{"default":[]},"yanked":false}
+{"name":"bint","vers":"0.1.2","deps":[],"cksum":"b8b9363847566c82ea6af6b44ff32c784d37068656ab2d68be5937ae31b108e6","features":{},"yanked":false}
+{"name":"bint","vers":"0.1.3","deps":[],"cksum":"6706028583aaa09faf52d232779c5577bb18b385d06ffcfef91d5cec7323b78d","features":{},"yanked":false}
+{"name":"bint","vers":"0.1.4","deps":[],"cksum":"f04e85a0241da303a1b2efdf6d685b59b04b4fbfbaded4da058f6d88139a372e","features":{},"yanked":false,"rust_version":"1.34"}
+{"name":"bint","vers":"0.1.5","deps":[],"cksum":"3ae43c085b65fe6323b3f7c4513d4228f19484654e3ad18840e5ca0c06207ea9","features":{},"yanked":false,"rust_version":"1.34"}
+{"name":"bint","vers":"0.1.6","deps":[],"cksum":"56af9dbd97f950ff04f4d7c86883b35fb575194f69b3c1c77c559f60a6790d50","features":{},"yanked":false,"rust_version":"1.34"}
+{"name":"bint","vers":"0.1.7","deps":[],"cksum":"39c411c9afc1242a05a199df5af40f3bc0ade446ea32b6727e5650062f5994c5","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.8","deps":[],"cksum":"4bdbaf5828835a2ea6af7f13b68788dd6aa8111707f97f07e4d34cec77c7d555","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.9","deps":[],"cksum":"40ee69793511d2e6d8526747b61c6233b9df3e88a9ea83e2a016a76c981286cf","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.10","deps":[],"cksum":"55debe5cd9fa74da18cf5660389d8906f7d4fd15d01f620ee6d79ce202538547","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.11","deps":[],"cksum":"e0972bdc1197a63f9abc96abb22c7472ccf6b8709382c71f1ff93b47ecfaaf64","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.12","deps":[],"cksum":"7ba3d08cce353635c306a6363f3f9c460f71d4923d793d4c20f5cc082459af84","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.13","deps":[],"cksum":"d2871beb9e49180308fdf760b86f85d7a65c11670c36d7f521efd212411d64b0","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.14","deps":[],"cksum":"359dcea9236a8286accc51d3133d3ef8feef0227c967ead3825d886cc0ccc428","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.15","deps":[],"cksum":"b5d0934057ab6e16d1840f0373e394775c08a6da42b2c3522e3c2166517b5dda","features":{},"yanked":false,"rust_version":"1.56.0"}

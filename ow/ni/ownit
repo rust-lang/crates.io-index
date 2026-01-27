@@ -1,0 +1,1 @@
+{"name":"ownit","vers":"0.1.0","deps":[{"name":"ownit-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6d8bfbef98ea0b259d2f59775914070da860652cbc45fed0f6ea236730c7a9","features":{},"features2":{"default":["derive"],"derive":["dep:ownit-derive"]},"yanked":false,"v":2}

@@ -1,0 +1,2 @@
+{"name":"plotly_orca","vers":"0.1.0","deps":[],"cksum":"b572795adcea98af029242de13bb75be76378f903a98329f815a8d35548218a2","features":{},"yanked":true}
+{"name":"plotly_orca","vers":"0.2.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39ef41285ab6085bffe6ca7b309ed2f38f11f9f41137c3ae769c3ac8c71d9b68","features":{},"yanked":true}

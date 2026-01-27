@@ -1,0 +1,2 @@
+{"name":"smchash","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7113c8aea862fbaffab9486ea732dc4e397414d0a3c4bc417a556c9fb2660f14","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"smchash","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"799ee94a326e5cfecaca1afe340d6f996e8d5b2765510be91d2e0dfd8672101c","features":{"default":["std"],"std":[]},"yanked":false}

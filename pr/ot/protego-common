@@ -1,0 +1,1 @@
+{"name":"protego-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.13.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bb29af539903103f48dc0061fd8b2b19f8b77b1cbcc875d52fe38df1fe97a36b","features":{"default":[],"user":["aya"]},"yanked":false}

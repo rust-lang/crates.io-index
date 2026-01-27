@@ -1,0 +1,2 @@
+{"name":"field_count","vers":"0.1.0","deps":[{"name":"field_count_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e718166aa55a65ffd4d05367969be2d1dfdab785324064c4a052611e04de5d7c","features":{},"yanked":false}
+{"name":"field_count","vers":"0.1.1","deps":[{"name":"field_count_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"284d5f85dd574cf01094bca24aefa69a43539dbfc72b1326f038d540b2daadc7","features":{},"yanked":false}

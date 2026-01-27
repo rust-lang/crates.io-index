@@ -1,0 +1,2 @@
+{"name":"vesc-api","vers":"0.1.0","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc27c82cd047ccb42e661c70e13390c366f1b98e5497a8cdd955956f42c865f0","features":{},"yanked":false}
+{"name":"vesc-api","vers":"0.1.1","deps":[{"name":"serial","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"582b11425864e50783ae19b814f1303ad9b6cf55b157f217efd4b68b78a4f62e","features":{},"yanked":false}

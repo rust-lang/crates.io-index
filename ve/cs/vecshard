@@ -1,0 +1,5 @@
+{"name":"vecshard","vers":"0.0.1","deps":[],"cksum":"c5e7746d20bfba0cbafcdd2caf17d9961925c05c698b2126871aa852bfebe09d","features":{},"yanked":false}
+{"name":"vecshard","vers":"0.0.2","deps":[],"cksum":"3d73de542e3e78a3026e6b2d977690dd399d6870d8b7f25a8464d7098bc86989","features":{},"yanked":false}
+{"name":"vecshard","vers":"0.1.1","deps":[],"cksum":"25640c40013c481c8f69e30ac9776261b27b3e76cd6e6c755f1e140cbf24f875","features":{},"yanked":false}
+{"name":"vecshard","vers":"0.2.0","deps":[],"cksum":"09190ca4b416a179f2788cb4532bebc2864a45f0c53dbe3036f50bbbd7edf3a6","features":{},"yanked":false}
+{"name":"vecshard","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0.90","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_test","req":"^1.0.90","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"36b7aad6dfe14c105766d6bb5c5dc25ee58ef4a4df73b6cbb84ce73e59a92b65","features":{},"yanked":false}

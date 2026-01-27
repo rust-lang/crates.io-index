@@ -1,0 +1,1 @@
+{"name":"solana-compact-u16","vers":"0.1.0","deps":[{"name":"borsh","req":"^0.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5a36402e88f906739439f7f56bb5032394b0fc10c949f6372a0b142b636fca6","features":{"default":["use-borsh"],"use-borsh":["borsh"]},"yanked":false}

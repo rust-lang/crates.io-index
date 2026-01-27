@@ -1,0 +1,2 @@
+{"name":"libreda-splay","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fa6e7d78c22d6fdd5a2f883851fee645d7675fffa7a35ba65f268f17d02f60df","features":{},"yanked":false}
+{"name":"libreda-splay","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fa8570cf667b179818b5e2198030ac629c5a5c119495696d3a024436845d6187","features":{},"yanked":false}

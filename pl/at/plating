@@ -1,0 +1,1 @@
+{"name":"plating","vers":"0.0.1","deps":[{"name":"clippy","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"clog-cli","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e0e59bf54394a6a97f5b632957c2e478dc61ac92496c32a695822f77a31a3bea","features":{},"yanked":false}

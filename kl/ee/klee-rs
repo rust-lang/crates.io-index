@@ -1,0 +1,2 @@
+{"name":"klee-rs","vers":"0.1.0","deps":[{"name":"cty","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c835b7660aa030011eb563c25d63e7ac5a19bf9ea8b28b5c12901296298581f2","features":{},"yanked":false}
+{"name":"klee-rs","vers":"0.1.1","deps":[{"name":"cty","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"239e00d1003e81698712271b93494aaa6df750a598eda0b23e4b14f41efb7493","features":{},"yanked":false}

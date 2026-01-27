@@ -1,0 +1,5 @@
+{"name":"arion","vers":"0.1.0","deps":[],"cksum":"bbeee9d3bbc01eccc0c1f87aa3315995e27f6f424cc253fcabdc8b217379c93f","features":{},"yanked":false}
+{"name":"arion","vers":"0.2.0","deps":[],"cksum":"f8923518b20e29116f421b3da3e6976d16a2046d7e2539356036c8a4285f1991","features":{},"yanked":false}
+{"name":"arion","vers":"0.3.0","deps":[],"cksum":"12173f2ae848510d61c07aeb551a0764816dd9cdc9ca98e717931958ae8b612f","features":{},"yanked":false}
+{"name":"arion","vers":"0.4.0","deps":[],"cksum":"f9743705386e3ad579ddae6f8d77efd39502af46b9b4467182ef2f8bd8139def","features":{},"yanked":false}
+{"name":"arion","vers":"0.5.0","deps":[{"name":"itertools","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"982278dd61959e82804516cd600199db07057bb463181ee764431ff73c4588cd","features":{},"yanked":false}

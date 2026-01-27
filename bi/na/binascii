@@ -1,0 +1,5 @@
+{"name":"binascii","vers":"0.1.0","deps":[],"cksum":"2eb8a9c8850a292d31af80304ef0df3311cf9eaa2821075f9b42547e0333d6ee","features":{},"yanked":true}
+{"name":"binascii","vers":"0.1.1","deps":[],"cksum":"cd9a426d1124c54a5afcbbc295633c8644074bcb622d6d8acb34370602fc8f64","features":{},"yanked":false}
+{"name":"binascii","vers":"0.1.2","deps":[],"cksum":"3dc96c09fe0e8441b8e0e8afa1a64f11a1994f3f146008175eccdfe67f7c0330","features":{},"yanked":false}
+{"name":"binascii","vers":"0.1.3","deps":[],"cksum":"bc52f59483d6f69fb024e61ac9f75b4bcfa4ef52ad0ae67ad4a3bbf257ddeef6","features":{},"yanked":false}
+{"name":"binascii","vers":"0.1.4","deps":[],"cksum":"383d29d513d8764dcdc42ea295d979eb99c3c9f00607b3692cf68a431f7dca72","features":{"decode":[],"default":["encode","decode"],"encode":[]},"yanked":false}

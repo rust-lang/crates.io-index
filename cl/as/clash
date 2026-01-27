@@ -1,0 +1,1 @@
+{"name":"clash","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.26","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adafc2466ef95f5e2777276f1111f048db4bb39d0179c4966733f4b714416c37","features":{},"yanked":false}

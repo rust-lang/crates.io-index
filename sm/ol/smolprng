@@ -1,0 +1,7 @@
+{"name":"smolprng","vers":"0.1.0","deps":[],"cksum":"b41bba5770d8596db2cef933dd6b95daab006c6de279de28fd5aa1abdbdc0bd2","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.1","deps":[],"cksum":"d95d616f67d222e961bd46c567ad2cc0c559239fc04cf574d9bfbfaed76c7588","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.2","deps":[],"cksum":"d067697357ec67c56bc86733266957fd569322baf1129005db5cb11e1993fa75","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.3","deps":[],"cksum":"8da3882d2db71e012dde789f3a8032cb9277b9a6154dd5d423f0ee1ddb4fe2d7","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.4","deps":[],"cksum":"7db2b7245ec49453b341bf7e535ce2524c124978bf65cd23e68a12a2b2be4b5d","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.5","deps":[],"cksum":"3f7ebe509821f993e9f9bfe9af892f30d0e3a2b463e44bc00597ce3979bd3e86","features":{},"yanked":false}
+{"name":"smolprng","vers":"0.1.6","deps":[{"name":"alloc_counter","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fd8981e4554c577518825bcd49baf5d0657e5b46b1125d491195dc2a5e556e99","features":{"no_std":[],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"loader","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b09c79ee87814b3927e1677e2834bd9b92c9196fceb317354dea38319592a1","features":{"default":["unsize","fn_traits"],"fn_ptr_trait":[],"fn_traits":[],"unsize":[]},"yanked":false}

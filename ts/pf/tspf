@@ -1,0 +1,5 @@
+{"name":"tspf","vers":"0.1.0","deps":[],"cksum":"0abe0f76bbfb69754a15364f8c4457fcc4fc7d60758e10a2fd93d0c45ecaad3f","features":{},"yanked":false}
+{"name":"tspf","vers":"0.1.1","deps":[],"cksum":"a684ec7c70cdbd4ee9206f12cb5d7b3d61d8a995d6355f324f3441f79ec10ffb","features":{},"yanked":false}
+{"name":"tspf","vers":"0.2.0","deps":[],"cksum":"a536ae4b76a6b5b97fea25795b098b578baaefd2d908db846091d895ba81762b","features":{},"yanked":false}
+{"name":"tspf","vers":"0.3.0","deps":[{"name":"getset","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1a9a6608541602c6f9830a2f8cbb0e502327c6f0f5e3517a0b864829058d30a","features":{},"yanked":false}
+{"name":"tspf","vers":"0.3.1","deps":[{"name":"approx","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"getset","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd359e066532c6e070e598e10fcf14f4b8ae9833cf42a92b3891eb03ed37afef","features":{},"yanked":false}

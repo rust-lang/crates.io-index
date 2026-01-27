@@ -1,0 +1,6 @@
+{"name":"bloom-filter-yss","vers":"0.1.0","deps":[],"cksum":"58dbe2203c644e072c92287908e63bbd21912593f1fa76239d208583988ce8ef","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.2.0","deps":[],"cksum":"2d0699ab5bfb4795c5bca2b4d3e57e4e96a57d379b8d9adc771629102d2cd375","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.3.0","deps":[],"cksum":"cb177370bebc6fb019dac558a047341f1ee45f14a6fd6047f076ba3d2c4dfb09","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.3.1","deps":[],"cksum":"ca5f2d9b6180c763ea0119af813e167cb099fb633e19ff7fe7e84efc665ec44f","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.3.2","deps":[],"cksum":"f226d59edccd2c704af1ef8f3b02313d030762e2c6c8ab6db645e6e5fb8d27e5","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.3.3","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9db933d07de46d93098e3d17629458f97f89da13b96e7a12ac57ee3c6b31856f","features":{},"yanked":false}

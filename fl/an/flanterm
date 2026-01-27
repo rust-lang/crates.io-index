@@ -1,0 +1,2 @@
+{"name":"flanterm","vers":"0.0.1","deps":[],"cksum":"38c39cdf590f066e95841712be10a9d5cb97286522157d5fffc7e40f9da49a6d","features":{},"yanked":false}
+{"name":"flanterm","vers":"0.0.2","deps":[{"name":"cc","req":"^1.2.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d952f6a34aab79341bd9faee86b4449260bf1d6d328e49058141c86e414fb96a","features":{},"yanked":false}

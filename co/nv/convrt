@@ -1,0 +1,3 @@
+{"name":"convrt","vers":"0.1.0","deps":[],"cksum":"8f251b3a4a7797678675e1886f7540c1fc6828e01b762ce6b7e9d87bb2a523d3","features":{},"yanked":false}
+{"name":"convrt","vers":"0.1.1","deps":[{"name":"macros","req":">=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"convrt_macros"}],"cksum":"416b749435bfacd64ff3132a41de145bf851e31977f4f1c2299b6cf2724a8b1d","features":{},"yanked":false}
+{"name":"convrt","vers":"0.2.0","deps":[{"name":"macros","req":">=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"convrt_macros"}],"cksum":"1a14a422ccd52c9e7132f453c75c20d17fb8d5da17bd51eded59b4f4e94cac07","features":{},"yanked":false}

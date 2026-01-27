@@ -1,0 +1,4 @@
+{"name":"simpleinterpolation","vers":"0.1.0","deps":[],"cksum":"33f957c72112f8aa951385546f6cc9b42b4874cc0f468afffba2e23621ce6f55","features":{},"yanked":false}
+{"name":"simpleinterpolation","vers":"0.2.0","deps":[],"cksum":"0c246d870feb932a703fce36a7dbdb4f2a3060c069f2005a2d125655d4a93bc6","features":{},"yanked":false}
+{"name":"simpleinterpolation","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f6108e3e687f57ddc048f1361c424c2d1bb0d39102a4616e9707fab4ededb955","features":{},"yanked":false}
+{"name":"simpleinterpolation","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"848b24785640f36d46879280d3bfc3250a9c0132d7f949d9222c977f8b931c61","features":{},"yanked":false}

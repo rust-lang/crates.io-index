@@ -1,0 +1,2 @@
+{"name":"cellular_env","vers":"0.1.0","deps":[{"name":"cellular_lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32a4a0e1e058e9f4f39a2f486c47731da8d9d779e6cf7f94e5b4fb0d682c44b3","features":{},"yanked":false}
+{"name":"cellular_env","vers":"0.1.1","deps":[{"name":"cellular_lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e06dcc8d3dfa512dcd00150acb370399061d5d482b01c8b3594b563174c0ba61","features":{},"yanked":false}

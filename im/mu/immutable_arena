@@ -1,0 +1,2 @@
+{"name":"immutable_arena","vers":"0.1.0","deps":[{"name":"typed-arena","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcb284ffd6cc552aa8de83a6f396141a2d4c250a7c6d5bc42a0fbb1a3c26f81d","features":{},"yanked":false}
+{"name":"immutable_arena","vers":"0.1.1","deps":[{"name":"typed-arena","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc9a9bfcc1b77af2136c1938f11d0bf2657437c3bea94332316e16d7cb8c734e","features":{},"yanked":false}

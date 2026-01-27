@@ -1,0 +1,2 @@
+{"name":"protoc-plugin-proxy","vers":"0.1.0","deps":[{"name":"protoc-plugin-bin","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b172d8ee1b36c9e9f7800736abf1a0ee78d44dac90b206153b738165e6cb218","features":{},"yanked":false}
+{"name":"protoc-plugin-proxy","vers":"0.2.0","deps":[{"name":"protoc-plugin-bin","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68f907a704c166c615b8aec05619462e3e917bf5e0b11c953ab2de6f7a18fb77","features":{},"yanked":false}

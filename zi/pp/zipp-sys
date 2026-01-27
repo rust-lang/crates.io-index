@@ -1,0 +1,1 @@
+{"name":"zipp-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vcpkg","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cc084e5e87b8f885c2b4d0dec18c5e5244e82cad2036fe3034810f3c23fee901","features":{},"yanked":false}

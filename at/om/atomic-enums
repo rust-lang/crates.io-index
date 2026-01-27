@@ -1,0 +1,2 @@
+{"name":"atomic-enums","vers":"0.1.1","deps":[{"name":"atomic-enum-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7adc989a5fcaf329d1a41e64b0f161857ff6a057b30a50c08f596d97d075146d","features":{},"yanked":true}
+{"name":"atomic-enums","vers":"0.2.0","deps":[{"name":"paste","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c1c92c415d1dd35141789373a37478b61eb86e10dfa1a01076355d70bbf49f8b","features":{"default":["u64"],"u64":[]},"yanked":false}

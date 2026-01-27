@@ -1,0 +1,1 @@
+{"name":"tty-overwriter","vers":"0.1.0","deps":[{"name":"ctrlc","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"term_size","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6de79a517e295e294103137b7aa97eba661b6bc72f03250f1a9d8e0c24b614f1","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"path-clean","vers":"0.1.0","deps":[],"cksum":"ecba01bf2678719532c5e3059e0b5f0811273d94b397088b82e3bd0a78c78fdd","features":{},"yanked":false}
+{"name":"path-clean","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5dbb7ac624455db48bca91a8f3641177e320c7aa5805bc891e67a11dce7a3b87","features":{},"yanked":false}
+{"name":"path-clean","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"17359afc20d7ab31fdb42bb844c8b3bb1dabd7dcf7e68428492da7f16966fcef","features":{},"yanked":false}

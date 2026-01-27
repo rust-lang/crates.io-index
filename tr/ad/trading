@@ -1,0 +1,1 @@
+{"name":"trading","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vergen","req":"^6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3de5558ce208ebc8bf7c9c906a2ff94ea8f449be85e376aaffde86ed4ce7280","features":{},"yanked":false}

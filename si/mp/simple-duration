@@ -1,0 +1,2 @@
+{"name":"simple-duration","vers":"0.1.0","deps":[],"cksum":"6eb65fbe179d6bee7af407d8ffadf178a34f4b8421a2e5470764674cdb726849","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"simple-duration","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f6b55758f266a060cbbe1ff93937bd104c1866cbe205ca19dbbdb9dcaf2194f7","features":{"default":["std"],"std":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

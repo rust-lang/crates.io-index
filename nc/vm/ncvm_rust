@@ -1,0 +1,1 @@
+{"name":"ncvm_rust","vers":"0.0.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3dd4e3f41130903a0290e215bc06fa2dfb4713d16e344817765a3ee9a561627f","features":{},"yanked":true}

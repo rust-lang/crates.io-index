@@ -1,0 +1,1 @@
+{"name":"serde_www_form_urlencoded","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34a1f5c14c81772cf4e7aed73cc6cd345807a88520d7a9f35bea85d601a0a82a","features":{},"yanked":false}

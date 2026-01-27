@@ -1,0 +1,2 @@
+{"name":"go-parse-duration","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"641a667063e569a65d59811ac372a4ca6926c91db606f13f5eddc03b68c59934","features":{},"yanked":false}
+{"name":"go-parse-duration","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"558b88954871f5e5b2af0e62e2e176c8bde7a6c2c4ed41b13d138d96da2e2cbd","features":{},"yanked":false}

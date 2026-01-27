@@ -1,0 +1,2 @@
+{"name":"syscall-linux-raw","vers":"0.0.1","deps":[{"name":"direct-asm","req":"^0.0.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d025217c2325b7af6e41a976a0278aaddebfb2335e0e8d2f80224cbb4e528f0","features":{},"yanked":true}
+{"name":"syscall-linux-raw","vers":"0.0.2","deps":[{"name":"direct-asm","req":"^0.0.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b29cf3e450cd2c72a1463076e25d59bc1db18756afea88eaba5df17831e658d0","features":{},"yanked":false}

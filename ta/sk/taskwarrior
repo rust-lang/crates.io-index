@@ -1,0 +1,2 @@
+{"name":"taskwarrior","vers":"0.1.0","deps":[],"cksum":"19c40739ca06653b8312fc5203b2a59c6a8513a381bca5c76cd9cc09767a2a0d","features":{},"yanked":false}
+{"name":"taskwarrior","vers":"0.1.2","deps":[{"name":"taskwarrior-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73fb9f7f6638ce1d63f3ecf1eaa1b48f847b89662c50d22f492f2cff9133854b","features":{},"yanked":false}

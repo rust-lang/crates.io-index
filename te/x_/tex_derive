@@ -1,0 +1,1 @@
+{"name":"tex_derive","vers":"0.1.0","deps":[{"name":"quote","req":"~0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"~0.14.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b7888cc19868c9ead093729b5dd4f45c284b196e5caa8163da5196f112aa0f","features":{},"yanked":false}

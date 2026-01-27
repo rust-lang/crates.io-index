@@ -1,0 +1,2 @@
+{"name":"capnoise","vers":"0.0.1","deps":[],"cksum":"2af39a342f916299558cc59996e0ea34ce9c721e921ec5c7995160bd9284bfdd","features":{},"yanked":false}
+{"name":"capnoise","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ab5e18d59d72fb1d478650815fd94948f03dcfe99c33020b7169eed74d8c89b","features":{},"yanked":false}

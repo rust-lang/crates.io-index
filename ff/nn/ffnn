@@ -1,0 +1,1 @@
+{"name":"ffnn","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d5b1820495b06c8db6cfeb3de52d13779cacb62a74f77f9424203494130fab0","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pchain","vers":"0.1.0","deps":[{"name":"clap","req":"^3","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rubx","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7188207ca7a6f070fb7fc8af85e4097399f3f2d251e0ba43cd5f99f79c8e30b0","features":{},"yanked":false}

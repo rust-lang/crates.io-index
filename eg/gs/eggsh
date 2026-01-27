@@ -1,0 +1,2 @@
+{"name":"eggsh","vers":"0.1.0","deps":[],"cksum":"2d249ce3f8b14806121d602760dc6a3e0535b8be1a2b233b718213ac9787cab3","features":{},"yanked":false}
+{"name":"eggsh","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4c27d62264d3dd645a5715bd0611b3e209b058507940c81ea9658cd206ddfc8","features":{},"yanked":false}

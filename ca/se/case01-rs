@@ -1,0 +1,2 @@
+{"name":"case01-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d53fd67f9ad2b71cb746b05ffa64080e5d63233a991a73d3e0c36c4c5bc18d9","features":{},"yanked":false}
+{"name":"case01-rs","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3532691ce70fcabe83efa3a15b31e51e3b61eebceca75a4c2752260bcaa2e2be","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"Rust-WORLD","vers":"0.1.0","deps":[],"cksum":"cdf1e29a0827b1874f7f9059e4449323cc32863127e355dc2c8f395712bcf9af","features":{},"yanked":false}
+{"name":"Rust-WORLD","vers":"0.1.1","deps":[{"name":"rsworld","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rsworld-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6aff6f1938ca10d10bf36fb2e2cc9f169b23ab44274cd301b9615bfa72881fc3","features":{},"yanked":false}

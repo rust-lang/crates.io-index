@@ -1,0 +1,2 @@
+{"name":"iwlib_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c672ccb01a169fda0c38cad1865d47c07ed0ce62339ecb245cc9ab425093f9c1","features":{},"yanked":false}
+{"name":"iwlib_sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2a01f0a5bb1a76e2a6dedcc12ab73c3e8bcd282989d5f9ab4795d5c0fbd81e6e","features":{},"yanked":false}

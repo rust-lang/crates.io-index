@@ -1,0 +1,1 @@
+{"name":"hydraulic","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ec409c1e24ce0ce67675f05c718913bb369c4333915a87a18a72f202db1affa","features":{"deflate":[],"full":[],"gzip":[]},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"clone-behavior","vers":"0.0.1-alpha","deps":[],"cksum":"a917da284149c9f6bae7b6880a675e0d8a62e075ab08f5dabd2eb504fbe39df8","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85"}
+{"name":"clone-behavior","vers":"0.0.1","deps":[],"cksum":"d57b9a0e7ede8d03995012a0c1c774651d1f072030849ea9b692f929b2435bc5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85"}
+{"name":"clone-behavior","vers":"0.1.0","deps":[],"cksum":"cd55096d02d338fda033727875a3a47124e3c9140b034fef881e8d594f3f897a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85"}

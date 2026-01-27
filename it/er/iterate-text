@@ -1,0 +1,1 @@
+{"name":"iterate-text","vers":"0.0.1","deps":[{"name":"argparse","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"853a8432217c6314e86bd14d1985e4bfd8be2fdd4ebc9cb2ab0eb9474caa7055","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"clhash-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"61bfbdf4ff7da2cc12d82c2e8a86d6c989157135effa3792ccd48e8f1521a624","features":{},"yanked":false}

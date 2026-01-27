@@ -1,0 +1,3 @@
+{"name":"canpack-example-hello","vers":"0.0.1","deps":[],"cksum":"b7ce7ac07ef4526f3b3e6a5f8b6aaee272a1305c77030853ec56eff74c33ed17","features":{},"yanked":false}
+{"name":"canpack-example-hello","vers":"0.0.2","deps":[{"name":"canpack","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64f0eb1068115c32ca4d9547f76e33e75db65ede65a422dbcd97fe4d0bbbc6ee","features":{},"yanked":false}
+{"name":"canpack-example-hello","vers":"0.1.0","deps":[{"name":"canpack","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1477c24110b23fbf1b5131f932817741b51cf32c9d5c1b7a4237bb11bcbee1f","features":{},"yanked":false}

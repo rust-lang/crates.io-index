@@ -1,0 +1,2 @@
+{"name":"gsl_bfgs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3bd2f263fef266b53d77df7d19fd928e5fc080aebdc2d7bab26da6f763bd2e8","features":{},"yanked":false}
+{"name":"gsl_bfgs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33c315ff207a919ee1856ac51d755e60d86730434be6fe3c3739cebf22caa75e","features":{},"yanked":false}

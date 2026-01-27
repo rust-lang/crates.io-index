@@ -1,0 +1,13 @@
+{"name":"nyst","vers":"0.1.0","deps":[],"cksum":"4d72754e83f3de853e40c4dba1f9147eeed3d9fd6b7b3b3ffefbff70ee9cf8ed","features":{},"yanked":true}
+{"name":"nyst","vers":"0.1.1","deps":[{"name":"regex","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ron","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.117","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e268c6d6d5d5da20b69ab42e6ca2900ae75104db56d9fc4922a831499925c246","features":{},"yanked":true}
+{"name":"nyst","vers":"0.1.2","deps":[{"name":"regex","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ron","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0.117","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e59c07bef49dec3140282d99d00bc847b7e2a186e50cf6da289d5329dabc7d","features":{},"yanked":true}
+{"name":"nyst","vers":"0.1.3","deps":[],"cksum":"aa91b55e16a99dac6e803e6425ed03f79a07970c29a076627717674de94538b5","features":{},"yanked":false}
+{"name":"nyst","vers":"0.1.4","deps":[],"cksum":"c4a50f015165f0f08aa44e8c196b01cd77ad34bd5b1d80018d45c399d0ce0bde","features":{},"yanked":false}
+{"name":"nyst","vers":"0.2.0","deps":[],"cksum":"7dc23caaf3a25fa9b4acb79627ba101f79bad01e2d4247a15beb6ef3cd43ba4a","features":{},"yanked":false}
+{"name":"nyst","vers":"0.3.0","deps":[],"cksum":"c85542d7a28c827f0b0a92192b6c43aa6a452abb30c9f5b8bb112a016baf9f16","features":{},"yanked":false}
+{"name":"nyst","vers":"0.4.0","deps":[],"cksum":"503af6b9db0e07878558e03efccd4e20ec60ee5c8c5ba880d693ebe536bc6879","features":{},"yanked":false}
+{"name":"nyst","vers":"0.4.1","deps":[],"cksum":"3583eb63858451e9454c1ff994125be28f49057e1174e3fd79645a75c0ffa53d","features":{},"yanked":false}
+{"name":"nyst","vers":"0.4.2","deps":[],"cksum":"55f89221d4647bf6a2a121a7db3b5553fb39cf69d8c7590f62a203a05b05ff70","features":{},"yanked":false}
+{"name":"nyst","vers":"0.5.0","deps":[],"cksum":"4441688b5b6945faad10e49c7d5daa2880db9d2a6bc03fe4b0b3a6595cbdc6fe","features":{},"yanked":false}
+{"name":"nyst","vers":"0.5.1","deps":[],"cksum":"fb8a85e382f5c617c0340c36d66c4fff370fdd2e8ca8e588641479ade2ae157b","features":{},"yanked":false}
+{"name":"nyst","vers":"0.5.2","deps":[],"cksum":"4c255e26dcfe7531d348dfbb845b623f03267ed991ee0080aa2d0ae14075547e","features":{},"yanked":false}

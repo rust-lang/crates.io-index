@@ -1,0 +1,1 @@
+{"name":"sqnc","vers":"1.0.0","deps":[{"name":"ndarray","req":"^0.15","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ea4c9c29903834c064ff1653bf2d52de869f2b1de109fdb1751308e53b192c1","features":{"alloc":[]},"yanked":false,"rust_version":"1.66"}

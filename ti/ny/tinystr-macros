@@ -1,0 +1,2 @@
+{"name":"tinystr-macros","vers":"0.1.0","deps":[{"name":"tinystr","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c97a45afd04e6bf6d5945895d6982afd9a428e0ebf66585d5e09961d8319ac30","features":{},"yanked":false}
+{"name":"tinystr-macros","vers":"0.2.0","deps":[{"name":"tinystr-raw","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f65be51117c325c2b58eec529be7a0857d11527a9029973b58810a4c63e77a6","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"smd2bin","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"740ab459e186896a249d68365ad272b18647fca10ee2d758adb0bc4d23c0ecbf","features":{},"yanked":false}

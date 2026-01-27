@@ -1,0 +1,2 @@
+{"name":"strconv","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f32df10f08eec2c31bc4e24768cef452df8f7c44c40f3c92c268a1c61195f8c4","features":{},"yanked":false}
+{"name":"strconv","vers":"0.1.1","deps":[{"name":"syn","req":"^2.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ead34ffda2ed1c739913d57b00cd8d4a23daa1faae1be039f1facae96ec7e3f0","features":{},"yanked":true}

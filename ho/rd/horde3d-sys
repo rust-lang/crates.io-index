@@ -1,0 +1,2 @@
+{"name":"horde3d-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"14900157e9a416d5d03cc6f94204890cbeee8f10beb3f5cf1f01aea17f8f5896","features":{},"yanked":false}
+{"name":"horde3d-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c85f72df33e01629e55325fb75040bc57404f3d2787abfd22e3ba009dbe1cbaf","features":{},"yanked":false}

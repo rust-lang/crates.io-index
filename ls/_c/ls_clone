@@ -1,0 +1,2 @@
+{"name":"ls_clone","vers":"0.1.0","deps":[],"cksum":"0d7ca9de92b4260d9acec802d4deffc3e0dab775138863fe925f465e2273f47d","features":{},"yanked":false}
+{"name":"ls_clone","vers":"0.1.1","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6941496f9b1bc28bbb0d1d571f8d4e2f290414cf9e362922bc51f53f9b84c56","features":{},"yanked":false}

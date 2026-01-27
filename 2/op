@@ -1,0 +1,6 @@
+{"name":"op","vers":"0.1.0","deps":[],"cksum":"ff04f85d6cdccf48de4d1eb359b4daabd8fb8cc060d42888df1c7c52ea089366","features":{},"yanked":false}
+{"name":"op","vers":"0.1.2","deps":[],"cksum":"ea7c0992546cc39e9039f71b302739791cd8d6fe10fef7d23acfc13e086dc5d8","features":{},"yanked":false}
+{"name":"op","vers":"0.1.3","deps":[],"cksum":"236f10d39220d1ce001b8e9f598233f3dc25141e63688acc4fab6c99598619bf","features":{},"yanked":false}
+{"name":"op","vers":"0.1.4","deps":[],"cksum":"d4b25415f72365b7f5163408d5e9dfccd505fea54eb0851c2abf89bc881e53c2","features":{},"yanked":false}
+{"name":"op","vers":"0.2.0","deps":[{"name":"op-proc","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e49a4c110627fb493dc74e9d953de8537c1dd4efe810334ace22a9d74342c14","features":{},"features2":{"full":["dep:op-proc"]},"yanked":false,"v":2}
+{"name":"op","vers":"0.3.0","deps":[{"name":"op-proc","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11bd4ed8cb0f5318e6c61bbde96fb1159ab085bcd3233aca25db87060c73ef01","features":{},"features2":{"full":["dep:op-proc"]},"yanked":false,"v":2}

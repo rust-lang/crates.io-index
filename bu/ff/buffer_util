@@ -1,0 +1,2 @@
+{"name":"buffer_util","vers":"0.1.0","deps":[{"name":"bytebuffer","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0569416d1a5d73b1082d5a070af069cdc6db2d42b701c2dce78b3f2b699f3a36","features":{},"yanked":false}
+{"name":"buffer_util","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74683cef2579b5c86748158c113dabf756d981134b73ee866f0f8a8428359c6c","features":{},"yanked":false}

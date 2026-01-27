@@ -1,0 +1,2 @@
+{"name":"embassy-interval","vers":"0.2.0","deps":[{"name":"embassy-time","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa1f9720b1fd533830ec862b2d4fadf259eed7f3beb4789ddb55bc59e18b66eb","features":{},"yanked":false}
+{"name":"embassy-interval","vers":"0.2.1","deps":[{"name":"embassy-time","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ece22ec126a1dc8b63293d7d241db374036f9ffb0ba02ab22517ef074699f0d","features":{},"yanked":false}

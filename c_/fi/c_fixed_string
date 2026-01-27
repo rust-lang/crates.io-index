@@ -1,0 +1,2 @@
+{"name":"c_fixed_string","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d37e86b19755dd2991c110b50cb79f8062e080da14001d184f7f53f831ad6a9e","features":{},"yanked":false}
+{"name":"c_fixed_string","vers":"0.2.0","deps":[{"name":"memchr","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe6833b1e1b632d1a4c167aa8dc2a78a774bd78e14bc14579505d209327b47cf","features":{},"yanked":false}

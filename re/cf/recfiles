@@ -1,0 +1,1 @@
+{"name":"recfiles","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9676e3fb208454a8e76d013e7436f5c5c89664204104c54c219d74e60cb5b9a6","features":{},"yanked":false}

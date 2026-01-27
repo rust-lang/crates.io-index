@@ -1,0 +1,2 @@
+{"name":"guessing_game_zix","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4308523c02ee91682e086dcbd3120320c0db9b1052a85305e74ab25e133b52a3","features":{},"yanked":false}
+{"name":"guessing_game_zix","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfe268d31a39f117868df5721a1650ad7afe4ab2315dd718f7c331cf6e9572ae","features":{},"yanked":false}

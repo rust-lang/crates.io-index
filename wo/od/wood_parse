@@ -1,0 +1,2 @@
+{"name":"wood_parse","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2752b397e3770d7336478349764286e132c449e7de4136581d006db83aa10ef4","features":{},"yanked":false}
+{"name":"wood_parse","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3274c95ad8cc1af130f150abe61d7029904fc8a44103a5f8a757749e2afe7a1d","features":{},"yanked":false}

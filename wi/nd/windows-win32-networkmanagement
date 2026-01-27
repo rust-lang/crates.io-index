@@ -1,0 +1,5 @@
+{"name":"windows-win32-networkmanagement","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4e2c33cd52cd04ac11650d23fed0b1acfd48925e5c308aec1bffb436c920f84c","features":{},"yanked":false}
+{"name":"windows-win32-networkmanagement","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c13be5bca5c28211dc70a0382ad5e62fa28037cfab35ec66288e4d07bca05199","features":{},"yanked":false}
+{"name":"windows-win32-networkmanagement","vers":"0.22.5","deps":[],"cksum":"44a9e5b59882bfebaf7462ee1168a6684e0810dc02a62277bf4407ada00dd454","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-networkmanagement","vers":"0.22.6","deps":[],"cksum":"160684b7a1390a7c9fb1449171d55ef0cb0f19202d51db20bc64fe9e4003756b","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-networkmanagement","vers":"0.23.0","deps":[],"cksum":"4a7f7a9ea8ec72643127677e0d6e06bd6ef2ddc7a8c2771f2e03731d05224f0f","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"emf-core-base-rs-ffi","vers":"0.1.0","deps":[],"cksum":"f5ff24e4318da7aebb475780b2735ca81eebe78a85beeeb4d4c8ff5738ec31aa","features":{"extensions":[],"extensions_all":["unwind_internal"],"init":[],"unwind_internal":["extensions"]},"yanked":false}
+{"name":"emf-core-base-rs-ffi","vers":"0.1.1","deps":[],"cksum":"fc66fed57a6c1edf65db7e82040847df137d28ac6258ccab00ec34a5459e178d","features":{"extensions":[],"extensions_all":["unwind_internal"],"init":[],"unwind_internal":["extensions"]},"yanked":true}
+{"name":"emf-core-base-rs-ffi","vers":"0.1.2","deps":[],"cksum":"fc93c0bab9cac002c531bf7d3b8350a5c268a07799a7cc104bfa82b82a7ec876","features":{"extensions":[],"extensions_all":["unwind_internal"],"init":[],"unwind_internal":["extensions"]},"yanked":false}

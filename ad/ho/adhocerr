@@ -1,0 +1,3 @@
+{"name":"adhocerr","vers":"0.1.0","deps":[],"cksum":"5b2424fe2082cbc3a3ef645c2e3da142713023e9c16772544a6643e28ad7008b","features":{},"yanked":false}
+{"name":"adhocerr","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1dc5f979485a2f93861ab91e32d2231d859aea976d65aa6b3681dab81dc443a","features":{},"yanked":false}
+{"name":"adhocerr","vers":"0.1.2","deps":[{"name":"anyhow","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eadd85be54961f9a876a5231f2dcee69191d1ec2e0e69e2ea05ccad69cad04af","features":{},"yanked":false}

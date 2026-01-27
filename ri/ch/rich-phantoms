@@ -1,0 +1,1 @@
+{"name":"rich-phantoms","vers":"0.1.0","deps":[{"name":"compiletest_rs","req":"^0.3","features":["stable"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e57d6423edb16dba439ca95583445237bd63d292a05bec1d24408f896f1c55c1","features":{"unstable-test":[]},"yanked":false}

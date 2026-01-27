@@ -1,0 +1,1 @@
+{"name":"flashtext","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46988ed6cf1ce383ea151916955493aa1ab49fe659d88ff8379f4ae4c80d7ceb","features":{},"yanked":false}

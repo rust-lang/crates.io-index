@@ -1,0 +1,3 @@
+{"name":"loaned","vers":"0.1.0","deps":[],"cksum":"da2f64517bfbf7127b8418da518c2e437722b272c07c87dd17576c0c0f8d6a1d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"loaned","vers":"0.1.1","deps":[],"cksum":"f16fbe026127b8ff026fcc7419ddf201d47807295690de255bb68fced2ba15af","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"loaned","vers":"0.1.2","deps":[],"cksum":"a4c980a418236e2d8f7c239f73e49afc38e7f71772fcd3fc723d95c3d93a7591","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

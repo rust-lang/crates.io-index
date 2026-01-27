@@ -1,0 +1,1 @@
+{"name":"cronos-heartbeat","vers":"0.1.8","deps":[{"name":"anchor-lang","req":"^0.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4191c256b9903c24c209de67c797056fbe275c6ff8aa9810909b0ef7b501f330","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}

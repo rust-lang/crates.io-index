@@ -1,0 +1,3 @@
+{"name":"gfxmath-vec4","vers":"0.0.0","deps":[],"cksum":"4bb220c448b0a8a00d5a063677026109c10f84e19ad8127b9d5e2765df1a2394","features":{},"yanked":true}
+{"name":"gfxmath-vec4","vers":"0.1.0","deps":[{"name":"opimps","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d06013ca5b85ee6f979d1d0b675b4ee14a76156e71a5732ec26b3c53ec61764","features":{},"yanked":false}
+{"name":"gfxmath-vec4","vers":"0.1.1","deps":[{"name":"opimps","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"970fc483af84c9d0eb01c6af2d848d2a38bb42d3313480f1b31f02c618c97b64","features":{},"yanked":false}

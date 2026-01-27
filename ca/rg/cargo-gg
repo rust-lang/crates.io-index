@@ -1,0 +1,2 @@
+{"name":"cargo-gg","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d586501d66f285cc7c10bf262e718321231707e798debda83bb0cd4eb00f0fd1","features":{},"yanked":false}
+{"name":"cargo-gg","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7daa73179a88a9aa085d40fb41db3cdd17271b68be0afe6bb114a4cad7131fdd","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ascas","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10c13069878513e10c59971f027041eb730c672d756203bb2c88c5460e4f6bb7","features":{},"yanked":true}
+{"name":"ascas","vers":"0.1.5","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ea26b651791bb7948b19c8e4ad8c790ec55b42ea7096df46a049306098e2423","features":{},"yanked":true}

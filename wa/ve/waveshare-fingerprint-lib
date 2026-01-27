@@ -1,0 +1,2 @@
+{"name":"waveshare-fingerprint-lib","vers":"0.1.0","deps":[{"name":"serialport","req":"^4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ddefcb7f6b9f4e03a9143c0f14626ffc7aff155f6c518167dde71d57be1d1e6","features":{},"yanked":false}
+{"name":"waveshare-fingerprint-lib","vers":"0.1.1","deps":[{"name":"serialport","req":"^4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29ae72974f5db4066ea6c9a9058ed27a94daef6750e86db48b87db117c0742e0","features":{},"yanked":false}

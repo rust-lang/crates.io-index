@@ -1,0 +1,4 @@
+{"name":"gc_fst","vers":"0.1.0","deps":[],"cksum":"350fd984e498936a0efe298da7eb291895ba4c192c8189dc14d69ada994529e9","features":{},"yanked":false}
+{"name":"gc_fst","vers":"0.1.1","deps":[{"name":"lodepng","req":"^3.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e3b0ad5234db7fb7d7c6c5f9f675b97a92220ba4029c48429a1bb15f07b7c5b4","features":{},"yanked":true}
+{"name":"gc_fst","vers":"0.2.0","deps":[{"name":"lodepng","req":"^3.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6279ca8f074603f526639648b0d5c076a2a128308aabc4f7828612dfbd68d9d2","features":{},"yanked":true}
+{"name":"gc_fst","vers":"0.2.1","deps":[{"name":"lodepng","req":"^3.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"74f17f0219e99634c8163969b9a7df54643c8b5df7fa616685090e44d17624d6","features":{},"yanked":false}

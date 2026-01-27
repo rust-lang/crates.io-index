@@ -1,0 +1,1 @@
+{"name":"webp_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"42d9e22477ca3198c887ac9691aadb7d31df77c7733b166e85419e822cab7d64","features":{},"yanked":false}

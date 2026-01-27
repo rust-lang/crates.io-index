@@ -1,0 +1,2 @@
+{"name":"cosmicbox","vers":"0.5.0","deps":[{"name":"hidapi","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8470312d939d2c76859a7be0ffdcefe9ff505d88aec5cce96a618fdc33a72ce1","features":{},"yanked":false}
+{"name":"cosmicbox","vers":"0.5.1","deps":[{"name":"hidapi","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23c7adcd8c42739db9de255c72528f4fa18f3365c251ca70c3460da8552d1d34","features":{},"yanked":false}

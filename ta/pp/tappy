@@ -1,0 +1,1 @@
+{"name":"tappy","vers":"0.1.0","deps":[{"name":"cursive","req":"^0.9.2","features":["termion-backend"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5da70ab05a006cc0e7a8d3cd7b6a0a383563b595da57eda4ce32a114adf0265","features":{},"yanked":false}

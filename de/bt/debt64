@@ -1,0 +1,19 @@
+{"name":"debt64","vers":"0.0.2","deps":[],"cksum":"92e0b93e01d8e7163d084024123b94fc5fd07e2e7686b16f8d5a87c527df2c66","features":{},"yanked":false}
+{"name":"debt64","vers":"0.1.0","deps":[],"cksum":"515f7c92075f9d25525fdeb699acbf13df4ce8ce205d6b3370c0641d5d4160c7","features":{},"yanked":false}
+{"name":"debt64","vers":"1.0.0","deps":[],"cksum":"24f077572c1e3169fed7be3163fa42afebcd99988da517edf86b644f27e6b308","features":{},"yanked":false}
+{"name":"debt64","vers":"1.1.0","deps":[],"cksum":"761473050adbd54a3e105517b37f195913fc25ef9daf2eedec19307e67a5dcb3","features":{},"yanked":false}
+{"name":"debt64","vers":"1.1.1","deps":[],"cksum":"1bd851b126bf61d29b869fc0676350f29c2b6e6e581342ea54151fa5452335c6","features":{},"yanked":false}
+{"name":"debt64","vers":"1.2.0","deps":[],"cksum":"24a338d5ad649265b2014ecb1aac4ac8bd33adeb714c6e0c9073801e5c205357","features":{},"yanked":false}
+{"name":"debt64","vers":"2.0.0","deps":[],"cksum":"bcbb7729858e75fea8608f45f00ede9bcac3cca84f2772076a488a19561268ac","features":{},"yanked":false}
+{"name":"debt64","vers":"3.0.1","deps":[],"cksum":"2c1809761fe17c7636e73e29ca647b3e7ff89012cf0e340fe5d06d52b040d849","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"3.1.0","deps":[],"cksum":"5c484852663db8f329ef06188910ea255a437b495b0b251ec2fb729f86c7b640","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"3.1.1","deps":[],"cksum":"100ebcf21f7b3f52c0322b7d085d3f1adfa3497c1fb8ba0fed5a867b9ea8db25","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"3.1.2","deps":[],"cksum":"bc6d0f54b9c8b9f6c1d7e3dc7327e37d63953e978cf7024b9158508804d76556","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"4.0.0","deps":[],"cksum":"700743862e4495210016a27629ba37066352403fab14460fdc9de49b469351f3","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"5.0.0","deps":[],"cksum":"763d4aa6d27da572e783a793118690dbfb4e52fe0ea0bafceb1a6bbceedb1207","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"6.0.0","deps":[],"cksum":"f54027b265787075d0d59cf91040873f85dec16e4c0f1cd650fa6503bc03e1a2","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"7.0.0","deps":[],"cksum":"368345c6c660f82ba62d8949fd74362182644d35fc49ab1a5fbfdfec26d3023e","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"8.0.1","deps":[],"cksum":"52173d43df36c6f88d4ae6e5aac38cda7aa423efbc429a379a831eb6257c1ef5","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"8.0.2","deps":[],"cksum":"b539aebe5be24a2b7bc575e619422559b192f3cfda59713ee8c0ce18dfca9033","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"9.0.0","deps":[],"cksum":"d0b5eef5f7a52f83a8c2b1ae73465bb85682b1574e3d1bca28cdd6225b85f83a","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"9.0.1","deps":[{"name":"dia-args","req":">=0.60.2, <0.61","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"dia-files","req":">=0.23.1, <0.24","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45dece0787e80eec31f2a1f2c054ac806f1c74107b9179540626d0819817b71d","features":{"bin":["dia-args","dia-files"],"std":[]},"yanked":false}

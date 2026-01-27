@@ -1,0 +1,2 @@
+{"name":"librime-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7d59d66b1eb601c4db31ac10a06fd19b1d5525dd0002141b095075f0098f82bd","features":{},"yanked":false}
+{"name":"librime-sys","vers":"0.4.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a2c0d2e5f3117b57dc2bd835c2a97d90914b35b63790f2827d36408758e1be25","features":{},"yanked":false}

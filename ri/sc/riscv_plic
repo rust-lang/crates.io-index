@@ -1,0 +1,2 @@
+{"name":"riscv_plic","vers":"0.1.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daae4c8e29d4d8c36fbda4c318ffa1755645766fefab8fcff61a8ecd577bb822","features":{},"yanked":false}
+{"name":"riscv_plic","vers":"0.2.0","deps":[{"name":"tock-registers","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e701d1c6ea06c35a19cb80d213fab87d264798f9bac0aed2730c0e86d297394a","features":{},"yanked":false}

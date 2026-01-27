@@ -1,0 +1,3 @@
+{"name":"rizki_say_hello","vers":"0.1.0","deps":[],"cksum":"8e13b3c44d6a6c00ffda4a1d0c268be1d526bb7027fe4337802a099437574940","features":{},"yanked":false}
+{"name":"rizki_say_hello","vers":"0.2.0","deps":[],"cksum":"a865eb91e1b1c9e680ad01b09cd0c7eb345a73935a4da6944dc165f7494642b3","features":{},"yanked":false}
+{"name":"rizki_say_hello","vers":"0.3.0","deps":[],"cksum":"d0f994b99fb5623c4750726c7abdb2429dd0d827091da095856783c3301e1303","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false}

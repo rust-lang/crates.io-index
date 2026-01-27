@@ -1,0 +1,1 @@
+{"name":"compact-map","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deff9a63739bb43a9c855634163975e1993f6677a30fbc6377f14375f9b5a59e","features":{"entry_insert":[],"extract_if":[],"many_mut":[],"map_entry_replace":[],"map_try_insert":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"vema","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"7a252ebc98c3377f0d04ecf82de6d9f1c0dbfbaed4713194faf268d74bbffccb","features":{"default":[],"nightly":[]},"yanked":false}

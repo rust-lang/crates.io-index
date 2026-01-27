@@ -1,0 +1,2 @@
+{"name":"protto","vers":"0.6.0","deps":[{"name":"protto_derive","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"883888bc91edd35dd5dd951ed17c7e9503368104ff70aaf0b6ff2f95f0657533","features":{"default":[]},"yanked":false}
+{"name":"protto","vers":"0.6.1","deps":[{"name":"protto_derive","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c60f7826931e95babe7f7d63c765d46337d039fade9d79720a2adfa11ce6bc5e","features":{"default":[]},"yanked":false}

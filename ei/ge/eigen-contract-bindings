@@ -1,0 +1,1 @@
+{"name":"eigen-contract-bindings","vers":"0.1.0","deps":[{"name":"ethers","req":"^2.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f0a99d2a3c6b116d4013121fc20ff2a2f4e884475f6327c7d8300b175683fcb4","features":{},"yanked":false,"rust_version":"1.79"}

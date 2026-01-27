@@ -1,0 +1,5 @@
+{"name":"witnessed","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1348e88ed4b91887707ba7f35acfa945797835367f987af475511d00db238ee8","features":{},"yanked":true,"pubtime":"2026-01-24T08:03:06Z"}
+{"name":"witnessed","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bb2c7b36cd327579bb3271f1ff1f90480cbf7a00c2372ee6af8d1655a4a8d35e","features":{},"yanked":true,"pubtime":"2026-01-24T08:14:48Z"}
+{"name":"witnessed","vers":"0.2.0","deps":[],"cksum":"28081a62d534c8b9f2b5f427929363e71764eb7952566038d41003dfdabf7b08","features":{},"yanked":false,"pubtime":"2026-01-24T14:34:31Z"}
+{"name":"witnessed","vers":"0.3.0","deps":[],"cksum":"8d90e58ee8a4948e07283c2c4e2677470c335f0e18a2278c255283be57695025","features":{},"yanked":false,"pubtime":"2026-01-24T15:59:04Z"}
+{"name":"witnessed","vers":"0.3.1","deps":[],"cksum":"7ec17ee4294923716d4545766cda761d24cf36f0e1618b1b06344273aea4aa76","features":{},"yanked":false,"pubtime":"2026-01-25T03:53:46Z"}

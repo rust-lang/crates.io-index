@@ -1,0 +1,1 @@
+{"name":"mdfmt","vers":"1.0.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unicode-width","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3402588f1f17222583ab7ceb262fa036e660ec991ad46bd461a20a2d2a9bc26","features":{},"yanked":false}

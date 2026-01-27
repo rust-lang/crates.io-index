@@ -1,0 +1,3 @@
+{"name":"simple-16","vers":"0.1.0","deps":[],"cksum":"869ae07f4b86e58635a4b84485fe8fa2445408e4e62fac6844de6d5b1c69baad","features":{},"yanked":false}
+{"name":"simple-16","vers":"0.1.1","deps":[],"cksum":"4ca57868693f8e7379d557db6c44191e2f673b3518899e64925674400c83bd81","features":{},"yanked":false}
+{"name":"simple-16","vers":"0.2.0","deps":[{"name":"firestorm","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5deb3747fb126a13be7cd42aa962c5774c747a883affe9424dfe3ce6e38e20ad","features":{},"yanked":false}

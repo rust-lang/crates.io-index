@@ -1,0 +1,1 @@
+{"name":"idempotent-resource-ops","vers":"0.0.1","deps":[{"name":"time","req":"^0.3.17","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b5f9020d3b03626f289d3ca751c571f337eeddea382cf4d43094ac50336adb56","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.60"}

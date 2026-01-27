@@ -1,0 +1,2 @@
+{"name":"fmodsilo_interface_stdio","vers":"0.1.0","deps":[{"name":"fmodsilo_server","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a743d7bb240f87f766fb1d8bdfb94f97d1d2e08916785dcd17b71af3c77041cd","features":{},"yanked":false}
+{"name":"fmodsilo_interface_stdio","vers":"0.1.1","deps":[{"name":"fmodsilo_server","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b05e9659242f9946f3f7d62f18dac2e9855fac50d1aa536553c34add6ef1aeb","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"say-hello-lib-inoy","vers":"0.1.0","deps":[],"cksum":"c5d1433d0fd853259ed70399edd3b809764eb1095fcdaac99836b09d5841342f","features":{},"yanked":false}
+{"name":"say-hello-lib-inoy","vers":"0.2.0","deps":[],"cksum":"1bb32a810d82262ce7ea63f786ca1f69f4ddba7908476686e25f2cee60443faa","features":{},"yanked":false}
+{"name":"say-hello-lib-inoy","vers":"0.3.0","deps":[],"cksum":"66ca31cdf720085a3ceb4a2eec1847691094c61f1fd7ec80506e702df1f40b7c","features":{"all":["hello"],"bye":[],"hello":[]},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"mish","vers":"0.1.0","deps":[],"cksum":"5cf42cdb2a9bae4028023b3b43fba0d28ffe5b623439a134c5eb05a54643b9ab","features":{},"yanked":false}
+{"name":"mish","vers":"0.1.1","deps":[],"cksum":"523f12c6f8ed93c28597e2a823b25cdf1afdb37f3217f42b939791cc11d8ff88","features":{},"yanked":false}
+{"name":"mish","vers":"0.1.2","deps":[],"cksum":"dc42cecc2fd8f833c6a982ebd924791c1f8a2887b9e16710967d9aafd1334b00","features":{},"yanked":false}
+{"name":"mish","vers":"0.1.4","deps":[],"cksum":"2bb48a37f3e8a2312c1f991582b49d119a096913b17d93b01bc0d920798257fe","features":{},"yanked":false}
+{"name":"mish","vers":"0.2.0","deps":[{"name":"quickcheck","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d77368a464be8a2e1699d1b0e9ea0c63e459a516565053e8f0d843fa6512f8a7","features":{},"yanked":false}
+{"name":"mish","vers":"0.2.1","deps":[{"name":"quickcheck","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a60312fa8f96bd9853910a79d9de6d086d3e377983e1e6fce672b5a9ab598a79","features":{},"yanked":false}

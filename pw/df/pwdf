@@ -1,0 +1,2 @@
+{"name":"pwdf","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.68","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54fa985895c11cf99c45b2a310e0033235e4651091ceedbcfaa1eb0cc7bad6c0","features":{},"yanked":false}
+{"name":"pwdf","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.68","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9b543278f4ad4113c5a4a737e231712e62e5adc25d7683955de9fd14312e0d2","features":{},"yanked":false}

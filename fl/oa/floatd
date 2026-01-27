@@ -1,0 +1,1 @@
+{"name":"floatd","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.18","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"34287e0aad4413b337b7d3055a48deb7e409251e8cee2e023c70e7b59e0ef321","features":{"std":["num-traits/std"]},"yanked":false}

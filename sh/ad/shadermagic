@@ -1,0 +1,2 @@
+{"name":"shadermagic","vers":"0.1.0","deps":[{"name":"miniquad","req":"^0.4.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0d0fb008e4113672998b33a1406f229e0dc37a8d47a901dfa3ffbf94d76cf79","features":{},"yanked":false}
+{"name":"shadermagic","vers":"0.1.2","deps":[{"name":"miniquad","req":"^0.4.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd3db95567e99f221975ca67e12d8ec55bb188e27a6a33af097f7e4ac8a9ef10","features":{},"yanked":false}

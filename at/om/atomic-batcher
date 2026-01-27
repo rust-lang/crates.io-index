@@ -1,0 +1,2 @@
+{"name":"atomic-batcher","vers":"0.8.0","deps":[{"name":"tokio","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ba5a880fc4e2494b4753491f537e5b37889d4db81baf470e788a7d7e7141d89","features":{},"yanked":false}
+{"name":"atomic-batcher","vers":"0.8.2","deps":[{"name":"tokio","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f083de120c61e55275931b0cc0b02f0b4d14f86b2f78f19a1e366db3ed70a15a","features":{},"yanked":false}

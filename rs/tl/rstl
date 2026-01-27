@@ -1,0 +1,2 @@
+{"name":"rstl","vers":"0.0.1","deps":[{"name":"ratatui","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df94dd0f2e540cb650106cdcb422c631c95ff04170b7d5b57fdc0d238816df21","features":{},"yanked":false}
+{"name":"rstl","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a061556f3667bbf4e79f61a40db8859be69e69d58193ec89370b7f99ec6f3e80","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"highlighter-core","vers":"0.1.0-alpha","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fe25e41fa6882b5fd44c893352c1a209d44f0ebe7e422ff087411c518dc72dd","features":{},"yanked":false}
+{"name":"highlighter-core","vers":"0.1.1-alpha","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bc4d229996a7cf202850a364ef965279493b6d88d5e35d0ed9df5f5974622d5","features":{},"yanked":false}

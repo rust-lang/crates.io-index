@@ -1,0 +1,2 @@
+{"name":"expect_rs","vers":"0.0.1","deps":[{"name":"regex","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c920c9c93f39e4deec057727716e2631ebfe572ef78c7e1adeb23b6784b4d12f","features":{},"yanked":true}
+{"name":"expect_rs","vers":"0.0.2","deps":[{"name":"regex","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac5c040aa36259185533e4db21b96d6bc7292060b31cf5d7d78b2e4d491c5bc7","features":{},"yanked":false}

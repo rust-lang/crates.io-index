@@ -1,0 +1,2 @@
+{"name":"worlds","vers":"0.1.0","deps":[],"cksum":"461601a8bb3945edda590848bd959e60f53f97e921c9d2e6ae2b9dab81e988e4","features":{},"yanked":false}
+{"name":"worlds","vers":"0.1.1","deps":[{"name":"worlds_ecs","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a102354308ee99cb329f4604cf67715f9dbca66cd469b998bf694d5a3c0da67","features":{},"yanked":false}

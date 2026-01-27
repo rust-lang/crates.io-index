@@ -1,0 +1,2 @@
+{"name":"ppmd-sys","vers":"0.1.8","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dff6ed33fa7dbc8555fbc072c0cc947a2a4c90ed06a13b8080ee93fddcd015f7","features":{},"yanked":true,"rust_version":"1.85"}
+{"name":"ppmd-sys","vers":"0.2.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9b0a215ba48d129e96a5e8c181f6bd95e0d2b6cceec079c970e4c95eba83c8a2","features":{},"yanked":false,"rust_version":"1.85"}

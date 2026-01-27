@@ -1,0 +1,3 @@
+{"name":"lib-hello","vers":"0.1.0","deps":[],"cksum":"98e9d08c5536c8784b799cb7685813ac8dc3efa7fad8d65a87e87bb6f9244f85","features":{},"yanked":false}
+{"name":"lib-hello","vers":"0.2.0","deps":[],"cksum":"ba282402afc218aaf1f4e6a7c1f1078a5e56867ed1d72907bdc2e1e06c5eaa5a","features":{},"yanked":false}
+{"name":"lib-hello","vers":"0.3.0","deps":[],"cksum":"b0fb34c56cc728732a4f2024cb9e1c34164239b9baee212d3a8ce8e61c8acf5c","features":{"communication":["greeting","farewell"],"default":["communication"],"farewell":[],"greeting":[]},"yanked":false}

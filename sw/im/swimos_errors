@@ -1,0 +1,2 @@
+{"name":"swimos_errors","vers":"0.1.0","deps":[{"name":"swimos_algebra","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aa3b0d2fc36ba6acf8f4976237eaaec2fdad3d4843088f1c75be17d3e24156c","features":{},"yanked":false}
+{"name":"swimos_errors","vers":"0.1.1","deps":[{"name":"swimos_algebra","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fd6d1ec610d72ed2158fed677fd708d9726d8b510ce26f18baeeab9988082ba","features":{},"yanked":false}

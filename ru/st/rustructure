@@ -1,0 +1,1 @@
+{"name":"rustructure","vers":"0.2.0","deps":[{"name":"rustructure-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fe17ffeead478a04d0d56d613591a8de194b0a0728425ce5e6b67ab9b520c00","features":{"default":["std"],"std":[]},"yanked":false}

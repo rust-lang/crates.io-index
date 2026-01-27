@@ -1,0 +1,5 @@
+{"name":"apache-rs","vers":"0.0.0","deps":[],"cksum":"2a423bbb2e44564bce62519b7adf274460c811a702c15133db00b1e391bbdcd7","features":{},"yanked":false}
+{"name":"apache-rs","vers":"0.0.1","deps":[],"cksum":"923ecc2dd125e868900e655997e177a2cad8b44284d527f7119933580431a6ae","features":{},"yanked":false}
+{"name":"apache-rs","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ce3a85d31b923b45822f4637c4dddae011580e3354ebeb2bf67d698ddfe08e38","features":{},"yanked":false}
+{"name":"apache-rs","vers":"0.0.3","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0587c02b134324297f026ad958977cb0029e9602e9c39dec96d47ee0e0070a29","features":{},"yanked":false}
+{"name":"apache-rs","vers":"0.0.4","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf72d211f373be0f35fd7fecf662ce4f2385e52dddfe9dad929f74fc1df6c3ff","features":{},"yanked":false}

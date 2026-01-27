@@ -1,0 +1,2 @@
+{"name":"dou_dizhu","vers":"0.1.0","deps":[],"cksum":"80395cafefe477c759e5aeb92d824f9c1645e78ffd2781523825302c564fdad3","features":{},"yanked":false}
+{"name":"dou_dizhu","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98ac62798e7d40e79cdddaf2120a3fd7d158d4174c917234c1321ead8ff66457","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"rust-gha-workflows-demo","vers":"0.1.0","deps":[{"name":"divan","req":"^2.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"codspeed-divan-compat"}],"cksum":"0c3c33a5720e289f04296c52ae6ab1d131ec783cc8851ab3ea67ad85e9fb5d70","features":{},"yanked":false,"rust_version":"1.83"}

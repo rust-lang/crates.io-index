@@ -1,0 +1,1 @@
+{"name":"ws2812-rs","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff1e098997a74705606daac106400dd5dcb5648b15ff5fe002ae339f8bac803a","features":{"default":["spinloop_delay"],"manual_delay":[],"own_delay":[],"spinloop_delay":[]},"yanked":false}

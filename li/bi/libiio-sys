@@ -1,0 +1,6 @@
+{"name":"libiio-sys","vers":"0.1.0","deps":[],"cksum":"74e3f4ece7480edd0a2267734c6ecb4a3b6fdbb0a2fd27545877a8a76a05584c","features":{},"yanked":false,"links":"iio"}
+{"name":"libiio-sys","vers":"0.2.0","deps":[],"cksum":"bab2469e12ea566bc8c700027f2d680b147ba1a0ceac647c6233cbe2530d9339","features":{},"yanked":false,"links":"iio"}
+{"name":"libiio-sys","vers":"0.3.0","deps":[],"cksum":"fa27d61724787dc6a1e4dcf66a482852b3821e3e85ee88638a67c1287864c8f1","features":{},"yanked":false,"links":"iio"}
+{"name":"libiio-sys","vers":"0.3.1","deps":[],"cksum":"6d6c255d73b8f345bb10550b44e93b2b5c910a31ce72ee2528c5dbc028cf24ec","features":{},"yanked":false,"links":"iio"}
+{"name":"libiio-sys","vers":"0.4.0","deps":[],"cksum":"a9f070461c5df15a846d616be8672c5013a2eef8abd55f4a687d4d627ec42c0e","features":{"default":["libiio_v0_25"],"libiio_v0_19":[],"libiio_v0_21":[],"libiio_v0_23":[],"libiio_v0_24":[],"libiio_v0_25":[]},"yanked":false,"links":"iio","rust_version":"1.73.0"}
+{"name":"libiio-sys","vers":"0.4.1","deps":[],"cksum":"2f643b99b21452dd9bb6cb5a517cfa8342e90c6e9427a2b6274d5331dfb9ad98","features":{"default":["libiio_v0_25"],"libiio_v0_19":[],"libiio_v0_21":[],"libiio_v0_23":[],"libiio_v0_24":[],"libiio_v0_25":[]},"yanked":false,"links":"iio","rust_version":"1.75"}

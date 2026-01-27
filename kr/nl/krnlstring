@@ -1,0 +1,1 @@
+{"name":"krnlstring","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.59.0","features":["Win32_Foundation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0b79fa8a178a748cb77874ff8db116ff9833e69511705adc783b2eea879581f","features":{},"yanked":false}

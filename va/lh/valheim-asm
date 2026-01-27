@@ -1,0 +1,2 @@
+{"name":"valheim-asm","vers":"0.1.0","deps":[{"name":"modular-bitfield","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67ca775f25fb56198337832f7b81b3ade702077b0d58379df4118fde874240cc","features":{},"yanked":false}
+{"name":"valheim-asm","vers":"0.2.0","deps":[{"name":"modular-bitfield","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bacab8c9f9754bd972ad8f0dbee1369ecece243c0311041c52ea14e1f72ef15d","features":{},"yanked":false}

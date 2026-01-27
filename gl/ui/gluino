@@ -1,0 +1,1 @@
+{"name":"gluino","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.143","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02017ebc66033aa23b8774aede7b3dcedb356b88906f1e1d002b7142b479ef33","features":{},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"jaarg","vers":"0.1.0","deps":[],"cksum":"b213bf6e357eb9bb92b16e849c8b3844f461401c62abb2f08c40b1f445d8cfe3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"jaarg","vers":"0.1.1","deps":[],"cksum":"2b5af84b92ac5f1d5c04f8c649820e60d8c8215f5eb747b9529261fb3efbe921","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"jaarg","vers":"0.2.0","deps":[],"cksum":"1693904d24e498bd458321c8705fe22ddf49c4b7e6705e0054dfa474ca618334","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"jaarg","vers":"0.2.1","deps":[],"cksum":"8b216e5405f7e759ee0d16007f9d5c3346f9803a2e86cf01fc8df8baac43d0fa","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"jaarg","vers":"0.2.2","deps":[],"cksum":"534d589df1ef528a238f4bc4b1db081a1280f3aedf2695fd8971e9853a7fa4f6","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

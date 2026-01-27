@@ -1,0 +1,1 @@
+{"name":"lua-kit","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a09938642350b2ffb4cb521cbeaa7e9bf166ee105dee8168210f091a011eef4","features":{},"yanked":false}

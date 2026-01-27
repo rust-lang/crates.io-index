@@ -1,0 +1,1 @@
+{"name":"scanner","vers":"0.1.0","deps":[{"name":"pelite","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"753f0532292f3d424941747459db5bbea7c05f8afaeb26466168e27fc6a600fd","features":{"default":["pelite"]},"yanked":false}

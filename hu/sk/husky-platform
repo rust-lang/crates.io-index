@@ -1,0 +1,1 @@
+{"name":"husky-platform","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.106","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a49494d4e74b6024c21a7e1c8b42b925810ac77c355bf3628e27d1d7cea30262","features":{},"yanked":false}

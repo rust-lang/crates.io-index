@@ -1,0 +1,3 @@
+{"name":"log-types","vers":"0.0.0","deps":[],"cksum":"1978af930d8fb91eb5a25ad2f047c0989fdb8e6db7c74bd3f8959dab6321b7a3","features":{},"yanked":false}
+{"name":"log-types","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.8","features":["kv_unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"930a934d49d7cb0fb1c4c2203996bab4a9090b1808f35377fb443ef4ab2617a6","features":{},"yanked":false}
+{"name":"log-types","vers":"1.0.1","deps":[{"name":"log","req":"^0.4.8","features":["kv_unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66ff2dcc2ffe2852e3b8b54e6c6ffb199ebbff4bad8fbd47e639fbcee97037ac","features":{},"yanked":false}

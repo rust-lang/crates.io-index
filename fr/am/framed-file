@@ -1,0 +1,1 @@
+{"name":"framed-file","vers":"0.1.0-alpha","deps":[{"name":"shared-file","req":"^0.1.0-alpha","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5b6715e9601b354c4ef566374f28c8268d153b7b2c257ea74058ec627191c19","features":{"shared":["shared-file"]},"yanked":false}

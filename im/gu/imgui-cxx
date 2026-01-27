@@ -1,0 +1,2 @@
+{"name":"imgui-cxx","vers":"0.1.0","deps":[{"name":"cargo-cxx","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6eb0ba2590358fe6e601f95bb91874687cd079e2929e6aba6d71703eb3aef482","features":{},"yanked":false}
+{"name":"imgui-cxx","vers":"0.1.1","deps":[{"name":"cargo-cxx","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"98280bbf1f2e75ab8a797ec09928e176a13585abaca74ba723343521e8284223","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"mdccc","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3fbaf0d7ad022fd5497bc16657d46394b93f9af905211ab15930760c439d9f6","features":{},"yanked":false}
+{"name":"mdccc","vers":"0.1.1","deps":[{"name":"pulldown-cmark","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e474c4d5b5bed3572ba13bc177cb29263d3468d11a90fd734722d965ee848df0","features":{},"yanked":false}

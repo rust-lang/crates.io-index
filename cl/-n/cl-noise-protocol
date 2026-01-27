@@ -1,0 +1,1 @@
+{"name":"cl-noise-protocol","vers":"0.2.0","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5d35ffa6b1baefb500c1ec029bdc018a0cdb302f037d6253495b090d512ad38b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

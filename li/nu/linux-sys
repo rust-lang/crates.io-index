@@ -1,0 +1,2 @@
+{"name":"linux-sys","vers":"0.0.0","deps":[],"cksum":"ab34eb1b64b0fa88ffd36205b2b70f5794dae644bce8df5f928acb8759b40a1d","features":{},"yanked":false}
+{"name":"linux-sys","vers":"0.0.1-pre+5.4.0","deps":[{"name":"bindgen","req":"^0.52","features":["which-rustfmt"],"optional":false,"default_features":false,"target":null,"kind":"build"},{"name":"cty","req":"^0.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"861c72870b4a9543f34591fa79e727c067bd037fc480823ca20199acfb7a85e7","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"fmc_example_mod","vers":"0.1.0","deps":[{"name":"fmc_vanilla","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5650d1c700695ce280ac1bd944a48c83a128bbe9df34c193c47dda2013e3d5fd","features":{},"yanked":false}
+{"name":"fmc_example_mod","vers":"0.1.1","deps":[{"name":"fmc_vanilla","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b102a4fbad12d2a024879f37ba7dee41076587926da00c5afb11b3067f581f3","features":{},"yanked":false}

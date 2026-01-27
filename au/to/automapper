@@ -1,0 +1,2 @@
+{"name":"automapper","vers":"0.0.1","deps":[{"name":"automapper-proc","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b390240fc458ec639b6f5d0c29d7eeac2843214bc32c941d253daf73b319ae9","features":{},"yanked":true}
+{"name":"automapper","vers":"0.0.2","deps":[{"name":"automapper-proc","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cada97473a3bb6fe5ab83b4b01d379122be103df16b74dc5bb25c60514e1d89e","features":{},"yanked":false}

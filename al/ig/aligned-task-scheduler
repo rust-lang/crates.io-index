@@ -1,0 +1,1 @@
+{"name":"aligned-task-scheduler","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt-multi-thread","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15e32f72eaf02ccd5f8434524c9d6629491c9e39fb2750dab68ba8ed53458ad1","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"scalable_bloom_filter","vers":"0.1.0","deps":[{"name":"siphasher","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f834482ae9caf37dc7c8b1d163f408507572df9094cc1935365fa950afd7849b","features":{},"yanked":false}
+{"name":"scalable_bloom_filter","vers":"0.1.1","deps":[{"name":"siphasher","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2afc436fdd5e4299ee7560dac0e79a41554e7d4f13986f9dbd720f2df5e751c4","features":{},"yanked":false}

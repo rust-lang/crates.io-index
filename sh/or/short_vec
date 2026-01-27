@@ -1,0 +1,1 @@
+{"name":"short_vec","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.133","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e64f2248733f2dfbdb3e0d9656ce5a286b07cb1b8ec513224284764b0273f2e","features":{},"yanked":false}

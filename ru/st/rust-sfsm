@@ -1,0 +1,4 @@
+{"name":"rust-sfsm","vers":"0.1.0","deps":[],"cksum":"7f3b82eeab9e380f60187533b227d81d1a6ac38f7ffbc4be20ea90d3209f6032","features":{"std":[]},"yanked":false}
+{"name":"rust-sfsm","vers":"0.1.1","deps":[],"cksum":"1cb99f80bd623d7a19dd5a87ea26874958efae748c3349fb95905744cfd0efde","features":{"std":[]},"yanked":false}
+{"name":"rust-sfsm","vers":"0.1.2","deps":[],"cksum":"b4d6039fc58de594a343b2e0cbbec33554703f384d6c58cedcd0919afb629797","features":{"std":[]},"yanked":false}
+{"name":"rust-sfsm","vers":"1.0.0","deps":[{"name":"rust-sfsm-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d021c3c3d0cee32283ec26012f93ebbbaa44c898dc16278e7006bacc6b8db1e","features":{"std":[]},"yanked":false}

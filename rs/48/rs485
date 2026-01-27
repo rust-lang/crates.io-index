@@ -1,0 +1,1 @@
+{"name":"rs485","vers":"0.1.0","deps":[{"name":"bitflags","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7491424ed2e9f9fa71ce0f6ec1df2aa6780297047803c4c468e5cb7a89ae835a","features":{},"yanked":false}

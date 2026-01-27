@@ -1,0 +1,2 @@
+{"name":"command_core","vers":"0.1.0","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3769dc3b3c434f862cd40745cadc3415384b746e29712a050b194c7fb6884ffb","features":{},"yanked":false}
+{"name":"command_core","vers":"0.1.1","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"61913eae11c60a3de4133899571977afcb15c771b874a3ba43371c1088ec1941","features":{},"yanked":false}

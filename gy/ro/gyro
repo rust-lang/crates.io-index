@@ -1,0 +1,1 @@
+{"name":"gyro","vers":"0.0.1","deps":[{"name":"clap","req":"^4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d1131984d56429098a583e20897998709b120e536be9a4a2de814775cc5dd11","features":{},"yanked":false}

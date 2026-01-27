@@ -1,0 +1,2 @@
+{"name":"bin-pool","vers":"0.1.0","deps":[{"name":"no-std-compat","req":"^0.4.1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3604106762be7f5390c80fe6b6543676faeb61cd6416c0d3fa2a930d4c8d888b","features":{"default":["std"],"std":["no-std-compat/std"]},"yanked":false}
+{"name":"bin-pool","vers":"0.1.1","deps":[],"cksum":"e287573701de481bfde6ce29c96791df801c42b25d5580f2460c0f94085334b2","features":{},"yanked":false}

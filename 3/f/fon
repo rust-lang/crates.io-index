@@ -1,0 +1,6 @@
+{"name":"fon","vers":"0.1.0","deps":[],"cksum":"62a6e1e20395dd8c255adcda0e20775fef86b01308473b07b963c458841b32a3","features":{},"yanked":false}
+{"name":"fon","vers":"0.2.0","deps":[],"cksum":"5181d86281ce6f4cb944f2bb92690bb3097c144646ef37b96923c06d0f1607d4","features":{},"yanked":false}
+{"name":"fon","vers":"0.3.0","deps":[],"cksum":"d85052c5b5da6fc5d04739192f286741a90da1ce7c814bc1c545d97867cf9d42","features":{},"yanked":false}
+{"name":"fon","vers":"0.4.0","deps":[],"cksum":"eb488022f1ce029c9dbd80e0f19344f5a7f3a525ccac22ac3448a17bec379c01","features":{},"yanked":false}
+{"name":"fon","vers":"0.5.0","deps":[],"cksum":"d9716a0a1c5bba06eeccce22ff33a89dc961d88f02f0d450a55c1bade6cbcdd5","features":{},"yanked":false}
+{"name":"fon","vers":"0.6.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad46a0e6c9bc688823a742aa969b5c08fdc56c2a436ee00d5c6fbcb5982c55c4","features":{},"yanked":false,"rust_version":"1.56.1"}

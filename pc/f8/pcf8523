@@ -1,0 +1,1 @@
+{"name":"pcf8523","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"i2cdev","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a8a48de8e8c0faa84eb6a3195b07735f71cfcd33e4e05b054fe230b642fab6a","features":{},"yanked":false}

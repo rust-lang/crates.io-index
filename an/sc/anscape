@@ -1,0 +1,4 @@
+{"name":"anscape","vers":"0.1.0","deps":[],"cksum":"3a170f4f4cf1e4a15a731b15c583fce16c7a333bd3d685829de7eeb7515e2775","features":{},"yanked":false}
+{"name":"anscape","vers":"0.1.1","deps":[],"cksum":"750f669f71654b18d09426d4496776c049f2e2482d1917cc865d950b107292d8","features":{},"yanked":false}
+{"name":"anscape","vers":"0.2.1","deps":[{"name":"paste","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07a770185235978a1d633d2e220a8ed7a523ee516ac6d6a95b63273356576e2e","features":{},"yanked":false}
+{"name":"anscape","vers":"0.2.2","deps":[{"name":"paste","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1d47983b16a471db348a8f9470579dfa0e3ca769c061956660cf43c5ee07646","features":{},"yanked":false}

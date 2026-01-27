@@ -1,0 +1,6 @@
+{"name":"synchronoise","vers":"0.1.0","deps":[],"cksum":"e3e77f7e69b851eda8a982e3090d68e1436f9f6e2d09a47e680f827d33f2f7d7","features":{},"yanked":false}
+{"name":"synchronoise","vers":"0.2.0","deps":[],"cksum":"a8a8427118a8a1dde0a197c5c7ce22d40a67ab0d6e23c5ffef80e7bc32d2c0e7","features":{},"yanked":false}
+{"name":"synchronoise","vers":"0.3.0","deps":[],"cksum":"60467ec81bf8f9033fbed4e98aaf685485222c338c0b6d4b371e29e1cb4c7725","features":{},"yanked":false}
+{"name":"synchronoise","vers":"0.4.0","deps":[{"name":"crossbeam","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28dc0b2cb51481ff8bbaf56132effc2beed5ef7f6e72417f80532a4d769e5438","features":{},"yanked":false}
+{"name":"synchronoise","vers":"1.0.0","deps":[{"name":"crossbeam-queue","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d717ed0efc9d39ab3b642a096bc369a3e02a38a51c41845d7fe31bdad1d6eaeb","features":{},"yanked":false}
+{"name":"synchronoise","vers":"1.0.1","deps":[{"name":"crossbeam-queue","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dbc01390fc626ce8d1cffe3376ded2b72a11bb70e1c75f404a210e4daa4def2","features":{},"yanked":false}

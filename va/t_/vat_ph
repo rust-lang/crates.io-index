@@ -1,0 +1,1 @@
+{"name":"vat_ph","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1.37.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ce9fe21089547f25026fd272117a8897d9aea5938a8c5343b88c94fb1566dc7","features":{},"yanked":false}

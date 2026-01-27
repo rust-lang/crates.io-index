@@ -1,0 +1,2 @@
+{"name":"obex","vers":"0.1.0","deps":[{"name":"git2","req":"^0.13.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a132b66a685901b1545b1dcc474107684178133507468ce15629f6d8ec2e38c4","features":{},"yanked":false}
+{"name":"obex","vers":"0.2.0","deps":[{"name":"git2","req":"^0.13.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2201f8b7bd2ebd6b3b0c73ac6e262f15c1596462e34ddab90c1e8b013c814ebb","features":{},"yanked":false}

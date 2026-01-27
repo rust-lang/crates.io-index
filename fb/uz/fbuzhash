@@ -1,0 +1,1 @@
+{"name":"fbuzhash","vers":"0.0.1","deps":[{"name":"env_logger","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd112009eee2e51e255536aa387c5f059bfb43dfb7b58e7e4d4f1f3f49868ccc","features":{},"yanked":false}

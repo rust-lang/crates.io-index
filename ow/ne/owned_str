@@ -1,0 +1,3 @@
+{"name":"owned_str","vers":"0.1.0","deps":[],"cksum":"9e11b35719f795ca60f159a106b5c6311abcc8096989f7a2cd57fe0b8bf898f1","features":{},"yanked":true}
+{"name":"owned_str","vers":"0.1.1","deps":[],"cksum":"a5088918a9263706ef4173718b1f6be0a78558694d8a77d7c993ae107c83c899","features":{},"yanked":false}
+{"name":"owned_str","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"57b42c259c35d8ad3e87b6dbedd4818b7b54a112f6370fdf11cd45d2f355d0f4","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}

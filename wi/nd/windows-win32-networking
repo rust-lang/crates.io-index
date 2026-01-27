@@ -1,0 +1,5 @@
+{"name":"windows-win32-networking","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2d3c4736b6e2f7015d512089ca41d804e16c8e66182c49a734b060581e11cba3","features":{},"yanked":false}
+{"name":"windows-win32-networking","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7595c1798244be8b4e21ae66df7799d11fa0a080715b2ad55d2216544cf766b9","features":{},"yanked":false}
+{"name":"windows-win32-networking","vers":"0.22.5","deps":[],"cksum":"9d77fcb47af87e2c97217f657e0a87191b3d2085288a0a5f1418418ddeab521c","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-networking","vers":"0.22.6","deps":[],"cksum":"f71f09eea6b63ff95335bf5b42e54f39a752cd79a200f9e29a936b3b7588ad12","features":{},"yanked":false,"rust_version":"1.46"}
+{"name":"windows-win32-networking","vers":"0.23.0","deps":[],"cksum":"8a5378a88ad62dc60b7dda17725f2c3791e11970ef525c1d6c0a33404f6bcdce","features":{},"yanked":false}

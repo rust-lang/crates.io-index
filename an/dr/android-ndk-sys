@@ -1,0 +1,5 @@
+{"name":"android-ndk-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9dee4bc886afa40169926682a9a33854321f82b8cc01bdbd7ddd046264093f64","features":{},"yanked":false}
+{"name":"android-ndk-sys","vers":"0.1.1","deps":[],"cksum":"fb4ce87e618857af78c2ca7ecaee497ba7e96cfea291cf5a40a4005109f2d6ba","features":{},"yanked":false}
+{"name":"android-ndk-sys","vers":"0.1.2","deps":[],"cksum":"6dfe26e0f223c22b5a9d36ff9678c19968815928a812480bcff636cc013fff77","features":{"default":[],"rustdoc":[]},"yanked":false}
+{"name":"android-ndk-sys","vers":"0.1.3","deps":[],"cksum":"08e677265abb24383bfa7060c8b8c33be88a25a1838254ef6dca2f66957b392e","features":{"default":[],"rustdoc":[]},"yanked":false}
+{"name":"android-ndk-sys","vers":"0.2.0","deps":[],"cksum":"3ec6ef28479835db378e2202b3911608e2269405e924fabb02ac3c8fb50284fe","features":{"rustdoc":[]},"yanked":false}
