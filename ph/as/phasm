@@ -1,2 +1,0 @@
-{"name":"phasm","vers":"0.1.0","deps":[{"name":"monoio","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"25c3725d45fa10cce821e4a4b2366e3c26c4bdbcd85d4d792497c995a8381caf","features":{},"yanked":false}
-{"name":"phasm","vers":"0.2.0","deps":[{"name":"monoio","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0df4bd05b9252435416d6b90fd482f7b6b8c445f94b5332138a12b4edb4b741c","features":{},"yanked":false}
