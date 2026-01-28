@@ -15,3 +15,4 @@
 {"name":"shiguredo_mp4","vers":"2025.4.0","deps":[],"cksum":"7ecbc76b50b7099625a6572e83430da124c455be46dcce54cc69335b96d28f84","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2025-12-15T05:05:47Z"}
 {"name":"shiguredo_mp4","vers":"2026.1.0","deps":[],"cksum":"0c04ec1be32a3ec60caa32dbff7a319d5186110a61f99800a33e4c8cde3c20d5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-01-05T02:22:49Z"}
 {"name":"shiguredo_mp4","vers":"2026.2.0-canary.0","deps":[],"cksum":"3735aa0856d77b6d4d25bf5d82f9dce6b86c3b47c3802001f23166373d701571","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-01-14T05:10:44Z"}
+{"name":"shiguredo_mp4","vers":"2026.2.0-canary.1","deps":[],"cksum":"4c2b2ab298e3c5e4b97e508aaa7e3701ca5b93bb293574d32880cc6ce0f1ecc2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-01-28T05:10:57Z"}
