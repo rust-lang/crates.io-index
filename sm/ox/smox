@@ -1,2 +1,3 @@
 {"name":"smox","vers":"0.1.0","deps":[],"cksum":"273b2c4b2c239f4cc52a0df4ab8076538cdd5d9c3f63079718a8b0e660b25215","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-27T12:51:04Z"}
 {"name":"smox","vers":"0.2.0","deps":[],"cksum":"d936aaab6327b5ebd1b7afcfc63715cad57ea6880ab30d2dcfde1536f73b584d","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-27T21:07:17Z"}
+{"name":"smox","vers":"0.3.0","deps":[],"cksum":"92cf0357d61caa2b36eb6c6d0f740d386c51ac941b82bf7797f8deda14fe9856","features":{"default":[],"nightly":[]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-01-28T11:12:38Z"}
