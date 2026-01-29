@@ -1,0 +1,1 @@
+{"name":"ternary-signal","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"594d426a9d36bcf71a5b001313c5a084c644d2afef646272e1a38052ea9bd722","features":{"default":["serde"]},"yanked":false,"pubtime":"2026-01-29T08:36:58Z"}
