@@ -1,0 +1,1 @@
+{"name":"tg-ch1","vers":"0.1.0-preview.1","deps":[{"name":"tg-sbi","req":"^0.1.0-preview.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab5ea347d1d7e924ebacaa43a81da602e9b2f2c4eb60f478394eeb3b3ac54ef4","features":{"default":[],"nobios":["tg-sbi/nobios"]},"yanked":false,"pubtime":"2026-01-30T11:47:29Z"}
