@@ -4,3 +4,4 @@
 {"name":"modu_ffi","vers":"1.0.2","deps":[],"cksum":"eb1dd0437266b9b5178e3f6ed8487fe684b65442469a622b30b83507f0bc9895","features":{},"yanked":false,"pubtime":"2026-01-25T12:37:45Z"}
 {"name":"modu_ffi","vers":"1.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9190fbbb533a4e35d300c5e61e4c80130e6c8dd40e861da0cf688e13ef0f5ca5","features":{},"yanked":false,"pubtime":"2026-01-31T11:55:08Z"}
 {"name":"modu_ffi","vers":"1.1.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b59f8b97388192bfa588cf98444122fdb7a5815eb1eb57bbaaf7f190f19b789","features":{},"yanked":false,"pubtime":"2026-01-31T12:13:14Z"}
+{"name":"modu_ffi","vers":"1.1.2","deps":[],"cksum":"0ff3e082938b599a7efc1bef2e4bd48a6a027f2c6cdbc31c334c447dd7f80f3c","features":{},"yanked":false,"pubtime":"2026-01-31T12:23:59Z"}
