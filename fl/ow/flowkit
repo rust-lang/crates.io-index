@@ -1,1 +1,2 @@
-{"name":"flowkit","vers":"0.0.0","deps":[],"cksum":"70edbfda70ff213720f5ab1b7d517b953491b9ff0a363808180e4894bb52a04f","features":{},"yanked":false}
+{"name":"flowkit","vers":"0.0.0","deps":[],"cksum":"70edbfda70ff213720f5ab1b7d517b953491b9ff0a363808180e4894bb52a04f","features":{},"yanked":false,"pubtime":"2025-11-17T14:37:19Z"}
+{"name":"flowkit","vers":"0.1.0","deps":[{"name":"glam","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13902d415a027c0089aabe4209bc8e599a56df9e71f1ff2a90010c445d0969a5","features":{},"yanked":false,"pubtime":"2026-01-31T15:05:50Z"}
