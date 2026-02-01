@@ -1,6 +1,6 @@
-{"name":"spmc","vers":"0.1.0","deps":[],"cksum":"4bdb0ee3b57b6574a83d127c77493c94595cff7f9e9d2f801b1fa389bf4210a8","features":{},"yanked":true}
-{"name":"spmc","vers":"0.2.0","deps":[],"cksum":"c44c3369f8dcc8978fc3d29570fc0f26f0f1efaf5d133857a10ee22f5c815c1e","features":{},"yanked":true}
-{"name":"spmc","vers":"0.2.1","deps":[],"cksum":"93bdab61c1a413e591c4d17388ffa859eaff2df27f1e13a5ec8b716700605adf","features":{},"yanked":true}
-{"name":"spmc","vers":"0.2.2","deps":[],"cksum":"cd1f11d1fb5fd41834e55ce0b85a186efbf2f2afd9fdb09e2c8d72f9bff1ad1a","features":{},"yanked":true}
-{"name":"spmc","vers":"0.2.3","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cbeab4f891cd634bac542de9b6dad3a9fbdae4e6499e99c256b6d550c930bda","features":{},"yanked":true}
-{"name":"spmc","vers":"0.3.0","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"02a8428da277a8e3a15271d79943e80ccc2ef254e78813a166a08d65e4c3ece5","features":{},"yanked":false}
+{"name":"spmc","vers":"0.1.0","deps":[],"cksum":"4bdb0ee3b57b6574a83d127c77493c94595cff7f9e9d2f801b1fa389bf4210a8","features":{},"yanked":true,"pubtime":"2015-10-07T06:24:47Z"}
+{"name":"spmc","vers":"0.2.0","deps":[],"cksum":"c44c3369f8dcc8978fc3d29570fc0f26f0f1efaf5d133857a10ee22f5c815c1e","features":{},"yanked":true,"pubtime":"2016-01-21T18:37:48Z"}
+{"name":"spmc","vers":"0.2.1","deps":[],"cksum":"93bdab61c1a413e591c4d17388ffa859eaff2df27f1e13a5ec8b716700605adf","features":{},"yanked":true,"pubtime":"2016-05-07T05:17:22Z"}
+{"name":"spmc","vers":"0.2.2","deps":[],"cksum":"cd1f11d1fb5fd41834e55ce0b85a186efbf2f2afd9fdb09e2c8d72f9bff1ad1a","features":{},"yanked":true,"pubtime":"2017-06-26T17:48:25Z"}
+{"name":"spmc","vers":"0.2.3","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cbeab4f891cd634bac542de9b6dad3a9fbdae4e6499e99c256b6d550c930bda","features":{},"yanked":true,"pubtime":"2019-08-15T16:50:55Z"}
+{"name":"spmc","vers":"0.3.0","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"02a8428da277a8e3a15271d79943e80ccc2ef254e78813a166a08d65e4c3ece5","features":{},"yanked":false,"pubtime":"2019-08-16T23:30:35Z"}
