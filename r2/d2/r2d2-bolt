@@ -1,1 +1,1 @@
-{"name":"r2d2-bolt","vers":"0.0.0","deps":[{"name":"r2d2","req":"^0.8.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16c3bd1f121d22a997613fd427162ee9ce505630c1047e9db50ac16a6b564893","features":{},"yanked":true}
+{"name":"r2d2-bolt","vers":"0.0.0","deps":[{"name":"r2d2","req":"^0.8.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16c3bd1f121d22a997613fd427162ee9ce505630c1047e9db50ac16a6b564893","features":{},"yanked":true,"pubtime":"2020-01-25T21:38:47Z"}
