@@ -1,3 +1,3 @@
-{"name":"morsec","vers":"0.1.0","deps":[],"cksum":"2d2e2b0b5a28bc6e84cf8c4c17d7ee35e20ced89f37fc82ad615bf0974f17759","features":{},"yanked":false}
-{"name":"morsec","vers":"0.1.1","deps":[],"cksum":"45e6edb28b9151f1abd99de540c99a16f183e1f8946c4bef5d5840fd9b9e5fd4","features":{},"yanked":false}
-{"name":"morsec","vers":"0.1.2","deps":[],"cksum":"eabc80c9287cc5968170cc88c9458ff0dfd9c8eb02227b7125bbc9d07d3389d8","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"morsec","vers":"0.1.0","deps":[],"cksum":"2d2e2b0b5a28bc6e84cf8c4c17d7ee35e20ced89f37fc82ad615bf0974f17759","features":{},"yanked":false,"pubtime":"2023-08-05T12:42:00Z"}
+{"name":"morsec","vers":"0.1.1","deps":[],"cksum":"45e6edb28b9151f1abd99de540c99a16f183e1f8946c4bef5d5840fd9b9e5fd4","features":{},"yanked":false,"pubtime":"2023-08-06T11:55:49Z"}
+{"name":"morsec","vers":"0.1.2","deps":[],"cksum":"eabc80c9287cc5968170cc88c9458ff0dfd9c8eb02227b7125bbc9d07d3389d8","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-08-19T18:32:21Z"}
