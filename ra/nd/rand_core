@@ -34,3 +34,4 @@
 {"name":"rand_core","vers":"0.10.0-rc-4","deps":[],"cksum":"43bb1e3655c24705492d72208c9bacdefe07c30c14b8f7664c556a3e1953b72c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-19T17:27:09Z"}
 {"name":"rand_core","vers":"0.10.0-rc-5","deps":[],"cksum":"05a06e03bd1f2ae861ab9e7498b6c64ed3dadb9ce175c0464a2522a5f23c0045","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-20T11:29:17Z"}
 {"name":"rand_core","vers":"0.10.0-rc-6","deps":[],"cksum":"70765ff7112b0fb2d272d24d9a2f907fc206211304328fe58b2db15a5649ef28","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-24T09:27:40Z"}
+{"name":"rand_core","vers":"0.10.0","deps":[],"cksum":"0c8d0fd677905edcbeedbf2edb6494d676f0e98d54d5cf9bda0b061cb8fb8aba","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-01T09:06:13Z"}
