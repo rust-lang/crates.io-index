@@ -1,0 +1,1 @@
+{"name":"phy","vers":"0.1.0","deps":[{"name":"glam","req":"^0.31.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"691db3a63877df58488d1ac960f76e2d7701fdd25133993a2588f0db96c91fdf","features":{"default":["std"],"std":["glam/std"]},"yanked":false,"pubtime":"2026-02-01T13:08:16Z"}
