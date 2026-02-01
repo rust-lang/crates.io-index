@@ -1,2 +1,2 @@
-{"name":"rtranslate","vers":"0.1.0","deps":[],"cksum":"621ea7473cb592db9ba497328e1554009cc46c31f65793091697001167bb629d","features":{},"yanked":false}
-{"name":"rtranslate","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ee8d63caade74aebb73d03f31edb2f5b82d34efc9ac86369dbbbd654b6584af","features":{},"yanked":false}
+{"name":"rtranslate","vers":"0.1.0","deps":[],"cksum":"621ea7473cb592db9ba497328e1554009cc46c31f65793091697001167bb629d","features":{},"yanked":false,"pubtime":"2025-10-24T10:03:13Z"}
+{"name":"rtranslate","vers":"0.1.1","deps":[{"name":"rayon","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ee8d63caade74aebb73d03f31edb2f5b82d34efc9ac86369dbbbd654b6584af","features":{},"yanked":false,"pubtime":"2025-11-10T07:08:08Z"}
