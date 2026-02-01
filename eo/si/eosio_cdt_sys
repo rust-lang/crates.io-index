@@ -1,2 +1,2 @@
-{"name":"eosio_cdt_sys","vers":"0.2.1","deps":[],"cksum":"29c1d72230120ba00a88b6e40d35492a3bfe79ccddca36078ebd19fcc519e801","features":{},"yanked":false}
-{"name":"eosio_cdt_sys","vers":"0.3.0","deps":[],"cksum":"c8fddd8a0337f6863d521e2eeeff522548230adea9edc88c4dd9636335e9b3b1","features":{"default":[],"mock":[]},"yanked":false}
+{"name":"eosio_cdt_sys","vers":"0.2.1","deps":[],"cksum":"29c1d72230120ba00a88b6e40d35492a3bfe79ccddca36078ebd19fcc519e801","features":{},"yanked":false,"pubtime":"2019-06-02T16:27:43Z"}
+{"name":"eosio_cdt_sys","vers":"0.3.0","deps":[],"cksum":"c8fddd8a0337f6863d521e2eeeff522548230adea9edc88c4dd9636335e9b3b1","features":{"default":[],"mock":[]},"yanked":false,"pubtime":"2020-02-04T02:06:41Z"}
