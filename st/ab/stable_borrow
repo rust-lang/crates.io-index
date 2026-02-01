@@ -1,1 +1,1 @@
-{"name":"stable_borrow","vers":"1.0.0","deps":[],"cksum":"b1873e67ae0557b168201c869aea365eda618c12c5951995410d119b16ebd222","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false}
+{"name":"stable_borrow","vers":"1.0.0","deps":[],"cksum":"b1873e67ae0557b168201c869aea365eda618c12c5951995410d119b16ebd222","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false,"pubtime":"2020-12-27T02:39:22Z"}
