@@ -1,2 +1,2 @@
-{"name":"usdz","vers":"0.0.0","deps":[],"cksum":"a6eebf28c00f4b5fef5cc5dc6ba3b1ef4fcccdecb86ce1052e07b50a317d640d","features":{},"yanked":false}
-{"name":"usdz","vers":"0.0.1","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0aac710eb63ad2a193d9d5d22f08cf80fef049648ed6cf01badcde947752348","features":{},"yanked":false}
+{"name":"usdz","vers":"0.0.0","deps":[],"cksum":"a6eebf28c00f4b5fef5cc5dc6ba3b1ef4fcccdecb86ce1052e07b50a317d640d","features":{},"yanked":false,"pubtime":"2022-12-31T21:42:23Z"}
+{"name":"usdz","vers":"0.0.1","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0aac710eb63ad2a193d9d5d22f08cf80fef049648ed6cf01badcde947752348","features":{},"yanked":false,"pubtime":"2023-01-01T07:17:09Z"}
