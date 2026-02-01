@@ -1,2 +1,2 @@
-{"name":"changeset","vers":"0.1.0","deps":[],"cksum":"bfc9e004d4dc5d77cc2663c1610419669e233a2bb05ee12b911294e57d3378fe","features":{},"yanked":false}
-{"name":"changeset","vers":"0.1.1","deps":[],"cksum":"fdad721f505d14e55c210116006c9dfe0719ec2703e89276804647aac8f260d4","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"changeset","vers":"0.1.0","deps":[],"cksum":"bfc9e004d4dc5d77cc2663c1610419669e233a2bb05ee12b911294e57d3378fe","features":{},"yanked":false,"pubtime":"2018-05-25T09:16:26Z"}
+{"name":"changeset","vers":"0.1.1","deps":[],"cksum":"fdad721f505d14e55c210116006c9dfe0719ec2703e89276804647aac8f260d4","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2018-05-25T12:04:55Z"}
