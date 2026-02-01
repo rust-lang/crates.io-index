@@ -19,3 +19,4 @@
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.12","deps":[],"cksum":"26c3533da66665d570afe410834b3e7ad7caf634f051eb5cef41c4196421f613","features":{},"yanked":false,"pubtime":"2025-09-03T15:32:40Z"}
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.13","deps":[],"cksum":"f307ca70d34c0a77121b7dcc2d426cc8aa2954e9124c814332d05f1dd79ab061","features":{},"yanked":false,"pubtime":"2025-11-27T20:32:09Z"}
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.14","deps":[],"cksum":"0368db4bc805bd3994b8d2f1fa8d55142f29463a8611974ad4849b69883d29bc","features":{},"yanked":false,"pubtime":"2026-01-13T18:24:42Z"}
+{"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.15","deps":[],"cksum":"6fd41055a78112326804379add224502e36db30f35f14d2233c64cf093e44cf1","features":{},"yanked":false,"pubtime":"2026-02-01T16:57:48Z"}
