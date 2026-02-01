@@ -1,5 +1,5 @@
-{"name":"treena","vers":"0.0.1","deps":[],"cksum":"8f010a45bf58818604292aa17db1b7f7aeaf79b60b381ba0d0a1d796785c2c30","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false}
-{"name":"treena","vers":"0.0.2","deps":[],"cksum":"bf406f977f474b7d0985f877cf24b020cc845c72151077474fd353c1ffcf26bc","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false}
-{"name":"treena","vers":"0.0.3","deps":[],"cksum":"98d8132610652145fc316e6e321d5af16e362cfd220c05cc876cc30c9f3df149","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}
-{"name":"treena","vers":"0.0.4","deps":[],"cksum":"fdf84a00792a71182c11faeac0a43b527e5e63398e66730c3ac7e10eb7d427d4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}
-{"name":"treena","vers":"0.0.5","deps":[],"cksum":"ca72840fd4292ac47373df206e03f625074469f0cf98895deb498c21a6e69dcf","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"treena","vers":"0.0.1","deps":[],"cksum":"8f010a45bf58818604292aa17db1b7f7aeaf79b60b381ba0d0a1d796785c2c30","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false,"pubtime":"2021-09-26T16:10:57Z"}
+{"name":"treena","vers":"0.0.2","deps":[],"cksum":"bf406f977f474b7d0985f877cf24b020cc845c72151077474fd353c1ffcf26bc","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false,"pubtime":"2021-10-14T23:01:47Z"}
+{"name":"treena","vers":"0.0.3","deps":[],"cksum":"98d8132610652145fc316e6e321d5af16e362cfd220c05cc876cc30c9f3df149","features":{"debug-print":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2021-11-11T19:38:15Z"}
+{"name":"treena","vers":"0.0.4","deps":[],"cksum":"fdf84a00792a71182c11faeac0a43b527e5e63398e66730c3ac7e10eb7d427d4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2021-11-16T14:23:15Z"}
+{"name":"treena","vers":"0.0.5","deps":[],"cksum":"ca72840fd4292ac47373df206e03f625074469f0cf98895deb498c21a6e69dcf","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2022-03-14T21:24:15Z"}
