@@ -18,3 +18,4 @@
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.12","deps":[],"cksum":"ae5bbf3a2d8e2f2ce14d63e7a984fbc4f0d2d58e0c7d22e139470d8da1b2e396","features":{"debug":[],"default":["debug"]},"yanked":false,"pubtime":"2025-09-03T15:32:29Z"}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.13","deps":[],"cksum":"19913efc70a2f10d8149d257c08c8c4a76decd7e8afbb639994b000c3c18f96c","features":{"debug":[],"default":["debug"]},"yanked":false,"pubtime":"2025-11-27T20:31:59Z"}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.14","deps":[],"cksum":"4c5ce7a99045a1deb6931e9ea7f649c8283bb19bad5817c96255855f6d4c8aa7","features":{"debug":[],"default":["debug"]},"yanked":false,"pubtime":"2026-01-13T18:24:35Z"}
+{"name":"bootloader-x86_64-bios-common","vers":"0.11.15","deps":[],"cksum":"4ffb413947bc3539c78985dd6557cf85e91732186f36cd697cdf5dc746147e97","features":{"debug":[],"default":["debug"]},"yanked":false,"pubtime":"2026-02-01T16:57:39Z"}
