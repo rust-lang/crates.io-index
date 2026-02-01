@@ -1,1 +1,1 @@
-{"name":"arduboy-rust","vers":"1.0.0","deps":[{"name":"panic-halt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e80037f297e2a5db1e58804b7a3b1b10f448b104623422db1c94b185b45b1ea5","features":{},"yanked":false}
+{"name":"arduboy-rust","vers":"1.0.0","deps":[{"name":"panic-halt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e80037f297e2a5db1e58804b7a3b1b10f448b104623422db1c94b185b45b1ea5","features":{},"yanked":false,"pubtime":"2023-08-06T15:56:48Z"}
