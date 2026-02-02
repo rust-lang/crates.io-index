@@ -1,1 +1,2 @@
 {"name":"nufast","vers":"0.2.0","deps":[],"cksum":"27b606ce634fb542af7c15bd77b886468c157bb39c8ba6aef9ede221508d847a","features":{"default":[],"no_std":[]},"yanked":false,"pubtime":"2026-02-02T19:34:59Z"}
+{"name":"nufast","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee093fef55bfc30294a2e8600c733dd2db088f0b9eaf39a0b12eedb3af7a31be","features":{"default":[],"no_std":[]},"yanked":false,"pubtime":"2026-02-02T20:10:28Z"}
