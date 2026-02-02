@@ -1,0 +1,1 @@
+{"name":"ino","vers":"0.0.0","deps":[{"name":"libc","req":">=0.2.180, <0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e0461b73d0e7018db685960cc98d1ae1e3659ea4ff92eb72ad478ba02ceed58","features":{"default":[]},"features2":{"std":["dep:libc"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-02T15:23:05Z","v":2}
