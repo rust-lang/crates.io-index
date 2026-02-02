@@ -4,3 +4,4 @@
 {"name":"titta","vers":"0.1.15","deps":[{"name":"libc","req":"^0.2.180","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc1eed248890b249fd09622fb9738f03d5ae8853d725baadd2860a482d779ee3","features":{},"yanked":false,"pubtime":"2026-02-02T21:55:04Z"}
 {"name":"titta","vers":"0.1.16","deps":[{"name":"libc","req":"^0.2.180","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6639626b02e4164cec0f0b0b73d2eb792dff50b7ba0d360936906268278ddb46","features":{},"yanked":false,"pubtime":"2026-02-02T22:26:16Z"}
 {"name":"titta","vers":"0.1.161","deps":[],"cksum":"d46c61013367c2b30f5605e0c1edbf6d4137ea0262dd6151da5c2bb099aaaf5d","features":{},"yanked":false,"pubtime":"2026-02-02T22:27:46Z"}
+{"name":"titta","vers":"0.1.17","deps":[],"cksum":"b9ad5c23280530fa01bce146774d3285c9942ee654819fa1b4adee8593fe2dbb","features":{},"yanked":false,"pubtime":"2026-02-02T22:51:05Z"}
