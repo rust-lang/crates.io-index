@@ -10,3 +10,4 @@
 {"name":"irox-bits","vers":"0.4.0","deps":[],"cksum":"f421b7f1273cb23cced758167d5c98975490474ef5b52b83c0134a7bef6929c8","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2025-01-26T15:38:42Z"}
 {"name":"irox-bits","vers":"0.4.1","deps":[],"cksum":"b76d72e3f567eeb493438cefa46f6a8844921bf05ca368df01a88dfd2b1a93fd","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2025-02-12T16:34:07Z"}
 {"name":"irox-bits","vers":"0.4.2","deps":[],"cksum":"cbe159f1f0679d536a9982fb5e6a136ce7d04e7b9d379f5df9ed64ca8423d8d3","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2025-03-01T17:30:47Z"}
+{"name":"irox-bits","vers":"0.5.0","deps":[],"cksum":"1b2c33e4d4ba7dca30fdb321ae93bee0ffa1ad3796b0ba7a4269debc1d378df6","features":{"alloc":[],"bits_backtrace":["std"],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-02-02T04:05:46Z"}
