@@ -26,3 +26,4 @@
 {"name":"caret","vers":"0.7.0","deps":[],"cksum":"a4d27042e727de6261ee6391b834c6e1adec7031a03228cc1a67f95a3d8f2202","features":{"full":[]},"yanked":false,"rust_version":"1.85.1","pubtime":"2025-10-06T18:11:53Z"}
 {"name":"caret","vers":"0.8.0","deps":[],"cksum":"a9f34f4a9f1f2992a090b4998583bfe7783ecd6e8bb496d13beb89b1e194181f","features":{"full":[]},"yanked":false,"rust_version":"1.86","pubtime":"2025-10-30T14:38:49Z"}
 {"name":"caret","vers":"0.8.1","deps":[],"cksum":"82327861353370c5d92eac7e57842a9f2a95cd90cd88e24dc836cf20169be8df","features":{"full":[]},"yanked":false,"rust_version":"1.86","pubtime":"2025-12-02T12:51:10Z"}
+{"name":"caret","vers":"0.8.2","deps":[],"cksum":"4fcf3e667fcb3cb3895982d4acdeb96a5f7f5dfd7d570aea5bebe911072794ec","features":{"full":[]},"yanked":false,"rust_version":"1.86","pubtime":"2026-02-02T19:56:26Z"}
