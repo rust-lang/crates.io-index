@@ -10,3 +10,4 @@
 {"name":"fpdec-core","vers":"0.6.4","deps":[],"cksum":"3f3e9ad46acf9d5e8e83ee3cfe0a7fc0a4c401f2e6afc211668973f207cebd38","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-05-12T14:02:48Z"}
 {"name":"fpdec-core","vers":"0.8.0","deps":[],"cksum":"64c81a0af753d9c6e1d5f83f956699e66fe578c8002e233c831facaad1becc9f","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-06-15T19:28:49Z"}
 {"name":"fpdec-core","vers":"0.13.0","deps":[],"cksum":"483c1ce71dea1c73fb12063055f27690915ffc9999b24bef71eb710513a4d9f1","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-11-28T20:21:50Z"}
+{"name":"fpdec-core","vers":"0.13.1","deps":[],"cksum":"450beb139b59e2290ab0dc7e928a05450be288cd87368d8be5d7155d484f21a9","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-03T10:10:46Z"}
