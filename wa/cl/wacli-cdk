@@ -1,0 +1,1 @@
+{"name":"wacli-cdk","vers":"0.0.16","deps":[{"name":"wit-bindgen","req":"^0.40","features":["macros","realloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5f44dd2027713229fecf7cdcaaab665c734f42ee4c60fe4dcbd5f1db0ffbe113","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-02-03T06:00:45Z"}
