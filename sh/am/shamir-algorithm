@@ -1,0 +1,1 @@
+{"name":"shamir-algorithm","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b93cb3cb7e24794e9f342b756febff94bb59663342fa62a5112743c12c78edd","features":{},"yanked":false,"pubtime":"2026-02-03T18:59:04Z"}
