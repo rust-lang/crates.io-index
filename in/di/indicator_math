@@ -13,3 +13,4 @@
 {"name":"indicator_math","vers":"0.6.6","deps":[],"cksum":"527f0ea71194ef8887729ae99a2b6639953516c77ae16664fa0b60d6227f4611","features":{},"yanked":false,"pubtime":"2025-12-30T11:12:59Z"}
 {"name":"indicator_math","vers":"0.6.7","deps":[],"cksum":"297b28470818b562c63d9a2c5bf007ec95db348cff9fd4190bc04cef43f0f275","features":{},"yanked":false,"pubtime":"2026-01-08T04:42:37Z"}
 {"name":"indicator_math","vers":"0.7.1","deps":[],"cksum":"5144ca9b4fb3b60fb1fe3967496ec64f079d5f7ce2f6cdacf14efe5581190d2b","features":{},"yanked":false,"pubtime":"2026-01-18T04:54:42Z"}
+{"name":"indicator_math","vers":"0.8.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3234e5ce78cad8f7ca6f987114b30f5153afcec62ec03567732094fb1940bc75","features":{},"yanked":false,"pubtime":"2026-02-03T06:10:14Z"}
