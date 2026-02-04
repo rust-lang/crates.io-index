@@ -1,2 +1,3 @@
 {"name":"oscy","vers":"0.1.0","deps":[],"cksum":"b7524c988743f536dcefdc79ed3462c114e84431bd2412fb8839f222255be7c3","features":{},"yanked":false,"pubtime":"2026-01-09T14:36:00Z"}
 {"name":"oscy","vers":"0.1.1","deps":[],"cksum":"4ef236b3f1a70a511d0da6be417b7d33849ab70b9cf70a0aae41fd9e684797d8","features":{},"yanked":false,"pubtime":"2026-01-10T15:18:49Z"}
+{"name":"oscy","vers":"0.1.2","deps":[{"name":"fastrand","req":"^2.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d342bf098a0ea4b55671332b4aed3429660aa79cf477f3703cfe31cf35e3146e","features":{"default":[]},"features2":{"noise":["dep:fastrand"]},"yanked":false,"pubtime":"2026-02-04T13:28:32Z","v":2}
