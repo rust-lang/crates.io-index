@@ -1,0 +1,1 @@
+{"name":"hyperlane-cli","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["process","rt-multi-thread","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acad985a91d5d038f4d238c41b5e284cf03df26fc6ec33f1533ba63019c98c70","features":{},"yanked":false,"pubtime":"2026-02-04T04:00:55Z"}
