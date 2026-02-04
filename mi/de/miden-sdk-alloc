@@ -12,3 +12,4 @@
 {"name":"miden-sdk-alloc","vers":"0.6.0","deps":[],"cksum":"0cd03d16f2d79670f3bef77861f5262539e134a422e221a8ef55227f77bda666","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2025-10-10T14:44:20Z"}
 {"name":"miden-sdk-alloc","vers":"0.7.0","deps":[],"cksum":"0a364146445b0684cd2df7833324504c9b0f5256ecc39329762c3b17fcf64b65","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2025-11-04T14:43:56Z"}
 {"name":"miden-sdk-alloc","vers":"0.8.0","deps":[],"cksum":"f7eef3b8651b93468a2b132c885b21aa6d488bf6cd78ba1f736ff90fa8c1fb43","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2025-12-23T14:27:45Z"}
+{"name":"miden-sdk-alloc","vers":"0.9.0","deps":[],"cksum":"f927c91124abbaaffc3cfc1c4f6aa6115bea714ffba5275007c659590df8c7ae","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-02-04T13:52:50Z"}
