@@ -1,1 +1,2 @@
 {"name":"platypus","vers":"0.1.0","deps":[],"cksum":"89d22916b84eb7c511226f64cda5daa275cf485a32e12a1ada5a98ff03629c8a","features":{},"yanked":false,"pubtime":"2025-12-07T12:28:24Z"}
+{"name":"platypus","vers":"0.2.0","deps":[{"name":"eframe","req":"^0.33.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d672a094176c548221b6d4cf5db7dea1b7747ed084d5b7e3d4feb1664d4ea9a5","features":{},"yanked":false,"pubtime":"2026-02-04T18:15:51Z"}
