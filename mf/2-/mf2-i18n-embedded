@@ -1,0 +1,1 @@
+{"name":"mf2-i18n-embedded","vers":"0.1.0","deps":[{"name":"mf2-i18n-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a540795bcbf84db4d154d32c490f3c9194652f64112d0721a12bc4e4bee3da7","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-02-05T15:17:47Z"}
