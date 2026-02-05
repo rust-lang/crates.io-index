@@ -1,2 +1,3 @@
 {"name":"rust-boost","vers":"0.1.0","deps":[],"cksum":"6df56be9768c95c3cb6f1bf72e4f7df84e5e3c2fd0cff18d34e28f5ade81f555","features":{},"yanked":false,"pubtime":"2026-02-05T03:44:02Z"}
 {"name":"rust-boost","vers":"0.2.0","deps":[],"cksum":"77410afe477c83e6a2ef4ad304f192c6dc11db34d7fe53f5bf9bcf843c9f8cb8","features":{},"yanked":false,"pubtime":"2026-02-05T09:10:32Z"}
+{"name":"rust-boost","vers":"0.3.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff9b3f2b35ce3beb1bf214a61a563857c59951849fc5c60003fe968f3663a6e8","features":{},"yanked":false,"pubtime":"2026-02-05T11:57:24Z"}
