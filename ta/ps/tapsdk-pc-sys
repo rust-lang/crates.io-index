@@ -1,0 +1,1 @@
+{"name":"tapsdk-pc-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f86bc98cf3f38d9353855d66bf780dfe57e6f3a395d679d84fe367f84e179471","features":{"default":[]},"yanked":false,"links":"taptap_api","pubtime":"2026-02-05T11:08:13Z"}
