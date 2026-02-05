@@ -7,3 +7,4 @@
 {"name":"near-sys","vers":"0.2.4","deps":[],"cksum":"a7d8e0ba9994e4d54cb4b301cd5fa9f2defcb69851148103512b9640a7e91572","features":{},"yanked":false,"pubtime":"2025-05-15T11:03:17Z"}
 {"name":"near-sys","vers":"0.2.5","deps":[],"cksum":"e64e114297f37c94aa20df6a6f92822a1b41da76b4961298caf08ba80b7779b2","features":{"global-contracts":[]},"yanked":false,"pubtime":"2025-08-19T05:32:17Z"}
 {"name":"near-sys","vers":"0.2.6","deps":[],"cksum":"b99e9ce0020190ea152f70d1849e54fc8fc123738e7447800ad818c78f5167cc","features":{"deterministic-account-ids":[],"global-contracts":[]},"yanked":false,"pubtime":"2025-12-01T23:39:39Z"}
+{"name":"near-sys","vers":"0.2.7","deps":[],"cksum":"f4ea77bb86969ff09c83faa517b2209c4876928381ed31e29c06cae2de0a216b","features":{"deterministic-account-ids":[],"global-contracts":[]},"yanked":false,"rust_version":"1.86","pubtime":"2026-02-05T16:34:18Z"}
