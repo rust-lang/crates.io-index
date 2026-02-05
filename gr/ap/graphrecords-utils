@@ -1,0 +1,1 @@
+{"name":"graphrecords-utils","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.14.5","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f56a07685c24c21a86ac496633771a84db806b014215d088e25b75c3f8e8e1d6","features":{},"yanked":false,"pubtime":"2026-02-05T16:47:30Z"}
