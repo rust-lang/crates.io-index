@@ -1,0 +1,1 @@
+{"name":"ctxguard","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.49.0","features":["sync"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc6c43fb45dcfd3920e5ba5a2a432f53bcd86bec81ce1328a923615787e8887d","features":{"default":["std-sync"],"std-sync":[],"tokio-sync":["tokio"]},"yanked":false,"pubtime":"2026-02-05T14:16:12Z"}
