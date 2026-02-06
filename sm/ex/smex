@@ -1,1 +1,2 @@
 {"name":"smex","vers":"0.1.0","deps":[],"cksum":"a9810e3f449ffc13241d2227b4576f2a062a4c9f498e334b34a4400c62af2c82","features":{},"yanked":false,"pubtime":"2026-02-04T03:06:20Z"}
+{"name":"smex","vers":"0.2.0","deps":[{"name":"sha2","req":"^0.10.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"14b8253837112a50ff147360c064a8c1581b6b1e4a0c2383c89e25a1ef8ff0da","features":{},"yanked":false,"pubtime":"2026-02-06T04:13:41Z"}
