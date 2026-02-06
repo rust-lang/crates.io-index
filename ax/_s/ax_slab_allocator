@@ -1,0 +1,1 @@
+{"name":"ax_slab_allocator","vers":"0.3.2-preview.1","deps":[{"name":"buddy_system_allocator","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"925fe9ce2492005f319efe39af520a1d53976aa6f473bd3ecdee2edd8382dbd3","features":{},"yanked":false,"pubtime":"2026-02-06T00:44:43Z"}
