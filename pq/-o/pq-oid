@@ -1,1 +1,2 @@
 {"name":"pq-oid","vers":"0.0.1","deps":[],"cksum":"49dca46bfa4c96314d0c15b8449c7bd9507af64e3b595dd591dade5efd55fd2a","features":{},"yanked":false,"pubtime":"2026-01-26T09:08:45Z"}
+{"name":"pq-oid","vers":"0.0.5","deps":[],"cksum":"3034f2e901239b905e3aeb997fbc4cfa6d2def6f3c4f3fb40f8672d26729fe8d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-06T06:28:49Z"}
