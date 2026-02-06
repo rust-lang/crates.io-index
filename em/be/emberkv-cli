@@ -1,0 +1,1 @@
+{"name":"emberkv-cli","vers":"0.1.3","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fe4b3e80c2566e2c36a306c522c743ffef89aafbfa12f118960aafea8f89921","features":{},"yanked":false,"pubtime":"2026-02-06T02:44:23Z"}
