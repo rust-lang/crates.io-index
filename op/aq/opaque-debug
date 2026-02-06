@@ -6,3 +6,4 @@
 {"name":"opaque-debug","vers":"0.2.3","deps":[],"cksum":"2839e79665f131bdb5782e51f2c6c9599c133c6098982a54c794358bf432529c","features":{},"yanked":false,"pubtime":"2019-07-30T14:39:25Z"}
 {"name":"opaque-debug","vers":"0.3.0","deps":[],"cksum":"624a8340c38c1b80fd549087862da4ba43e08858af025b236e509b6649fc13d5","features":{},"yanked":false,"pubtime":"2020-06-11T14:26:41Z"}
 {"name":"opaque-debug","vers":"0.3.1","deps":[],"cksum":"c08d65885ee38876c4f86fa503fb49d7b507c2b62552df7c70b2fce627e06381","features":{},"yanked":false,"pubtime":"2024-03-01T12:08:32Z"}
+{"name":"opaque-debug","vers":"0.4.0","deps":[],"cksum":"24dbb6c402d5d2af34bf064f5791bb03c224e145aa59f24ebc411ca93523b86e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-06T22:17:26Z"}
