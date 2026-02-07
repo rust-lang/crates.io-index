@@ -1,1 +1,2 @@
 {"name":"react-rs-core","vers":"0.1.0","deps":[],"cksum":"7db7063cb2331c9f5caa4a7d32fa5949b8ca8dbb2f073fd29a54d714506daa61","features":{},"yanked":false,"pubtime":"2026-02-07T07:50:23Z"}
+{"name":"react-rs-core","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"70bdfbe02f3db6af0a48b3617453a3979cd9e11560da735172379eaaf4fdc69c","features":{},"yanked":false,"pubtime":"2026-02-07T09:45:42Z"}
