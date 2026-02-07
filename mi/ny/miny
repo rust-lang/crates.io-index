@@ -3,3 +3,4 @@
 {"name":"miny","vers":"2.0.1","deps":[],"cksum":"9dfc518b21e3d7b24a3dd5a04338f025717628a7d595361c01bd8ce49b03457f","features":{},"yanked":false,"pubtime":"2024-01-09T16:12:49Z"}
 {"name":"miny","vers":"2.0.2","deps":[],"cksum":"a29eca11eeba8d36701486d8e2cc4259a62219af6a607f92f5b494d07104a6df","features":{},"yanked":false,"pubtime":"2024-12-22T08:56:23Z"}
 {"name":"miny","vers":"2.0.3","deps":[],"cksum":"ff5ab6ae04aec926cb1e4218c5eef5b2aa54fc81bf2cfe79d78ea8013d56b01e","features":{},"yanked":false,"pubtime":"2025-06-03T16:05:13Z"}
+{"name":"miny","vers":"2.1.0","deps":[{"name":"allocative","req":"^0.3.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d1ce4a65c9e0549da0929419379f5803758d0422aaa176c1f496ee96f0907f2","features":{},"yanked":false,"pubtime":"2026-02-07T04:24:11Z"}
