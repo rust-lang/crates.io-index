@@ -12,3 +12,4 @@
 {"name":"paraxis","vers":"0.3.1","deps":[{"name":"glam","req":"^0.30.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2c06a209c75cebf14f0c0962fae11d46198cb073ade834d6472fd2c795ee9fa","features":{},"yanked":true,"pubtime":"2025-11-12T17:21:15Z"}
 {"name":"paraxis","vers":"0.5.0","deps":[],"cksum":"b8d6bd661f87ccd70c85d7d1ea62bb8909a379a05c525333c4050605622ccaf2","features":{},"yanked":false,"pubtime":"2026-02-07T04:33:58Z"}
 {"name":"paraxis","vers":"0.5.1","deps":[],"cksum":"69615d117631b4c456bc476d086aec8a077856698dede2fc40d56685dc9df582","features":{},"yanked":false,"pubtime":"2026-02-07T04:36:28Z"}
+{"name":"paraxis","vers":"0.5.2","deps":[],"cksum":"b83fa2fbf34fadc4120fa4995492e7e08df4fd14fee5e3a9b82de28ee1137976","features":{},"yanked":false,"pubtime":"2026-02-07T18:16:53Z"}
