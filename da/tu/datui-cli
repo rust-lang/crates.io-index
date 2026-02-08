@@ -1,0 +1,1 @@
+{"name":"datui-cli","vers":"0.2.42-dev","deps":[{"name":"clap","req":"^4.5.54","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef1540c1265cec54031e9ed8542afbc5a4c3c3aa485bbbb08121c1f52175abe","features":{},"yanked":false,"pubtime":"2026-02-08T17:05:58Z"}
