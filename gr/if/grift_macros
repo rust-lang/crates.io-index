@@ -1,3 +1,4 @@
 {"name":"grift_macros","vers":"0.1.0","deps":[],"cksum":"da81c89ca060d378e300ebf0332ce25512ed2eafb944a692afec75ce815e1302","features":{},"yanked":false,"pubtime":"2026-01-29T09:20:13Z"}
 {"name":"grift_macros","vers":"0.1.1","deps":[],"cksum":"bdaeae474163da78f4d674d8b570285bf45efc6060929edf8a0d80b192d1632e","features":{},"yanked":false,"pubtime":"2026-01-29T22:59:36Z"}
 {"name":"grift_macros","vers":"1.2.0","deps":[],"cksum":"7541823e493143e21f8acbe8099fcfdbca6ea91fa0584d3d7be1da96ae851948","features":{},"yanked":false,"pubtime":"2026-02-02T23:22:45Z"}
+{"name":"grift_macros","vers":"1.3.0","deps":[{"name":"grift_util","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bf2ee7f76d7cebf015e4b12c011822d9a568f72ecfbd7f4b6366f6c063fafb4","features":{},"yanked":false,"pubtime":"2026-02-08T16:07:14Z"}
