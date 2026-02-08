@@ -1,1 +1,2 @@
 {"name":"git-checkout-ago","vers":"0.1.1","deps":[],"cksum":"7f9e0620dbab3a57c1f5db6c8abf9c41d982a2de389e0533c41af36182031b97","features":{},"yanked":false,"pubtime":"2026-02-07T01:53:45Z"}
+{"name":"git-checkout-ago","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.57","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1a0e2ac9a89379f88bee6e77e60375bb435944801c2cbf007a5bf4ed961fb1a","features":{},"yanked":false,"pubtime":"2026-02-08T00:37:50Z"}
