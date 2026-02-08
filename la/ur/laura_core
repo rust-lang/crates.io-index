@@ -2,3 +2,4 @@
 {"name":"laura_core","vers":"0.2.1","deps":[],"cksum":"45c90972510bc61733387053cd1fc21e306447f42ec7b4c80a74ec10e635065a","features":{"bmi2":[]},"yanked":false,"pubtime":"2025-03-22T00:02:22Z"}
 {"name":"laura_core","vers":"0.2.2","deps":[],"cksum":"38dbcfb5cd34afa87a59c78a695005c7e3d3352f4530810d0d12f5f6fb906b6a","features":{"bmi2":[]},"yanked":false,"pubtime":"2025-03-28T01:09:38Z"}
 {"name":"laura_core","vers":"0.3.0","deps":[],"cksum":"0f223461a1bfb2caaf874033c9f07350ea05b908d6b96f31622fde6ccacc2897","features":{"bmi2":[]},"yanked":false,"pubtime":"2025-04-26T23:38:40Z"}
+{"name":"laura_core","vers":"0.4.0","deps":[],"cksum":"0c77f935b4fdc48214eb86fa38350977a000d5505d08caa223eee7408f8518ef","features":{"bmi2":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-08T19:14:02Z"}
