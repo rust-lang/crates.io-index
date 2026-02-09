@@ -1,0 +1,1 @@
+{"name":"imgsyn","vers":"1.0.0","deps":[{"name":"png","req":"^0.18.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba17de52e66c9d3061190ede2fd7139dbdc0ec14ae3e8fab4fa1d5b1040fd91e","features":{},"features2":{"default":["png"],"png":["dep:png"]},"yanked":false,"pubtime":"2026-02-09T17:25:33Z","v":2}
