@@ -19,3 +19,4 @@
 {"name":"code-gen","vers":"0.9.0-rc.1","deps":[],"cksum":"97baa3b3e5b4e7b0798e285437351d82413b41e65fa1609152ba8b2b6c42632d","features":{"rust":[]},"yanked":false,"pubtime":"2026-01-15T12:37:02Z"}
 {"name":"code-gen","vers":"0.9.0-rc.2","deps":[],"cksum":"ba8155e196269c6c2aa83620ae3dfff9086df9225ea7d35e3cb329297f2e7776","features":{"rust":[]},"yanked":false,"pubtime":"2026-01-19T14:30:47Z"}
 {"name":"code-gen","vers":"0.9.0-rc.3","deps":[],"cksum":"152fd909f960e88dc4a3859f69dfdc41aba09f7ceccec9c66f5df67039c18af6","features":{"rust":[]},"yanked":false,"pubtime":"2026-01-29T18:35:05Z"}
+{"name":"code-gen","vers":"0.9.0","deps":[],"cksum":"c15e8f43012376dc23454db343191338714adaf0b39f9a6a6b63000f1613afdb","features":{"rust":[]},"yanked":false,"pubtime":"2026-02-09T19:39:42Z"}
