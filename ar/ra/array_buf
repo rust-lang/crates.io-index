@@ -1,1 +1,2 @@
 {"name":"array_buf","vers":"0.1.0","deps":[],"cksum":"d979e2f48cc2e8ffbcf4aa5c84de8134cd4f0164383eb677a90cc6d901d30986","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-01-14T14:06:01Z"}
+{"name":"array_buf","vers":"0.1.1","deps":[],"cksum":"9f15b0062a9bbc15ccb71b45638d46f4ed06d0312f1a1ced2c49f62b5667b2b5","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-02-09T12:34:37Z"}
