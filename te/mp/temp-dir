@@ -15,3 +15,4 @@
 {"name":"temp-dir","vers":"0.1.14","deps":[{"name":"safe-lock","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc1ee6eef34f12f765cb94725905c6312b6610ab2b0940889cfe58dae7bc3c72","features":{},"yanked":false,"pubtime":"2024-10-03T07:52:22Z"}
 {"name":"temp-dir","vers":"0.1.15","deps":[],"cksum":"3e4d904fae635bb2c67a72badc7a0111284e3e363718486513c8c3cef4d00ce0","features":{},"yanked":false,"pubtime":"2025-05-06T07:03:01Z"}
 {"name":"temp-dir","vers":"0.1.16","deps":[],"cksum":"83176759e9416cf81ee66cb6508dbfe9c96f20b8b56265a39917551c23c70964","features":{},"yanked":false,"pubtime":"2025-05-06T22:37:26Z"}
+{"name":"temp-dir","vers":"0.2.0","deps":[],"cksum":"016ef9739649996fcc983b9c588fe3d557cf216d4d98503ce1b057ab5a66d689","features":{},"yanked":false,"pubtime":"2026-02-10T03:29:58Z"}
