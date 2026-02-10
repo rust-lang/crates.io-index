@@ -5,3 +5,4 @@
 {"name":"suricata-sys","vers":"8.0.1","deps":[],"cksum":"87934d92c250ed84074356edebedba47da231cbbd078962d6f52dc34e8633050","features":{},"yanked":false,"pubtime":"2025-09-19T15:26:15Z"}
 {"name":"suricata-sys","vers":"8.0.2","deps":[],"cksum":"f382a548b1efaa7400c5ae97af4e8740d7b03b571326eec070f4ace531e260dc","features":{},"yanked":false,"pubtime":"2025-11-06T14:58:56Z"}
 {"name":"suricata-sys","vers":"8.0.3","deps":[],"cksum":"a750fe157271547ac04470920449b98b4daaec7f1deb1e7a0ada848bdd22b781","features":{},"yanked":false,"pubtime":"2026-01-13T17:14:51Z"}
+{"name":"suricata-sys","vers":"9.0.0-alpha.20260210","deps":[],"cksum":"fb33004eb56e9a2d165833dba7e690b6efc219fdcf9faec0d61b2b805829b6e4","features":{},"yanked":false,"pubtime":"2026-02-10T21:07:47Z"}
