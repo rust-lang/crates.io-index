@@ -15,3 +15,4 @@
 {"name":"paraxis","vers":"0.5.2","deps":[],"cksum":"b83fa2fbf34fadc4120fa4995492e7e08df4fd14fee5e3a9b82de28ee1137976","features":{},"yanked":false,"pubtime":"2026-02-07T18:16:53Z"}
 {"name":"paraxis","vers":"0.6.0","deps":[],"cksum":"479d486aa5e1e49e4be5d9c666e110c372a2cf7f966783483790fa4e16706cd0","features":{},"yanked":false,"pubtime":"2026-02-10T07:12:54Z"}
 {"name":"paraxis","vers":"0.6.1","deps":[{"name":"ahash","req":"^0.8.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd234d97473741a89e1970e679a20939953ab035f70c6927e65dfdd98d9e3f08","features":{},"yanked":false,"pubtime":"2026-02-10T11:28:14Z"}
+{"name":"paraxis","vers":"0.6.2","deps":[{"name":"ahash","req":"^0.8.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca059702f67da4fe276a0cdaf78e9f0d85ad9468bc87b17f58131f4c8aa0ea15","features":{},"yanked":false,"pubtime":"2026-02-10T21:03:08Z"}
