@@ -28,3 +28,4 @@
 {"name":"cosmwasm-core","vers":"2.2.6","deps":[],"cksum":"37a1abc85825fbbd0a0d8ae3ed2594c6cf551dd7bfc3d91094b59e8a032ad006","features":{},"yanked":false,"pubtime":"2026-02-08T10:39:00Z"}
 {"name":"cosmwasm-core","vers":"2.3.1","deps":[],"cksum":"9ecad6f7c351157f19134710b1de451014474fbf1f6a5054beafb645496f2f56","features":{},"yanked":false,"pubtime":"2026-02-08T16:20:17Z"}
 {"name":"cosmwasm-core","vers":"3.0.3","deps":[],"cksum":"db63edc649d80b32bb3382f8cdd39740816ce225e83ae7229391850a76a537cf","features":{},"yanked":false,"pubtime":"2026-02-09T10:53:46Z"}
+{"name":"cosmwasm-core","vers":"2.2.7-rc.0","deps":[],"cksum":"99251ca4853816f27d04eb6aba0acb608961d7e96f5bc129e78f401664a3023e","features":{},"yanked":false,"pubtime":"2026-02-10T11:22:36Z"}
