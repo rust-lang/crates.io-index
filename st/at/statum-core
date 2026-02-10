@@ -32,3 +32,4 @@
 {"name":"statum-core","vers":"0.3.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b62974aa9cc073b42f86d2b7936c953cd18ec3b7c35460b51f2f11421c06afa","features":{},"features2":{"default":["serde"],"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-02-03T22:49:55Z","v":2}
 {"name":"statum-core","vers":"0.3.1","deps":[],"cksum":"ecbf9b1ff9d05d31a7c0db8e647293108842fd3eb24c694851955329528515d5","features":{},"yanked":false,"pubtime":"2026-02-03T23:05:21Z"}
 {"name":"statum-core","vers":"0.3.2","deps":[],"cksum":"ef02a63c64e953071a0a3178ebc6d0418fe80af07176dce9bc5d2e62b2bcf068","features":{},"yanked":false,"pubtime":"2026-02-03T23:25:08Z"}
+{"name":"statum-core","vers":"0.3.3","deps":[],"cksum":"a487a3d8106e832e9bc03795a41c0017d1a3d21bf1cd8d3af5768ff863f7f9ae","features":{},"yanked":false,"pubtime":"2026-02-10T16:48:44Z"}
