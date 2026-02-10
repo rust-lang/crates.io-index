@@ -1,1 +1,2 @@
 {"name":"banuid","vers":"1.0.0","deps":[],"cksum":"6b935912a95964203d714922dd1915883357dd3d582656b9cd2254b00e5512ee","features":{},"yanked":false,"pubtime":"2026-02-09T22:49:53Z"}
+{"name":"banuid","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54c2d04ab0e455c648d40439739cc3913bef30cc02de638c00bf918a013c0b37","features":{},"yanked":false,"pubtime":"2026-02-10T00:07:21Z"}
