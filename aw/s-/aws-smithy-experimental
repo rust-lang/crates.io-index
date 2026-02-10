@@ -8,3 +8,4 @@
 {"name":"aws-smithy-experimental","vers":"0.2.0","deps":[],"cksum":"6ebe7cc18a16af5116d3e7c9e5d2400e58a588841cbda52322eaf5dce6396b16","features":{"crypto-ring":[]},"yanked":false,"pubtime":"2025-03-10T15:43:12Z"}
 {"name":"aws-smithy-experimental","vers":"0.2.1","deps":[],"cksum":"1ab1be86faa19d3beef70f46d30756106f7a36bfe45007995b196ac628d03c31","features":{"crypto-ring":[]},"yanked":false,"pubtime":"2025-10-06T21:43:25Z"}
 {"name":"aws-smithy-experimental","vers":"0.2.2","deps":[],"cksum":"83685b9fa4899293aab27ed14c57509f11165ad8cfe1e993557819ca12a65fb7","features":{"crypto-ring":[]},"yanked":false,"rust_version":"1.88","pubtime":"2025-12-08T22:58:10Z"}
+{"name":"aws-smithy-experimental","vers":"0.2.3","deps":[],"cksum":"d9071e2f06ddedcd2c5e944bbb5dedf89ca06c9eb85059bdb580a547621e4e40","features":{"crypto-ring":[]},"yanked":false,"rust_version":"1.91","pubtime":"2026-02-10T22:40:41Z"}
