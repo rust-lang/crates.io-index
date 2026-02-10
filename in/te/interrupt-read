@@ -3,3 +3,4 @@
 {"name":"interrupt-read","vers":"0.3.0","deps":[],"cksum":"a0f9455fa5ede99df87d22e671d7c174eb3dac4c22018c8bf09457af3d28be75","features":{"default":["log"],"log":[]},"yanked":false,"pubtime":"2026-02-10T13:28:54Z"}
 {"name":"interrupt-read","vers":"0.4.0","deps":[],"cksum":"80eaf62c8963c79018e97a99fa318b050df4484c4cfc8e3baacf261468207a33","features":{"default":["log"],"log":[]},"yanked":false,"pubtime":"2026-02-10T14:02:34Z"}
 {"name":"interrupt-read","vers":"0.5.0","deps":[],"cksum":"683e1db19dca1ace5a423aeee08376c573c669b7e4e038a4b3c9c7c47c0ec42d","features":{},"yanked":false,"pubtime":"2026-02-10T14:04:19Z"}
+{"name":"interrupt-read","vers":"0.6.0","deps":[],"cksum":"4f9eff6e49ab6c828d8c6ce23fe1f3ca920cf066d23db2a2ff6795a490d606a6","features":{},"yanked":false,"pubtime":"2026-02-10T23:55:47Z"}
