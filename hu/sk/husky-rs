@@ -8,3 +8,4 @@
 {"name":"husky-rs","vers":"0.2.0","deps":[],"cksum":"a4d2a7deea8dd713d9abef1ed37bfdf273959e086660c521efa2e1ea03eb0f0e","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T06:58:08Z"}
 {"name":"husky-rs","vers":"0.2.1","deps":[],"cksum":"9e14139f558a2bb40b505b52727f95fa15f3666e5348f0ec98e9a0bc079a4f68","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T07:42:07Z"}
 {"name":"husky-rs","vers":"0.2.2","deps":[],"cksum":"8e19b1f9afa96d1ad62b9709744752f11f1e6d9ff8675ff3f53eac1b95f5d168","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-09T10:10:43Z"}
+{"name":"husky-rs","vers":"0.3.0","deps":[],"cksum":"1ddfcdd8983b9d68537805f89a0cc01be1571251626c46cfdd5f3e27c7863f10","features":{"default":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-02-11T10:49:36Z"}
