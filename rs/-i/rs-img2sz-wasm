@@ -1,0 +1,1 @@
+{"name":"rs-img2sz-wasm","vers":"0.1.0","deps":[{"name":"imagesize","req":"^0.14","features":["bmp","exr","gif","heif","ico","jpeg","png","pnm","psd","tga","tiff","webp"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e25af61c5aaf6a6ec53e0c88d44c9b89989bc7b421a1974075e401e254089b23","features":{},"yanked":false,"pubtime":"2026-02-11T02:38:26Z"}
