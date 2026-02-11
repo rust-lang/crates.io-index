@@ -1,1 +1,2 @@
 {"name":"fs9p","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"24c4aaeb97ef7ab7d98a22890a9461c22f40032aeb46a5eb8910e1fbddad91da","features":{},"yanked":false,"pubtime":"2026-02-09T09:28:57Z"}
+{"name":"fs9p","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"aca1689471bee162c9bd03fd9fbfdc57e52f1fcd13db962af651def121feb455","features":{},"yanked":false,"pubtime":"2026-02-11T05:57:09Z"}
