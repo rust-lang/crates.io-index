@@ -1,0 +1,1 @@
+{"name":"greatsage","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.49.0","features":["macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db77eb7573bf8cc4c891ce71e9c8e7949801e9c67b41a281f0f7303cdf944405","features":{},"yanked":false,"pubtime":"2026-02-11T07:27:00Z"}
