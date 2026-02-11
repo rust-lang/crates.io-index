@@ -1,1 +1,2 @@
 {"name":"dsp-process","vers":"0.1.0","deps":[],"cksum":"f999350286aca82b7fb79f05318f2abe0967b1f068d7a24c573c02369d1153f5","features":{"std":[]},"yanked":false,"pubtime":"2026-01-13T15:24:36Z"}
+{"name":"dsp-process","vers":"0.2.0","deps":[{"name":"dsp-fixedpoint","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"625475d67fbdf3f4e5b317a3c2d7e83b1e36a8bc07bd637495542f54f18b5f18","features":{"std":[]},"yanked":false,"pubtime":"2026-02-11T15:20:12Z"}
