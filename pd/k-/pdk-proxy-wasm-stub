@@ -9,3 +9,4 @@
 {"name":"pdk-proxy-wasm-stub","vers":"1.6.0-rc.1","deps":[],"cksum":"f0dd7a2ef0c78470845f1f9b5d3ad9a347456910079fb1d269769963634c8546","features":{},"yanked":true,"rust_version":"1.88.0","pubtime":"2025-10-31T16:49:20Z"}
 {"name":"pdk-proxy-wasm-stub","vers":"1.6.0","deps":[],"cksum":"efd9c34e50edd997d384cbc7de253b576dc3dc855e22b2a8d43db47a470308f3","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2025-11-18T13:28:13Z"}
 {"name":"pdk-proxy-wasm-stub","vers":"1.7.0-alpha.0","deps":[],"cksum":"9ab40b17fb253699695cedb12174ab6bcbdcc5efeb6f6e3333b95e35f0ecda1f","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-01-22T16:59:27Z"}
+{"name":"pdk-proxy-wasm-stub","vers":"1.7.0","deps":[],"cksum":"afc171144ecfbfb7d8023d0c61ba6e352337db4f0c21947a2611a2f94c0f0ee7","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-02-11T13:00:19Z"}
