@@ -9,3 +9,4 @@
 {"name":"stylo_static_prefs","vers":"0.9.0","deps":[],"cksum":"422781c4f262636913d07a3f41ac9a8c781c0bab03f3b87c27e18ac2373c289a","features":{},"yanked":false,"pubtime":"2025-11-12T14:55:22Z"}
 {"name":"stylo_static_prefs","vers":"0.10.0","deps":[],"cksum":"e6f853c249e76b2f08c694bce0612594ddc3eddb03ccfa520c2cae74a2f3e5a8","features":{},"yanked":false,"pubtime":"2026-01-07T14:51:42Z"}
 {"name":"stylo_static_prefs","vers":"0.11.0","deps":[],"cksum":"fd15301b4756455af51fda9835655e48812dd4175e80947fd5d6a4b57ee30e89","features":{},"yanked":false,"pubtime":"2026-01-16T16:19:10Z"}
+{"name":"stylo_static_prefs","vers":"0.12.0","deps":[{"name":"style_config","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"stylo_config"}],"cksum":"9efd065dbc5acf78da14eda70578b15cd6c31e057289bf2f188186ca9c5ae6e1","features":{},"yanked":false,"pubtime":"2026-02-12T07:21:18Z"}
