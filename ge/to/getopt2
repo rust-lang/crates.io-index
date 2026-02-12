@@ -1,3 +1,4 @@
 {"name":"getopt2","vers":"0.1.0-alpha.1","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"da787cd75d1cf1632280aa1706030ad634b7e46aacfa8bb4dfefa31d4cd7e4ff","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2025-09-17T00:48:32Z"}
 {"name":"getopt2","vers":"0.1.0-alpha.2","deps":[],"cksum":"4a30a13d6a32c9db27d65ff8ca473b4228ef36ff0e869561b5751a047638f68f","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2025-11-03T01:17:36Z"}
 {"name":"getopt2","vers":"0.1.0-alpha.3","deps":[],"cksum":"4fcb9fa6110cce7042d3495d6c77c679849a73b3ae2aafec1aaf9fbec55f83fd","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-01-21T11:27:11Z"}
+{"name":"getopt2","vers":"0.1.0-beta.1","deps":[],"cksum":"1d8c406c5bffa2f118a9ba6c2d854a288ac896074131f0500081bfd593f363a4","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-02-12T10:38:03Z"}
