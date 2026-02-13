@@ -20,3 +20,4 @@
 {"name":"nightly2version","vers":"1.91.1","deps":[],"cksum":"4e57a973050ab07e16ff0de5dd949220e49983ba584dd48c7f5407c2e5412cb0","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-11-11T18:50:56Z"}
 {"name":"nightly2version","vers":"1.92.0","deps":[],"cksum":"77c48b7b04d390249e5bfb8e35020418a2c9ab4d6d51bc8ca4a0cc126551c280","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-12T21:16:07Z"}
 {"name":"nightly2version","vers":"1.93.0","deps":[],"cksum":"fcb1540cecd867c61f086d97ec4c89fc6d38f4f0ac0c8e930514754c14763c36","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-22T16:16:21Z"}
+{"name":"nightly2version","vers":"1.93.1","deps":[],"cksum":"3ceef271e5f7dd5fbea0564536208ade6e61e22738021bed97820a6cd9ae7db4","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-13T18:53:39Z"}
