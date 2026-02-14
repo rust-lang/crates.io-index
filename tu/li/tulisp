@@ -31,3 +31,4 @@
 {"name":"tulisp","vers":"0.22.0","deps":[],"cksum":"e8edf4fbeef789b970c36b8ae6962b8fd1bf91f53f30309cb1380d559a143ba1","features":{},"yanked":false,"pubtime":"2025-11-21T21:23:04Z"}
 {"name":"tulisp","vers":"0.23.0","deps":[],"cksum":"d6df47f91868c0b74bd7d48291726670321549f28b8390f69cbcc8e90f47a1c5","features":{"big_functions":[]},"yanked":false,"pubtime":"2025-12-06T14:12:47Z"}
 {"name":"tulisp","vers":"0.24.0","deps":[],"cksum":"4d05eabd01eb0f99f4f1065ad38b8e04c244a71aba99261af7d81453480f918f","features":{"big_functions":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2025-12-07T18:58:41Z"}
+{"name":"tulisp","vers":"0.25.0","deps":[],"cksum":"552906d6a099bfd421ba319f06c09790d25b4f420395a1e5f581796122f747df","features":{"big_functions":[],"sync":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-02-14T14:21:03Z"}
