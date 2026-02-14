@@ -1,0 +1,1 @@
+{"name":"zvec-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d279e7121051458b5a78005038d66d8e4aeeb62e5a75e3146c183ac7d2f5251e","features":{"default":[],"static":[]},"yanked":false,"links":"zvec_c","pubtime":"2026-02-14T00:04:31Z"}
