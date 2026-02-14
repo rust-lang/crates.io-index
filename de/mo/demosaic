@@ -1,0 +1,1 @@
+{"name":"demosaic","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ce2cc14039941e241106cceef4d9d0421db750485ad7aa524130018cb0837a1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-14T19:09:06Z"}
