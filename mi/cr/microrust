@@ -4,3 +4,4 @@
 {"name":"microrust","vers":"0.0.0-alpha.2","deps":[],"cksum":"017761f430c6f69ff714b9242d617b834d42cddf2770b301b0ce6815d91e96c2","features":{},"yanked":false,"pubtime":"2025-08-03T19:05:34Z"}
 {"name":"microrust","vers":"0.0.0-alpha.3","deps":[],"cksum":"64983df6a07fcd4646678d1c56a3d2a2a5e4d8f3e3137443cd556888ae6e3678","features":{},"yanked":false,"pubtime":"2025-08-03T19:20:55Z"}
 {"name":"microrust","vers":"0.0.0-alpha.4","deps":[],"cksum":"ed7993755a91423fdd35bfdadd4b8376e21a0228ff5dc4b7860e00ef8f2c7f84","features":{},"yanked":false,"pubtime":"2025-10-05T14:41:24Z"}
+{"name":"microrust","vers":"0.0.0-alpha.6","deps":[{"name":"microrust_inject","req":"^0.0.0-alpha.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34f8077048a72ac910d01d4705acb999afe27cbb14067a4a19dcae902579467d","features":{},"yanked":false,"pubtime":"2026-02-15T18:21:25Z"}
