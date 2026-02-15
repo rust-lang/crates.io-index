@@ -1,2 +1,3 @@
 {"name":"ranged_bitmap","vers":"1.0.0","deps":[],"cksum":"4941715f24990896e24be90f132cb559619e5751ef1182910485b5b89fd9075e","features":{"more_checks":[]},"yanked":false,"pubtime":"2026-02-11T16:48:54Z"}
 {"name":"ranged_bitmap","vers":"1.1.0","deps":[],"cksum":"4ce154cc5a3571462a520e2bb7f6ee11aea7c5c80e02430f26ebca6fddd25d15","features":{"more_checks":[]},"yanked":false,"pubtime":"2026-02-11T19:19:26Z"}
+{"name":"ranged_bitmap","vers":"1.2.0","deps":[{"name":"smallvec","req":">=1.15.1, <=1.16.0","features":["const_new"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56e4f28fa870fe04da8e847599da3df17eee921ea100de9dc4d94b22d1d889af","features":{"more_checks":[]},"yanked":false,"pubtime":"2026-02-15T10:07:26Z"}
