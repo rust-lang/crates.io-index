@@ -24,4 +24,4 @@
 {"name":"dyn_trie","vers":"3.0.5","deps":[],"cksum":"3275e548d3c5ece43d08d5625e5f0425b8112d3981b1105f659bf7ad06e851ee","features":{},"yanked":false,"pubtime":"2025-06-05T19:31:33Z"}
 {"name":"dyn_trie","vers":"3.0.6","deps":[],"cksum":"04c6e25f7d60405dfcc3aa0c8588bb228e3eb327a61f48a693c72cf78bc6ed4b","features":{},"yanked":false,"pubtime":"2025-06-05T20:06:59Z"}
 {"name":"dyn_trie","vers":"3.1.0","deps":[],"cksum":"60a078b0b2d6cb608281f1b2204845e418ea58bd3f1dbd29cddf91a02d4e4f24","features":{},"yanked":false,"pubtime":"2026-02-13T20:20:30Z"}
-{"name":"dyn_trie","vers":"3.1.1","deps":[],"cksum":"51d07c2194a76ad5b87ecae8b47a6c1f404006ba8479ff158dc4d53ac821da81","features":{},"yanked":false,"pubtime":"2026-02-13T21:15:02Z"}
+{"name":"dyn_trie","vers":"3.1.1","deps":[],"cksum":"51d07c2194a76ad5b87ecae8b47a6c1f404006ba8479ff158dc4d53ac821da81","features":{},"yanked":true,"pubtime":"2026-02-13T21:15:02Z"}
