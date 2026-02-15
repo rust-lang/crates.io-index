@@ -25,3 +25,4 @@
 {"name":"dyn_trie","vers":"3.0.6","deps":[],"cksum":"04c6e25f7d60405dfcc3aa0c8588bb228e3eb327a61f48a693c72cf78bc6ed4b","features":{},"yanked":false,"pubtime":"2025-06-05T20:06:59Z"}
 {"name":"dyn_trie","vers":"3.1.0","deps":[],"cksum":"60a078b0b2d6cb608281f1b2204845e418ea58bd3f1dbd29cddf91a02d4e4f24","features":{},"yanked":false,"pubtime":"2026-02-13T20:20:30Z"}
 {"name":"dyn_trie","vers":"3.1.1","deps":[],"cksum":"51d07c2194a76ad5b87ecae8b47a6c1f404006ba8479ff158dc4d53ac821da81","features":{},"yanked":true,"pubtime":"2026-02-13T21:15:02Z"}
+{"name":"dyn_trie","vers":"4.0.0","deps":[],"cksum":"b84a4dadb3169702c06331db2aa10ced66ff445b69faca385c178a67f3aee867","features":{},"yanked":false,"pubtime":"2026-02-15T21:24:34Z"}
