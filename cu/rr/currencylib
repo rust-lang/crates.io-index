@@ -1,1 +1,2 @@
 {"name":"currencylib","vers":"0.0.0","deps":[],"cksum":"f3f1155c8f9a16193deadedf585a657241ce9114d7d7e15b629cacceff23da49","features":{},"yanked":false,"pubtime":"2026-02-15T01:38:54Z"}
+{"name":"currencylib","vers":"0.1.0","deps":[{"name":"iso_currency","req":"^0.5.3","features":["iterator"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"36f37eae462216eba5b2c503af6f76586d03a48d9e2e166fbf2c809471f2ac56","features":{},"yanked":false,"pubtime":"2026-02-16T09:02:39Z"}
