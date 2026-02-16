@@ -1,0 +1,1 @@
+{"name":"acpi_tables","vers":"0.2.0","deps":[{"name":"zerocopy","req":"^0.8.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ad581b2b0fa02638f3df6ff3f852ebc30dc7cfe531e9745d1ca4c0f283a6dbe","features":{},"yanked":false,"pubtime":"2026-02-16T16:27:19Z"}
