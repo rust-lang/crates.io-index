@@ -1,2 +1,3 @@
 {"name":"fhex","vers":"1.0.0","deps":[],"cksum":"ab38b859c87b0261390060978076394bd66921e93344f2c5b73938cc7c49477d","features":{},"yanked":false,"pubtime":"2023-11-30T11:23:50Z"}
 {"name":"fhex","vers":"2.0.0","deps":[{"name":"proptest","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"589f0cc671f570233df52775c22d199c64858d419cd28c1ff9d156a676690236","features":{},"yanked":false,"pubtime":"2026-01-31T13:00:08Z"}
+{"name":"fhex","vers":"2.0.1","deps":[{"name":"proptest","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e021533e18fe8943896cd0dffd5819d127b6ba2f8cc1440261928bd443769fd8","features":{},"yanked":false,"pubtime":"2026-02-16T04:10:15Z"}
