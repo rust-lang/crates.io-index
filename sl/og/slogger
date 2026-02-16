@@ -1,2 +1,3 @@
 {"name":"slogger","vers":"0.1.0","deps":[],"cksum":"6bd24cef59ce4781fd3c2e91e7cd1b4ba96f5a6736f2769678f69bffebd0805c","features":{},"yanked":false,"pubtime":"2026-02-13T13:44:30Z"}
 {"name":"slogger","vers":"0.1.1","deps":[],"cksum":"c7974dbdaad5153e94aaf099d534c771a0cbfdd864866ea96c5b45be405fb801","features":{},"yanked":false,"pubtime":"2026-02-13T13:46:25Z"}
+{"name":"slogger","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1898ad660a5504a38697df68d29e3a490a81bc91ee4764b3407068139f33a97b","features":{},"yanked":false,"pubtime":"2026-02-16T14:19:17Z"}
