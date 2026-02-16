@@ -2,3 +2,4 @@
 {"name":"kompost","vers":"0.0.1","deps":[],"cksum":"106b0c46bcbaf82b513a86885e1ce96a644a3320607c44440b4acea6620a1af6","features":{},"yanked":false,"pubtime":"2026-01-10T23:35:14Z"}
 {"name":"kompost","vers":"0.0.2","deps":[],"cksum":"64994bdab820be6aac8928b1d4cfa3e3526ad1b2cc029cedab2ee012fb2ffefb","features":{},"yanked":false,"pubtime":"2026-01-11T00:18:54Z"}
 {"name":"kompost","vers":"0.0.3","deps":[],"cksum":"255d588727914998f624ec6917a0014d9085e8973656cfaccb495c976ae767e0","features":{},"yanked":false,"pubtime":"2026-01-11T23:33:06Z"}
+{"name":"kompost","vers":"0.0.4","deps":[{"name":"itertools","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"effb304ff32d4c59df0199e0f0c8c0881fdecf0a2ea4c686763d3ddf46a5aaff","features":{},"yanked":false,"pubtime":"2026-02-16T12:31:45Z"}
