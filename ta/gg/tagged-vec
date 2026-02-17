@@ -13,3 +13,4 @@
 {"name":"tagged-vec","vers":"0.4.3","deps":[],"cksum":"68c8f4033bf8ef3fa9c6b8828385b687b0afe2601f6898c9d6f96806c8dd54ac","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-02-13T08:27:44Z"}
 {"name":"tagged-vec","vers":"0.4.4","deps":[],"cksum":"d15b144d518262590998b38eeb962cd0ed9dc24a8de34eef2d0b35990b8bd83e","features":{"binary-io":[]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-02-16T10:31:37Z"}
 {"name":"tagged-vec","vers":"0.4.5","deps":[],"cksum":"45c74f0fd788973d05162cab9e7bd4bcaa7ed306dc1450bf23f0a2a1a303d158","features":{"binary-io":[]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-02-17T06:45:48Z"}
+{"name":"tagged-vec","vers":"0.4.6","deps":[],"cksum":"db47523a9a9b1d1430f3a78c7700817ab6f80e5296c94e1e9da3f90715358746","features":{"binary-io":[]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-02-17T11:17:39Z"}
