@@ -1,0 +1,1 @@
+{"name":"qwen-asr","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"127f497e9ff1a69286f44121312c1747c245373cb905d8fd6200086a029be388","features":{"android":[],"blas":[],"default":["blas","vdsp"],"ios":[],"vdsp":[]},"yanked":false,"pubtime":"2026-02-17T20:05:48Z"}
