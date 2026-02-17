@@ -1,3 +1,4 @@
 {"name":"dns-message","vers":"0.1.0","deps":[],"cksum":"b53700808fcfdd3511fbf0db8fe5fc9f96825070c318a7c054542487494ab3a2","features":{},"yanked":false,"pubtime":"2026-02-06T22:40:15Z"}
 {"name":"dns-message","vers":"0.1.1","deps":[],"cksum":"b7407f7c55c1b5e8bb678ff25b8ce6b067071a757067dc4977184159254c3034","features":{},"yanked":false,"pubtime":"2026-02-06T22:57:32Z"}
 {"name":"dns-message","vers":"0.1.2","deps":[],"cksum":"304aa3d8181b2652b26543b899edea78673263615f8d15ad4a9cff29b9f036fb","features":{},"yanked":false,"pubtime":"2026-02-07T00:30:30Z"}
+{"name":"dns-message","vers":"0.2.0","deps":[{"name":"mt","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb66f74f57e474a97b93f9a85953f695e678a82db47266e1307e107a2a471464","features":{},"yanked":false,"pubtime":"2026-02-17T15:51:41Z"}
