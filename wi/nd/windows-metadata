@@ -27,3 +27,4 @@
 {"name":"windows-metadata","vers":"0.57.0","deps":[],"cksum":"8308d076825b9d9e5abc64f8113e96d02b2aeeba869b20fdd65c7e70cda13dfc","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2024-06-07T17:43:24Z"}
 {"name":"windows-metadata","vers":"0.58.0","deps":[],"cksum":"2e837f3c3012cfe9e7086302a93f441a7999439be1ad4c530d55d2f6d2921809","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2024-07-03T19:44:42Z"}
 {"name":"windows-metadata","vers":"0.59.0","deps":[],"cksum":"70aa58b9e48ffc2d7c2f2f5209448a8c3bb2c4b2f77f2df9505253caf27fcc31","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-05-15T19:38:54Z"}
+{"name":"windows-metadata","vers":"0.60.0","deps":[],"cksum":"3433ff56dde0408f2549eb155235c9991023d8c2a13608afa384d2681a6c3ad5","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-02-17T16:26:35Z"}
