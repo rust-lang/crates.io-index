@@ -10,3 +10,4 @@
 {"name":"ghostptr","vers":"0.2.0","deps":[],"cksum":"6277e0f133a5117b1c14274eb4194c0e21227b8cc147dacd5b0d2a703a35ad76","features":{"rtti":[]},"yanked":false,"pubtime":"2026-01-31T00:13:22Z"}
 {"name":"ghostptr","vers":"0.2.1","deps":[],"cksum":"aab858c2f943ce62493dd77fdcb8188b4aa3373bff74cd82f7b5caa97274136d","features":{"rtti":[]},"yanked":false,"pubtime":"2026-01-31T00:27:08Z"}
 {"name":"ghostptr","vers":"0.2.3","deps":[],"cksum":"654c7ac4d04b2bb1287a1ad55dfdeb216744a76f77d0fb1619200c33822a7741","features":{"rtti":[]},"yanked":false,"pubtime":"2026-02-14T05:27:13Z"}
+{"name":"ghostptr","vers":"0.2.4","deps":[],"cksum":"654354bc6984a59f460c04ef225e9e7146902d2829b831d425d1282408511e06","features":{"rtti":[],"vectored_handlers":[]},"yanked":false,"pubtime":"2026-02-17T05:31:15Z"}
