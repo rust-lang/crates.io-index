@@ -1,0 +1,1 @@
+{"name":"tg-rcore-tutorial-ch1","vers":"0.4.2-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.2-preview.1","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"c13ddb34927c823e23a2a441d1f75232e1c8c5da1143c7661f2d4671e91c6ffa","features":{},"yanked":false,"pubtime":"2026-02-18T10:09:37Z"}
