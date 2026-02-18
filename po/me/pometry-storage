@@ -18,3 +18,4 @@
 {"name":"pometry-storage","vers":"0.16.1","deps":[],"cksum":"fc8001a902ad7e3070235f84917d1acc5f562d54abe154e5cbf51ec60d0bfd42","features":{"storage":[]},"yanked":false,"rust_version":"1.86.0","pubtime":"2025-08-14T15:19:50Z"}
 {"name":"pometry-storage","vers":"0.16.3","deps":[],"cksum":"9502c5d76dd8c157c3c6c4492783092d02fc1bff0f013b3826cdec74da5b82f9","features":{"storage":[]},"yanked":false,"rust_version":"1.86.0","pubtime":"2025-10-21T09:23:44Z"}
 {"name":"pometry-storage","vers":"0.16.4","deps":[],"cksum":"ab5a0e7c444e8a66630ef239cd4a769fddb74c795cca35cdb51594ac9612123a","features":{"storage":[]},"yanked":false,"rust_version":"1.86.0","pubtime":"2025-12-12T14:21:03Z"}
+{"name":"pometry-storage","vers":"0.16.5","deps":[],"cksum":"cc006192b6bf15d3e476fcb01f731cd4d842711f3551485bb9b2f5145217f06f","features":{"storage":[]},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-02-18T16:37:17Z"}
