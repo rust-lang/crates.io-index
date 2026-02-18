@@ -1,0 +1,1 @@
+{"name":"tg-rcore-tutorial-kernel-context","vers":"0.4.2-preview.1","deps":[{"name":"spin","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93d935e285a06301267638f3325aff8d3672aae4e904f0b1d2a7a257eb4aff7b","features":{"foreign":["spin"]},"yanked":false,"pubtime":"2026-02-18T10:16:27Z"}
