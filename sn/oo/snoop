@@ -1,2 +1,3 @@
 {"name":"snoop","vers":"1.0.0","deps":[],"cksum":"466d9214cb053e186e1cd643bafac58e8b5e3b4395d6bd5cf0106998c73c82f7","features":{"default":["parse"],"full":["read","write"],"parse":[],"read":[],"write":[]},"yanked":true,"pubtime":"2024-02-26T08:24:54Z"}
 {"name":"snoop","vers":"1.0.1","deps":[],"cksum":"928cfbbbf80ff859cab42afe87b710b069b73802240ec8d86bccd3d98eeaa0c1","features":{"default":["parse"],"full":["read","write"],"parse":[],"read":[],"write":[]},"yanked":false,"pubtime":"2024-02-26T09:40:26Z"}
+{"name":"snoop","vers":"1.0.2","deps":[],"cksum":"9c927eb2e87e8125799150dfa4025117ba355acf6b412c1c3adb06b858ca566d","features":{"default":["parse"],"full":["read","write"],"parse":[],"read":[],"write":[]},"yanked":false,"pubtime":"2026-02-19T11:21:32Z"}
