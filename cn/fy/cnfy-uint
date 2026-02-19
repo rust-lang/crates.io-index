@@ -1,0 +1,1 @@
+{"name":"cnfy-uint","vers":"0.1.0","deps":[],"cksum":"1d428baf25cc667094903f06f0ed803a6ff04587b44f9d45b660354be451bbd8","features":{"ct":["ct-field","ct-inv","ct-pow"],"ct-field":[],"ct-inv":["ct-field"],"ct-pow":["ct-field"]},"yanked":false,"pubtime":"2026-02-19T14:19:29Z"}
