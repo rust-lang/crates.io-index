@@ -1,0 +1,1 @@
+{"name":"sevenmark_ast","vers":"2.24.21","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea27842422b6a102e4ca54bcc642ab6dc5803cc929cd90cd987cd4aac6228e20","features":{"default":[],"include_locations":[]},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-02-19T11:38:22Z"}
