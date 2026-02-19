@@ -18,3 +18,4 @@
 {"name":"syscalls-rust","vers":"0.2.8","deps":[],"cksum":"52e5764cfce50d23b62486d19b2c6504fcdd90b569fbd06dba3f5923eaca03b3","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false,"pubtime":"2025-03-04T15:10:25Z"}
 {"name":"syscalls-rust","vers":"0.2.9","deps":[],"cksum":"5ddb08a3dccfcf8f60100b2595bbd33848dfeb522eefb3e37ea35a605e8a0a0c","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false,"pubtime":"2025-11-12T11:42:36Z"}
 {"name":"syscalls-rust","vers":"0.2.10","deps":[],"cksum":"b70167ac44c2ab53feb69700d427d5f19de800bbab4e5656bab77d1f36adcac1","features":{"arch32":[],"arch64":[],"arm32":[],"arm64":[],"default":["arch64"]},"yanked":false,"pubtime":"2025-11-12T13:16:45Z"}
+{"name":"syscalls-rust","vers":"0.3.0","deps":[],"cksum":"fff80982219d94360cc63b6271ff6c8198558bf5feb99a090504b897b838bc2c","features":{},"yanked":false,"pubtime":"2026-02-19T10:33:01Z"}
