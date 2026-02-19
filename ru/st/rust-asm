@@ -1,1 +1,2 @@
 {"name":"rust-asm","vers":"0.1.0","deps":[],"cksum":"a35d4fee48e0860b442140f00121e66122388a9e165aeda83c4b2a8ef333a555","features":{},"yanked":false,"pubtime":"2026-02-18T14:51:19Z"}
+{"name":"rust-asm","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0827f16e88aeb19aa1741a783d07901e289cedb740e5d4f86a096de713817785","features":{"macros":[]},"yanked":false,"pubtime":"2026-02-19T05:06:42Z"}
