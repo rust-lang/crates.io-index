@@ -1,1 +1,2 @@
 {"name":"find-cargo-toml","vers":"1.0.0","deps":[],"cksum":"a569f721899c180b24afe704216742294ab7eec5d0eb91920774b19c7ae26b8a","features":{},"yanked":false,"pubtime":"2026-02-13T07:47:33Z"}
+{"name":"find-cargo-toml","vers":"1.0.1","deps":[{"name":"urlogger","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e4aecdcc6966b4dbcac42f1b6a656e9244de7fabf143ec04bf2e0595954cbec","features":{},"yanked":false,"pubtime":"2026-02-19T02:46:44Z"}
