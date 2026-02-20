@@ -1,2 +1,3 @@
 {"name":"lococode-core","vers":"0.1.0","deps":[],"cksum":"61a5092cc2defc0d91115cac75320cf5818d8ec70ef0152d68fd6bba69279870","features":{},"yanked":true,"pubtime":"2026-02-18T13:57:01Z"}
 {"name":"lococode-core","vers":"0.1.1","deps":[],"cksum":"c19bf90d97a56bab13043117e42492e9ef6340fa0c07168eabda149a4e6c6388","features":{},"yanked":false,"pubtime":"2026-02-18T14:01:04Z"}
+{"name":"lococode-core","vers":"0.1.2","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"e0cae2f15dd06370c92f9eac3416004b2cabffa77b4060c3b4651282a94cd926","features":{},"yanked":false,"pubtime":"2026-02-20T14:08:14Z"}
