@@ -2,3 +2,4 @@
 {"name":"pq-oid","vers":"0.0.5","deps":[],"cksum":"3034f2e901239b905e3aeb997fbc4cfa6d2def6f3c4f3fb40f8672d26729fe8d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-06T06:28:49Z"}
 {"name":"pq-oid","vers":"1.0.0","deps":[],"cksum":"daf0be6f165c2b1d6cb27dc5813974c881ef0ae136205a92c09061acdf4404fc","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-06T06:31:10Z"}
 {"name":"pq-oid","vers":"1.0.2","deps":[],"cksum":"80ecc2246e338ce0b7047b718c06ee8d85ddb489e36e9201c8723e2724cd0e46","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-06T07:11:31Z"}
+{"name":"pq-oid","vers":"1.0.3","deps":[],"cksum":"aa54346a93649b93f727b981acca16df7422f785f3d63fc90090dfb412b67b21","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-02-20T14:27:05Z"}
