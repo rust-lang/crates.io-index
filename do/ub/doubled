@@ -6,3 +6,4 @@
 {"name":"doubled","vers":"0.3.0","deps":[],"cksum":"78333bbc3495924fe144376cf24a5dc0c841e8965d046866196b4fc0bafa85fc","features":{"default":["simd"],"simd":[]},"yanked":false,"pubtime":"2022-08-08T11:47:53Z"}
 {"name":"doubled","vers":"0.3.1","deps":[],"cksum":"915ff59a16efb877bc011834c12107933acfb0a3aff79db0edf71a7e20c3c98b","features":{"default":["simd"],"simd":[]},"yanked":false,"pubtime":"2022-08-09T13:43:10Z"}
 {"name":"doubled","vers":"0.3.2","deps":[],"cksum":"8f60f472d90e6b0aa29ba7e63aef46fa5441a4a852d36d950648b5468adfe3a3","features":{"default":["simd"],"simd":[]},"yanked":false,"pubtime":"2024-01-01T06:05:58Z"}
+{"name":"doubled","vers":"0.3.3","deps":[],"cksum":"1dd32c7cc01b2799bf6ddb980f595b6235fb5ebdb7926b4010202663e9448ffd","features":{"default":["simd"],"enable_recsqrt_sp":[],"simd":[]},"yanked":false,"pubtime":"2026-02-21T06:52:40Z"}
