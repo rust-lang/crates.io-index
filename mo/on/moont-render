@@ -1,0 +1,1 @@
+{"name":"moont-render","vers":"0.8.3","deps":[{"name":"moont","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ab106bc447fb56187fdb741731d9f5fc29b44be73d73ffc298f3dc24f38b83a","features":{"bundle-rom":["moont/bundle-rom"],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-21T07:08:09Z"}
