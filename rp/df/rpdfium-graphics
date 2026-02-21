@@ -1,0 +1,1 @@
+{"name":"rpdfium-graphics","vers":"7676.6.0","deps":[{"name":"rpdfium-core","req":"^7676.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1f92b76b60522acc7f3feb3f5615b4232c604e06b48274e21dbd23d300bc24d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-21T10:43:55Z"}
