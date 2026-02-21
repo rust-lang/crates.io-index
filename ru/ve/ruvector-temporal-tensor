@@ -1,1 +1,2 @@
 {"name":"ruvector-temporal-tensor","vers":"2.0.1","deps":[],"cksum":"27153fede957ee4c9123c568fb0989e289b7d41e5105d18261a6e748da44eee7","features":{"default":[],"ffi":[],"persistence":[],"simd":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-02-08T16:44:30Z"}
+{"name":"ruvector-temporal-tensor","vers":"2.0.3","deps":[],"cksum":"9b6faa53f56a70fa2b0b17c2592fca4e03dfd86f4944d909995270fbef4734f7","features":{"default":[],"ffi":[],"persistence":[],"simd":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-02-21T18:07:48Z"}
