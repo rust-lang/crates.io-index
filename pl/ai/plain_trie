@@ -29,3 +29,4 @@
 {"name":"plain_trie","vers":"8.0.0","deps":[],"cksum":"b0153a4eb5b6576d35edddc2029f21dcf54f4391fb069bc976dfcad8e7f06f3b","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-03-25T19:32:28Z"}
 {"name":"plain_trie","vers":"8.0.1","deps":[],"cksum":"e5454532f5f63a208dfe8e5c224e6926cb17ffd5b03fec54cba6181604a7816c","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-03-25T19:44:30Z"}
 {"name":"plain_trie","vers":"8.0.2","deps":[],"cksum":"8e3411bb28a0abae36a74e84c94abf4e8f2d7d48a782aac51f4dcdbb1cca53c9","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-05-11T19:13:45Z"}
+{"name":"plain_trie","vers":"8.1.0","deps":[],"cksum":"cf711c129c0e0e53d2d536a27affadb910a74e71061457e96b48477b65e7fed8","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-02-22T20:16:27Z"}
