@@ -1,0 +1,1 @@
+{"name":"portit","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28","features":["events"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6513bad7d048ca81efe631bb2615b287469ca0a354834fcc70a50c1d3616cf5d","features":{},"yanked":false,"pubtime":"2026-02-22T16:49:32Z"}
