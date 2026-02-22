@@ -1,1 +1,2 @@
 {"name":"wiredef","vers":"0.1.0","deps":[],"cksum":"c1058f5f404f71b8f878836a0e41a7207860614aea71b62029ab072a1edb5b3d","features":{},"yanked":false,"pubtime":"2026-02-22T18:38:24Z"}
+{"name":"wiredef","vers":"0.1.1","deps":[{"name":"wiredef-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b05459ab77c2ef6b653e94f04aa15c39b6ad836a515ce035dec007d768b61f1","features":{},"yanked":false,"pubtime":"2026-02-22T18:44:04Z"}
