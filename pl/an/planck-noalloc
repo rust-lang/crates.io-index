@@ -1,1 +1,2 @@
 {"name":"planck-noalloc","vers":"0.1.0","deps":[],"cksum":"26db6dbed118ed3342531a39565d4b0eaf17770452d7f651af2fdea7eb4d0cc1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-22T07:03:42Z"}
+{"name":"planck-noalloc","vers":"0.1.1","deps":[],"cksum":"4c7a56e8ce7b18f76243e5b98405b43c1188277b08f96baa6940979cf0ad83d9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-22T07:34:02Z"}
