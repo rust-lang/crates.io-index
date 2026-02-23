@@ -2,3 +2,4 @@
 {"name":"ort-openrouter-cli","vers":"0.3.3","deps":[],"cksum":"44ce3b988e07c76d7ee4383585e2046297fcc4848de03a9117cd572e8998fd48","features":{"print-allocations":[]},"yanked":false,"pubtime":"2026-01-15T23:19:00Z"}
 {"name":"ort-openrouter-cli","vers":"0.3.4","deps":[],"cksum":"7197e8aed9b4740805b6ed0a38e23ad639f9cc95356292570f029e75bf44d53f","features":{"print-allocations":[]},"yanked":false,"pubtime":"2026-01-16T01:45:45Z"}
 {"name":"ort-openrouter-cli","vers":"0.4.1","deps":[],"cksum":"9ef3afa273ebc2238afa7dd31c9ce46119d366513747dea888f38066a978faee","features":{"print-allocations":[]},"yanked":false,"pubtime":"2026-02-15T17:43:19Z"}
+{"name":"ort-openrouter-cli","vers":"0.4.2","deps":[],"cksum":"986e8ca66217debf5c9cc443106e1a0f5c97941e9ffc62b89278d054c9563004","features":{"arena-alloc":[],"panic-on-realloc":[],"print-allocations":[]},"yanked":false,"pubtime":"2026-02-23T20:30:00Z"}
