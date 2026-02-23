@@ -16,3 +16,4 @@
 {"name":"etcd-bin-vendored-darwin-amd64","vers":"3.6.7","deps":[],"cksum":"766e936f1f3084cc43f8f26b897e022cf8b89d47611e1b78f377de70f41acbe8","features":{},"yanked":false,"pubtime":"2026-01-16T20:57:14Z"}
 {"name":"etcd-bin-vendored-darwin-amd64","vers":"3.4.40","deps":[],"cksum":"7afac1db6ef8fd809e50fd028472e25ed3d091d89c346c860bcc7b04331cdc25","features":{},"yanked":false,"pubtime":"2026-01-16T21:08:21Z"}
 {"name":"etcd-bin-vendored-darwin-amd64","vers":"3.5.26","deps":[],"cksum":"49688c5689933d7f77945e455045159e19e4317261e4448dfdafc5428fd8f4be","features":{},"yanked":false,"pubtime":"2026-01-16T21:10:02Z"}
+{"name":"etcd-bin-vendored-darwin-amd64","vers":"3.6.8","deps":[],"cksum":"f3ee78bcbd2037f03afcd2676f41dd48203f8c3008249fe3b4087d3c923809f4","features":{},"yanked":false,"pubtime":"2026-02-23T15:35:27Z"}
