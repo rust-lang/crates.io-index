@@ -13,3 +13,4 @@
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.6.7","deps":[],"cksum":"55c5b898e242554ab4df7135a2f1becd1df72d7eceec92006869c91b395eb2f6","features":{},"yanked":false,"pubtime":"2026-01-16T20:57:21Z"}
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.5.26","deps":[],"cksum":"e547626344e23f75e3f5b9eb01ab79dc33c5aa41c0b7b360eafa01c677e3c96a","features":{},"yanked":false,"pubtime":"2026-01-16T21:10:06Z"}
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.6.8","deps":[],"cksum":"6a97b18013d946cdb2b7d8403fabfa03d4d6f2562542c07171d39a2258791788","features":{},"yanked":false,"pubtime":"2026-02-23T15:35:33Z"}
+{"name":"etcd-bin-vendored-darwin-arm64","vers":"3.5.27","deps":[],"cksum":"caa6d687cb45d667c5b21c5b44fa7216c6051ee6c53451e753757fee048cb79a","features":{},"yanked":false,"pubtime":"2026-02-23T15:39:02Z"}
