@@ -1,1 +1,2 @@
 {"name":"safe-bump","vers":"0.1.0","deps":[],"cksum":"3bd17da8df374156f85ad13b553d6d975f5262af6892d13cabe64467e885d03f","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-02-23T12:11:01Z"}
+{"name":"safe-bump","vers":"0.2.0","deps":[{"name":"proptest","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32178bbb90694290448951d7e3dc81b838f9cc26b861d1603a5ec3694e790a71","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-02-23T16:17:58Z"}
