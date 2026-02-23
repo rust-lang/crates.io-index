@@ -2,3 +2,4 @@
 {"name":"pointer-types","vers":"0.2.0","deps":[],"cksum":"e2bee52f3d7f9e95a417baef23e2d35637e6ace925ad645d0f5e3ca8a26d9e6d","features":{},"yanked":true,"pubtime":"2022-04-29T03:15:34Z"}
 {"name":"pointer-types","vers":"0.2.1","deps":[],"cksum":"403508ccd4c15377cdeeffbc932e06361334d1a922671a8f355b7b6b8dd6e88e","features":{},"yanked":true,"pubtime":"2022-04-29T03:25:06Z"}
 {"name":"pointer-types","vers":"0.3.0","deps":[{"name":"keyboard-types","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e5e78a0f9cfefaa9a9c9015b2c5fd9dce3752439ab00ce7a434230d0f2d927c","features":{},"yanked":false,"pubtime":"2022-09-12T16:03:21Z"}
+{"name":"pointer-types","vers":"0.3.1","deps":[],"cksum":"9558119e58a3b3c5f8d7c165620c930607c04065086a9e1594cdd81e039c1ed5","features":{},"yanked":false,"pubtime":"2026-02-23T19:04:11Z"}
