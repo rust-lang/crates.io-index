@@ -1,2 +1,3 @@
 {"name":"stashmap","vers":"0.1.0","deps":[],"cksum":"5d4da06b68c566704b1826799dc19475e2033f86d5117ccf9957fb01bf7b34df","features":{},"yanked":false,"pubtime":"2026-02-17T04:58:08Z"}
 {"name":"stashmap","vers":"0.1.1","deps":[],"cksum":"f78413c442d901e476c2d069c46bbc4195169cca859ff05914969bf7aa4900df","features":{},"yanked":false,"pubtime":"2026-02-17T05:12:08Z"}
+{"name":"stashmap","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"940507c7935dbf8a352722ea45ffdf629fe135c18e14744abe4907875d145f2c","features":{},"yanked":false,"pubtime":"2026-02-24T18:13:25Z"}
