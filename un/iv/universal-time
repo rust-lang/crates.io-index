@@ -1,2 +1,3 @@
-{"name":"universal-time","vers":"0.0.0","deps":[],"cksum":"c6ff777b7ceee6a2e167cc574a3be957709d9fd4f595bcc78d28cbc200c91dd5","features":{},"yanked":false,"pubtime":"2026-02-23T14:42:18Z"}
+{"name":"universal-time","vers":"0.0.0","deps":[],"cksum":"c6ff777b7ceee6a2e167cc574a3be957709d9fd4f595bcc78d28cbc200c91dd5","features":{},"yanked":true,"pubtime":"2026-02-23T14:42:18Z"}
 {"name":"universal-time","vers":"0.1.0","deps":[],"cksum":"04980f4802b64a6ed5ab3afa07f062cd865b83a81d8667335d35a41be58ea488","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70.0","pubtime":"2026-02-23T15:25:21Z"}
+{"name":"universal-time","vers":"0.2.0","deps":[],"cksum":"2b35da41b69caac5d25e3eba1ca0b7e9ac859a23af369d2e36a37dbb7defbc93","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70.0","pubtime":"2026-02-24T09:12:31Z"}
