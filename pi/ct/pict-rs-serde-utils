@@ -1,0 +1,1 @@
+{"name":"pict-rs-serde-utils","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"594c788a6396f6d37e4dee3ab64be01a7e03bb5cb187e8a13e0d44fb3d6ab6be","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-02-24T22:06:19Z"}
