@@ -1,0 +1,1 @@
+{"name":"moxy","vers":"0.0.0","deps":[{"name":"moxy-derive","req":"^0.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b4202def1078ddc6d325ab1570aac6c60592cf80345aa4a247a398591178798","features":{"derive":["moxy-derive"]},"yanked":false,"pubtime":"2026-02-24T18:27:25Z"}
