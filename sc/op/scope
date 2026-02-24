@@ -1,3 +1,4 @@
 {"name":"scope","vers":"0.1.0","deps":[],"cksum":"4003df4cf6659fa5390bd7fad58993a2a912f5cd9862322d4edee75c23d318ce","features":{},"yanked":false,"pubtime":"2026-01-27T22:51:51Z"}
 {"name":"scope","vers":"0.1.1","deps":[],"cksum":"305e1fcbff7b5d8665ed1387d5229e1cdb496919b6b89d70a5a9c54d503cf954","features":{},"yanked":false,"pubtime":"2026-01-27T23:39:35Z"}
 {"name":"scope","vers":"0.1.2","deps":[{"name":"mio","req":"^1.1.1","features":["os-poll","net"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c36980634899e1c30e741de90af771f2f6b60abfdd931e102f6cf32d83bf466","features":{"default":[],"local_wake":[]},"features2":{"mio":["dep:mio"]},"yanked":false,"pubtime":"2026-02-10T00:10:43Z","v":2}
+{"name":"scope","vers":"0.1.3","deps":[],"cksum":"6d794a82dd94f37ada907cad68b2cbfcbceb2a1fb529820ed4320b0abafff913","features":{"default":[],"local_wake":[]},"yanked":false,"pubtime":"2026-02-24T10:04:24Z"}
