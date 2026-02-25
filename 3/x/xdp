@@ -8,3 +8,4 @@
 {"name":"xdp","vers":"0.7.0","deps":[],"cksum":"e5b07a8482a69822d750786b566d9728c9ed7aff0dca60c3e7b1162b95ad1dc7","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2025-03-11T07:00:14Z"}
 {"name":"xdp","vers":"0.7.1","deps":[],"cksum":"855057bf4a9d1ebf97492e12cf96c93c66b6c832c44c0e65541aea9a72ac475a","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2025-09-06T22:24:28Z"}
 {"name":"xdp","vers":"0.7.2","deps":[],"cksum":"20a4c3268639acafa7d26127e7e3adf88d20181f420f2942b376671e5f1568a0","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-06T11:24:27Z"}
+{"name":"xdp","vers":"0.7.3","deps":[],"cksum":"21a573b5aa423fecf27e2dc9c4009db67cd2f35718c2a859d7352ee3fe0d1780","features":{"__debug":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-25T09:07:35Z"}
