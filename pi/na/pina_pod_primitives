@@ -1,0 +1,1 @@
+{"name":"pina_pod_primitives","vers":"0.3.1","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9903abd5b6c3d38229153c82a56d5d2a73649cbda53b942184fb8ab68e4c069e","features":{},"yanked":false,"pubtime":"2026-02-25T10:08:37Z"}
