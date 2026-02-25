@@ -1,0 +1,1 @@
+{"name":"crous-simd","vers":"1.0.0","deps":[{"name":"crous-core","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2653925c74da85d33eaf6e4690efc815131dbe3142f44af90ae6a94ebc40596","features":{"default":[],"simd-varint":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-25T16:05:49Z"}
