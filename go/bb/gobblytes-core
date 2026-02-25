@@ -1,0 +1,1 @@
+{"name":"gobblytes-core","vers":"0.0.1-rc.2","deps":[{"name":"futures","req":"^0.3.31","features":["executor"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"dffdeb3d1c56b49c7c02e83b974a0d3b9401a82e68dee11b24232f660ec9b976","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-02-25T11:54:35Z"}
