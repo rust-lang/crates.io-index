@@ -1,0 +1,1 @@
+{"name":"slimvec","vers":"0.2.3","deps":[{"name":"impls","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e760351d7b4e5751c2c20bf774d3c698931dd4a32460b4762ee1a95e556cad87","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-25T13:12:59Z"}
