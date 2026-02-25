@@ -1,1 +1,2 @@
 {"name":"polymarket-kernel","vers":"0.1.0","deps":[],"cksum":"92573e0592a69ace638db1a786062f110470210155ee818ad139703339792032","features":{"default":[]},"yanked":false,"pubtime":"2026-02-25T00:30:57Z"}
+{"name":"polymarket-kernel","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"13773c0d9cb1b9ae4c4a941cd6a7f827b745319a102b4281d50bb6c5109350b8","features":{},"yanked":false,"pubtime":"2026-02-25T00:52:58Z"}
