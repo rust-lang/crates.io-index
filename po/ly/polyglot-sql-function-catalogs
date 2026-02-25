@@ -1,0 +1,1 @@
+{"name":"polyglot-sql-function-catalogs","vers":"0.1.8","deps":[],"cksum":"b91e487861b969c71eeca1f8f88801b4f24cca49e941e7ba18512ec5e54f3b5a","features":{"all-dialects":["dialect-clickhouse","dialect-duckdb"],"default":[],"dialect-clickhouse":[],"dialect-duckdb":[]},"yanked":false,"pubtime":"2026-02-25T10:24:14Z"}
