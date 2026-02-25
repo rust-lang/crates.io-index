@@ -1,0 +1,1 @@
+{"name":"mmlw","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.9","features":["tlhelp32","processthreadsapi","handleapi","winnt","minwindef","impl-default"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1534bdc8359a8c5900b4573d8f5c312f19a3e796dd145d8cf17191817966b0c","features":{},"yanked":false,"pubtime":"2026-02-25T21:08:59Z"}
