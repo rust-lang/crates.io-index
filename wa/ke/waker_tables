@@ -1,1 +1,2 @@
 {"name":"waker_tables","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9b9c18e752ab522f73c2c88bd4230815b5af94974ba041599810accb4ebe0c","features":{},"yanked":false,"pubtime":"2026-02-10T00:44:31Z"}
+{"name":"waker_tables","vers":"0.1.1","deps":[],"cksum":"af868b4265829acb462c13b6403a5ac836a03303032526384cf143fbf5333e13","features":{},"yanked":false,"pubtime":"2026-02-25T08:04:34Z"}
