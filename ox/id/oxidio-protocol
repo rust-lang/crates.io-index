@@ -1,0 +1,1 @@
+{"name":"oxidio-protocol","vers":"1.1.0-RC.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d9b449060a15aa089418ceaa990ca9f8e503bb7edd15aaabf54c69bfe2bcb09","features":{},"yanked":false,"pubtime":"2026-02-26T06:22:56Z"}
