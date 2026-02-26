@@ -6,3 +6,4 @@
 {"name":"zksync_os_evm_errors","vers":"0.0.11","deps":[],"cksum":"fd6e77b096bfae6422bb381a220380ddf96520069bfee532064ca6422b13e6f1","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-12-19T14:13:05Z"}
 {"name":"zksync_os_evm_errors","vers":"0.0.12","deps":[],"cksum":"9ae4ea1bad678f399c9c78cd2e05d53482818694c011da9a6d00153e84f3b02b","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-12-19T15:34:51Z"}
 {"name":"zksync_os_evm_errors","vers":"0.0.13","deps":[],"cksum":"8fea4915ff8302cbd66403de07518fe4025fbcacd3d3d1760cc03029e710586a","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-08T08:26:18Z"}
+{"name":"zksync_os_evm_errors","vers":"0.0.14","deps":[],"cksum":"d11a0784093ae6b84a29c91617f203264c31dd2cdb2c250a134f5209c1abf9f7","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-26T20:06:09Z"}
