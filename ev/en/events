@@ -42,3 +42,4 @@
 {"name":"events","vers":"0.5.0","deps":[],"cksum":"296ea6cdd448ac2a16fd59bd77edce4a1d1edf247303400a53c94da0bbeec227","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2025-11-09T19:27:25Z"}
 {"name":"events","vers":"0.5.1","deps":[],"cksum":"c96a326c2418f2fb5926ca2929dd6a0c07a3084aaf688e3fd4028a15e17a355b","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2025-11-10T11:57:42Z"}
 {"name":"events","vers":"0.5.2","deps":[],"cksum":"23854574ee7a7ad99654b36ec58a39e945a72dfaf6815e3131048e2b280cd621","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-02-11T16:28:11Z"}
+{"name":"events","vers":"0.5.3","deps":[],"cksum":"e6bae91ea65f8ffbd60528e75ba5c20c090f41c0a39e44cb938d8026e55850e6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-02-26T18:06:35Z"}
