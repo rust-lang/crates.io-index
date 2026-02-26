@@ -1,1 +1,2 @@
 {"name":"nvec","vers":"0.6.0","deps":[],"cksum":"4b3a872ce5450a4bde959919ab4e3f2940e6bb3bcf6c876e9d5bdfb46f9b18e2","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"],"unstable_docs":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-25T14:12:14Z"}
+{"name":"nvec","vers":"0.7.0","deps":[],"cksum":"3ffc22f760156791597166c80767336ef9dfbbb21a3fc54f24d7a4ae0cdc10c3","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"],"unstable_docs":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-26T11:17:29Z"}
