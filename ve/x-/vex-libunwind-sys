@@ -1,2 +1,3 @@
 {"name":"vex-libunwind-sys","vers":"0.1.0","deps":[],"cksum":"1eddc26a00312b0b53ee4df6574e4c09488c89361d3beb6f4cbe75267af32f50","features":{},"yanked":false,"pubtime":"2024-09-19T02:46:30Z"}
 {"name":"vex-libunwind-sys","vers":"0.1.1","deps":[],"cksum":"03d9beed7d21b083fd5bfdb1bebcafa539ba2584891e429f889dfa298cab858d","features":{},"yanked":false,"links":"unwind","rust_version":"1.85.0","pubtime":"2025-10-13T20:08:51Z"}
+{"name":"vex-libunwind-sys","vers":"0.1.3","deps":[],"cksum":"87390bdd4ade659ce88cc090492fecc5dfb0e74b00572e81a438a85bde44d814","features":{},"yanked":false,"links":"unwind","rust_version":"1.85.0","pubtime":"2026-02-26T04:43:59Z"}
