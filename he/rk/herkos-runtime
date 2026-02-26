@@ -1,0 +1,1 @@
+{"name":"herkos-runtime","vers":"0.1.0","deps":[{"name":"kani-verifier","req":"^0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec0d02b4aee34451f77a7254bb707dbe5bea396bba5ba75e4c16df64c1e587ce","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-02-26T19:09:09Z"}
