@@ -1,1 +1,2 @@
 {"name":"zingo_common_components","vers":"0.2.0","deps":[{"name":"zebra-chain","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b842ab061189fd4277f8773af2134b4949b82db8623deb86c315cb97bdfdcb","features":{"for_test":[]},"yanked":false,"pubtime":"2026-02-12T19:22:09Z"}
+{"name":"zingo_common_components","vers":"0.3.0","deps":[],"cksum":"b7ed7ebc771980a59ec5f208d5dcf40c010dce2b5d493164c9d2f7baa73e9284","features":{},"yanked":false,"pubtime":"2026-02-26T01:08:59Z"}
