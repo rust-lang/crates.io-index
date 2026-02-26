@@ -1,0 +1,1 @@
+{"name":"tracings","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["time","rt-multi-thread","process"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce67a01abc62c22a7b0537793019304aed84213a26a55870719fbfd4c9f5de63","features":{},"yanked":false,"pubtime":"2026-02-26T11:41:41Z"}
