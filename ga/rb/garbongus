@@ -1,0 +1,1 @@
+{"name":"garbongus","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee771d26cc201607d24e9b0051a9f2a49b400eb0711785dc4bc6fb119f3f0120","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-26T02:39:21Z"}
