@@ -5,3 +5,4 @@
 {"name":"octets","vers":"0.3.2","deps":[],"cksum":"cffde765a2e1ff94d65a81e3a52cc81ccb4012ffb2a3ff95a753c3978465e3fe","features":{"huffman_hpack":[]},"yanked":false,"pubtime":"2025-10-13T16:17:25Z"}
 {"name":"octets","vers":"0.3.3","deps":[],"cksum":"4df8e8352f73465f015867c7ab24d2c46511bb8148e7177fe823e88f4f1f9765","features":{"huffman_hpack":[]},"yanked":false,"pubtime":"2025-10-15T18:02:31Z"}
 {"name":"octets","vers":"0.3.4","deps":[],"cksum":"2ba5d98c13e549f6f26f7d70808688ab85c6b42eb350ba2524d96c24ebde27e9","features":{"huffman_hpack":[]},"yanked":false,"pubtime":"2025-12-05T14:09:21Z"}
+{"name":"octets","vers":"0.3.5","deps":[],"cksum":"8311fa8ab7a57759b4ff1f851a3048d9ef0effaa0130726426b742d26d8a88e7","features":{"huffman_hpack":[]},"yanked":false,"pubtime":"2026-02-27T01:58:12Z"}
