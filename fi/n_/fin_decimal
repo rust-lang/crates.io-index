@@ -1,0 +1,1 @@
+{"name":"fin_decimal","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2ff81b03e677843adc087fdf0905c91ec256ffadf5125f09465b255e31c7eeb1","features":{"asm":[],"default":[],"full-quickcheck":[],"noasm":[],"unstable":[]},"yanked":false,"pubtime":"2026-02-27T07:08:50Z"}
