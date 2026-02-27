@@ -1,0 +1,1 @@
+{"name":"invars","vers":"0.0.1","deps":[{"name":"polars","req":"^0.53","features":["lazy"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c95101c1f2fd75623fff857932f62d3b3703161d4b2d44031d3e9df15c3b383","features":{"default":[]},"features2":{"polars":["dep:polars"]},"yanked":false,"pubtime":"2026-02-27T15:00:51Z","v":2}
