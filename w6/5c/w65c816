@@ -13,3 +13,4 @@
 {"name":"w65c816","vers":"0.1.12","deps":[],"cksum":"8898318885b1c54f19c1565357bb6a56d1017fdb042a93c6040d22f9f44c9b67","features":{"default":["nightly"],"nightly":[]},"yanked":false,"pubtime":"2024-04-04T19:51:08Z"}
 {"name":"w65c816","vers":"0.1.13","deps":[],"cksum":"1ed1ca6628f3eea82a62625cb18a8b89af8cfa6ffde5b674cbf058b03bf164f4","features":{"default":["nightly"],"nightly":[]},"yanked":false,"pubtime":"2024-04-08T12:34:27Z"}
 {"name":"w65c816","vers":"0.1.14","deps":[],"cksum":"89ca7619c2415158633f1f556d40e5d76203ef0d4cd3cad730831e7ee3473ebe","features":{"default":[],"nightly":[]},"yanked":false,"pubtime":"2024-05-03T19:56:06Z"}
+{"name":"w65c816","vers":"0.1.15","deps":[],"cksum":"3ae745cd87f392206423428c3bf04745efc78cba997d439cc9a83b06fa882b88","features":{"default":[],"nightly":[]},"yanked":false,"pubtime":"2026-02-27T23:33:28Z"}
