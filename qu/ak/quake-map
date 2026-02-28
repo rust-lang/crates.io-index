@@ -1,0 +1,1 @@
+{"name":"quake-map","vers":"0.5.0","deps":[{"name":"benchmarking","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8d7a25c9b52482a4bff415866cc231d676ba1aeba691a2c14dc6598954eac9e","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-28T17:35:14Z"}
