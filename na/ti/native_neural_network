@@ -10,3 +10,4 @@
 {"name":"native_neural_network","vers":"0.2.0","deps":[],"cksum":"afad69b10bda78433ed1c8666d4a7be06a0423810a5973a125bcaa2d43e5c9b8","features":{},"yanked":false,"pubtime":"2026-02-26T02:42:33Z"}
 {"name":"native_neural_network","vers":"0.2.1","deps":[],"cksum":"bb1af93f9bc751a410a1b11cfb7b3f20a1fcefcc4ab1b3849b6984989d5f04bd","features":{},"yanked":false,"pubtime":"2026-02-28T02:32:53Z"}
 {"name":"native_neural_network","vers":"0.2.2","deps":[],"cksum":"ca7f6932730e61d97c2d49c973b0e455cc0154873b853e8bc693a6f09cb3c8a6","features":{},"yanked":false,"pubtime":"2026-02-28T04:49:53Z"}
+{"name":"native_neural_network","vers":"0.2.3","deps":[{"name":"native_neural_network","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d86d6eef3770e55315c3da90d0e00c62afaf1ad5bbd235e5e20d26d440607b3","features":{"default":[]},"yanked":false,"pubtime":"2026-02-28T04:59:59Z"}
