@@ -1,0 +1,1 @@
+{"name":"nexis_wasm_plugin","vers":"0.1.4","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4070d98269e74b300f5c8d1080fcd40bde94634fd8a2ec42b59ad457df0a283","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-02-28T14:11:50Z"}
