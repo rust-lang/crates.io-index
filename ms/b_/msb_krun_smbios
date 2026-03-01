@@ -1,0 +1,1 @@
+{"name":"msb_krun_smbios","vers":"0.1.0","deps":[{"name":"vm-memory","req":">=0.13","features":["backend-mmap"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ed3fb8fa788bb5e2ba89d7f6091966be245e864339f762e074fe7cec57fa21a","features":{},"yanked":false,"pubtime":"2026-03-01T08:39:54Z"}
