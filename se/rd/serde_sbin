@@ -1,0 +1,1 @@
+{"name":"serde_sbin","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d40972803586928cdb2726ac7ef8c3fdd2afa8a0e62ce24c84bd1ad52615e7b5","features":{},"yanked":false,"pubtime":"2026-03-01T02:18:54Z"}
