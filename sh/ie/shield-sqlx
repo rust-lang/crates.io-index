@@ -2,3 +2,4 @@
 {"name":"shield-sqlx","vers":"0.0.4","deps":[{"name":"shield","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05c463fea2a2aef38ab92065a0adaae59e3d9e985d3bf2a9e9b924ab8abc0497","features":{},"yanked":false,"pubtime":"2024-12-29T19:11:19Z"}
 {"name":"shield-sqlx","vers":"0.1.0","deps":[],"cksum":"2935b51cd8a0736646d25aff1d622aa95c2cee0ab6435d9b9c46aa46dcc7e0c4","features":{},"yanked":false,"pubtime":"2025-10-11T13:30:12Z"}
 {"name":"shield-sqlx","vers":"0.2.1","deps":[],"cksum":"d9f1799ed1c5ff2784ab19a70d2e427afe8232f5214ea464cc36cf3fad63acd2","features":{},"yanked":false,"pubtime":"2026-03-13T10:55:20Z"}
+{"name":"shield-sqlx","vers":"0.2.2","deps":[],"cksum":"5f8e029e5bfb1f176c3e0e43d1141cbde7ba08e29b4bfdbc92ed62d2395d90cf","features":{},"yanked":false,"pubtime":"2026-03-13T11:49:43Z"}
