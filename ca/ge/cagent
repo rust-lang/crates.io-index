@@ -1,0 +1,1 @@
+{"name":"cagent","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"385c9a659e4002e5f1073326cd5e2ad549529991125deedba046e73e920f9185","features":{},"yanked":false,"pubtime":"2026-03-01T06:38:57Z"}

@@ -1,0 +1,1 @@
+{"name":"rust_smtp_utils","vers":"0.1.0","deps":[{"name":"lettre","req":"^0.11","features":["tokio1-native-tls","native-tls","builder","smtp-transport","serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c584a2bf1679a715daadfdd521be43c7fbc0076828c453ccdda6f3668c3c165c","features":{},"yanked":false,"pubtime":"2026-02-07T19:02:30Z"}

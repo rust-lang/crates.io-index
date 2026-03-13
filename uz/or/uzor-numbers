@@ -1,0 +1,1 @@
+{"name":"uzor-numbers","vers":"1.0.3","deps":[{"name":"uzor-animation","req":"^1.0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42763c3d051e74f5aa8f7c95d02bc5c5f62a6ec2e61551f658faa83a75fbddec","features":{"animation":["uzor-animation"],"default":["animation"]},"yanked":false,"pubtime":"2026-03-06T10:18:58Z"}

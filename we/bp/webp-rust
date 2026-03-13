@@ -1,0 +1,1 @@
+{"name":"webp-rust","vers":"0.1.0","deps":[{"name":"bin-rs","req":"^0.0.10","features":["stream","util"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10605ae2d0e65c84e58d45ea0af153710d27c625e51729ffd9ea56c3a97b2ce9","features":{},"yanked":false,"pubtime":"2026-03-13T00:14:54Z"}

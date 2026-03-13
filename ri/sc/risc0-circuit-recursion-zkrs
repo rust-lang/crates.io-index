@@ -1,0 +1,1 @@
+{"name":"risc0-circuit-recursion-zkrs","vers":"5.0.0-rc.1","deps":[{"name":"liblzma","req":"^0.4","features":["static"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"648dc0d003eefa4b1eebb9dce75fad4f7f62f107391f3bf525b8fd7380ae61fd","features":{},"yanked":false,"pubtime":"2026-01-14T22:33:34Z"}

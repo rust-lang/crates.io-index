@@ -1,0 +1,3 @@
+{"name":"gfx_types","vers":"0.1.0","deps":[],"cksum":"d3713a858c543f1c383cc9e38e4611c11a95fd48899b698fbe7e7bfef0ac5ae2","features":{"default":[]},"yanked":false,"pubtime":"2026-01-02T17:04:19Z"}
+{"name":"gfx_types","vers":"0.1.1","deps":[],"cksum":"d999311f1142a4b1ea858d811200979b9357b0c5bed0d91dfdba6d745127cde9","features":{"default":[]},"yanked":false,"pubtime":"2026-01-02T21:02:52Z"}
+{"name":"gfx_types","vers":"0.2.0","deps":[{"name":"rdsmath","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55bf4f6a9c2058b6b51009658ebe6bc5e3cd4895eda7ffd03729e3e9cdeb712d","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-01-03T05:50:19Z"}

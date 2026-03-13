@@ -1,0 +1,1 @@
+{"name":"cinter","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10.0","features":["std","thread_rng"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"f1c3b760f928a9eadfdf1b0d1036006262e1f76295341183eb361bcab8675240","features":{},"yanked":false,"pubtime":"2026-03-05T18:30:57Z"}

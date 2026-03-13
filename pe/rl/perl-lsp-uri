@@ -1,0 +1,1 @@
+{"name":"perl-lsp-uri","vers":"0.11.0","deps":[{"name":"lsp-types","req":"^0.97.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa5db8acaa0efc110d6e61da3040d5182ca3f8d09e25320f6601067bf7424bc2","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T04:22:48Z"}

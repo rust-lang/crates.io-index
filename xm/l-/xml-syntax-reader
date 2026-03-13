@@ -1,0 +1,1 @@
+{"name":"xml-syntax-reader","vers":"0.1.0","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"73e75d69423cd0cb2aa1988112d367f7674c3b265899e003d4baa9cfae5d7480","features":{"default":["std"],"std":["memchr/std"]},"yanked":false,"pubtime":"2026-03-03T02:23:58Z"}

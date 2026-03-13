@@ -1,0 +1,1 @@
+{"name":"enya-build-tools","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b2b55c3445d30b17f670ee4f5fb9057c3e1e8efeb884b1ee3dedfef1c28424f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-03-06T11:31:23Z"}

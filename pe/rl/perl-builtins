@@ -1,0 +1,1 @@
+{"name":"perl-builtins","vers":"0.11.0","deps":[{"name":"perl-builtins-phf","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cad719bf14ed1e28bab6665f7cef46bf39738fe5be66984ff394fba23cc1bc0c","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-12T10:41:46Z"}

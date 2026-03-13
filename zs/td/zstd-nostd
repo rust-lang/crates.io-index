@@ -1,0 +1,1 @@
+{"name":"zstd-nostd","vers":"0.1.0","deps":[{"name":"ruzstd","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4f3b2aa8a0e575b116d3b91ef6c8347c6a3b9944c97a888e08e0dbe3f19cb92","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-08T16:10:18Z"}

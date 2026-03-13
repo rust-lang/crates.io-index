@@ -1,0 +1,1 @@
+{"name":"falsehoods","vers":"1.0.0","deps":[{"name":"rstest","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"407b624a421e6705074d9fcc6c21aa475b9fb5754281249612a69f9d5232d33a","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-23T03:47:37Z"}

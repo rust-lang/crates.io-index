@@ -1,0 +1,2 @@
+{"name":"growl","vers":"0.3.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"37d875ce6d71f76463a1b9e7ad7ad21d4a858e24c6ab69c09ae4ae9291619ef5","features":{},"yanked":false,"pubtime":"2026-02-17T21:14:52Z"}
+{"name":"growl","vers":"0.4.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"834c8a9da304bcaaa0abac88e8887e1255d8d2ba0e36f50ccffc74a06b19130e","features":{},"yanked":false,"pubtime":"2026-03-01T18:00:32Z"}

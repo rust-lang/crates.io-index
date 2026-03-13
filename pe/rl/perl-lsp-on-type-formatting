@@ -1,0 +1,1 @@
+{"name":"perl-lsp-on-type-formatting","vers":"0.11.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aff123e33f208054e1e6c72de15eadb5e5a9571e8d9cf3d6b8c4e7641a73494","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T03:57:01Z"}

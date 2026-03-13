@@ -1,0 +1,15 @@
+{"name":"interface-rs","vers":"0.0.1","deps":[],"cksum":"d9d9d1289533fcab5b5c4813cf8531262bc9a09d7201b8240525820aff4080a2","features":{},"yanked":false,"pubtime":"2024-08-24T04:36:01Z"}
+{"name":"interface-rs","vers":"0.1.0","deps":[],"cksum":"50e273d96eac424cb290c96d1827da762f413ea42b2acf913eeeffaed5fd1b89","features":{},"yanked":false,"pubtime":"2024-11-13T03:32:50Z"}
+{"name":"interface-rs","vers":"0.1.1","deps":[],"cksum":"571bf5b473ff2f6525aa203a2f934cf6682353e26f0c0147ababacd91347236c","features":{},"yanked":false,"pubtime":"2024-11-13T03:39:30Z"}
+{"name":"interface-rs","vers":"0.2.0","deps":[],"cksum":"83b6cf0f39f5bdd1b6a71051811a56612087d76647f172844b965ac436cb9041","features":{},"yanked":false,"pubtime":"2024-11-13T04:52:52Z"}
+{"name":"interface-rs","vers":"0.2.1","deps":[],"cksum":"7404c5c2e7e422aac3070b3b9f9de4e102db37c00b430796a71f7b37cdfbbb6f","features":{},"yanked":false,"pubtime":"2024-11-14T04:37:17Z"}
+{"name":"interface-rs","vers":"0.2.2","deps":[],"cksum":"ddf1b8dcc9f2dd36e68302499405dc707eee3753583f70c10f3e96239d9e18df","features":{},"yanked":false,"pubtime":"2024-11-14T05:28:55Z"}
+{"name":"interface-rs","vers":"0.2.3","deps":[],"cksum":"93d2ff6fc1d2745188575b38bb483693a220ea839dce74493261a22a985af78e","features":{},"yanked":false,"pubtime":"2024-11-14T06:04:43Z"}
+{"name":"interface-rs","vers":"0.2.4","deps":[],"cksum":"e8da655ce684a3dd8f6dba756a28c809102e5babb7d633af0a493dd0a527c7a0","features":{},"yanked":false,"pubtime":"2024-11-19T02:55:08Z"}
+{"name":"interface-rs","vers":"0.2.5","deps":[],"cksum":"03701f6aa183bf4590fc4fb00c1be0154ab74a6eddb2929607a616908ca5df31","features":{},"yanked":false,"pubtime":"2024-11-19T03:13:42Z"}
+{"name":"interface-rs","vers":"0.2.6","deps":[],"cksum":"70d69ea22056ef122fba53960aaf7a9b66c75d4d5afae8c5d70dbf4e1f4daf93","features":{},"yanked":false,"pubtime":"2024-11-19T05:01:44Z"}
+{"name":"interface-rs","vers":"0.2.7","deps":[{"name":"natord","req":"^1.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dbda9b07a8067d2f5cfc644a3eacbec908d73faf0f32b3097ca2c85c25f7fb8","features":{},"yanked":false,"pubtime":"2024-11-19T06:38:35Z"}
+{"name":"interface-rs","vers":"0.2.8","deps":[],"cksum":"f0cc27cfadea978a3880e4da4468faa6b01139f39a1dadfcb86bdad6aca9753b","features":{},"yanked":false,"pubtime":"2024-11-19T06:50:13Z"}
+{"name":"interface-rs","vers":"0.2.9","deps":[],"cksum":"8448a4da95181f2670facd33ec1c11405c41b98159995246316cafbddb9d23e7","features":{},"yanked":false,"pubtime":"2024-11-20T05:50:48Z"}
+{"name":"interface-rs","vers":"0.2.10","deps":[],"cksum":"dea37e9796cc82299a72c8b1a125846fab295ca918280ed728d49a9e54482901","features":{},"yanked":false,"pubtime":"2024-11-20T07:16:42Z"}
+{"name":"interface-rs","vers":"0.3.0","deps":[],"cksum":"1761a3200a1ef2857f5d200d27bc197469b59a0362763ecad9ee1bf8a4200b4c","features":{},"yanked":false,"pubtime":"2026-01-15T06:14:27Z"}

@@ -1,0 +1,5 @@
+{"name":"allium-parser","vers":"0.1.0","deps":[],"cksum":"c9ea37097fffaf9fc5c840c98ae0dccc109a244050a4bc78368f361af5fc7af2","features":{},"yanked":false,"pubtime":"2026-02-26T12:08:48Z"}
+{"name":"allium-parser","vers":"0.1.4","deps":[],"cksum":"4d26c4409584cfcffbe92e776b5854e6e56c71b4fd9885385bf3c94138a4cdf4","features":{},"yanked":false,"pubtime":"2026-02-26T14:02:18Z"}
+{"name":"allium-parser","vers":"0.1.8","deps":[],"cksum":"80623ef5da70386c195129476336aa0cf43b62edcc268c7c052132547c209059","features":{},"yanked":false,"pubtime":"2026-02-28T16:44:15Z"}
+{"name":"allium-parser","vers":"1.0.0","deps":[],"cksum":"9280132ad911d58cb0aef5e255bc3870507f196067de75ee007382199d7d9f4b","features":{},"yanked":false,"pubtime":"2026-03-01T15:55:05Z"}
+{"name":"allium-parser","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7588fb6df63949b2dd4a8e50e2b2c9cbb540dbab5105440bbaa127a127bcbd6e","features":{},"yanked":false,"pubtime":"2026-03-05T14:42:19Z"}

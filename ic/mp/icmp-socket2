@@ -1,0 +1,1 @@
+{"name":"icmp-socket2","vers":"0.4.1","deps":[{"name":"socket2","req":"^0.6","features":["all"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4a72abd00afc496b7dc6a0cb275c19c669da9d0c2ee5d4c2570a8a67b83b53f","features":{},"yanked":false,"pubtime":"2026-03-03T15:50:20Z"}

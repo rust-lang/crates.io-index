@@ -1,0 +1,1 @@
+{"name":"sstr","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5ebe5a293679f5d7ab5dea86398f78b31b0798ea29b28bf20b5cebb215d0a0b2","features":{},"yanked":false,"pubtime":"2026-03-09T17:01:34Z"}

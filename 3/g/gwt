@@ -1,0 +1,2 @@
+{"name":"gwt","vers":"0.1.1","deps":[{"name":"pyo3","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa218fecc9f59cd13ddbe56f018e247b528b120f9dc71329af8cd3bd710c76f3","features":{},"yanked":false,"pubtime":"2026-01-05T22:39:46Z"}
+{"name":"gwt","vers":"0.1.2","deps":[{"name":"pyo3","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7da176ec3a962f265fa58ae4b4e5f4c1f3e8419cdaf85cc20aa00811b89fbab","features":{},"yanked":false,"pubtime":"2026-01-05T22:41:36Z"}

@@ -1,0 +1,1 @@
+{"name":"perl-module-token-core","vers":"0.11.0","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6931c3ebd1ee232b430e001d07b1dbea9cb81ff78203bdd83a09c44195773698","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T04:48:41Z"}

@@ -1,0 +1,1 @@
+{"name":"rushdown-diagram","vers":"0.9.0","deps":[{"name":"rushdown","req":"^0.9.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a4429cd0b40e27d16f41f0ede8b151dc2718e4daeabdb57655c37dc006274165","features":{"default":["std"],"std":["rushdown/default"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-03-12T07:56:24Z"}

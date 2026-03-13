@@ -1,0 +1,6 @@
+{"name":"simple_rng","vers":"0.1.0","deps":[],"cksum":"4253616afdd23d25643feb7f6db5d695a63b1365bad1f28690b7175f05bb0322","features":{},"yanked":false,"pubtime":"2026-01-06T00:07:17Z"}
+{"name":"simple_rng","vers":"0.2.0","deps":[],"cksum":"b32b4c03ab6411f63310b8f6250daf06d4cbda5b8b9135e7c8a201cf8ce45514","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-06T23:38:08Z"}
+{"name":"simple_rng","vers":"0.2.1","deps":[],"cksum":"7f70fd02cd651d9fda655a5199d8f82f2c408523ea53a9acc2dbcd12780f911b","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-06T23:46:00Z"}
+{"name":"simple_rng","vers":"0.3.0","deps":[],"cksum":"26aa9eefc002082f7293572c59af45b69881a61578547eed3fd7b2da1cd89da5","features":{"default":["std"],"pcg":[],"std":[]},"yanked":false,"pubtime":"2026-01-07T23:25:37Z"}
+{"name":"simple_rng","vers":"0.3.1","deps":[],"cksum":"4b037606f824e93d7ae2c8993560dcbf27d2320cdefc6cec23474f459143bee3","features":{"default":["std"],"pcg":[],"std":[]},"yanked":false,"pubtime":"2026-01-08T23:46:53Z"}
+{"name":"simple_rng","vers":"0.4.0","deps":[],"cksum":"90ba8dc3288b59018982db07b14c6de23fa1da8de2c95f310b6517f393aa2df8","features":{"default":["std"],"pcg":[],"std":[]},"yanked":false,"pubtime":"2026-01-12T23:34:31Z"}

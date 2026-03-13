@@ -1,0 +1,1 @@
+{"name":"perl-percentile","vers":"0.11.0","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aaf313998b25be3a0e0331dd9eca22388d19568f6a452ea66e4c440b1259a2fe","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T05:45:24Z"}

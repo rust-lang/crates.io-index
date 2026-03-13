@@ -1,0 +1,4 @@
+{"name":"thin-cell","vers":"0.1.0","deps":[],"cksum":"c87099558e948b05ad95beade0c67e50d6fc37213cbd6f92702ba430ae7c464a","features":{},"yanked":false,"pubtime":"2026-01-09T14:18:19Z"}
+{"name":"thin-cell","vers":"0.1.1","deps":[],"cksum":"34102afbfbb3b193ef5ff863e0baa5e764a64e2410c2e3cb8f6e068e1c042c3a","features":{},"yanked":false,"pubtime":"2026-01-10T17:06:29Z"}
+{"name":"thin-cell","vers":"0.1.2","deps":[],"cksum":"4164c6c316ba9733b0ab021e7f9852c788a4b991b49c25820f1be48e1d41345b","features":{},"yanked":false,"pubtime":"2026-01-11T16:32:16Z"}
+{"name":"thin-cell","vers":"0.2.0","deps":[{"name":"synchrony","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aa3372b7ae046fe560e0b4bc1312f5ad17adaea11a1cf45d5ca30664e3e50f1","features":{},"yanked":false,"pubtime":"2026-03-06T06:43:51Z"}

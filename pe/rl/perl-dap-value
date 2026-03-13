@@ -1,0 +1,1 @@
+{"name":"perl-dap-value","vers":"0.11.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e74f09d3dcf91293ad8c00889190bd391923a755a3a6c167c386ae7a8522d91","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-12T18:54:44Z"}

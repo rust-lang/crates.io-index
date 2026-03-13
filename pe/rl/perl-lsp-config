@@ -1,0 +1,1 @@
+{"name":"perl-lsp-config","vers":"0.11.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cedfaed4cfeccc3712707084e97ceba9e1c3655559c321d3916a67a954319847","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-12T19:30:28Z"}

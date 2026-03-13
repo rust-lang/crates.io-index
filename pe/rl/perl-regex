@@ -1,0 +1,1 @@
+{"name":"perl-regex","vers":"0.11.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"359ac635b99b05353292a56c00302834ddbb6c7131db7b413df71102e851b8e7","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T06:21:33Z"}

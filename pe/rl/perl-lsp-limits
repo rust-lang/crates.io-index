@@ -1,0 +1,1 @@
+{"name":"perl-lsp-limits","vers":"0.11.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1a86916658622b3e85a467f4fa3849e5cdfe4a4a7a715ad5a6d8c4d26f84c0f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T03:51:48Z"}

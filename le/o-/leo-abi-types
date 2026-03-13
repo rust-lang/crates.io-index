@@ -1,0 +1,1 @@
+{"name":"leo-abi-types","vers":"3.5.0","deps":[{"name":"serde","req":"^1.0","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"524172dcc1e3d9721ea00a2d5e478ccc9a211fb246ceacdd910bc0e564f5bb9f","features":{},"yanked":false,"pubtime":"2026-03-09T17:51:41Z"}

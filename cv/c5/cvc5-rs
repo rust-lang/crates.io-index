@@ -1,0 +1,1 @@
+{"name":"cvc5-rs","vers":"0.1.0","deps":[{"name":"cvc5-sys","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"217d4553ebaa28207a86cfc1122beab5c507e79c7c4b2a7a391b865dc6c7b654","features":{"parser":["cvc5-sys/parser"]},"yanked":false,"pubtime":"2026-03-12T22:18:15Z"}

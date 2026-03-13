@@ -1,0 +1,1 @@
+{"name":"kenobi-core","vers":"0.1.0","deps":[{"name":"native-tls","req":"^0.2.18","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cf5feb499159d5e0a8bb139fd8d5c3077ad29f3562c0389f29c2f2920322cab","features":{},"features2":{"native-tls":["dep:native-tls"]},"yanked":false,"pubtime":"2026-03-04T10:40:27Z","v":2}

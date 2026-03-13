@@ -1,0 +1,1 @@
+{"name":"keetanetwork-utils","vers":"0.1.0","deps":[{"name":"rasn-compiler","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a11e4973e032dd9e1265ed11862404526b1543ef698589208f5dd1821a0961e8","features":{"default":[]},"features2":{"build":["dep:rasn-compiler"]},"yanked":false,"pubtime":"2026-01-30T17:47:38Z","v":2}

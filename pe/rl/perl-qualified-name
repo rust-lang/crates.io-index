@@ -1,0 +1,1 @@
+{"name":"perl-qualified-name","vers":"0.11.0","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"591576533af5d88a61adaa25c368d499a235b13d4f4c93269202954c47bde39b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-13T06:11:11Z"}

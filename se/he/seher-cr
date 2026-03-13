@@ -1,0 +1,1 @@
+{"name":"seher-cr","vers":"0.1.2","deps":[{"name":"tokio","req":"^1.50.0","features":["rt","macros","process","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"394b84dd2e8ae44657ea13f3ada0665a8c1c7a2b0657c0adcacb1f0210b770ed","features":{},"yanked":false,"pubtime":"2026-03-07T18:52:46Z"}

@@ -1,0 +1,1 @@
+{"name":"opus-head-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b6f32eb0072e6c78ce931497c84f67ab4f7ad40f9888121d176e3dce7b7db194","features":{"default":["dnn","fast-math"],"dnn":[],"fast-math":[]},"yanked":false,"links":"opus","pubtime":"2026-02-01T16:24:52Z"}
