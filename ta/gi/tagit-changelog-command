@@ -1,0 +1,1 @@
+{"name":"tagit-changelog-command","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"414e419647380ac00c71f1a3d3d16506d6e07b39a2084f4ce537ca7ea7a36ca4","features":{},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-03-13T23:07:18Z"}
