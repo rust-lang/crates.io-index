@@ -1,0 +1,1 @@
+{"name":"scoped_static_storage","vers":"0.1.0","deps":[{"name":"bevy_platform","req":"^0.18.1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"88200b4a6b390e0277a493f63e62826519d68326b0f50d25040b1ef8e85020ce","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-03-13T22:13:10Z"}
