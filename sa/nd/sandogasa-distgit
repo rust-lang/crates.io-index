@@ -1,0 +1,1 @@
+{"name":"sandogasa-distgit","vers":"0.3.1","deps":[{"name":"reqwest","req":"^0.12","features":["json","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4958719bf3cc55b8058ac552936ebf450303cb175e0ae3be5fc9772ce244873a","features":{},"yanked":false,"pubtime":"2026-03-13T11:47:08Z"}
