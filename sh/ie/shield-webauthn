@@ -2,3 +2,4 @@
 {"name":"shield-webauthn","vers":"0.0.4","deps":[{"name":"shield","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee902730cda340c50ec62ba446d6ccf8aaeca6fcff6252ff551e97a597921ef3","features":{},"yanked":false,"pubtime":"2024-12-29T19:10:52Z"}
 {"name":"shield-webauthn","vers":"0.1.0","deps":[],"cksum":"f49ddc34e172a31831f363af30ae26b97534ee2b8b9c434e5e3c47cea60e94a8","features":{},"yanked":false,"pubtime":"2025-10-11T13:30:03Z"}
 {"name":"shield-webauthn","vers":"0.2.1","deps":[],"cksum":"564a3465fc0644664e06acb950bf4ec7615bdc303f95f80d585b27aca9e2d88c","features":{},"yanked":false,"pubtime":"2026-03-13T10:55:17Z"}
+{"name":"shield-webauthn","vers":"0.2.2","deps":[],"cksum":"f6d79a9a073468d54afa35092b35792bb7ab3582994904d5058acfbd4bae422c","features":{},"yanked":false,"pubtime":"2026-03-13T11:49:39Z"}
