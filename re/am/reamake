@@ -1,1 +1,2 @@
 {"name":"reamake","vers":"0.1.0","deps":[],"cksum":"0f86371f7794dda16d0fda49cb60461d4ed8e7818ee89d1ead8f31a0fcf01f48","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-03-14T11:40:17Z"}
+{"name":"reamake","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c6b24c16d933082ef109dda3a180168b0014173452247ed347f20e44c230e9a","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-03-14T19:05:56Z"}
