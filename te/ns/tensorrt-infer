@@ -1,0 +1,1 @@
+{"name":"tensorrt-infer","vers":"0.1.0","deps":[{"name":"tensorrt-infer-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae77324aabd35167c064c0f4053643639ffd7ec0c685ed5f8e714d54047e4b0","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-03-14T17:14:50Z"}
