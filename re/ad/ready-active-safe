@@ -1,0 +1,1 @@
+{"name":"ready-active-safe","vers":"0.1.0","deps":[],"cksum":"d0151e1d3b5640bd97517140b5081543b5b9204013c9a7b274ae12ecf3ba185f","features":{"default":["full"],"full":["std","runtime","time","journal"],"journal":["std"],"runtime":["std"],"std":[],"time":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-03-14T16:48:46Z"}
