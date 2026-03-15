@@ -1,0 +1,1 @@
+{"name":"dioxus-nox-virtualize","vers":"0.13.0","deps":[{"name":"dioxus","req":"=0.7.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f74115b8d43148320580bc90448184459f7e25811ead6c456e082814c6e9c4ef","features":{},"features2":{"hooks":["dep:dioxus"]},"yanked":false,"pubtime":"2026-03-15T23:20:25Z","v":2}
