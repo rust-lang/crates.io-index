@@ -1,0 +1,1 @@
+{"name":"dioxus-nox-suggest","vers":"0.13.0","deps":[{"name":"dioxus","req":"=0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8873fb2977d83b1206decf704cdcaa9077c542efec332fdc7f1d9c61b4696951","features":{"default":["web"],"desktop":[],"mobile":[],"web":[]},"yanked":false,"pubtime":"2026-03-15T23:20:44Z"}
