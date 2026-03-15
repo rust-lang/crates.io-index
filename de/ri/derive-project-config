@@ -1,0 +1,1 @@
+{"name":"derive-project-config","vers":"0.1.0","deps":[{"name":"toml","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ba63c1c1736ef1b1b851d7fa8d8d31e136f1eb6cc7ef207899e844416d43c9c","features":{},"yanked":false,"rust_version":"1.78.0","pubtime":"2026-03-15T11:13:14Z"}
