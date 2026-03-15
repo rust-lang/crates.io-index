@@ -1,0 +1,1 @@
+{"name":"much","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1724a8103ef9fb56cba09ac5a0da4f48f88654a3cb9b30c30681f6a6a0788179","features":{"default":[]},"features2":{"ndarray":["dep:ndarray"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-15T15:08:47Z","v":2}
