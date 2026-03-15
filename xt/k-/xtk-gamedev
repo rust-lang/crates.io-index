@@ -1,0 +1,1 @@
+{"name":"xtk-gamedev","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"165ce6d6c6b47703d9171f4df16a954fc750d1f28b40d3b73ad3aa30e21a426c","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-03-15T19:26:37Z","v":2}
