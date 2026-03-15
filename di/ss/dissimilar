@@ -9,3 +9,4 @@
 {"name":"dissimilar","vers":"1.0.8","deps":[],"cksum":"440d59c0c6d96354061909b4769b2ca03868dbaee203e7b779d9021ebbde3058","features":{},"yanked":false,"rust_version":"1.36","pubtime":"2024-04-18T21:16:14Z"}
 {"name":"dissimilar","vers":"1.0.9","deps":[],"cksum":"59f8e79d1fbf76bdfbde321e902714bf6c49df88a7dda6fc682fc2979226962d","features":{},"yanked":false,"rust_version":"1.36","pubtime":"2024-05-06T23:05:28Z"}
 {"name":"dissimilar","vers":"1.0.10","deps":[],"cksum":"8975ffdaa0ef3661bfe02dbdcc06c9f829dfafe6a3c474de366a8d5e44276921","features":{},"yanked":false,"rust_version":"1.36","pubtime":"2025-03-03T23:17:34Z"}
+{"name":"dissimilar","vers":"1.0.11","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":false,"target":"cfg(not(miri))","kind":"dev"}],"cksum":"aeda16ab4059c5fd2a83f2b9c9e9c981327b18aa8e3b313f7e6563799d4f093e","features":{},"yanked":false,"rust_version":"1.68","pubtime":"2026-03-15T18:00:03Z"}
