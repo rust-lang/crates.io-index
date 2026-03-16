@@ -1,0 +1,1 @@
+{"name":"sdl-main-wrapper","vers":"0.1.0","deps":[{"name":"sdl-sys-bindgen","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4eb8ca06044787fb65632d1a1011d430c9b754cc2034a11384da28ba0167431c","features":{"alloc":[],"args":["std"],"default":["alloc"],"std":["alloc"]},"yanked":false,"pubtime":"2026-03-16T22:29:21Z"}
