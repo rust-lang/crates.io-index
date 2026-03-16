@@ -1,1 +1,2 @@
 {"name":"usize-conv","vers":"0.1.0","deps":[],"cksum":"4730f94cc95e7dfd1485396b00e6a6da30caad8d645c31c7b2118e83ad56e170","features":{"from_usize":[],"min-usize-32":[],"min-usize-64":["min-usize-32"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-16T14:23:32Z"}
+{"name":"usize-conv","vers":"0.1.1","deps":[],"cksum":"7abbdbde126cbb646edd00cc0b43c00fcea862b97ab48245e504f5f830c10711","features":{"from_usize":[],"min-usize-32":[],"min-usize-64":["min-usize-32"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-16T14:50:55Z"}
