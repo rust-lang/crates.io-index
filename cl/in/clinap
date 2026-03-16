@@ -1,0 +1,1 @@
+{"name":"clinap","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.49.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e3d89544d1ffd71524e73f0b17224b132dee835f05b70fd23569a6000b13f3e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-16T16:20:42Z"}
