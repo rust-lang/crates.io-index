@@ -17,3 +17,4 @@
 {"name":"focusmini","vers":"2.0.3","deps":[],"cksum":"39822b2fc074ab9f524adfdde3210acc8a9b37a362a54a18148dc618b573c342","features":{"fast-tick":[]},"yanked":false,"pubtime":"2026-02-15T09:56:55Z"}
 {"name":"focusmini","vers":"3.0.0","deps":[],"cksum":"da9e0790e7256b98f5065a5089de7a8c1375b1a1b4648dbfb52d6e993fa32e6d","features":{"fast-tick":[]},"yanked":false,"pubtime":"2026-03-13T11:04:10Z"}
 {"name":"focusmini","vers":"4.0.0","deps":[],"cksum":"bb53943194e26f827193852974dc6e4ae88e2e10819a86ace99e5c4c595d8c3f","features":{"fast-tick":[]},"yanked":false,"pubtime":"2026-03-13T12:41:12Z"}
+{"name":"focusmini","vers":"5.0.1","deps":[{"name":"rodio","req":"^0.22","features":["playback"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"101a3402a3d3aece0416bf5b5b6ef5e733f895261ecae431e372190956062201","features":{"fast-tick":[]},"yanked":false,"pubtime":"2026-03-16T12:10:11Z"}
