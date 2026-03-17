@@ -1,0 +1,1 @@
+{"name":"blazen-cli","vers":"0.1.92","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"415c8ec48988061d4405207d3a0e13f1ccf78079bb674a61605634fce29f0f2a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-17T21:01:57Z"}
