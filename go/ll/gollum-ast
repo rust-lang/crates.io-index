@@ -1,0 +1,1 @@
+{"name":"gollum-ast","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7478ee0daef5858dcb3b71b41820600109abf903f7ec96ca533af47fb11e0eaa","features":{},"yanked":false,"pubtime":"2026-03-17T16:50:36Z"}
