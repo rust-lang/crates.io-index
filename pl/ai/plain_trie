@@ -38,4 +38,4 @@
 {"name":"plain_trie","vers":"10.0.0","deps":[],"cksum":"25ddae0303866106d3daeb73eb0b7b323a1ceee81225cae092432b6d400d66e8","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-04T21:32:23Z"}
 {"name":"plain_trie","vers":"10.0.1","deps":[],"cksum":"6dbc9b9a3b9d2d16238f36fba7fd7c057ce1ca7fb995bef5591e060faf42209c","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-05T19:59:26Z"}
 {"name":"plain_trie","vers":"11.0.0","deps":[],"cksum":"2fc582708351878512d4b54c8b356086394c8805eaf438c02f5082b2a573126d","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-05T20:22:12Z"}
-{"name":"plain_trie","vers":"11.1.0","deps":[],"cksum":"e0464c80ab9baf78ae62dcda30f10c08149afd53aef43cff8f779b7e74b7041a","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-17T21:25:22Z"}
+{"name":"plain_trie","vers":"11.1.0","deps":[],"cksum":"e0464c80ab9baf78ae62dcda30f10c08149afd53aef43cff8f779b7e74b7041a","features":{"test-ext":[]},"yanked":true,"pubtime":"2026-03-17T21:25:22Z"}
