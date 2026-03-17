@@ -1,1 +1,2 @@
 {"name":"wxtla","vers":"0.0.0","deps":[],"cksum":"7c1b8054a2354e6f2b58666b0f605ca8da135921b6f503a32a4be922c0c93e67","features":{},"yanked":false,"pubtime":"2026-03-17T15:59:54Z"}
+{"name":"wxtla","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"656df5264a0ecbe3351096c0e7a6fd2fef8b89960b899e53266531ab1a002c33","features":{},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-03-17T17:14:58Z"}
