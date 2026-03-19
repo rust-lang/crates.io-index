@@ -1,0 +1,1 @@
+{"name":"rustyphoenixdatastreamderive","vers":"1.3.0","deps":[{"name":"syn","req":"^2.0.0","features":["derive","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f96f40c7e8edb14423c5b870f5572688ffd98543c0eb9c68be4c81468403929","features":{},"yanked":false,"pubtime":"2026-03-19T13:27:56Z"}
