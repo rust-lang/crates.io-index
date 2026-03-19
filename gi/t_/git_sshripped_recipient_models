@@ -1,0 +1,1 @@
+{"name":"git_sshripped_recipient_models","vers":"0.1.0-alpha.0","deps":[{"name":"serde","req":"^1.0.219","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7bc1a5c084b0a86119c72dd393dd178df0ead1c55ac28c1294088a4a745fc00c","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-03-19T19:22:56Z"}
