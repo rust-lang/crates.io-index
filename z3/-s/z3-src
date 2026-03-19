@@ -1,2 +1,3 @@
 {"name":"z3-src","vers":"0.1.0","deps":[],"cksum":"b95027e1a73eda9f75c87599ace1ad581a64ce2360048cefd5f39047e76d28a2","features":{},"yanked":false,"pubtime":"2026-02-24T13:20:33Z"}
 {"name":"z3-src","vers":"415.4.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"782412bda7810f061582cf77b2eb337da63966d7245d521a2c8edaf570ff1e82","features":{},"yanked":false,"pubtime":"2026-03-19T11:35:52Z"}
+{"name":"z3-src","vers":"415.4.1","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeaf0be6b059dd9e5514976b0110cb8f4a5d49c70ab4bc57addc542074facd7c","features":{},"yanked":false,"pubtime":"2026-03-19T11:46:30Z"}
