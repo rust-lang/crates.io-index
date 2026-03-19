@@ -1,0 +1,1 @@
+{"name":"cu-safetymon","vers":"0.14.0","deps":[{"name":"cu29","req":"^0.14.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d33c9861848a8e02817de9145175869d709a62932c0f9c11c0c42118bd3300ce","features":{"default":["std"],"std":["cu29/std"]},"yanked":false,"pubtime":"2026-03-19T20:50:10Z"}
