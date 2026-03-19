@@ -1,0 +1,1 @@
+{"name":"constraint-theory-core","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aafba44e833d2a7f3b2d808269b93453977bb3a4111c3ed9d30a562e00a32fa8","features":{"default":[],"simd":[]},"yanked":false,"pubtime":"2026-03-19T09:35:04Z"}
