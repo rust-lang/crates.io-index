@@ -5,3 +5,4 @@
 {"name":"rusty_regex","vers":"0.2.3","deps":[],"cksum":"c3d4520dd0d45f1bf4fe923afd9c4d220ca40196472710335243a0960baa9956","features":{},"yanked":false,"pubtime":"2025-06-14T02:23:46Z"}
 {"name":"rusty_regex","vers":"0.2.4","deps":[{"name":"visibility","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e02685d36051c3328420e598286e91e43dcaff799973dc5f534f54121333e44","features":{"default":[],"expose-internals":[]},"yanked":false,"pubtime":"2025-07-11T16:20:55Z"}
 {"name":"rusty_regex","vers":"0.3.0","deps":[],"cksum":"0ebdd60aa11d5d1819d6854fb537e7094bd68ddd6264be9383b00f088da41523","features":{},"yanked":false,"pubtime":"2026-03-19T02:20:37Z"}
+{"name":"rusty_regex","vers":"0.3.1","deps":[],"cksum":"0b7ba2f81ca707a2240041c342d9cee5e0f1c04ebee4549c7c63d0b22517c550","features":{},"yanked":false,"pubtime":"2026-03-19T02:35:54Z"}
