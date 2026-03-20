@@ -1,0 +1,1 @@
+{"name":"microsandbox-db","vers":"0.3.0","deps":[{"name":"sea-orm","req":"^1.1","features":["macros","runtime-tokio-rustls","sqlx-sqlite"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bfae7165a5f670950fedbcf40b383fcd0fd1f0f8bcd0ec75f5ecb56be83fb68","features":{},"yanked":false,"pubtime":"2026-03-20T01:35:19Z"}
