@@ -1,0 +1,1 @@
+{"name":"vex-domain","vers":"0.7.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a9d611b00238c206917c1aeb67a671b81c233730a790aeef435d49f0a4ff78","features":{},"yanked":false,"pubtime":"2026-03-20T15:56:26Z"}
