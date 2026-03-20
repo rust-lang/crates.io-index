@@ -1,0 +1,1 @@
+{"name":"philiprehberger-parallel","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30449a7df414e9acfb75cab960a7e940daf24a2370d85b1c0cf3030967fcb3b5","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-20T15:57:54Z"}
