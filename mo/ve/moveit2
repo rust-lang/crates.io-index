@@ -1,0 +1,1 @@
+{"name":"moveit2","vers":"0.6.0","deps":[{"name":"cxx","req":"^1.0.194","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1aab587985db2303a0bd58164415f0902d9a2030265c291749d9843266686aca","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-03-20T12:45:55Z"}
