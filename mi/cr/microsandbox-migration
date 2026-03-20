@@ -1,0 +1,1 @@
+{"name":"microsandbox-migration","vers":"0.3.0","deps":[{"name":"sea-orm-migration","req":"^1.1","features":["runtime-tokio-rustls","sqlx-sqlite"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1a0af9d726b4ee7643ba69d60b1831a24d5cc4f87661e03a6a5d7bea2d4ee58","features":{},"yanked":false,"pubtime":"2026-03-20T01:35:35Z"}
