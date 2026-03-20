@@ -1,0 +1,1 @@
+{"name":"rustybasisconverter","vers":"1.4.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5be5282a2e517da3748511e5b8b2fb2bb076ad9babf49e3ecf78cc9399ce554b","features":{},"yanked":false,"pubtime":"2026-03-20T08:54:52Z"}
