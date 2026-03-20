@@ -1,0 +1,1 @@
+{"name":"rustyphoenixcheckstreamderive","vers":"1.4.0","deps":[{"name":"syn","req":"^2.0.0","features":["derive","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"188790fb5e3d2481172491b1e8f01824a0e780157012b88247a24c4fc8456caa","features":{},"yanked":false,"pubtime":"2026-03-20T09:03:49Z"}
