@@ -1,0 +1,1 @@
+{"name":"iocaine-table","vers":"3.3.0","deps":[{"name":"libnftables1-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"2887603e6c483c8602dcf476a1f46c10704be13acf19785655bccb2910f99010","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-03-20T20:42:54Z"}
