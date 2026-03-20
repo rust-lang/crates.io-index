@@ -130,3 +130,4 @@
 {"name":"tinymist-assets","vers":"0.14.12-rc1","deps":[],"cksum":"338c46ab74bb82325c124cbb335c5347b3b46270521eb24fc4089c268538df45","features":{"l10n":[],"typst-preview":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-15T08:41:35Z"}
 {"name":"tinymist-assets","vers":"0.14.12-rc2","deps":[],"cksum":"a2b84ac9574af5af46f09a819eea66a26402348cfcc51fee99486745badda2e5","features":{"l10n":[],"typst-preview":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-18T01:30:04Z"}
 {"name":"tinymist-assets","vers":"0.14.12-rc3","deps":[],"cksum":"1d819f4c0d04fd55e82e3cd9dfdd2bd8fdfb8c5ebeefa0717798ca9a23580e9d","features":{"l10n":[],"typst-preview":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-18T13:46:42Z"}
+{"name":"tinymist-assets","vers":"0.14.12","deps":[],"cksum":"f4cd7ea86ccd1825305a1c71b9ba15f61634646275eee70e0959b73add04d93b","features":{"l10n":[],"typst-preview":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-20T16:31:29Z"}
