@@ -7,3 +7,4 @@
 {"name":"collide","vers":"0.4.2","deps":[],"cksum":"57840fac79fe926dab1470cc817e5959ba57a674f2525751cc78dab7c0624781","features":{},"yanked":false,"pubtime":"2026-03-15T06:28:59Z"}
 {"name":"collide","vers":"0.5.0","deps":[],"cksum":"38d72de8a4e3ddd7400b3cdbf9eadab66dceadf55d7be58b896a79dda968eb16","features":{},"yanked":false,"pubtime":"2026-03-15T06:37:33Z"}
 {"name":"collide","vers":"0.5.1","deps":[{"name":"vector-space","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc19190a67d72b3d25cc5286d5042adbd9b5b8643684e018e36deaf8c95500a9","features":{},"yanked":false,"pubtime":"2026-03-15T12:33:46Z"}
+{"name":"collide","vers":"0.6.0","deps":[{"name":"vector-space","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bb03f9f9757a036f15e96cb716a646a5c06b1fd0a2b4d9d22f5fa346c89f37b","features":{},"yanked":false,"pubtime":"2026-03-20T23:20:30Z"}
