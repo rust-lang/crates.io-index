@@ -1,0 +1,1 @@
+{"name":"yyds-quota","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c5ba6a5fc4333da97d01276eece2074f00200cce404e3eab8a62c1a3ca8fa34","features":{},"yanked":false,"pubtime":"2026-03-20T11:25:31Z"}
