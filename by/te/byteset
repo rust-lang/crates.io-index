@@ -1,2 +1,3 @@
 {"name":"byteset","vers":"0.1.0","deps":[],"cksum":"0aa1a09fe07d337e05b6c168a17a69a495ac395fe30345c8fbb07df083722bcd","features":{},"yanked":false,"pubtime":"2026-03-16T17:01:43Z"}
 {"name":"byteset","vers":"1.1.0","deps":[{"name":"lolevel","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"utf8next","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bed6183e4aef0a297d2bccc3c2dc64f183f7237be5e24fd5c430860819101a2a","features":{},"yanked":false,"pubtime":"2026-03-20T15:55:15Z"}
+{"name":"byteset","vers":"1.1.1","deps":[],"cksum":"a6aec31e744fcc54bc108aef89ca0d32d5b7a8578532797915023708009346e6","features":{},"yanked":false,"pubtime":"2026-03-20T15:57:34Z"}
