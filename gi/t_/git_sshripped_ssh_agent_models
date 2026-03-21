@@ -1,0 +1,1 @@
+{"name":"git_sshripped_ssh_agent_models","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.219","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"90efaec163b1c2a5f2ac5a3c0283fd3a2555e258ac60be439d1f84878145980a","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-03-21T00:30:44Z"}
