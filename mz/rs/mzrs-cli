@@ -1,0 +1,1 @@
+{"name":"mzrs-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7066987f3dc450ad437e689022bb18a082eb62cb3452408a3bf61d9538a9cd3","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-21T14:15:42Z"}
