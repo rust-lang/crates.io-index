@@ -1,1 +1,2 @@
 {"name":"amx-sys","vers":"0.0.1","deps":[{"name":"half","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd31748206c4587575f161f9a8ead6e67b1ec6321395e7e8bca58ffa2ea7e9dc","features":{},"yanked":false,"pubtime":"2026-03-20T19:44:49Z"}
+{"name":"amx-sys","vers":"0.0.2","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8730206d0e3378dbf453e10dabeda6e238d3850e06eeec4327861b747425c0bf","features":{},"yanked":false,"pubtime":"2026-03-21T19:39:44Z"}
