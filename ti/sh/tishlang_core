@@ -1,0 +1,1 @@
+{"name":"tishlang_core","vers":"1.0.16","deps":[{"name":"fancy-regex","req":"^0.17.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2193e1569f70d3b6c379f329ac020071ae326997453f8ff8e492dd4cd96cde0b","features":{"default":[]},"features2":{"regex":["dep:fancy-regex"]},"yanked":false,"pubtime":"2026-03-22T22:01:35Z","v":2}
