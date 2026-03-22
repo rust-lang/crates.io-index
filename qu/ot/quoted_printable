@@ -16,3 +16,4 @@
 {"name":"quoted_printable","vers":"0.4.8","deps":[],"cksum":"5a3866219251662ec3b26fc217e3e05bf9c4f84325234dfb96bf0bf840889e49","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-04-29T13:04:24Z"}
 {"name":"quoted_printable","vers":"0.5.0","deps":[],"cksum":"79ec282e887b434b68c18fe5c121d38e72a5cf35119b59e54ec5b992ea9c8eb0","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-06-23T03:40:55Z"}
 {"name":"quoted_printable","vers":"0.5.1","deps":[],"cksum":"640c9bd8497b02465aeef5375144c26062e0dcd5939dfcbb0f5db76cb8c17c73","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2024-07-16T03:10:38Z"}
+{"name":"quoted_printable","vers":"0.5.2","deps":[],"cksum":"478e0585659a122aa407eb7e3c0e1fa51b1d8a870038bd29f0cf4a8551eea972","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-03-22T02:35:05Z"}
