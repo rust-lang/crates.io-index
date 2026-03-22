@@ -1,2 +1,3 @@
 {"name":"geoit","vers":"0.0.0","deps":[],"cksum":"87e27f61f1274f5d950e042973ce769b41da021d6b71d5805925b381d35736b9","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-18T07:33:46Z"}
 {"name":"geoit","vers":"0.0.1","deps":[],"cksum":"56922965fc357812838961b843c214eccf504deaad86625fe8eafc2e63c0bb72","features":{"diagnostics":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-19T03:41:26Z"}
+{"name":"geoit","vers":"0.0.2","deps":[],"cksum":"5afb8529e5f30d30c15ff4d8e54174607cadf34ee7271485ead05552d621f1ab","features":{"diagnostics":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-22T23:56:34Z"}
