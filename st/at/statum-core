@@ -58,3 +58,4 @@
 {"name":"statum-core","vers":"0.6.3","deps":[],"cksum":"1f3962d50a549f260fe82fc1061cfa230a45c62bac8d6aa58deaf8628e6d7b83","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-18T23:46:18Z"}
 {"name":"statum-core","vers":"0.6.4","deps":[],"cksum":"f010af0efe7d99a8c314719ee7ec56df07d7c2595c9bb51b2036656bde74dc42","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-19T12:58:24Z"}
 {"name":"statum-core","vers":"0.6.5","deps":[],"cksum":"64b8709a8ec79775881248f19a83335104bdecd04e5cc56144a8f51e52d2d31b","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-19T13:57:34Z"}
+{"name":"statum-core","vers":"0.6.6","deps":[{"name":"linkme","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0739028fc8a975884667e7139624d1a7188bed3a16db390f5a02e7ea4206c72","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-22T13:34:32Z"}
