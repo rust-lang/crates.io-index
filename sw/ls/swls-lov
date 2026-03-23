@@ -1,0 +1,1 @@
+{"name":"swls-lov","vers":"0.1.0","deps":[{"name":"bevy_ecs","req":"^0.17.3","features":["multi_threaded"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ddab25fa0d507a975bc22c0feeb4d0cf217e47ccdfee3ed0ed4733a4c6456d95","features":{},"yanked":false,"pubtime":"2026-03-23T11:37:27Z"}
