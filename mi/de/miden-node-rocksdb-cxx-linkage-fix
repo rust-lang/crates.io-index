@@ -5,3 +5,4 @@
 {"name":"miden-node-rocksdb-cxx-linkage-fix","vers":"0.14.0-alpha.5","deps":[],"cksum":"c92fa8ba65404ca9c467a2fc92cc2bfacad601da5c6d696b09c68fa9be99b5dd","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-03-11T09:49:30Z"}
 {"name":"miden-node-rocksdb-cxx-linkage-fix","vers":"0.14.0-alpha.7","deps":[],"cksum":"dcbb4c1cee7a3091dd2a323c36c374126f5e1d2cca9a1ce3ddf628c8d979daf8","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-03-19T23:47:39Z"}
 {"name":"miden-node-rocksdb-cxx-linkage-fix","vers":"0.14.0-alpha.8","deps":[],"cksum":"cea84384ce182ef70beab0aa07b13a66435904482a8e641c638b8bb8fba4566e","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-20T10:06:02Z"}
+{"name":"miden-node-rocksdb-cxx-linkage-fix","vers":"0.14.0-alpha.9","deps":[],"cksum":"9a8d08df14de2eda47ec636170c9131d7bfcdd7719f91807c0009691558e5c71","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-23T16:52:29Z"}
