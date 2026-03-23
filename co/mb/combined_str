@@ -2,3 +2,4 @@
 {"name":"combined_str","vers":"0.2.1","deps":[],"cksum":"0b56aa38c5ed4a09c63b9a4ae26965eac86995796f56bd060275c81be3a1e54f","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-03-23T01:48:52Z"}
 {"name":"combined_str","vers":"0.3.0","deps":[],"cksum":"da468a6e96e337a156886b6037134fcb348a2fb57a575db23df10f0060f9c4ae","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T02:05:50Z"}
 {"name":"combined_str","vers":"0.4.0","deps":[],"cksum":"0786a0399be56b22f9c3f152ea1c5ffc7d7368a5a86c423b506fd1be407e8bbb","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:24:35Z"}
+{"name":"combined_str","vers":"0.4.1","deps":[],"cksum":"f8e105c549f186e72f5ea2b546dd2f012353e986b40c633a28ac59ee611663a1","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:26:11Z"}
