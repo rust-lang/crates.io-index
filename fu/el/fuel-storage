@@ -75,3 +75,4 @@
 {"name":"fuel-storage","vers":"0.65.0","deps":[],"cksum":"1b9b46be43225f70c17f9e028f80a583c275fb2dec1e2a4e9100aa6385a2c86a","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2025-10-17T08:29:47Z"}
 {"name":"fuel-storage","vers":"0.66.0","deps":[],"cksum":"7beb353065e9e62ac2fbf686ad904918a2d460456a524f51106a0b868f812601","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-03-12T00:21:00Z"}
 {"name":"fuel-storage","vers":"0.66.1","deps":[],"cksum":"bccdd850d2917ae0061f0430abd2702dba6a3e1033ef18291b99b5329651fcc7","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-03-12T20:38:17Z"}
+{"name":"fuel-storage","vers":"0.66.2","deps":[],"cksum":"ae6958d391942b4ed8a27fde3a534ffb89f18817627d2372e6ccf8d6a222a5cc","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-03-23T21:24:58Z"}
