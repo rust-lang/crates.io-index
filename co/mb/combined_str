@@ -4,3 +4,4 @@
 {"name":"combined_str","vers":"0.4.0","deps":[],"cksum":"0786a0399be56b22f9c3f152ea1c5ffc7d7368a5a86c423b506fd1be407e8bbb","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:24:35Z"}
 {"name":"combined_str","vers":"0.4.1","deps":[],"cksum":"f8e105c549f186e72f5ea2b546dd2f012353e986b40c633a28ac59ee611663a1","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:26:11Z"}
 {"name":"combined_str","vers":"0.4.2","deps":[],"cksum":"c70bb7b71444ccdbab920fbafae3a169e191923aa6ed329362ec228a7f5b0673","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:40:35Z"}
+{"name":"combined_str","vers":"0.4.3","deps":[],"cksum":"00964f493af673bbd00abb852e69dc2694a0612993327ac69fa7d70615b9076f","features":{"alloc":[],"default":["alloc"],"nightly":[]},"yanked":false,"pubtime":"2026-03-23T03:43:42Z"}
