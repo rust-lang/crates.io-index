@@ -1,1 +1,2 @@
 {"name":"reth-zstd-compressors","vers":"0.0.0","deps":[],"cksum":"ab0ab0cf02e145a9678313ec6c39e41604b1565a008d1736de9a4eca604525f0","features":{},"yanked":false,"pubtime":"2026-01-23T13:59:33Z"}
+{"name":"reth-zstd-compressors","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13","features":["experimental"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be2e9bda3e45c5d87cfbe811676bfb9cb1f0e6fa82d1dd6a3e8cd996512f236","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-24T20:43:31Z"}
