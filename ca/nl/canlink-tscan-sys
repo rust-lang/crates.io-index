@@ -1,0 +1,1 @@
+{"name":"canlink-tscan-sys","vers":"0.3.0","deps":[{"name":"winapi","req":"^0.3","features":["libloaderapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"fea1099bd2f98ad476f4ac3fb1e587fe8bb65e13231c248e8755da1385b12731","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-03-25T09:23:49Z"}
