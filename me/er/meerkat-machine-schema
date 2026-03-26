@@ -1,0 +1,1 @@
+{"name":"meerkat-machine-schema","vers":"0.5.0","deps":[{"name":"indexmap","req":"^2","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9afa1f829fa0b15e529c6d136b86e368274e091cead36d325a5e3d7ad6d68976","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-03-26T16:50:45Z"}
