@@ -42,3 +42,4 @@
 {"name":"plain_trie","vers":"11.1.1","deps":[],"cksum":"c2b8f6c92f6fac3ab7563f068cb63fa4889c27ae33e5a6c8f4de60d587a28b4c","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-17T21:58:59Z"}
 {"name":"plain_trie","vers":"12.0.0","deps":[],"cksum":"19f5a00686884e554671bcb3a1481ee2810f5cf159861898351bdb487cc66d89","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-24T22:12:21Z"}
 {"name":"plain_trie","vers":"12.0.1","deps":[],"cksum":"b0aaf89e08011fa8ff5ecace5d365d66c307b1cc79635d948ca198046d93f21a","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-24T22:21:11Z"}
+{"name":"plain_trie","vers":"12.1.0","deps":[],"cksum":"ffc8f507ac1bfc706285d38cbb3833068bb9df816e8b8de6094a6a1d356ad5ab","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-26T19:36:17Z"}
