@@ -1,0 +1,1 @@
+{"name":"ionlang-cli","vers":"0.1.0","deps":[{"name":"ion-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6718477df7c923ecbf2824924266989c8a8416cb3a9002ed66efadea70fbc812","features":{"default":["vm"],"vm":["ion-core/vm"]},"yanked":false,"pubtime":"2026-03-26T14:40:15Z"}
