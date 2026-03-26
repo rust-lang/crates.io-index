@@ -1,0 +1,1 @@
+{"name":"tokf-hook-types","vers":"0.2.39","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e626029c48f1c72dfb609f3d900687a5d606eead4ab81a7f33945c95769dc9a","features":{},"yanked":false,"pubtime":"2026-03-26T12:51:21Z"}
