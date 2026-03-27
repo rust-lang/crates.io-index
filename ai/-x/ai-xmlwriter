@@ -1,1 +1,0 @@
-{"name":"ai-xmlwriter","vers":"0.1.0","deps":[{"name":"no_std_io","req":"^0.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"60280ffed08e88a6abb4ca0bf9e988b743030a8f22bcbbe722ff7bc3c8624492","features":{"std":["no_std_io/std"]},"yanked":false,"pubtime":"2026-03-27T01:22:02Z"}
