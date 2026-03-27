@@ -1,0 +1,1 @@
+{"name":"ai-router","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ba950f28476479b65e48de4af277edf00c85dc0d987c469e026da7b3dc5aac1","features":{},"yanked":false,"pubtime":"2026-03-27T15:05:14Z"}
