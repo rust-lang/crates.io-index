@@ -1,0 +1,1 @@
+{"name":"embedded-buffer-pool","vers":"0.1.0","deps":[{"name":"embassy-sync","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b284d4a881bf4e77ff065047b9accf57206feb1baf286a65d8cf6b85608e2b31","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-28T23:11:15Z"}
