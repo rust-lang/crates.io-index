@@ -3,5 +3,5 @@
 {"name":"decay","vers":"0.1.2","deps":[],"cksum":"0b9299216743ddc55de6949541693ad7e36474513585d66896717320673acfb6","features":{},"yanked":true,"pubtime":"2026-03-19T21:35:05Z"}
 {"name":"decay","vers":"0.1.3","deps":[],"cksum":"e318fd2f2f0b573a9168672020f41d36870d3152f8304f2153ede8bea2695a7c","features":{},"yanked":true,"pubtime":"2026-03-19T21:45:03Z"}
 {"name":"decay","vers":"0.1.4","deps":[],"cksum":"5e09257cefd9f246df5456354c7b29e521ec213c2226db578335f13b9ad21e47","features":{},"yanked":true,"pubtime":"2026-03-19T22:19:25Z"}
-{"name":"decay","vers":"0.1.5","deps":[],"cksum":"eb26bca88dba51ee35054e0742b52720b2c62da36de470657761437594572d49","features":{},"yanked":false,"pubtime":"2026-03-19T22:48:30Z"}
+{"name":"decay","vers":"0.1.5","deps":[],"cksum":"eb26bca88dba51ee35054e0742b52720b2c62da36de470657761437594572d49","features":{},"yanked":true,"pubtime":"2026-03-19T22:48:30Z"}
 {"name":"decay","vers":"0.2.0","deps":[],"cksum":"8121698d355d31dd9de5613a7557e5a5b9fb98990ae58cdc3f743379201dc81d","features":{"anim":["core"],"core":["term"],"default":["full"],"full":["core","term","ui","anim","time","rand","serde","intro"],"intro":["term"],"progress":["term"],"rand":["core"],"serde":[],"term":["core"],"time":["core"],"ui":["core","term"]},"yanked":false,"pubtime":"2026-03-28T16:57:26Z"}
