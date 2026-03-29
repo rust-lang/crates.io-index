@@ -7,3 +7,4 @@
 {"name":"enough","vers":"0.4.0","deps":[],"cksum":"177a59811828ea5dbc8927662d444ffee7b55a44696486f1b1a245ae9e652533","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.71","pubtime":"2026-02-20T03:22:10Z"}
 {"name":"enough","vers":"0.4.1","deps":[],"cksum":"17032931df0e12c5bd8da125d074784f416083d1457dfff934a76d407cd7307f","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-23T18:24:37Z"}
 {"name":"enough","vers":"0.4.2","deps":[],"cksum":"0b1c403c8f831754063050c270711041a002743142338831c0212d287ddddcfa","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-24T05:18:58Z"}
+{"name":"enough","vers":"0.4.3","deps":[],"cksum":"521236efef7dcf4a95af2976e34b5b10780e8747eb78fa4742aa65b2ee189222","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-29T02:02:51Z"}
