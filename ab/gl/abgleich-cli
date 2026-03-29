@@ -1,0 +1,1 @@
+{"name":"abgleich-cli","vers":"0.2.0-alpha4","deps":[{"name":"abgleich-lib","req":"^0.2.0-alpha2","features":["cli"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"181bc38b26ee316bb10a2078cf09f39398e13654f4919226e0981f344cb08182","features":{"default":[]},"yanked":false,"pubtime":"2026-03-29T17:58:58Z"}
