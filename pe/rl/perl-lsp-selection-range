@@ -1,0 +1,1 @@
+{"name":"perl-lsp-selection-range","vers":"0.12.0","deps":[{"name":"lsp-types","req":"^0.97.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c5107790bf6ccc43248a1b57782199d98fb73acf4a851d991a9da4487b02e72","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-30T14:47:57Z"}
