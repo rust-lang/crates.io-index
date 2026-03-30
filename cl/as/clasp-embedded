@@ -12,3 +12,4 @@
 {"name":"clasp-embedded","vers":"4.2.0","deps":[],"cksum":"dac37618ba3a264172278e9fe1d93c3d09a9e2d9caddbb2b6b1f021c83ea36a7","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-03-09T06:14:29Z"}
 {"name":"clasp-embedded","vers":"4.3.0","deps":[],"cksum":"196fede04a4fd0bc32c5ecd7ebee01fe762a6758d6a525b75265082d635a73d1","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-03-26T19:37:39Z"}
 {"name":"clasp-embedded","vers":"4.4.0","deps":[],"cksum":"a469c2ce73969cd038a0e1bf94745ccf5b8519c69d608ae70718992a46115b68","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-03-29T00:37:46Z"}
+{"name":"clasp-embedded","vers":"4.5.0","deps":[],"cksum":"fafd299477d68d9e9593ca39fc74b3d7ba2e7e144dccd77aaf36a4af9872e462","features":{"alloc":[],"client":[],"default":["client"],"server":[]},"yanked":false,"pubtime":"2026-03-30T00:02:47Z"}
