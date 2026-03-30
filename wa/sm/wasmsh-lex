@@ -1,0 +1,1 @@
+{"name":"wasmsh-lex","vers":"0.3.0","deps":[{"name":"wasmsh-ast","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08af23bc3a0d19e4af231b84117a1151997e9941dd38a1b8b70d4336d0bf8dcd","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-03-30T08:35:59Z"}
