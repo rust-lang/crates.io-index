@@ -1,0 +1,1 @@
+{"name":"envguard-rs","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fe5779af4328e0a7f39dc498255db96e020a3037e4810945fa2725055cd9858","features":{},"features2":{"default":["regex-validation"],"regex-validation":["dep:regex"]},"yanked":false,"pubtime":"2026-03-30T14:38:02Z","v":2}
