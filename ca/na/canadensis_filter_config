@@ -3,3 +3,4 @@
 {"name":"canadensis_filter_config","vers":"0.2.1","deps":[],"cksum":"31fb88cf1408b786e422c0e29f4b6551cec88f60c91df78051d820c3e438b41e","features":{},"yanked":false,"pubtime":"2022-04-12T21:55:18Z"}
 {"name":"canadensis_filter_config","vers":"0.2.2","deps":[],"cksum":"9ff16b62a9697bb76a7e24e91b1e75396b138af488a172bbd5afd911737111c1","features":{},"yanked":false,"pubtime":"2022-10-18T18:00:36Z"}
 {"name":"canadensis_filter_config","vers":"0.5.0","deps":[],"cksum":"4d265ccd922d8029e1b9832f91b2f3b82e1d62383c93823a80ad8acfa074ed27","features":{},"yanked":false,"pubtime":"2025-09-09T23:51:42Z"}
+{"name":"canadensis_filter_config","vers":"0.6.0","deps":[{"name":"defmt","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"948dd3aad6178ee28051314b4e6dc2bb95ad2c27d9c721fce2e31da9828ee2cb","features":{},"yanked":false,"pubtime":"2026-03-31T15:17:30Z"}
