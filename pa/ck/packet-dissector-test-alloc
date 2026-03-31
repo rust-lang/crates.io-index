@@ -1,0 +1,1 @@
+{"name":"packet-dissector-test-alloc","vers":"0.1.0","deps":[{"name":"packet-dissector-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60542b946c05c892de264a80a556262c43959280f4366ab6ff6b4c58d016d698","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-31T15:35:20Z"}
