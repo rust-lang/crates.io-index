@@ -1,0 +1,1 @@
+{"name":"packet-dissector-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c2d406a1160f54bb41ff280375a792ff00be204ad16765296c73114a3107d3d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-31T15:34:55Z"}
