@@ -1,0 +1,1 @@
+{"name":"dxfscan","vers":"0.1.0","deps":[{"name":"dxfbin","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"872a922c344b2f9fc3f3a1217be35f4e7dd825c64cc2aacfdcbdd87c2fd2d586","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-31T05:19:31Z"}
