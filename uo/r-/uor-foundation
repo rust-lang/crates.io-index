@@ -6,7 +6,7 @@
 {"name":"uor-foundation","vers":"5.0.0","deps":[],"cksum":"334d2f2ff5fba55ca2c4fabdb5181ec6155a7605a6f078eefa97febeb10c64f1","features":{"default":[]},"yanked":true,"rust_version":"1.70","pubtime":"2026-03-07T08:37:40Z"}
 {"name":"uor-foundation","vers":"5.1.0","deps":[],"cksum":"a7bb943358f624337ae85519653ae681a48af7196cf1212f0d3d7bcd16d0d859","features":{"default":[]},"yanked":true,"rust_version":"1.70","pubtime":"2026-03-08T03:52:21Z"}
 {"name":"uor-foundation","vers":"5.1.1","deps":[],"cksum":"943d7b09b3e4b3c39ad4c417805cf5709648afccba139561137f83a42fad856a","features":{"default":[]},"yanked":true,"rust_version":"1.70","pubtime":"2026-03-08T05:16:54Z"}
-{"name":"uor-foundation","vers":"5.2.0","deps":[],"cksum":"1c3f5b6b6cbc4f5dccea3afc51de82df6c7306214ba74a1623f538c918cc59e7","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-08T14:07:59Z"}
+{"name":"uor-foundation","vers":"5.2.0","deps":[],"cksum":"1c3f5b6b6cbc4f5dccea3afc51de82df6c7306214ba74a1623f538c918cc59e7","features":{"default":[]},"yanked":true,"rust_version":"1.70","pubtime":"2026-03-08T14:07:59Z"}
 {"name":"uor-foundation","vers":"5.2.1","deps":[],"cksum":"2f99c3d92eae107b533a6fe0ace9f763c411eb2a3370654e7ae25244e27333fb","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-08T14:17:22Z"}
 {"name":"uor-foundation","vers":"5.5.0","deps":[],"cksum":"0031b49b0ab3abb5a809e65def109ceda232944cada8f69ee604da1ef0601d65","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-09T06:33:56Z"}
 {"name":"uor-foundation","vers":"5.6.0","deps":[],"cksum":"06b6e2b2d1fc6abdbf61f1e04c5f6039bf8e46b2e8cdca736a4480a7194152e7","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-09T15:44:08Z"}
