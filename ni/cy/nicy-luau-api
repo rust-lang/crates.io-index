@@ -1,0 +1,1 @@
+{"name":"nicy-luau-api","vers":"0.1.0","deps":[{"name":"mlua-sys","req":"^0.10","features":["luau"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4a21997738e6a82bbaaed59c56a5722e0e3ce9612ce849820814e2c927ab472","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-31T02:34:05Z"}
