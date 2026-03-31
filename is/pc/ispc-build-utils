@@ -1,0 +1,1 @@
+{"name":"ispc-build-utils","vers":"0.2.0","deps":[{"name":"find-msvc-tools","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae397bce11b8bc0bc5370c916f37a02ec91e745133bcd3ef0b714199fa02de70","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-31T23:32:28Z"}
