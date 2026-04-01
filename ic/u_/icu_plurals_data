@@ -8,3 +8,4 @@
 {"name":"icu_plurals_data","vers":"2.0.0","deps":[],"cksum":"9ec552d761eaf4a1c39ad28936e0af77a41bf01ff756ea54be4f8bfc21c265d7","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-05-07T20:59:13Z"}
 {"name":"icu_plurals_data","vers":"2.1.0","deps":[],"cksum":"97992e985504ab8ff75e6764d75ad43aa2d14fade27bb1604b1b53c94e3be762","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T16:01:18Z"}
 {"name":"icu_plurals_data","vers":"2.1.1","deps":[],"cksum":"f018a98dccf7f0eb02ba06ac0ff67d102d8ded80734724305e924de304e12ff0","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:07:20Z"}
+{"name":"icu_plurals_data","vers":"2.2.0","deps":[],"cksum":"8485497155dc865f901decb93ecc20d3e467df67bfeceb91e3ba34e2b11e8e1d","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:48:58Z"}
