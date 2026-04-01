@@ -1,0 +1,1 @@
+{"name":"perl-lsp-document-highlight","vers":"0.12.1","deps":[{"name":"perl-ast","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f143f2273e575c7244cf18eaf3b72c1b2ae7e5729e41ca3a5e81bef779f8987","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-01T02:37:13Z"}
