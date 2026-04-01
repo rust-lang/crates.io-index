@@ -4,3 +4,4 @@
 {"name":"icu_locale_data","vers":"2.1.0","deps":[],"cksum":"c59e4b9cb2fa24a06fd4996f38a18a18ae4d5d27b3d1ed98af83dcbb7ee6e914","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T15:57:57Z"}
 {"name":"icu_locale_data","vers":"2.1.1","deps":[],"cksum":"f03e2fcaefecdf05619f3d6f91740e79ab969b4dd54f77cbf546b1d0d28e3147","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:04:16Z"}
 {"name":"icu_locale_data","vers":"2.1.2","deps":[],"cksum":"1c5f1d16b4c3a2642d3a719f18f6b06070ab0aef246a6418130c955ae08aa831","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-01-12T20:20:16Z"}
+{"name":"icu_locale_data","vers":"2.2.0","deps":[],"cksum":"d5fdcc9ac77c6d74ff5cf6e65ef3181d6af32003b16fce3a77fb451d2f695993","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:47:33Z"}
