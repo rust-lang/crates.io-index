@@ -8,3 +8,4 @@
 {"name":"icu_casemap_data","vers":"2.0.0","deps":[],"cksum":"f7584067558ab4c60c95d1ac2abd1588689cb4bcd4e099507f62dae86ae8d2c0","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-05-07T20:57:54Z"}
 {"name":"icu_casemap_data","vers":"2.1.0","deps":[],"cksum":"5257c318cd124086c62b8b2b570c7a37235d2e8d38b8ff9476ff8a8be6702dd1","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T15:59:02Z"}
 {"name":"icu_casemap_data","vers":"2.1.1","deps":[],"cksum":"98d4663d0f99b301033a19e0acf94e9d2fa4b107638580165e5a6ccc49ad1450","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:05:10Z"}
+{"name":"icu_casemap_data","vers":"2.2.0","deps":[],"cksum":"846b0857ca091204be3c874bc93daaf89d4777e8d2d20b0d3ffe8f671d98014b","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:48:06Z"}
