@@ -1,0 +1,1 @@
+{"name":"ai4os-ch1","vers":"0.1.0-preview.9","deps":[{"name":"tg-sbi","req":"^0.1.0-preview.9","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ai4os-sbi"}],"cksum":"fd3765093cf6896138242d96b70a70986cfb87cfc9fc7353e8211c387f17b7f2","features":{},"yanked":false,"pubtime":"2026-04-01T05:56:06Z"}
