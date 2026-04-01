@@ -1,0 +1,1 @@
+{"name":"zlayer-paths","vers":"0.10.56","deps":[{"name":"nix","req":"^0.31","features":["fs","signal","process","user","user"],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"739703b6edc5d943e10c87d4acdb1aadb96f3d0bad4d2fc5979b2e1a1cdef442","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-01T19:18:07Z"}
