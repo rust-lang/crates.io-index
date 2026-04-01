@@ -1,0 +1,1 @@
+{"name":"perl-pragma","vers":"0.12.1","deps":[{"name":"perl-ast","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8abf1b12a3f4ddc07fb9729795eac38fcc8e8a3542e68c0c3c59dbcbf9e45ae","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-01T00:06:53Z"}
