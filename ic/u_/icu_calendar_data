@@ -8,3 +8,4 @@
 {"name":"icu_calendar_data","vers":"2.0.0","deps":[],"cksum":"7219c8639ab936713a87b571eed2bc2615aa9137e8af6eb221446ee5644acc18","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-05-07T20:56:58Z"}
 {"name":"icu_calendar_data","vers":"2.1.0","deps":[],"cksum":"a5e28bac68c36104316001a16a5a0ce1822dda530e6ee2e30ca566013a62863c","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T15:57:42Z"}
 {"name":"icu_calendar_data","vers":"2.1.1","deps":[],"cksum":"527f04223b17edfe0bd43baf14a0cb1b017830db65f3950dc00224860a9a446d","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:03:58Z"}
+{"name":"icu_calendar_data","vers":"2.2.0","deps":[],"cksum":"118577bcf3a0fa7c6ac0a7d6e951814da84ee56b9b1f68fb4d8d10b08cefaf4d","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:47:23Z"}
