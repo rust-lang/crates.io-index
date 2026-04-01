@@ -1,0 +1,1 @@
+{"name":"perl-text-line","vers":"0.12.1","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e9de5aff4de0c71376ec6a6d0669a137b863f60ea7ebdc07867c4fa5d99b26eb","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-01T07:57:13Z"}
