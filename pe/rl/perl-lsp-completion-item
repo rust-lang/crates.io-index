@@ -1,0 +1,1 @@
+{"name":"perl-lsp-completion-item","vers":"0.12.1","deps":[{"name":"perl-parser-core","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18cb5ba4cf2e69c53ffcea20d53362060c0e37f47bcdf836458a783b0cfcf3da","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-01T01:07:13Z"}
