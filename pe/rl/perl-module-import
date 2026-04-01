@@ -1,0 +1,1 @@
+{"name":"perl-module-import","vers":"0.12.1","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7eae24845cfd39d32e839e94533811de42a53a9b5e8beee6fdee8f5e900c547a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-01T02:17:13Z"}
