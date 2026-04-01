@@ -9,3 +9,4 @@
 {"name":"daachorse","vers":"0.4.3","deps":[],"cksum":"048e6559119e79b1d2964ddc0afdaaf583af18b6e3e1ab09ee5fb5e0b83fe7a5","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2022-06-07T05:01:05Z"}
 {"name":"daachorse","vers":"1.0.0-rc.1","deps":[],"cksum":"9dee1cd6e1f1e56a73c6f35106a670659a0aaefac2c27f4771263a52971b9a1c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.58","pubtime":"2022-07-07T03:41:56Z"}
 {"name":"daachorse","vers":"1.0.0","deps":[],"cksum":"63b7ef7a4be509357f4804d0a22e830daddb48f19fd604e4ad32ddce04a94c36","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.58","pubtime":"2022-08-01T08:49:28Z"}
+{"name":"daachorse","vers":"1.0.1","deps":[],"cksum":"6f55d7153ba3b507595872a3874803f07a8a81d1e888abed8e5db7da0597d6e2","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.61","pubtime":"2026-04-01T08:06:38Z"}
