@@ -9,3 +9,4 @@
 {"name":"icu_collator_data","vers":"2.0.0","deps":[],"cksum":"d880b8e680799eabd90c054e1b95526cd48db16c95269f3c89fb3117e1ac92c5","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-05-07T20:58:25Z"}
 {"name":"icu_collator_data","vers":"2.1.0","deps":[],"cksum":"e3e5fc4d9bb6cc1eac8eca009e2489ddf0d377afe34d002aa65df95cc5b2d1f5","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T15:59:41Z"}
 {"name":"icu_collator_data","vers":"2.1.1","deps":[],"cksum":"5ab06f0e83a613efddba3e4913e00e43ed4001fae651cb7d40fc7e66b83b6fb9","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:05:54Z"}
+{"name":"icu_collator_data","vers":"2.2.0","deps":[],"cksum":"038ed8e5817f2059c2f3efb0945ba78d060d3d25e8f1a1bea5139f821a21a2f0","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:48:25Z"}
