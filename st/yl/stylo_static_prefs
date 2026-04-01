@@ -12,3 +12,4 @@
 {"name":"stylo_static_prefs","vers":"0.12.0","deps":[{"name":"style_config","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"stylo_config"}],"cksum":"9efd065dbc5acf78da14eda70578b15cd6c31e057289bf2f188186ca9c5ae6e1","features":{},"yanked":false,"pubtime":"2026-02-12T07:21:18Z"}
 {"name":"stylo_static_prefs","vers":"0.13.0","deps":[],"cksum":"543a82089ebb1dd6d6295c117252e1d4eeea56f21c473fcdc15dfbf055b6599e","features":{},"yanked":false,"pubtime":"2026-03-08T16:11:39Z"}
 {"name":"stylo_static_prefs","vers":"0.14.0","deps":[],"cksum":"61b56e722f192b3716459e30f3d5ae4825f476757703446a3580086668784a8c","features":{},"yanked":false,"pubtime":"2026-03-18T19:31:24Z"}
+{"name":"stylo_static_prefs","vers":"0.15.0","deps":[],"cksum":"dc94d0d425d29db1da9535b12793a0db91e85ca2fde13adc73df33f49ee75af7","features":{},"yanked":false,"pubtime":"2026-04-01T15:02:41Z"}
