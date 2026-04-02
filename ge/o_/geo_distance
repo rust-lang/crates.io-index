@@ -1,1 +1,2 @@
 {"name":"geo_distance","vers":"0.1.0","deps":[],"cksum":"136e23f5f6ed771a653fda161947de24ee7583355f5b86867881917eb3f0833a","features":{},"yanked":false,"pubtime":"2026-04-01T15:31:40Z"}
+{"name":"geo_distance","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e184c68dc72a8c0bae189d59fa70f0d49acc81bc9cac1fab1de317cb2be459ec","features":{},"yanked":false,"pubtime":"2026-04-02T15:34:12Z"}
