@@ -1,0 +1,1 @@
+{"name":"onnx-rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65d16a35177202200741440f15d78c4eaaaf5402b844548f2be3558fd2857db3","features":{},"yanked":false,"pubtime":"2026-04-02T18:55:43Z"}
