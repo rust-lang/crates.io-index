@@ -1,3 +1,4 @@
 {"name":"grip-control","vers":"0.1.0","deps":[],"cksum":"69fe12ccc165c44cf285762c60c76d51a63a13ea474ae3d7c9528ac9aa166ad5","features":{},"yanked":false,"pubtime":"2026-04-01T19:46:04Z"}
 {"name":"grip-control","vers":"0.2.0","deps":[],"cksum":"8997ca2dcda332fc87d45d7447dc51340efeb8d0408b8247fe3882d8a25b2ada","features":{},"yanked":false,"pubtime":"2026-04-01T22:27:33Z"}
 {"name":"grip-control","vers":"0.3.0","deps":[],"cksum":"8db3530c24158eea8a0f18c177c7e0cdd944187b8f960f70f711495a6defc7c9","features":{},"yanked":false,"pubtime":"2026-04-02T01:48:22Z"}
+{"name":"grip-control","vers":"0.4.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e03fb4d4d3c6325aca45eb40e6023292d0fc3fc9fcbe26898e1681c3a8ac8d3","features":{},"yanked":false,"pubtime":"2026-04-02T19:57:21Z"}
