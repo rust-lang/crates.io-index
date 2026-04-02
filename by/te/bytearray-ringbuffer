@@ -1,3 +1,4 @@
 {"name":"bytearray-ringbuffer","vers":"0.1.0","deps":[],"cksum":"0a50e8fc733ede04f569d69f442ac44c0c7d688fb6517d5b39d5e5167e25b624","features":{},"yanked":false,"pubtime":"2026-02-04T16:40:20Z"}
 {"name":"bytearray-ringbuffer","vers":"0.2.0","deps":[],"cksum":"cefdb2e3ac0b7425beb11ad620a6329be0f613de91c3afa4c7137ba47fb21f86","features":{},"yanked":false,"pubtime":"2026-02-04T18:30:16Z"}
 {"name":"bytearray-ringbuffer","vers":"0.3.0","deps":[],"cksum":"cba8d2e9bc6cb6b00e336efa0bfb613504b9e3d80cfab70c48ecd22e26b9d321","features":{},"yanked":false,"pubtime":"2026-02-04T21:02:07Z"}
+{"name":"bytearray-ringbuffer","vers":"0.3.1","deps":[],"cksum":"91ce87aa3daa38cc5d979359e796417086529d0d829880e3173ae3a98bb03f34","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-02T18:55:49Z"}
