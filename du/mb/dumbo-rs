@@ -3,3 +3,4 @@
 {"name":"dumbo-rs","vers":"0.3.0","deps":[],"cksum":"03eabdf1347080791297746846e45817486a11abf2c4b771186e508e348ea672","features":{},"yanked":false,"pubtime":"2026-04-02T15:20:58Z"}
 {"name":"dumbo-rs","vers":"0.4.0","deps":[],"cksum":"65fc94fba5f5d5b3076c2710e31185b304b3e5b1d197248301e27462d88c13d7","features":{},"yanked":false,"pubtime":"2026-04-02T15:27:37Z"}
 {"name":"dumbo-rs","vers":"0.4.1","deps":[],"cksum":"cd89bafb83e58a1eb79960220e146fc1e1e14fd46c354743b7170d43fc2b980b","features":{},"yanked":false,"pubtime":"2026-04-02T15:30:04Z"}
+{"name":"dumbo-rs","vers":"0.5.0","deps":[{"name":"arboard","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c7f75cf2c715d1724275ee848ac47432df0ca29bd516fc22870e6802a993b68","features":{},"yanked":false,"pubtime":"2026-04-02T15:44:08Z"}
