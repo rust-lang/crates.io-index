@@ -1,0 +1,1 @@
+{"name":"rwasm-fuel-policy","vers":"0.0.1","deps":[{"name":"wasmparser","req":"^0.243.0","features":["simd"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"69621ecb28a59e7e382c1f95222618cdb25caa2efddc5803d0b167f0cfcdf860","features":{"default":["std"],"std":["wasmparser/std"]},"yanked":false,"pubtime":"2026-04-02T08:03:29Z"}
