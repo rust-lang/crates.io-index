@@ -2,4 +2,4 @@
 {"name":"lazyinit","vers":"0.2.0","deps":[],"cksum":"a0525312fb000d0444661821cf950222404103a989a4ddbb4b5ac23b90d0c77b","features":{},"yanked":false,"pubtime":"2024-07-18T15:55:15Z"}
 {"name":"lazyinit","vers":"0.2.1","deps":[],"cksum":"3861aac8febbb038673bf945ee47ac67940ca741b94d1bb3ff6066af2a181338","features":{},"yanked":false,"pubtime":"2024-07-25T14:54:48Z"}
 {"name":"lazyinit","vers":"0.2.2","deps":[],"cksum":"17f03abfebdaaf0fad16790237a0348baf84886d3ade460db13bae59e614a180","features":{},"yanked":false,"rust_version":"1.56.1","pubtime":"2025-06-10T17:38:22Z"}
-{"name":"lazyinit","vers":"0.4.2","deps":[],"cksum":"dbeaadf6dc2d1b354f41627c90e8dc04bb316542a17b604a0d01dfec241ac546","features":{},"yanked":false,"rust_version":"1.56.1","pubtime":"2026-04-02T03:00:10Z"}
+{"name":"lazyinit","vers":"0.4.2","deps":[],"cksum":"dbeaadf6dc2d1b354f41627c90e8dc04bb316542a17b604a0d01dfec241ac546","features":{},"yanked":true,"rust_version":"1.56.1","pubtime":"2026-04-02T03:00:10Z"}
