@@ -1,0 +1,1 @@
+{"name":"probing-memtable","vers":"0.2.3","deps":[{"name":"xxhash-rust","req":"^0.8","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b866bab40ade2e45d3b91f8d83ab4436903ecd2ff528c4c99d16cb68c06424dc","features":{},"yanked":false,"pubtime":"2026-04-03T16:11:25Z"}
