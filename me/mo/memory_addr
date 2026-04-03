@@ -7,4 +7,4 @@
 {"name":"memory_addr","vers":"0.3.2","deps":[],"cksum":"5438b8df0f13e16e1f46140de247695a95952a5a4479e47197a8711bf1063373","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2025-03-07T04:24:22Z"}
 {"name":"memory_addr","vers":"0.4.0","deps":[],"cksum":"3d4054cba279515fa87761b101d857333ce06391dbe8f18a11347204a7111416","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2025-06-12T06:59:49Z"}
 {"name":"memory_addr","vers":"0.4.1","deps":[],"cksum":"b1f0625c50adb5f6aaf47f05cae3c4dbc13a74c659241b06c4576f3d7e1da940","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2025-11-23T14:19:20Z"}
-{"name":"memory_addr","vers":"0.6.1","deps":[],"cksum":"f941093c7509897c695772b0c905ed9696b004533db993acc1b17cc28e2e7f6d","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2026-04-02T03:07:21Z"}
+{"name":"memory_addr","vers":"0.6.1","deps":[],"cksum":"f941093c7509897c695772b0c905ed9696b004533db993acc1b17cc28e2e7f6d","features":{},"yanked":true,"rust_version":"1.70.0","pubtime":"2026-04-02T03:07:21Z"}
