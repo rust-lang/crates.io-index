@@ -1,0 +1,1 @@
+{"name":"neco-spline","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f9c13d695ec92939d22332a42d0c2830aff0f6d02312f5801aaca4513826ad","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-03T05:33:43Z"}
