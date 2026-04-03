@@ -34,3 +34,4 @@
 {"name":"tulisp","vers":"0.25.0","deps":[],"cksum":"552906d6a099bfd421ba319f06c09790d25b4f420395a1e5f581796122f747df","features":{"big_functions":[],"sync":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-02-14T14:21:03Z"}
 {"name":"tulisp","vers":"0.25.1","deps":[],"cksum":"b669445fec5302b445e7b3138f44a93319c5c8c908dddf028fb74d7fabb638de","features":{"big_functions":[],"sync":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-03-21T20:59:09Z"}
 {"name":"tulisp","vers":"0.26.0","deps":[],"cksum":"31340e7f8c71f2f5b7ce9eb457ba405cec067e977b9531634f9f9441ee865e3b","features":{"big_functions":[],"sync":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-03-29T12:56:13Z"}
+{"name":"tulisp","vers":"0.26.1","deps":[],"cksum":"f07dbb854775d70c37414c6c6c1b83121694daa1d256055b4e7927cc04414c38","features":{"big_functions":[],"sync":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-04-03T21:18:02Z"}
