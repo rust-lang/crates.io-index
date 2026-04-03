@@ -17,3 +17,4 @@
 {"name":"timely_bytes","vers":"0.26.1","deps":[],"cksum":"c8c4aca5912988627c2db96e6b025ff1a6790c00b2c959649297be27c90467b6","features":{},"yanked":false,"pubtime":"2026-02-04T00:03:35Z"}
 {"name":"timely_bytes","vers":"0.27.0","deps":[],"cksum":"a7da8c4fc73324e5c15ddaf22606e7b66439ffa01c76c71d3369b38810d304e2","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-03-05T18:10:44Z"}
 {"name":"timely_bytes","vers":"0.28.0","deps":[],"cksum":"51ae21fb064a79d9010f8108429745fa91b92b694fa4df218ba84d7f3b2dbd60","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-03-25T12:22:43Z"}
+{"name":"timely_bytes","vers":"0.28.1","deps":[],"cksum":"18f23a0d67d58c5e33b1d2e1405f153302eaed97b03b019eaadc506078b0d9b3","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-03T15:31:17Z"}
