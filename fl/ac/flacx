@@ -1,0 +1,1 @@
+{"name":"flacx","vers":"0.1.0","deps":[{"name":"bitstream-io","req":"^4.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa2b47481546fe9db407b38a9240cae14632d91b1edd1e1379f4842a4fba3f76","features":{"default":[],"progress":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-04T02:37:35Z"}
