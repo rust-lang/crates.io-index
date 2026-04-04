@@ -1,1 +1,2 @@
 {"name":"lerc-core","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc7df3fad506e021661f335523c67662a231d171fefb2cd72cebabeca38323fe","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-02T15:22:03Z"}
+{"name":"lerc-core","vers":"0.2.0","deps":[],"cksum":"7834dfea71cb2350935bc2c2bcdbe30439b88aab21f805be29781716edea4247","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-04T21:09:14Z"}
