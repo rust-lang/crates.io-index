@@ -1,1 +1,2 @@
 {"name":"nostd_cow","vers":"0.1.0","deps":[],"cksum":"d69704000a2993b462f5ff31eb44d7736f1fc759248cc81cf77c2018fbcb8a89","features":{"alloc":[],"std":["alloc"]},"yanked":false,"pubtime":"2025-02-16T04:30:58Z"}
+{"name":"nostd_cow","vers":"0.1.1","deps":[],"cksum":"1608f02f3e2e27e65677f1a41dafb42f90156e18e0b6f46c9bddb5de60beddf4","features":{"alloc":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-04-04T00:49:10Z"}
