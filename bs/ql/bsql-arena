@@ -1,0 +1,1 @@
+{"name":"bsql-arena","vers":"0.16.0","deps":[{"name":"simdutf8","req":"^0.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"70cad54d5ca7601d489117341db089babc49a003c23fa37db3c47ed84687e346","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-04T22:02:25Z"}
