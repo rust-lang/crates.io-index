@@ -2,3 +2,4 @@
 {"name":"lykn-cli","vers":"0.0.2","deps":[],"cksum":"e310351200542c04e7f6d82dfd36588b768ffa5dd31173ee4e2e2b07a3c71a23","features":{},"yanked":false,"pubtime":"2026-03-24T05:45:53Z"}
 {"name":"lykn-cli","vers":"0.1.0","deps":[],"cksum":"d0d54f4c8bcf6b593b0ff5f8d4510da41bfbf3cbe280fde0fbdf15df3ad8f3cc","features":{},"yanked":false,"pubtime":"2026-03-26T06:25:12Z"}
 {"name":"lykn-cli","vers":"0.2.0","deps":[],"cksum":"a344b90d226374f5b99c5ee0fe76f3afbc85b2926f40f6519664ae9939d78e7e","features":{},"yanked":false,"pubtime":"2026-03-28T03:04:27Z"}
+{"name":"lykn-cli","vers":"0.3.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lykn-lang","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5f6bddb7608d7a57a74a5533b6dbc9a6a4097cd24c81de3b2a63ea852cad678","features":{},"yanked":false,"pubtime":"2026-04-05T06:39:05Z"}
