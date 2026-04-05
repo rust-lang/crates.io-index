@@ -1,0 +1,1 @@
+{"name":"cloacina-build","vers":"0.4.0","deps":[{"name":"pyo3-build-config","req":"^0.25","features":["resolve-config"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf5499c414076204628c2184601329832c9f8d0e7737aff4e112f7d04150cd66","features":{},"yanked":false,"pubtime":"2026-04-05T13:23:19Z"}
