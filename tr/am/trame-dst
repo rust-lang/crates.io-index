@@ -1,0 +1,1 @@
+{"name":"trame-dst","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cf99028640368038348faa34d1a30d5d99142f5f25da916781e33ea1c0445b44","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-04-05T07:39:46Z"}
