@@ -1,0 +1,1 @@
+{"name":"ferriorm-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f0001a82eec9c37791b49b08c087d118108b0d53a080a8bdbf8490f78524c7d","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-04-06T23:28:59Z","v":2}
