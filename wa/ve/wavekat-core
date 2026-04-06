@@ -2,3 +2,4 @@
 {"name":"wavekat-core","vers":"0.0.2","deps":[],"cksum":"6bd05999912329cd2f481c569f9f8952e2e40664f1a7e99f255e193c64c621e4","features":{},"yanked":false,"pubtime":"2026-03-27T06:35:51Z"}
 {"name":"wavekat-core","vers":"0.0.3","deps":[],"cksum":"d43ccdab1dc9c5fda407fddf9aa049c6b25efe75c1ef3d39e1ae1fee8bf17443","features":{},"yanked":false,"pubtime":"2026-03-27T09:37:17Z"}
 {"name":"wavekat-core","vers":"0.0.4","deps":[],"cksum":"1a7c163994a3476a01081470692a54e87f03fccc1c1ba13149c9b3a00a21b097","features":{},"yanked":false,"pubtime":"2026-04-06T20:50:08Z"}
+{"name":"wavekat-core","vers":"0.0.5","deps":[{"name":"hound","req":"^3.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10fa50550a2a417f3b0afc65c39e510f3b75a82557b8cd747e959452ac1d7e3b","features":{},"features2":{"wav":["dep:hound"]},"yanked":false,"pubtime":"2026-04-06T22:51:02Z","v":2}
