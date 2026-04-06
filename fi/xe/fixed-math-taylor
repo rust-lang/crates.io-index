@@ -1,1 +1,2 @@
 {"name":"fixed-math-taylor","vers":"0.1.0","deps":[],"cksum":"c9db38f081e91c6bc9c46c56c79d20ba97ceb760f264ce82782b3a9a8edb0a7a","features":{"default":[],"f32":[],"fast-sin":[],"lut":[],"taylor":[]},"yanked":false,"pubtime":"2026-04-06T13:35:42Z"}
+{"name":"fixed-math-taylor","vers":"0.2.0","deps":[],"cksum":"f76507ebf76927e0c5823a6af8c6109931058f8c6f175deb329e7ed6122a4985","features":{"default":[],"f32":[],"fast-sin":[],"lut":[],"taylor":[]},"yanked":false,"pubtime":"2026-04-06T14:37:56Z"}
