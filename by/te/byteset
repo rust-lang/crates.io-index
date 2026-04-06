@@ -2,3 +2,4 @@
 {"name":"byteset","vers":"1.1.0","deps":[{"name":"lolevel","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"utf8next","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bed6183e4aef0a297d2bccc3c2dc64f183f7237be5e24fd5c430860819101a2a","features":{},"yanked":false,"pubtime":"2026-03-20T15:55:15Z"}
 {"name":"byteset","vers":"1.1.1","deps":[],"cksum":"a6aec31e744fcc54bc108aef89ca0d32d5b7a8578532797915023708009346e6","features":{},"yanked":false,"pubtime":"2026-03-20T15:57:34Z"}
 {"name":"byteset","vers":"1.1.2","deps":[],"cksum":"8f4680328d35d2ead8351b2255502e707ce227105e827a7ee7d7ee870d31b2d1","features":{},"yanked":false,"pubtime":"2026-03-26T11:45:12Z"}
+{"name":"byteset","vers":"1.2.0","deps":[],"cksum":"192375f2d46a2cfcb26a53ec9250f4e0fb515a0169dff65de60579cea7e5035a","features":{},"yanked":false,"pubtime":"2026-04-06T14:48:53Z"}
