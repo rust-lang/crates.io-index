@@ -1,0 +1,1 @@
+{"name":"libmime","vers":"0.1.0","deps":[{"name":"phf","req":"^0.13.1","features":["std"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"491070e356b759b083a6e6af4e23dcfbbddc6466181c93d747bd444cb5959939","features":{"default":["std"],"std":["phf"]},"yanked":false,"rust_version":"1.66","pubtime":"2026-04-06T23:31:36Z"}
