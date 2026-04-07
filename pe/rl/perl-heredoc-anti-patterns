@@ -1,0 +1,1 @@
+{"name":"perl-heredoc-anti-patterns","vers":"0.12.2","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7de009fb1a4f1c6ed2c9ac1477723fad59f43ab36085bdbff51f8c549d6f6f99","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-07T12:43:40Z"}
