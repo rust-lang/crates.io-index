@@ -1,0 +1,1 @@
+{"name":"libicsneoc2-sys","vers":"0.1002002.0-rc.3","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c117ac7c7c0b5524ada1fce2ebb5ef8219469047f7964032b3497e2ddcc0025b","features":{"vendored":[]},"yanked":false,"links":"icsneoc2","pubtime":"2026-04-07T15:15:31Z"}
