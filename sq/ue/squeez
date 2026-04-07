@@ -1,0 +1,1 @@
+{"name":"squeez","vers":"0.2.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"9faa8620923f2cfd1cced5c8237c8c20e193a3fdc99302cb70d865618fc2d9f9","features":{},"yanked":false,"pubtime":"2026-04-07T13:20:37Z"}
