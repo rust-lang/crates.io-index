@@ -4,3 +4,4 @@
 {"name":"stlrs","vers":"0.2.2","deps":[],"cksum":"3812a687d2fe10b445b7905d46503b071e603512a3d5c21180d9d43cf1860bfb","features":{},"yanked":false,"pubtime":"2023-06-20T13:20:17Z"}
 {"name":"stlrs","vers":"0.3.0","deps":[],"cksum":"c5be11e195237f245f69f7900fbd12d00f68d4603747f7f09ee6a9a9022b272d","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2023-09-25T07:52:00Z"}
 {"name":"stlrs","vers":"0.3.1","deps":[],"cksum":"1bc437f5340cfad02b97cb7bba65a364f6121845a7a25aaf79f3d3dea46e6cf3","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2024-07-11T05:33:39Z"}
+{"name":"stlrs","vers":"0.4.0","deps":[],"cksum":"fd516b22a2daf83737f16616e24cab0f76e36b72a333782f3bccbc159d924617","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-04-07T20:05:45Z"}
