@@ -3,3 +3,4 @@
 {"name":"breakout","vers":"0.2.0","deps":[],"cksum":"75001ce19a2c463e544a04e56e6ff8911dc0af0565b40e9a187b1b55bddd71c4","features":{},"yanked":false,"pubtime":"2021-10-26T05:33:01Z"}
 {"name":"breakout","vers":"0.2.1","deps":[],"cksum":"2fe42444e6411775615c812286eca562ac0b2946fc2f555f5eff956d4ecf2493","features":{},"yanked":false,"pubtime":"2021-12-16T05:34:00Z"}
 {"name":"breakout","vers":"0.3.0","deps":[],"cksum":"d20cb3124c10075808d99978aabecf24a77ed780cf21da0da2b5317e0eb2e547","features":{},"yanked":false,"rust_version":"1.66.0","pubtime":"2024-07-11T05:20:44Z"}
+{"name":"breakout","vers":"0.4.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80addd3742ebe02b9d5ed1a02823173baf52fa44794984905ce1258fe4aa536a","features":{"no_std":["libm"]},"yanked":false,"rust_version":"1.66.0","pubtime":"2026-04-07T19:52:41Z"}
