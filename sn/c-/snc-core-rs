@@ -1,1 +1,2 @@
 {"name":"snc-core-rs","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9529008a2acec4c025839867fc0f7958da47b228781d03bbb9cc8eb7a0fa14eb","features":{},"yanked":false,"pubtime":"2026-03-30T02:47:14Z"}
+{"name":"snc-core-rs","vers":"0.7.1","deps":[],"cksum":"1423b3a9442cd36db278b5ee2670f6c961f1d729b18dc7abbff101ee5d7129b8","features":{},"yanked":false,"pubtime":"2026-04-08T14:31:11Z"}
