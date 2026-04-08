@@ -3,3 +3,4 @@
 {"name":"dtor-proc-macro","vers":"0.0.2","deps":[],"cksum":"99dc540397d4824b3541f3cb4ed40ff569df8f7d9ac797684ba5aa3633583f37","features":{"__warn_on_missing_unsafe":[],"default":[],"used_linker":[]},"yanked":false,"pubtime":"2025-02-15T20:07:24Z"}
 {"name":"dtor-proc-macro","vers":"0.0.5","deps":[],"cksum":"7454e41ff9012c00d53cf7f475c5e3afa3b91b7c90568495495e8d9bf47a1055","features":{"default":[]},"yanked":false,"pubtime":"2025-02-26T18:36:43Z"}
 {"name":"dtor-proc-macro","vers":"0.0.6","deps":[],"cksum":"f678cf4a922c215c63e0de95eb1ff08a958a81d47e485cf9da1e27bf6305cfa5","features":{"default":[]},"yanked":false,"pubtime":"2025-07-27T12:50:22Z"}
+{"name":"dtor-proc-macro","vers":"0.0.10","deps":[],"cksum":"62523fcb747cefb3f30a4d0a409e10c44b0d598dd1c466d93eeb90c21d7efca1","features":{"default":[]},"yanked":false,"pubtime":"2026-04-08T01:02:33Z"}
