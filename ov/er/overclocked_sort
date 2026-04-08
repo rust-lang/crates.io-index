@@ -1,2 +1,3 @@
 {"name":"overclocked_sort","vers":"0.1.0","deps":[],"cksum":"b0d861262a82826015cc8a514f0ee0226d345cbeff83f18fd1263fdf42bbb911","features":{},"yanked":false,"pubtime":"2026-04-07T12:38:40Z"}
 {"name":"overclocked_sort","vers":"0.1.1","deps":[],"cksum":"5804775294e35bb1a189d5ad39b19d3cb16bcc739464c5caddb73898061ff0b6","features":{},"yanked":false,"pubtime":"2026-04-07T18:41:20Z"}
+{"name":"overclocked_sort","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb0e9f2da0f6dfe977d7281a8e0ec59ac366b97e605b5f186c4558eba6994f7f","features":{},"yanked":false,"pubtime":"2026-04-08T04:04:09Z"}
