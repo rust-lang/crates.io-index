@@ -1,1 +1,2 @@
 {"name":"docoxide","vers":"0.1.0","deps":[],"cksum":"8846224d851360992160eaeb2fd6f30b52dafbee987faa4d387e52a4a6687c0c","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-03-30T22:52:52Z"}
+{"name":"docoxide","vers":"0.1.0-alpha.1","deps":[{"name":"clap","req":"^4.6.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80e702a725af19de72a9022f7296c7e603041310aa188dd05a380c1d07bba5ad","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-08T23:04:21Z"}
