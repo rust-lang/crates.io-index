@@ -1,0 +1,1 @@
+{"name":"adb-wire","vers":"0.0.1","deps":[{"name":"tokio","req":"^1","features":["net","rt","io-util","time","fs","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85d625dea1295da5da2494199e15a9b588995cbc14188e77fe796edbbc43797a","features":{},"yanked":false,"pubtime":"2026-04-08T07:21:07Z"}
