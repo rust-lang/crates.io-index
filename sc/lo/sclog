@@ -2,3 +2,4 @@
 {"name":"sclog","vers":"0.2.0","deps":[],"cksum":"29b7ad3d245842dd46beb143db3840cf10a237b1bc994ecdafa699f3dc8341e3","features":{},"yanked":false,"pubtime":"2025-12-30T08:42:40Z"}
 {"name":"sclog","vers":"0.3.0","deps":[],"cksum":"c34cad8f435d58233a5fbed8bf7e2b15b5551364e988a9d9e2a4159b7da9652b","features":{},"yanked":false,"pubtime":"2026-03-05T21:12:57Z"}
 {"name":"sclog","vers":"0.4.0","deps":[],"cksum":"1b6801882b99bede5b4333fba1122f0110f370a9a86072bfed8c0adb7fc8c3fe","features":{},"yanked":false,"pubtime":"2026-03-15T18:24:58Z"}
+{"name":"sclog","vers":"0.5.0","deps":[],"cksum":"dc21045813db8a17c387d18910d69cbdb7586129b15fdcbae020294323a2328f","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-08T17:27:30Z"}
