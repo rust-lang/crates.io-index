@@ -1,0 +1,1 @@
+{"name":"mistralrs-kv-cache","vers":"0.1.0","deps":[{"name":"candle-core","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03db210b843073b3744c167a4bc2600e9ade10b5cf8df26bd237af1ff2948fdf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-04-09T18:07:36Z"}
