@@ -1,0 +1,1 @@
+{"name":"dotenvpp-parser","vers":"0.0.2","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2ea2540bf437873f443f50eded8687d4651d8504ca95b7a5b8d778a23ef53df9","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-09T17:39:02Z"}
