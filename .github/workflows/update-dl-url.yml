@@ -46,6 +46,8 @@ jobs:
     steps:
       - name: Clone the source code
         uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
       - name: Switch the download endpoint
         run: |
