@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-nrf","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0484a00599f10230ddfe96b087711073b938a7353fd410cc372279563ae54cf4","features":{},"yanked":false,"pubtime":"2026-04-09T03:45:31Z"}
