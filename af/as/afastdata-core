@@ -1,1 +1,2 @@
 {"name":"afastdata-core","vers":"0.0.1","deps":[],"cksum":"9117838a344e20e43403bdd038909e79208f569b4431e55704b20ded657c8d98","features":{"default":[],"len-u64":[]},"yanked":false,"pubtime":"2026-04-08T03:06:34Z"}
+{"name":"afastdata-core","vers":"0.0.2","deps":[{"name":"afastdata-macro","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"850056338e373eb9d0334fb9f3146063f1371a7f40b4a1628faa1ac9ac7ba023","features":{"default":[],"len-u64":[]},"yanked":false,"pubtime":"2026-04-09T03:30:06Z"}
