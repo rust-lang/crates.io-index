@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-rp2040","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcc601c6ffa2c97f7846fe6079f549b65d2452cbc0cdaf984ae40f7e96afff58","features":{},"yanked":false,"pubtime":"2026-04-09T10:14:28Z"}
