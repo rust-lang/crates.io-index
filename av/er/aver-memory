@@ -1,0 +1,1 @@
+{"name":"aver-memory","vers":"0.1.0","deps":[{"name":"aver-rt","req":"=0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2497d2878ae91940a2582f52cc06ab1c8e171986d86fb759761d8c7b44a00824","features":{"default":["std"],"std":[]},"features2":{"runtime":["dep:aver-rt"]},"yanked":false,"pubtime":"2026-04-09T21:21:39Z","v":2}
