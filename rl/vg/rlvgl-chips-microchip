@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-microchip","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d312983a415d3200acb7c8be9a2390762dd0a31c1cc8c654b8d1c98518d3679b","features":{},"yanked":false,"pubtime":"2026-04-09T03:47:42Z"}
