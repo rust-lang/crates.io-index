@@ -32,11 +32,12 @@ env:
   URL_s3_primary: "https://crates-io.s3-us-west-1.amazonaws.com/crates/{crate}/{crate}-{version}.crate"
   URL_s3_fallback: "https://crates-io-fallback.s3-eu-west-1.amazonaws.com/crates/{crate}/{crate}-{version}.crate"
 
-permissions:
-  contents: write
-
 jobs:
   switch:
+    permissions:
+      # Needed to update config.json via the GitHub API
+      contents: write
+
     # The option the user selected is included in the job name to permanently
     # log it, as those options are not otherwise logged and including it in the
     # build log would result in it being deleted after 90 days.
