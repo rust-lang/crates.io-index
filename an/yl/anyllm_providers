@@ -1,0 +1,1 @@
+{"name":"anyllm_providers","vers":"0.9.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e0da96ae34e9220c5e606351e56eb965ec3df7aad31209b1ef76266389c055d","features":{},"yanked":false,"pubtime":"2026-04-09T20:11:47Z"}
