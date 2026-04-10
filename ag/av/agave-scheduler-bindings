@@ -20,3 +20,4 @@
 {"name":"agave-scheduler-bindings","vers":"3.1.12","deps":[],"cksum":"13e0478b5b4d213565280f158e98612e8732ba361072d6d243f39dc38952612a","features":{"agave-unstable-api":[],"dev-context-only-utils":[]},"yanked":false,"pubtime":"2026-04-03T17:05:38Z"}
 {"name":"agave-scheduler-bindings","vers":"4.0.0-beta.6","deps":[],"cksum":"592a674dc70f1a7cfa0e41b3bd8aeb195f4e9189b1d171efa077654e11915e03","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-04-03T19:08:57Z"}
 {"name":"agave-scheduler-bindings","vers":"4.0.0-beta.7","deps":[],"cksum":"38a4c729e271b1a599f5081ab488a6296fb321ed1841611b9faa0ffd4e1bf516","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-04-10T16:06:46Z"}
+{"name":"agave-scheduler-bindings","vers":"3.1.13","deps":[],"cksum":"506f0363a822afe6c9900e5f5d2fe43e6027ebbb4853dd9d3fee0616148d6c59","features":{"agave-unstable-api":[],"dev-context-only-utils":[]},"yanked":false,"pubtime":"2026-04-10T18:06:11Z"}
