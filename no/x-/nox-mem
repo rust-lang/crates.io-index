@@ -1,0 +1,1 @@
+{"name":"nox-mem","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59190627b5618ecc9c30c4dfc44ac365fe74c01fdc71d56a7d831515a3adf210","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-10T20:52:11Z"}
