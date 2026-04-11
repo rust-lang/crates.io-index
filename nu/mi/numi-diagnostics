@@ -1,0 +1,1 @@
+{"name":"numi-diagnostics","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db5251b95e877fd1d0adb4d6d38c07abbbd8669f563e5a349dfac91e559551b2","features":{},"yanked":false,"pubtime":"2026-04-11T20:48:03Z"}
