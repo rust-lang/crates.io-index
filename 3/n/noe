@@ -1,2 +1,3 @@
 {"name":"noe","vers":"0.3.1","deps":[],"cksum":"d70d013d48363812816e348ef3a3b3305279429a3b7b3c0453327bcc41282974","features":{"truncate":[]},"yanked":false,"pubtime":"2026-04-09T10:59:19Z"}
 {"name":"noe","vers":"0.3.4","deps":[],"cksum":"8633944e27ea83faf018b2ad603eb323dacb3588f954c8addd2bb81f5627bc31","features":{"default":["truncate"],"truncate":[]},"yanked":false,"pubtime":"2026-04-11T10:58:07Z"}
+{"name":"noe","vers":"0.3.5","deps":[],"cksum":"b5ebc858886a80c67a64c6e1e30cb8227315eda5a4af7272465a99ca8976d9d4","features":{"default":["truncate"],"truncate":[]},"yanked":false,"pubtime":"2026-04-11T13:49:49Z"}
