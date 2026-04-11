@@ -1,0 +1,1 @@
+{"name":"vedaksha-math","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dec6b79f924336c29887de11946f15ca2aec60cba5c2c6385c84d0bd91ec299","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-11T11:55:36Z"}
