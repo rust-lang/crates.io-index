@@ -19,3 +19,4 @@
 {"name":"rio_api","vers":"0.8.3","deps":[],"cksum":"42e121c6d7cd351521b2f18d9443ffadc622ff4941cb9a332755fceaf22f8d2a","features":{"default":[],"generalized":[]},"yanked":false,"rust_version":"1.60","pubtime":"2023-03-18T11:30:21Z"}
 {"name":"rio_api","vers":"0.8.4","deps":[],"cksum":"1924fa1f0e6d851f9b73b3c569e607c368a0d92995d99d563ad7bf1414696603","features":{"default":[],"generalized":[]},"yanked":false,"rust_version":"1.60","pubtime":"2023-04-19T17:25:39Z"}
 {"name":"rio_api","vers":"0.8.5","deps":[],"cksum":"61d0c76ddf8b00cbb4d2c5932d067d49245c2f1f651809bde3cf265033ddb1af","features":{"default":[],"generalized":[]},"yanked":false,"rust_version":"1.75","pubtime":"2024-08-25T16:20:28Z"}
+{"name":"rio_api","vers":"0.8.6","deps":[],"cksum":"cb24af4f2e3226a44cb6f31f547bba67710ddaf7104af89f254ede509b8f26a4","features":{"default":[],"generalized":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-04-11T10:24:05Z"}
