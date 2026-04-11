@@ -1,0 +1,1 @@
+{"name":"cloudiful-bevy-input","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.18.1","features":["keyboard","gamepad","bevy_gilrs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9a2c9b358a8c0d18ccd0296d99325d9a4caa0f2bb1099d5cca4d40979a7d3a1b","features":{},"yanked":false,"pubtime":"2026-04-11T17:16:24Z"}
