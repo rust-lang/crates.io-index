@@ -1,1 +1,2 @@
 {"name":"itemize","vers":"0.1.0","deps":[{"name":"itemize_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"466a47d49ed2efe1e86163f3b5de72697bd55ba627dcca3df9ed1d1cbb56f74d","features":{"default":["derive"],"derive":["itemize_derive"]},"yanked":false,"pubtime":"2025-11-26T14:07:04Z"}
+{"name":"itemize","vers":"0.2.0","deps":[],"cksum":"a3a48bc18040f7ff53138b1fa059fa33be6783580c06e75b7a2c8217bb5436aa","features":{},"yanked":false,"pubtime":"2026-04-11T19:05:27Z"}
