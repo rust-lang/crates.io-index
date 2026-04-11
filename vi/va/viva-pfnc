@@ -1,0 +1,1 @@
+{"name":"viva-pfnc","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ee3ea4e86920ac17f2d747d7f6bfe5a34302b3f63bd85e8b852c7449dc7767c","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-11T08:33:53Z","v":2}
