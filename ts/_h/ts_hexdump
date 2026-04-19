@@ -1,0 +1,2 @@
+{"name":"ts_hexdump","vers":"0.0.0-alpha0","deps":[],"cksum":"b3483b3be389b05190eeb33e2755b21d70e0939ac7976c3e68e0ffc5d668056b","features":{},"yanked":false,"pubtime":"2026-01-05T23:26:13Z"}
+{"name":"ts_hexdump","vers":"0.2.0","deps":[{"name":"heapless","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78c3e5115c6f1a93e406262b26ad3418015cc8efdc9a11c69b0913a8adf428d4","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-15T14:31:04Z"}

@@ -1,0 +1,1 @@
+{"name":"cvc5","vers":"0.4.0","deps":[{"name":"cvc5-sys","req":"=0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad7c63e1e58002164d4ada2bdac7b5a64fa61e22d64dce586079bc131e10fbfc","features":{"parser":["cvc5-sys/parser"],"static":["cvc5-sys/static"]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-04-15T20:54:21Z"}

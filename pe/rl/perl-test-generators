@@ -1,0 +1,1 @@
+{"name":"perl-test-generators","vers":"0.12.2","deps":[{"name":"proptest","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e71bdbc16eda7c084d2200f6e228ec3f6d93984860983e5d72af61f4d1a1d1a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-08T13:21:49Z"}

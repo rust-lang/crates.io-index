@@ -1,0 +1,1 @@
+{"name":"predisposition","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2369c74aa2434dff41602429747da41ad5a9f76878dd017809562b14515f04f","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-03-12T20:06:32Z","v":2}

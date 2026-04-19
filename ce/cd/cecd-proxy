@@ -1,0 +1,1 @@
+{"name":"cecd-proxy","vers":"0.1.0","deps":[{"name":"zbus","req":"^5","features":["tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"10d5b3be61ce94b290dc4afc8e9a233649dd788b2307429f942f1ebd575c4df3","features":{},"yanked":false,"pubtime":"2026-02-26T01:23:23Z"}

@@ -1,0 +1,1 @@
+{"name":"rust-zstd","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d556913dfad2fe0a10328b1a99c3bb834acbe26fd267bd3b3b3f3032d7533804","features":{"default":["parallel"],"parallel":["rayon"]},"yanked":false,"pubtime":"2026-04-08T04:27:59Z"}

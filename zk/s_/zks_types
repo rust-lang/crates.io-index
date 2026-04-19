@@ -1,0 +1,1 @@
+{"name":"zks_types","vers":"0.1.0","deps":[{"name":"zeroize","req":"^1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa3104764704cb63ccb41fcd3a61d9d6167c8cd54e1e63a6f858e73b9824b179","features":{},"yanked":false,"pubtime":"2026-01-06T18:55:02Z"}

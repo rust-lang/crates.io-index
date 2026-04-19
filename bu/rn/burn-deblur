@@ -1,0 +1,1 @@
+{"name":"burn-deblur","vers":"0.1.0","deps":[{"name":"burn","req":"^0.20.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"af9461f4dc6615a51683bde92e9225a58e8af275b42054df3887d8a54a8be463","features":{"default":["std","burn/default"],"std":["burn/std"]},"yanked":false,"pubtime":"2026-01-23T00:19:52Z"}

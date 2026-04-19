@@ -1,0 +1,1 @@
+{"name":"acdc-core","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af8aceec853500806b3bf571ef184b4de906141303d22486a2b89fc93bfe9dcd","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2025-12-28T19:13:08Z"}

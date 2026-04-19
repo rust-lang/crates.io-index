@@ -1,0 +1,1 @@
+{"name":"nym-cache","vers":"1.20.4","deps":[{"name":"tokio","req":"^1.47","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25758a4e7626d03f4c8e2ca3c5ba9a695ad21041bcc8e4b5068b52be0ab3f6fc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-21T21:57:44Z"}

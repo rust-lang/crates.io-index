@@ -1,0 +1,5 @@
+{"name":"crs-definitions","vers":"0.1.0","deps":[],"cksum":"265f77f5ee9e1ee60fb932ca03fe564308a73077a7e8f543517b93333409e6f5","features":{},"yanked":false,"pubtime":"2023-11-07T15:56:30Z"}
+{"name":"crs-definitions","vers":"0.2.0","deps":[],"cksum":"8cfa9b28a1ca70625fe6dbe8208f977e32880dba6d8e1e548e3b1392f3f6be53","features":{"default":["proj4","wkt"],"proj4":[],"wkt":[]},"yanked":false,"pubtime":"2023-11-10T22:01:33Z"}
+{"name":"crs-definitions","vers":"0.3.0","deps":[],"cksum":"52a5c99491ee16d7f1549494bcab90bdfb2f283ef48a25fc6c870e7e7c9f12bb","features":{"default":["proj4","wkt"],"proj4":[],"wkt":[]},"yanked":false,"pubtime":"2023-11-10T22:44:24Z"}
+{"name":"crs-definitions","vers":"0.3.1","deps":[],"cksum":"36aeb03b9e8d31aa9e8796d6d78957647761e96ee53935520cdda23cd19aa98b","features":{"default":["proj4","wkt"],"proj4":[],"wkt":[]},"yanked":false,"pubtime":"2025-08-15T19:32:02Z"}
+{"name":"crs-definitions","vers":"0.4.0","deps":[],"cksum":"5229c5b63bdc8e24d60e5c4b6115fbb4d11a8978661b4ecc57d6068ddb073983","features":{"default":["proj4","wkt"],"proj4":[],"wkt":[]},"yanked":false,"pubtime":"2026-01-09T13:58:55Z"}

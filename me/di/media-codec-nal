@@ -1,0 +1,1 @@
+{"name":"media-codec-nal","vers":"0.1.0","deps":[{"name":"media-core","req":"^0.9.0","features":["video"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2428f6dc8043ca2923f49d2933d6cc342887080ffcb46af5e2c804a5164d6897","features":{},"yanked":false,"pubtime":"2026-04-01T13:25:25Z"}

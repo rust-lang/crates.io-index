@@ -1,0 +1,1 @@
+{"name":"ironrdp-bulk","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a28e279d5b416adae8cc57c681a96af8e6574828b7183bf57137311a2cd5d21c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-02-18T12:13:36Z"}

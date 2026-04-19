@@ -1,0 +1,1 @@
+{"name":"longbridge-geo","vers":"4.0.5","deps":[{"name":"reqwest","req":"^0.12.23","features":["rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f4d4fe0e1ba06401f8b073786b3fedb5e3cfd17da02dc7e6d1a56362417002f0","features":{},"yanked":false,"pubtime":"2026-03-23T10:22:29Z"}

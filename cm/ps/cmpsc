@@ -1,0 +1,1 @@
+{"name":"cmpsc","vers":"0.0.1","deps":[{"name":"clap","req":"^4.6.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd410d77cbbd56c5d245741dde555555be29fdcfe1876a84c0801c32350523f2","features":{},"yanked":false,"pubtime":"2026-03-26T04:47:32Z"}

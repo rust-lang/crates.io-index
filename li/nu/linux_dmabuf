@@ -1,0 +1,1 @@
+{"name":"linux_dmabuf","vers":"1.0.0","deps":[{"name":"rustix","req":"^1.1.3","features":["fs","mm","param"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1503a0f0646accfe9c0354f05b2451cc88ec40386f7a651b614ea33a53a2fe60","features":{},"yanked":false,"pubtime":"2026-02-15T15:01:36Z"}

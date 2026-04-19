@@ -1,0 +1,1 @@
+{"name":"jsph-tg-arceos-tutorial-exercise-altalloc-bump-allocator","vers":"0.1.0","deps":[{"name":"axallocator","req":"^0.2.0","features":["axerrno","bitmap"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b0d3e986630f9951e3923f8edeb956b8d313e50837457f19d2936f5c92b414f","features":{},"yanked":false,"pubtime":"2026-04-14T09:15:14Z"}

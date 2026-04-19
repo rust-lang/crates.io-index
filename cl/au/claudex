@@ -1,0 +1,1 @@
+{"name":"claudex","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1a316a3b40329bd48e237a0d14c7ebb28c6bd30768870c76e6bbed0538d88a5","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-04-18T05:08:01Z"}

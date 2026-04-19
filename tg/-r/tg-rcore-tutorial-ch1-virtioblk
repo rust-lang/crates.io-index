@@ -1,0 +1,1 @@
+{"name":"tg-rcore-tutorial-ch1-virtioblk","vers":"0.1.0-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.8","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"f9838df23f8fb56c25bea9868b9749b5daa739c08639f5b23af415a066b1d421","features":{},"yanked":false,"pubtime":"2026-03-14T09:49:05Z"}

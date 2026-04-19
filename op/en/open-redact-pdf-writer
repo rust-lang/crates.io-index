@@ -1,0 +1,1 @@
+{"name":"open-redact-pdf-writer","vers":"0.1.0","deps":[{"name":"pdf_objects","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"open-redact-pdf-objects"}],"cksum":"2b4caa594ba3454957ba025a21ecccb2c6cf1c7da79a4a6839fe868926083f82","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-11T06:43:57Z"}

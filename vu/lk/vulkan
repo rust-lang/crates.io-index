@@ -1,0 +1,2 @@
+{"name":"vulkan","vers":"0.0.0-dev","deps":[],"cksum":"19402cedf62334eb45be1172aa3d123f9fb96765dedec324eceaae1023a5df67","features":{},"yanked":false,"pubtime":"2025-10-14T20:48:31Z"}
+{"name":"vulkan","vers":"0.0.0-dev.0+1.3.281","deps":[{"name":"ash","req":"^0.38","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3fe3fa5eef3a1914cb06241d93ddeb03beebbda1f13541ef155c82efd00edbcd","features":{},"yanked":false,"pubtime":"2026-03-01T16:37:59Z"}

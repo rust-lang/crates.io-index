@@ -1,0 +1,1 @@
+{"name":"quarlus-events","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["sync","rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca993d3dff6d71821abeb39cbdf6b4d3186930aecdbe57b287b5335fc38727c4","features":{},"yanked":false,"pubtime":"2026-01-28T15:53:33Z"}

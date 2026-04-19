@@ -1,0 +1,1 @@
+{"name":"swatchthis","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4ee4f4d6a8007f5946ad8200d206064cbbc80e13995c9fbdce7f7f093abd950","features":{},"features2":{"wasm":["dep:wasm-bindgen"]},"yanked":false,"pubtime":"2026-03-06T07:40:47Z","v":2}

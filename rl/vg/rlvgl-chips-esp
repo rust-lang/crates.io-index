@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-esp","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b823fdcf79f7f9abde00e8cacc930a1149e7ee5105672aafb59c5c3cfc9bbfa2","features":{},"yanked":false,"pubtime":"2026-04-09T03:46:04Z"}

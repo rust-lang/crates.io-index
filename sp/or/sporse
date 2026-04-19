@@ -1,0 +1,2 @@
+{"name":"sporse","vers":"0.1.0","deps":[],"cksum":"cb006bf9520e5cde73e4cf439884111f1642cebd3b0f5f2ea42615edaec9fcf0","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-14T13:43:35Z"}
+{"name":"sporse","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d74d1dc34a2827fa82a91cf4956737349520acee4f5cd5b1ce0dae050ad38e4","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-14T17:46:29Z","v":2}

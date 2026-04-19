@@ -1,0 +1,1 @@
+{"name":"neo-solana-compat","vers":"0.1.0","deps":[{"name":"tiny-keccak","req":"^2","features":["keccak"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d41ce6e62ca60c4cc2c425727253fcfd0838fe36c9e20772057013218a1e45ab","features":{"default":[],"no-entrypoint":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-29T11:14:49Z"}

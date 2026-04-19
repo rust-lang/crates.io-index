@@ -1,0 +1,1 @@
+{"name":"vimspell","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.16.1","features":["inline-more","default-hasher"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"12ddc4f52d5a07236be4fe468256ee5bdbe51a964683fdbca05a8593f0383919","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-02-08T15:29:59Z"}

@@ -1,0 +1,2 @@
+{"name":"ts_time","vers":"0.0.0-alpha0","deps":[],"cksum":"b7cb5eb8febc25835aa504f60d59c17442064acc9afc9396471b07baf4358e95","features":{},"yanked":false,"pubtime":"2026-01-07T12:56:12Z"}
+{"name":"ts_time","vers":"0.2.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"89eaf2f01f1a89b921f2932b8addaac5320abf334dcef40ac8321b904f48f193","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-15T14:36:39Z"}

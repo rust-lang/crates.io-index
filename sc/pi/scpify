@@ -1,0 +1,2 @@
+{"name":"scpify","vers":"0.1.1","deps":[],"cksum":"0468c88483dbd516484a638faaa441427e4dbad3ce64095e77c885ce45840434","features":{"default":["tcp"],"tcp":[]},"yanked":false,"pubtime":"2026-04-14T00:28:40Z"}
+{"name":"scpify","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2035a07f3ad2f54fea41834af7860f34a0fc534986e3a8dcc9fc717a57e7c39","features":{"default":["tcp","hislip"],"hislip":[],"tcp":[]},"yanked":false,"pubtime":"2026-04-18T14:51:27Z"}

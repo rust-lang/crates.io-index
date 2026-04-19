@@ -1,0 +1,1 @@
+{"name":"cow-primitives","vers":"0.1.2","deps":[{"name":"alloy-primitives","req":"^1","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ec07d2817b1de8d255e4c846a436f7577f8b8b90ce29b9b8144460a49619f2","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-16T16:05:08Z"}

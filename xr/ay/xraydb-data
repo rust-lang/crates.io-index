@@ -1,0 +1,1 @@
+{"name":"xraydb-data","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7bf1d9aae12008d7c25f203183e66e695cbc390cc4e91a4c4f25ea5f9da6669c","features":{},"yanked":false,"pubtime":"2026-02-17T17:09:06Z"}

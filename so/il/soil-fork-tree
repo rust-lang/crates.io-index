@@ -1,0 +1,1 @@
+{"name":"soil-fork-tree","vers":"0.2.0","deps":[{"name":"codec","req":"^3.7.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"parity-scale-codec"}],"cksum":"a027535e3e95d6209d2cfd34c2176b40f04c69fa03c114af3b6c0f1ce266ce80","features":{},"yanked":false,"pubtime":"2026-03-09T02:59:54Z"}

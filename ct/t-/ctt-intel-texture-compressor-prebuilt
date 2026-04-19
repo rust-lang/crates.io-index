@@ -1,0 +1,1 @@
+{"name":"ctt-intel-texture-compressor-prebuilt","vers":"0.2.0","deps":[{"name":"ispc-build-utils","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"cfeff01e6926a6f69942758c4deb5845d6b14b3f557e08fe87b3f7d20d613be1","features":{},"yanked":false,"links":"ispc_tex","rust_version":"1.85","pubtime":"2026-03-31T23:32:31Z"}

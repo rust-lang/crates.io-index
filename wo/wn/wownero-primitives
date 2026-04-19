@@ -1,0 +1,1 @@
+{"name":"wownero-primitives","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"34a735b075d32d33b6fbe55d2861b74af13e1c8269da717b9adb44a0d8edec17","features":{"default":["std"],"std":["sha3/std"]},"yanked":false,"rust_version":"1.60","pubtime":"2026-02-21T02:30:29Z"}

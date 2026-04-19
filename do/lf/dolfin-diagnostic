@@ -1,0 +1,1 @@
+{"name":"dolfin-diagnostic","vers":"0.1.3","deps":[{"name":"lsp-types","req":"^0.95","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dec7508562006988d0f68573a1d6e8d144a78139533f8ffe64e0190a2efe8622","features":{"default":[]},"features2":{"lsp":["dep:lsp-types"]},"yanked":false,"pubtime":"2026-04-18T14:23:28Z","v":2}
