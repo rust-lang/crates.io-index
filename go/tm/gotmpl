@@ -1,0 +1,1 @@
+{"name":"gotmpl","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b61257f1a91d12fe29d0a0a285decb79157e1bbfc941ffd6f28c72d21becee3","features":{"default":["std"],"go-crosscheck":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-04-20T20:08:26Z"}
