@@ -7,3 +7,4 @@
 {"name":"libpetri-core","vers":"1.5.0","deps":[],"cksum":"886a44177fa5e32d8f201ecb827fc6f8cb924d380f659c6bfca26136a9dedfb2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-03-30T08:34:05Z"}
 {"name":"libpetri-core","vers":"1.5.1","deps":[],"cksum":"8be03a1927d742b413f05b4c9f668fa4bac74d208c5f4102ae4d1ed3d133fb51","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-01T17:52:33Z"}
 {"name":"libpetri-core","vers":"1.7.0","deps":[],"cksum":"77123a9a0a444be5792189d811011cd41e9caea0710ce6dfa9eb09e60cc18045","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-15T18:32:02Z"}
+{"name":"libpetri-core","vers":"1.8.0","deps":[{"name":"libpetri-event","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1b9209fcceef3010374d4f8b755eb5f138770b7023eae7a4d1f8ed6fe3d51b7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-20T07:26:06Z"}
