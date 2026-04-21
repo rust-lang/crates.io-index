@@ -1,3 +1,4 @@
 {"name":"figrid-board","vers":"0.3.1","deps":[],"cksum":"879eceac2c1c3000934e28de0b81fb490df3d010ab116dbd2eb3e6f25126f942","features":{},"yanked":false,"pubtime":"2025-06-17T02:22:56Z"}
 {"name":"figrid-board","vers":"0.3.2","deps":[],"cksum":"1f1c429b0723d831e83ceddd2ba1efb26ae209e08726a5827ba9ba776d76433f","features":{},"yanked":false,"pubtime":"2026-04-20T12:02:07Z"}
 {"name":"figrid-board","vers":"0.4.0","deps":[{"name":"noru","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62cbb012142ca5c1806809c551702b96c34b1cc1ab93856afdb3f61c04ff5155","features":{},"yanked":false,"pubtime":"2026-04-21T02:15:26Z"}
+{"name":"figrid-board","vers":"0.4.2","deps":[{"name":"noru","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfefb5427ea5e52a84545ad583c4fc8ca9bfd3b3fb94bcc1339b645720a3d070","features":{},"yanked":false,"pubtime":"2026-04-21T09:11:44Z"}
