@@ -1,0 +1,1 @@
+{"name":"ratflow-channel","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ed2a030bb2935402a81c6938942639dbc8954be678baeb2d4b2b26dbfb62bc50","features":{},"yanked":false,"pubtime":"2026-04-21T10:09:53Z"}
