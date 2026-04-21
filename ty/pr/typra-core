@@ -1,1 +1,2 @@
 {"name":"typra-core","vers":"0.0.0","deps":[],"cksum":"6d384821ffddb2a0c81f2046ccbeacedf78697ce273b8629a0c2788df029e6bf","features":{},"yanked":false,"pubtime":"2026-04-21T00:58:42Z"}
+{"name":"typra-core","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1118ad317d16bd1956fe8fdc5c5cbadd4ee67871ac2f2dd88f9951b39e793d4","features":{},"yanked":false,"pubtime":"2026-04-21T02:54:05Z"}
