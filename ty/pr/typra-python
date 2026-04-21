@@ -1,0 +1,1 @@
+{"name":"typra-python","vers":"0.0.0","deps":[{"name":"pyo3","req":"^0.22","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9e0c04f978c9df7bbfa3cf007d0a10ef48c5ea2d92c260419a79f46d316074d","features":{},"yanked":false,"pubtime":"2026-04-21T00:58:51Z"}
