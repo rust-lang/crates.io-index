@@ -1,0 +1,1 @@
+{"name":"ferrox-ortools-sys","vers":"0.3.12","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ca5ae0493f38e124d58b18a9065e8fc6bfdd2d731b2bbb77b8e9e3a66f04618c","features":{"default":[],"link":[]},"yanked":false,"links":"ortools","rust_version":"1.85.0","pubtime":"2026-04-22T21:13:29Z"}
