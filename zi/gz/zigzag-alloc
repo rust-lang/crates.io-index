@@ -2,3 +2,4 @@
 {"name":"zigzag-alloc","vers":"1.0.1","deps":[],"cksum":"8c1ba72666595e61255f0788cd633e93fbbceb5b136748cb2ebcdc7f9abbe05a","features":{"default":["std"],"ffi":[],"std":[]},"yanked":false,"pubtime":"2026-04-21T22:38:07Z"}
 {"name":"zigzag-alloc","vers":"1.0.2","deps":[],"cksum":"4568c023797116ddd79298867d48a9a6640af937d3c73f8ce443f4d03ac4cfed","features":{"default":["std"],"ffi":[],"std":[]},"yanked":false,"pubtime":"2026-04-21T22:48:26Z"}
 {"name":"zigzag-alloc","vers":"1.0.3","deps":[],"cksum":"d7bef08f5ddac749cc35a74282627d0e9af555c1f8807aee3661b02f6dfdca4e","features":{"default":["std"],"ffi":[],"std":[]},"yanked":false,"pubtime":"2026-04-21T22:56:44Z"}
+{"name":"zigzag-alloc","vers":"1.0.4","deps":[],"cksum":"9724dd5dfab4b40ceb7d250fc6d284918549e8183484ffae6d3abaccdf38b159","features":{"default":["std"],"ffi":[],"std":[]},"yanked":false,"pubtime":"2026-04-22T03:39:43Z"}
