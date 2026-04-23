@@ -4,3 +4,4 @@
 {"name":"sandogasa-cli","vers":"0.9.1","deps":[],"cksum":"5335c5b34308b48a579bf52b7176d2933e8d75b6c915607fb28e1ee36ae4b56f","features":{},"yanked":false,"pubtime":"2026-04-13T13:32:55Z"}
 {"name":"sandogasa-cli","vers":"0.10.0","deps":[],"cksum":"b358cb8d0f734709718b9c526407f3dd8829b30e17dee7a107e72e4931defa5c","features":{},"yanked":false,"pubtime":"2026-04-17T13:15:04Z"}
 {"name":"sandogasa-cli","vers":"0.10.1","deps":[],"cksum":"7655d460faf8cae90273a6f7a552bac01a48aa2ac69b8911d28fe532e2b2a0d5","features":{},"yanked":false,"pubtime":"2026-04-21T14:24:03Z"}
+{"name":"sandogasa-cli","vers":"0.10.2","deps":[{"name":"chrono","req":"^0.4","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4ce49b6e173d0f0fa27284c531abd8d7e28cca56f7e8c9e2d8ee8e0f82f63b0","features":{},"yanked":false,"pubtime":"2026-04-23T21:18:06Z"}
