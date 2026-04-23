@@ -1,0 +1,1 @@
+{"name":"assay-auth","vers":"0.1.0","deps":[{"name":"assay-domain","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e5188c95ac82748cdedd0c878cfc23861a4104ddb5fd64434495b2cccdc6ef8","features":{"backend-postgres":[],"backend-sqlite":[]},"yanked":false,"pubtime":"2026-04-23T01:17:17Z"}
