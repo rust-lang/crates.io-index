@@ -1,0 +1,1 @@
+{"name":"agent_feed_install","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcf44c5bde23586adada52adcf27a0d3546d8ccd4eacca8a8d35b23ddcaadb2a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-24T12:58:16Z"}
