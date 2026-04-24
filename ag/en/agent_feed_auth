@@ -1,0 +1,1 @@
+{"name":"agent_feed_auth","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29f8e27c68558ecef37f07b3365b20b95dfb57497cc4b032e3d4b10fb48a3971","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-24T12:07:39Z"}
