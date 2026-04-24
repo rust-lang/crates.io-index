@@ -1,0 +1,1 @@
+{"name":"pktana-core","vers":"0.1.0","deps":[{"name":"pcap","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b1aa20ae98dd0ab3d682ed1f93559ff0e3de541edeb825934ea7cd10124ea97","features":{"default":[]},"features2":{"pcap":["dep:pcap"]},"yanked":false,"pubtime":"2026-04-24T19:49:39Z","v":2}
