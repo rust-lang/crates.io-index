@@ -6,3 +6,4 @@
 {"name":"fdt","vers":"0.1.4","deps":[],"cksum":"964f5becd44d069dca0beea2b4bc05639ae7bf3b3f5369c295aff360bb57cca2","features":{},"yanked":false,"pubtime":"2022-07-31T20:45:47Z"}
 {"name":"fdt","vers":"0.1.5","deps":[],"cksum":"784a4df722dc6267a04af36895398f59d21d07dce47232adf31ec0ff2fa45e67","features":{"pretty-printing":[]},"yanked":false,"pubtime":"2023-02-05T17:05:00Z"}
 {"name":"fdt","vers":"0.2.0-alpha1","deps":[],"cksum":"9d070dea8bd0df3ea6d250490ae21eb908e83478c53099212ba1fa5af8e77a5b","features":{"linux-dt-bindings":[],"pretty-printing":[]},"yanked":false,"pubtime":"2026-01-11T04:19:34Z"}
+{"name":"fdt","vers":"0.2.0-alpha2","deps":[],"cksum":"c8ccfb5c9d9425b2191070f0435636f4a9cdfedd107e33b15f861622b222726a","features":{"linux-dt-bindings":[],"pretty-printing":[]},"yanked":false,"pubtime":"2026-04-24T01:28:59Z"}
