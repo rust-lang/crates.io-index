@@ -1,0 +1,1 @@
+{"name":"pylon-kernel","vers":"0.2.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8956abd8193b97cbfbcde923c9f7947786c4040a7ef10eee362ed530ddb8dd89","features":{},"yanked":false,"pubtime":"2026-04-24T20:02:07Z"}
