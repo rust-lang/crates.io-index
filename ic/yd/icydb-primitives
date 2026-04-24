@@ -503,3 +503,4 @@
 {"name":"icydb-primitives","vers":"0.127.5","deps":[],"cksum":"4ec4c593ed8136614c46c4c7d2d5085faeb0e38c6c6f473012abf99e205cd897","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-24T08:20:19Z"}
 {"name":"icydb-primitives","vers":"0.128.0","deps":[],"cksum":"ec7bb306ded675a37717537e4a2be0685dd284f1b477d31c02b9c3817c493219","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-24T08:42:56Z"}
 {"name":"icydb-primitives","vers":"0.128.1","deps":[],"cksum":"f27ef7a6f1eb9fe916a44aab43c23cd119b54c6ff13303a8957cbdc1ea35d337","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-24T09:18:20Z"}
+{"name":"icydb-primitives","vers":"0.128.2","deps":[],"cksum":"9d332410f4b60fdc9d82c12591ce2d77717bff02498a690bc5ba3a7004d78bb7","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-24T10:02:23Z"}
