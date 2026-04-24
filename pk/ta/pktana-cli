@@ -1,0 +1,1 @@
+{"name":"pktana-cli","vers":"0.1.0","deps":[{"name":"pktana-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d77aa5f799e7e0488931342db439849e665e9245823692abef3bbb8b8e3c3fd","features":{"default":[],"pcap":["pktana-core/pcap"]},"yanked":false,"pubtime":"2026-04-24T19:58:27Z"}
