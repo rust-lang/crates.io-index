@@ -1,0 +1,1 @@
+{"name":"agent_reel_install","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6562790787e3fb8c5ba09d0005a41cf0c4d68244784fbef166f173b892f1ce0e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-24T06:29:06Z"}
