@@ -1,0 +1,1 @@
+{"name":"fluffr_core","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.25.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd76892527e398f61f56add0dd7fb3489de24b9ab230ebe951bd0970e038c008","features":{},"yanked":false,"pubtime":"2026-04-25T02:40:23Z"}
