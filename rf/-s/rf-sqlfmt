@@ -1,1 +1,2 @@
 {"name":"rf-sqlfmt","vers":"0.5.1","deps":[{"name":"clap","req":"^4.5.60","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"140555ab42bdb515a1675a6ab92bf52182410d0694d7d390d4ee19d1e87462de","features":{},"yanked":false,"pubtime":"2026-04-23T09:11:48Z"}
+{"name":"rf-sqlfmt","vers":"0.5.2","deps":[],"cksum":"033ec177314591384d53fcf60e369a7d12d71493b49d3d34e4ca8ca6b69dc1d0","features":{},"yanked":false,"pubtime":"2026-04-25T02:58:03Z"}
