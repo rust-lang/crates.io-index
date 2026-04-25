@@ -1,1 +1,2 @@
 {"name":"addon","vers":"0.0.0","deps":[],"cksum":"0d3ca66986ac8347d06dd22697c4ebe3ea733ecbd9f1d283699c0b138063a767","features":{},"yanked":false,"pubtime":"2026-04-24T11:08:27Z"}
+{"name":"addon","vers":"0.0.1","deps":[],"cksum":"554f6d02f58dd48dee3e0c32a5a2ab0a668e393914569f5b6af3b22a2b5a61b3","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-04-25T02:02:12Z"}
