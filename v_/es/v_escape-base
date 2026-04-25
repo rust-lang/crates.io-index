@@ -1,0 +1,1 @@
+{"name":"v_escape-base","vers":"0.1.0","deps":[],"cksum":"f1212fce830b75af194b578e55b3db9049f2c8c45f58d397fb25602fdb50fb3d","features":{"alloc":[],"bytes":[],"default":["std","bytes","string","fmt"],"fmt":[],"std":["alloc"],"string":[]},"yanked":false,"pubtime":"2026-04-25T13:06:35Z"}
