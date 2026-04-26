@@ -1,0 +1,1 @@
+{"name":"aprs-transport-channel","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82ac3b9062860c4aae8deca804e6e51809fa9f96281e3f240444f3d1c43eca42","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:18:18Z"}
