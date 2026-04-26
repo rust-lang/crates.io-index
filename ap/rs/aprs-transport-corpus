@@ -1,0 +1,1 @@
+{"name":"aprs-transport-corpus","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88d5dcddc0ab42a2bb9f044c1e1a2ce63aa9f94ca7c5003a616c140ab5f66806","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:18:23Z"}
