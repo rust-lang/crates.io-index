@@ -1,0 +1,1 @@
+{"name":"aprs-transport-http","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14d81f8fb6258579fa26387bf11d8fca8d7ee14ef7d92cc201c236419d88066","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:22:13Z"}
