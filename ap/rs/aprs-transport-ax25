@@ -1,0 +1,1 @@
+{"name":"aprs-transport-ax25","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59c70801823da7c46ca806649d81c899fb10b1792b895c1fee287f109cecff5b","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:18:15Z"}
