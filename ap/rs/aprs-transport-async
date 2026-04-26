@@ -1,0 +1,1 @@
+{"name":"aprs-transport-async","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffd7715f0862f7105ee85b0a46432b691d77fdf5ae749302b1ae1ecec0136c75","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:18:13Z"}
