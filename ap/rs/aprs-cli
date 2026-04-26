@@ -1,0 +1,1 @@
+{"name":"aprs-cli","vers":"0.1.2","deps":[{"name":"libaprs-engine","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d0ac60d9291aa797d8b8debc1132507c3d14163c2152cdad34d48f531f3bc42","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T07:22:34Z"}
