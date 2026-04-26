@@ -1,0 +1,1 @@
+{"name":"aprs-transport-file-watch","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac8ede99c548cfa79872386a999e808012a694610428a3172b5657ab21c320a","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:18:26Z"}
