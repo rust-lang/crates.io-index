@@ -1,0 +1,1 @@
+{"name":"purecrypto","vers":"0.0.0","deps":[],"cksum":"ea9daf4d1dcdd4d92a91f158bddb379632bf9be17f9b2d7fbb1b446d59d78ce1","features":{"alloc":[],"bignum":[],"cipher":[],"default":["std","hash","cipher","kdf","bignum"],"hash":[],"kdf":["hash"],"std":["alloc"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-25T14:00:47Z"}
