@@ -1,0 +1,1 @@
+{"name":"zerodds-security-logging","vers":"1.0.0-rc.1","deps":[{"name":"zerodds-security","req":"^1.0.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"536333fd3f129d2aeb06171136f47cab835087ad110d22d89286b7de3aba1dfd","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T07:59:40Z"}

@@ -1,0 +1,1 @@
+{"name":"claude_storage_core","vers":"1.0.0","deps":[{"name":"tempfile","req":"~3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0751904fa5adee7e3ee732902f84a7ce4e12faa940e80c0db914c1179446fe15","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-04-15T10:23:34Z"}

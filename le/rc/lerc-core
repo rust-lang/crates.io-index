@@ -1,0 +1,6 @@
+{"name":"lerc-core","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc7df3fad506e021661f335523c67662a231d171fefb2cd72cebabeca38323fe","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-02T15:22:03Z"}
+{"name":"lerc-core","vers":"0.2.0","deps":[],"cksum":"7834dfea71cb2350935bc2c2bcdbe30439b88aab21f805be29781716edea4247","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-04T21:09:14Z"}
+{"name":"lerc-core","vers":"0.3.0","deps":[],"cksum":"f428c60749fada87c7a95d08bc3942d05e4a9e3e0543a460a3331bb751dd2ddc","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-17T17:55:34Z"}
+{"name":"lerc-core","vers":"0.4.0","deps":[],"cksum":"5486e6b59aeb128889ce2f50c43104a833145a47b66b668c30ebcf317c618b90","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T00:20:33Z"}
+{"name":"lerc-core","vers":"0.4.1","deps":[],"cksum":"9a2197bab80c3a8ee40237ac41660a2204998084eb2d2add84ba5113b3b41e12","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T05:15:05Z"}
+{"name":"lerc-core","vers":"0.4.2","deps":[],"cksum":"a5fb652a10fb68b3fa04025c56bb1ff85ef4f13685ec895a22feb48e4e412e9d","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T14:57:27Z"}

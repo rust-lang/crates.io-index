@@ -1,0 +1,2 @@
+{"name":"ohos-sensor-sys","vers":"0.1.0","deps":[],"cksum":"f39bc759d7cca55751efe7a5eb36daeea041005031c838b4620d9c05dd24f8b5","features":{},"yanked":false,"pubtime":"2025-10-07T13:34:59Z"}
+{"name":"ohos-sensor-sys","vers":"0.2.0","deps":[],"cksum":"ac94839fe2d6c51a0d51dac28cf69f0fbb2884a427524e1c79cdbcc978efa745","features":{"api-13":[],"api-14":["api-13"],"api-15":["api-14"],"api-16":["api-15"],"api-17":["api-16"],"api-18":["api-17"],"api-19":["api-18"],"api-20":["api-19"],"api-21":["api-20"],"api-22":["api-21"],"default":[]},"yanked":false,"pubtime":"2026-05-23T09:28:42Z"}

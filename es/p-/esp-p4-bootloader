@@ -1,0 +1,1 @@
+{"name":"esp-p4-bootloader","vers":"0.1.0","deps":[{"name":"esp32p4","req":"^0.2","features":["rt"],"optional":false,"default_features":true,"target":"cfg(target_arch = \"riscv32\")","kind":"normal"}],"cksum":"a4ba66fa5f96b8e869ad4ffcbde84032c719bb97a0f80bb5d4d73b0ec7599add","features":{"default":[]},"yanked":false,"pubtime":"2026-05-02T16:46:29Z"}

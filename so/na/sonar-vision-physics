@@ -1,0 +1,1 @@
+{"name":"sonar-vision-physics","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d7cd244fcae7785609c2ae3e51d6f589e3e8909258556cb1c34ae1f1b9c799a","features":{},"yanked":false,"pubtime":"2026-05-01T07:26:51Z"}

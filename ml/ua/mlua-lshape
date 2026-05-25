@@ -1,0 +1,1 @@
+{"name":"mlua-lshape","vers":"0.1.0","deps":[{"name":"mlua","req":"^0.11","features":["lua54","vendored","send"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78b9c97b0d6593140c754a46a5663122f4e5f19fbe5b87eb833492aba3b236e2","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-20T15:26:38Z"}

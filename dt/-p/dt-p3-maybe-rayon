@@ -1,0 +1,1 @@
+{"name":"dt-p3-maybe-rayon","vers":"0.2.3-dt","deps":[{"name":"rayon","req":"^1.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c699ba3604013a85a81a5310e73d6aed01e0649e0b2dfa161d541a61dedfb329","features":{"parallel":["rayon"]},"yanked":false,"pubtime":"2026-04-28T08:35:11Z"}

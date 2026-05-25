@@ -1,0 +1,1 @@
+{"name":"axl_core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddfe7c5290fd13862b445aad98b2e50be939841fe39bc3606cfad6179d5c3f78","features":{},"yanked":false,"pubtime":"2026-04-12T01:32:31Z"}

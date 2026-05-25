@@ -1,0 +1,1 @@
+{"name":"mailrs-arf","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.8","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a611a6c2231f6d297bc5e19059ce9618eebd9a368e21064a1dc7e2483c7e7b90","features":{},"yanked":false,"pubtime":"2026-05-24T19:31:26Z"}

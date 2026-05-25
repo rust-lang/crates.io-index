@@ -1,0 +1,1 @@
+{"name":"rvf-index","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b02b415be504ba700ac123e6712ad1b4f5b332e293075a8ee84dce96f9eec7e","features":{"default":["std"],"simd":[],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-02-14T16:36:58Z"}

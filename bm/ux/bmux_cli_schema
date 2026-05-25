@@ -1,0 +1,1 @@
+{"name":"bmux_cli_schema","vers":"0.0.1-alpha.1","deps":[{"name":"clap","req":"^4.6.1","features":["derive","help","std","usage"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c1387e036fa2369e5215ed88e9b68d76f740af59724164979eb7737852ba2eb3","features":{"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-05-21T18:44:12Z"}

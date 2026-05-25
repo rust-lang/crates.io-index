@@ -1,0 +1,1 @@
+{"name":"zynq7000-qspi-flash-algorithm","vers":"0.1.0","deps":[{"name":"flash-algorithm","req":"^0.7.0","features":["read-flash","blank-check","verify"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1564de4eddacdb508bad57b43cb8c72e084c47dd739df10948953984ba4a992","features":{},"yanked":false,"pubtime":"2026-01-03T19:43:05Z"}

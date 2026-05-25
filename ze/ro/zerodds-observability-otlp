@@ -1,0 +1,1 @@
+{"name":"zerodds-observability-otlp","vers":"1.0.0-rc.1","deps":[{"name":"zerodds-foundation","req":"^1.0.0-rc.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2e8b5c195d32e6350c116473548dbafaaadfc66599888e61ec338957963fc333","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T05:42:21Z"}

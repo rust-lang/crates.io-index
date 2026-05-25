@@ -1,0 +1,1 @@
+{"name":"samkhya-gpudb","vers":"1.0.0","deps":[{"name":"samkhya-core","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b020b3bb872ca43ed7fadbaf35135ff765da58978362c72a16ce5b0f08fffcd3","features":{"cuda":[],"default":[],"metal":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-18T02:40:11Z"}

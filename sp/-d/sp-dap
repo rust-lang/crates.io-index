@@ -1,0 +1,2 @@
+{"name":"sp-dap","vers":"0.0.0","deps":[],"cksum":"9e7d3ccc60b07aad019e4735571aad1680baefd4cb7d8628c6e68ee4301c8c15","features":{},"yanked":false,"pubtime":"2026-04-17T09:41:29Z"}
+{"name":"sp-dap","vers":"0.2.0","deps":[{"name":"frame-support","req":"^47.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"031348d9eb2341f7a19ee2b0a0e0d72c9c0b8262cc8f2a6d12184967fd6a3055","features":{"default":["std"],"std":["frame-support/std"]},"yanked":false,"pubtime":"2026-05-03T12:14:28Z"}

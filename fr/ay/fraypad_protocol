@@ -1,0 +1,1 @@
+{"name":"fraypad_protocol","vers":"0.2.0","deps":[{"name":"bytemuck","req":"^1.25","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcaa1fcc7daf5e0c47e92eefd66de916b56bb30309fb421a119889cb2b6e0748","features":{},"yanked":false,"pubtime":"2026-05-23T12:26:24Z"}

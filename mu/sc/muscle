@@ -1,0 +1,1 @@
+{"name":"muscle","vers":"5.3.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c0cf0bf627465ecc7f273db56097ad9712e533a5f704db9d8dadcf250530c28","features":{"default":["simd"],"simd":[]},"yanked":true,"pubtime":"2026-04-12T12:11:43Z"}

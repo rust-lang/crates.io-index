@@ -1,0 +1,2 @@
+{"name":"nash-language-server","vers":"0.1.0","deps":[],"cksum":"f7dcea6fccbbcd7c0e4a87f54b5a7801df1a9d4924f8a6ba9b30751e72f31c54","features":{},"yanked":false,"pubtime":"2026-01-05T01:21:35Z"}
+{"name":"nash-language-server","vers":"0.2.0","deps":[{"name":"tower-lsp-server","req":"^0.23.0","features":["runtime-agnostic"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"16f2490d71b54a5015b6418576b628bde6382c13d95e4b0cc23896cc031b7f2a","features":{},"yanked":false,"pubtime":"2026-03-10T02:02:57Z"}

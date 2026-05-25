@@ -1,0 +1,1 @@
+{"name":"lib-q-stark-rayon","vers":"0.0.2","deps":[{"name":"rayon","req":"^1.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfa2772b3cc357d1d0cbaeafd87bb6a00a11169a9423827a78db0a02f7e6a265","features":{"parallel":["rayon"]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-05-20T11:12:38Z"}

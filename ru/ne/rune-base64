@@ -1,0 +1,1 @@
+{"name":"rune-base64","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b55a27875bded635b28bd945a23a1b2726dbb862310915c73fe2b621d47f870","features":{},"yanked":false,"pubtime":"2026-05-10T16:36:15Z"}

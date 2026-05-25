@@ -1,0 +1,1 @@
+{"name":"dw_uart_rs","vers":"0.2.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da3751978e2d9bced3cb480631bb2c14098357ae269ac95475720aee545c6dcd","features":{"board_bst-a1000b":[],"board_rk3588":[],"board_thead-c910":[],"default":[]},"yanked":false,"pubtime":"2026-04-09T08:26:53Z"}

@@ -1,0 +1,1 @@
+{"name":"newton-crypto-ecdsa","vers":"2.0.0","deps":[{"name":"eth-keystore","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f136f8fda5db1cd9ff53cd4de8ee9c01ea7c8e093de60285b58a92f3e827d4b1","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-05-21T22:09:14Z"}

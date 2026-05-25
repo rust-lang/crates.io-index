@@ -1,0 +1,1 @@
+{"name":"fixed-dsp","vers":"0.2.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"209e6d5881a7cc19cf1cef14a41a2cfe9f42c54ce28f4aca33e3196642d0ce3b","features":{"default":[],"difftest":[]},"yanked":false,"pubtime":"2026-04-06T13:21:21Z"}

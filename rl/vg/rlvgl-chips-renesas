@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-renesas","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78671d0c25bd1731a6a60e5c66c4852a5c029a61315f1a6367c79b309a318e29","features":{},"yanked":false,"pubtime":"2026-04-09T10:13:24Z"}

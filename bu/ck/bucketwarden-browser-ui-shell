@@ -1,0 +1,1 @@
+{"name":"bucketwarden-browser-ui-shell","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"167498aaf40a54db519a5cdc74182b42b442fc59b9b06b1dee797414ef60fe45","features":{},"yanked":false,"pubtime":"2026-05-20T22:53:42Z"}

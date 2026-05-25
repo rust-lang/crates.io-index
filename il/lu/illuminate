@@ -1,0 +1,1 @@
+{"name":"illuminate","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.8","features":["runtime-tokio-rustls","any","mysql","postgres","sqlite"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c72f923e138af83d8bbef3171d216812bcc37e5f6e3dccbb76c150cd8d1a51ea","features":{},"yanked":false,"pubtime":"2026-02-19T03:14:10Z"}

@@ -1,0 +1,1 @@
+{"name":"rune-morse","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf5a4271c0bda13436b03307be65f60501d5fe316efa4e0231cbb94288425dd9","features":{},"yanked":false,"pubtime":"2026-05-10T15:38:00Z"}

@@ -1,0 +1,1 @@
+{"name":"stepshots-manifest","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca874ab83085c508ea4361ea3cbce26874d2da25c9ecf270d2efa3ad26bde83b","features":{},"yanked":false,"pubtime":"2026-05-13T22:27:22Z"}

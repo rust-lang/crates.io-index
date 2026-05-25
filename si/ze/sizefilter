@@ -1,0 +1,1 @@
+{"name":"sizefilter","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3deca98b619e4c186b0d47a5759102fe57ba016c54b21ea1ad9b7b48cb01e6f","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-05-12T23:19:03Z","v":2}

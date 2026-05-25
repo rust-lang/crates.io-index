@@ -1,0 +1,1 @@
+{"name":"open-english-pronouncing-dictionary","vers":"0.1.0","deps":[{"name":"phonetics","req":"^0.3","features":["transcriptions"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"phonetics-rs"}],"cksum":"74bcf1961a8d41383b51255130fb8f9eadf6b07c06f16ca9bc74fba7ed31be92","features":{},"yanked":false,"pubtime":"2026-05-13T16:27:59Z"}

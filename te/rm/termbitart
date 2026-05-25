@@ -1,0 +1,1 @@
+{"name":"termbitart","vers":"0.1.0","deps":[{"name":"rand","req":">=0.9.2","features":["std","std_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a7e554c2ec57d5dff280f48d8130e25e03a9105f6a9fab8075b2ba0998c6c39","features":{},"yanked":false,"pubtime":"2026-05-11T22:34:27Z"}

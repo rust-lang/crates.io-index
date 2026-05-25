@@ -1,0 +1,3 @@
+{"name":"mpl","vers":"0.1.0","deps":[],"cksum":"ec0916352494ed2edb9375c10236150e2213eeafdeef10e74dfabb18ff42ddfc","features":{},"yanked":false,"pubtime":"2021-06-29T15:13:15Z"}
+{"name":"mpl","vers":"0.2.0","deps":[],"cksum":"4f5bf88457102919eb498988955620b10fe1c6b28a938afd62a95030fedc391e","features":{},"yanked":false,"pubtime":"2022-02-13T07:47:10Z"}
+{"name":"mpl","vers":"0.3.0","deps":[{"name":"bumpalo","req":"^3","features":["collections"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493041c72b05360fed5eef861fe5d738b91bb9257c22fe9806c842a0f11cb655","features":{},"yanked":false,"pubtime":"2026-05-09T21:10:52Z"}

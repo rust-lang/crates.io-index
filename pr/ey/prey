@@ -1,0 +1,4 @@
+{"name":"prey","vers":"0.1.0","deps":[],"cksum":"93ee244f90b97a46cfbec65c51964789ece63298511c8c8c35b0cd3cf3e20457","features":{},"yanked":false,"pubtime":"2026-03-29T22:59:43Z"}
+{"name":"prey","vers":"0.1.1","deps":[],"cksum":"0077b938ce0d0cf412838018363138d5c4963456e441f79f8b7ef5c02cb807b5","features":{},"yanked":false,"pubtime":"2026-03-29T23:36:04Z"}
+{"name":"prey","vers":"0.1.2","deps":[{"name":"crossbeam-queue","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf960e5a015b49285d8f69dc6425bedee7ff46f9b94f5e5ee9112f1c8263665e","features":{},"yanked":false,"pubtime":"2026-04-24T01:16:32Z"}
+{"name":"prey","vers":"0.1.3","deps":[{"name":"crossbeam-queue","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3f08e56c3b95675cdaf8f5ffca855b5f1d0bd1fb7b9d09d31186c69125cbcaa","features":{},"yanked":false,"pubtime":"2026-04-29T02:01:02Z"}

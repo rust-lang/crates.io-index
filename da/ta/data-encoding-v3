@@ -1,0 +1,2 @@
+{"name":"data-encoding-v3","vers":"0.1.0","deps":[],"cksum":"a16147bd7b0f96541d07d01f40b6dcbe952e2d1b23e8f0cebc6d64c18835b226","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2025-04-13T11:42:51Z"}
+{"name":"data-encoding-v3","vers":"0.1.1","deps":[],"cksum":"9dbd9e91a430a3a133ece74c199544d4837f446bb175032bdcafd4731ad07a1d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-10T15:14:23Z"}

@@ -1,0 +1,1 @@
+{"name":"sshenv_cli_models","vers":"0.0.1-alpha.0","deps":[{"name":"clap","req":"^4","features":["derive","std","help","usage","error-context","color","suggestions"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cfd827e5cc5a0c4776e9b44e1d6cdcdf230c3c7e1e1cfa2ee9db6c0a90be92cf","features":{},"yanked":false,"pubtime":"2026-04-17T11:59:33Z"}

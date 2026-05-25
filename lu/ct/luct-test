@@ -1,0 +1,2 @@
+{"name":"luct-test","vers":"0.0.0","deps":[],"cksum":"93a842be06f8550f1066b6adf88465a467fac3a3c6c50f98ae85b8ac1952018f","features":{},"yanked":false,"pubtime":"2026-04-22T12:57:11Z"}
+{"name":"luct-test","vers":"0.1.0","deps":[{"name":"luct-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea3ad5dd990034adb5e8b32868e4ff4e6db0c3cfb8ade38381a1a150f4c4929e","features":{},"yanked":false,"pubtime":"2026-05-11T14:52:33Z"}

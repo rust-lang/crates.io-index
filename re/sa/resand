@@ -1,0 +1,3 @@
+{"name":"resand","vers":"0.1.0","deps":[],"cksum":"54a897a0f252594767408816e1b4bb80d06a2c41201d47c7c094bced98821664","features":{},"yanked":false,"pubtime":"2025-05-26T13:45:58Z"}
+{"name":"resand","vers":"0.2.0","deps":[],"cksum":"47ac745f447607560924f160527b2200a14c66f4bdc711f2fb09fb04bfdc2d96","features":{},"yanked":false,"pubtime":"2025-06-25T18:26:33Z"}
+{"name":"resand","vers":"0.3.0","deps":[{"name":"resand-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"150c23bed01a0bea903b79ecbecf412a38331525f925124d13f9750f55ad7f1d","features":{"derive":["resand-derive"]},"yanked":false,"pubtime":"2026-05-09T18:04:46Z"}

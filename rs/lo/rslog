@@ -1,0 +1,3 @@
+{"name":"rslog","vers":"0.1.0","deps":[],"cksum":"118e00661f5f55b0fde596337c8f7e95b313ac8524714b0b682978115ac2c473","features":{},"yanked":false,"pubtime":"2026-05-09T10:13:26Z"}
+{"name":"rslog","vers":"0.1.1","deps":[],"cksum":"ab2abdecca6ce78e5ffd65e7857ffd0f436c977d0b877a68f0880d7e5f553cb4","features":{},"yanked":false,"pubtime":"2026-05-09T11:52:20Z"}
+{"name":"rslog","vers":"0.1.3","deps":[],"cksum":"132947e01313e08077327eace39dfdcf5d8a4e64882d075d887003fb750afc7a","features":{"default":["max_level_trace"],"max_level_critical":[],"max_level_debug":[],"max_level_error":[],"max_level_info":[],"max_level_off":[],"max_level_trace":[],"max_level_warn":[]},"yanked":false,"pubtime":"2026-05-09T14:50:36Z"}

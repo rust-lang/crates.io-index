@@ -1,0 +1,11 @@
+{"name":"noru","vers":"1.0.0","deps":[],"cksum":"e8183875235a84fd0a0add9401c8feb82fff307d856f21c6e2dea302ce252152","features":{},"yanked":false,"pubtime":"2026-04-10T14:47:06Z"}
+{"name":"noru","vers":"1.0.1","deps":[],"cksum":"0ef3875274dfc0989c9b3f92b4a0ac92cbb6dc75cac021bd5efe3ccee89ddc75","features":{},"yanked":false,"pubtime":"2026-04-10T15:03:00Z"}
+{"name":"noru","vers":"1.0.2","deps":[],"cksum":"9acbe5b6b6da6372fedae244d4052a07083cf7a73cf0f72bd8c3fefe39b36469","features":{},"yanked":false,"pubtime":"2026-04-12T14:00:22Z"}
+{"name":"noru","vers":"1.0.3","deps":[],"cksum":"75e7aea21937b49c98a709ac4a27d9383aabfea7ee2752ed819477a5e4b3bfb9","features":{},"yanked":false,"pubtime":"2026-04-12T14:14:37Z"}
+{"name":"noru","vers":"1.1.0","deps":[],"cksum":"bf4e2710557b8472aa3798a943a659d3978fab74206bd76c62ab4ed92fe576d9","features":{},"yanked":false,"pubtime":"2026-04-12T15:27:38Z"}
+{"name":"noru","vers":"1.2.0","deps":[],"cksum":"bd1eb61edc50575873471f3c54d0d7011fba6a28009ec928e3292be4f183172c","features":{},"yanked":false,"pubtime":"2026-04-12T16:31:36Z"}
+{"name":"noru","vers":"1.2.1","deps":[],"cksum":"fd30c418815db610935861414371ce45623ada5e964b359abcf1f68d519908d7","features":{},"yanked":false,"pubtime":"2026-04-21T09:04:24Z"}
+{"name":"noru","vers":"2.0.0","deps":[],"cksum":"48dbd1ef13488dad74b8329e1c513b720de4e34f4db53e7940e721caa5546bd2","features":{},"yanked":false,"pubtime":"2026-04-23T10:48:13Z"}
+{"name":"noru","vers":"2.1.0","deps":[],"cksum":"181c05a69d419fb098b455089d165917638d65d98152f371028138add3952daf","features":{},"yanked":false,"pubtime":"2026-04-29T17:29:34Z"}
+{"name":"noru","vers":"2.1.1","deps":[],"cksum":"6932bcd6114e85ee97f459a522ddf3459b306748327819d1e0147c9b39762e2e","features":{"avx512":[],"default":[]},"yanked":false,"pubtime":"2026-05-01T01:53:57Z"}
+{"name":"noru","vers":"2.2.0","deps":[],"cksum":"83654c4f008197f515f315b6760a4781c6f734a6f0205e522b90119a8e1d29f2","features":{"avx512":[],"default":[]},"yanked":false,"pubtime":"2026-05-07T11:01:13Z"}

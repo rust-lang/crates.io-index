@@ -1,0 +1,2 @@
+{"name":"agbhdr","vers":"0.0.0","deps":[],"cksum":"718414d63216659bf64e49b369d2cff0d604338979ad0e6d012037c1f815a78b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-03-09T19:38:30Z"}
+{"name":"agbhdr","vers":"0.1.0","deps":[{"name":"oct","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1250adeedefab39a31f117de5868b10930e23fb3754d6a0ff2933557cae28fc","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-03-10T13:17:56Z"}

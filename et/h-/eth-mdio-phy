@@ -1,0 +1,1 @@
+{"name":"eth-mdio-phy","vers":"0.2.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8214ca1d4749e1b03d09fc01e7ce6927b96256008142019974f3cea797ec6393","features":{"default":[]},"features2":{"defmt":["dep:defmt"]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-07T19:43:42Z","v":2}

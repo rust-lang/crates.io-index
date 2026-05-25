@@ -1,0 +1,1 @@
+{"name":"xbbg-sys","vers":"1.1.2","deps":[{"name":"blpapi-sys","req":"^1.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"xbbg-blpapi-sys"}],"cksum":"d8b320cdbcf6dcc4051ab002b15e0a21189a12bf76a8467bc6135f7a3a9bc55f","features":{"default":["live"],"live":["blpapi-sys"]},"yanked":false,"pubtime":"2026-04-27T00:47:26Z"}

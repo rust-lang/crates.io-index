@@ -1,0 +1,1 @@
+{"name":"lockr","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e70f83278d1c5ef32ad2160a6e6d4ae59cefa8d4fcdc914ccf13668e1582a77","features":{},"yanked":false,"pubtime":"2026-02-28T06:47:33Z"}

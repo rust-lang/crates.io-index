@@ -1,0 +1,5 @@
+{"name":"camel-wit","vers":"0.8.2","deps":[],"cksum":"44da11c0d4ad917b24e8da0a473309327464a2cc17e9c908537f296e21dabe29","features":{},"yanked":false,"pubtime":"2026-05-07T22:37:49Z"}
+{"name":"camel-wit","vers":"0.9.0","deps":[],"cksum":"66665307ca4954e1b0292da792fc8def6837a081bb470b66cdd31a3145a35cd0","features":{},"yanked":false,"pubtime":"2026-05-10T09:36:00Z"}
+{"name":"camel-wit","vers":"0.10.0","deps":[],"cksum":"b85f2e6cfb0cd303ab338aecb0ce92b307c74520ddbfcacf30482fd2f1a236ce","features":{},"yanked":false,"pubtime":"2026-05-19T21:57:49Z"}
+{"name":"camel-wit","vers":"0.11.0","deps":[{"name":"camel-api","req":"=0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4cfafd8fc6d5b1b750747457f2959bfa336b61ef69f5632c8856be808bb5d76","features":{},"yanked":false,"pubtime":"2026-05-23T11:50:28Z"}
+{"name":"camel-wit","vers":"0.11.1","deps":[{"name":"camel-api","req":"=0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55b6fd911abaf254c199cae60dac7a8aaeffe3e49b1e9ae5bbcbf30659dcaf98","features":{},"yanked":false,"pubtime":"2026-05-24T13:56:14Z"}

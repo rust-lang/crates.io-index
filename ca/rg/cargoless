@@ -1,0 +1,1 @@
+{"name":"cargoless","vers":"0.2.0","deps":[{"name":"cargoless-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e65169a27d9e6dba599cf9aa8e5791a16ebfa3a0267db793c04d8311b846f64","features":{"default":["integration"],"integration":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-19T14:49:28Z"}

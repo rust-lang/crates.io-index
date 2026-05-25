@@ -1,0 +1,1 @@
+{"name":"rlvgl-chips-nxp","vers":"0.0.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfdef751d16b7663be99a5bf51562e443a586a045c6fa3f17235783128d42c27","features":{},"yanked":false,"pubtime":"2026-04-09T03:46:36Z"}

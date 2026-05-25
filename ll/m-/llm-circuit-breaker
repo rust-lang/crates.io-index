@@ -1,0 +1,1 @@
+{"name":"llm-circuit-breaker","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24af9bc195e8feab7d3b6abe5f614bde737cb0044a2a3f1cf14a5018634691f9","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-16T20:04:31Z"}

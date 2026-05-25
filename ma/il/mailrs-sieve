@@ -1,0 +1,1 @@
+{"name":"mailrs-sieve","vers":"1.0.0","deps":[{"name":"sieve-rs","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0efe1eb60d19f28e6af2b2cbbfc70969aaae55e63f558d70c279f0647679e153","features":{},"yanked":false,"pubtime":"2026-05-24T00:22:41Z"}

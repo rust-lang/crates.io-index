@@ -1,0 +1,1 @@
+{"name":"batpak-bench-support","vers":"0.7.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29ef97f6116528fe6c6318087971ed50c075634e818c4918a2c648d67e3f50e6","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-10T13:48:59Z"}

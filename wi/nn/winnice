@@ -1,0 +1,1 @@
+{"name":"winnice","vers":"0.1.0","deps":[{"name":"windows","req":"^0.37.0","features":["Win32_Foundation","Win32_System_Threading"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b4e66e6dd9392633c77b57caf477a90dccda4ad7efe8df17ed8a0dda7e36aa3","features":{},"yanked":false,"pubtime":"2026-05-11T23:09:20Z"}

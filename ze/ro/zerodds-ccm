@@ -1,0 +1,1 @@
+{"name":"zerodds-ccm","vers":"1.0.0-rc.1","deps":[{"name":"zerodds-idl","req":"^1.0.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5312d96e5ba8e66d3bb95a73cca853464d8b7d7bdc841b241adcd01885875bad","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T09:54:35Z"}

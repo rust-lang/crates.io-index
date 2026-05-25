@@ -1,0 +1,1 @@
+{"name":"az-common","vers":"2026.5.10","deps":[{"name":"chrono","req":"^0.4.42","features":["clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bf89c19edbe6224271887284da8de8d76a90982ba74ba55edf04435f77cb7f6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-22T19:17:43Z"}

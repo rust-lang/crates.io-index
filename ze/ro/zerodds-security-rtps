@@ -1,0 +1,1 @@
+{"name":"zerodds-security-rtps","vers":"1.0.0-rc.1","deps":[{"name":"zerodds-security","req":"^1.0.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c81fd29da759e20861c55e860857bfe65fd7fca88a009899bf36c97007b1ff1a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T08:23:39Z"}

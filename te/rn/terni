@@ -1,0 +1,3 @@
+{"name":"terni","vers":"0.4.0","deps":[],"cksum":"b8c8294d9a5292adc43e600fd07c86dc6169f12fc9c9fec92082b2e3d7e5a4df","features":{},"yanked":false,"pubtime":"2026-04-13T00:14:56Z"}
+{"name":"terni","vers":"0.4.1","deps":[],"cksum":"c0c1c0c47cb4e604fa15157ab45924d76424eb72ebd06727871a9595ad13d012","features":{},"yanked":false,"pubtime":"2026-04-13T00:27:46Z"}
+{"name":"terni","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddf1d2fb5b1507d84e202ef0e65760beaf607ca54d88d772d23663eeb7a88e75","features":{},"yanked":false,"pubtime":"2026-04-13T00:46:10Z"}

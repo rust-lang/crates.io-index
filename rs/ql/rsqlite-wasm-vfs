@@ -1,0 +1,1 @@
+{"name":"rsqlite-wasm-vfs","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"086e999ef9cf6de7ef90baa40e8f81f7c0da26699ee8560bca7cfad6eb29225a","features":{"default":["native"],"native":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-14T16:11:51Z"}

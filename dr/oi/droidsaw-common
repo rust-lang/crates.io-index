@@ -1,0 +1,1 @@
+{"name":"droidsaw-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d2196f17d0e4b50105b7a9a9bb93d678d3322a8ece20927bb532ddefa9db0cc","features":{},"yanked":false,"pubtime":"2026-04-13T21:14:44Z"}

@@ -1,0 +1,1 @@
+{"name":"rune-epoch","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff85433d389872e64818d992a50250dde1adf51953ff61b510297c69aa49dcf8","features":{},"yanked":false,"pubtime":"2026-05-10T18:34:29Z"}

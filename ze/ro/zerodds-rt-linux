@@ -1,0 +1,1 @@
+{"name":"zerodds-rt-linux","vers":"1.0.0-rc.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"e05d4d5a6b66e2c6c7b822cb7e2301b1a8ac45830724d03f8c8ab3c7b180e962","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T07:03:42Z"}

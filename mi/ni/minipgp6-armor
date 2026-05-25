@@ -1,0 +1,2 @@
+{"name":"minipgp6-armor","vers":"0.0.0","deps":[],"cksum":"e68b54805937bace91b16051c2cbf9d6ddfda091985d0e25c521552da3269c15","features":{},"yanked":false,"pubtime":"2026-04-14T16:31:20Z"}
+{"name":"minipgp6-armor","vers":"0.0.1","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f42714e1768a4c88ff9c451996d9871eefc11a50b35698a4b0e730e73a60db1","features":{},"yanked":false,"pubtime":"2026-05-01T18:02:50Z"}
