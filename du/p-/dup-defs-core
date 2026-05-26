@@ -1,0 +1,1 @@
+{"name":"dup-defs-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b60a5e64a428f2767ed0888d52669084c1be453edf2db09b45f1d6136665b403","features":{},"yanked":false,"pubtime":"2026-05-26T16:45:55Z"}
