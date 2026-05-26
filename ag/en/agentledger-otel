@@ -1,0 +1,1 @@
+{"name":"agentledger-otel","vers":"1.2.0","deps":[{"name":"agentledger","req":">=1.2, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"agentledger-runtime"}],"cksum":"dd699fdf917b125508e2433150f0a71eacd79105f6d14484a76477fc55d2b216","features":{},"yanked":false,"pubtime":"2026-05-26T07:50:23Z"}
