@@ -19,3 +19,4 @@
 {"name":"etcd-bin-vendored-linux-s390x","vers":"3.5.29","deps":[],"cksum":"bb778f8ebe830f5dee370c89f4a3d9415edce2beac819426c1e8ce34ef60460a","features":{},"yanked":false,"pubtime":"2026-04-28T05:06:05Z"}
 {"name":"etcd-bin-vendored-linux-s390x","vers":"3.6.10","deps":[],"cksum":"d315154c6ad8334f6e646d998f0cfaf2c970d85a6216d9a77dd53b121305dbc9","features":{},"yanked":false,"pubtime":"2026-04-28T05:07:52Z"}
 {"name":"etcd-bin-vendored-linux-s390x","vers":"3.5.30","deps":[],"cksum":"cac23051eb3dbce701e387c5ab51beac35199bb0657d7608060c5f3d90b1997a","features":{},"yanked":false,"pubtime":"2026-05-26T19:27:13Z"}
+{"name":"etcd-bin-vendored-linux-s390x","vers":"3.6.11","deps":[],"cksum":"6c56ce41328ef6b8eeb988af1757807628c94c625cc043efc3678e9341d1ab55","features":{},"yanked":false,"pubtime":"2026-05-26T19:29:21Z"}
