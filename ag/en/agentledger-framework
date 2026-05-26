@@ -1,0 +1,1 @@
+{"name":"agentledger-framework","vers":"1.2.0","deps":[{"name":"agentledger","req":">=1.2, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"agentledger-runtime"}],"cksum":"68aca4f1fbc8297f36f8690901d65737d23e42b5c8b58130b7bab10e06bedd03","features":{},"yanked":false,"pubtime":"2026-05-26T07:50:00Z"}
