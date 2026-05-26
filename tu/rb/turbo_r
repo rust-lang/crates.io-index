@@ -1,3 +1,4 @@
 {"name":"turbo_r","vers":"0.0.1","deps":[],"cksum":"173d7f8e75dedf01c3a0a57360ceb84915152f205189a2a2cda265de2d161df1","features":{},"yanked":false,"pubtime":"2026-05-25T23:52:22Z"}
 {"name":"turbo_r","vers":"0.1.0","deps":[],"cksum":"d1fc42bc7adaff8955a3b6950e411f1fb56a90e8c066b2fa261c1da6a5dd0718","features":{},"yanked":false,"pubtime":"2026-05-25T23:59:58Z"}
 {"name":"turbo_r","vers":"0.1.1","deps":[{"name":"git2","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3798b7ade6fabdaf4d35917aa07fd247e80d1974484fb2568599b837b138b570","features":{},"yanked":false,"pubtime":"2026-05-26T00:34:14Z"}
+{"name":"turbo_r","vers":"0.1.2","deps":[{"name":"git2","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bce9c3132aaaec8281fcaf70906eaf34462bca75a9e59400057f22ffefab89c5","features":{},"yanked":false,"pubtime":"2026-05-26T00:58:12Z"}
