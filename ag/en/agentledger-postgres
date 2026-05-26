@@ -1,0 +1,1 @@
+{"name":"agentledger-postgres","vers":"1.2.0","deps":[{"name":"agentledger","req":">=1.2, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"agentledger-runtime"}],"cksum":"f0e42b75534566d55b894586c5519f051addd62dc2a1f072db0023ea92b89b81","features":{},"yanked":false,"pubtime":"2026-05-26T07:50:06Z"}
