@@ -1,2 +1,3 @@
 {"name":"renzora","vers":"0.1.0","deps":[],"cksum":"404380bcbb9031c3322c743f917adb373c1b402fdbb1e348bf80391bbded23e3","features":{},"yanked":false,"pubtime":"2026-03-04T07:29:56Z"}
 {"name":"renzora","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6ded5c4c23a8e36ee6aab37809aab38ac406393391833b112be687245650e5f","features":{},"yanked":false,"pubtime":"2026-05-26T18:29:33Z"}
+{"name":"renzora","vers":"0.1.2","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50c69f22e2bedefaf08fefa68bb56a13ac7cd007cc4446851d2f252dfcee3c3b","features":{},"yanked":false,"pubtime":"2026-05-26T22:59:52Z"}
