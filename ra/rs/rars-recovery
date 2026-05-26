@@ -1,1 +1,2 @@
 {"name":"rars-recovery","vers":"0.1.0","deps":[],"cksum":"1b4ef1c520509e91297d85af798578606ce92fbe1e406082d72ab0a24c4ae062","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-13T19:18:21Z"}
+{"name":"rars-recovery","vers":"0.2.0","deps":[],"cksum":"1da2f6b31b36030f332ec44767c4e290b23b299a615314edeea3a1fe6a2b8fa9","features":{"fast":[],"parallel":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-26T23:24:36Z"}
