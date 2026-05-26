@@ -1,0 +1,1 @@
+{"name":"ckb-transaction-firewall-sdk","vers":"0.3.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da2b09d60c3c0aaf7ee0aff9c1b3dcaafd5849a87139fd1bf3412b479060488a","features":{"testnet":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-05-26T09:36:32Z","v":2}
