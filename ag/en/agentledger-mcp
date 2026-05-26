@@ -1,0 +1,1 @@
+{"name":"agentledger-mcp","vers":"1.2.0","deps":[{"name":"agentledger","req":">=1.2, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"agentledger-runtime"}],"cksum":"e5f40b5f0ab1437581432dad0e4db7d142448a6446d77ced41a0e5a66ca61cff","features":{},"yanked":false,"pubtime":"2026-05-26T07:50:17Z"}
