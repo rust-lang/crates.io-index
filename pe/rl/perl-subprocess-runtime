@@ -6,3 +6,4 @@
 {"name":"perl-subprocess-runtime","vers":"0.13.3","deps":[],"cksum":"9142196f8cef508577ea81fa593a4022d7c4d516afaabb76280a0ddc59fa9cc3","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-03T08:28:41Z"}
 {"name":"perl-subprocess-runtime","vers":"0.14.0","deps":[],"cksum":"841b7ba9fc15a57489ad63d2717aaf8acc66463d178194b667f13a4fd120e308","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T06:18:26Z"}
 {"name":"perl-subprocess-runtime","vers":"0.15.0","deps":[],"cksum":"60d9074c11aae3e85d5149e3be12b553a3a4dabf0f26ee60ced661b839e3ac24","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-22T16:23:26Z"}
+{"name":"perl-subprocess-runtime","vers":"0.15.1","deps":[],"cksum":"ea35a43ba3c38a596c9f55be9e476c079c99de3392d7087717445d99b27f257b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-26T19:10:47Z"}
