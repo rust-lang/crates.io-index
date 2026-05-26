@@ -1,0 +1,1 @@
+{"name":"agentledger-sandbox-docker","vers":"1.2.0","deps":[{"name":"agentledger","req":">=1.2, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"agentledger-runtime"}],"cksum":"ac6e036bf05e168e1c12417cb4cbf8e898933096d38c21f8bfcbb512ca8bd521","features":{},"yanked":false,"pubtime":"2026-05-26T07:54:39Z"}
