@@ -1,0 +1,1 @@
+{"name":"pktbaffle","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a60e1e50b7dc76886fc7071d2e9c51c205413d8f008a458a67ae134c5180af04","features":{"vm":[]},"yanked":false,"pubtime":"2026-05-26T14:18:14Z"}
