@@ -7,3 +7,4 @@
 {"name":"perl-pod","vers":"0.13.3","deps":[],"cksum":"7de9b7dee005f2f0171a25fcaebe565248a85a82316e738a68c6289a5512a272","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-03T08:23:17Z"}
 {"name":"perl-pod","vers":"0.14.0","deps":[],"cksum":"98eb5d6be5bfdb1f90b4566881f7dd02ed45bfc56196a6b1cb40d25150bc9467","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T06:13:04Z"}
 {"name":"perl-pod","vers":"0.15.0","deps":[],"cksum":"c91853468486da67524c132346e1ba02b024725b2b2b2aff040a6961295ad92d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-22T16:18:04Z"}
+{"name":"perl-pod","vers":"0.15.1","deps":[],"cksum":"9cf1324af2cd3092cfe44213d890a9f8a752745e6a04347f1eba68207b2513e3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-26T19:05:19Z"}
