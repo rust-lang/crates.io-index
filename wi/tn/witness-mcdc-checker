@@ -1,0 +1,1 @@
+{"name":"witness-mcdc-checker","vers":"0.23.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6ef444896cc78ac94d8719aa9335ced9b26094bbdff05c2f8033887c098b8736","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-27T04:33:02Z"}
