@@ -1,0 +1,1 @@
+{"name":"inputx-l0","vers":"1.4.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05fe6c95983cc90af7641db0d8eb4a672db0c48eecf2e558406214f112f19c9c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-27T16:54:51Z"}
