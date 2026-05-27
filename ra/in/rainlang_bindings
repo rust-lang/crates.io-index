@@ -1,0 +1,1 @@
+{"name":"rainlang_bindings","vers":"0.1.12","deps":[{"name":"alloy","req":"^1.0.9","features":["sol-types","json","json-abi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ce281b4139aa93e4c7bd5fa7401e50989a847a6b5298a21c2f0a36ad14e1b16","features":{},"yanked":false,"pubtime":"2026-05-27T13:59:43Z"}
