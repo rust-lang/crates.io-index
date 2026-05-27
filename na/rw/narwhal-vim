@@ -1,0 +1,1 @@
+{"name":"narwhal-vim","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9358d162e306a37f3513f0fc203cc1e7db9538589c3a436c77534bb663649fab","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-27T11:01:37Z"}
