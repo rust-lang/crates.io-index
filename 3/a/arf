@@ -1,1 +1,2 @@
 {"name":"arf","vers":"0.1.0","deps":[],"cksum":"6c3c4b2ce0a971095d6fc726ea2e3fa60b81debaf4073c4325362648a6c50bf0","features":{},"yanked":true,"pubtime":"2019-08-17T14:59:31Z"}
+{"name":"arf","vers":"1.0.0","deps":[],"cksum":"1498c1cd0769a402cde7028a6f6565b6a2444bd1dde2e0f2f582aec5d61c8ed6","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.79","pubtime":"2026-05-27T15:59:20Z"}
