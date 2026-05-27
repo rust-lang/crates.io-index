@@ -1,1 +1,2 @@
 {"name":"mce","vers":"0.0.1-placeholder-only","deps":[],"cksum":"765231caa6465a08d0440cba148dd3f50e01e024510f040cb9d7fb384280ce28","features":{},"yanked":true,"rust_version":"1.88.0","pubtime":"2026-05-03T12:30:17Z"}
+{"name":"mce","vers":"0.0.3","deps":[{"name":"mce-proc","req":"=0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"797490f8531cd3b73aebcbc57641a28fbbb501b7420ab8340fa3f1296f97e4a4","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-05-27T08:21:55Z"}
