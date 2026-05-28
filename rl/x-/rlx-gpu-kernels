@@ -1,1 +1,2 @@
 {"name":"rlx-gpu-kernels","vers":"0.2.0","deps":[],"cksum":"38ebdeca63799954ab78d523b3a32a0d503ffd39e371049101c3a512f418eb7a","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-27T10:59:10Z"}
+{"name":"rlx-gpu-kernels","vers":"0.2.1","deps":[],"cksum":"4179a04b39672124872879f7c10f2d1279e7948385651a0458409ac459471a53","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-28T19:24:59Z"}
