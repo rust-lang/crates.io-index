@@ -1,1 +1,2 @@
 {"name":"riddle-lang","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"940fe9205efe3fb8a9ed2c08e20679e223cfc570c226aaacf46cdeb0b78e4922","features":{},"yanked":false,"pubtime":"2026-05-20T08:27:51Z"}
+{"name":"riddle-lang","vers":"0.2.0","deps":[],"cksum":"b2429645eb822c0a0de9fd8f8b4b3cabf531b6ca0dd57ed89e6c8a4093ed215d","features":{},"yanked":false,"pubtime":"2026-05-28T15:17:23Z"}
