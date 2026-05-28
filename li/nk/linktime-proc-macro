@@ -1,2 +1,3 @@
 {"name":"linktime-proc-macro","vers":"0.0.1","deps":[],"cksum":"93a48260b6934fe2474e8e90ef712f72f2bf500a8363a4263bd49fe58b259f9b","features":{"ctor":[],"default":[],"dtor":[],"link_section":[]},"yanked":false,"pubtime":"2026-04-30T14:02:51Z"}
 {"name":"linktime-proc-macro","vers":"0.1.0","deps":[],"cksum":"a44cd706ff0d503ee32b2071166510ca27e281228de10cd3aa8d35ff94560f81","features":{"ctor":[],"default":[],"dtor":[],"link_section":[]},"yanked":false,"pubtime":"2026-04-30T16:19:31Z"}
+{"name":"linktime-proc-macro","vers":"0.2.0","deps":[],"cksum":"8c7b0a3383c2a1002d11349c92c85a666a5fb679e96c79d782cf0dbe557fd6ee","features":{"ctor":[],"default":[],"dtor":[],"link_section":[],"scattered_collect":[]},"yanked":false,"pubtime":"2026-05-28T23:44:24Z"}
