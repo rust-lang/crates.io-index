@@ -13,3 +13,4 @@
 {"name":"reifydb-sql","vers":"0.4.13","deps":[],"cksum":"d8b5bef1caf7308de3f3a2c404184c0df5ff223e104c7ba835eb9cda6c06f6bc","features":{"default":[]},"yanked":false,"pubtime":"2026-05-01T02:11:41Z"}
 {"name":"reifydb-sql","vers":"0.5.0","deps":[],"cksum":"aff432ca9a3666c1c755af3f7cb1e1e04d2f33bfb7d01e57b4bcf04bab4bba15","features":{"default":[]},"yanked":false,"pubtime":"2026-05-11T11:50:35Z"}
 {"name":"reifydb-sql","vers":"0.5.6","deps":[],"cksum":"7030f09c96b7d8f4a385cdee716b0a00df38c7c2dde3f2bdb6ed72acbc681af9","features":{"default":[]},"yanked":false,"pubtime":"2026-05-14T10:57:28Z"}
+{"name":"reifydb-sql","vers":"0.6.0","deps":[{"name":"reifydb-build","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"91d30132e15e5c3e7c3200750d33be6504a137c47a7e58c360bd4a236095b44b","features":{"default":[]},"yanked":false,"pubtime":"2026-05-29T06:03:15Z"}
