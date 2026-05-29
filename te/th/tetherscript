@@ -15,3 +15,4 @@
 {"name":"tetherscript","vers":"0.1.0-alpha.14","deps":[{"name":"ureq","req":"^3.3.0","features":["_tls","cookies"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aa3356a8874486f56045b9301c13204b3876dd5192815846fad626b051610ad","features":{},"yanked":false,"pubtime":"2026-05-14T18:57:09Z"}
 {"name":"tetherscript","vers":"0.1.0-alpha.15","deps":[],"cksum":"00c0d651605f9acf109197175fc167f11b182ed33e5fd3e2e798844fec3b0128","features":{},"yanked":false,"pubtime":"2026-05-17T22:02:01Z"}
 {"name":"tetherscript","vers":"0.1.0-alpha.16","deps":[],"cksum":"70cd6df1b0bd25386670e42e89bcc9586878f31ced3abff448093c2bf564bdd3","features":{},"yanked":false,"pubtime":"2026-05-18T04:46:00Z"}
+{"name":"tetherscript","vers":"0.1.0-alpha.17","deps":[],"cksum":"85a430dd3f292bd9f7b2618d580a9fa3860a4e5911b8f121801e32953324021d","features":{},"yanked":false,"pubtime":"2026-05-29T16:25:06Z"}
