@@ -1,0 +1,1 @@
+{"name":"tagpath-core","vers":"0.12.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d21e21fd6b2dad1c7525242bff0c7d3fbb7a8882c53b975555327e906bdbe07e","features":{"default":[]},"yanked":false,"pubtime":"2026-05-30T18:58:25Z"}
