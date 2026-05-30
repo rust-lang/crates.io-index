@@ -1,0 +1,1 @@
+{"name":"dicom-map-ffi","vers":"0.2.1","deps":[{"name":"dicom-map","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c75a39d4777cbf6bb740d8a1355895f7f5d43f687ccdf1878f4bda1c70e8b018","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-30T08:54:47Z"}
