@@ -1,0 +1,1 @@
+{"name":"bit-codec","vers":"0.1.0","deps":[{"name":"bit-codec-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"635311731f895c8852d081c0a5a9528ce28256b113520e4a4b6555bf958698d9","features":{"derive":["bit-codec-derive"]},"yanked":false,"pubtime":"2026-05-30T15:31:38Z"}
