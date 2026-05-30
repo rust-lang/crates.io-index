@@ -1,2 +1,3 @@
 {"name":"rc_conf_demo_crate","vers":"0.1.0","deps":[],"cksum":"0762a097eef0ab5fed0367eedd8db03d69ea4e31988783d55746f679717cc1ae","features":{},"yanked":false,"pubtime":"2025-01-04T02:46:55Z"}
 {"name":"rc_conf_demo_crate","vers":"0.2.0","deps":[],"cksum":"428125af2c4701da640db71b80300b4941099e4e82d35569cde019de0e002778","features":{"binaries":[],"default":["binaries"]},"yanked":false,"pubtime":"2026-04-26T23:15:02Z"}
+{"name":"rc_conf_demo_crate","vers":"0.3.0","deps":[],"cksum":"3f7e0df37f9d32b8f56d2c9042332afd3a8603b7217b494cb512953b3f7333e1","features":{"binaries":[],"default":["binaries"]},"yanked":false,"pubtime":"2026-05-30T07:24:57Z"}
