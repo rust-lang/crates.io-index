@@ -1,0 +1,1 @@
+{"name":"gloc-core","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27b809ffc54f9a16e52028b901fbbbee8e15eaff4daf10466dbc4e95b542c217","features":{},"features2":{"tracing":["dep:tracing"]},"yanked":false,"pubtime":"2026-05-30T16:14:47Z","v":2}
