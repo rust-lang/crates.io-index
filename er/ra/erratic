@@ -31,3 +31,4 @@
 {"name":"erratic","vers":"0.8.7","deps":[],"cksum":"254813b2c8ba1159d3442f820f64eab60ace16bd7f2b75d21c2975459744d0bd","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-28T18:37:45Z"}
 {"name":"erratic","vers":"0.9.0","deps":[],"cksum":"444fc7dcdffa987b8a015d4126f33fce06feb527a80ff311aa20ad40a6599fa0","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-30T17:41:57Z"}
 {"name":"erratic","vers":"0.9.1","deps":[],"cksum":"9604bf387cdf9da9370804a90645819f7d8016bb61c7e21abfdf13cb3eff73be","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-30T17:51:37Z"}
+{"name":"erratic","vers":"0.10.0","deps":[],"cksum":"e8d98b35f01f6d24a7e76cd0cdb0202ddd068333c571045ab4eb5e7a1eb4e38d","features":{"backtrace":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-31T20:02:33Z"}
