@@ -1,0 +1,1 @@
+{"name":"rune-byte-magic","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33c37462243d3eecb3052615aa1cc4a3a610f2cbbdcc7dbc7821a89d56555fd6","features":{},"yanked":false,"pubtime":"2026-05-31T08:54:41Z"}
