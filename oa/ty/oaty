@@ -1,2 +1,3 @@
 {"name":"oaty","vers":"0.0.0","deps":[],"cksum":"59a27463729e6ab6c4c2d27fdf429e419e5827ea1997db9dd4eb9c7077487a68","features":{},"yanked":false,"pubtime":"2025-10-26T10:45:38Z"}
 {"name":"oaty","vers":"0.1.0","deps":[{"name":"font-types","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd7890d4a4c9205ee57a5e200658e78ed7d51c9cd48d0f7066596a19cc20e5d2","features":{},"yanked":false,"pubtime":"2025-10-26T20:51:45Z"}
+{"name":"oaty","vers":"0.2.0","deps":[{"name":"font-types","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc8f19a1c361e5fb1a57e487b993ff8b3c44321b50ca86c9e2b235e57dc94008","features":{},"yanked":false,"pubtime":"2026-05-31T16:39:40Z"}
