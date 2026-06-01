@@ -4,3 +4,4 @@
 {"name":"minlin","vers":"0.3.1","deps":[],"cksum":"6015182c46495fbe1e875e03e0bc6660ee6614047026cf79c0067bbfaa7ace51","features":{},"yanked":false,"pubtime":"2025-06-01T14:23:50Z"}
 {"name":"minlin","vers":"0.4.0","deps":[],"cksum":"a9d73d5c3c6d40ccfe27846ecc6165de838c6f4d00fb40364ed14f48e5f9fd58","features":{},"yanked":false,"pubtime":"2026-04-01T14:32:37Z"}
 {"name":"minlin","vers":"0.4.1","deps":[{"name":"place_macro","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c06d9f9bbed3c1ce8be4d12281c3c280606d50c26e9e10fd693160e47275db7d","features":{},"yanked":false,"pubtime":"2026-05-01T20:53:10Z"}
+{"name":"minlin","vers":"0.5.0","deps":[{"name":"place_macro","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"396c66c10394a5bfb030d7be29b5e753b999357a5aa541e0ec8741943cb69309","features":{},"yanked":false,"pubtime":"2026-06-01T07:30:54Z"}
