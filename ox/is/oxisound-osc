@@ -1,0 +1,1 @@
+{"name":"oxisound-osc","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf3d9020b4843c085f8f4751e5d5c834fe91a5a89b2e2fafb1f53524febb57e5","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-01T18:02:34Z"}
