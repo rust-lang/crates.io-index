@@ -33,5 +33,5 @@
 {"name":"erratic","vers":"0.9.1","deps":[],"cksum":"9604bf387cdf9da9370804a90645819f7d8016bb61c7e21abfdf13cb3eff73be","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-30T17:51:37Z"}
 {"name":"erratic","vers":"0.10.0","deps":[],"cksum":"e8d98b35f01f6d24a7e76cd0cdb0202ddd068333c571045ab4eb5e7a1eb4e38d","features":{"backtrace":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-31T20:02:33Z"}
 {"name":"erratic","vers":"0.10.1","deps":[],"cksum":"141d8b33e4a183ba6c34718e4403bd44192538ea40e681d2851717bb183a4e24","features":{"backtrace":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-31T20:37:06Z"}
-{"name":"erratic","vers":"0.10.2","deps":[],"cksum":"9cdf7d2d9475308c77738aa11266c16efef223a8289316b44f5d782a74f9c4d8","features":{"backtrace":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-01T07:32:43Z"}
+{"name":"erratic","vers":"0.10.2","deps":[],"cksum":"9cdf7d2d9475308c77738aa11266c16efef223a8289316b44f5d782a74f9c4d8","features":{"backtrace":[],"default":[]},"yanked":true,"rust_version":"1.95.0","pubtime":"2026-06-01T07:32:43Z"}
 {"name":"erratic","vers":"0.10.3","deps":[],"cksum":"281d2e67a1c8b141d66264686b273bd37ccf464359ef92bd7afb324f1769a470","features":{"backtrace":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-01T07:42:44Z"}
