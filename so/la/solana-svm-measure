@@ -42,3 +42,4 @@
 {"name":"solana-svm-measure","vers":"4.0.0","deps":[],"cksum":"d70c9972c1f03cb2bbc64d23dc2079419a66d89b49d6b44f79206530551ddc8c","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-05-16T07:44:15Z"}
 {"name":"solana-svm-measure","vers":"4.1.0-beta.1","deps":[],"cksum":"82ee2fe960d06903e072dd70098e2561b71a8e00fe95efc59d4f34369b48ff07","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-05-22T18:05:05Z"}
 {"name":"solana-svm-measure","vers":"4.0.1","deps":[],"cksum":"c08652092090297ad6738cbc2e3cbce778f99cc96addedc8c8ebf58f08dcdc26","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-05-29T17:26:55Z"}
+{"name":"solana-svm-measure","vers":"4.1.0-beta.2","deps":[],"cksum":"ddafb3930c7c37a61e07eef39254b1ef9900395f525de2df2973ef25a3ce98da","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-01T17:48:22Z"}
