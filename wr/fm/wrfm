@@ -1,2 +1,3 @@
 {"name":"wrfm","vers":"0.2.0","deps":[],"cksum":"3d7c1db0cfbd8f3509bd79aa0bd63e2927ef7f903a2b02c006f81db2f16c62df","features":{},"yanked":false,"pubtime":"2026-05-27T10:16:04Z"}
 {"name":"wrfm","vers":"0.3.0","deps":[],"cksum":"3bec53669720b4b9c2a4a40102c5b86cc0b2cb6253e6a99a5cdc77bc20ba2c81","features":{},"yanked":false,"pubtime":"2026-05-27T15:58:22Z"}
+{"name":"wrfm","vers":"0.4.0","deps":[],"cksum":"d8d67316c98c974f25c91ef05c9110edad3543f034572a688de7d67c2c746bdf","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-01T06:35:25Z"}
