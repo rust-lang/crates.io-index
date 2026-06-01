@@ -1,0 +1,1 @@
+{"name":"hanzo-kernels","vers":"0.9.2","deps":[{"name":"bindgen_cuda","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build","package":"hanzo-bindgen-cuda"}],"cksum":"16f275811d6712b5863284d7c34d672e62e6cf2d6b89faf1a2ec12cd5c4c4453","features":{},"yanked":false,"pubtime":"2026-06-01T21:08:30Z"}
