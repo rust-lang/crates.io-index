@@ -1,0 +1,1 @@
+{"name":"axess-rng","vers":"0.2.0","deps":[{"name":"rand","req":"^0.10.1","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe1e15e401d3249c08d5a7f5227010e34bfb6124bab36cabeaf742fd0520bbf6","features":{"testing":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-01T08:34:50Z"}
