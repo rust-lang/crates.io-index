@@ -1,0 +1,1 @@
+{"name":"config-easy","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a516d9bedfeba82a8ced2fb5c066d7bfe71d815dd343915178bd7e6fa20cfa5a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-01T16:10:34Z"}
