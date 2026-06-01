@@ -1,0 +1,1 @@
+{"name":"axess-clock","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.44","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"220969da20f1c3a234c611edd5387695ed176fb74fd3f0559facde1739803da4","features":{"testing":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-01T08:34:17Z"}
