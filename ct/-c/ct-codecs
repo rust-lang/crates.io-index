@@ -8,3 +8,4 @@
 {"name":"ct-codecs","vers":"1.1.4","deps":[],"cksum":"e994091bae428316ad612b1d563e7bd917141ba942963f65251bb07c0f31cc55","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-04-29T23:49:25Z"}
 {"name":"ct-codecs","vers":"1.1.5","deps":[],"cksum":"dd0d274c65cbc1c34703d2fc2ce0fb892ff68f4516b677671a2f238a30b9b2b2","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-05-03T19:07:38Z"}
 {"name":"ct-codecs","vers":"1.1.6","deps":[],"cksum":"9b10589d1a5e400d61f9f38f12f884cfd080ff345de8f17efda36fe0e4a02aa8","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-05-19T07:58:23Z"}
+{"name":"ct-codecs","vers":"1.1.7","deps":[],"cksum":"49fb0c6640b4507ebd99ff67677009e381ba5eee1d14df78de4a3d16eb123c39","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-01T14:44:37Z"}
