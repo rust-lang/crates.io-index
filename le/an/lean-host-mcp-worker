@@ -1,0 +1,1 @@
+{"name":"lean-host-mcp-worker","vers":"0.1.0","deps":[{"name":"lean-rs-worker-child","req":"^0.1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ad752e661fa92a23dc7a2b1587bceeaf60597a97020831d43a9952297caa24","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-01T12:04:01Z"}
