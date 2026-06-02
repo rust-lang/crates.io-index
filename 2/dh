@@ -12,3 +12,4 @@
 {"name":"dh","vers":"0.8.1","deps":[{"name":"murmur3","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4670f5a327263b647e2f638ec9ac8730e13c71625020bfabea0ec8a6eb0fbfd","features":{},"yanked":false,"pubtime":"2024-11-23T18:22:48Z"}
 {"name":"dh","vers":"0.9.0","deps":[],"cksum":"9b8a1e5c11a73db2612d267f74004534d687623275852a3a3a4fb25b0a775ecd","features":{},"yanked":false,"pubtime":"2025-08-18T14:53:43Z"}
 {"name":"dh","vers":"0.10.0","deps":[],"cksum":"938b9e82976a617397ecc0cd7f6514d857e01703fed24d4105e35afbe1c17878","features":{"vli":[]},"yanked":false,"pubtime":"2025-12-16T15:41:40Z"}
+{"name":"dh","vers":"0.11.0","deps":[],"cksum":"8b9f021733c79d5d34b041bdeefc84f79e22fd589a1c07f7b626ccaef0ab39ba","features":{"vli":[]},"yanked":false,"pubtime":"2026-06-02T07:58:15Z"}
