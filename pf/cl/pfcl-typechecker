@@ -1,0 +1,1 @@
+{"name":"pfcl-typechecker","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0944931367bdc9b22dfad1a83db26f520f30c2c7b8b1dc0abc38cdd0bba0eee","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-02T22:53:00Z"}
