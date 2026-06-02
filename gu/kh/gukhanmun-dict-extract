@@ -1,0 +1,1 @@
+{"name":"gukhanmun-dict-extract","vers":"0.2.0-dev.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b73a0b9a7040a4600c8e8954ea48dc372b43401db5ba182406a41c57a7db5e23","features":{},"yanked":false,"pubtime":"2026-06-02T16:58:50Z"}
