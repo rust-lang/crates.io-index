@@ -2,3 +2,4 @@
 {"name":"dup-defs-core","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"513bd6605f2e0c86caf809e8b309f8d4b7dcb00ecbb39b44593687be7cbc6669","features":{},"yanked":false,"pubtime":"2026-05-26T16:55:22Z"}
 {"name":"dup-defs-core","vers":"0.1.2","deps":[],"cksum":"7c6a6d313a94473651d7c5f04116b6b6d81b24c4319a236dc95f60f12122cac6","features":{},"yanked":false,"pubtime":"2026-05-30T14:22:48Z"}
 {"name":"dup-defs-core","vers":"0.1.3","deps":[],"cksum":"46565d0cf5a339b89c104ca6927d47b29af1c38582fcb44fc44000d232170736","features":{},"yanked":false,"pubtime":"2026-06-02T11:49:16Z"}
+{"name":"dup-defs-core","vers":"0.1.4","deps":[],"cksum":"4823e8317f233e93de1a0e71221a24b3ad9878cc58a1c36bd49f5ab464e3628c","features":{},"yanked":false,"pubtime":"2026-06-02T19:37:31Z"}
