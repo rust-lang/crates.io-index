@@ -1,1 +1,2 @@
 {"name":"dibs-jsonb","vers":"0.0.0","deps":[],"cksum":"1ffed89e70d664422994a5de826c705bcb04f00c8c8119674b03c8d3c5e9171c","features":{},"yanked":false,"pubtime":"2026-06-02T18:30:49Z"}
+{"name":"dibs-jsonb","vers":"0.1.0","deps":[{"name":"facet","req":"^0.46","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2a5cff6646a023d4b866a61bc29a48e614a4e1ae43c3c1f7186c6c2e296e4e9","features":{},"yanked":false,"pubtime":"2026-06-02T22:10:19Z"}
