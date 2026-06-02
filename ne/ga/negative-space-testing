@@ -1,1 +1,2 @@
 {"name":"negative-space-testing","vers":"0.1.0","deps":[],"cksum":"5a154bf0c78e6af1a8d539210a1da1634de4cee342ff815070780ff1a6bd28eb","features":{},"yanked":false,"pubtime":"2026-06-01T22:12:09Z"}
+{"name":"negative-space-testing","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5811993d6f5f492ebbcb2c0e10c7145ea9f302f22226200e85ee668706af2ca8","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-06-02T19:23:38Z","v":2}
