@@ -3,3 +3,4 @@
 {"name":"reliakit-primitives","vers":"0.2.0","deps":[],"cksum":"c1afd327d2a74ad2f2d0980ef33221ad57bb8a343feb5e4a5c1c0ac6ee6826ab","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-02T00:33:31Z"}
 {"name":"reliakit-primitives","vers":"0.2.1","deps":[],"cksum":"097ae131c8f5773bf0bc75164e851755a99d42a5bd32ba90dcae1545e2d2c57f","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-02T01:12:42Z"}
 {"name":"reliakit-primitives","vers":"0.2.2","deps":[],"cksum":"ae4426c08db0b6b00da86e1d62456bbc626ad498f377c42c3e14ad5924fba146","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T03:20:52Z"}
+{"name":"reliakit-primitives","vers":"0.2.3","deps":[],"cksum":"48683e9e2a69ca0cf9cd3b2916c77d48b9ef0d13d5ab654388a7bb654aeef892","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T10:16:47Z"}
