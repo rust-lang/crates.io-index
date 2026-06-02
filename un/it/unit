@@ -42,3 +42,4 @@
 {"name":"unit","vers":"0.26.2","deps":[],"cksum":"3bec273649ba0e83d81e205099fc0c0d03fe330bf7ff69210c20f02f1c56d7e8","features":{},"yanked":false,"pubtime":"2026-04-07T18:05:07Z"}
 {"name":"unit","vers":"0.27.0","deps":[],"cksum":"65434c8229b3f581a4b1f21587289b461fe2c4fa118731b0b8ed8a5e53b8a0bc","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-04-26T23:50:51Z"}
 {"name":"unit","vers":"0.28.0","deps":[],"cksum":"902d9e3aed8e2fe1fe5c6fae8643481c8fcad38e19d22cb455337b230418b17e","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-04-28T19:16:11Z"}
+{"name":"unit","vers":"0.29.0","deps":[],"cksum":"1fd1d9d6c05becb8b400760d3e957bff7c33dd9690299657d5700ba5cd963af2","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-06-02T17:03:05Z"}
