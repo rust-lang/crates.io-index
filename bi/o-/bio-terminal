@@ -1,2 +1,3 @@
 {"name":"bio-terminal","vers":"0.1.0","deps":[],"cksum":"067eceb87bcc1c047fd6075ae8441dfd67a6f770d34b8a6a2dfe20e71b2a144d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T19:10:21Z"}
 {"name":"bio-terminal","vers":"0.1.1","deps":[],"cksum":"381235cce8793142e2969a4f41afc1e79782b295b1150f5008a01649da10e3de","features":{"codon-wheel":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T19:14:07Z"}
+{"name":"bio-terminal","vers":"0.1.2","deps":[],"cksum":"f854f6b8b85798a3b3447367a5eac70c41523e65e18e26afc51ad58f1f846bc0","features":{"codon-wheel":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T19:29:22Z"}
