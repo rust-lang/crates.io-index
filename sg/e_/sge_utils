@@ -4,3 +4,4 @@
 {"name":"sge_utils","vers":"1.0.3","deps":[],"cksum":"fa6463c2f5c10b602f774e13d96bd492f29a1ad82877312e18384ca8d42201db","features":{},"yanked":false,"pubtime":"2026-04-18T22:30:10Z"}
 {"name":"sge_utils","vers":"1.0.4","deps":[],"cksum":"ae04998d7270d626cdf566eb629aad7613cd95a896f8de8a2902d24917e8201f","features":{},"yanked":false,"pubtime":"2026-04-27T16:55:46Z"}
 {"name":"sge_utils","vers":"1.1.0","deps":[],"cksum":"b64a5c5ed9a3532ff59b700d8f26e4b76ec94bff8f05862a44b6d6d162513f5a","features":{},"yanked":false,"pubtime":"2026-05-15T22:24:14Z"}
+{"name":"sge_utils","vers":"1.2.0","deps":[{"name":"log","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab1091aeddd10f97fb73ae858011def25997f4020073786abd63de51be78c5a1","features":{},"yanked":false,"pubtime":"2026-06-02T18:13:23Z"}
