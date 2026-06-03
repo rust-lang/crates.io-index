@@ -1,0 +1,1 @@
+{"name":"spg-wire","vers":"7.8.0","deps":[{"name":"criterion","req":"^0.5","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"9db4fa7a06056c7134731ccb9f5c747676a3b4e741ee32e15dfc68d082ab3ea1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-03T13:25:13Z"}
