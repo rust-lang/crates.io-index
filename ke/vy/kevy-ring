@@ -1,0 +1,1 @@
+{"name":"kevy-ring","vers":"1.0.4","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"82f65eee6671eb57ac7e447e531fe5214394cac677cdce5cb557f3e861be8bea","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-03T06:50:40Z"}
