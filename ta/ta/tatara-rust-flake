@@ -1,0 +1,1 @@
+{"name":"tatara-rust-flake","vers":"0.1.2","deps":[{"name":"tatara-rust-ast","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"005c2749e5a6a432812bc9e354fbe85d702e0eac90bb8c867c43f4bb7f06c09b","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-06-03T12:24:46Z"}
