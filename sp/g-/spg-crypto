@@ -1,0 +1,1 @@
+{"name":"spg-crypto","vers":"7.8.0","deps":[{"name":"criterion","req":"^0.5","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"dee2f8dd99ec9205317a391fe0213a4797b043ab339edea961821afd7ebe5e86","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-03T13:25:23Z"}
