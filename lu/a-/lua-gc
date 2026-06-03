@@ -24,3 +24,4 @@
 {"name":"lua-gc","vers":"0.0.27","deps":[],"cksum":"8a049d318d27692504f4ad913a26df2b166311b7b0b75e30d4c5c9a30a66c0bf","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-02T17:45:58Z"}
 {"name":"lua-gc","vers":"0.0.28","deps":[],"cksum":"df34e41239a6599c5d6c2ffeee8d17600a238b25f2fd7e34ffa4a456ee0471c4","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-02T21:11:20Z"}
 {"name":"lua-gc","vers":"0.0.29","deps":[],"cksum":"37e1dd334c9bc236abd73227f1ebafb5ff82651def50dfadc3b435b41620b221","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-03T14:07:26Z"}
+{"name":"lua-gc","vers":"0.0.30","deps":[],"cksum":"c5e5623ae47102ee9449e878e0f966e7216975da386f529be71b16403a17a466","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-03T17:34:33Z"}
