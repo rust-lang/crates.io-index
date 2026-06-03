@@ -1,0 +1,1 @@
+{"name":"psl2","vers":"0.1.0","deps":[{"name":"idna","req":"^1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8dd979ef9fff37891836fc8ce50e09548655e4e96e273b56fe0cd476a0dbcfa","features":{},"features2":{"default":["idna"],"idna":["dep:idna"]},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-03T05:16:45Z","v":2}
