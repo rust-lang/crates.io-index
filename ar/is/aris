@@ -1,3 +1,4 @@
 {"name":"aris","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a85b690f204394f8b518c94942d2457553effd2990286b464fe02acc9b97679c","features":{},"yanked":false,"pubtime":"2025-11-07T14:45:29Z"}
 {"name":"aris","vers":"0.1.1","deps":[],"cksum":"05d61b078b61d02a84725fe8b71ee5674d9681df3c27fec3f213afe60b2ab93e","features":{},"yanked":false,"pubtime":"2026-06-03T12:47:19Z"}
 {"name":"aris","vers":"0.1.2","deps":[],"cksum":"8a7aaedf4c9ed466dc1f51a6c4657449e07f4b15f21ac4f0500e5723d1007f63","features":{},"yanked":false,"pubtime":"2026-06-03T15:50:23Z"}
+{"name":"aris","vers":"0.1.3","deps":[],"cksum":"705a6040431dd4913572f3ec0b2cfc0e83e6e6786873d94b782d6bbf74d56a6f","features":{},"yanked":false,"pubtime":"2026-06-03T16:27:54Z"}
