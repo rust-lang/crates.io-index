@@ -13,3 +13,4 @@
 {"name":"salsa-macro-rules","vers":"0.26.0","deps":[],"cksum":"ea07adbf42d91cc076b7daf3b38bc8168c19eb362c665964118a89bc55ef19a5","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-07T12:52:50Z"}
 {"name":"salsa-macro-rules","vers":"0.26.1","deps":[],"cksum":"ec256ece77895f4a8d624cecc133dd798c7961a861439740b1c7410a613ee7ba","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-20T12:14:56Z"}
 {"name":"salsa-macro-rules","vers":"0.26.2","deps":[],"cksum":"58e354cbac6939b9b09cd9c11fb419a53e64b4a0f755d929f56a09f4cc752e41","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-03T11:29:10Z"}
+{"name":"salsa-macro-rules","vers":"0.27.0","deps":[],"cksum":"67dad477a3e3a484a7c2311c1d25160fb270214981be24022de7de8a206a3300","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-04T07:15:45Z"}
