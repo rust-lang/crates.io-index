@@ -1,0 +1,1 @@
+{"name":"udf-forensic","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23d56db1639c2df40adf2e501a3c7c2ca017afd7c975a05de884e789f8c4bbe0","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-04T09:54:14Z","v":2}
