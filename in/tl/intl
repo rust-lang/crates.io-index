@@ -1,1 +1,2 @@
 {"name":"intl","vers":"0.1.0","deps":[],"cksum":"aa64607b7925fad1a1a7989746051f2dd838ee1e6787f68ace1860c05752639e","features":{"ascii":[],"bmp":["latin1"],"default":["bmp"],"full":["bmp"],"latin1":["ascii"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-04T06:09:46Z"}
+{"name":"intl","vers":"0.1.1","deps":[],"cksum":"a6780306d131b3ef45dd99dcaf5874358f629c83e498688065a68dbdf66583b0","features":{"ascii":[],"bmp":["latin1"],"default":["bmp"],"full":["bmp"],"latin1":["ascii"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-04T06:45:54Z"}
