@@ -1,1 +1,2 @@
 {"name":"sepia-hash","vers":"0.1.0","deps":[],"cksum":"10c4fa6b094df34c95712bf447e9cdd654436bc3562f6ec5e42dac2198d4a3da","features":{},"yanked":false,"pubtime":"2026-06-03T02:44:36Z"}
+{"name":"sepia-hash","vers":"0.1.1","deps":[{"name":"rand","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"779eeba2418084de7b045c7569f97c687a5aea43f754c25161a13113bddb96c5","features":{},"yanked":false,"pubtime":"2026-06-04T01:32:39Z"}
