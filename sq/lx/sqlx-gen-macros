@@ -15,3 +15,4 @@
 {"name":"sqlx-gen-macros","vers":"0.5.4","deps":[],"cksum":"7dc4250d944b622a2a4315eee016d2fba5d8beb36c6c871cf3876a3bc011b3cf","features":{},"yanked":false,"pubtime":"2026-04-14T21:16:57Z"}
 {"name":"sqlx-gen-macros","vers":"0.5.5","deps":[],"cksum":"ec9f16c8d66f883d0a577010e20505178f38c9a8996c4ff0d2abc5552886de22","features":{},"yanked":false,"pubtime":"2026-05-03T20:43:26Z"}
 {"name":"sqlx-gen-macros","vers":"0.5.6","deps":[],"cksum":"eb3f5e8d0c68a92a755b7bf52e2f5feaae6e8defe569e16a4a163935af28f97a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-03T20:02:59Z"}
+{"name":"sqlx-gen-macros","vers":"0.5.7","deps":[],"cksum":"f57bf6d910a1436c0d8700e79b979423e47a1e6800b6c32c6ffb0726b1229b4e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-04T09:32:40Z"}
