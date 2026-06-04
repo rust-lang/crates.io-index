@@ -15,3 +15,4 @@
 {"name":"varint-rs","vers":"2.1.3","deps":[],"cksum":"058e931260fd216a9a641f1d82229cf3ad9e6ef4cf33ecca8207aebc69e24cef","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false,"pubtime":"2020-11-25T16:06:37Z"}
 {"name":"varint-rs","vers":"2.1.4","deps":[],"cksum":"799f5f0b11e1c36fe78dc2b47ff3650154b6dff82a4fa1f03e6058dd5d824101","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false,"pubtime":"2020-11-25T16:41:33Z"}
 {"name":"varint-rs","vers":"2.2.0","deps":[],"cksum":"8f54a172d0620933a27a4360d3db3e2ae0dd6cceae9730751a036bbf182c4b23","features":{"default":["std","signed"],"signed":[],"std":[]},"yanked":false,"pubtime":"2020-11-25T17:29:42Z"}
+{"name":"varint-rs","vers":"2.2.1","deps":[],"cksum":"bfa6c38708f6257f1ec2ca7e5a11f9bbf58a27d7060078b6b333624968183d96","features":{"default":["std","signed"],"signed":[],"std":[]},"yanked":false,"pubtime":"2026-06-04T20:03:05Z"}
