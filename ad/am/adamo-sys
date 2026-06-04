@@ -1,1 +1,2 @@
 {"name":"adamo-sys","vers":"0.1.0","deps":[],"cksum":"4b6a427e5105187052733bf8d198769ba97d02e38f91263152ba2bf71a93227f","features":{},"yanked":false,"links":"adamo","pubtime":"2026-04-26T12:36:12Z"}
+{"name":"adamo-sys","vers":"0.1.59","deps":[{"name":"lzma-rs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"646538e6d9ca145fd5b06e6d3006d114fca91ba9cd6d58ad3317b09d66a3b51d","features":{},"yanked":false,"links":"adamo","pubtime":"2026-06-04T12:42:32Z"}
