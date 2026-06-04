@@ -1,0 +1,1 @@
+{"name":"able-parser","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80cf4917509f1046383d67d0cda94478b6eb116c42cea8eaa2aaac41287a1c15","features":{},"yanked":false,"pubtime":"2026-06-04T20:39:08Z"}
