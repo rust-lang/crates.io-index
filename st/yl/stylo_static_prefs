@@ -16,3 +16,4 @@
 {"name":"stylo_static_prefs","vers":"0.16.0","deps":[],"cksum":"4fe8c72f25bcf5b076b1ad183eaaaf1f2e30cb244d77a74e2b4631c41254f768","features":{},"yanked":false,"pubtime":"2026-04-12T07:15:37Z"}
 {"name":"stylo_static_prefs","vers":"0.17.0","deps":[],"cksum":"850ac3401667d004d4a13f9c93dc6d9fe67044c9bfdaf5f1519ff136ed68fbab","features":{},"yanked":false,"pubtime":"2026-05-06T08:05:43Z"}
 {"name":"stylo_static_prefs","vers":"0.18.0","deps":[{"name":"toml","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0b36e3ea5a1c20dfdc483ae3be554976dc2e7f99510f3322f8e38b594c2f6275","features":{},"yanked":false,"pubtime":"2026-06-04T14:21:27Z"}
+{"name":"stylo_static_prefs","vers":"0.16.1-servo-0.2","deps":[],"cksum":"770afdf3b46dfd288b223bd2e66d1fbbc393fdb6c6aaff97728e27be33368161","features":{},"yanked":false,"pubtime":"2026-06-04T14:43:46Z"}
