@@ -1,1 +1,2 @@
 {"name":"vita","vers":"0.0.0","deps":[],"cksum":"267d25bdd234e3ce37f4d131a704984b749520bb6fd7c761c1253d3ddf2c7503","features":{},"yanked":false,"pubtime":"2025-11-13T23:21:36Z"}
+{"name":"vita","vers":"0.1.0","deps":[{"name":"vita-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16e68b76533a5008a910444c85c09875e504acf070f2301b2e7a2f4b6372670d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-05T07:40:09Z"}
