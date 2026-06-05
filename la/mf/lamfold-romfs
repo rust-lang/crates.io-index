@@ -1,0 +1,1 @@
+{"name":"lamfold-romfs","vers":"0.0.1","deps":[{"name":"lamfold","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c576e32c34a61fd5cbcad9b6d720fe0f5b7ed1fc1b9b47a57ecb55939e973a2c","features":{"default":["std"],"std":["lamfold/std"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-05T22:51:48Z"}
