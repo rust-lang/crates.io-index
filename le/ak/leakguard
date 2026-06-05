@@ -1,2 +1,3 @@
 {"name":"leakguard","vers":"0.1.0","deps":[],"cksum":"c5a879966b1a10920677dd283bb498dcd3f799c98a55cb680f6bef0b8c108090","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-30T17:43:11Z"}
 {"name":"leakguard","vers":"0.1.1","deps":[],"cksum":"c5a9ac03de82cc81c4520b5caa8f8d974877ea2b66f90ae98f747d40836144a4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-01T06:06:31Z"}
+{"name":"leakguard","vers":"0.1.2","deps":[],"cksum":"815114c66efd1c23fd7f6e657672774c2689da626bcd7c91aa505b881051fa05","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-05T14:33:25Z"}
