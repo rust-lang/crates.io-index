@@ -28,3 +28,4 @@
 {"name":"agave-scheduler-bindings","vers":"4.1.0-beta.1","deps":[],"cksum":"4da8f7fba59b0dcfcfe9e77774e84e272e336173b07161fee856805047c74ccd","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-05-22T18:06:25Z"}
 {"name":"agave-scheduler-bindings","vers":"4.0.1","deps":[],"cksum":"7e1cd9904ba1c97fe19071522e9a55906da79dd10136fb3f74999236d82fbcda","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-05-29T17:32:19Z"}
 {"name":"agave-scheduler-bindings","vers":"4.1.0-beta.2","deps":[],"cksum":"e12d7362495d1218326ddea7896b23f7f51ed77adcc7cf04029c008138e834fa","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-01T17:52:53Z"}
+{"name":"agave-scheduler-bindings","vers":"4.1.0-beta.3","deps":[],"cksum":"cecb4fdd62cf74da4e97438a17cebc8b698edf42e26720bbd09199a9e984a885","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-05T15:34:01Z"}
