@@ -1,1 +1,2 @@
 {"name":"taktora-cyclic-fieldbus","vers":"0.1.0","deps":[],"cksum":"bd0683cb3aaaf73d1ff7dae235d6090efe9778699a52151c213ce8db90de0c46","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-02T09:25:59Z"}
+{"name":"taktora-cyclic-fieldbus","vers":"0.1.1","deps":[{"name":"taktora-stats","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29a222794586c1fd1497b55ee03a181a30bfae676d6832496a0dad9a37fd2184","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-05T13:27:12Z"}
