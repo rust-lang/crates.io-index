@@ -70,3 +70,4 @@
 {"name":"wasi-preview1-component-adapter-provider","vers":"45.0.0","deps":[],"cksum":"f912a3f8ead075800ffaaa13cb978bbcaa359c427688a753b10cd2f1e01fdf28","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-21T18:10:31Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"36.0.10","deps":[],"cksum":"1e8c413f7c0dd2dd7eb2bf009da706ff3580c11a97b479eb52d5395225dca0df","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-21T19:04:25Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"44.0.2","deps":[],"cksum":"2211ca2d69a88055eefb06bad741dde3180c9d4020f7e42fea72caba83f9c10c","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-21T19:17:18Z"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"45.0.1","deps":[],"cksum":"02ed52111afc004605074d1a3fad77ba3ac85c0c0b8ad028919275a46fec8cfd","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-06-05T15:28:30Z"}
