@@ -1,1 +1,2 @@
 {"name":"fullrust","vers":"0.1.0","deps":[],"cksum":"53da93a0d91bc5287092bd27dd0fef506733e21c7fbd1a9cd71a7f7ef1d99185","features":{},"yanked":false,"pubtime":"2026-06-05T10:37:46Z"}
+{"name":"fullrust","vers":"0.1.1","deps":[],"cksum":"e34542483d1a413909117b83b98157ac4508acb9c2249ed21b279f355736ca59","features":{"default":["rt"],"rt":[]},"yanked":false,"pubtime":"2026-06-05T13:25:45Z"}
