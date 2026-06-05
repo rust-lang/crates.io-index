@@ -6,3 +6,4 @@
 {"name":"CreateProcessW","vers":"0.1.5","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81c492da2d672716cbca0e844f1ba466f48b188072f896c4f349d07902fa7ac5","features":{},"yanked":false,"pubtime":"2025-02-06T18:18:28Z"}
 {"name":"CreateProcessW","vers":"0.1.6","deps":[],"cksum":"2e9cb0b7c6ce0b13a753e22c10027bc8405b7f86dd2d4bf062669a2f457340fa","features":{},"yanked":false,"pubtime":"2025-02-07T09:09:25Z"}
 {"name":"CreateProcessW","vers":"0.1.7","deps":[],"cksum":"39bfdb6e9fd9660925cde72f8b734c6290b6ff345e87a1daa2774f9c2464fa43","features":{},"yanked":false,"pubtime":"2025-02-07T09:20:40Z"}
+{"name":"CreateProcessW","vers":"0.1.8","deps":[],"cksum":"4c355763ba7b60b11f5c54d3d157fd928edca66b465ee8b77a5aca9b05e62ebc","features":{},"yanked":false,"pubtime":"2026-06-05T15:37:40Z"}
