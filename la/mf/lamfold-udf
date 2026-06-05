@@ -1,0 +1,1 @@
+{"name":"lamfold-udf","vers":"0.0.1","deps":[{"name":"lamfold","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"79324fe73cdf3b03e1b75310bcda12818b7ccb089861966ac284aa32f9ed476b","features":{"default":["std"],"std":["lamfold/std"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-05T22:38:09Z"}
