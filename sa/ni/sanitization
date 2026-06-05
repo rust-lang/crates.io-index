@@ -1,1 +1,2 @@
 {"name":"sanitization","vers":"1.0.0-rc.1","deps":[],"cksum":"32b2b560fcc390c546ee045e7f449322b18e46f6a55a4c42a8122c4bbc07af33","features":{"alloc":[],"default":[],"std":["alloc"],"unsafe-wipe":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-05T13:11:12Z"}
+{"name":"sanitization","vers":"1.0.0-rc.2","deps":[],"cksum":"0b87cbb1501d550e92cad59a6c64712e1438b4e24892efafaa8a78291af54ebc","features":{"alloc":[],"default":[],"std":["alloc"],"unsafe-wipe":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-05T13:23:10Z"}
