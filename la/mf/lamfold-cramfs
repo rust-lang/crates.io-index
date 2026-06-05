@@ -1,0 +1,1 @@
+{"name":"lamfold-cramfs","vers":"0.0.1","deps":[{"name":"lamfold","req":"^0.0.1","features":["codec-deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a648b032a79e3ed2574c08b10e2ef6c706bf0750b679a613471fdb58e5c3e365","features":{"default":["std"],"std":["lamfold/std"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-05T22:41:38Z"}
