@@ -5,3 +5,4 @@
 {"name":"dvb-common","vers":"2.1.0","deps":[],"cksum":"891748de7ccab9920bcdc4fe8bb93901ccdcce5e69ede0a13256ad340773aeb4","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-05T17:23:16Z"}
 {"name":"dvb-common","vers":"3.0.0","deps":[],"cksum":"966dcb0d6e8405f8cc3d36da103e0d0f4a42e85d54bf63ffc83e75b224cecebb","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-06-05T17:59:56Z"}
 {"name":"dvb-common","vers":"3.0.1","deps":[],"cksum":"584a99c4a456ece3da0e43c79a9aab9cf12269ae8403b6b115caf6e82579ef20","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-06-05T19:59:18Z"}
+{"name":"dvb-common","vers":"3.1.0","deps":[],"cksum":"594c62a4c4bc366fc248e32a3d0611657064953ba148b2b6ec5e043101d5adc3","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-05T22:41:11Z"}
