@@ -1,0 +1,1 @@
+{"name":"test-debtlint","vers":"1.0.0","deps":[{"name":"clap","req":"^4.6.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bf187505f8ca96255ddff5c7b2c91492fc223f7cd000396a6bb65b12d6a6846","features":{},"yanked":false,"pubtime":"2026-06-06T16:21:27Z"}
