@@ -1,1 +1,2 @@
 {"name":"tynavi","vers":"0.1.0","deps":[],"cksum":"a9b58a2bdb74fa1272b1f29640bb31526d93107feca99256b7db80767e7cb7b1","features":{},"yanked":false,"pubtime":"2026-06-05T15:14:19Z"}
+{"name":"tynavi","vers":"0.1.1","deps":[{"name":"tynavi-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0040d65bf310de24dd80883e553103d31e85fe3e5f2cbb5617cefaa6b38af13","features":{},"features2":{"derive":["dep:tynavi-macros"]},"yanked":false,"pubtime":"2026-06-06T15:54:09Z","v":2}
