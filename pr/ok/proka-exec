@@ -11,3 +11,4 @@
 {"name":"proka-exec","vers":"0.3.2","deps":[],"cksum":"c8ee37f8611c7a6f4a962523e123ae8060e9456f27e2627202750aac90b91f37","features":{},"yanked":false,"pubtime":"2026-06-02T05:51:43Z"}
 {"name":"proka-exec","vers":"0.4.0","deps":[],"cksum":"460cb3e80de7c8c7c0d5cec0720e999c135688a8fa80d011684a2dfbcc939404","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-06-04T05:38:29Z"}
 {"name":"proka-exec","vers":"0.4.1","deps":[],"cksum":"c54e32a9c6d3a675d6ef9c2cd273dbd9859a609b9c20059d882e13f4573a22c8","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-06-06T06:51:42Z"}
+{"name":"proka-exec","vers":"0.4.2","deps":[],"cksum":"930aea16190cee5269298a52c18b920197616b64967c346b25b7e6e16ca17e17","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-06-06T12:08:57Z"}
