@@ -3,3 +3,4 @@
 {"name":"pgoutput","vers":"0.0.3","deps":[],"cksum":"7c15adfdc34c9efb8fa7d2e1046f7268fcb686c622b3ae601c458f295588dd0c","features":{},"yanked":false,"pubtime":"2026-06-05T21:34:21Z"}
 {"name":"pgoutput","vers":"0.0.4","deps":[],"cksum":"0ce573a2268025b5809f1a0ed8036e57c27a7588a119f3f8827b3c8c97c7f572","features":{},"yanked":false,"pubtime":"2026-06-05T21:38:53Z"}
 {"name":"pgoutput","vers":"0.0.5","deps":[],"cksum":"c1f31c35b11e3486b09b7d153e0a880706fca442eacca6f220fa42d800188f67","features":{},"yanked":false,"pubtime":"2026-06-06T13:45:49Z"}
+{"name":"pgoutput","vers":"0.0.6","deps":[{"name":"base64","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2e46743cd429d1b416a6d2d222e9133132f5da952780069544604d6a0367ebb9","features":{},"yanked":false,"pubtime":"2026-06-06T16:39:48Z"}
