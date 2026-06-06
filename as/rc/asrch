@@ -1,1 +1,2 @@
 {"name":"asrch","vers":"0.1.0","deps":[],"cksum":"6fdfbc0d56f8b0d881be1fe465356717b5b7ed81b72dada455824434f0c0222a","features":{},"yanked":false,"pubtime":"2026-06-04T21:13:37Z"}
+{"name":"asrch","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56eb7936b7ce3cfdf5640b63ea06926adf8a03803540adb008a2fa48b6a19c5d","features":{},"yanked":false,"pubtime":"2026-06-06T02:09:48Z"}
