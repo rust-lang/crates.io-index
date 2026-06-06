@@ -30,3 +30,4 @@
 {"name":"imgref","vers":"1.11.0","deps":[],"cksum":"d0263a3d970d5c054ed9312c0057b4f3bde9c0b33836d3637361d4a9e6e7a408","features":{"default":["deprecated"],"deprecated":[]},"yanked":false,"pubtime":"2024-10-15T23:33:53Z"}
 {"name":"imgref","vers":"1.12.0","deps":[],"cksum":"e7c5cedc30da3a610cac6b4ba17597bdf7152cf974e8aab3afb3d54455e371c8","features":{"default":["deprecated"],"deprecated":[]},"yanked":false,"rust_version":"1.61","pubtime":"2025-09-23T20:11:11Z"}
 {"name":"imgref","vers":"1.12.1","deps":[],"cksum":"40fac9d56ed6437b198fddba683305e8e2d651aa42647f00f5ae542e7f5c94a2","features":{"default":["deprecated"],"deprecated":[]},"yanked":false,"rust_version":"1.61","pubtime":"2026-04-28T19:31:58Z"}
+{"name":"imgref","vers":"1.12.2","deps":[],"cksum":"89194689a993ab15268672e99e7b0e19da2da3268ac682e8f02d29d4d1434cd7","features":{"default":["deprecated"],"deprecated":[]},"yanked":false,"rust_version":"1.61","pubtime":"2026-06-06T12:51:29Z"}
