@@ -1,1 +1,2 @@
 {"name":"porter","vers":"0.1.0","deps":[],"cksum":"c8162c0f6513bd15d371314cbaee0123aff0fe662b1473556c77e88e08adeb12","features":{"default":["kill","watch"],"kill":[],"watch":[]},"yanked":true,"rust_version":"1.80","pubtime":"2026-06-07T20:57:05Z"}
+{"name":"porter","vers":"0.1.1","deps":[],"cksum":"da476712c2cefd1602c7bf2ecbf41bf2d551b06b2d4e6fc54d1768606d426dda","features":{"default":["kill","watch"],"kill":[],"watch":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-06-07T22:06:16Z"}
