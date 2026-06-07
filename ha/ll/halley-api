@@ -1,0 +1,1 @@
+{"name":"halley-api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48f26c61a3909991a7d5ecb0bfb73bfd1f472946a4f1143748dc8a5a4a7c29e3","features":{},"yanked":false,"pubtime":"2026-06-07T06:39:34Z"}
