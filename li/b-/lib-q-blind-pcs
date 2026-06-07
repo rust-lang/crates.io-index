@@ -1,0 +1,1 @@
+{"name":"lib-q-blind-pcs","vers":"0.0.6","deps":[{"name":"sha2","req":"^0.11.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3f03bbc067669be4b4ca3b040168813d659b1b9af1288c1752669c07a74bc56c","features":{"blind-pcs":[],"default":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-07T22:35:08Z"}
