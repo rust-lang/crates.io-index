@@ -3,3 +3,4 @@
 {"name":"nyarray","vers":"0.3.0","deps":[],"cksum":"e2f0317baa134c9ed3ee4e26a98bf3b685ac727bd3bcecc394567592480e95be","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-12-10T11:33:13Z"}
 {"name":"nyarray","vers":"0.3.1","deps":[],"cksum":"d7c8bd561ee3d7d82e44dc5b909cef43fbe8b2c376a84f3fef219df916565121","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-12-10T19:18:40Z"}
 {"name":"nyarray","vers":"0.4.0","deps":[],"cksum":"28d28e9c46b6cf66f093f28ec335ebda9595856d86e8e360ec04027367ac6c67","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-28T01:40:34Z"}
+{"name":"nyarray","vers":"0.5.0","deps":[],"cksum":"765cf3f1aaab86b5d52b5299c52fdde566dc84a3beb0b1a8293cb719f963826c","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-07T07:58:25Z"}
