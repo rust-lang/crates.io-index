@@ -4,3 +4,4 @@
 {"name":"can-hal-rs","vers":"0.3.3","deps":[],"cksum":"83fd7b8127f80da57524adfc5503d912632d226f3d593647bca6e77e96ba2e83","features":{"async":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-04-19T03:55:32Z"}
 {"name":"can-hal-rs","vers":"0.3.4","deps":[],"cksum":"a163b615cb8d372526713d1cc26441ebd281d266532871aed77e7bd326813d3c","features":{"async":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-04-28T07:25:54Z"}
 {"name":"can-hal-rs","vers":"0.4.0","deps":[],"cksum":"73baa48ae9152e177b18db5373017d24696bf5df02be3259c39428ebf30aa95e","features":{"async":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-05-22T08:44:55Z"}
+{"name":"can-hal-rs","vers":"0.4.1","deps":[],"cksum":"7ed7db194a45dd9085677964d47363a392a9aef467da6de56f3445b6f3a00791","features":{"async":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-06-07T21:49:58Z"}
