@@ -1,1 +1,2 @@
 {"name":"lzo","vers":"0.1.0","deps":[],"cksum":"5bd237666899fea8130a6842d85c89c6463af03a38be87de3f67a78a75c8f794","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-07T05:39:27Z"}
+{"name":"lzo","vers":"0.1.1","deps":[],"cksum":"987ae180dd550693b0e370c73131f32910c12469562ec2d5c4a1a92e59ac4128","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-07T07:38:33Z"}
