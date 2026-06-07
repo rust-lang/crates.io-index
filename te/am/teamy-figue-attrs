@@ -1,0 +1,1 @@
+{"name":"teamy-figue-attrs","vers":"5.0.0","deps":[{"name":"facet","req":"^0.46","features":["indexmap","camino","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7db28369c50b18fae13bcff2cac80142c4e4cdd838f31f724373ab565857f49","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-06-07T01:56:44Z"}
