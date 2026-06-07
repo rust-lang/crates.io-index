@@ -1,0 +1,1 @@
+{"name":"panicshutdown","vers":"0.1.0","deps":[{"name":"nix","req":"^0.31.3","features":["user"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9f1ce6eef762a9e59392a9cda82617d04e08dd1925cfbbc74b62c866f30b845","features":{},"yanked":false,"pubtime":"2026-06-07T18:15:37Z"}
