@@ -1,0 +1,1 @@
+{"name":"renormalization-agent","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba77899a8fe3ab282cf10ccb9e09c5a4b1f3b223052f566895c87ccd6d4d27b7","features":{},"yanked":false,"pubtime":"2026-06-08T16:35:44Z"}
