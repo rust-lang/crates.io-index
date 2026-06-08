@@ -1,0 +1,1 @@
+{"name":"geiserx_ts_transport","vers":"0.6.5","deps":[{"name":"ts_packet","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"geiserx_ts_packet"}],"cksum":"a22fea0b1ffd8b0a67d7c68a3da3ed50946b8b3c4dc32b4435b2b78ce77e8e14","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-08T19:17:57Z"}
