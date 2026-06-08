@@ -57,3 +57,4 @@
 {"name":"gitnu","vers":"0.7.5","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3fb61c3d61d9777bb6e023150033a2e61678853f5e9306402242eaa3e96ebb9","features":{},"yanked":false,"pubtime":"2024-03-05T07:12:55Z"}
 {"name":"gitnu","vers":"0.7.6","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a094489c12684e53b1992e8de723cc90ed55afac1edef13ba9bb705d8b54ca","features":{},"yanked":false,"pubtime":"2024-04-10T04:41:09Z"}
 {"name":"gitnu","vers":"0.7.7","deps":[],"cksum":"0a5315b688693eb098d5c2f24723eda5e1d299a8168fd5f9a0dbbd2f562663db","features":{},"yanked":false,"pubtime":"2024-06-01T13:38:58Z"}
+{"name":"gitnu","vers":"0.7.8","deps":[],"cksum":"4faa439ab5f219ede2f0bc2bff354d9021ca770dcceee7ff52ee3b4d88a21c8d","features":{},"yanked":false,"pubtime":"2026-06-08T08:06:17Z"}
