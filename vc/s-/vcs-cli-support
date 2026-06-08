@@ -1,0 +1,1 @@
+{"name":"vcs-cli-support","vers":"0.1.0","deps":[{"name":"processkit","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"843dba099b141a9d6a23f569a9243fb627aa339d81413051d63e4ff1d974a07f","features":{"cancellation":["processkit/cancellation"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-08T18:37:22Z"}
