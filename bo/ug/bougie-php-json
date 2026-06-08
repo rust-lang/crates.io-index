@@ -1,0 +1,1 @@
+{"name":"bougie-php-json","vers":"0.23.1","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"864a95972328ffe1fa5c02103230c6f78608feae0eeebf5d012d880635f47322","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-08T19:38:59Z"}
