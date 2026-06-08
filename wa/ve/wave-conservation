@@ -1,1 +1,2 @@
 {"name":"wave-conservation","vers":"0.1.0","deps":[],"cksum":"59a89a7a9ba408404876f7b99fe91076eedcd4c9e21ae342049b4233d7b851e3","features":{},"yanked":false,"pubtime":"2026-05-29T08:53:46Z"}
+{"name":"wave-conservation","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8ed0bb1d6a6a5742000d3a6e730d151b3c6784c55fb261d87512df98555758f","features":{},"yanked":false,"pubtime":"2026-06-08T16:28:45Z"}
