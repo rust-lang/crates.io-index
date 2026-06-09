@@ -1,0 +1,1 @@
+{"name":"tokio-interval-set","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.52.3","features":["time","sync","rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad1b623dd986a49603393072faa875d4c5247b9e1dbf5339a2475e9fe838f089","features":{},"yanked":false,"pubtime":"2026-06-09T17:41:03Z"}
