@@ -114,3 +114,4 @@
 {"name":"ckb-build-info","vers":"1.0.0","deps":[],"cksum":"eca18f6c998bac413cdc07481257d96e00c38a5bec48b492559dc58381644480","features":{},"yanked":false,"pubtime":"2025-10-29T08:32:04Z"}
 {"name":"ckb-build-info","vers":"1.0.1","deps":[],"cksum":"6e64cb958f6f220a57b6af3c8d408748334821ecc5d63173e37d953eb74a7a8d","features":{},"yanked":false,"pubtime":"2025-12-18T07:23:49Z"}
 {"name":"ckb-build-info","vers":"1.1.0","deps":[],"cksum":"258e41420996ba675efd76f9bc857098905ed2d47bfdea5c0a0fb6f542167ea4","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-03-02T10:48:54Z"}
+{"name":"ckb-build-info","vers":"1.1.1","deps":[],"cksum":"43fbeec2dddd1731a3fda1a97be8f98e69530bc842d452449624e0ecfe4af26e","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-09T03:08:50Z"}
