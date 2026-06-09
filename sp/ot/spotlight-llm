@@ -1,0 +1,1 @@
+{"name":"spotlight-llm","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.0","features":["sync","rt","rt-multi-thread","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1df1b6b6934399b0e9124025c085e752dffd28ecf0d72636aab5e040e5537d6","features":{},"yanked":false,"pubtime":"2026-06-09T20:11:49Z"}
