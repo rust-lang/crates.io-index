@@ -3,3 +3,4 @@
 {"name":"leakguard","vers":"0.1.2","deps":[],"cksum":"815114c66efd1c23fd7f6e657672774c2689da626bcd7c91aa505b881051fa05","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-05T14:33:25Z"}
 {"name":"leakguard","vers":"0.2.0","deps":[],"cksum":"71ebea4e2d757bdf0e87c9a7bd55e56ee6dfd5f5258a9137e266bafc51cb7364","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-06T11:27:17Z"}
 {"name":"leakguard","vers":"0.3.0","deps":[],"cksum":"4c100bffed2bc7496c701832c340f2b0a0502cf84f7fda7bd44d5de4b3406f1b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-07T08:12:23Z"}
+{"name":"leakguard","vers":"0.4.0","deps":[],"cksum":"727d31ce3f1569e69aa18af011602e23861113641f8ec4312ed7ce158fce34a3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-09T14:45:46Z"}
