@@ -111,3 +111,4 @@
 {"name":"ckb-spawn","vers":"1.0.0","deps":[],"cksum":"de68288fdc54b7ac90da87d4b2aeabb43c5f253bc31617ea125723ce8fab102c","features":{},"yanked":false,"pubtime":"2025-10-29T08:33:03Z"}
 {"name":"ckb-spawn","vers":"1.0.1","deps":[],"cksum":"91ffe38d4408a5b4a7a548b53609518c81c29f1b71ac100510a7a7ff24146f29","features":{},"yanked":false,"pubtime":"2025-12-18T07:36:58Z"}
 {"name":"ckb-spawn","vers":"1.1.0","deps":[],"cksum":"45ea6a3c4322b97b138fd8eba499e48d5bb5f230341b8c8bf3afce9443a78529","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-03-02T10:57:14Z"}
+{"name":"ckb-spawn","vers":"1.1.1","deps":[],"cksum":"eef59f0032a6f7d149b59c5704f039d2013cd61e11cf06cbeac6054880350397","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-09T03:18:12Z"}
