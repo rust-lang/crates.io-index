@@ -1,0 +1,1 @@
+{"name":"chemx-tensor","vers":"0.1.0","deps":[{"name":"chemx-linalg","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b10de96fd57f37e458512f489f5bfd25fe0b9c4904bf9f11778b9499bda78b1b","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-09T03:34:46Z"}
