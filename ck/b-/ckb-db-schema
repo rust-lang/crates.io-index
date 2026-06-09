@@ -111,3 +111,4 @@
 {"name":"ckb-db-schema","vers":"1.0.0","deps":[],"cksum":"ddc558bd48064ccf256c9d94e5bb506f205b40c45fc593ece179bf7ba40b0c8f","features":{},"yanked":false,"pubtime":"2025-10-29T08:32:55Z"}
 {"name":"ckb-db-schema","vers":"1.0.1","deps":[],"cksum":"6d25ba8134ee9aa6498215e500894cf979bcdf49784128ea4f41418ab9c1bc21","features":{},"yanked":false,"pubtime":"2025-12-18T07:31:08Z"}
 {"name":"ckb-db-schema","vers":"1.1.0","deps":[],"cksum":"abff1bc7cda7ef8d7f37b5aca6da999d408b1887a9ec76709bc638cb74484ce7","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-03-02T10:51:55Z"}
+{"name":"ckb-db-schema","vers":"1.1.1","deps":[],"cksum":"40b9cd16b44223fe2222268b34e3fb8a1aea7b3e1b97671d5e50c68d1a729794","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-09T03:11:58Z"}
