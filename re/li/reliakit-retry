@@ -1,0 +1,1 @@
+{"name":"reliakit-retry","vers":"0.1.0","deps":[{"name":"reliakit-backoff","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6fec6be10c9cc894cc49a06d10fcc8c4555f4c874d414bd5b129fca1a9d0487d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-09T21:14:34Z"}
