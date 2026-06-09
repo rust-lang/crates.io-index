@@ -13,3 +13,4 @@
 {"name":"typst-assets","vers":"0.14.0","deps":[],"cksum":"712f5e2c4134bcf22f292086aa515caff00a21d54c8b30c77c4fc1227442a89a","features":{"fonts":[]},"yanked":false,"pubtime":"2025-10-24T08:35:20Z"}
 {"name":"typst-assets","vers":"0.14.1","deps":[],"cksum":"98b250f6c1ddd0f435db2283c7eb36a9b72bee34d6397625bf7f817c64ad7c62","features":{"fonts":[]},"yanked":false,"pubtime":"2025-12-03T14:16:31Z"}
 {"name":"typst-assets","vers":"0.14.2","deps":[],"cksum":"5613cb719a6222fe9b74027c3625d107767ec187bff26b8fc931cf58942c834f","features":{"fonts":[]},"yanked":false,"pubtime":"2025-12-12T09:37:51Z"}
+{"name":"typst-assets","vers":"0.15.0-rc.1","deps":[{"name":"bitflags","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b89542a3881ae3efc945988a17c077919591893e03ce90972eb72ecdc368bcda","features":{"fonts":[]},"yanked":false,"pubtime":"2026-06-09T14:22:15Z"}
