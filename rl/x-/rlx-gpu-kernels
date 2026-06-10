@@ -3,3 +3,4 @@
 {"name":"rlx-gpu-kernels","vers":"0.2.2","deps":[],"cksum":"e134cfa3989d376ac81cb4acae6bcafdf05b121901f3a50f188364f34fffce33","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-29T21:14:44Z"}
 {"name":"rlx-gpu-kernels","vers":"0.2.3","deps":[],"cksum":"f774addc5c1f85d111ef8e1a4648031046f076779aff8185c23493dd52af08d7","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-09T03:24:30Z"}
 {"name":"rlx-gpu-kernels","vers":"0.2.4","deps":[],"cksum":"9baaaeda3d69f75fec0b85495db1ad00fedeeb721fcb2dda3e2cdcbaaec8a421","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-09T04:11:32Z"}
+{"name":"rlx-gpu-kernels","vers":"0.2.5","deps":[],"cksum":"9f7647ef802b6082fa666520ca484bd2d5936f37d5978d02dac92a21aad06ef2","features":{"default":[],"rocm":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-10T00:37:55Z"}
