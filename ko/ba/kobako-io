@@ -1,2 +1,3 @@
 {"name":"kobako-io","vers":"0.0.0","deps":[],"cksum":"3c95119a0296864113ec5ba6f1f0c5bcc501d41c6b6dbf9198ce486e001584fe","features":{},"yanked":false,"pubtime":"2026-06-04T15:05:53Z"}
 {"name":"kobako-io","vers":"0.3.0","deps":[{"name":"beni","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba9baa1c97b4974bfde3d675c859fac32189d90a491fd29d99e4c6477e88b0b8","features":{},"yanked":false,"pubtime":"2026-06-08T09:03:42Z"}
+{"name":"kobako-io","vers":"0.4.0","deps":[{"name":"beni","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"096a21e6437946261a07bba940217ef235710e16f12a8ad3b8cc51ec07fdceb1","features":{},"yanked":false,"pubtime":"2026-06-10T14:51:05Z"}
