@@ -1,0 +1,1 @@
+{"name":"mcp-reference-host","vers":"0.1.0","deps":[{"name":"proptest","req":">=1.4, <2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4fe9ab612038a76969c75a404b785948f6d0934595694eedee8c05a06c9c2da3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-10T00:57:49Z"}
