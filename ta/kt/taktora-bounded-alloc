@@ -5,3 +5,4 @@
 {"name":"taktora-bounded-alloc","vers":"0.1.4","deps":[],"cksum":"294cf6ef307e1d626e583fc5af52fd826d1dc27374baa3ce505afecbae1db417","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-01T15:39:23Z"}
 {"name":"taktora-bounded-alloc","vers":"0.1.5","deps":[],"cksum":"d0745eba3f960afb583e71286245a18565ed3e89b17b1a351f15209b297ce0b8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-05T13:25:10Z"}
 {"name":"taktora-bounded-alloc","vers":"0.1.6","deps":[],"cksum":"0f31be62b4a91dd7d4c250634ea9b79c3bf5c84c5066a94f12a87e79aaec6e64","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-07T16:16:00Z"}
+{"name":"taktora-bounded-alloc","vers":"0.1.7","deps":[],"cksum":"ffc9dee0a7a0c61645cc9a449966802293751a64d53604b79fec155068cabaa8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-10T05:52:40Z"}
