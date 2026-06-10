@@ -1,1 +1,2 @@
 {"name":"phon-ir","vers":"0.0.0","deps":[],"cksum":"786c6ad46e1a96708543407a7fdec738350ab9e36b536551090b221b296edd82","features":{},"yanked":false,"pubtime":"2026-06-10T03:56:57Z"}
+{"name":"phon-ir","vers":"0.2.0-rc.0","deps":[{"name":"phon-schema","req":"^0.2.0-rc.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e5f17d081ab2b92b45c97e221a8b83d854ab1aeef5996ec5f41e0b0c7e7e7b8","features":{},"yanked":false,"pubtime":"2026-06-10T04:02:37Z"}
