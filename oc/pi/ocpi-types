@@ -1,0 +1,1 @@
+{"name":"ocpi-types","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e18fda0ec0cafed242d33fa51e3b0632d901c491ad067f041f080ef469963ca0","features":{},"yanked":false,"pubtime":"2026-06-10T08:57:37Z"}
