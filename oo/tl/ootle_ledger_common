@@ -1,0 +1,1 @@
+{"name":"ootle_ledger_common","vers":"0.1.0","deps":[{"name":"borsh","req":"^1.6.0","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b1eac7031c4337706035cec3d960c20fb32e8b175f862de8fe31ca89921084d6","features":{"default":[],"std":["borsh/std"]},"yanked":false,"pubtime":"2026-06-10T09:21:16Z"}
