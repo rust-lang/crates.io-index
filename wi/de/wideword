@@ -1,1 +1,2 @@
 {"name":"wideword","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a081056824d1dd5c8ed147e612f3dcc404a182078325217f94c25ca89a13bfd0","features":{},"yanked":false,"pubtime":"2026-03-26T08:05:54Z"}
+{"name":"wideword","vers":"0.1.1","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86725fb3553f22a6edba7c0f9caf4116e920df2c66316265b5bd1f6e57bd3e27","features":{},"yanked":false,"pubtime":"2026-06-11T10:00:46Z"}
