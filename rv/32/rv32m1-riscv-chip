@@ -1,2 +1,3 @@
 {"name":"rv32m1-riscv-chip","vers":"0.1.1","deps":[],"cksum":"44dcb877cbb5eea1cf519f30b552bc00786133859896daf8a7f7c80e5009882a","features":{"rt":[]},"yanked":false,"pubtime":"2026-06-10T06:18:48Z"}
 {"name":"rv32m1-riscv-chip","vers":"0.2.0","deps":[],"cksum":"91951a707f6791fd2525e931b5d02c6414164ecc73a37865499acaf5a2867b03","features":{"rt":[]},"yanked":false,"pubtime":"2026-06-11T16:50:40Z"}
+{"name":"rv32m1-riscv-chip","vers":"0.3.0","deps":[],"cksum":"5d0f8bbb31784cb49e96f59f20364c757d25b0c4826a9a2caf17ac0e7793a57a","features":{"rt":[]},"yanked":false,"pubtime":"2026-06-11T21:59:29Z"}
