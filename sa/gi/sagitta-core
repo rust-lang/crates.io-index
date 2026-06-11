@@ -1,0 +1,1 @@
+{"name":"sagitta-core","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"220bb785b2e71ec0c48a1e61b880395320768d62e4b828e24e1d210921fc0738","features":{},"yanked":false,"pubtime":"2026-06-11T05:21:48Z"}
