@@ -1,2 +1,3 @@
 {"name":"lex-just-parse","vers":"0.1.1","deps":[],"cksum":"47088abde36aad8ac6063beb8195ee6a78803089588d87777cd2dbc7fa4f1529","features":{},"yanked":false,"pubtime":"2026-05-02T14:03:23Z"}
 {"name":"lex-just-parse","vers":"0.2.0","deps":[],"cksum":"d320d95fcc6596891bffa98dcc495711f8e2f9df6591875d1430ffa94e39db34","features":{},"yanked":false,"pubtime":"2026-06-10T23:26:09Z"}
+{"name":"lex-just-parse","vers":"0.3.0","deps":[],"cksum":"7c12a83498738aad36b0df7c30c239920534e60daeed14faa5769e61b4219e86","features":{"interning":[]},"yanked":false,"pubtime":"2026-06-11T14:24:21Z"}
