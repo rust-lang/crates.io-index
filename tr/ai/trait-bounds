@@ -2,3 +2,4 @@
 {"name":"trait-bounds","vers":"0.1.1","deps":[],"cksum":"19279e9e8f851e4c31d59b80b30a96f10ade52660f392bb844967df83f8e96a0","features":{},"yanked":false,"pubtime":"2026-04-14T02:09:54Z"}
 {"name":"trait-bounds","vers":"0.2.0","deps":[],"cksum":"dc90c9268868c65676a99a7d1dd7bf09a818e99776fa3a1d5f5335e0b5b86674","features":{"generic_const_args":[],"generic_const_exprs":[]},"yanked":false,"pubtime":"2026-06-11T00:55:47Z"}
 {"name":"trait-bounds","vers":"0.2.1","deps":[],"cksum":"ae02b34d9136ec6f0fd53986426db48231541e4ba24177c05cd9b90596cfdc0e","features":{"generic_const_args":[],"generic_const_exprs":[]},"yanked":false,"pubtime":"2026-06-11T01:14:28Z"}
+{"name":"trait-bounds","vers":"0.2.2","deps":[],"cksum":"7d89c9f94ca18edfe93c6e6eb56c270681c6ea29464457d0ab253fc11ac6fc4f","features":{"generic_const_args":[],"generic_const_exprs":[]},"yanked":false,"pubtime":"2026-06-11T01:27:53Z"}
