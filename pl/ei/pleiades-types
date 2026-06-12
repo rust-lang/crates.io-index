@@ -1,0 +1,1 @@
+{"name":"pleiades-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","std"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3d546aaabfbc45c776b152aa374336a335d996b9cbe491112dd9567716965a2c","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-12T21:09:44Z","v":2}
