@@ -1,0 +1,1 @@
+{"name":"harn-glob","vers":"0.8.105","deps":[{"name":"globset","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64e88de6b386bd9b3a0d2c4abf90805e19adf5a033b17ea6946dd0d8e73dfb57","features":{},"features2":{"default":["name"],"name":["dep:globset"]},"yanked":false,"pubtime":"2026-06-12T15:31:21Z","v":2}
