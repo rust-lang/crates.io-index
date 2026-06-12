@@ -30,3 +30,4 @@
 {"name":"agave-scheduler-bindings","vers":"4.1.0-beta.2","deps":[],"cksum":"e12d7362495d1218326ddea7896b23f7f51ed77adcc7cf04029c008138e834fa","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-01T17:52:53Z"}
 {"name":"agave-scheduler-bindings","vers":"4.1.0-beta.3","deps":[],"cksum":"cecb4fdd62cf74da4e97438a17cebc8b698edf42e26720bbd09199a9e984a885","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-05T15:34:01Z"}
 {"name":"agave-scheduler-bindings","vers":"4.0.2","deps":[],"cksum":"64fbdedda0a159583732c20f99e3320ba6b1b42bdfa53dcfd4689f1da8c54455","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-05T17:22:58Z"}
+{"name":"agave-scheduler-bindings","vers":"4.1.0-rc.0","deps":[],"cksum":"ca3e09b1126bafc0f1f6201ecd6a0e4ea76d7ba90116b8d69d6379f50eb542dc","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-06-12T16:55:56Z"}
