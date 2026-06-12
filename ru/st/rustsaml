@@ -1,0 +1,1 @@
+{"name":"rustsaml","vers":"0.1.1","deps":[{"name":"opensaml","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d095e1833c551be35115910d7d0a8b95a3d7772bb337084c8a686693250612da","features":{"crypto-bergshamra":["opensaml/crypto-bergshamra"],"default":["crypto-bergshamra"]},"yanked":false,"pubtime":"2026-06-12T05:10:30Z"}
