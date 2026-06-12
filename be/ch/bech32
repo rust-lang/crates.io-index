@@ -24,3 +24,4 @@
 {"name":"bech32","vers":"0.10.0","deps":[],"cksum":"0f9cd5c4ae44c0514f7831a2b5519ffd02f9759c2b8d2b6c7d00135e390d3ea1","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true,"pubtime":"2024-02-22T17:36:41Z"}
 {"name":"bech32","vers":"0.11.0","deps":[],"cksum":"d965446196e3b7decd44aa7ee49e31d630118f90ef12f97900f262eb915c951d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2024-02-23T18:09:42Z"}
 {"name":"bech32","vers":"0.11.1","deps":[],"cksum":"32637268377fc7b10a8c6d51de3e7fba1ce5dd371a96e342b34e6078db558e7f","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2025-12-02T18:14:48Z"}
+{"name":"bech32","vers":"0.12.0","deps":[],"cksum":"efbd3e1070bbdf4cd88a75264e18e8a26f7cb5c6949eadf0ceb85fb159cf08f8","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.56.1","pubtime":"2026-06-12T22:46:26Z"}
