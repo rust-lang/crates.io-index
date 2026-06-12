@@ -1,0 +1,1 @@
+{"name":"spine-embedded","vers":"0.1.0","deps":[{"name":"spine-nostd","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e6991b89492a14df84a826638b54b1f766fcfb076c7d3d7fdea4b865df5a726","features":{"alloc":["spine-nostd/alloc"],"default":[]},"yanked":false,"pubtime":"2026-06-12T17:11:26Z"}
