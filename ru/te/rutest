@@ -1,0 +1,1 @@
+{"name":"rutest","vers":"0.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b982e3810f5df06507c296e69155b6c38e9e54a8604099aa66a561be7377b776","features":{},"yanked":false,"pubtime":"2026-06-12T02:56:51Z"}
