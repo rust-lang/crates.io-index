@@ -1,0 +1,1 @@
+{"name":"ai_env","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"600d471cac6b3fd608ce00a076fae3a629cc3bdb5d85da004bf6f091ccd1255d","features":{},"yanked":false,"pubtime":"2026-06-13T04:21:49Z"}
