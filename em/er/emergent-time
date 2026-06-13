@@ -1,0 +1,1 @@
+{"name":"emergent-time","vers":"2.2.3","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"87aa98ca21c92f2124235af14eb2e0c6ecf75f3e666720990ad5272d29cff9f6","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-13T15:42:25Z"}
