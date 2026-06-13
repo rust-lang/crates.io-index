@@ -8,4 +8,4 @@
 {"name":"time-core","vers":"0.1.6","deps":[],"cksum":"40868e7c1d2f0b8d73e4a8c7f0ff63af4f6d19be117e90bd73eb1d62cf831c6b","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2025-09-02T19:25:26Z"}
 {"name":"time-core","vers":"0.1.7","deps":[],"cksum":"8b36ee98fd31ec7426d599183e8fe26932a8dc1fb76ddb6214d05493377d34ca","features":{},"yanked":false,"rust_version":"1.83.0","pubtime":"2026-01-13T07:14:34Z"}
 {"name":"time-core","vers":"0.1.8","deps":[],"cksum":"7694e1cfe791f8d31026952abf09c69ca6f6fa4e1a1229e18988f06a04a12dca","features":{"large-dates":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-01-24T04:16:38Z"}
-{"name":"time-core","vers":"0.1.9","deps":[],"cksum":"9e1c906769ad99c88eaa54e728060edef082f8e358ff32030cb7c7d315e81109","features":{"large-dates":[]},"yanked":true,"rust_version":"1.88.0","pubtime":"2026-06-12T08:14:02Z"}
+{"name":"time-core","vers":"0.1.9","deps":[],"cksum":"9e1c906769ad99c88eaa54e728060edef082f8e358ff32030cb7c7d315e81109","features":{"large-dates":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-06-12T08:14:02Z"}
