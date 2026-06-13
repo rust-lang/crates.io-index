@@ -1,1 +1,2 @@
 {"name":"keyvalue","vers":"0.1.0","deps":[],"cksum":"952575e954c40949f91098c987e68740c5d34cb320b06f4e898be4eea9aeabe1","features":{"debug":["magic"],"magic":[]},"yanked":false,"pubtime":"2026-04-15T05:56:52Z"}
+{"name":"keyvalue","vers":"0.2.0","deps":[{"name":"crc32fast","req":"^1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fdb19de59cbd7afebf7e393cc689d63f572b2df45a95b5ffba005abe7ee9638","features":{"debug":["integrity"],"default":["integrity"],"integrity":["crc32fast"]},"yanked":false,"pubtime":"2026-06-13T20:09:01Z"}
