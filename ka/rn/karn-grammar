@@ -1,0 +1,1 @@
+{"name":"karn-grammar","vers":"0.28.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"959c53a52eb63fdc9ba10e1cab013b6a0ca9041d8a874817125d209b034fa195","features":{},"yanked":false,"pubtime":"2026-06-13T05:12:48Z"}
