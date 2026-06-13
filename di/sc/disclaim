@@ -1,0 +1,1 @@
+{"name":"disclaim","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"cd96fce6aceca6fca1613f438b7c32bbb154f835b5eec6c3458b69a401ad9b1e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-13T11:11:17Z"}
