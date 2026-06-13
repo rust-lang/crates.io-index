@@ -143,3 +143,4 @@
 {"name":"http-constant","vers":"5.4.0","deps":[],"cksum":"b855d6e52928522a84e7ed7739d6932b42a5365ab53a65098a2889fbc8006256","features":{},"yanked":false,"pubtime":"2026-03-22T02:09:18Z"}
 {"name":"http-constant","vers":"5.5.0","deps":[],"cksum":"8fd36b3951bc456af9972c285e9e0601415eaa9fc24085fa31835308a45a6e7b","features":{},"yanked":false,"pubtime":"2026-05-10T14:53:46Z"}
 {"name":"http-constant","vers":"5.5.1","deps":[],"cksum":"705c3c29ac8e7c6914a33fe1fdb3f9cc4182c04b48b6238cb4ef3a50cbb28a3d","features":{},"yanked":false,"pubtime":"2026-05-28T00:40:47Z"}
+{"name":"http-constant","vers":"5.5.2","deps":[],"cksum":"9d26bf6d29bdca98b1083c2aeed2135b65635432e34c043aa4f01f9839cf345a","features":{},"yanked":false,"pubtime":"2026-06-13T15:02:01Z"}
