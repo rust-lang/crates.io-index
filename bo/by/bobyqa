@@ -1,1 +1,2 @@
 {"name":"bobyqa","vers":"0.1.0","deps":[],"cksum":"6233e963b6d8ed430bfc3e08263771ff76810cd2095980ad69edb023f3de947a","features":{"count-kernels":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-09T06:37:26Z"}
+{"name":"bobyqa","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"c2785d76fcc832c5978731a1ab9566232bcc41941150d607e048b7c2f3667a53","features":{"count-kernels":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-13T05:35:38Z"}
