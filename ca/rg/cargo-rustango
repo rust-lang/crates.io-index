@@ -1,7 +1,7 @@
-{"name":"cargo-rustango","vers":"0.8.0","deps":[],"cksum":"1a9f728e9e3b136b2e7b4e0d0f52245429ac5b66a414969f3834c4c33f92cdb8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-29T22:50:23Z"}
-{"name":"cargo-rustango","vers":"0.22.2","deps":[],"cksum":"6e0846f937b41abac62a67f871fbea96727757ffb22da590ecf3e7ef8abc4fec","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-03T21:49:08Z"}
-{"name":"cargo-rustango","vers":"0.23.1","deps":[],"cksum":"7a0fb597fbd567fa4d8accd284f0bcac1cfbbaac4ee899c23417d6aba93c8184","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-04T12:49:03Z"}
-{"name":"cargo-rustango","vers":"0.24.0","deps":[],"cksum":"10aa9968506e91362b8ad41ec17c886013c206f4ea5a7dc63de6c7e4ec49c747","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-06T02:19:08Z"}
-{"name":"cargo-rustango","vers":"0.34.0","deps":[],"cksum":"5fd70a64c42d21f940d62b529467cd080382c48fb453d5401ace75f55d8ed4df","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-12T18:10:05Z"}
-{"name":"cargo-rustango","vers":"0.38.0","deps":[],"cksum":"ca9a28c2d61245b8d0a2b06f6cb860c1664cf7fc5a950bbc64f6ee3f4da3ff1d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-12T18:34:09Z"}
+{"name":"cargo-rustango","vers":"0.8.0","deps":[],"cksum":"1a9f728e9e3b136b2e7b4e0d0f52245429ac5b66a414969f3834c4c33f92cdb8","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-04-29T22:50:23Z"}
+{"name":"cargo-rustango","vers":"0.22.2","deps":[],"cksum":"6e0846f937b41abac62a67f871fbea96727757ffb22da590ecf3e7ef8abc4fec","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-05-03T21:49:08Z"}
+{"name":"cargo-rustango","vers":"0.23.1","deps":[],"cksum":"7a0fb597fbd567fa4d8accd284f0bcac1cfbbaac4ee899c23417d6aba93c8184","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-05-04T12:49:03Z"}
+{"name":"cargo-rustango","vers":"0.24.0","deps":[],"cksum":"10aa9968506e91362b8ad41ec17c886013c206f4ea5a7dc63de6c7e4ec49c747","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-05-06T02:19:08Z"}
+{"name":"cargo-rustango","vers":"0.34.0","deps":[],"cksum":"5fd70a64c42d21f940d62b529467cd080382c48fb453d5401ace75f55d8ed4df","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-05-12T18:10:05Z"}
+{"name":"cargo-rustango","vers":"0.38.0","deps":[],"cksum":"ca9a28c2d61245b8d0a2b06f6cb860c1664cf7fc5a950bbc64f6ee3f4da3ff1d","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-05-12T18:34:09Z"}
 {"name":"cargo-rustango","vers":"0.43.0","deps":[],"cksum":"70f93e011dbe3ef8e6fe6663cabea01fca6fc2afa2cc58d4b62ff730d7cc2591","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-14T02:41:46Z"}
