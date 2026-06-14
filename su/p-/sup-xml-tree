@@ -1,0 +1,1 @@
+{"name":"sup-xml-tree","vers":"1.1.0","deps":[{"name":"bumpalo","req":"^3","features":["collections"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5574b05e5339060c2c4623226cfb5ac69e313433ba463c65a1369c15ccb8fe48","features":{"c-abi":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-14T00:34:50Z"}
