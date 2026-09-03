@@ -1,0 +1,1 @@
+{"name":"winterbaume-tfstate-resource-models","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57cc361df4020a3fd52dab59e99501781b112f89afc79e892ae83ad06e865fef","features":{},"yanked":false,"pubtime":"2026-05-13T08:25:12Z"}

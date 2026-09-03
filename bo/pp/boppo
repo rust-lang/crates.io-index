@@ -1,0 +1,2 @@
+{"name":"boppo","vers":"0.1.0","deps":[],"cksum":"69ad1c38075bd39c2322e41ca454ff8af53573f393244f425a40e7c076c59fe0","features":{},"yanked":false,"pubtime":"2025-02-03T02:36:19Z"}
+{"name":"boppo","vers":"0.2.0","deps":[{"name":"boppo_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52a8e22921419770b50a6f6084f60cbd5d745fdcfb72026fed2013b84157f69e","features":{},"yanked":false,"pubtime":"2026-05-24T06:59:17Z"}

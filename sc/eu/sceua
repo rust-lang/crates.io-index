@@ -1,0 +1,1 @@
+{"name":"sceua","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["cargo_bench_support","html_reports","plotters"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a2aeb5b693f6a41ac14a7943c8e6046984b0f2d4c17f08d0bfddaacc2982d7a1","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-06-21T14:31:10Z"}

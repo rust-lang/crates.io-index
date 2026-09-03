@@ -1,0 +1,2 @@
+{"name":"concrete-syntax-tree","vers":"0.1.0","deps":[],"cksum":"e4fc51e6c0ff27215afa2cd87e7d041cb8c3df38f9da95cddb49f15c1c7b620e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T10:51:43Z"}
+{"name":"concrete-syntax-tree","vers":"0.1.1","deps":[{"name":"rhusky","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cb70e68d81f322fcc112e88ff5cd30e725b70f6d37ddb4bcea287a9f9fadfc44","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T14:45:47Z"}

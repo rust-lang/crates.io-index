@@ -1,0 +1,2 @@
+{"name":"log-lazy","vers":"0.1.0","deps":[],"cksum":"2891f2d5625c64238aa93df2e8bcd60d5506ee13df66bcb5b91e5c06d65768b5","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-04-16T13:04:24Z"}
+{"name":"log-lazy","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":["clock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8c7d707bdd9922c7bca6d61fd822e6040e8854aafb3c28075ce1825997af61d9","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-10T12:06:38Z"}

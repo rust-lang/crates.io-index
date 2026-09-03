@@ -1,0 +1,1 @@
+{"name":"pdf-standard-fonts","vers":"1.0.0-beta.18","deps":[{"name":"cff-parser","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"pdfluent-cff"}],"cksum":"d92403aa5151d4660b8b7f2c6cb835ebe1e8b3e14b0d318d8d6ba85e609aa8af","features":{},"yanked":false,"rust_version":"1.80.0","pubtime":"2026-08-14T10:11:01Z"}

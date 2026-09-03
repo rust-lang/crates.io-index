@@ -1,0 +1,1 @@
+{"name":"covguard-policy","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"758ad4b55b30c105d545f183c236adc061f34cac7c346afa5b8187fa02e6ec36","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-12T06:23:39Z"}

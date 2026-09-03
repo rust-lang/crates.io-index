@@ -1,0 +1,1 @@
+{"name":"rune-heartbeat","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20e1eab29b4af1a01bf33f3885906f58728dec9741d476cb4296723e1ac90432","features":{},"yanked":false,"pubtime":"2026-08-22T15:00:27Z"}

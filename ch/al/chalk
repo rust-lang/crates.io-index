@@ -1,0 +1,2 @@
+{"name":"chalk","vers":"0.1.0","deps":[],"cksum":"f43651cd9351ff489764411944a327d59e892c90d02d2348771126315d80227f","features":{},"yanked":true,"pubtime":"2015-07-09T06:58:44Z"}
+{"name":"chalk","vers":"0.1.1","deps":[{"name":"chalk-proc-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db7bd183004460424ecfe9ea9e82133ff929729521648f08ccfe2666e464ea37","features":{"cyclic":[],"default":[],"polynomial":[]},"yanked":false,"pubtime":"2026-08-05T02:20:40Z"}

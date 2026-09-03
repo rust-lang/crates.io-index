@@ -1,0 +1,1 @@
+{"name":"concurrent_avl_tree","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54e31d3bb377be519729f82f02a78250248b31a277d8a59fccd822b9da29b8fc","features":{},"yanked":false,"rust_version":"1.91.1","pubtime":"2026-05-01T02:34:35Z"}

@@ -1,0 +1,1 @@
+{"name":"cargo-gamma-rt","vers":"0.1.0","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":false,"target":"cfg(loom)","kind":"normal"}],"cksum":"1b31f125dbec51f698d4d9a2977b68df79a9412568a993ec26b313c0e5d9cc25","features":{"loom":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-02T19:21:50Z"}

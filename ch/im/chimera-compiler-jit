@@ -1,0 +1,1 @@
+{"name":"chimera-compiler-jit","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f6a75bd4b4d422156432f30c388370c18a2904a5d6f2ce5fcc29d7e046365f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-07T23:12:34Z"}

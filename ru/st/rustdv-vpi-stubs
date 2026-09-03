@@ -1,0 +1,2 @@
+{"name":"rustdv-vpi-stubs","vers":"0.1.0","deps":[],"cksum":"0264d37954fefa5028957dbe3faadd274b8490ff107d026c6dac8293cad708d9","features":{},"yanked":false,"pubtime":"2026-08-06T16:00:33Z"}
+{"name":"rustdv-vpi-stubs","vers":"0.2.0","deps":[{"name":"rustdv-gpi-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3cff60aa51f1285a42bbe53c6635d2d09adf7f981f9a4cedc77f38db9af6a4d","features":{},"yanked":false,"pubtime":"2026-08-14T13:32:31Z"}

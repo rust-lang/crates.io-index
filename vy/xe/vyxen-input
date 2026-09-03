@@ -1,0 +1,1 @@
+{"name":"vyxen-input","vers":"0.1.0","deps":[{"name":"winit","req":"^0.30","features":["android-native-activity"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08e9cd3dfb2225c7287366bdceb0c7eee95221a79f33c9234f5477de19982e41","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-24T13:30:10Z"}

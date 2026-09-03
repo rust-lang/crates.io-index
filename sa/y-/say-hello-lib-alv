@@ -1,0 +1,3 @@
+{"name":"say-hello-lib-alv","vers":"0.1.0","deps":[],"cksum":"dc7b9b4dbd814059f9ab191405e8716cdfacb70161f9e3027f312c98c57f6616","features":{},"yanked":false,"pubtime":"2026-07-14T03:43:56Z"}
+{"name":"say-hello-lib-alv","vers":"0.2.0","deps":[],"cksum":"1cdde5b07d3212663c488a29ae0abcf8b6809e5844de502ef760becc291f3672","features":{},"yanked":false,"pubtime":"2026-07-14T04:05:19Z"}
+{"name":"say-hello-lib-alv","vers":"0.3.0","deps":[],"cksum":"fe36a8fa741a0c542b78ce7cbf708e1c19ff41515b5de451dcac34f703ecef7a","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-07-14T04:17:05Z"}

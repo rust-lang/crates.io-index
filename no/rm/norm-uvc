@@ -1,0 +1,1 @@
+{"name":"norm-uvc","vers":"0.3.0-nc","deps":[{"name":"norm-uvc-sys","req":"^0.3.0-nc","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d81b4bbf0ed07683ffa7f354e3ce6bd2b46bcf75fc4490f9cfeb2e07cf0c6d3b","features":{"uvc_debugging":["norm-uvc-sys/uvc_debugging"]},"yanked":false,"pubtime":"2026-03-03T10:42:25Z"}

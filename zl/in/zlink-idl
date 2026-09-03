@@ -1,0 +1,1 @@
+{"name":"zlink-idl","vers":"0.7.0","deps":[{"name":"winnow","req":"^0.7","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a7990f15bd88a2b37d55c5fc13a1dd662ee98674ec9c6ac904fe46066523932a","features":{},"features2":{"parse":["dep:winnow"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-19T21:02:42Z","v":2}

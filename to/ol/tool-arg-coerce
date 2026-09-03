@@ -1,0 +1,1 @@
+{"name":"tool-arg-coerce","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a97fd4aeca9c656d9c6e1daae948489afee07a0c7191831926931ffd32ead019","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-17T00:00:44Z"}

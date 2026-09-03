@@ -1,0 +1,2 @@
+{"name":"lvr","vers":"0.0.0","deps":[],"cksum":"b9ac8922663b985627a5df67a2f79f24d3eaa94492f8d50bf00008259c76c90a","features":{"all":[],"alloc":[],"default":["all","std"],"std":["alloc"],"unstable":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-24T09:15:17Z"}
+{"name":"lvr","vers":"0.0.1","deps":[],"cksum":"a6f3f88373ac1d521ecabef00450e3321dbfd20b94e8481332a7bbdb9e7fd2a4","features":{"all":[],"alloc":[],"default":["all","std"],"std":["alloc"],"unstable":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-25T10:41:33Z"}

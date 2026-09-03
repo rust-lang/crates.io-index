@@ -1,0 +1,2 @@
+{"name":"ptfkit","vers":"0.0.0","deps":[],"cksum":"4dbb91ab203da1a81e11bece76a5a6709afd62848046ec5e8cf0239ab7d65260","features":{},"yanked":true,"pubtime":"2026-08-20T09:56:58Z"}
+{"name":"ptfkit","vers":"0.2.0","deps":[{"name":"assertables","req":"^10.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"abc068b943cf0da8e8cf2bcf8ffb9ced7e0d1d2704d81e7fc5bf9b5973f78c80","features":{},"yanked":false,"pubtime":"2026-08-20T10:15:24Z"}

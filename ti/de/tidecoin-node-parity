@@ -1,0 +1,1 @@
+{"name":"tidecoin-node-parity","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9c358eeb0a867cde8929d86025ead107dc1f9739434267c16d0f63be7c01fe9c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-30T17:14:42Z"}

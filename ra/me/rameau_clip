@@ -1,0 +1,1 @@
+{"name":"rameau_clip","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a7e1923b5629077e501dd65b66b0ac106c39492f81aaf7396c0e1e707d83082","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-06-24T03:18:43Z","v":2}

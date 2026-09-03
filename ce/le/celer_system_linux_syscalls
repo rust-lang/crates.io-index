@@ -1,0 +1,1 @@
+{"name":"celer_system_linux_syscalls","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.183","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cfcfc5991325b88d550d2f7638bd7efc9534769cde3f33cecfee0bf2f2b1824f","features":{},"yanked":false,"pubtime":"2026-03-13T20:44:25Z"}

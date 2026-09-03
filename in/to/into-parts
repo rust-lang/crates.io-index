@@ -1,0 +1,1 @@
+{"name":"into-parts","vers":"1.0.0","deps":[{"name":"into-parts-derive","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f869073567f5879d8f5e151263c98845c22d552936cb0b2e06a36ae88bf565","features":{},"features2":{"default":["derive"],"derive":["dep:into-parts-derive"]},"yanked":false,"pubtime":"2026-06-17T17:31:46Z","v":2}

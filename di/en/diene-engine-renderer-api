@@ -1,0 +1,1 @@
+{"name":"diene-engine-renderer-api","vers":"0.1.0","deps":[{"name":"raw-window-handle","req":"^0.6","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed51069b7136cba65948a64a29e5e862e48e10396e22d666ac849f7b6589e340","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-14T13:02:02Z"}

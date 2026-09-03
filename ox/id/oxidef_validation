@@ -1,0 +1,1 @@
+{"name":"oxidef_validation","vers":"0.1.0-alpha.1","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0041880a423b910dc6ea04ca7fc9fb0825fb8ae92e82622c6794a0026d4fbeb8","features":{"alloc":[],"default":["alloc","std"],"std":[]},"yanked":false,"pubtime":"2026-01-06T20:06:34Z"}

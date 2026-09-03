@@ -1,0 +1,1 @@
+{"name":"lix-plugin-bindings-combined","vers":"0.12.0","deps":[{"name":"wit-bindgen","req":"^0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bc24bc6ec09979f7c060baa90ffddd4a30e7f4cf4808160a3c242013559ff7d","features":{},"yanked":true,"rust_version":"1.93","pubtime":"2026-08-15T03:30:27Z"}

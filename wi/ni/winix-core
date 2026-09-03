@@ -1,0 +1,1 @@
+{"name":"winix-core","vers":"0.1.0","deps":[{"name":"winix-ffi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"165f0ef201f90a4b95bd55a8d464bd3c59356e722ed3ade2243119a43ce377fa","features":{"alloc":["winix-ffi/alloc"],"default":["std","alloc"],"std":["winix-ffi/std"]},"yanked":false,"pubtime":"2026-08-03T23:36:42Z"}

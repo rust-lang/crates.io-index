@@ -1,0 +1,2 @@
+{"name":"monty-alloc","vers":"0.0.0","deps":[],"cksum":"255a2bae187a8c3f2abed809ec6a7a68f82cee43b21cd86a14894df098e7b594","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-06T08:16:48Z"}
+{"name":"monty-alloc","vers":"0.0.21","deps":[{"name":"monty-types","req":"^0.0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0116e09c9b26d3ff56bdc9678a2a8704a8e868a58b743d1df947f85109258d2","features":{"exit-code":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T21:34:28Z"}

@@ -1,0 +1,1 @@
+{"name":"landlock-test-confine","vers":"0.4.0","deps":[{"name":"landlock","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"fceb4ed5ce82db7bcfe2e3de97f386289fe63d331d3dafab8b4c70f44bdbba20","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-19T16:17:01Z"}

@@ -1,0 +1,1 @@
+{"name":"uniptr","vers":"0.3.2","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"f6a2bb7e683a0829397c945f2f9ddbb28cff598472d2d94af42904cd33fe862f","features":{"stats":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-08-27T17:33:57Z"}

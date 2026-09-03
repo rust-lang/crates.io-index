@@ -1,0 +1,2 @@
+{"name":"arkhe","vers":"0.0.1","deps":[],"cksum":"0f356c7b51871d5db02b25ab2c9af4303de1ee62ab03a9cfb8222129a68a5ea6","features":{},"yanked":false,"pubtime":"2026-07-16T18:58:26Z"}
+{"name":"arkhe","vers":"0.2.0","deps":[{"name":"arkhelang","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b60cb4ee328cbe2b567830363729ba47adb7bea00e7dae384a5661933a0d86e4","features":{},"yanked":false,"pubtime":"2026-07-23T09:44:59Z"}

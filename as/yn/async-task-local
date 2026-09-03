@@ -1,0 +1,1 @@
+{"name":"async-task-local","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bb21bbe4c0726b33c51ac6af1e8e9e62b9545bbc16817652f0ca18e662a1b71","features":{},"yanked":false,"pubtime":"2026-06-18T03:50:05Z"}

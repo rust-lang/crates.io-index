@@ -1,0 +1,9 @@
+{"name":"levilamina-sys","vers":"0.1.0","deps":[],"cksum":"d5550c86b50f13f449e9aa1edcde0284a59b2a557a1d75b4ac2d585640ad4636","features":{},"yanked":false,"pubtime":"2026-07-04T05:27:45Z"}
+{"name":"levilamina-sys","vers":"0.1.1","deps":[],"cksum":"074f7d054d04fbe271ac0ad3c6b787ccac14573efdc8a1daaa74f6c02ab4e2bc","features":{},"yanked":false,"pubtime":"2026-07-04T06:12:23Z"}
+{"name":"levilamina-sys","vers":"0.1.2","deps":[],"cksum":"0391a5c08689ffb1ad9d1cab7b4ac053693c7d2ad36e2338d3e852f8e6f8c133","features":{},"yanked":false,"pubtime":"2026-07-04T10:16:01Z"}
+{"name":"levilamina-sys","vers":"0.1.3","deps":[],"cksum":"0334e9710cb134e243a7619e45055cb16b3dda80a607471032c3f7ffd88abd51","features":{},"yanked":false,"pubtime":"2026-07-04T14:38:48Z"}
+{"name":"levilamina-sys","vers":"1.0.0","deps":[],"cksum":"e3090110d471d947c40412908f52d6f74065ae144e05b6cfb45d59460d25ddab","features":{},"yanked":false,"pubtime":"2026-07-09T10:37:57Z"}
+{"name":"levilamina-sys","vers":"26.20.0","deps":[],"cksum":"a007e4c0e15941ddabf899468bccacc4750da4fa22b22147fef7d0ee79baebd3","features":{},"yanked":false,"pubtime":"2026-07-13T18:17:36Z"}
+{"name":"levilamina-sys","vers":"26.20.2","deps":[],"cksum":"86144194907aab13eb32fed3a7f2f179b6358e83d466bf5da93b4700bb1906e8","features":{},"yanked":false,"pubtime":"2026-07-20T11:09:56Z"}
+{"name":"levilamina-sys","vers":"26.20.4","deps":[],"cksum":"5d4fef86d70ab76893aa3e49e01c22445c5cf709c0f30866e9cd302c5f987040","features":{"client":[],"default":["server"],"more_dimensions":[],"server":[]},"yanked":false,"pubtime":"2026-08-11T10:28:53Z"}
+{"name":"levilamina-sys","vers":"26.20.5","deps":[],"cksum":"1a629e2d207395f97d305ac6402f0f0a654a5926ffd287fd924a732fd081d83f","features":{"client":[],"default":["server"],"more_dimensions":[],"server":[]},"yanked":false,"pubtime":"2026-09-01T03:34:51Z"}

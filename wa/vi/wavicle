@@ -1,0 +1,2 @@
+{"name":"wavicle","vers":"0.0.1","deps":[],"cksum":"54b59d0372c9b84ba1bdb89c5c4201c320cd482ba54457d060a29d3d37a98619","features":{},"yanked":false,"pubtime":"2026-07-17T08:24:39Z"}
+{"name":"wavicle","vers":"0.1.0","deps":[{"name":"blake3","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e312eaf22b4a7e5b7bf038edb3a7e4703c7b86dfabaea49d17af85e55eb76ab","features":{"decode":[],"default":["decode"],"encode":[]},"yanked":false,"pubtime":"2026-07-18T10:43:17Z"}

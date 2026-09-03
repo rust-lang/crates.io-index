@@ -1,0 +1,1 @@
+{"name":"zeroth-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d54c90f94dcd28083a70a94eb48417d1cfb73be0087a3a532cf59cef69ec11d","features":{},"yanked":false,"pubtime":"2026-07-06T00:34:28Z"}

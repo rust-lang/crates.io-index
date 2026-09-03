@@ -1,0 +1,2 @@
+{"name":"sequents","vers":"0.1.0","deps":[],"cksum":"d8d67968dd4c027779c7ab8d1c95de7a0528d43b3c3cab9363a97f2e306078af","features":{},"yanked":false,"pubtime":"2026-04-19T08:15:19Z"}
+{"name":"sequents","vers":"0.1.2","deps":[{"name":"either","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ab6989092bdac3d59f69c3a419e82c06f7275d41d2f655da8ccc50bfba24089","features":{},"yanked":false,"pubtime":"2026-04-19T20:15:03Z"}

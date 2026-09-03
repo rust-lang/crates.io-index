@@ -1,0 +1,2 @@
+{"name":"rusty_vorbis","vers":"0.1.0","deps":[],"cksum":"4490a19357219cc2b57514e959c9f4d505ac30429edda9b29df13a500dd19c9c","features":{"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T15:35:16Z"}
+{"name":"rusty_vorbis","vers":"0.1.1","deps":[],"cksum":"6eddf79e697ce9279ef0e012432cd2889a7b6305a45efb5bb16e8a1d6338646f","features":{"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-01T00:06:11Z"}

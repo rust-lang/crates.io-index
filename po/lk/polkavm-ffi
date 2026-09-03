@@ -1,0 +1,1 @@
+{"name":"polkavm-ffi","vers":"0.1.0","deps":[{"name":"polkavm","req":"^0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1b756ab5a3ba47ed0085c5a5920c5c3a290f438454ca6b4de1c78eeb3b1b054","features":{"default":[],"doom":[]},"yanked":false,"pubtime":"2025-12-31T06:34:23Z"}

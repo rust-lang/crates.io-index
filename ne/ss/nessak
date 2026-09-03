@@ -1,0 +1,1 @@
+{"name":"nessak","vers":"1.0.0","deps":[],"cksum":"6a896a3e94299e716d690e2f5835508efd4c26737729fbf4f289af5c061d3526","features":{"const":[],"default":["safety-checks","tundra-nessak","standalone"],"nessak_impls":[],"safety-checks":[],"standalone":["nessak_impls"],"tundra":[],"tundra-nessak":["tundra","nessak_impls"]},"yanked":false,"pubtime":"2026-09-03T09:11:16Z"}

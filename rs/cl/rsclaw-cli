@@ -1,0 +1,1 @@
+{"name":"rsclaw-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"410ffbc2595dd957feb2996e9d9f9264b03fb42834d679e1c9ded5fe98f6a0e5","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-07-03T01:49:52Z"}

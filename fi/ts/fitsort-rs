@@ -1,0 +1,1 @@
+{"name":"fitsort-rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3c6c4a67c5960e722543e52b13c71472c13d597c35d47600294d9b57fc02a1b","features":{},"yanked":false,"pubtime":"2026-05-16T16:02:26Z"}

@@ -1,0 +1,3 @@
+{"name":"cap_vec","vers":"0.1.0","deps":[],"cksum":"847ea1901f028125498a944149c900b9a5f41385e517e2063de431456ddb27dc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-10-26T16:25:45Z"}
+{"name":"cap_vec","vers":"0.2.0","deps":[],"cksum":"cafb10ccf5e620b79927c45838e20df0da2065e3975dd2083a8934491a543aee","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-11-02T21:46:31Z"}
+{"name":"cap_vec","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"513f62d3e47b81aff5e316c3a6758aa2b68351a97856b111ef9d762234f9ae36","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-05-05T20:29:55Z"}

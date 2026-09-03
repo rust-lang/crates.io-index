@@ -1,0 +1,4 @@
+{"name":"simd-popcnt","vers":"0.1.0","deps":[],"cksum":"208c08c21e3e95fbea6a5d3d151888acaecaec42574a83eae2147b5ccf915d94","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-01T07:24:15Z"}
+{"name":"simd-popcnt","vers":"0.2.0","deps":[],"cksum":"65f999e3f0bd9e19a55db10f90a8ff9095f721d929fd4d19a41b25602104e69a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-01T17:53:03Z"}
+{"name":"simd-popcnt","vers":"0.2.1","deps":[],"cksum":"7def83b55b5e46031486faf5d716bc434953ad5e9836e9651ee6c6c2c5626392","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-06T15:23:12Z"}
+{"name":"simd-popcnt","vers":"1.0.0","deps":[],"cksum":"15e6b6e6837f48e6a63097000524d8b166e26d1aa777f2813e646ebb17d3b43e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-29T17:07:46Z"}

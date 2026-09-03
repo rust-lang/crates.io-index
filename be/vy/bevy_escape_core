@@ -1,0 +1,1 @@
+{"name":"bevy_escape_core","vers":"0.0.1","deps":[{"name":"bevy_ecs","req":"^0.19","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"142a7ee7854930bb57a9a0509d38aaf4eec916aa6a01d5b6f23c4715f52de7f4","features":{},"yanked":false,"pubtime":"2026-08-23T16:05:35Z"}

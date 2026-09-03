@@ -1,0 +1,1 @@
+{"name":"architecture","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7ad27edb271588fe9f6559192321c63c4e7d5b90f98adb312b71e5d028f1692","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-02-17T12:54:40Z","v":2}

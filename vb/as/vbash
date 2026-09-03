@@ -1,0 +1,2 @@
+{"name":"vbash","vers":"0.1.0","deps":[],"cksum":"6a0a247934dff7f826748f9129d68d13ad2c3f34e13a69049a476e7ed034357f","features":{},"yanked":false,"pubtime":"2026-05-02T20:26:27Z"}
+{"name":"vbash","vers":"0.3.1","deps":[{"name":"vsh-primary","req":"=0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"vsh"}],"cksum":"ef2885d69abcde6361cc0fc6e3074f26d2a6c6b3bbe7aa5f4e2de94a9e85a5d4","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-02T21:29:59Z"}

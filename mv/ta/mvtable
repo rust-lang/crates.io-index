@@ -1,0 +1,1 @@
+{"name":"mvtable","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"e8f6962b22d7bc465db9fb34ae7951a30e7189c50db00b4d9fde3065a1ce8e4b","features":{"default":["std"],"simd":[],"std":[]},"yanked":false,"pubtime":"2026-08-10T17:56:23Z"}

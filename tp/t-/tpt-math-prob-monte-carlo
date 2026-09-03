@@ -1,0 +1,1 @@
+{"name":"tpt-math-prob-monte-carlo","vers":"0.1.0","deps":[{"name":"tpt-math-prob-core","req":"^0.1.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1ffd9557199a52eee476817c512f6275e0e3068b76521ac5ecb2a05c24613c60","features":{"default":[]},"yanked":false,"rust_version":"1.84","pubtime":"2026-08-12T10:52:10Z"}

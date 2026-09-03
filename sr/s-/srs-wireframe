@@ -1,0 +1,1 @@
+{"name":"srs-wireframe","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0710f0a38f6adf0d15a4994c49d7842a7ef85cdf088083a5f6e03e1f131efbf","features":{},"yanked":true,"rust_version":"1.80","pubtime":"2026-07-05T15:20:12Z"}

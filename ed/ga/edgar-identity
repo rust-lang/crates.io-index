@@ -1,0 +1,1 @@
+{"name":"edgar-identity","vers":"0.1.0-alpha.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"282ca05e85b7ec5319a16be472fd86027f12f1985ee164c993e58ac92860b03b","features":{},"yanked":false,"pubtime":"2026-03-30T11:22:04Z"}

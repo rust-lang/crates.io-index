@@ -1,0 +1,1 @@
+{"name":"argy_shared","vers":"0.1.20","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"835114e918867eabea712ab24f92cf7f8a7b7145e836c12bc4778b5d758cd033","features":{},"yanked":false,"pubtime":"2026-08-31T18:08:46Z"}

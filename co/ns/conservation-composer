@@ -1,0 +1,1 @@
+{"name":"conservation-composer","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4652f5c75ab1b9b6175d995fe985d642a2da58ac96d8eca185bf95552e571214","features":{},"yanked":false,"pubtime":"2026-06-08T16:11:58Z"}

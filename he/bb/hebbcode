@@ -1,0 +1,1 @@
+{"name":"hebbcode","vers":"0.0.1","deps":[{"name":"clap","req":"^4.6.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c223fa0b51b226b78902dc87d6d0095d71e0b72fea75607222a7df43bd40d72","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-06-15T13:04:34Z"}

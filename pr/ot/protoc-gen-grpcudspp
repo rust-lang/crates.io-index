@@ -1,0 +1,1 @@
+{"name":"protoc-gen-grpcudspp","vers":"0.1.0","deps":[{"name":"protobuf","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b92864974291f290ef670164e73aa0608193511f219af51f15464b298d638217","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T00:32:37Z"}

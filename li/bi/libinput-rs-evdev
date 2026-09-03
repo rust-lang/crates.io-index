@@ -1,0 +1,1 @@
+{"name":"libinput-rs-evdev","vers":"0.1.0","deps":[{"name":"evdev-upstream","req":"=0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"evdev"}],"cksum":"b7a2b1102a272ec87f5e63fc374c663caee56fc600249c5e3c11d3708a360345","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-27T20:28:33Z"}

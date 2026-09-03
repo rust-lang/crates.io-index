@@ -1,0 +1,2 @@
+{"name":"vsh","vers":"0.0.0","deps":[],"cksum":"494b832c76a6465a7c34e5921c0005580fa9d4d78071f85d2a0f4a71ccc91241","features":{},"yanked":true,"pubtime":"2016-12-16T11:04:06Z"}
+{"name":"vsh","vers":"0.3.1","deps":[{"name":"vsh-runtime-core","req":"=0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"vsh-runtime"}],"cksum":"56c94b17e1a986b9df863b74e396d63cdd7d72d7cb3d54c7bef2570a0c2a3e66","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-02T21:29:56Z"}

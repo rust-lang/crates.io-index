@@ -1,0 +1,3 @@
+{"name":"mshc-macro-shared","vers":"0.1.0","deps":[],"cksum":"3810ea3ef0b96ac8fd90c8c5a3ae5cb0834caffa78ef734c5293eb8277e8e85c","features":{},"yanked":false,"pubtime":"2026-06-29T11:52:21Z"}
+{"name":"mshc-macro-shared","vers":"0.1.1","deps":[],"cksum":"5872a013746254c12c82285de4eb0ac44d2170a4253058e25081ef162241f744","features":{},"yanked":false,"pubtime":"2026-06-30T06:04:25Z"}
+{"name":"mshc-macro-shared","vers":"0.1.11","deps":[{"name":"syn","req":"^3.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19907f361c7f7dae9ddbecf8ea82b781a4825c7fba22e295a4219b3109a86c96","features":{},"yanked":false,"pubtime":"2026-08-18T11:52:24Z"}

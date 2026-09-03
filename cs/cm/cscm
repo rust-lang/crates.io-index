@@ -1,0 +1,2 @@
+{"name":"cscm","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68afe5e044181d5b4e2a03f58fe1c4ff9dc808a40b121abad2a62ac53b730f15","features":{},"yanked":false,"pubtime":"2026-07-26T09:46:46Z"}
+{"name":"cscm","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b911aef3191953635b42a940498f60006513643abc29a8a60a403845c78e1dc","features":{},"yanked":false,"pubtime":"2026-07-26T14:53:02Z"}

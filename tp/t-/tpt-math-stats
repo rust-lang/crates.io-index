@@ -1,0 +1,1 @@
+{"name":"tpt-math-stats","vers":"0.1.0","deps":[{"name":"tpt-math-prob-core","req":"^0.1.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cc5bd4a81ade5b428c808b4ee6093b2ff3b2c0ad74e88735e0cf3bd72bb81828","features":{"default":[]},"yanked":false,"rust_version":"1.84","pubtime":"2026-08-12T11:02:13Z"}

@@ -1,0 +1,1 @@
+{"name":"lbl-tg-rcore-tutorial-ch1-game","vers":"0.1.0-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.8","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"5ea7bdbd02fb958f947531ea6aa30f341584112d45f3f691db519484f6c8f027","features":{},"yanked":false,"pubtime":"2026-03-25T14:07:40Z"}

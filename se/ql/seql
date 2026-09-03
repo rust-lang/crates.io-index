@@ -1,0 +1,1 @@
+{"name":"seql","vers":"0.1.0","deps":[{"name":"atomic-memcpy","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8cb14ce0010f0b9522f62222692bc6f9563d615d5edac612386a21a2ef10beb","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-06-11T20:54:20Z"}

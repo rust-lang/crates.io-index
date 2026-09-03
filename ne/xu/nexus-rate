@@ -1,0 +1,7 @@
+{"name":"nexus-rate","vers":"1.0.0","deps":[],"cksum":"9ffd2204539dfe37f1efe81bf04a61f247d2f5d94139c7eb92de6d335b6d10f1","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-16T15:01:05Z"}
+{"name":"nexus-rate","vers":"2.0.0","deps":[],"cksum":"34cbea0a96301e84df3f229386ee313ebf60cf67616027029e54beed52c1edb0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-25T05:10:31Z"}
+{"name":"nexus-rate","vers":"2.0.1","deps":[],"cksum":"c46acd9cd8f69222814b2885426aaf0e5c5b613ab0f4e0ab05dd85f52b473fbd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-01T20:39:00Z"}
+{"name":"nexus-rate","vers":"2.1.0","deps":[],"cksum":"c7e5d611d956cbabaaccd38c0f214d5ffbddb2f9eaac921b264ca3420fc4eb1a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-12T02:08:33Z"}
+{"name":"nexus-rate","vers":"2.1.1","deps":[],"cksum":"1b73ad1a99503cb0e3d4ea23a142316321dc4faae2cc3cfe817e0fa4299e495c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-13T02:11:38Z"}
+{"name":"nexus-rate","vers":"2.1.2","deps":[],"cksum":"bad15f648e43c25bb7ecaaacabf35a19253c4bb012761ab76fcf5bbdc4bed6eb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-13T05:27:11Z"}
+{"name":"nexus-rate","vers":"2.1.3","deps":[],"cksum":"44bbacea609c3269c84f091a27e3822c912a9d64c44a6faab46bf8f08183c0f8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-10T03:41:58Z"}

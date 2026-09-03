@@ -1,0 +1,1 @@
+{"name":"glaucus-fmt","vers":"0.0.1-1","deps":[{"name":"glaucus","req":"^0.0.1-1","features":["ast","cst"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"be029850a3ea442cc0de781fc607988742b2a25672cac9dfd90835ffd7044319","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-02T14:29:31Z"}

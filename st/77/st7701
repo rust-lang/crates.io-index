@@ -1,0 +1,1 @@
+{"name":"st7701","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31a27592018ddac734dfe6e8e7b5661d49f2fb8fa6184752a7d5782c434c2857","features":{"default":["waveshare-2-8c"],"waveshare-2-8c":[]},"yanked":false,"pubtime":"2026-05-18T17:17:38Z"}

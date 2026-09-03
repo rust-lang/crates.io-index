@@ -1,0 +1,2 @@
+{"name":"sim-lib-interference-core","vers":"0.1.0","deps":[],"cksum":"3228b6af4644eda3d68c47fd03fe6a0b00c7b16cb4e1190aa738b31ed2cd61cd","features":{},"yanked":false,"pubtime":"2026-08-04T05:41:06Z"}
+{"name":"sim-lib-interference-core","vers":"0.2.0","deps":[{"name":"sim-lib-numbers-quantity","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"859241f8b19804c823cabf4d9c5fd4b4e8563c8b2cb62c9b4f6ebb88104209f2","features":{},"yanked":false,"pubtime":"2026-09-03T08:09:17Z"}

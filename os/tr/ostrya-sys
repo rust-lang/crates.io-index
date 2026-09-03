@@ -1,0 +1,1 @@
+{"name":"ostrya-sys","vers":"0.2.0","deps":[{"name":"rustix","req":"^1","features":["std","mm","fs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d8d5f3f30b2750cac4997b16e5ee36c3b788b66bc17bb9eb23d960ad98914061","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-09-03T09:00:35Z"}

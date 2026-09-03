@@ -1,0 +1,1 @@
+{"name":"slice-codec","vers":"0.4.0","deps":[{"name":"test-case","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"785a4606fe1c965fa4f558476e0db1fa34478ca32a60cff8e70a03df14945a89","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-02T20:01:39Z"}

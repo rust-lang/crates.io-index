@@ -1,0 +1,1 @@
+{"name":"chromasync-types","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28f4cac281f285d6b2d1392fed83f5472d29c2b54314520cef005a1ac2ff5f31","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T13:20:18Z"}

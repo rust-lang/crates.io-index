@@ -1,0 +1,1 @@
+{"name":"seccompy","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.174","features":["extra_traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df6be536b3fff5440154425f9a67615b3bb7b22803f0a87fcb5e31c82393e7f0","features":{},"yanked":false,"pubtime":"2026-02-22T04:47:13Z"}

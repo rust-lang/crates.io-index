@@ -1,0 +1,2 @@
+{"name":"tracel-metabolic","vers":"0.0.1","deps":[{"name":"metabolic","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8be693bdff9a5d905afb5f972548ed5057baed46e206bf57fe776f9e93e9cccd","features":{},"yanked":true,"rust_version":"1.74","pubtime":"2026-08-12T13:21:05Z"}
+{"name":"tracel-metabolic","vers":"0.0.2","deps":[],"cksum":"26c87ca21c8aeeb614466698bc21d6dbe588b4daa89ad3d508fc1ce0e27f66f9","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-12T13:28:04Z"}

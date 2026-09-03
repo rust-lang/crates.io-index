@@ -1,0 +1,1 @@
+{"name":"a3s-office-formula-parser","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"813037d4065397b2eb95e2edbfde1a66635eb24f5c00d5c5cd43ee12eecd0deb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-09T16:02:34Z"}

@@ -1,0 +1,1 @@
+{"name":"deps","vers":"0.1.0","deps":[{"name":"env","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"864391f3c18f4c2fd8af1043a7c0fd43d0de7ca957d7ac46cf5efd78a1405340","features":{"default":[]},"features2":{"dep-env":["dep:env"]},"yanked":false,"pubtime":"2026-09-02T21:30:08Z","v":2}

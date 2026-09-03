@@ -1,0 +1,1 @@
+{"name":"corsa_bind_runtime","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26041488b52c149cc4cf2f9e0b07ab541b3c815a50705a98b47536143be06d25","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-03T11:04:51Z"}

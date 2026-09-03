@@ -1,0 +1,1 @@
+{"name":"coraza-sys","vers":"3.7.0","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eb6df85f73cdc43f65ac84eba0efaaef0b355d558c8d6880cc4ffed5390c10ea","features":{"default":["static"],"shared":[],"static":[]},"yanked":false,"links":"coraza","pubtime":"2026-06-11T14:56:30Z"}

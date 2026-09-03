@@ -1,0 +1,1 @@
+{"name":"nbreq-winpoll","vers":"0.1.0","deps":[{"name":"windows-sys","req":"=0.61.2","features":["Win32_Networking_WinSock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7d9df03f084102285d0aed63de4233544fc23d9d555d0e4a0db5e30a27bdeb1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-24T02:01:00Z"}

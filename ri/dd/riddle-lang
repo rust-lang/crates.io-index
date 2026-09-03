@@ -1,0 +1,5 @@
+{"name":"riddle-lang","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"940fe9205efe3fb8a9ed2c08e20679e223cfc570c226aaacf46cdeb0b78e4922","features":{},"yanked":false,"pubtime":"2026-05-20T08:27:51Z"}
+{"name":"riddle-lang","vers":"0.2.0","deps":[],"cksum":"b2429645eb822c0a0de9fd8f8b4b3cabf531b6ca0dd57ed89e6c8a4093ed215d","features":{},"yanked":false,"pubtime":"2026-05-28T15:17:23Z"}
+{"name":"riddle-lang","vers":"0.2.1","deps":[],"cksum":"f66380c9e972947d38c05f7cd23fe05c73b70ee7bf557b19d0b13f6d765252fc","features":{},"yanked":false,"pubtime":"2026-07-16T13:22:28Z"}
+{"name":"riddle-lang","vers":"0.2.3","deps":[],"cksum":"427350f0e52f65037de022201eed951a8529166362a684a39a80cc84970ec7fc","features":{},"yanked":false,"pubtime":"2026-08-07T18:02:39Z"}
+{"name":"riddle-lang","vers":"0.2.4","deps":[],"cksum":"4df76b3a3a2097a34ab09a69bac8790acc5f4c7bd2a35047e4073da10026ffe2","features":{},"yanked":false,"pubtime":"2026-09-03T08:12:52Z"}

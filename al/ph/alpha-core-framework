@@ -1,0 +1,1 @@
+{"name":"alpha-core-framework","vers":"2.4.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1e45b432f08a464552cbb3e161272b9a22038bdd13f0035e6471c67c204bcf0","features":{},"yanked":false,"pubtime":"2026-03-19T05:59:48Z"}

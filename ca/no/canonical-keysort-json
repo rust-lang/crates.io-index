@@ -1,0 +1,1 @@
+{"name":"canonical-keysort-json","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05b39d732daeef9a1bff08849dfaa3217be9a9765024d494f6a5707e987e1043","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T22:03:22Z"}

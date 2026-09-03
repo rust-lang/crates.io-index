@@ -1,0 +1,3 @@
+{"name":"dims-say-hello","vers":"0.1.0","deps":[],"cksum":"ee2d5e478d6747ecf374d9b4add1578549f1dae995e276cac9afa4b14c39bd3f","features":{},"yanked":false,"pubtime":"2026-01-19T15:42:38Z"}
+{"name":"dims-say-hello","vers":"0.2.0","deps":[],"cksum":"fe1cfee5b213b51cb6775393da8c758e91fb0c05f9cfad3e7b585590f96a0c83","features":{},"yanked":false,"pubtime":"2026-01-19T16:03:05Z"}
+{"name":"dims-say-hello","vers":"0.3.0","deps":[],"cksum":"567b08280de375fd62977c569c2ea87645b5f321bd6959d02e96ef0963f744a4","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-01-19T16:13:18Z"}

@@ -1,0 +1,1 @@
+{"name":"dbgflow-protocol","vers":"0.4.0","deps":[{"name":"prost","req":"^0.14.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8892dfb9ead3b9c49ff60952bcb989be35003055f9ff88faab64c37518f81d8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-12T09:12:08Z"}

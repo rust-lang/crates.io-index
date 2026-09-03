@@ -1,0 +1,2 @@
+{"name":"qbcl","vers":"0.1.0","deps":[],"cksum":"add7ec5bc93f4a45d8b974ddab1e4f056627c45716974d4c6fa1becc85231144","features":{"default":["qb","qbt"],"qb":[],"qbt":[]},"yanked":false,"pubtime":"2026-06-25T12:21:06Z"}
+{"name":"qbcl","vers":"0.1.1","deps":[],"cksum":"f320a9b2a5824bbed363b1088ddf5f80cff9bd69aeff67918ec8d4e724d91262","features":{"default":["qb","qbt","qbcl"],"qb":[],"qbcl":[],"qbt":[]},"yanked":false,"pubtime":"2026-06-29T18:46:55Z"}

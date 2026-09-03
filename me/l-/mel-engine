@@ -1,0 +1,1 @@
+{"name":"mel-engine","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e606ab7a543368e3e66925846cee2d5735f929834064688aa5f780c85d9d27f","features":{"default":[],"dynamic_linking":["bevy/dynamic_linking"]},"yanked":false,"pubtime":"2026-08-12T15:50:48Z"}

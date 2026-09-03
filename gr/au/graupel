@@ -1,0 +1,1 @@
+{"name":"graupel","vers":"0.1.0","deps":[{"name":"tsz","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf343d132c59afa83c1bc1f039d32caeefbf5746cddaeb3d1e3742dc0d96c656","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-06T15:45:11Z"}

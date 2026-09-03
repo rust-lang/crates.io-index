@@ -1,0 +1,1 @@
+{"name":"lbl-tg-rcore-tutorial-ch1-clock","vers":"0.0.1-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"7669086f91a64d8b8112c297f73fd889a313d0e8ca802e462f6b20c959e02d78","features":{},"yanked":false,"pubtime":"2026-03-19T09:45:37Z"}

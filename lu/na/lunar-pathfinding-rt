@@ -1,0 +1,1 @@
+{"name":"lunar-pathfinding-rt","vers":"1.0.0","deps":[{"name":"bevy_ecs","req":"^0.18","features":["multi_threaded"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52f23eb40bc53581f11b7710303dbac0f0ace258a8d5ec70b551b20cbdab229a","features":{},"yanked":false,"pubtime":"2026-06-03T09:45:54Z"}

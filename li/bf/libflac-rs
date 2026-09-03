@@ -1,0 +1,2 @@
+{"name":"libflac-rs","vers":"0.143.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a2c99ea31135c0fbe89c4250975be550ef0d6d8c30eeb63468476f6526f1d726","features":{"cref":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T21:25:38Z"}
+{"name":"libflac-rs","vers":"0.143.1","deps":[],"cksum":"103950d4bbd33a11347d4442989989dd5b89a36248267690feb9cef4b3a51ab3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T12:04:10Z"}

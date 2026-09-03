@@ -1,0 +1,2 @@
+{"name":"doracap-core","vers":"0.1.0","deps":[],"cksum":"de5635c00ce514efd850eb65ddcc4e05cb2d548d4a8372127d8cc7aa8cf7cae7","features":{},"yanked":false,"pubtime":"2026-09-01T07:20:42Z"}
+{"name":"doracap-core","vers":"0.2.0","deps":[{"name":"flate2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c9d9c18a42011d78082416e0f4e680e65fde30890cefd4d65f838fe97155b64","features":{},"yanked":false,"pubtime":"2026-09-01T12:26:27Z"}

@@ -1,0 +1,3 @@
+{"name":"ofat","vers":"0.2.0","deps":[],"cksum":"24b8236a1121da8a3a3002083f7149a0dddd674322115debaf4fdc8ebba1abc6","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-07-30T03:03:39Z"}
+{"name":"ofat","vers":"0.1.1","deps":[],"cksum":"3fe4a324a2d0ecc6361e75944f7ac6e3fdbedac19f48be72791719b8b929177f","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-07-30T03:13:32Z"}
+{"name":"ofat","vers":"0.1.2","deps":[{"name":"optionSDK","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1db28c5b71c31e2da3d4b87497eb107fd7735f2934bfd73c3b7433b3daff4b9","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-08-12T19:43:49Z"}

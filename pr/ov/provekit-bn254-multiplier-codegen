@@ -1,0 +1,1 @@
+{"name":"provekit-bn254-multiplier-codegen","vers":"0.1.0","deps":[{"name":"hla","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"provekit-hla"}],"cksum":"8885dd6904209100c32b1ec765a613e055d3e44194c2e23acf1d148858c521fd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-09T21:26:32Z"}

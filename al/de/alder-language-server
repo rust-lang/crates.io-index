@@ -1,0 +1,1 @@
+{"name":"alder-language-server","vers":"0.1.0","deps":[{"name":"tower-lsp-server","req":"^0.23.0","features":["runtime-agnostic"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1f48c272c4b02df8cbe7001095e0df2fe98fb2320eb5bb15be28bfd35a6918d0","features":{},"yanked":false,"pubtime":"2026-09-01T19:30:05Z"}

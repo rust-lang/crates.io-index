@@ -1,0 +1,5 @@
+{"name":"llama-cpp-error-recorder","vers":"0.9.0","deps":[],"cksum":"b3f4c103d2eb61be9dbeeaac990a6827e245fcb7706e9edd4b3452c5fe2ccfe5","features":{},"yanked":false,"pubtime":"2026-06-10T04:17:16Z"}
+{"name":"llama-cpp-error-recorder","vers":"0.10.0","deps":[],"cksum":"af4d324a5c99747f335b4cdda3c2896d1b1dbfc2818cae2a3b199c4a51313628","features":{},"yanked":false,"pubtime":"2026-07-03T15:23:29Z"}
+{"name":"llama-cpp-error-recorder","vers":"0.11.0","deps":[],"cksum":"f454fc2ae5ca82d66bf1e22050fc25796ea1675536d1784ced70fc754458fc01","features":{},"yanked":false,"pubtime":"2026-07-19T04:05:42Z"}
+{"name":"llama-cpp-error-recorder","vers":"0.12.0","deps":[],"cksum":"15b606bbd0c9ed0a82420441cab10fc9818fda77626daf488154102b4a4cf0ad","features":{},"yanked":false,"pubtime":"2026-07-19T17:42:18Z"}
+{"name":"llama-cpp-error-recorder","vers":"0.13.0","deps":[{"name":"log","req":"=0.4.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7de6ff5bedc0766ce72ae6e0905fbdb9670e55a777a2c2ff8b43c12abfeec8ae","features":{},"yanked":false,"pubtime":"2026-08-27T19:13:00Z"}

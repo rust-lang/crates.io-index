@@ -1,0 +1,3 @@
+{"name":"orts-plugin-sdk","vers":"0.1.0","deps":[],"cksum":"69e978890b8f34d018674b1683726a8816ca269172f77b5b37fb1959f9d2d636","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-12T21:59:35Z"}
+{"name":"orts-plugin-sdk","vers":"0.1.1","deps":[],"cksum":"33b4d1019394ea5ee34abebb49950a4cdc99a347f66364e0e955d8c297c78183","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-12T23:18:54Z"}
+{"name":"orts-plugin-sdk","vers":"0.2.0","deps":[{"name":"wit-bindgen","req":"^0.51.0","features":["macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cf4e142af45acb5b7ccf72cfd71908116aeb97d2dbd75ebf2ac7c46c2105695d","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-19T23:45:28Z"}

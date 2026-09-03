@@ -1,0 +1,1 @@
+{"name":"tpt-fem-io-abaqus","vers":"0.1.0","deps":[{"name":"tpt-fem-mesh","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2358a05da469af50db34aa7e54841810bcda0f1343290c9b2ad80c35f30d875","features":{"default":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-23T00:21:40Z"}

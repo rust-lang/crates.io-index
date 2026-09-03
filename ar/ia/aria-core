@@ -1,0 +1,1 @@
+{"name":"aria-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b46538ea8780b1f71824a9fa341db52862ee985bf7c2fa289ffc82998cc09b0b","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-06-13T06:38:50Z","v":2}

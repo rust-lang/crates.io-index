@@ -1,0 +1,1 @@
+{"name":"quilt-vibe","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a03766c4547b970e5745609d71e4f226076bd6910b99b858953bfdbc519f2994","features":{},"yanked":false,"pubtime":"2026-08-21T09:36:45Z"}

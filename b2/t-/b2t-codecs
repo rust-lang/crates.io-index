@@ -1,0 +1,5 @@
+{"name":"b2t-codecs","vers":"1.0.0","deps":[],"cksum":"6cae613354449dc5e59f4509dac4ebbe5c29e277ccbaa4cae69988399e95aaf6","features":{},"yanked":false,"pubtime":"2026-07-24T23:43:09Z"}
+{"name":"b2t-codecs","vers":"2.0.0","deps":[],"cksum":"9405256cd77f013e72a34d9a01d18b8a22a45a074bcba64aec8f0d9b17db70ca","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-07-28T09:50:49Z"}
+{"name":"b2t-codecs","vers":"2.1.1","deps":[],"cksum":"11d5eddc3fb1faf23ed07eb6e63baa604b9890aa1ce327c00ad352aa3e3175af","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-08-04T21:59:34Z"}
+{"name":"b2t-codecs","vers":"2.2.0","deps":[],"cksum":"18f057cb866432a5b93147ad446cc062b7b0992669fd77c8b190b09fc8f634d7","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-08-23T08:10:08Z"}
+{"name":"b2t-codecs","vers":"2.3.0","deps":[],"cksum":"1062de1abe54936650f0a457e9f2054e2be0de822b743d2344ff78fe9403d9f2","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-08-24T05:20:37Z"}

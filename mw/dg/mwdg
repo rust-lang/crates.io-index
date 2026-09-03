@@ -1,0 +1,2 @@
+{"name":"mwdg","vers":"0.2.0","deps":[{"name":"cbindgen","req":"~0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"83f26512105d821ac367e6a700a97f57d34d8f2748040faf75d26717db577578","features":{"pack":[]},"yanked":false,"pubtime":"2026-02-22T00:21:43Z"}
+{"name":"mwdg","vers":"0.3.0","deps":[],"cksum":"6b23a7553c5531295bb6c5b13941791effe6d6e9cae905a3d06e2615c2e822d2","features":{},"yanked":false,"pubtime":"2026-05-24T13:40:16Z"}

@@ -1,0 +1,1 @@
+{"name":"eidetic","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"339507c6c558cf1d809222950844f5d52e20e7436cddc194a1a0c6e51af49bf6","features":{},"yanked":false,"pubtime":"2026-05-07T01:01:22Z"}

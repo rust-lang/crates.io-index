@@ -1,0 +1,1 @@
+{"name":"ternlang-edu","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71b285bdef8605dd10c863abb2824aae8a9ad659929c441e4cd1cd211806248e","features":{},"yanked":false,"pubtime":"2026-08-19T12:24:33Z"}

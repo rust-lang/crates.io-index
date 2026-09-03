@@ -1,0 +1,3 @@
+{"name":"sealclub","vers":"0.0.1","deps":[],"cksum":"27c1843467fb8510326d3e757b02305a6d1bfda2641132f7fae42c3b4a1b0b98","features":{},"yanked":false,"pubtime":"2026-08-04T15:49:48Z"}
+{"name":"sealclub","vers":"0.0.2","deps":[],"cksum":"cf85b544ee4279d53555998f50bb5bb44c53ef78f4fda0dcd4dfd94f279d0d11","features":{},"yanked":false,"pubtime":"2026-08-04T16:07:39Z"}
+{"name":"sealclub","vers":"0.1.0","deps":[{"name":"ureq","req":"^2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e37ff42ebddeaf5b355800c68dde608ca0ba949809e6c1681d06e29c7abd617c","features":{},"yanked":false,"pubtime":"2026-08-04T16:21:30Z"}

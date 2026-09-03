@@ -1,0 +1,1 @@
+{"name":"flpdf-libjpeg-compat","vers":"0.5.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f05e6b639359d19b410c64a573a92fe59269826bbcdd2dce7f5295b9d63c7e3e","features":{"default":[],"system-libjpeg":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-30T18:54:27Z"}

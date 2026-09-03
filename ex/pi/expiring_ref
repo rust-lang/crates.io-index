@@ -1,0 +1,5 @@
+{"name":"expiring_ref","vers":"0.5.6","deps":[],"cksum":"3e5498da8dc9790361d1b376c6691671d86cdae9d3f7a4750e3a059cf2cb493b","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-03T00:48:58Z"}
+{"name":"expiring_ref","vers":"0.6.0","deps":[],"cksum":"c5422b6222308b126ebc185600415b45a8f5c5d1d6e36be0aa8bc9b1bd3a9b7f","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-03T06:05:24Z"}
+{"name":"expiring_ref","vers":"0.7.0","deps":[],"cksum":"3b7aa255b92fae9559776c95dc0aec697fe14f2df9cd6a714e286bb9aaa128a5","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-03T07:04:01Z"}
+{"name":"expiring_ref","vers":"0.7.1","deps":[],"cksum":"bbe1f816a6b77915cb9a8462d995f5f8b2621123b36adb1c1260a0d9888ccbd4","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-03T07:04:58Z"}
+{"name":"expiring_ref","vers":"0.7.2","deps":[],"cksum":"2ef7d68a313d318a952e8ea3c5335f9a5c29ed6a0982ecfc9024078e21b5001d","features":{"alloc":[],"default":["alloc"],"unstable_out":[]},"yanked":false,"pubtime":"2026-09-03T10:27:08Z"}

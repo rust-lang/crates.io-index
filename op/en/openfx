@@ -1,0 +1,4 @@
+{"name":"openfx","vers":"0.1.0","deps":[],"cksum":"f564f114b97ec8f80349287250a235228ce6bd322c384d3e0037d86d093c97c0","features":{},"yanked":false,"pubtime":"2026-08-14T14:25:55Z"}
+{"name":"openfx","vers":"0.2.0","deps":[],"cksum":"2694886a6be6d87bfe7561fd7d1c68383bb6ade95f7f38bab6b1f666c7659fc8","features":{},"yanked":false,"pubtime":"2026-08-19T15:25:36Z"}
+{"name":"openfx","vers":"0.2.2","deps":[],"cksum":"7e8a0f6261bdb7ac38abbf4d6a9ffb7deba6a478aaa5b7d0f688e099277c66bf","features":{},"yanked":false,"pubtime":"2026-08-20T17:44:59Z"}
+{"name":"openfx","vers":"0.3.0","deps":[{"name":"openfx-internal-macros","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6a64fb75f2ae8fd7c4be1848d4926c522b33c12257d028ba30cab0ebf68eb18","features":{},"yanked":false,"pubtime":"2026-09-02T13:59:29Z"}

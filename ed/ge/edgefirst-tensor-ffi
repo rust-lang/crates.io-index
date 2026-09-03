@@ -1,0 +1,1 @@
+{"name":"edgefirst-tensor-ffi","vers":"0.29.0-rc1","deps":[{"name":"edgefirst-tensor-abi","req":"^0.29.0-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8fdb740153d6af13e0a9925d18e04622f3f8da2f7122601f42c00af19c7f3a2","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-09-03T04:06:21Z"}

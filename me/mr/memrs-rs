@@ -1,0 +1,1 @@
+{"name":"memrs-rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["net","io-util","sync","time","rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcce83952c1cb4a64db570bd90c1a18b70e97df43b1df549c53bda63c137f705","features":{},"yanked":false,"pubtime":"2026-06-30T18:34:02Z"}
