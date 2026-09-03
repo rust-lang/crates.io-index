@@ -1,1 +1,2 @@
 {"name":"windows-animation","vers":"0.0.0","deps":[],"cksum":"3feade15c3719e9590fc0036b025282927a53944f389044ad4a0a1fb6b3244b1","features":{},"yanked":false,"pubtime":"2026-06-08T23:36:49Z"}
+{"name":"windows-animation","vers":"0.100.0","deps":[{"name":"windows-core","req":"^0.100.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0cdfe769d1c1118a8d581d22bad87714f117eef1e8ccf45d59d209fb611e108f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-03T16:43:32Z"}
