@@ -1,0 +1,1 @@
+{"name":"codex-wrangler-contract","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae44289662ecae9d3f53e95ac60a03db6e3bc387e4d0bfda8b8c5a84e4a6c483","features":{"egui-test":[]},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-09-03T15:04:30Z"}
