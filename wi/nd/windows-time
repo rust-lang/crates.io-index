@@ -1,1 +1,2 @@
 {"name":"windows-time","vers":"0.0.0","deps":[],"cksum":"c21847955a6cc71a415bcbed3570cc06e4915d025e03fc38285127c4ec071e23","features":{},"yanked":false,"pubtime":"2026-05-20T14:56:37Z"}
+{"name":"windows-time","vers":"0.100.0","deps":[{"name":"windows-core","req":"^0.100.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"de136aac4d76b9ea94b2589774be8bcd91b31b2dd7dae54abdd63335590095e4","features":{"default":["std"],"std":["windows-core/std"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-03T16:44:32Z"}
