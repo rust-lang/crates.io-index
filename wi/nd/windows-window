@@ -1,1 +1,2 @@
 {"name":"windows-window","vers":"0.0.0","deps":[],"cksum":"9c2b8eb29e6928f3defba6da0abc521d853f1718b56720e5ed6ab6ec78e6d9ca","features":{},"yanked":false,"pubtime":"2026-06-22T19:40:15Z"}
+{"name":"windows-window","vers":"0.100.0","deps":[{"name":"windows-core","req":"^0.100.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b1d48f56961ae40c65db3a0ea0076a0b100f4c46ba21d78af97bd8b77e924a82","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-03T16:44:44Z"}
