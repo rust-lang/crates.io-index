@@ -1,0 +1,1 @@
+{"name":"idset","vers":"0.2.0","deps":[{"name":"indexmap","req":"^2.14.1","features":["rayon","std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee8cef5ec5ed674862a9e980931be3f3c2653178cb18407bb758a7eafa2376f0","features":{},"yanked":false,"pubtime":"2026-09-03T21:51:55Z"}
