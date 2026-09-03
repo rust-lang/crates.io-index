@@ -1,0 +1,1 @@
+{"name":"silkai-sched","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"824151bdbc3a52a4e50dac2613cb4040992e9c23488d9b3e429dc1ab681ef71a","features":{"default":[],"test-util":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-03T23:07:31Z"}
