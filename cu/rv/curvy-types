@@ -1,0 +1,1 @@
+{"name":"curvy-types","vers":"0.1.0-rc.6","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f4e9e00fb71c10500e7e7902c99f13a05f41ebec4387f4be8a03db194078552","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-03T23:33:22Z"}
