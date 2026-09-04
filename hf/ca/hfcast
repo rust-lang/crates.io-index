@@ -5,3 +5,4 @@
 {"name":"hfcast","vers":"0.68.0","deps":[],"cksum":"4a4193110d8934758eb59562abbf67008619750f10d3e714f0fc09da16b5f659","features":{"default":[],"embedded-coefficients":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-10T21:51:36Z"}
 {"name":"hfcast","vers":"1.6.1","deps":[],"cksum":"b544805a7af6ee8f47fc8ea8d0d43c69a2f238e1efe015c3d8d815f6cc3809af","features":{"default":[],"embedded-coefficients":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-18T12:01:48Z"}
 {"name":"hfcast","vers":"2.13.3","deps":[],"cksum":"7ec43f03b4021603c19f01b1487357698dde2f7e064903e47348b1897b64e614","features":{"default":[],"embedded-coefficients":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-25T20:06:45Z"}
+{"name":"hfcast","vers":"2.14.0","deps":[],"cksum":"0cf3fd1a6b2af9673bfbc0f146435649c0a19514be37e105dac3fffda4efa263","features":{"default":[],"embedded-coefficients":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-04T03:02:43Z"}
