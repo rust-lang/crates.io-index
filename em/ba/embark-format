@@ -1,0 +1,1 @@
+{"name":"embark-format","vers":"0.1.0","deps":[],"cksum":"c053ec744ff0f7c26a407e4434508253334f05db4f48eb5cfb2f04682f1c4611","features":{"alloc":[],"dec":["alloc"],"default":["std"],"enc":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-04T00:47:26Z"}
