@@ -1,2 +1,3 @@
 {"name":"pluta","vers":"0.0.0","deps":[],"cksum":"a72fd8c4d3ac8b9302094e17a3277937188be2e819eed417664d0e037ce3f52e","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-04T22:48:27Z"}
 {"name":"pluta","vers":"0.0.0-x1","deps":[],"cksum":"d04f35140871ebe7d5392b94e368fad5ecd5783520beea07b6cae795b01d9d23","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-04T22:51:26Z"}
+{"name":"pluta","vers":"0.0.0-x2","deps":[],"cksum":"9d8b8294faa9751e43968a08cd4e964a4753e1c1807602ff5acf72b805b9e2d6","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-04T22:52:38Z"}
