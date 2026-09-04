@@ -1,0 +1,1 @@
+{"name":"tokn-policy","vers":"0.2.2","deps":[{"name":"smol_str","req":"^0.3","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"052a49fe2cab4b69eed63ec63411c4dac1b6af153b692f4f4834549423e5e27a","features":{},"yanked":false,"pubtime":"2026-09-04T17:47:03Z"}
