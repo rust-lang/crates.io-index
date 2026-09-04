@@ -20,3 +20,4 @@
 {"name":"pdk-proxy-wasm-stub","vers":"1.9.1","deps":[],"cksum":"666943b2e90b4a10ccb2dc8ffc87f5951fe7e7c39fa7402d23c21c785b7eba3f","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-07-15T14:31:50Z"}
 {"name":"pdk-proxy-wasm-stub","vers":"1.9.2","deps":[],"cksum":"67a04a951fd89798d89453f1e39a45e90d36c317d5e13655ecd5489dc3772f87","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-07-21T13:50:31Z"}
 {"name":"pdk-proxy-wasm-stub","vers":"1.10.0","deps":[],"cksum":"b7d28633cd374b5ece42f7bfc301001f9cb5a0e62db265fac306878d7e792619","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-19T17:04:53Z"}
+{"name":"pdk-proxy-wasm-stub","vers":"1.10.1-alpha.0","deps":[],"cksum":"0aa3621b48b362f2b960e37212461c0390933851b217641ab6949897be992345","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-04T20:21:45Z"}
