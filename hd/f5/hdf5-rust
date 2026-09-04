@@ -1,2 +1,3 @@
 {"name":"hdf5-rust","vers":"1.0.0","deps":[],"cksum":"f3558ff3b4b3dadf94ec99a34f1f72db786361fd23329b0074adadef9aa25cc9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-31T15:34:45Z"}
 {"name":"hdf5-rust","vers":"1.0.1","deps":[],"cksum":"b119a09ddb5e41b3368eb51b7bac7dbe8ef834e8e4f24380c1e3043a6ca550e2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-04T05:35:46Z"}
+{"name":"hdf5-rust","vers":"1.0.2","deps":[],"cksum":"6e7f1cec054c32a1c63ff56ee8d3c3095da81b52418d8d58f19eacee253f4f6b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-04T06:25:02Z"}
