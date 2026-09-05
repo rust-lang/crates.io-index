@@ -1,1 +1,2 @@
 {"name":"zenrust-throttle","vers":"0.0.0","deps":[],"cksum":"1a880d1ce3ef5053e0fb15e607f71ad2b63dd7e54e5a514d13be10a9a0fc06c6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-04T21:03:40Z"}
+{"name":"zenrust-throttle","vers":"0.0.1","deps":[{"name":"zenrust-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8969017ff059a6f022b88d94d0edb708225373a09e16cb31cd83cb6349d31d45","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-05T03:56:22Z"}
