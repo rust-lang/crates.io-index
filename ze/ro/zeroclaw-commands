@@ -1,1 +1,2 @@
 {"name":"zeroclaw-commands","vers":"0.0.0","deps":[],"cksum":"3157becc9492257160e4e63b1d25b331cb74fa6c357506d947d7eca8fb9635f8","features":{},"yanked":false,"pubtime":"2026-08-17T18:54:45Z"}
+{"name":"zeroclaw-commands","vers":"0.8.5","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"055ddabc6b778105c97b74acb321d6983876ec238deb6513526b4b6562492683","features":{},"yanked":false,"pubtime":"2026-09-05T16:15:49Z"}
