@@ -14,3 +14,4 @@
 {"name":"rusty_h264-accel","vers":"0.12.0","deps":[],"cksum":"d5b9c1cb7c16a1d08febfd56e2b0a34cece1523d88506599f49fd584982edb7b","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-08-27T17:16:19Z"}
 {"name":"rusty_h264-accel","vers":"0.13.0","deps":[],"cksum":"a8b2d0dad9027aa78ca4d514be29295a08f1dc0435c38ccf9767a3a93d274736","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-09-03T02:20:56Z"}
 {"name":"rusty_h264-accel","vers":"0.14.0","deps":[],"cksum":"81a5597b3ad059aa698a012bcb81faf8cb2dc95679d11ab3a6e68903df8b2d39","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-09-03T02:48:14Z"}
+{"name":"rusty_h264-accel","vers":"0.15.0","deps":[],"cksum":"49537f05e2b13f3ac7f508cdb4b42d42bd83d7ba4896902f4d1d342e4e52704e","features":{"knobs":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-09-05T19:40:00Z"}
