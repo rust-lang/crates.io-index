@@ -1,3 +1,4 @@
 {"name":"lowbench","vers":"0.1.0","deps":[],"cksum":"5315381b8cb1ea70f75abe4573af2cc9d1015164cc83707856b269b0dc90c7c7","features":{},"yanked":true,"pubtime":"2026-09-04T16:14:33Z"}
 {"name":"lowbench","vers":"0.1.1","deps":[],"cksum":"8d1bb2471eb73d2e27fd747c4cc2c1ff8c43d7c86ee3e2132f2df215bce151f2","features":{},"yanked":true,"pubtime":"2026-09-04T16:36:56Z"}
 {"name":"lowbench","vers":"0.1.2","deps":[],"cksum":"1f99990442c17c799c8331431368c84e25171dd2fe53952fff855022ded6752e","features":{},"yanked":false,"pubtime":"2026-09-04T16:42:50Z"}
+{"name":"lowbench","vers":"0.2.0","deps":[],"cksum":"5305ca56d628a98579877258249f2e1ad87ae234965fd470f36945b1d2ee2405","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-09-05T04:21:56Z"}
