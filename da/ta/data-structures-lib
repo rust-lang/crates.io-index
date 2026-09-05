@@ -1,1 +1,2 @@
 {"name":"data-structures-lib","vers":"1.0.0","deps":[],"cksum":"a2999ce566fc7542ac5708a09f541fd9798c90ebaf962f8d84c98bd039d05aa4","features":{},"yanked":false,"pubtime":"2026-08-28T09:32:05Z"}
+{"name":"data-structures-lib","vers":"1.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b6d002cd624955841f7a6f990c67d5de75aced7fee04d9a9e96fb1fd31461add","features":{},"yanked":false,"pubtime":"2026-09-05T12:08:33Z"}
