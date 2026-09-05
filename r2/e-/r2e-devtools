@@ -1,0 +1,1 @@
+{"name":"r2e-devtools","vers":"0.3.0","deps":[{"name":"dioxus-devtools","req":"^0.7","features":["serve"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93e69f28e263893303249563541d5db3c6bb9c8cc82e63b4d340e71eb3d0f397","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-05T09:04:42Z"}
