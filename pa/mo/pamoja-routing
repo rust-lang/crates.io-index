@@ -6,3 +6,4 @@
 {"name":"pamoja-routing","vers":"0.1.12","deps":[],"cksum":"815802ad90968b0211f5e3335711f2e69df2a3a7640876d78d4b576d695f86ca","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T21:21:06Z"}
 {"name":"pamoja-routing","vers":"0.1.13","deps":[],"cksum":"a4911eee7308e891d6a4eab331c7ddb7e2b25626ba142fcd18f94d7e22ae8a1c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-04T15:32:16Z"}
 {"name":"pamoja-routing","vers":"0.1.14","deps":[],"cksum":"0f65c9512c4e99707e87dcbadf99e01e11cfd21e14561b470a9aa2423f64068b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-25T06:56:55Z"}
+{"name":"pamoja-routing","vers":"0.1.15","deps":[],"cksum":"29b9d7802aa6e4d2eda85f8239030de8d0f413e9137fba8c7e2fd2fe7d99dfce","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-05T17:18:17Z"}
