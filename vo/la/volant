@@ -1,0 +1,1 @@
+{"name":"volant","vers":"0.1.0-alpha.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b658fa3824c778f5bb80993d6f8de0dc2cf9977d1ebd2e1e71ad3e1e97216050","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-05T22:31:27Z"}
