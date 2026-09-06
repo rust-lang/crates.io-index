@@ -1,0 +1,1 @@
+{"name":"motiongfx_interp","vers":"0.3.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"614789b361720e38269ad58814b5888764114c816c307a06ebcc2182475b3c16","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-09-06T18:02:34Z"}
