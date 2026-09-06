@@ -54,7 +54,7 @@
 {"name":"ferromotion-ruckig","vers":"0.60.0","deps":[],"cksum":"c7c7e68ed8f90c6c2291356c2dbf56b355032cf489159355aef41c603322df90","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-21T13:00:23Z"}
 {"name":"ferromotion-ruckig","vers":"0.61.0","deps":[],"cksum":"df90c35313dbd20f834d89230936da482ee65d73a7496efd0a34630980e454ab","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-26T05:26:47Z"}
 {"name":"ferromotion-ruckig","vers":"0.62.0","deps":[],"cksum":"ec26a9020546ed6cbe882426856f0633f60d436e1996e4bd8fa73dc258a5d37b","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-26T06:21:48Z"}
-{"name":"ferromotion-ruckig","vers":"0.63.0","deps":[],"cksum":"209cafb4b5babc002ffff8b1ac1eb89c0ee5920757bf0fb58990c9bebb1a3606","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-27T10:05:57Z"}
+{"name":"ferromotion-ruckig","vers":"0.63.0","deps":[],"cksum":"209cafb4b5babc002ffff8b1ac1eb89c0ee5920757bf0fb58990c9bebb1a3606","features":{},"yanked":true,"rust_version":"1.89","pubtime":"2026-08-27T10:05:57Z"}
 {"name":"ferromotion-ruckig","vers":"0.64.0","deps":[],"cksum":"3399b622a2eb348b77a4f303d8ea65448c363f1880ebe716c3dbd22a030b7608","features":{},"yanked":true,"rust_version":"1.89","pubtime":"2026-08-27T13:45:48Z"}
 {"name":"ferromotion-ruckig","vers":"0.65.0","deps":[],"cksum":"0fcccec2a05282778ee3d40a1baf05637aff323f09fac9312c857cf67207da02","features":{},"yanked":true,"rust_version":"1.89","pubtime":"2026-08-27T21:46:45Z"}
 {"name":"ferromotion-ruckig","vers":"0.66.0","deps":[],"cksum":"aa930e60d90a5b12c9c0e30692ba4c1416b7829a79609ca9cba77cedefb119eb","features":{},"yanked":true,"rust_version":"1.89","pubtime":"2026-08-28T15:27:35Z"}
