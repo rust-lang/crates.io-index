@@ -1,0 +1,1 @@
+{"name":"rusty_h265-accel","vers":"0.1.0","deps":[],"cksum":"5e563d397c79307811190b72784de3337ab6bd8cf3ccbdeac2816245286d32ff","features":{"census":[],"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-06T21:14:25Z"}
