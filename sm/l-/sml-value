@@ -1,0 +1,1 @@
+{"name":"sml-value","vers":"0.1.0-alpha.1","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d7234a80d34c15937913e32c0c0dcabf76250d9fe0646dac7ee0cb144e2cb87","features":{"default":[],"sml":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-09-06T10:39:19Z","v":2}
