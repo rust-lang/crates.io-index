@@ -1,0 +1,1 @@
+{"name":"ferrograd-nn","vers":"0.1.0-beta.1","deps":[{"name":"fused_gpu","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33fcd7b34c84ffbe148fc8294f4cd47043f25198507d054c0ab2fefc1f8ea42e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-06T13:23:34Z"}
