@@ -1,0 +1,1 @@
+{"name":"rustysynth-ext","vers":"1.4.0","deps":[{"name":"lewton","req":"^0.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54edca64bf7626d89283046b71cb2a14c90668b5e28a527a150aee92ed530667","features":{},"features2":{"sf3":["dep:lewton"]},"yanked":false,"pubtime":"2026-09-06T04:19:07Z","v":2}
