@@ -7,3 +7,4 @@
 {"name":"eure-lint","vers":"0.1.7","deps":[],"cksum":"af90d23cbba4c9fbc824fee59d025e7331e717791f9faddb90d60e8b6e1d3be0","features":{},"yanked":false,"pubtime":"2026-02-09T07:14:27Z"}
 {"name":"eure-lint","vers":"0.1.8","deps":[],"cksum":"dd77006898dc30d7da23deae1407426cd319a03f0f8afe4163036e04c4ce379a","features":{},"yanked":false,"pubtime":"2026-04-16T03:43:55Z"}
 {"name":"eure-lint","vers":"0.1.9","deps":[],"cksum":"990bffab370a0a040146147512e3a2cba3c1b257b734569ace4b3cb389b07212","features":{},"yanked":false,"pubtime":"2026-04-22T04:23:11Z"}
+{"name":"eure-lint","vers":"0.2.0","deps":[{"name":"eure-tree","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bcf60d196ca8e5c6a64120c82a3a6665aa4bec3f04d6a59d415cd7036624d12f","features":{},"yanked":false,"pubtime":"2026-09-06T07:30:41Z"}
