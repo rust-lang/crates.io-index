@@ -8,3 +8,4 @@
 {"name":"pamoja-routing","vers":"0.1.14","deps":[],"cksum":"0f65c9512c4e99707e87dcbadf99e01e11cfd21e14561b470a9aa2423f64068b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-25T06:56:55Z"}
 {"name":"pamoja-routing","vers":"0.1.15","deps":[],"cksum":"29b9d7802aa6e4d2eda85f8239030de8d0f413e9137fba8c7e2fd2fe7d99dfce","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-05T17:18:17Z"}
 {"name":"pamoja-routing","vers":"0.1.16","deps":[],"cksum":"37b3d1d68d1a1b774c87505ca11deeae344929294dacbed24a8213c73e356ac2","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-05T18:18:27Z"}
+{"name":"pamoja-routing","vers":"0.1.17","deps":[],"cksum":"9cce6e098fd4a8f5516c80e5d8dbae8121772a4ab4ed1121e5bf2e7527d30836","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-06T18:34:17Z"}
