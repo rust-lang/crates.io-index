@@ -1,1 +1,2 @@
 {"name":"winner_tree","vers":"0.1.0","deps":[],"cksum":"17b93f1df36883a5c997c573d0327ebca0d5ee6e44f6e0fa45b9a4d19bb1f3cb","features":{},"yanked":false,"pubtime":"2026-09-07T09:17:16Z"}
+{"name":"winner_tree","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0639a3cbe35d6df7643f015e6fbde7664c7daf6d376b802b3c0fa05141b316e7","features":{},"yanked":false,"pubtime":"2026-09-07T15:32:16Z"}
