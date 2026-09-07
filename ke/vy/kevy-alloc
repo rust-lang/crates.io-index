@@ -9,3 +9,4 @@
 {"name":"kevy-alloc","vers":"6.2.0","deps":[],"cksum":"e4a8210be6b41430e48315c156e57e3221391a4d4d66e4f0522d0a185994e619","features":{"default":[],"global":[]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-30T18:34:39Z"}
 {"name":"kevy-alloc","vers":"6.2.1","deps":[],"cksum":"2220b115e1593b15dbda1c9d69b0577926dd6ebdaaa6289821658c0b8164a691","features":{"default":[],"global":[]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-31T11:01:12Z"}
 {"name":"kevy-alloc","vers":"6.2.2","deps":[],"cksum":"36588ef8ea72abf21020ade7b6223fa7d3052f9add6aacbe838d5b6d2d9ba413","features":{"default":[],"global":[]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-31T21:00:01Z"}
+{"name":"kevy-alloc","vers":"6.3.0","deps":[],"cksum":"698f665d3ca96b1842292385f0c3094398a5a2ed77b1dc45809a685ca3551f54","features":{"default":[],"global":[]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-09-07T12:04:15Z"}
