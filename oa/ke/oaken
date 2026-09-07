@@ -6,3 +6,4 @@
 {"name":"oaken","vers":"0.1.5","deps":[],"cksum":"fcc6cbb0436992507da8ad582577f8f2f61ae7176230beb0e05ad87bce01d894","features":{},"yanked":false,"pubtime":"2026-07-14T21:20:23Z"}
 {"name":"oaken","vers":"0.1.6","deps":[],"cksum":"0f0054ae3d5f406a774bd5f50baa6cec1eacd8aaf8bdcaf72b83034b97a818b6","features":{},"yanked":false,"pubtime":"2026-07-19T20:56:56Z"}
 {"name":"oaken","vers":"0.2.0-alpha","deps":[],"cksum":"5193d6908ade316bc8e0f7de09cbd68cb52ff73ba52c4ba42420e5f67bd29e60","features":{"no-standard":[]},"yanked":false,"pubtime":"2026-09-07T19:12:28Z"}
+{"name":"oaken","vers":"0.2.2-alpha","deps":[],"cksum":"bae8849d7f1a49d6ca55be8760e9f85f31993408c3c21059e236dbee5f1d887d","features":{"full":["sync","util"],"no-standard":[],"raw":["no-standard","util"],"sync":[],"util":[]},"yanked":false,"pubtime":"2026-09-07T23:48:51Z"}
