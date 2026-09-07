@@ -1,0 +1,1 @@
+{"name":"configise","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a326432efd9c443d9b6ab104fd8a87976fd30ca31e8031b052194e9277dae233","features":{},"yanked":false,"pubtime":"2026-09-07T15:11:38Z"}
