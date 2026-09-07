@@ -5,3 +5,4 @@
 {"name":"pcode-ir","vers":"0.4.1","deps":[],"cksum":"105c26b5220eb14b7c45db20c6cd6697ba5441faec614a50244c435ecb24fbd1","features":{},"yanked":false,"pubtime":"2026-05-03T18:57:23Z"}
 {"name":"pcode-ir","vers":"0.4.2","deps":[],"cksum":"3aeb65781a41c801545cf773c60a9096b69101b2b67b71bd3a8ea71b15790d4e","features":{},"yanked":false,"pubtime":"2026-08-15T18:04:06Z"}
 {"name":"pcode-ir","vers":"0.4.3","deps":[],"cksum":"6efdf188f936540abfdb84a7e13f7746eb5491f45da0c775265185bcd4536422","features":{},"yanked":false,"pubtime":"2026-08-30T18:21:25Z"}
+{"name":"pcode-ir","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["alloc","derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b292544b8f43445ce16724d6c3f17d955d311ec6df662fdcd231d20425ea97e7","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-09-07T02:03:52Z","v":2}
