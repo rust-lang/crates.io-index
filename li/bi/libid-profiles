@@ -1,0 +1,1 @@
+{"name":"libid-profiles","vers":"0.8.0","deps":[{"name":"tiny-keccak","req":"^2.0","features":["keccak"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7632c18090e9053a04d7cc34e7b2fe3af310b72930593236604bcbe6f0ea80d0","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-09-08T21:42:33Z"}
