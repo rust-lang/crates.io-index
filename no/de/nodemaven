@@ -1,0 +1,1 @@
+{"name":"nodemaven","vers":"0.1.0","deps":[{"name":"toml","req":"^1.1","features":["std","parse","serde"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d87ef0d95ea806b27db1faad91e9fe29c8bc58c5d53566d0149930821898f3ae","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-08T19:44:51Z"}
