@@ -1,0 +1,1 @@
+{"name":"prismer","vers":"0.1.0","deps":[{"name":"prism-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed3f410c6a6c61579991d74c24ddbab87e055c36cfd40938806c8112d76fccf9","features":{"static":["prism-sys/static"]},"yanked":false,"pubtime":"2026-09-08T03:34:20Z"}
