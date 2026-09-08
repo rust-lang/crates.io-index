@@ -9,3 +9,4 @@
 {"name":"semaphore-rs-depth-config","vers":"0.5.2","deps":[],"cksum":"152b03c13d9eb835190207dec760d99589ddad460c9eb4f93ade40058ee1334a","features":{"depth_16":[],"depth_20":[],"depth_30":[]},"yanked":false,"pubtime":"2026-03-20T16:12:08Z"}
 {"name":"semaphore-rs-depth-config","vers":"0.5.3","deps":[],"cksum":"bd6cb6aaf2165d2aabfe9fac793ece97c766259aef275b214b52b0126d3f9af6","features":{"depth_16":[],"depth_20":[],"depth_30":[]},"yanked":false,"pubtime":"2026-03-20T20:00:27Z"}
 {"name":"semaphore-rs-depth-config","vers":"0.5.4","deps":[],"cksum":"204a0e85b7991bf85d81f72e2846182ebb2eaca266ba008f3af13b017c5beb7c","features":{"depth_16":[],"depth_20":[],"depth_30":[]},"yanked":false,"pubtime":"2026-06-17T19:23:10Z"}
+{"name":"semaphore-rs-depth-config","vers":"0.6.0","deps":[],"cksum":"e1182bb2e1c3eafc62896cbb557e7e3e5701f302aca7e0a7be4d64afdadf0bac","features":{"depth_16":[],"depth_20":[],"depth_30":[]},"yanked":false,"pubtime":"2026-09-08T13:38:02Z"}
