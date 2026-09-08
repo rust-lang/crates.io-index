@@ -1,2 +1,3 @@
 {"name":"mlib","vers":"0.1.0","deps":[],"cksum":"f50df721cd2fe4bbb57809231ff53e2f5867b9cea3d23ccb07004416a5b8f509","features":{},"yanked":false,"pubtime":"2026-09-06T11:02:18Z"}
 {"name":"mlib","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f99f2db27e33a2e517bc3cb5fcb855a37081e067fbc7d847955d2cad91d3d18","features":{},"yanked":false,"pubtime":"2026-09-08T13:57:37Z"}
+{"name":"mlib","vers":"0.1.2","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9070cbb7cd43d10bd407535a242a433552977a67bfef47c39d5530e27b5eee0f","features":{},"yanked":false,"pubtime":"2026-09-08T14:10:19Z"}
