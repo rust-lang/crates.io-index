@@ -1,3 +1,4 @@
 {"name":"hashcrew","vers":"0.1.0","deps":[],"cksum":"6a061141c6d495b6f04d3ffffd1d7c42c5423af0e9a57742392969c07c6017e9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-02T11:15:36Z"}
 {"name":"hashcrew","vers":"0.1.1","deps":[],"cksum":"7585a36432cdee706250ce47cc74d91c2ca7ef8b338e74f7bed79d7338eae6c1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-02T12:06:25Z"}
 {"name":"hashcrew","vers":"0.1.2","deps":[],"cksum":"9c419c998757fb3140b57e1eb6f836d9be0a9a6895632b01224c69cc408155e8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-07T08:36:07Z"}
+{"name":"hashcrew","vers":"0.2.0","deps":[],"cksum":"5fd3730de410a9d5f2ca41072653e79059e2c6fd9cd87300de4becacb1a93154","features":{"cityhash":[],"default":[],"fnv":[],"md5":[],"murmur":[],"std":[],"xxhash":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-08T15:33:16Z"}
