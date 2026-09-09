@@ -3,3 +3,4 @@
 {"name":"xibalba-proto","vers":"0.2.0","deps":[],"cksum":"d7ca8aa59691a4f491910aecb87106adf3d931206c62cab8f2a95f05b8e9a69e","features":{},"yanked":false,"pubtime":"2026-06-20T01:50:05Z"}
 {"name":"xibalba-proto","vers":"0.2.1","deps":[],"cksum":"155d2e10cff48180ab64b096055ad2c76fe38e6ea0842f77096a29d07b8fd743","features":{},"yanked":false,"pubtime":"2026-06-20T15:01:20Z"}
 {"name":"xibalba-proto","vers":"0.3.0","deps":[],"cksum":"014d2330c6d0b632f67531646e0cb0df57f6932420f27702b8c3a711cbeac5bd","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-09-04T15:57:48Z"}
+{"name":"xibalba-proto","vers":"0.4.0","deps":[{"name":"httparse","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f0397b1c17cdf9bb49f788f7973d656871373791f53568a09182e0d1e4ce7059","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-09-09T21:30:31Z"}
