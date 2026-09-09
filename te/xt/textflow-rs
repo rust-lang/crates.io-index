@@ -1,0 +1,1 @@
+{"name":"textflow-rs","vers":"0.1.0","deps":[],"cksum":"e9193f3df4a0fa3d911907986e0f062c3c193bc25c6ebbb0f95dee32d37e93c4","features":{"alloc":["shaping"],"bidi":["unicode"],"default":[],"shaping":["bidi"],"unicode":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-09T04:11:47Z"}
