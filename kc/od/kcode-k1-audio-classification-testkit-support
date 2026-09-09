@@ -1,1 +1,2 @@
 {"name":"kcode-k1-audio-classification-testkit-support","vers":"0.1.0","deps":[],"cksum":"68f5bc21c889f36c61a656efcf7c7b706c5f7e441450bc50ad7c99667c9c3e70","features":{},"yanked":false,"pubtime":"2026-09-05T02:39:37Z"}
+{"name":"kcode-k1-audio-classification-testkit-support","vers":"0.2.0","deps":[{"name":"kcode-k1-person-types","req":"=0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49d96bc021c573df0f7aeaa64ea7c6925c53dc8ea84bc1c4fce30ad42e95a99e","features":{},"yanked":false,"pubtime":"2026-09-09T19:06:02Z"}
