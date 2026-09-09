@@ -1,3 +1,4 @@
 {"name":"amiga-rdb","vers":"0.2.0","deps":[],"cksum":"5a0f3dc210fe1accf9f634f04b45cb1ef41aca75af16e9e96f8af54e15ea7266","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-07T07:45:49Z"}
 {"name":"amiga-rdb","vers":"0.3.0","deps":[],"cksum":"8511ab54756c70a6a012b2c6315d864b80cc264e9423b9668a72fc6b5c828a2e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-07T10:45:01Z"}
 {"name":"amiga-rdb","vers":"0.4.0","deps":[],"cksum":"aff37aa74dbca069a95d0829dafde649d0f06e3c7f9ab7884012bf7686fe0304","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-07T16:32:46Z"}
+{"name":"amiga-rdb","vers":"0.4.1","deps":[],"cksum":"362f43b2e4bb6094407669798235df5a9747d182eb74ce5aba2d65605b5ba6b3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-09T17:04:40Z"}
