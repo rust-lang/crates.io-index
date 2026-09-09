@@ -1,0 +1,1 @@
+{"name":"simdispatch","vers":"0.0.0","deps":[{"name":"archmage","req":"=0.9.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b67b74a39204ae0c4ed219181d6306fecdf4c5fb663d5817e402bc068a0afc0a","features":{"default":["std"],"internals":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-09T02:23:03Z"}
