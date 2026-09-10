@@ -8,3 +8,4 @@
 {"name":"rusty_time-core","vers":"0.1.7","deps":[],"cksum":"2463deb27815b26777b8af73e8cf7e60b40d25ec36cfb580eee3f18f1c75ea9d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-28T00:58:28Z"}
 {"name":"rusty_time-core","vers":"0.1.9","deps":[],"cksum":"4afd48bb2eba6c8c21c40fc8efc4c76a6d18cb6432d24770d3f0af5be97d7668","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-28T05:35:17Z"}
 {"name":"rusty_time-core","vers":"0.1.10","deps":[],"cksum":"d6ff755ee8df41b0e5d9924645a3ecc38293accfb44863e2908f64a426ffa268","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-29T00:27:55Z"}
+{"name":"rusty_time-core","vers":"0.2.0","deps":[],"cksum":"d019985f57b6328019a09a08644e6f6e4172a700885d966f834a976f72b9beb4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-10T00:39:49Z"}
