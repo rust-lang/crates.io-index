@@ -7,3 +7,4 @@
 {"name":"apk-info-xml","vers":"1.0.10","deps":[],"cksum":"248ffe21892b8f72903d5dfe45df17006a53431b6d1e3b95a77afd0b76ef873c","features":{},"yanked":false,"pubtime":"2026-02-19T09:50:56Z"}
 {"name":"apk-info-xml","vers":"1.0.11","deps":[],"cksum":"29b05a4ac2fb73f3ca59a708807c3870b3901f8251135690fb7de8b05bb687c7","features":{},"yanked":false,"pubtime":"2026-02-25T20:49:35Z"}
 {"name":"apk-info-xml","vers":"1.0.12","deps":[],"cksum":"c3dcf2ac2165e435e8a780744a7e74bcad0467ad3df2f7ccadf44c9b5555743b","features":{},"yanked":false,"pubtime":"2026-08-16T21:49:05Z"}
+{"name":"apk-info-xml","vers":"1.0.13","deps":[],"cksum":"9a868f137d0dbaade83da5c4700fd9aef2dfe439fac1763fdb925e5054452a65","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-09-10T12:08:55Z"}
