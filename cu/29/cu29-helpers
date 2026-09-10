@@ -25,3 +25,4 @@
 {"name":"cu29-helpers","vers":"1.0.2","deps":[],"cksum":"f08a40f0b6fde8ec2dea997947409210792301a13a0a78caa346f4afdfee63ee","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T14:05:10Z"}
 {"name":"cu29-helpers","vers":"1.1.0","deps":[],"cksum":"f04bdb6d0d5246d7ca45b8d1272e645ee6dfba921f7ab90254d4bd559add7dd0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-08T15:13:47Z"}
 {"name":"cu29-helpers","vers":"1.1.1","deps":[],"cksum":"392076800b1e5bb170aac7f92fc5891f89e8ddcb54ada5d51626f96955b63637","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-31T16:59:42Z"}
+{"name":"cu29-helpers","vers":"1.2.0","deps":[],"cksum":"45cc1401bf390ec3bdddd890cca773b4531237f5d4bd5b7ab608c0ae652307d1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-10T21:29:03Z"}
