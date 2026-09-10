@@ -1,1 +1,2 @@
 {"name":"sv-lang-kinds","vers":"0.0.1","deps":[],"cksum":"27815b3ce930c4879115f9361c0ad0640ecc9b1f6cc2dcb099106ed7c066a180","features":{},"yanked":false,"pubtime":"2026-08-25T17:28:31Z"}
+{"name":"sv-lang-kinds","vers":"0.1.0+slang.11.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f503f93b6b9d4a843bd9efba56e087e88d13eab85ab547992b088e9fcd3b17d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-10T22:51:18Z"}
