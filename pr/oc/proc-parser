@@ -1,0 +1,1 @@
+{"name":"proc-parser","vers":"0.7.3","deps":[{"name":"peg","req":"^0.8.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6ebee075bb874b2df64b17c21c3cb7d46accd1a4eca3f8abb6499abf8f7dd6d","features":{},"features2":{"default":["parse"],"parse":["dep:peg"]},"yanked":false,"pubtime":"2026-09-10T11:32:25Z","v":2}
