@@ -1,0 +1,1 @@
+{"name":"cu-serial","vers":"1.2.0","deps":[{"name":"embedded-io","req":"^0.7.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e37f22a0a100677ff846aba3dbe1fae9689f23992e0d092b44a8065dc0e0b0c8","features":{"default":["std"],"std":["embedded-io/std"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-10T21:16:09Z"}
