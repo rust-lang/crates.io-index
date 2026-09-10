@@ -62,3 +62,4 @@
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.14","deps":[],"cksum":"a0b6381f96cd38659c69b5da1d13a6fa24693ed06a43959418eebe4d4b3a8421","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-08-20T17:53:53Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"48.0.1","deps":[],"cksum":"a933b0e9d1fea543a86761cb5060ed4204ef1e93ef9e41b2f11b3cac25d7d043","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-24T19:59:02Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"49.0.0-rc.1","deps":[],"cksum":"0c38405e3dea4a728f2a737df063379bfbd5e036126d70e0a5200228f6bf51f6","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-09-05T04:40:14Z"}
+{"name":"wasmtime-internal-wmemcheck","vers":"36.0.15","deps":[],"cksum":"6be511472ddd893300462e26a01348fa06c6bd70f4bbc36a7efdb590e90104e6","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-09-10T19:07:35Z"}
