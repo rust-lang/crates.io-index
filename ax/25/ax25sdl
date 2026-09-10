@@ -1,1 +1,2 @@
 {"name":"ax25sdl","vers":"0.8.0","deps":[],"cksum":"0eab73b89e9628cc833547858f24e99da86ae474de1665e867db35c433094a6d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-19T00:11:36Z"}
+{"name":"ax25sdl","vers":"0.9.0","deps":[],"cksum":"0133cb5e1b3bd7a8761942599ece98bb31709b6d8e27f8776ab2ad2b78a44634","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-10T09:25:08Z"}
