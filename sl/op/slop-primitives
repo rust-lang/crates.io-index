@@ -15,3 +15,4 @@
 {"name":"slop-primitives","vers":"6.5.0","deps":[{"name":"slop-algebra","req":"^6.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d2e4d1551db4c620a4d6f2fa5b5b36cd5476da1e4122525074689327d8bac5d","features":{},"yanked":false,"pubtime":"2026-08-26T14:29:57Z"}
 {"name":"slop-primitives","vers":"6.6.0","deps":[],"cksum":"e001a8f0d0aec43dd925f7e1aa428e16cb08518a227c0997dca4fcbe8148c3da","features":{},"yanked":false,"pubtime":"2026-09-02T07:55:30Z"}
 {"name":"slop-primitives","vers":"6.7.0","deps":[],"cksum":"981a680b7087419ea660f65d147a7cce100ccd7fde456db8a37300c4975bbf28","features":{},"yanked":false,"pubtime":"2026-09-07T03:04:16Z"}
+{"name":"slop-primitives","vers":"6.8.0","deps":[],"cksum":"ddf6ce948f67440e8490b9baae24004f963558684e579cce1a8659075964c6f2","features":{},"yanked":false,"pubtime":"2026-09-11T06:47:23Z"}
