@@ -1,0 +1,1 @@
+{"name":"vthread-sync-core","vers":"0.1.0-rc.1","deps":[{"name":"loom","req":"=0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3abcfe078199a8882ca7ae26f58eabd8bf563cc7d401ffbf07fc7d441f02e19e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-11T14:25:34Z"}
