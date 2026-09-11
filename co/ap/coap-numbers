@@ -12,3 +12,4 @@
 {"name":"coap-numbers","vers":"0.2.8","deps":[],"cksum":"46b16e7664cd0c1bb97bd3a3e1c10626862919158fc9f5ba141786d00c8739e5","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51","pubtime":"2025-11-05T12:21:45Z"}
 {"name":"coap-numbers","vers":"0.2.9","deps":[],"cksum":"f84b6d4175638be4f037388dc1fae0d03862ba666a6942fa057b6031d3abb5a0","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51","pubtime":"2026-04-23T22:07:32Z"}
 {"name":"coap-numbers","vers":"0.2.10","deps":[],"cksum":"b6d5b04de3acac56ffbd330e474b8e7ac8b45229b97e7e5bcbc9ac8710abd5d9","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51","pubtime":"2026-07-11T18:34:55Z"}
+{"name":"coap-numbers","vers":"0.2.11","deps":[],"cksum":"e60f0209fce28bf33b5e1b2f99533739250b07787183c12c9a3ab9529d8b5b16","features":{"alloc":[],"nightly_docs":[]},"yanked":false,"rust_version":"1.51","pubtime":"2026-09-11T20:25:24Z"}
