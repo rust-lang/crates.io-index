@@ -1,2 +1,3 @@
 {"name":"videoson-common","vers":"0.5.1","deps":[],"cksum":"ac48138c4d1274bd35b843dccaddcc10ecc1bf21ca8e8c567e33201ec1780be3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-11T04:01:07Z"}
 {"name":"videoson-common","vers":"0.5.2","deps":[],"cksum":"69b48a24529a33563a1ab3354f1e5d99f98b7bbaed6ac6c806ce3d16629a1363","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-11T04:06:21Z"}
+{"name":"videoson-common","vers":"0.5.3","deps":[],"cksum":"b90088552866a18d965877019033d9f34cf449661bb7181ab20e1ee7988c75c9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-11T09:29:50Z"}
