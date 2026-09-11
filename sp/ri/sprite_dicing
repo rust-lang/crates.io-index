@@ -3,3 +3,4 @@
 {"name":"sprite_dicing","vers":"0.1.2","deps":[{"name":"once_cell","req":"^1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b9eb3f220ce79f58bbaf22b55c943e6e1c36ca956341743cc4a2e2282b0b792","features":{},"yanked":false,"pubtime":"2024-04-05T11:55:58Z"}
 {"name":"sprite_dicing","vers":"0.1.3","deps":[],"cksum":"6624c2cf51f338ceda08523b09612cb91e75f38ea6fefcde94c26432f044d87f","features":{},"yanked":false,"pubtime":"2024-07-27T11:23:22Z"}
 {"name":"sprite_dicing","vers":"0.1.4","deps":[],"cksum":"29e5978205d17aaeb54c423044be24db3367fe46fa0e8139f727aa5d9a30bbef","features":{},"yanked":false,"pubtime":"2024-11-27T20:46:37Z"}
+{"name":"sprite_dicing","vers":"1.0.0","deps":[],"cksum":"7bbdc04a6e67513903acd3183f76b725e5e37cdf5bd95f9e6ee67734aa36c6f7","features":{},"yanked":false,"pubtime":"2026-09-11T11:22:20Z"}
