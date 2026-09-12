@@ -28,3 +28,4 @@
 {"name":"osal-rs-build","vers":"1.0.4","deps":[],"cksum":"50d2f4b2353c82154845280132d345890c834220ca10d50b33beb5d5013ce9f8","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-30T19:24:32Z"}
 {"name":"osal-rs-build","vers":"1.1.0","deps":[],"cksum":"86fc8c2f43aed931da85ed5cdbba86a1a23efc019923cbbaa5a67147e32870d1","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-02T21:37:36Z"}
 {"name":"osal-rs-build","vers":"1.2.0","deps":[],"cksum":"1f4be1e7fe7d0f8e47df8c73688caea599b79ffcfc8f4666c3b0d75045079021","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-05T21:09:08Z"}
+{"name":"osal-rs-build","vers":"1.2.1","deps":[],"cksum":"93c4097aeaa3549a9253363467bc99c7ec4a095e2d4458bb703ea7e95ff396a3","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-12T13:22:29Z"}
