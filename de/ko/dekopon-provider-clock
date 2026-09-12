@@ -1,0 +1,1 @@
+{"name":"dekopon-provider-clock","vers":"0.13.0","deps":[{"name":"wit-bindgen","req":"^0.62.0","features":["bitflags","macros","realloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"611b9a142c430675c103828e7e9b134b312da4702699c618148c78e60edf5bbd","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-12T07:33:00Z"}
