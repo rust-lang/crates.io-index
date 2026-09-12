@@ -1,2 +1,3 @@
 {"name":"blajar-say-hello","vers":"0.1.0","deps":[],"cksum":"8ed51d2452df0c7ab80472db40f37162c0d524580c214b0a60cdfbe72863cceb","features":{},"yanked":false,"pubtime":"2026-09-12T01:44:52Z"}
 {"name":"blajar-say-hello","vers":"0.2.0","deps":[],"cksum":"3d4db7b03e02c96ad5f1e47bf4537a0cd3183fdfb897006603e1e544365f0a1f","features":{},"yanked":false,"pubtime":"2026-09-12T06:14:26Z"}
+{"name":"blajar-say-hello","vers":"0.3.0","deps":[],"cksum":"85e740657676f4efbdf08fef60833bc278c93fff9d578c89fc85a1d84fca95a0","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-09-12T14:31:21Z"}
