@@ -1,0 +1,1 @@
+{"name":"llmrc-bots-slack","vers":"0.1.0","deps":[{"name":"llmrc-bots-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bfd840ea78575e26c5d1867f66b92cbb397732f14bbe9b8d60637216a8f929f","features":{"default":[],"slack-morphism":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-12T11:35:52Z"}
