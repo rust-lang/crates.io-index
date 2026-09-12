@@ -1,1 +1,2 @@
 {"name":"rushaudio","vers":"0.1.0","deps":[],"cksum":"c50a32a7570f2cb789e743cb129fdf2653543f18e1a9ed75a8eb2900622bbf7c","features":{"default":[]},"yanked":false,"pubtime":"2026-07-09T14:35:43Z"}
+{"name":"rushaudio","vers":"1.1.0","deps":[{"name":"cpal","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16f1cbdb0608aa74d03de7343e41aa5b702c71e95563466e04328bf4a21f8cd8","features":{"default":[]},"yanked":false,"pubtime":"2026-09-12T15:09:03Z"}
