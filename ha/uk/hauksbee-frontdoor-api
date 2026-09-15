@@ -1,0 +1,1 @@
+{"name":"hauksbee-frontdoor-api","vers":"0.1.0-beta.5","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22e1fe1d433f8991f5b3e084affc186fcb43074d217bfa689b76ae8a0db90a8a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-09-15T12:12:57Z"}
