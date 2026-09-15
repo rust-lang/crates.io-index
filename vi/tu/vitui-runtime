@@ -1,1 +1,2 @@
 {"name":"vitui-runtime","vers":"0.0.1","deps":[],"cksum":"411406a829f8208d94d403db62239a56b8d8387752bf87f9fe2410b406ee7c56","features":{},"yanked":false,"pubtime":"2026-09-11T08:02:57Z"}
+{"name":"vitui-runtime","vers":"0.1.0","deps":[{"name":"vitui-engine","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5f1fb2bf1aab5649cc4b0266dc847c9a96132e20b7bb3c51554e0e5333ae647","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-15T22:10:31Z"}
