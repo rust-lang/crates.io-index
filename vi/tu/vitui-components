@@ -1,1 +1,2 @@
 {"name":"vitui-components","vers":"0.0.1","deps":[],"cksum":"4874d82ff0676575ebf344f1bba3dcc30fea40961aadfc00264386db18f35ad6","features":{},"yanked":false,"pubtime":"2026-09-11T08:02:59Z"}
+{"name":"vitui-components","vers":"0.1.0","deps":[{"name":"vitui-runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"960d7cdf1b3aff4c6fe252835411ee6ae89b880999cb72cb54f7834eb3aca58f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-15T22:11:18Z"}
