@@ -1,0 +1,1 @@
+{"name":"rapier-cloth-core","vers":"0.1.0","deps":[{"name":"glam","req":"^0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c3474402150f22b98931adf08fb79febc49f979f6a5993bafbcbd077c78f989","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-09-13T03:52:36Z"}

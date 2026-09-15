@@ -1,0 +1,1 @@
+{"name":"arenars","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cf252afa45d6b17004b3b6a063370fa5a7cd11451372ebbf82968505cc26505a","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-20T22:06:34Z"}

@@ -1,0 +1,1 @@
+{"name":"zucchini","vers":"0.1.0","deps":[{"name":"zucchini-sys","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79e7701b7977867402b6e7d251052b966aa1349e6eb754ee45fe447b36e82fa1","features":{"prebuilt":["zucchini-sys/prebuilt"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-15T10:32:45Z"}

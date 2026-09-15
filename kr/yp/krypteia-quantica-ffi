@@ -1,0 +1,1 @@
+{"name":"krypteia-quantica-ffi","vers":"0.2.0","deps":[{"name":"quantica","req":"^0.2.0","features":["hazmat"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"krypteia-quantica"}],"cksum":"9c614f9ee3fbcda2bcb3e81829d35e913e083234ea93e9df16cb4804cc4ed186","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T16:29:49Z"}

@@ -1,0 +1,1 @@
+{"name":"tpt-zero-mem","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86b2842844eb61631d6bd9dbdfd2be9ab3708e6fe9a7685bccee12db53d2ede9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-20T13:16:18Z"}

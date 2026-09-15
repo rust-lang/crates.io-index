@@ -1,0 +1,1 @@
+{"name":"frontend_arena","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.8.1","features":["union","may_dangle"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de93e9cb42e398bd6725a5d217c310d94e07b97aed957aba1c85f5fb52e7a174","features":{},"yanked":false,"pubtime":"2026-09-09T13:17:06Z"}

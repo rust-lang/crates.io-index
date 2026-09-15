@@ -1,0 +1,1 @@
+{"name":"gfxstats","vers":"0.0.0","deps":[{"name":"nvml-wrapper","req":"^0.12.1","features":["legacy-functions"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"905110b02ff82645e101887c93b63b00164fa19760d29732d4825a9c31c56761","features":{},"yanked":false,"pubtime":"2026-08-31T03:06:02Z"}

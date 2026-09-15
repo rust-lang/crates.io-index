@@ -1,0 +1,3 @@
+{"name":"treestat","vers":"1.0.0","deps":[],"cksum":"04dbc098e0a0a1bee235fbdb0b14c7a02f254898a733e61a53a7e9e4edb25dc2","features":{},"yanked":false,"pubtime":"2026-03-12T12:18:34Z"}
+{"name":"treestat","vers":"1.0.1","deps":[],"cksum":"26a925b4bef24c20286fd6fa1ea2469518d473177dd2a9f42111056f4623d942","features":{},"yanked":false,"pubtime":"2026-03-12T12:23:22Z"}
+{"name":"treestat","vers":"1.1.0","deps":[{"name":"linguist","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"771ac727e5f2c993208e3aa1c3ce0f010532f2e4d3c3a062c737a54ea68fffee","features":{},"yanked":false,"pubtime":"2026-03-16T03:51:21Z"}

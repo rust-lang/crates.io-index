@@ -1,0 +1,13 @@
+{"name":"riddle-lang","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"940fe9205efe3fb8a9ed2c08e20679e223cfc570c226aaacf46cdeb0b78e4922","features":{},"yanked":false,"pubtime":"2026-05-20T08:27:51Z"}
+{"name":"riddle-lang","vers":"0.2.0","deps":[],"cksum":"b2429645eb822c0a0de9fd8f8b4b3cabf531b6ca0dd57ed89e6c8a4093ed215d","features":{},"yanked":false,"pubtime":"2026-05-28T15:17:23Z"}
+{"name":"riddle-lang","vers":"0.2.1","deps":[],"cksum":"f66380c9e972947d38c05f7cd23fe05c73b70ee7bf557b19d0b13f6d765252fc","features":{},"yanked":false,"pubtime":"2026-07-16T13:22:28Z"}
+{"name":"riddle-lang","vers":"0.2.3","deps":[],"cksum":"427350f0e52f65037de022201eed951a8529166362a684a39a80cc84970ec7fc","features":{},"yanked":false,"pubtime":"2026-08-07T18:02:39Z"}
+{"name":"riddle-lang","vers":"0.2.4","deps":[],"cksum":"4df76b3a3a2097a34ab09a69bac8790acc5f4c7bd2a35047e4073da10026ffe2","features":{},"yanked":false,"pubtime":"2026-09-03T08:12:52Z"}
+{"name":"riddle-lang","vers":"0.2.5","deps":[],"cksum":"c9941cfd1e17421fc94e8a89e8252ff7b0bad0d3af1d0b0f6329529e79933297","features":{},"yanked":false,"pubtime":"2026-09-07T12:18:40Z"}
+{"name":"riddle-lang","vers":"0.2.6","deps":[],"cksum":"edf6fb3d8b630b12ef16926638f9a38471de3fc0e612a40dd7ff4a4f1aa1df2b","features":{},"yanked":false,"pubtime":"2026-09-08T10:09:13Z"}
+{"name":"riddle-lang","vers":"0.2.7","deps":[],"cksum":"4dc93e9862b2ddad5d3f9784180944ce6815b6b6be68c6fd42d49ca5457dc79f","features":{},"yanked":false,"pubtime":"2026-09-08T13:10:01Z"}
+{"name":"riddle-lang","vers":"0.2.8","deps":[],"cksum":"9e33605d2fdaf5678438ff511654e745d0ee89933da257937e47b55e64a18b18","features":{},"yanked":false,"pubtime":"2026-09-08T13:25:28Z"}
+{"name":"riddle-lang","vers":"0.2.9","deps":[],"cksum":"574f0b071eec5568f69918a0a355f228da71534baec9e7e23ab41dddf66891f8","features":{},"yanked":false,"pubtime":"2026-09-08T13:39:52Z"}
+{"name":"riddle-lang","vers":"0.2.10","deps":[],"cksum":"3ecc761c77762952dece253644aa7a8c1419fb0baf6f3ca3cedfb8a0645eaf38","features":{},"yanked":false,"pubtime":"2026-09-09T08:40:00Z"}
+{"name":"riddle-lang","vers":"0.2.11","deps":[],"cksum":"97f5c352a69d6eefd8632b96b03bd322a138d0b4110336229fd97322ad276156","features":{},"yanked":false,"pubtime":"2026-09-09T08:55:38Z"}
+{"name":"riddle-lang","vers":"0.2.12","deps":[],"cksum":"661bd2471b0d584cbbc4c65b093fae5b6205b236c03cb2ff3320e80d47928f6b","features":{},"yanked":false,"pubtime":"2026-09-09T09:52:02Z"}

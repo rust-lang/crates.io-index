@@ -1,0 +1,1 @@
+{"name":"use-friend","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"044d23081e9d4b72d75eea1972aa2fca55c92e4fe7d42a045f3a1d95ebde6281","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-18T01:47:11Z","v":2}

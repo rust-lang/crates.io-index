@@ -1,0 +1,1 @@
+{"name":"nbt-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa1f3e55fc97a55b3c2b9ca95fa1373efe47dbdfda54e89849262c4776b4c57b","features":{},"yanked":false,"pubtime":"2026-06-12T02:20:37Z"}

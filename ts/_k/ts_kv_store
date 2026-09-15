@@ -1,0 +1,2 @@
+{"name":"ts_kv_store","vers":"0.0.0-alpha0","deps":[],"cksum":"0c2fcc0743942a2ece6e4cfdce95abfbc4247c24762c754711cc507a51d86a0d","features":{},"yanked":false,"pubtime":"2026-08-13T19:58:48Z"}
+{"name":"ts_kv_store","vers":"0.5.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"874581c2d85b85026bd4eb291bb9916927994c02e4370077475ff41ea45c7c7e","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-08-14T20:44:42Z"}

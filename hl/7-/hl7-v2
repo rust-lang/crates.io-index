@@ -1,0 +1,2 @@
+{"name":"hl7-v2","vers":"0.0.1","deps":[],"cksum":"ccc41e2e616d7901ae4a055c73d4c7b454e12cdb520bdbd1c037b1acd89aef14","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-04-10T13:22:32Z"}
+{"name":"hl7-v2","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"46a25065dba7e1b94982491860db82c6b461ea0e30389ce336438f0260730c85","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-30T06:02:25Z"}

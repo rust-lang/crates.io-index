@@ -1,0 +1,2 @@
+{"name":"libero","vers":"0.0.1","deps":[],"cksum":"25b704b2ef3a8174fbdd61a5dfd603c89a4ebc82bc07dcdf4adc8c83a3a6186b","features":{},"yanked":false,"pubtime":"2026-05-14T20:04:13Z"}
+{"name":"libero","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.7.10","features":["macro","html","signals","hooks","document"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6cd8cba925cf2c6e7768861e801248c3444851ab0ad2aa9fd86a2ec244ad22e8","features":{},"yanked":false,"pubtime":"2026-08-16T15:24:58Z"}

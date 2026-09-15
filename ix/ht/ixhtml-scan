@@ -1,0 +1,1 @@
+{"name":"ixhtml-scan","vers":"0.1.0-alpha.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dec8079104741bc401f77635e344530df8f4d3eb8cda85d62e50e5f42b0c2f3","features":{},"yanked":false,"pubtime":"2026-03-30T11:22:12Z"}

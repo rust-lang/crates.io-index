@@ -1,0 +1,1 @@
+{"name":"cvi-vdec-uapi","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.23","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2ee3b9dc86ade9d33b76f2467aafe338359a2a13f25dd565f58f16f77a22f3d0","features":{},"yanked":false,"pubtime":"2026-07-14T01:16:28Z"}

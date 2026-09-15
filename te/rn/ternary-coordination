@@ -1,0 +1,1 @@
+{"name":"ternary-coordination","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd07f03dbf8607c0064f790fdcf7a0952e34053bb12e9d9e99c70abaab51c502","features":{},"yanked":false,"pubtime":"2026-06-11T22:56:10Z"}

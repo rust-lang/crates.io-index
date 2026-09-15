@@ -1,0 +1,1 @@
+{"name":"plinth-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50cc6ae91e93357488d0f23e78ea8aa93d0f38d1952101068bf38de937176862","features":{},"yanked":false,"pubtime":"2026-06-11T21:47:43Z"}

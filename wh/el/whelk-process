@@ -1,0 +1,1 @@
+{"name":"whelk-process","vers":"0.2.0","deps":[{"name":"nix","req":"^0.31","features":["event","fs","process","sched","signal","term"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"64aefbf99d276b4ea8190158b29d6fae1d5c4d743268dcdb5ab8c37606c35b76","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-24T10:37:45Z"}

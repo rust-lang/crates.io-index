@@ -1,0 +1,1 @@
+{"name":"cry_sha256","vers":"1.0.0","deps":[{"name":"zeroize","req":"^1.7","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"231aee157e8890cd22fa72de90339f04292d907719151a5bd05dc6c083d9aac0","features":{},"yanked":false,"pubtime":"2026-04-13T17:08:44Z"}

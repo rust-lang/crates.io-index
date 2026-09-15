@@ -1,0 +1,1 @@
+{"name":"sample-resource","vers":"0.1.0","deps":[{"name":"audioadapter-sample","req":"^3.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"67ef8f4316e9021bd6a1a3582c87ad7dfdd5f02fe593c7afd69a20b2bbc9e1eb","features":{"default":["std"],"std":["audioadapter-sample/std"]},"yanked":false,"pubtime":"2026-04-17T00:52:51Z"}

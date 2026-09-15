@@ -1,0 +1,3 @@
+{"name":"tukey_test","vers":"0.1.0","deps":[],"cksum":"68a843a6716ab3b7ed2318bc4f77e9f01b196add4d2eca5f7f818be551d7ef59","features":{},"yanked":true,"pubtime":"2023-06-30T23:18:28Z"}
+{"name":"tukey_test","vers":"0.1.1","deps":[],"cksum":"e0acdf22a26063d474a178eb5d57fa5b45b077fbed929cf0e292cf956fb7e49b","features":{},"yanked":false,"pubtime":"2023-06-30T23:50:07Z"}
+{"name":"tukey_test","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8cac7ba53e397dc6dcbcc42d582b18bcd203f722de3716f9c18ef77b15bb1b","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-03-06T23:48:24Z","v":2}

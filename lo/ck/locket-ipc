@@ -1,0 +1,1 @@
+{"name":"locket-ipc","vers":"1.0.0","deps":[{"name":"zeroize","req":"^1.9","features":["derive","alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d02e9d94b02957fe1738771cff18dbd9d9601d64e8d65aeceb776f23b3736431","features":{},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-09-08T02:52:30Z"}

@@ -1,0 +1,1 @@
+{"name":"l0gr","vers":"1.0.0","deps":[{"name":"time","req":"^0.3.55","features":["formatting","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"40950b35d916d3514192145bdb1cb8e7369ce0961132c59c807687b85f2c02d4","features":{"default":["enabled"],"enabled":[]},"yanked":false,"pubtime":"2026-09-12T23:07:36Z"}

@@ -1,0 +1,3 @@
+{"name":"validador","vers":"0.1.1","deps":[],"cksum":"3d81f17c33370bedd108b987e9b19c7262a8a09b1fb93a6e8ec21e610865cf56","features":{},"yanked":false,"pubtime":"2026-07-06T20:20:50Z"}
+{"name":"validador","vers":"1.0.0","deps":[],"cksum":"3e287eeca46f3be2536878eba46970c265e94e5e9a247e93eb8d37a6b03448d8","features":{},"yanked":false,"pubtime":"2026-07-07T18:23:47Z"}
+{"name":"validador","vers":"1.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52e54575fb43fc9d3a4afc829b352a5de9cb30321cfd6eb90b4c7b9c769cc3b3","features":{},"yanked":false,"pubtime":"2026-07-07T18:58:39Z"}

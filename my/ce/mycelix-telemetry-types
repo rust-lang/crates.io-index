@@ -1,0 +1,1 @@
+{"name":"mycelix-telemetry-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aa493f3dedd1a88e5681ba6865125252773f14807d19a037b2eae4b194a37a7","features":{},"yanked":false,"pubtime":"2026-06-13T15:53:37Z"}

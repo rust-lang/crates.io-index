@@ -1,0 +1,3 @@
+{"name":"jsmoke_cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.45","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad3de28e57ea96afbc811801d7479bc55ec18d018c7ed04277aa3e4a66885b29","features":{},"yanked":false,"pubtime":"2025-11-15T02:25:00Z"}
+{"name":"jsmoke_cli","vers":"0.1.1","deps":[],"cksum":"4d34251ca9f79736dee03c8a8ad98323732416012802abfd2db857d225e797fa","features":{},"yanked":false,"pubtime":"2026-01-09T17:43:37Z"}
+{"name":"jsmoke_cli","vers":"0.1.2","deps":[],"cksum":"1dd9c16fefd8db3f7bb6b52f216d6a7772fe1597c645e232bdc840aabbc419b1","features":{},"yanked":false,"pubtime":"2026-01-09T22:24:06Z"}

@@ -1,0 +1,1 @@
+{"name":"mikktspace-rs","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eb50d2054205322342ed275668b669e0f6147cf9115b55ec2f6dddd65711ae0","features":{"default":[]},"features2":{"parallel":["dep:rayon"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-05T20:16:28Z","v":2}

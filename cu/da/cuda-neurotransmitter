@@ -1,0 +1,1 @@
+{"name":"cuda-neurotransmitter","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0dec04596a069b3f78aa1e49e27fabd23446e36b49ff92a69383039093b0c8d","features":{},"yanked":false,"pubtime":"2026-04-27T01:24:44Z"}

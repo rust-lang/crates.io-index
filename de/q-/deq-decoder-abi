@@ -1,0 +1,1 @@
+{"name":"deq-decoder-abi","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c5b4678368c19a125128992f85ce221cedb5a11f8d2d6f9d3605f42058d1924","features":{"default":[]},"features2":{"host":["dep:libloading"]},"yanked":false,"pubtime":"2026-07-20T21:23:52Z","v":2}

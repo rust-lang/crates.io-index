@@ -1,0 +1,1 @@
+{"name":"par-buffer-pool","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3af810bcba296370e929f6707ae3d2dfd243d0b88bb16cf01cdc3b95f79cc247","features":{"stats":[]},"yanked":false,"rust_version":"1.66","pubtime":"2026-09-15T08:14:06Z"}

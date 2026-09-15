@@ -1,0 +1,2 @@
+{"name":"monero-io","vers":"0.0.1","deps":[],"cksum":"3c9fe6a04a57f6c847b1b8073b65e4475afeb81bee3ab543f13dbe9d3ba56c58","features":{},"yanked":false,"pubtime":"2024-12-05T13:23:19Z"}
+{"name":"monero-io","vers":"0.1.0","deps":[{"name":"std-shims","req":"^0.1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"aa9f1a95e908282938246cd0206ee37dcbb8b8317b38c32f6760f7483eff8adb","features":{"default":["std"],"std":["std-shims/std"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-07-31T21:08:31Z"}

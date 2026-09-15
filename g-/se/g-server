@@ -1,0 +1,1 @@
+{"name":"g-server","vers":"0.0.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d357841e8580f2f30fc102d5f19f226c87626e4f971295c8ed233797a9a39c64","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-08-11T08:20:48Z"}

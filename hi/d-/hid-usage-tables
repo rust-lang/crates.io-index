@@ -1,0 +1,1 @@
+{"name":"hid-usage-tables","vers":"0.1.0","deps":[{"name":"hidder-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45de9d37e436ecdd5deaf6400d8172a19162a2de11c1585bd2c7873ce49455ac","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-20T15:03:55Z"}

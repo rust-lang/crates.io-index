@@ -1,0 +1,1 @@
+{"name":"euca-math","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79c0cba9218aa2c204efc958cd4171a640b70092e1dce2d3c4d18a628579cabc","features":{},"yanked":false,"pubtime":"2026-03-16T14:11:21Z"}

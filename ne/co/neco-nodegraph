@@ -1,0 +1,1 @@
+{"name":"neco-nodegraph","vers":"0.1.0","deps":[{"name":"neco-json","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8256b1835c06f2fa490659b4091c05914c751e48eeda915ca281da0b3f218022","features":{"default":[],"json":["neco-json"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-18T13:47:11Z"}

@@ -1,0 +1,1 @@
+{"name":"wasm_heic","vers":"0.1.0","deps":[{"name":"heic","req":"^0.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d2c164086eec17b13a78f4019c5d47b80ecf4e6c6bcc60b6b549f9ec3460912c","features":{},"yanked":false,"pubtime":"2026-04-25T20:31:15Z"}

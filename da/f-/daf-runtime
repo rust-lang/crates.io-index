@@ -1,0 +1,1 @@
+{"name":"daf-runtime","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7af369c26edfd9a167d4d36e3d044899019a583ae677377628b08de5e5c5691b","features":{},"yanked":false,"pubtime":"2026-09-14T15:30:58Z"}

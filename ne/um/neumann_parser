@@ -1,0 +1,1 @@
+{"name":"neumann_parser","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef0c79ae6dd597dc23590963d4f21673a89e4deb77bbf410f19e963591b2b3db","features":{},"yanked":false,"pubtime":"2026-03-13T03:46:01Z"}

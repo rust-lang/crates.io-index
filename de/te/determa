@@ -1,0 +1,2 @@
+{"name":"determa","vers":"0.1.0","deps":[],"cksum":"e9723eb63ba07514e43d23e1247c0751c8e3417d003d9165172554b3c25cf2c3","features":{},"yanked":false,"pubtime":"2026-07-05T18:53:27Z"}
+{"name":"determa","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c21df33fecfddd3b65810ea4a44c5714cab9f1d6a4e18809ef60c99fdb95ec71","features":{},"yanked":false,"pubtime":"2026-07-07T02:13:53Z"}

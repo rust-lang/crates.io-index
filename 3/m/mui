@@ -1,0 +1,1 @@
+{"name":"mui","vers":"0.1.0","deps":[{"name":"zeroize","req":"^1.8.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d8eef934d762dd1d27465711488435ff1fbeaf747367037ec22603dd9f205662","features":{"alloc":[],"default":["alloc"]},"features2":{"zeroize":["dep:zeroize"]},"yanked":false,"pubtime":"2026-05-31T14:47:02Z","v":2}

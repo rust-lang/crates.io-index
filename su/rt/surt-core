@@ -1,0 +1,1 @@
+{"name":"surt-core","vers":"0.1.0","deps":[{"name":"surt-abi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b30dc4e417922a0ad686456a87e162424c7460e59378e1a314db7143ce4fb79","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-02T05:54:50Z"}

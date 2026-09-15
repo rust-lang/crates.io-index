@@ -1,0 +1,1 @@
+{"name":"mathverse-views","vers":"0.1.1","deps":[{"name":"mathverse-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d424d8d89e4c6e3257f764f7b88b527d1554154fdc389cdc40a033b45b77d29c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-07T11:28:59Z"}

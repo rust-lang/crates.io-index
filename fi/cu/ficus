@@ -1,0 +1,2 @@
+{"name":"ficus","vers":"0.0.1","deps":[],"cksum":"1fdefefd722ae608a2d5f70d47bebc4205f2bd8923a0b3e158a2611a5f49c7d0","features":{},"yanked":false,"pubtime":"2023-03-16T08:46:24Z"}
+{"name":"ficus","vers":"0.0.2","deps":[{"name":"slotmap","req":"^1.1","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c595a71c85a9019f7c70438942e1025d56e51d61f64b12b507204bb09b0abba4","features":{},"yanked":false,"pubtime":"2026-06-24T12:05:10Z"}

@@ -1,0 +1,1 @@
+{"name":"glint-audio","vers":"0.11.0","deps":[{"name":"glint_sys","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"glint-audio-sys"}],"cksum":"df09912ed6bd5062c86fd42b646de28c5727f4fb8e2c2adbd58e9465dff8cc12","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-01T12:17:31Z"}

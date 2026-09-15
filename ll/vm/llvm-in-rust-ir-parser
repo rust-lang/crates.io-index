@@ -1,0 +1,1 @@
+{"name":"llvm-in-rust-ir-parser","vers":"0.1.0","deps":[{"name":"llvm-ir","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"llvm-in-rust-ir"}],"cksum":"815f4545bff42aa352267c7c8236b271490b85cd301a1ba1d79a9a7e3406ef47","features":{},"yanked":false,"pubtime":"2026-05-13T17:38:03Z"}

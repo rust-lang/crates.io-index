@@ -1,0 +1,1 @@
+{"name":"grove-compiler","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"456506ad57cb7b8397df70a8087abefa9f4b979a4310897ef6fb92d029d4484f","features":{},"yanked":false,"pubtime":"2026-06-08T17:04:45Z"}

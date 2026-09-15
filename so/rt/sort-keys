@@ -1,0 +1,1 @@
+{"name":"sort-keys","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dd4b17d26de5266d4421d5d43c8ea7945a6e705fd9c4ee35bce53f44274bd97","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-06-24T07:37:56Z"}

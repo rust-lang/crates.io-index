@@ -1,0 +1,2 @@
+{"name":"assert-rs","vers":"0.1.0","deps":[],"cksum":"64e617f9454fa9e66fc54593098698839a8c0b1895193ab7d76fca1d205392a2","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false,"pubtime":"2026-07-24T17:01:51Z"}
+{"name":"assert-rs","vers":"0.1.1","deps":[],"cksum":"df2b3657e434302b082c21c4c75922da0cfeda94ebb890a2959f51d67e420c32","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false,"pubtime":"2026-07-24T19:50:48Z"}

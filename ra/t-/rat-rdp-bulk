@@ -1,0 +1,2 @@
+{"name":"rat-rdp-bulk","vers":"0.1.0","deps":[],"cksum":"25a681caf91a617caabc5332c4581f5c8aa207c680c3dc4e69257463e25fb29d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-08-20T08:48:09Z"}
+{"name":"rat-rdp-bulk","vers":"0.2.0","deps":[],"cksum":"519cdefb17631e94abc86eeeab16028e778cf9f46b1ae149b46e7092505b0d35","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-08-27T08:12:52Z"}

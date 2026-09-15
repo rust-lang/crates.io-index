@@ -1,0 +1,1 @@
+{"name":"dsl-format","vers":"3.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee65b7eb36707e643ab0faf952c30d82428aaba8ee13f76b687bc61de1dedd21","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-21T22:34:58Z"}

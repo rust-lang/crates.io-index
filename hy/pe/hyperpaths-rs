@@ -1,0 +1,3 @@
+{"name":"hyperpaths-rs","vers":"0.1.0","deps":[],"cksum":"09371dbd744f181de84db4b3abdc8c859666333dd0c03ca22849e7e0f222fc19","features":{},"yanked":false,"pubtime":"2026-07-31T22:00:38Z"}
+{"name":"hyperpaths-rs","vers":"0.1.1","deps":[],"cksum":"579a91ae16400415d1e58f2efceb576e21802b461948cddb4ff59dcc8ffe772c","features":{},"yanked":false,"pubtime":"2026-08-01T20:11:16Z"}
+{"name":"hyperpaths-rs","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a41290a49b8b32e6c81afbed09562d3b6702568fabcd511452d52c402933f129","features":{"testutil":[]},"yanked":false,"pubtime":"2026-08-03T21:32:41Z"}

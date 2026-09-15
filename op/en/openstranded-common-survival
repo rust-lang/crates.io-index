@@ -1,0 +1,1 @@
+{"name":"openstranded-common-survival","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"285cd8b134ec261f4c440d96b2172a2f5f796f936b3c7196cb5c3117736011aa","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-11T12:18:29Z"}

@@ -1,0 +1,1 @@
+{"name":"ternlang-harmony","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db06a6b7e88ec959bb14e8c3da6a20b8443b0deffc6aba1e57209cdd1759f17c","features":{},"yanked":false,"pubtime":"2026-08-19T12:44:33Z"}

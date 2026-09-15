@@ -1,0 +1,1 @@
+{"name":"pcomp","vers":"0.5.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f1305a66f813577e21b2d26ea181a86cf4f322e9ba4ee465f7b03cfdd64648","features":{},"yanked":false,"pubtime":"2026-05-15T09:32:49Z"}

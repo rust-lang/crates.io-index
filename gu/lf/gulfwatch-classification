@@ -1,0 +1,1 @@
+{"name":"gulfwatch-classification","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5ed083b54bde7c5de8f776681983fcd8b6161c992f81058764df4457fc46f34","features":{},"yanked":false,"pubtime":"2026-04-23T17:33:10Z"}

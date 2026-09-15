@@ -1,0 +1,1 @@
+{"name":"exprkit","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"573b8e826a71f6582fdd9072beeca996f7932096874e227ca12958721e3ddc0e","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-23T07:11:31Z"}

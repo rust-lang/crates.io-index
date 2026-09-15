@@ -1,0 +1,1 @@
+{"name":"ed25519-wasm","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e1d634401db1c6dcb24bee161fc208d9cf49d97760618a6104e38e0301b7d09","features":{},"yanked":false,"pubtime":"2026-06-17T12:09:04Z"}

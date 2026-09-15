@@ -1,0 +1,1 @@
+{"name":"argh-env-shared","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e04f5550bf66e5ef3a4ae5f7303e4e6e22345e3b6cfdc303a7f396d5a7025bed","features":{},"yanked":false,"pubtime":"2026-06-29T01:51:27Z"}

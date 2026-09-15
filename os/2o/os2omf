@@ -1,0 +1,1 @@
+{"name":"os2omf","vers":"0.1.1","deps":[{"name":"bytemuck","req":"^1.24.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8954216c92fd216fc0dadec913193e1f974b73543a67a33beaf702536c989a6","features":{},"yanked":false,"pubtime":"2025-12-30T16:48:54Z"}

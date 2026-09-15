@@ -1,0 +1,1 @@
+{"name":"greentic-cap-guest","vers":"1.1.1","deps":[{"name":"wit-bindgen","req":"^0.54","features":["macros","realloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c03630af1851bbbcd321359c2edbb0538a1c1aa12d54da09e4a3a3f2c4b684d9","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-15T11:01:54Z"}

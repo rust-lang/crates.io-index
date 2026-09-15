@@ -1,0 +1,1 @@
+{"name":"scgf","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"58ada32be3e66688d31aa6b71d584bde5caf9eb027a64241588ff8e194a24ad9","features":{"default":["std"],"std":["thiserror/std"]},"yanked":false,"pubtime":"2026-07-02T08:32:02Z"}

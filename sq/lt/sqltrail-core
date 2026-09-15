@@ -1,0 +1,1 @@
+{"name":"sqltrail-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd8f06a9c45d1ca9c719c2a6a0ec05840ec12edadf0c6dd6e8cffebbc3128319","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-01T09:41:35Z"}

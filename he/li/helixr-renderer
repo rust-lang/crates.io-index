@@ -1,0 +1,1 @@
+{"name":"helixr-renderer","vers":"0.1.0","deps":[{"name":"raylib","req":"^6.0","features":["wayland","GLFW_BUILD_WAYLAND"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"131c7cc8a7b82d72d3c19f9750144131b0a30cc5ec27ff45920913e2d867c08a","features":{},"yanked":false,"pubtime":"2026-08-12T13:16:22Z"}

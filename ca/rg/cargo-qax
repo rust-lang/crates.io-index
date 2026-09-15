@@ -1,0 +1,4 @@
+{"name":"cargo-qax","vers":"0.1.0","deps":[],"cksum":"c34a7a017392cc744ac205bdf3e8bcc189c9b3c6edbb913dcd0578f517d4a07f","features":{},"yanked":false,"pubtime":"2026-07-05T00:39:38Z"}
+{"name":"cargo-qax","vers":"0.1.2","deps":[],"cksum":"86319c005a495cb7fa50445984ef7bff2b27e72fbdc1822f529bd06531da9da3","features":{},"yanked":false,"pubtime":"2026-07-05T05:07:20Z"}
+{"name":"cargo-qax","vers":"0.1.3","deps":[],"cksum":"1c3594620c921dc1fee0d717765af9825e0bff79a82af8d751b19ab6803bf49d","features":{},"yanked":false,"pubtime":"2026-07-05T19:55:35Z"}
+{"name":"cargo-qax","vers":"0.1.4","deps":[{"name":"qax-build","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cb59be68fe0407d82a1e67364e066e77f6be083f086a9442fe75d87bc0593eb","features":{},"yanked":false,"pubtime":"2026-07-07T01:16:28Z"}

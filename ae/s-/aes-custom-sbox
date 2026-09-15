@@ -1,0 +1,2 @@
+{"name":"aes-custom-sbox","vers":"1.0.0","deps":[],"cksum":"844367a5950a8fae4e53a1da21eb80eb635eb28eaf721135054ccd5753946212","features":{},"yanked":true,"pubtime":"2026-06-04T17:13:03Z"}
+{"name":"aes-custom-sbox","vers":"2.0.0","deps":[{"name":"aes","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0b189b1885cda0940f186f4ca2b2f1fedb1938b6512916bdca8b7986e4094182","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-16T11:35:28Z"}

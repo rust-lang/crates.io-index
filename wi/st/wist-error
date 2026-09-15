@@ -1,0 +1,1 @@
+{"name":"wist-error","vers":"0.1.2","deps":[{"name":"orion-error","req":"^0.8","features":["derive","serde_json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21ef56ce2924470f14b826458dce32f706c68f2123ad23b311cd9184b9dd5351","features":{},"yanked":false,"pubtime":"2026-09-14T14:14:10Z"}

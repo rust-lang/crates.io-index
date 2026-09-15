@@ -1,0 +1,1 @@
+{"name":"g2p2-core","vers":"0.2.0","deps":[{"name":"num2words2-core","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dc844d649415390b1c5859c783a46020ab3c342e44d2b9aa9d4f40e4cdb1272","features":{},"features2":{"numbers":["dep:num2words2-core"]},"yanked":false,"pubtime":"2026-07-17T17:17:34Z","v":2}

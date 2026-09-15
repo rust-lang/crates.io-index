@@ -1,0 +1,1 @@
+{"name":"yaml0","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcb2a120b46aec0b8bae0cdbfea4b1847a2f88eb7719ca1e5ba1ba7a0755fef2","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-10T17:53:58Z"}

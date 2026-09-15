@@ -1,0 +1,2 @@
+{"name":"gingembre-syntax","vers":"0.0.0","deps":[],"cksum":"9e555b63a34a897c9d08f140e177780779a916e732e062491b8064d8fdf854f3","features":{},"yanked":false,"pubtime":"2026-06-28T14:49:25Z"}
+{"name":"gingembre-syntax","vers":"0.0.1","deps":[{"name":"cstree","req":"^0.14.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8e238945397e0462a6f61ef050e63904bb9ed36249271d205f713605b9f6e64","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-28T16:18:38Z"}

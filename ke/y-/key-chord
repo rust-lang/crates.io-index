@@ -1,0 +1,1 @@
+{"name":"key-chord","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive","std"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"51c77b35c5bcda790d6ee8c4734e9b762c4505717c09d5bc32bfee2594df0307","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-08T04:35:52Z","v":2}

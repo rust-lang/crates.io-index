@@ -1,0 +1,1 @@
+{"name":"nato-opt","vers":"0.1.0","deps":[{"name":"tch","req":"^0.15.0","features":["download-libtorch"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e99e9cb761cee5d37da13074b03f9355532f694bcc4a0b2658cc369583478694","features":{},"yanked":false,"pubtime":"2026-09-10T09:06:21Z"}

@@ -1,0 +1,1 @@
+{"name":"llvm-in-rust-bitcode","vers":"0.1.0","deps":[{"name":"llvm-ir","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"llvm-in-rust-ir"}],"cksum":"3096895d4ba3ef9afc15de433f91ea6c6659ecb1ea5835843945cb3574597eaf","features":{},"yanked":false,"pubtime":"2026-05-13T17:37:15Z"}

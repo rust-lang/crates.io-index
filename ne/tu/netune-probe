@@ -1,0 +1,1 @@
+{"name":"netune-probe","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49d2fcc524498ba7ae0b520d928e9a2d0ce55e81bc7f85c78ebe7bbecc638a4c","features":{"inject":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-10T03:34:16Z"}

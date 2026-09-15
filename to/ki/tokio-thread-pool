@@ -1,0 +1,1 @@
+{"name":"tokio-thread-pool","vers":"1.0.0","deps":[{"name":"tokio","req":"^1.49.0","features":["rt-multi-thread","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d94c3392b98a14acc18fa639cb48e94355ed7aaae4a45164e394d6c4da39c9ec","features":{},"yanked":false,"pubtime":"2026-02-03T00:42:57Z"}

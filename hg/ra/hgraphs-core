@@ -1,0 +1,2 @@
+{"name":"hgraphs-core","vers":"0.1.0-alpha.1","deps":[],"cksum":"808b380701d40c2b938b27e8611c200a7d8bbb39d86ecfd653fdbc94421a62d6","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-06-29T01:21:00Z"}
+{"name":"hgraphs-core","vers":"0.1.0-alpha.2","deps":[],"cksum":"e53e21c1567b9915f83fdb5b6ea28bd7cb943d1aa5af6e5b62d6824d0cfe3097","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-08-31T19:13:15Z"}

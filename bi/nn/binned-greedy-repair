@@ -1,0 +1,2 @@
+{"name":"binned-greedy-repair","vers":"0.1.0","deps":[],"cksum":"7859fa810bd38a0feb03d2ad18ac3f421f91b4c5d57725c4af391dbda964d1a9","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-22T10:51:30Z"}
+{"name":"binned-greedy-repair","vers":"0.1.1","deps":[],"cksum":"46bc527182ac1a4dfe87969d7813ca0661e0c3ee540c764b2f980c54209e7f08","features":{"default":[],"portable-simd":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-22T11:39:44Z"}

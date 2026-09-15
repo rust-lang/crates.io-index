@@ -1,0 +1,1 @@
+{"name":"tpt-fem-amr","vers":"0.1.0","deps":[{"name":"tpt-fem-sparse","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abea362d1af9fe2798ba4f568a97ffbe747ea7e5f96bb7dfa0f04fd113cc4a6","features":{"default":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-22T23:32:19Z"}

@@ -1,0 +1,1 @@
+{"name":"luau-analyze","vers":"0.0.1","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d2c04160ee6165909d3ea2e7b81db9533e05db1a3cb1172d352b0f33fe44c9d6","features":{},"yanked":false,"links":"luau_analyze","rust_version":"1.85.0","pubtime":"2026-04-06T03:50:42Z"}

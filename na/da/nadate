@@ -1,0 +1,1 @@
+{"name":"nadate","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4","features":["std","clock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c745c57048a7d1cf82691babd58a164ae4bffe06cadb7310a6402e6fa0b6bf0c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-03T10:51:02Z"}

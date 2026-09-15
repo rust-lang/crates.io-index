@@ -1,0 +1,1 @@
+{"name":"tool-call-batcher","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bec9bd0b92f4e7cb020c10b0c2eb73b2e23b9533efa4c62c969f1acfff2d8330","features":{},"yanked":false,"pubtime":"2026-05-25T22:18:07Z"}

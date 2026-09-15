@@ -1,0 +1,1 @@
+{"name":"cadalloc","vers":"0.1.0","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"dev"}],"cksum":"f3eb0fde0216a6777c4dc6c923012d0e4dc347e4ba341a4e4b0d103010128e64","features":{"alloc":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-06T05:33:55Z"}

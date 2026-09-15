@@ -1,0 +1,1 @@
+{"name":"bext-nginx-shim","vers":"0.2.0","deps":[{"name":"nix","req":"^0.29","features":["signal","process"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25b64d5e3b89a4b466854d3ae59810ca30353d0b03d8d9aa45bd37c46d5d5b67","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-11T14:53:55Z"}

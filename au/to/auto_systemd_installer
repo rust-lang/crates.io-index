@@ -1,0 +1,1 @@
+{"name":"auto_systemd_installer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bfcec9ad738ffbb31c725c1940e28ff535f34ee1facf65ed247603bcf43124e","features":{},"yanked":false,"pubtime":"2026-03-16T00:03:46Z"}

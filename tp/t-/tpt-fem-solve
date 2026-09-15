@@ -1,0 +1,1 @@
+{"name":"tpt-fem-solve","vers":"0.1.0","deps":[{"name":"tpt-fem-sparse","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afdbffa5f2ad6f49405f770870d032b4215022bb6e9d5b63c9f15f3c9a8b3a96","features":{"default":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-22T23:21:35Z"}

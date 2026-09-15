@@ -1,0 +1,1 @@
+{"name":"flux-proto","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.49.0","features":["net","rt","macros","io-util","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a57e6f9bcb409e8606bf22a1cd4a0ce24a9415fb7ae4f0e5e7505a96a1b4b36","features":{},"yanked":false,"pubtime":"2026-05-08T10:26:37Z"}

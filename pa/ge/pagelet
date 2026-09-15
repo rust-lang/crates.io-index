@@ -1,0 +1,1 @@
+{"name":"pagelet","vers":"0.1.0","deps":[{"name":"miniz_oxide","req":"^0.8.9","features":["with-alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"262901b55032cb26d15d8d7f3b5729893ba2ec0d0505bfdbc471499e5bf5abc2","features":{"default":[],"native-shaping":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-13T16:20:38Z"}

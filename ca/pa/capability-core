@@ -1,0 +1,1 @@
+{"name":"capability-core","vers":"0.2.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fa9e4ab511b0ecd5910e7122a0e0456d9940f8a1bb176618f847693ef4d38ab","features":{},"yanked":false,"pubtime":"2026-07-02T19:16:56Z"}

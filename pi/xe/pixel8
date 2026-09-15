@@ -1,0 +1,1 @@
+{"name":"pixel8","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.150","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"24fa4a9d5c64ac5783de53769d4d7fea1fe3c0bf1b331ae14935613fef91328d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-14T11:04:28Z"}
