@@ -6,3 +6,4 @@
 {"name":"reliary-dead","vers":"0.6.3","deps":[],"cksum":"ab90d50eeae84006716bf16867b083f50997a68554273cbcc0931a3e58f4e0a2","features":{},"yanked":false,"pubtime":"2026-06-18T06:19:34Z"}
 {"name":"reliary-dead","vers":"0.6.5","deps":[],"cksum":"859ca216241172c35f8c8f9b48f8f950ef7e02917ee34d3cc3763faf58efbc23","features":{},"yanked":false,"pubtime":"2026-06-20T10:35:07Z"}
 {"name":"reliary-dead","vers":"0.8.0","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9acbf61d031b8ec6e2520572c96c02be503a2468cf8dc16745770a24777cf3","features":{},"yanked":false,"pubtime":"2026-09-15T21:05:59Z"}
+{"name":"reliary-dead","vers":"0.8.1","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62be983c28ef06bbb34063f70cea200883e458508fbed1e73108898144d154cc","features":{},"yanked":false,"pubtime":"2026-09-15T23:06:34Z"}
