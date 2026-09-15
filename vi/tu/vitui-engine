@@ -1,1 +1,2 @@
 {"name":"vitui-engine","vers":"0.0.1","deps":[],"cksum":"1254d4e87f8c29c8c50daaa3e6ed0a0dcf4253acb922729966923f0c211631cb","features":{},"yanked":false,"pubtime":"2026-09-11T08:02:54Z"}
+{"name":"vitui-engine","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.29","features":["bracketed-paste","events","windows"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"124c056e045a51a7410e54a3bba20c253e36addf1735498166b0003bbd4df6fb","features":{"fuzz":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-15T22:09:40Z"}
