@@ -1,0 +1,1 @@
+{"name":"robonomics-chain-spec","vers":"50.0.0","deps":[{"name":"serde_json","req":"^1.0.138","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"e1176a530eff16f502f4d16913666487697cc5cfedf8065bd839c35bb90edc3c","features":{},"yanked":false,"pubtime":"2026-09-15T15:08:49Z"}
