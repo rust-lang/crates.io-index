@@ -1,0 +1,1 @@
+{"name":"simplefm","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.34","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4c9e88a4afa18d70cdb5b735868d5cf9b3301b61cd8332ff9274d326cc7f206","features":{},"features2":{"default":["logging"],"logging":["dep:log"]},"yanked":false,"pubtime":"2026-09-15T16:55:39Z","v":2}
