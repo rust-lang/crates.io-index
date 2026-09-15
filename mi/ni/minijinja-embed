@@ -45,3 +45,4 @@
 {"name":"minijinja-embed","vers":"2.23.0","deps":[],"cksum":"dcf3826a94042a2089fa7c894c2574c9a6ea92a26e729dca3c04e61c52d78280","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-06T17:46:33Z"}
 {"name":"minijinja-embed","vers":"2.24.0","deps":[],"cksum":"c2795289c499a1331f73166ff8b8e0e68fdc81ef0b385eecb0e4de96f1638b66","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-12T17:22:57Z"}
 {"name":"minijinja-embed","vers":"3.0.0-alpha.0","deps":[],"cksum":"212ab5c9c5a76ed49a85eec26fd82abf24b7b5ad067dfc6c39fceb8163dac1ff","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-12T17:57:14Z"}
+{"name":"minijinja-embed","vers":"3.0.0-alpha.1","deps":[],"cksum":"e4a66eaf949e6a3f130e53f238e4ac9bc392b19fa78a196af59bb779aa53bcc7","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-15T23:10:27Z"}
