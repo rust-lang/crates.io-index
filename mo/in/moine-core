@@ -3,3 +3,4 @@
 {"name":"moine-core","vers":"0.2.0","deps":[],"cksum":"6bae381493b063b9053ad8188cc203da83f5f10ef6bf2b52a12ca80d3fd94a1d","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-16T00:05:18Z"}
 {"name":"moine-core","vers":"0.2.1","deps":[],"cksum":"28b1c0c32973a2cf708c5a18144330aa792e578946f07fead1567834774c85b5","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-21T13:21:55Z"}
 {"name":"moine-core","vers":"0.2.2","deps":[],"cksum":"81e41b7dd02ac6aa2bf454d9d4ee0f2544bfd9ef2aa0ce2f8c683dec3014002c","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-20T13:26:25Z"}
+{"name":"moine-core","vers":"0.2.3","deps":[{"name":"proptest","req":"^1.11.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"57bb7436b10ff545fd1d65634be76eb2e40240eea9deab2c325e56655a255b4c","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-09-16T00:01:32Z"}
