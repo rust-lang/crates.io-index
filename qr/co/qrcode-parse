@@ -1,2 +1,3 @@
 {"name":"qrcode-parse","vers":"2.0.0","deps":[],"cksum":"84f6484a2329e87b5a4b21c983d68bee32a442087287c0679efe782689ee469a","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-15T08:42:04Z"}
 {"name":"qrcode-parse","vers":"2.1.0","deps":[],"cksum":"0726e7e2acd6335b63936ba1d784361765313f53274942efb0636407e882fdc9","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-07T05:38:48Z"}
+{"name":"qrcode-parse","vers":"2.1.1","deps":[],"cksum":"1ae80b5d21e40035a88f449e2031985522de0d6a2c16bbfacc75b983698bf731","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-16T04:10:21Z"}
