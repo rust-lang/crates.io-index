@@ -2,3 +2,4 @@
 {"name":"x86_intr","vers":"0.1.0","deps":[],"cksum":"389c587213adbae4a7b50e6e6b09550d279c236d2224d24d3a9a3a34079186c2","features":{},"yanked":true,"rust_version":"1.87","pubtime":"2026-09-02T00:02:42Z"}
 {"name":"x86_intr","vers":"0.1.1","deps":[],"cksum":"f5b551d018eac68a4b482af6f7ee15db060489cfe4662af02dc08d8e86985e42","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-02T20:18:00Z"}
 {"name":"x86_intr","vers":"0.1.2","deps":[],"cksum":"deb103e318d3a575fefdefb6c4a30cffbb6221c87c59b6910f87caa08754cd3c","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-16T00:21:20Z"}
+{"name":"x86_intr","vers":"0.1.3","deps":[],"cksum":"26a64bc3ebb8fda008db51c5faf1225b99ea77fd5fc4cf443884151d24d23764","features":{},"yanked":false,"rust_version":"1.72","pubtime":"2026-09-16T10:40:45Z"}
