@@ -1,0 +1,1 @@
+{"name":"exav-x86","vers":"0.0.1","deps":[{"name":"iced-x86","req":"^1","features":["std","decoder","instr_info"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4a817f4dd9f21241a7618b28adc6c768f5727734c7e16d360f30e6dd968bfbcc","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-09-16T16:44:42Z"}
