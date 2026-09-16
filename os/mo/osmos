@@ -1,0 +1,1 @@
+{"name":"osmos","vers":"0.1.1","deps":[],"cksum":"1321e17680612b03041ee9c1b6c9db56af5f77c75004c64707a15b572ee93e48","features":{"alloc":[],"default":[],"parallel":["std"],"std":["alloc"],"wasm-exports":[]},"yanked":false,"pubtime":"2026-09-16T08:20:01Z"}
