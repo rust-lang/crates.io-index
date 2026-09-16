@@ -1,2 +1,3 @@
 {"name":"amiga-ffs","vers":"0.2.0","deps":[],"cksum":"aebef02b38763e4f9969ad9efe45d284e939702a2b32fa4620e8653ff6eac47f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-07T16:55:02Z"}
 {"name":"amiga-ffs","vers":"0.3.0","deps":[],"cksum":"2052b2bf0af9369e533931922d3e7fabf3ab0bde3e0312d7069eb306379ad948","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-09T15:39:22Z"}
+{"name":"amiga-ffs","vers":"0.4.0","deps":[],"cksum":"9fc1d1ea66f80d3a991047832c6e49f66f9e2b2b1fdeb4412345f95b4f73fbd3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-09-16T11:41:16Z"}
