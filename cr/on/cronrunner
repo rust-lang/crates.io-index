@@ -16,3 +16,4 @@
 {"name":"cronrunner","vers":"2.16.0","deps":[],"cksum":"744a15d2d80732d3f362badb64773939999c1e47760cc62f7e57b0f796dae7d9","features":{},"yanked":false,"pubtime":"2026-07-16T19:36:00Z"}
 {"name":"cronrunner","vers":"2.16.1","deps":[],"cksum":"5aa62e95d1e45d07fd0510625c22d8a6debf7d34f65a70ab4cbc5b00c15dee9c","features":{},"yanked":false,"pubtime":"2026-08-07T16:20:30Z"}
 {"name":"cronrunner","vers":"2.17.0","deps":[],"cksum":"42389f8fb52a05b066b05204b4da59db6964a8c58e7a5e871a1438f616110f70","features":{},"yanked":false,"pubtime":"2026-08-23T14:44:28Z"}
+{"name":"cronrunner","vers":"2.18.0","deps":[{"name":"lessify","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54c214f6df986b574b48ebeedf90eb4ee9a04a2e45929170c43b92ddd8dffce0","features":{},"yanked":false,"pubtime":"2026-09-17T15:04:42Z"}
