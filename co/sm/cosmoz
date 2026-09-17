@@ -1,0 +1,1 @@
+{"name":"cosmoz","vers":"0.1.0","deps":[],"cksum":"6dbb1a774049ae9d1e1e956840ecee8b801047cd803620a308950bb3e1cccb76","features":{"alloc":[],"checksum":[],"default":["levels","checksum","encoder"],"encoder":[],"levels":[],"parallel":["std"],"std":["alloc"],"wasm-exports":[]},"yanked":false,"pubtime":"2026-09-17T06:53:03Z"}
