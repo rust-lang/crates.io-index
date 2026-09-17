@@ -23,3 +23,4 @@
 {"name":"weaveffi-abi","vers":"0.20.1","deps":[],"cksum":"5cb86fd98cdb8e11b77236a348ec7420b41d88a52b53f7e0b10ada67cf32f167","features":{},"yanked":false,"pubtime":"2026-08-31T18:39:05Z"}
 {"name":"weaveffi-abi","vers":"0.21.0","deps":[],"cksum":"7e9f2a951518508cf0ae7da7117cc15d2abebf5d541be0cfff48d9e8cd59948f","features":{},"yanked":false,"pubtime":"2026-09-02T06:16:13Z"}
 {"name":"weaveffi-abi","vers":"0.22.0","deps":[],"cksum":"d95dfc407a14607c87ccd24a0cb26bf24c7c33e9d7e5f714553f75d4577ceaee","features":{},"yanked":false,"pubtime":"2026-09-03T04:04:53Z"}
+{"name":"weaveffi-abi","vers":"0.23.0","deps":[{"name":"proptest","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"28044c1ec2a006fccea6d66b83492c3181230bc36c7f13f3b244cd493bd6a64c","features":{},"yanked":false,"pubtime":"2026-09-17T03:43:11Z"}
