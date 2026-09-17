@@ -1,2 +1,0 @@
-{"name":"nexment-cli","vers":"0.1.0","deps":[],"cksum":"7fc96cb8e2bb8d5d69d5748093e77cb99b398ec1836993c6cbade25429a35237","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-09-17T03:58:00Z"}
-{"name":"nexment-cli","vers":"0.1.1","deps":[{"name":"clivo","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"872f89e4faeb3ca9dcb03aad687e963e932fde8cfece7d34a7fcd89ca2cdec75","features":{},"yanked":false,"pubtime":"2026-09-17T04:15:23Z"}
