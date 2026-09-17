@@ -8,3 +8,4 @@
 {"name":"derive_codec_sv2","vers":"1.1.1","deps":[{"name":"binary_codec_sv2","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"924f288d967a5cd37956b195269ee7f710999169895cf670a736e1b2267d6137","features":{},"yanked":false,"pubtime":"2024-12-27T17:36:04Z"}
 {"name":"derive_codec_sv2","vers":"1.1.2","deps":[],"cksum":"40d67b9d87d96ca3b35000ad98ac7d940ebf8f93527229c5fc0938b0a013ea9e","features":{},"yanked":false,"pubtime":"2025-11-25T21:26:25Z"}
 {"name":"derive_codec_sv2","vers":"1.1.3","deps":[],"cksum":"28ca1b57bc0bbc0a32af43d0a0430be887bf1c94ce1a25d3a885a9c17978342f","features":{},"yanked":false,"pubtime":"2026-07-08T16:10:53Z"}
+{"name":"derive_codec_sv2","vers":"2.0.0","deps":[],"cksum":"05768350591ccb368bd0ec96dc9ca27ca6a04a4cc298718f139e323c27a89835","features":{},"yanked":false,"pubtime":"2026-09-17T13:23:08Z"}
