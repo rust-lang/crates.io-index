@@ -1,2 +1,3 @@
 {"name":"spudbox","vers":"1.0.0","deps":[],"cksum":"a8d397da788c099f8ddee108973351128da0ed7e74e32022c8911f8b02d90213","features":{"arena":[],"default":["arena","vecset"],"no-prelude":[],"vecset":[]},"yanked":false,"pubtime":"2026-09-17T11:34:59Z"}
 {"name":"spudbox","vers":"1.0.1","deps":[],"cksum":"bbd578ad6735eaef62f2d1ecfc8ba52f4514803a015429d1adaea7ed185a4f35","features":{"arena":[],"default":["arena","vecset"],"no-prelude":[],"vecset":[]},"yanked":false,"pubtime":"2026-09-17T11:37:30Z"}
+{"name":"spudbox","vers":"1.0.2","deps":[],"cksum":"32d89669199111697d00b65e055725efbb121fdc06f88c6e42dc77221f9641f9","features":{"arena":[],"default":["arena","vecset"],"no-prelude":[],"vecset":[]},"yanked":false,"pubtime":"2026-09-17T11:40:33Z"}
