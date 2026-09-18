@@ -1,3 +1,4 @@
 {"name":"gwz-copy-contract","vers":"0.0.2","deps":[],"cksum":"3adf603c9d26f102db0beb9e9e2d3232c63977e6d987251200d02d865e6d9bdc","features":{"contract-tests":[]},"yanked":true,"rust_version":"1.95","pubtime":"2026-09-12T21:03:34Z"}
 {"name":"gwz-copy-contract","vers":"0.0.3","deps":[],"cksum":"6349b3f918939c5d1f2020df8746fb1bf492ba030410ea8323ce6298e86ed9d4","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-14T01:42:07Z"}
 {"name":"gwz-copy-contract","vers":"0.0.4","deps":[],"cksum":"c2a5c60caa4982f0b43ae7689c5bedd806c5e3ae92a1ca0e9d27d67f37c228c3","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-16T12:24:04Z"}
+{"name":"gwz-copy-contract","vers":"0.0.5","deps":[],"cksum":"7c0ef2eaacf634f3d2bf4b1121745a08b5bfcdf21821854f5ae317a9cd165087","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-18T00:32:04Z"}
