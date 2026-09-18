@@ -1,1 +1,2 @@
 {"name":"fiducial-protocol","vers":"0.1.0","deps":[],"cksum":"c6d5e7e797dca844c0bd4bc6fb6bf8ace749d9bfd0a8c0a22421797f7084f707","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-16T15:43:47Z"}
+{"name":"fiducial-protocol","vers":"0.2.0","deps":[],"cksum":"f61d652e0a0fe9e349a82e2dea6e57dbd8ba54e6f3cf03a1286510197351df76","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-18T08:23:40Z"}
