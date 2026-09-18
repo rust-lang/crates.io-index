@@ -1,3 +1,4 @@
 {"name":"cme-interp","vers":"0.1.0","deps":[],"cksum":"a7b851f2ea5cd2e22bdfb8a241ca823e957c720129f80347cfc69798cbef1aee","features":{},"yanked":false,"pubtime":"2026-08-29T10:45:29Z"}
 {"name":"cme-interp","vers":"0.2.0","deps":[],"cksum":"9dd80170f3e51b97632e3dc78c575d7ec2d6736af9bb2b3961bb748c2fb45301","features":{},"yanked":false,"pubtime":"2026-09-04T12:39:38Z"}
 {"name":"cme-interp","vers":"0.3.0","deps":[{"name":"cme-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b599b95007d0b7cce60d4c99a5f2018108ebdfdbbfc7e33399635874e6b392ad","features":{},"yanked":false,"pubtime":"2026-09-13T13:39:53Z"}
+{"name":"cme-interp","vers":"0.4.0","deps":[{"name":"cme-core","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6942052a55ed52e9d7aca5582e5d2f2178b43f3bd6e0ddb24df8767ab8882b1b","features":{},"yanked":false,"pubtime":"2026-09-18T15:18:15Z"}
