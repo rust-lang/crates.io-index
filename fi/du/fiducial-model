@@ -1,1 +1,2 @@
 {"name":"fiducial-model","vers":"0.1.0","deps":[],"cksum":"737931e322476541f7c14cee48c8765df8daa196716e40a1f7fb9586a8782d0a","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-16T14:28:59Z"}
+{"name":"fiducial-model","vers":"0.2.0","deps":[],"cksum":"9310177f50a99c619f76c9d80189a67681e81e8d097090c0a3825a4318c1e8fe","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-18T08:23:40Z"}
