@@ -1,0 +1,1 @@
+{"name":"hiding","vers":"0.1.0","deps":[{"name":"zeroize","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"305893567108cf757a11a4c43c8431cf7cc96219cbfc0e865d657bcd61d07787","features":{"alloc":["zeroize/alloc"],"default":["alloc"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-18T20:24:28Z"}
