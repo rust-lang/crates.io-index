@@ -2,3 +2,4 @@
 {"name":"gwz-repo-contract","vers":"0.0.3","deps":[],"cksum":"bbb12e6b08083fdafa0082cb9655dba3a545af27372cf52b587461bf8659a5e0","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-14T01:42:19Z"}
 {"name":"gwz-repo-contract","vers":"0.0.4","deps":[],"cksum":"6db7baa23a47f88bc6a819e9929f8f60e908eed175c2c230e95222713ec94754","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-16T12:24:14Z"}
 {"name":"gwz-repo-contract","vers":"0.0.5","deps":[],"cksum":"83d6397783e573f72a57c7939482286d2a8bf748dd1ed54109938af70079a64b","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-18T00:32:15Z"}
+{"name":"gwz-repo-contract","vers":"0.0.7","deps":[],"cksum":"63e7536ee2475663df443973fc43c235df1775c82298e69080fd637ef4b085d6","features":{"contract-tests":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-18T05:15:23Z"}
