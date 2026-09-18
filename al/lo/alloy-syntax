@@ -4,3 +4,4 @@
 {"name":"alloy-syntax","vers":"0.1.0-rc.4","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f56dd901fbc49749000057be07004ec6759310e8bb2241dbc3bf31af0df46d94","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-12T03:15:09Z"}
 {"name":"alloy-syntax","vers":"0.1.0-rc.5","deps":[],"cksum":"28fdeac7d0363d071f624c5540f38e3d1183394ee1ead5f0480e81e49c0118a9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-15T04:04:53Z"}
 {"name":"alloy-syntax","vers":"0.1.0-rc.6","deps":[],"cksum":"f10b9e43e43039de33884e6d1eb9cb6250a60151f3d3c1f54affff02d5ecfeaa","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-18T03:10:15Z"}
+{"name":"alloy-syntax","vers":"0.1.0-rc.7","deps":[],"cksum":"3f45779e77267977b0388d15764ac7c884e59f8894f5496d446ea4e27a16138e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-18T03:43:47Z"}
