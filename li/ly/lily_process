@@ -1,0 +1,1 @@
+{"name":"lily_process","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cde1b195e12ec90ba095d4617eba259b57d32c5d28cd97bd8d119a716243a819","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-09-18T12:04:03Z"}
