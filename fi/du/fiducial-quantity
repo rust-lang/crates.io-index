@@ -1,1 +1,2 @@
 {"name":"fiducial-quantity","vers":"0.1.0","deps":[],"cksum":"90371f6f4b1f4191b5705cda3dcdb3ac7ecbe23ba0ff163977d4316e1f713213","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-16T15:43:47Z"}
+{"name":"fiducial-quantity","vers":"0.2.0","deps":[],"cksum":"529f40c101a354f848ca70a1b43b1adc163c630248fe8a2179ef7b23bbce690c","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-18T08:23:40Z"}
