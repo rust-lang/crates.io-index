@@ -2,3 +2,4 @@
 {"name":"rux-fmt","vers":"0.6.0","deps":[],"cksum":"e174015a3145e3c2b1b2c08fcdde7bfe8fdd5e5beda90257b88657aef5509c6d","features":{},"yanked":false,"pubtime":"2026-08-14T11:36:17Z"}
 {"name":"rux-fmt","vers":"0.6.1","deps":[],"cksum":"ddbb55004d6e2c7b45b6e2e73f52f4dc343da2ab8453c986ac5db1fe9dd0b7bd","features":{},"yanked":false,"pubtime":"2026-08-15T09:14:10Z"}
 {"name":"rux-fmt","vers":"0.7.0","deps":[],"cksum":"a13a40ab49fb3a68a3b95c9dff912d1bdd201a61aba3819ee89e8c08feae1832","features":{},"yanked":false,"pubtime":"2026-08-21T07:55:39Z"}
+{"name":"rux-fmt","vers":"0.7.1","deps":[{"name":"rux-parser","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f80f09d94064e1779432899d0b3fa816680c51950b110efc71f4995466c8148","features":{},"yanked":false,"pubtime":"2026-09-19T06:43:10Z"}
