@@ -1,0 +1,1 @@
+{"name":"ferrlabs-ratelimit","vers":"2.0.0","deps":[{"name":"dashmap","req":"^6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0d96b0ef9f2ddfc10f4d0ce5a6c753de3e8cb7b340f8ea272d09ced2cc20745","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-20T14:40:01Z"}
