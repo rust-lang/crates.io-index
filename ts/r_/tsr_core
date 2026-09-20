@@ -1,1 +1,2 @@
 {"name":"tsr_core","vers":"0.0.0","deps":[],"cksum":"70b4bbe47614f72fb0b3ed8103a2d6c341697edab6dab31bc753941a555352cc","features":{},"yanked":false,"pubtime":"2026-09-20T06:19:22Z"}
+{"name":"tsr_core","vers":"0.1.0","deps":[{"name":"tsr_jsstring","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9733ebea6d019a2f2f7dcc9031557aa589ee5496372285bff57caa2a162819","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-20T07:58:34Z"}
