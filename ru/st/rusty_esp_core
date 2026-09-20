@@ -1,1 +1,2 @@
 {"name":"rusty_esp_core","vers":"0.1.0","deps":[],"cksum":"7deaf46f2f7551905494506d4614d47ee00c39b97e1e7d6e3acfa21ce0af0142","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-16T12:29:04Z"}
+{"name":"rusty_esp_core","vers":"0.1.1","deps":[],"cksum":"dade06539bd3acdef43b241644f3de1723beb1371cc43d1f402578fdffdb928a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-20T21:30:13Z"}
