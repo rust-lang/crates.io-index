@@ -1,3 +1,4 @@
 {"name":"elfex","vers":"0.1.0","deps":[],"cksum":"b36aace49e976b026555ad34b269446c679d7a633cde890919ea10b59154c91c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-18T09:13:10Z"}
 {"name":"elfex","vers":"0.1.1","deps":[],"cksum":"fa8c8c3800feaeb6e0931ba9fc3be8ccec6b1a1ffaf94a782add1cdcb2b13efa","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-19T02:24:22Z"}
 {"name":"elfex","vers":"0.2.0","deps":[],"cksum":"b7a91b12b3810dca96b42000536bacb7f729490ac82c83be9386e2bb404bd351","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-19T02:42:49Z"}
+{"name":"elfex","vers":"0.2.1","deps":[],"cksum":"6d26d69a44e99bbafb341f12d27fbde7fd3e0218f7573aaebaf8f19b660bce62","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-20T02:58:49Z"}
