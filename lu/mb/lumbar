@@ -1,0 +1,1 @@
+{"name":"lumbar","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47525002f60a1fb435ca4b5587a566c4feb97b3e2d935f201e84fb3b9e3e7563","features":{"default":["patterns"],"patterns":[]},"yanked":false,"pubtime":"2026-09-20T23:53:15Z"}
