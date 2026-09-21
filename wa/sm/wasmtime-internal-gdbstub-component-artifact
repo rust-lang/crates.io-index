@@ -20,3 +20,4 @@
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"48.0.1","deps":[],"cksum":"fc0db736def93f6b791033a4154b3b90d4c1504896f93e2d5c0133ee8e0abf8c","features":{},"yanked":false,"pubtime":"2026-08-24T20:00:06Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"49.0.0-rc.1","deps":[],"cksum":"6f436ef8d3772065aa1ac3d01cbefdf80a0c96bc387ec8e112ac85aef748932e","features":{},"yanked":false,"pubtime":"2026-09-05T04:41:24Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"48.0.2","deps":[],"cksum":"cb623b58350edef98c515ea25009c507c96e3d4d38c02d8ec82b11a5534dbf6f","features":{},"yanked":false,"pubtime":"2026-09-10T19:17:35Z"}
+{"name":"wasmtime-internal-gdbstub-component-artifact","vers":"49.0.0","deps":[],"cksum":"ab272d7d0ca41a44392ed8a9e39135fc698170cdca2696b14feb3db523038368","features":{},"yanked":false,"pubtime":"2026-09-21T15:30:03Z"}
