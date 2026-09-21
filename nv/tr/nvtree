@@ -1,2 +1,3 @@
 {"name":"nvtree","vers":"0.0.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c34fc10e2f820bebba12bee9924ca751b71c36b49f7e53dda7dba4b3303738de","features":{},"yanked":false,"pubtime":"2026-02-21T23:49:26Z"}
 {"name":"nvtree","vers":"0.0.2","deps":[],"cksum":"b6c6b57855e3bad4ab9449abb49c72351fd72e261232c6e856e8424137bd4a95","features":{},"yanked":false,"pubtime":"2026-03-02T17:34:36Z"}
+{"name":"nvtree","vers":"0.0.3","deps":[],"cksum":"ff62b10978c75396bb60f6b42096625e8741a2efb35df16e966c408120c43ba5","features":{},"yanked":false,"pubtime":"2026-09-21T00:07:38Z"}
