@@ -4,3 +4,4 @@
 {"name":"daemonic_error","vers":"0.1.3","deps":[],"cksum":"d1f6d58e59d7acb40769a3c280557286a73d8f61b2873f825148fa357581178f","features":{"DaemonicCompiler":[]},"yanked":true,"rust_version":"1.88.0","pubtime":"2026-08-16T07:53:38Z"}
 {"name":"daemonic_error","vers":"0.2.0","deps":[],"cksum":"616990431bfded6c00a5ba90be0980d85ee89a743f1bf3d956c9d2ba58207641","features":{"DaemonicCompiler":[]},"yanked":true,"rust_version":"1.88.0","pubtime":"2026-08-22T03:18:34Z"}
 {"name":"daemonic_error","vers":"0.2.1","deps":[],"cksum":"be161b1f7dc57a2755da5092e4a9f3000440153d498a71f8529a8ae5afb3b633","features":{"DaemonicCompiler":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-29T09:14:17Z"}
+{"name":"daemonic_error","vers":"1.0.0","deps":[],"cksum":"fe1b5efd29d9f7219d86d2a9ff1673a347edd11bf378825c1fd7a102e06d9664","features":{"DaemonicCompiler":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-21T08:39:12Z"}
