@@ -4,3 +4,4 @@
 {"name":"degenbot-pathfinding","vers":"0.6.0-alpha.9","deps":[],"cksum":"d4a0c6b5eb9033eaa13a5377f1a8781b0e2f8935b598fbc57eca988d536f576a","features":{},"yanked":false,"pubtime":"2026-09-08T17:36:10Z"}
 {"name":"degenbot-pathfinding","vers":"0.6.0-alpha.10","deps":[],"cksum":"f976c7a50fc731f0f943857d9ba47643d0a5f454731c3c3135769b13be643ce3","features":{},"yanked":false,"pubtime":"2026-09-11T20:21:55Z"}
 {"name":"degenbot-pathfinding","vers":"0.6.0-alpha.11","deps":[],"cksum":"eddbccf4c62496c5d26884e49224bb851e8208c41663f2835c7a8ce2a267ebd7","features":{},"yanked":false,"pubtime":"2026-09-15T18:31:11Z"}
+{"name":"degenbot-pathfinding","vers":"0.6.0-alpha.12","deps":[{"name":"criterion","req":"^0.8","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"bcbe16b70fb316d4e7344e4298d0b2fde01626beb9ca4b2cc373a61912f0db3c","features":{},"yanked":false,"pubtime":"2026-09-21T18:52:51Z"}
