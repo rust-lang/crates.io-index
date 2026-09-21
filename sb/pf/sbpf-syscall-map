@@ -6,3 +6,4 @@
 {"name":"sbpf-syscall-map","vers":"0.2.3","deps":[],"cksum":"b21ac8ed19e92627dd0374ec185d1863168959bfa74bb4d202ee0e40a7f2366b","features":{},"yanked":true,"pubtime":"2026-07-16T02:47:19Z"}
 {"name":"sbpf-syscall-map","vers":"0.2.4","deps":[],"cksum":"c53d3d9ed9653c340574da793dba04cfce285cbe3623149d3dd60c1de3650b2b","features":{},"yanked":false,"pubtime":"2026-07-16T03:09:25Z"}
 {"name":"sbpf-syscall-map","vers":"0.3.0","deps":[],"cksum":"202af16eb6a4606a84ac18500eb3e44465289f63e56f43445f6e8581cdeeed19","features":{},"yanked":false,"pubtime":"2026-08-10T05:21:04Z"}
+{"name":"sbpf-syscall-map","vers":"0.3.1","deps":[],"cksum":"d7721fdf61d263c8013703dbea3d6d6c80d0226380e8a25311c4a2517085a5e7","features":{},"yanked":false,"pubtime":"2026-09-21T02:11:18Z"}
