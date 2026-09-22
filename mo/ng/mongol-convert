@@ -1,0 +1,1 @@
+{"name":"mongol-convert","vers":"0.7.0","deps":[{"name":"zvvnmod-utn57","req":"=0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffb44486b70a9d44d9e5b7b63f8fa436a24bc6eb979b03c20a58d8f83d269293","features":{"default":[],"utn57-command":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-22T02:28:00Z"}
