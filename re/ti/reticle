@@ -1,0 +1,1 @@
+{"name":"reticle","vers":"0.0.0","deps":[],"cksum":"0074fafbd14066d9396533da8d7f6747fda6e49c367bc2a01be605f5933b1b90","features":{"asic":["synth"],"cli":[],"default":["verilog","vhdl","sim","synth","cli"],"formal":[],"fpga":["synth"],"lsp":[],"sim":[],"synth":[],"verilog":[],"vhdl":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-22T03:22:00Z"}
