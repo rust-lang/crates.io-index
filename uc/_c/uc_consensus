@@ -2,3 +2,4 @@
 {"name":"uc_consensus","vers":"2.10.0","deps":[],"cksum":"0e972e80739cd5e9df9acaad0a1a525809aab9b070bae46201e138861c394ee4","features":{"mutation-testing":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-31T20:34:58Z"}
 {"name":"uc_consensus","vers":"2.11.0","deps":[],"cksum":"a3254d326dc41d501de704b28e9e3abe220ce7be18149fc498fd513ea1be3f84","features":{"mutation-testing":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-08T18:41:25Z"}
 {"name":"uc_consensus","vers":"2.12.0","deps":[],"cksum":"16db639156841e803770e9681e3ff9380898ba4c1946b6f87a906f2f4272d6b5","features":{"mutation-testing":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-13T17:43:27Z"}
+{"name":"uc_consensus","vers":"2.13.0","deps":[],"cksum":"67bf2e2ea80ca0daee1496095e14921ac4591f997e6d554fec1ec42296b44175","features":{"mutation-testing":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-22T11:53:33Z"}
