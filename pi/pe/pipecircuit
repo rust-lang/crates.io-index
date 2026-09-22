@@ -1,1 +1,2 @@
 {"name":"pipecircuit","vers":"0.0.0","deps":[],"cksum":"5fad12958a51b81d6c3e694b38f45438419b9978287f37a2781cb0ec4b634bfa","features":{},"yanked":false,"pubtime":"2026-09-13T03:03:45Z"}
+{"name":"pipecircuit","vers":"0.0.1","deps":[{"name":"trybuild","req":"^1.0.119","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"603d23443c87fed8ff2ecba901765c7ed4fe4d2b258b3b39d5dbd48a842e544c","features":{"default":[]},"yanked":false,"pubtime":"2026-09-22T22:48:56Z"}
