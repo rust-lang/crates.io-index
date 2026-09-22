@@ -13,3 +13,4 @@
 {"name":"sql-dialect-fmt-encoding","vers":"1.22.0","deps":[],"cksum":"2a8afbdbd41b0902d6506e73cf9f6cd703dc09ffc3acfa4f39213c9644805c2b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T09:48:58Z"}
 {"name":"sql-dialect-fmt-encoding","vers":"1.22.1","deps":[],"cksum":"4c5ce8d1ab61e02a3178c08c8704ff041bda2a609656ff679a80b8508edc606d","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T11:38:59Z"}
 {"name":"sql-dialect-fmt-encoding","vers":"1.22.2","deps":[],"cksum":"827cb3371cff429c30a7fe41cb9c6921c752b1f28e39de069ff454bce1e4abc5","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T14:55:22Z"}
+{"name":"sql-dialect-fmt-encoding","vers":"1.22.3","deps":[],"cksum":"e844d2c9495dbf9da821d6588be3cde09aaf23147d08ba3c821d1a6f9ff6c317","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-22T02:33:24Z"}
