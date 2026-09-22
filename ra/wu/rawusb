@@ -1,1 +1,2 @@
 {"name":"rawusb","vers":"0.1.0","deps":[],"cksum":"ba4d57a57e4a19e0a786ab07da9ecfc933997bf18bce4d009f3abe21b1968991","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-22T03:48:18Z"}
+{"name":"rawusb","vers":"0.1.1","deps":[],"cksum":"0b452918015cba60b96715e240c3adbaf3268c545c664b220d50d7f49597f27b","features":{"default":[],"hotplug":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-22T06:54:04Z"}
