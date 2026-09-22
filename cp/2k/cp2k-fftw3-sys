@@ -1,0 +1,1 @@
+{"name":"cp2k-fftw3-sys","vers":"0.3.0","deps":[{"name":"cp2k-build-utils","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bec3694c1b550d3914fac219f22159c2235b09163ddc34e9c7392e53be7e53ba","features":{},"yanked":false,"links":"cp2k_fftw3","pubtime":"2026-09-22T14:43:04Z"}
