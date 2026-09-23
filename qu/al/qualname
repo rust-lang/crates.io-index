@@ -1,1 +1,2 @@
 {"name":"qualname","vers":"0.0.1","deps":[],"cksum":"f7ca141ff6dd6af1bf241aa43eac7491d69c9be5059574708495e61948ab4bac","features":{},"yanked":false,"pubtime":"2025-11-06T23:01:29Z"}
+{"name":"qualname","vers":"0.0.2","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5b7e17688d7e871b907a1d869d01a72e13da2f235e47edd88e003610f26ec7a8","features":{},"yanked":false,"pubtime":"2026-09-23T04:57:49Z"}
