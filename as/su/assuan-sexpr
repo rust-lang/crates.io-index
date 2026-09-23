@@ -1,0 +1,1 @@
+{"name":"assuan-sexpr","vers":"1.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3eb2ac403b22b0afbb8dbfc8e647749e0a127543099197d1e6bd00836f03644c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-23T15:37:12Z"}
