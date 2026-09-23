@@ -12,3 +12,4 @@
 {"name":"paginator","vers":"0.2.5","deps":[],"cksum":"3d1490013606204654e6c2f0571a5143d90b5b99569ff21fe55de768eb0fc62d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-02-20T00:53:32Z"}
 {"name":"paginator","vers":"0.2.6","deps":[],"cksum":"8cab812174218625b92f0ad026bea851c0eae0aa6378c6a598de689a8c8d429b","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-02-20T07:09:20Z"}
 {"name":"paginator","vers":"0.2.7","deps":[],"cksum":"0431a8ed2c7d38d29455cb3c355d70694e20a132f9ccc03f524edc06a6910338","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2026-07-12T13:04:19Z"}
+{"name":"paginator","vers":"0.2.8","deps":[],"cksum":"c315e4ea412e1dfd72b206150f2cf6065e98f0d7fda16c2e39601d2d743d9476","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2026-09-23T15:25:15Z"}
