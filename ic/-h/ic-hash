@@ -1,0 +1,1 @@
+{"name":"ic-hash","vers":"0.1.0","deps":[{"name":"ic-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3a3c752fb20ffc2ed60bf24ee36dd4b0abf1bf33d0911fb1b8ee1afb6630ff11","features":{"default":["std"],"std":["ic-core/std"]},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-23T02:58:19Z"}
