@@ -1,0 +1,1 @@
+{"name":"subc-cgroup","vers":"0.1.2","deps":[{"name":"tokio","req":"^1","features":["macros","process","rt-multi-thread","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c35c3b54a2b6bce2727f3b5a3efe4002d6503c6ac9bd08795fbbfcd807402ede","features":{},"yanked":false,"pubtime":"2026-09-23T14:51:53Z"}
