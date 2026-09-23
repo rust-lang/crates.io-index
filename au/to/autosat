@@ -1,1 +1,2 @@
 {"name":"autosat","vers":"0.1.0","deps":[],"cksum":"74ed04a77db223ff7f646948deae6fe2b41d65884def59ac494c8ee7848d20ec","features":{},"yanked":false,"pubtime":"2023-04-05T12:06:46Z"}
+{"name":"autosat","vers":"0.2.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28a964bd6e79e4ffc438aa6ed455f7f2f1d5a9c3832b9a25d794427d1236ce8a","features":{},"yanked":false,"pubtime":"2026-09-23T06:22:42Z"}
