@@ -1,1 +1,2 @@
 {"name":"ruff_command_line","vers":"0.0.0","deps":[],"cksum":"ca0c9e144ba6802c011283b933030eee0936db719c7ea3394ff32ef1cbd4b6cc","features":{},"yanked":false,"pubtime":"2026-09-24T19:58:03Z"}
+{"name":"ruff_command_line","vers":"0.0.15","deps":[{"name":"argfile","req":"^1.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"84340f2e53e441ea45d2df9b2a2d87b63c2802d9f4cd62202f0dd26f47e405fa","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-24T20:38:43Z"}
