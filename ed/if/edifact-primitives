@@ -70,3 +70,4 @@
 {"name":"edifact-primitives","vers":"0.6.0","deps":[],"cksum":"54ef4886f2031e4834f5fd9e40d5277cde074d1cd08c3d682c9c1af0d777c110","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-22T19:55:08Z"}
 {"name":"edifact-primitives","vers":"0.7.0","deps":[],"cksum":"4e9f9a7438ae6556395bbaf3c7d1de598fc7b3258d05a8855a67c67effb114fa","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-23T06:48:57Z"}
 {"name":"edifact-primitives","vers":"0.8.0","deps":[],"cksum":"b65320f74438c6baca627ba37a2a1f3114d2fa1aa57b6fe9be168cfddc813370","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-24T08:08:38Z"}
+{"name":"edifact-primitives","vers":"0.8.1","deps":[],"cksum":"8d0ff910c6b0fb8ea839e207e5ed8dbf404391c1cc1564aa5df28ece8cc32cd7","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-24T08:43:50Z"}
