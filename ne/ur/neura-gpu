@@ -1,0 +1,1 @@
+{"name":"neura-gpu","vers":"0.1.0","deps":[{"name":"wgpu","req":"^30","features":["std","parking_lot","dx12","metal","vulkan","wgsl"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9c4efd7ed25f3bdadc44f061a6a1492337b1439817e0503374a90af384fc7642","features":{},"yanked":false,"pubtime":"2026-09-24T06:37:09Z"}
