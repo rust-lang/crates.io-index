@@ -2,3 +2,4 @@
 {"name":"sva-ast","vers":"0.1.1","deps":[],"cksum":"f731e2299333df5900a020009ec5b3901a5d08693c4e6ca6cf013df3ef071307","features":{},"yanked":false,"pubtime":"2026-09-23T05:55:04Z"}
 {"name":"sva-ast","vers":"0.2.0","deps":[],"cksum":"210c9483739e5b1673ccd3b91faa9b9f7a6170b4639bbb3560b84e58f4f69bc2","features":{},"yanked":false,"pubtime":"2026-09-24T00:26:50Z"}
 {"name":"sva-ast","vers":"0.3.0","deps":[{"name":"sva-fingerprint","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"59897b5bd753169879a16259dcf597168804c9f2794ce96394f9e19adb2f686d","features":{},"yanked":false,"pubtime":"2026-09-24T06:33:22Z"}
+{"name":"sva-ast","vers":"0.3.1","deps":[{"name":"sva-fingerprint","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c76b94e9f0e2429def822c82d73e30a4a0291b195d88da3760277bc226eb794a","features":{},"yanked":false,"pubtime":"2026-09-24T15:04:13Z"}
