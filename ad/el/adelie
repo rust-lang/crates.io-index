@@ -5,3 +5,4 @@
 {"name":"adelie","vers":"0.4.0","deps":[],"cksum":"73046076eb27d5005af56633a414f22a39c49e2dd1d197eec02db4ef9f2e4ca7","features":{"cli":[],"default":["cli"]},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-23T23:49:26Z"}
 {"name":"adelie","vers":"0.5.0","deps":[],"cksum":"b8417cefab19305803ce2d31db1dff02530cf427d3002533be127755f3ece072","features":{"cli":[],"default":["cli"]},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-24T01:00:32Z"}
 {"name":"adelie","vers":"0.6.0","deps":[],"cksum":"727fcfea118d3745006585cde426f95b6b9e22bc168506a32948e5efa28f9ef5","features":{"cli":[],"default":["cli"]},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-24T04:23:06Z"}
+{"name":"adelie","vers":"0.7.0","deps":[],"cksum":"3e00140e8013a02300842d292ca6dc167123be83297f20f75e93f2ab88c10d5b","features":{"cli":[],"default":["cli"]},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-24T22:17:41Z"}
