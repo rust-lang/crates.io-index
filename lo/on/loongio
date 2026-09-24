@@ -1,0 +1,1 @@
+{"name":"loongio","vers":"0.0.1","deps":[{"name":"mio","req":"^1","features":["net","os-poll"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c22e29253a3fb88bb7a43ff02d323062c70b1e2849d2d7ee5c2ee2de9266e087","features":{},"yanked":false,"pubtime":"2026-09-24T10:49:33Z"}
