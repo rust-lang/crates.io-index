@@ -1,0 +1,1 @@
+{"name":"tc_block_cipher","vers":"0.1.0","deps":[{"name":"tc_zeroize","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5c9a05f0da6a7be4ec50bc95a48c4b6e7abc6fbcae2f43c5009c96f5d32328d","features":{"alloc":["tc_zeroize/alloc"],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-24T02:35:31Z"}
