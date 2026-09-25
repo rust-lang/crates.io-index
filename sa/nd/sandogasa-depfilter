@@ -37,3 +37,4 @@
 {"name":"sandogasa-depfilter","vers":"0.24.0","deps":[],"cksum":"48c1dfb5576c243c1613d4540cdd925b381d04a92e0f240dd182c5e9ab54c528","features":{},"yanked":false,"pubtime":"2026-09-10T11:57:24Z"}
 {"name":"sandogasa-depfilter","vers":"0.24.1","deps":[],"cksum":"6645d6cbac76d19c20e0c7f0ba304279d95b5c8446c5eeeb0f46c6870a8adac6","features":{},"yanked":false,"pubtime":"2026-09-18T18:10:31Z"}
 {"name":"sandogasa-depfilter","vers":"0.25.0","deps":[],"cksum":"a3d5998304a6e1eb592ce1dfa86ce74d5b68819aba67c66e312d0ac37c60cbfb","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-24T18:36:00Z"}
+{"name":"sandogasa-depfilter","vers":"0.25.1","deps":[],"cksum":"8398f4acad96e484bc230a3284f4c9afc16a0c360bd64e757c203fd3f3a37910","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-25T08:57:11Z"}
