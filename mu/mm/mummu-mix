@@ -1,1 +1,2 @@
 {"name":"mummu-mix","vers":"0.4.1","deps":[],"cksum":"8591001507d942a2704e92a47b994e576d5ab295a912c96e0d12b2d538c90108","features":{},"yanked":false,"pubtime":"2026-09-24T18:51:58Z"}
+{"name":"mummu-mix","vers":"0.5.0","deps":[{"name":"mummu-num","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43689c5dad35ede5e718444f47e83bebead1928ea249c3bfe639cdde407b6a63","features":{},"yanked":false,"pubtime":"2026-09-25T10:58:05Z"}
