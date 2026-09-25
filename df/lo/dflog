@@ -1,0 +1,1 @@
+{"name":"dflog","vers":"0.1.0","deps":[{"name":"memmap2","req":"^0.9.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76560d5d215fd053f0f8dfd57e9cb27610542160714b2169a6918b119c1e5576","features":{},"features2":{"default":["mmap"],"mmap":["dep:memmap2"]},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-25T03:21:00Z","v":2}
