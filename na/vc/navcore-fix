@@ -1,0 +1,1 @@
+{"name":"navcore-fix","vers":"0.3.0","deps":[{"name":"nav-math","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"navcore-math"}],"cksum":"7190dccb272179c9ded92f8685cf926e4ae2d988444349eb7b98bedddd7d1a00","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-25T17:31:45Z"}
