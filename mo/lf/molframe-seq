@@ -1,0 +1,1 @@
+{"name":"molframe-seq","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4524efb0c8ff28c09fe09d084976b0d6ceab00b2c44038c7b7ee9db53dcee987","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-25T21:19:09Z"}
