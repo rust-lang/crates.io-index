@@ -6,3 +6,4 @@
 {"name":"arke-postgres-derive","vers":"0.7.0","deps":[],"cksum":"d14384bf84dd41b42abf16da3f5051d06f6a0b1d2b5ed9e8e793ac1696796264","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-15T05:19:34Z"}
 {"name":"arke-postgres-derive","vers":"0.8.0","deps":[],"cksum":"b8c9c3559cbecad459946a58a23e351c58917d8de9507d2b14f42fad8b2a58e8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-15T11:08:50Z"}
 {"name":"arke-postgres-derive","vers":"0.9.0","deps":[],"cksum":"1ce318ed6a20b466b12a2ae7d1cc1408de5660c017eb333ebcfc59d054dd2a64","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-18T11:18:26Z"}
+{"name":"arke-postgres-derive","vers":"0.10.0","deps":[],"cksum":"3cdf7c2482c6f3d59edee10a457db1f0c30407eba12ad2a5b5b56ded7ab13017","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-25T11:29:50Z"}
