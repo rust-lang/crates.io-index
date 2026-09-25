@@ -30,3 +30,4 @@
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.6.14","deps":[],"cksum":"7f28daadff21b93bc2a01d49bf35d2b0d5becbb32ecd488a5abd346db0dcdb2e","features":{},"yanked":false,"pubtime":"2026-07-24T21:10:08Z"}
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.7.0","deps":[],"cksum":"c823a9991c949e01ffecb8a09728e132b08906aa575b42f6f3e811ae0deb8ec3","features":{},"yanked":false,"pubtime":"2026-07-24T21:12:13Z"}
 {"name":"etcd-bin-vendored-darwin-arm64","vers":"3.7.1","deps":[],"cksum":"dadf0cbabfe7ab2f49220a0ac2a5bf46d8ffdecbd7837824f3599daf0dd7c35d","features":{},"yanked":false,"pubtime":"2026-07-24T21:13:59Z"}
+{"name":"etcd-bin-vendored-darwin-arm64","vers":"3.5.34","deps":[],"cksum":"6ac11de8d646d6319d6ad61768ae9069aebe4c2398f72b7bf6aabc53df3be42c","features":{},"yanked":false,"pubtime":"2026-09-25T16:23:07Z"}
