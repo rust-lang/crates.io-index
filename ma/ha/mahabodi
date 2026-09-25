@@ -1,0 +1,1 @@
+{"name":"mahabodi","vers":"0.1.0","deps":[{"name":"mahabodi-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"55717f144c94d6a529a9630f6888c6ddfb51fdecc0f8edfe8190976c4da8a182","features":{"default":["laya"],"laya":["mahabodi-core/laya"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-25T19:55:29Z"}
