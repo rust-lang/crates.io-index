@@ -1,0 +1,1 @@
+{"name":"tc_sha","vers":"0.1.0","deps":[{"name":"tc_digest","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f109ffc11ea396866f126e7a22b028427d6bae43fec8b331983cc3253491ea1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-25T15:41:42Z"}
