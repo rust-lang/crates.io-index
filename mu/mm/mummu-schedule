@@ -1,1 +1,2 @@
 {"name":"mummu-schedule","vers":"0.4.1","deps":[],"cksum":"61f573ec2517cd150f3cc03de8b8f459e215115b82d60e4c9a68e0389a5b4275","features":{},"yanked":false,"pubtime":"2026-09-24T18:52:03Z"}
+{"name":"mummu-schedule","vers":"0.5.0","deps":[{"name":"mummu-num","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a84758fdbae7cdbd7bf272301a33657468c5eb5a667b6b8706f3f34b0a6cfff0","features":{},"yanked":false,"pubtime":"2026-09-25T10:58:13Z"}
