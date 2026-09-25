@@ -40,3 +40,4 @@
 {"name":"etcd-bin-vendored-linux-amd64","vers":"3.7.0","deps":[],"cksum":"4b2ace32360da72fc4115d1884942d2ec1965403750100160bae1b2cfc1430fa","features":{},"yanked":false,"pubtime":"2026-07-24T21:12:14Z"}
 {"name":"etcd-bin-vendored-linux-amd64","vers":"3.7.1","deps":[],"cksum":"c2fb76de475cf55315b511b042d5b1b449db8ef57d4c7e911011763de3ba08d1","features":{},"yanked":false,"pubtime":"2026-07-24T21:16:36Z"}
 {"name":"etcd-bin-vendored-linux-amd64","vers":"3.5.34","deps":[],"cksum":"8e95e46990dfd828adf311650553256398eeaf49731ac7133f9893daab9ed62d","features":{},"yanked":false,"pubtime":"2026-09-25T16:23:15Z"}
+{"name":"etcd-bin-vendored-linux-amd64","vers":"3.6.15","deps":[],"cksum":"7bb225058cf5b867a836143cb10dbd7ceedc5e459fed89979db0c10e66fe8b1f","features":{},"yanked":false,"pubtime":"2026-09-25T16:30:32Z"}
