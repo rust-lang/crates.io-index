@@ -1,1 +1,2 @@
 {"name":"rdi-platform-stub","vers":"0.0.0","deps":[],"cksum":"1f5a4c639c2f1ead11ce17b5d301c243f892239b30d680d2b5f44ad56f080acc","features":{},"yanked":false,"pubtime":"2026-09-25T13:19:21Z"}
+{"name":"rdi-platform-stub","vers":"0.2.29","deps":[{"name":"rdi-core","req":"^0.2.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a00fcb35da55bcdf04c1900700121f37bab14e20643bb824e30098757074ab1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-25T21:15:48Z"}
