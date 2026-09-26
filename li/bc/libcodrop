@@ -1,1 +1,2 @@
 {"name":"libcodrop","vers":"1.0.0-rc1","deps":[],"cksum":"1a84170ac14b87413a29c68eb35f33ce306587327bdb5a923f3e0de76a848644","features":{},"yanked":false,"pubtime":"2026-09-24T16:51:33Z"}
+{"name":"libcodrop","vers":"1.0.0","deps":[{"name":"image","req":"^0.25","features":["png","jpeg","webp","bmp"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b67fa623f79d923964d7a7e7d3d963860408a81efbb8e66d5ac875b93204bea0","features":{},"yanked":false,"pubtime":"2026-09-26T14:55:31Z"}
