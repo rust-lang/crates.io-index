@@ -1,1 +1,2 @@
 {"name":"raceline-optimizer","vers":"0.2.0","deps":[],"cksum":"1e5742249b4ca940a5f477a8cca6c92e4b8923870d7a2a513eaf7f008f701739","features":{"default":[],"ipopt-static-link":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-11T21:43:37Z"}
+{"name":"raceline-optimizer","vers":"0.2.1","deps":[],"cksum":"171132ca982650f13cc26646b30bde9dbc669af4252ed9a93853e81422f9e10b","features":{"default":[],"ipopt-static-link":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-26T15:04:12Z"}
