@@ -3,3 +3,4 @@
 {"name":"atomic_parser","vers":"1.0.0","deps":[],"cksum":"503832eaf73997882092bfd7aacae71f1626a53b6c7e1f93fa70dd43e8f6ab9c","features":{},"yanked":false,"pubtime":"2026-09-26T12:39:34Z"}
 {"name":"atomic_parser","vers":"1.0.1","deps":[],"cksum":"90bafe3b8a0f44ca9bac07b3b46e10670813dd7d2c632ceb5dc3d5b03b239995","features":{},"yanked":false,"pubtime":"2026-09-26T12:41:12Z"}
 {"name":"atomic_parser","vers":"1.0.2","deps":[],"cksum":"a93d1b2810bf7ba36621a8e8777b584b4141e6b45fa7b25e9475fe25d9880f93","features":{},"yanked":false,"pubtime":"2026-09-26T12:42:19Z"}
+{"name":"atomic_parser","vers":"1.1.0","deps":[],"cksum":"680ac200b370acbb130834bf4c8033b574f2ef87b3141fbde2fe83ef6853d603","features":{"default":["read"],"read":[],"write":[]},"yanked":false,"pubtime":"2026-09-26T16:00:12Z"}
