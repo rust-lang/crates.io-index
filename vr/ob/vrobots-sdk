@@ -1,0 +1,1 @@
+{"name":"vrobots-sdk","vers":"0.1.11","deps":[{"name":"vrobots-sdk-sys","req":"=0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0433fe58aa9c4ded9682a721caafc8575e2070c87d37a17b732ce945858d13c7","features":{"static":["vrobots-sdk-sys/static"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-26T05:28:47Z"}
