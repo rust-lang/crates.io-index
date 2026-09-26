@@ -1,0 +1,1 @@
+{"name":"bootintel-detectors","vers":"0.4.1","deps":[{"name":"regex","req":"^1.10","features":["std","unicode-perl","unicode-case"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c2f2f9eb9f820dea608d20addf69b57d5142c8185148b23ed88148ac0bac498f","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-09-26T08:31:55Z"}
