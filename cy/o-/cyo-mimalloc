@@ -1,0 +1,1 @@
+{"name":"cyo-mimalloc","vers":"0.0.1","deps":[{"name":"cyo-mimalloc-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9f784cca8bbc3cd12879ff52c332ff1b5c0224cada3284194bd4c9cc41091a9","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-26T19:07:57Z"}
