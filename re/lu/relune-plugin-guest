@@ -1,0 +1,1 @@
+{"name":"relune-plugin-guest","vers":"0.1.0","deps":[{"name":"wit-bindgen","req":"^0.62.0","features":["macros","realloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"12df59c974afec4b5ef97b46f5152a66ede42e6a86c06790638104f99898dc58","features":{},"yanked":false,"pubtime":"2026-09-26T02:36:51Z"}
