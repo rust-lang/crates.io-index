@@ -1,3 +1,4 @@
 {"name":"kanna-core","vers":"0.1.0","deps":[],"cksum":"bbe4a42fd7689ee26d6cb08a429dbb716ed505181be0137b00708dcb398aebec","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-26T05:55:55Z"}
 {"name":"kanna-core","vers":"0.2.0","deps":[],"cksum":"9b225492f85b7447e3a1315c6bdfcd2ab1333e42cf3f155cbd8072b164205cbf","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-26T07:39:30Z"}
 {"name":"kanna-core","vers":"0.2.1","deps":[],"cksum":"79b80d4a36a049fba15711f1498a8a80e4d2f8f6de991951faa15e3401c208e4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-26T08:11:32Z"}
+{"name":"kanna-core","vers":"0.2.2","deps":[],"cksum":"571e50218da9ac9da534e33658afb8add5f2a72cf865dad2b26c24dc541e740e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-26T10:57:20Z"}
