@@ -12,3 +12,4 @@
 {"name":"rsql_driver_test_utils","vers":"0.19.3","deps":[],"cksum":"daf4fc8d10f9e8ac606564633bcb0e559a7ad9efce779c79d91f10c3751db2c6","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-02-16T20:33:01Z"}
 {"name":"rsql_driver_test_utils","vers":"0.19.4","deps":[],"cksum":"957af3f0ddf9e4eba0530c7a210a2b050a44c6792f58b3d30c24148b1a9c52e2","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-18T02:22:43Z"}
 {"name":"rsql_driver_test_utils","vers":"0.20.0","deps":[],"cksum":"9f32cb34cb3afc7b50e0b352194da058ba6778d7416d7c31fe03213870ea6523","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-07-26T15:18:19Z"}
+{"name":"rsql_driver_test_utils","vers":"0.21.0","deps":[],"cksum":"6baf912abe47b3c015d705218247d09e9777102012a31f0286021d240e208423","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-28T15:16:13Z"}
