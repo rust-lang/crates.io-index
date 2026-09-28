@@ -1,0 +1,1 @@
+{"name":"ferric-agent","vers":"0.3.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a28838d2cc444e308e9e9ec96de519f8c7685b56cea2fde01f6cfbd37d2922bb","features":{},"yanked":false,"pubtime":"2026-08-14T17:59:19Z"}

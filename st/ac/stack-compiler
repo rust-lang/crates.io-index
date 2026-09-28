@@ -1,0 +1,1 @@
+{"name":"stack-compiler","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.151","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bdba45c0f7a85ef0ec0bfb766b387dbd90fc6141237ac74b559d08a424750bc6","features":{"conformance":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-05T19:17:48Z"}

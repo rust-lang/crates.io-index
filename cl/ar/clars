@@ -1,0 +1,4 @@
+{"name":"clars","vers":"0.1.0","deps":[],"cksum":"47037cf9b61441ee634f4e6a5223021baad1ebc80eaf0defa0543a39c994829f","features":{},"yanked":false,"pubtime":"2026-05-04T08:25:22Z"}
+{"name":"clars","vers":"0.1.1","deps":[],"cksum":"6fecc8f533dbdd328a1ba7049a393db37e65c38933abb5f3cef1e05a9ab676d7","features":{},"yanked":false,"pubtime":"2026-05-04T08:50:55Z"}
+{"name":"clars","vers":"0.2.0","deps":[{"name":"antex","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09e89e8fc644ba7b6e1cedf66273e87f8a709159804c0ae1a5e19b356a6f4f9a","features":{},"yanked":false,"pubtime":"2026-05-10T14:07:34Z"}
+{"name":"clars","vers":"0.3.0","deps":[{"name":"antex","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eacae1c61b793fe7e3aa0a9aafd2ba98700bb2a933bf4e88cbeed140ffd39ae","features":{},"yanked":false,"pubtime":"2026-05-16T15:30:40Z"}

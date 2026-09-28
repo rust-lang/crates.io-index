@@ -1,0 +1,1 @@
+{"name":"pure_riff","vers":"1.0.0","deps":[{"name":"zerocopy","req":"^0.8.47","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23dd886d858dc09a40e774455a75b42f9eb4c43301cda1248795d856678d9a0d","features":{},"yanked":false,"pubtime":"2026-03-27T03:47:02Z"}

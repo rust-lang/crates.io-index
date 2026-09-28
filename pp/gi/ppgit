@@ -1,0 +1,2 @@
+{"name":"ppgit","vers":"0.8.0","deps":[],"cksum":"b4bd004037561de0c22a463ac7300688525eb94a7a0b3e4d08493f436424173b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-07T15:28:44Z"}
+{"name":"ppgit","vers":"0.22.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4cba8608eeeb93ff3a3f08a83ee339b09d2fc220266f5c867eea58e759fcd792","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-11T08:47:00Z"}

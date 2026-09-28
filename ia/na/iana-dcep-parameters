@@ -1,0 +1,1 @@
+{"name":"iana-dcep-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"f4d325d8ecc60e6b96198bd5b1e93b9112ff53e3fb20c6f5df69300bd504861e","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T00:07:33Z"}

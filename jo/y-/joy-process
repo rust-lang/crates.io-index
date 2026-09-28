@@ -1,0 +1,1 @@
+{"name":"joy-process","vers":"0.21.0","deps":[{"name":"windows-sys","req":"^0.61","features":["Win32_System_Console","Win32_UI_WindowsAndMessaging"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"e05a49feefb214adba1e4fc7b32bffaaad36ef0c69afebf52557d072c17ba04d","features":{},"yanked":false,"pubtime":"2026-09-20T02:46:38Z"}

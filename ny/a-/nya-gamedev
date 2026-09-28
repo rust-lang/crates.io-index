@@ -1,0 +1,1 @@
+{"name":"nya-gamedev","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f0e275679c8b99d443ebd41507cf381028b9bf4e6283d93b182df40e7834af3","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-05-10T03:18:30Z","v":2}

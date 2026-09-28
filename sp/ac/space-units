@@ -1,0 +1,1 @@
+{"name":"space-units","vers":"0.1.2","deps":[{"name":"behave","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"186a955858348dad6fc260a19997f35496caf82315901a980d56f75a25d958e4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-03-14T18:31:43Z"}

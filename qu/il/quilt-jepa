@@ -1,0 +1,1 @@
+{"name":"quilt-jepa","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9b4bf487df37cb74c6533c1043e30360813fef2e49ad17bd62e16206c8d3248","features":{},"yanked":false,"pubtime":"2026-08-21T09:36:04Z"}

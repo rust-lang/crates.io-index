@@ -1,0 +1,1 @@
+{"name":"iana-quic","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"4fcaa1be44ef4de75a0f6743ba5b015f4b43f7897763f7b7727ec6f46697d30c","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T02:21:03Z"}

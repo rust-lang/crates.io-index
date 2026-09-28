@@ -1,0 +1,3 @@
+{"name":"moa_rt_define","vers":"0.1.0","deps":[],"cksum":"cf0a79e66949915bc74463afb009ede3d940c612fc2c6e6d19985116b158fb24","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T05:49:22Z"}
+{"name":"moa_rt_define","vers":"0.1.1","deps":[],"cksum":"2929c2e702548745fc9279b26482957fb6b0f71a237df0338c4133e9834e9efe","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-11T08:49:29Z"}
+{"name":"moa_rt_define","vers":"0.1.2","deps":[{"name":"moa_const_sizes","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9b39f358a0fabca1492270f3fd315232db80ddb96a65c29fa908e1b602a65f93","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-05-13T03:31:49Z"}

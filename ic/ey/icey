@@ -1,0 +1,3 @@
+{"name":"icey","vers":"0.0.0","deps":[],"cksum":"503a5f5699813bd7be11d427bda6c50561cfd906967a4841f288e7cda632a592","features":{},"yanked":false,"pubtime":"2026-05-15T13:30:14Z"}
+{"name":"icey","vers":"0.1.0","deps":[{"name":"icey-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff8fb5007b37beb1ba799670f004180a7433c53840a99ed366806596f7cef724","features":{},"yanked":false,"pubtime":"2026-05-17T14:10:06Z"}
+{"name":"icey","vers":"0.1.1","deps":[{"name":"icey-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80595cc431044f871478f3f3104464ad74d3b03975621b29d87c65682a1c4b9c","features":{},"yanked":false,"pubtime":"2026-05-17T14:16:07Z"}

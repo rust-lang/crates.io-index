@@ -1,0 +1,3 @@
+{"name":"rare-say-hello","vers":"0.1.0","deps":[],"cksum":"734d4101800d016cd22138655584c75f3c02e8f01e342e17a14910983a1a54db","features":{},"yanked":false,"pubtime":"2026-08-22T17:56:23Z"}
+{"name":"rare-say-hello","vers":"0.2.0","deps":[],"cksum":"1efc35257cd875d5f86a84ee38f6fbeb9c1991ec0c3f081cdc3df42021f6a6a8","features":{},"yanked":false,"pubtime":"2026-08-22T18:05:59Z"}
+{"name":"rare-say-hello","vers":"0.3.0","deps":[],"cksum":"6b622ea658692f84af7b77d381057cbf951de3ca67a564ac451818435f33d053","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-08-22T18:12:31Z"}

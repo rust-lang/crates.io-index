@@ -1,0 +1,1 @@
+{"name":"quasar-pod","vers":"0.0.0","deps":[{"name":"wincode","req":"^0.4.7","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77bfb6e40210b4e61cdf6424fc78ebc4ee15ed0a7b68d270ba9b098bf89b418e","features":{},"features2":{"wincode":["dep:wincode"]},"yanked":false,"pubtime":"2026-03-20T19:09:29Z","v":2}

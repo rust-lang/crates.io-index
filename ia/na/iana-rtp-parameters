@@ -1,0 +1,1 @@
+{"name":"iana-rtp-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"e8d85f83089e369f074cf6e49ce2670292aafe8e64df8865096bfadef76fccf0","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-27T22:17:33Z"}

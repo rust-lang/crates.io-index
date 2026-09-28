@@ -1,0 +1,1 @@
+{"name":"rvm-types","vers":"0.1.1","deps":[{"name":"bitflags","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8aaedcefe3d02b3fb72ea622974a036c96070c538a73dbd1a6c524171a43c4f0","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-08-23T16:47:29Z"}

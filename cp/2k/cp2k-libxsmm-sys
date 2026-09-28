@@ -1,0 +1,1 @@
+{"name":"cp2k-libxsmm-sys","vers":"0.3.1","deps":[{"name":"cp2k-build-utils","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"488d7ce5f6206552c98c66c2eec95c5632edb41e52016f79c3c31db04cda62ff","features":{},"yanked":false,"links":"cp2k_libxsmm","pubtime":"2026-09-23T09:55:40Z"}

@@ -1,0 +1,4 @@
+{"name":"belajar_up_crates","vers":"0.1.0","deps":[],"cksum":"d4422e511752afc59d380e8970c2b9d82c2d5673defcb214bd06e428ead2467e","features":{},"yanked":false,"pubtime":"2026-07-17T16:13:42Z"}
+{"name":"belajar_up_crates","vers":"0.1.1","deps":[],"cksum":"32cf165c6fa5d8bcc51e02594602fad1fae1e773e2a2a934dfdd3b77c4e0b918","features":{},"yanked":false,"pubtime":"2026-07-18T04:56:48Z"}
+{"name":"belajar_up_crates","vers":"0.1.2","deps":[],"cksum":"92039437956bd3d6694d97f9a0e08cbbd3f10666026ef32ff7944b8bdbc83474","features":{},"yanked":false,"pubtime":"2026-07-18T05:11:42Z"}
+{"name":"belajar_up_crates","vers":"0.1.3","deps":[],"cksum":"3af23f5370eee0f0250b0464cb2781062641338712a904da786de5d9debd81f0","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-07-18T05:43:14Z"}

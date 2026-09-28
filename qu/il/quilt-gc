@@ -1,0 +1,1 @@
+{"name":"quilt-gc","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0642d6fc75cb0766ec51b161e0d334584d3f3bf6d6527ac06bae20afd036c6e4","features":{},"yanked":false,"pubtime":"2026-08-21T09:56:37Z"}

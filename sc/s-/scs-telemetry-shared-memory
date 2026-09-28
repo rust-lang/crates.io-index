@@ -1,0 +1,1 @@
+{"name":"scs-telemetry-shared-memory","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.16","features":["derive","min_const_generics"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d184911235e9c28964efa7634cefe8c1290d549b707bff1fc711835109f0638","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-19T20:09:38Z"}

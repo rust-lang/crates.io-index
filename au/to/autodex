@@ -1,0 +1,1 @@
+{"name":"autodex","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"39e4e8ac7aaf195b9633bd2d0b5c0840c04367eb79628f96020b02ddfd896970","features":{},"yanked":false,"pubtime":"2026-01-26T01:23:34Z"}

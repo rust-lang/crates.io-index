@@ -1,0 +1,1 @@
+{"name":"cublas-batched-gemm","vers":"0.1.0","deps":[{"name":"cublas-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07ba4349b25883594791d4664243857f0ab0e0a8bb61812d37ac32c3489cd6f8","features":{},"yanked":false,"pubtime":"2026-05-20T13:37:34Z"}

@@ -1,0 +1,1 @@
+{"name":"checklinks-rs","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"552f0988308d4e119ea13c4adddf0fe4dfb17f3338eaac7cf12274b0b551d20c","features":{"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-06T03:17:48Z"}

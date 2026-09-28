@@ -1,0 +1,1 @@
+{"name":"quern-arch-aarch64","vers":"0.0.1","deps":[{"name":"quern-hal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"655f873d7308d669e7128e875b29666da18bca65227c2c7aeb703e106204db6e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-09T17:27:23Z"}

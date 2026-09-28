@@ -1,0 +1,2 @@
+{"name":"jen_launcher","vers":"0.1.0","deps":[],"cksum":"0ffffb7fb05dbe7a17952c613e06836d62fcc5e755e1e7984dc4fcac57026aad","features":{},"yanked":false,"pubtime":"2026-03-09T07:43:08Z"}
+{"name":"jen_launcher","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e563616c3f56010b0e8f7779853a434edfdcb7444e32be7bb307cd72e3f49bca","features":{},"yanked":false,"pubtime":"2026-03-11T05:04:49Z"}

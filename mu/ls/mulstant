@@ -1,0 +1,1 @@
+{"name":"mulstant","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17bec3047c5af135610618a90e16d34857dfe3de99648eb9d5023f929f9972fb","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-01-07T10:58:44Z","v":2}

@@ -1,0 +1,1 @@
+{"name":"ruvector-temporal-tensor-wasm","vers":"2.3.0","deps":[{"name":"ruvector-temporal-tensor","req":"^2.3.0","features":["ffi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05bf0e553e5cfc8ea39563d6d724ce4d39d689e5dcd27a3ea457247fd4486122","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-09-26T21:17:13Z"}

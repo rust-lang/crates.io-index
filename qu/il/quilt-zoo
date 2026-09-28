@@ -1,0 +1,1 @@
+{"name":"quilt-zoo","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31da093b1e6a5757d0d77f71c7c91871c5c2ca71df676f6fbf8477e4a0ea653d","features":{},"yanked":false,"pubtime":"2026-08-21T10:01:44Z"}

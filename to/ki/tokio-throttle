@@ -1,0 +1,1 @@
+{"name":"tokio-throttle","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.53.1","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc8ecd26e4999434048062731b0c0658d0ee4a324a331dd907ee50fb2a5a3c04","features":{},"yanked":false,"pubtime":"2026-07-31T08:55:47Z"}

@@ -1,0 +1,1 @@
+{"name":"rmbe","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffcb4c52e9685718d36484f86bd613d0d523253ceef1f0aacd678b633d42b150","features":{"conformance":[],"stage-vectors":[]},"features2":{"cli":["dep:clap"]},"yanked":false,"pubtime":"2026-07-07T01:47:31Z","v":2}

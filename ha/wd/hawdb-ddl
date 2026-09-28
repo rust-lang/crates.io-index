@@ -1,0 +1,1 @@
+{"name":"hawdb-ddl","vers":"0.3.0","deps":[{"name":"hawdb-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68f16b4ee7d8188e791fe49f3621880e21e0a9a5f0ef1adf300534805fe14d9b","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-22T00:48:03Z"}

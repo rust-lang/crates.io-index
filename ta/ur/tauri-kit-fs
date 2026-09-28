@@ -1,0 +1,1 @@
+{"name":"tauri-kit-fs","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6161629deb93b9062d2c95add11c61f7572aba079ae0e9a8ce8d5685b3ea5294","features":{"test-hooks":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-27T16:27:58Z"}

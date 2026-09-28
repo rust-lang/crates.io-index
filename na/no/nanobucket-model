@@ -1,0 +1,1 @@
+{"name":"nanobucket-model","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33578571ee465d31fb9c4f462d0d9c2c9cdbc9d5d67ce71c782a123282aef839","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-19T21:09:16Z"}

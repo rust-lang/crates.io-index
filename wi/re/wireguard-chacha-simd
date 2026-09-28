@@ -1,0 +1,1 @@
+{"name":"wireguard-chacha-simd","vers":"1.0.0","deps":[{"name":"wireguard-sans-io","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81d8e71d2616f61ab2e38437c9d8b4fd5b3f6f57cbcffa322025ecebaeaeafb7","features":{},"yanked":false,"pubtime":"2026-06-25T09:05:10Z"}

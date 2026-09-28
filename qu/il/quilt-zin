@@ -1,0 +1,1 @@
+{"name":"quilt-zin","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"251457bb4e2b3486fec7ade3e3bb61c8e2071ee2c2b92124eec1fb97208f0a45","features":{},"yanked":false,"pubtime":"2026-08-21T09:35:22Z"}

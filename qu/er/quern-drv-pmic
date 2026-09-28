@@ -1,0 +1,1 @@
+{"name":"quern-drv-pmic","vers":"0.0.1","deps":[{"name":"quern-hal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b218c6cbf81a87b61569d26592e3ab3720d85dce0f426b763b7eda5e410285","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-09T17:58:14Z"}

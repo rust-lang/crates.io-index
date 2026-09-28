@@ -1,0 +1,1 @@
+{"name":"snelleutf","vers":"0.1.0","deps":[{"name":"snelleutf-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e55486083bdd6d9f781d772c0d111cebd08968c5b66207c13ef16edc992b677","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-02-18T17:02:37Z"}

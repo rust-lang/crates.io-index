@@ -1,0 +1,1 @@
+{"name":"toprim","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f98537313e3a698dc9e9b164cf2470698517729b2c90414d447e5955dcdc48f","features":{},"yanked":false,"pubtime":"2026-05-21T12:18:27Z"}

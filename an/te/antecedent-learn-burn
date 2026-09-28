@@ -1,0 +1,1 @@
+{"name":"antecedent-learn-burn","vers":"2.0.0","deps":[{"name":"burn","req":"^0.16","features":["std","autodiff","ndarray"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ab6d270d68e4342caa2cf1a134bb8765d1afb4f674590c0d01d180d1a07025b5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-24T00:12:22Z"}

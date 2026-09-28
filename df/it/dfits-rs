@@ -1,0 +1,1 @@
+{"name":"dfits-rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2998f70fb1314e0b0de40bbdc3811908e86c4358de2dcc854ea7545ed0681371","features":{},"yanked":false,"pubtime":"2026-05-16T15:40:41Z"}

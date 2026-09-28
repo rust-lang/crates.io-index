@@ -1,0 +1,1 @@
+{"name":"nowui-image","vers":"0.1.0","deps":[{"name":"image","req":"^0.25","features":["png","gif","jpeg","bmp","webp"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"468be94b8b5217e97313a806e7c80870f020a6f58ce773622929eb87aa02c325","features":{},"yanked":false,"pubtime":"2026-07-26T17:35:30Z"}

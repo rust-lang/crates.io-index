@@ -1,0 +1,1 @@
+{"name":"ksana-sdk","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd72ecb4717524ad90c6e415260bceaf7e75bd56803e1230c35ac7f1c0d8ffdc","features":{},"yanked":false,"pubtime":"2026-06-29T03:24:19Z"}

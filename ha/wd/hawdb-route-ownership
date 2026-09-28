@@ -1,0 +1,1 @@
+{"name":"hawdb-route-ownership","vers":"0.3.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc35e51fb436ac01604784a0e7f92a7976ae13c46a9ad76649559d5b4492f038","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-22T00:45:42Z"}

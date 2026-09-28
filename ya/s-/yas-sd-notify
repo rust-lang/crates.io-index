@@ -1,0 +1,1 @@
+{"name":"yas-sd-notify","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"9ba3dd75d365f644d191d7abcc6129a4e1e78b901384eaf33e830a6c2d4bbd7f","features":{},"yanked":false,"pubtime":"2026-09-16T21:47:48Z"}

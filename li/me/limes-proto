@@ -1,0 +1,3 @@
+{"name":"limes-proto","vers":"0.1.0","deps":[],"cksum":"ed0df0b006df52e29d8ffaaa00751db4e634e68b87dbe32fa83e7688f3a054ec","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-23T15:38:25Z"}
+{"name":"limes-proto","vers":"0.1.1","deps":[],"cksum":"4442487ba8afc7d80a09a78384f2827218fe38d22bf75f3e003354197b8f14a3","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-24T09:20:36Z"}
+{"name":"limes-proto","vers":"0.2.0","deps":[{"name":"zeroize","req":"^1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaa93e2a70e54c81d546582cb256079a04a619f8828010ccf6aec9857555ed7a","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-25T01:05:20Z"}

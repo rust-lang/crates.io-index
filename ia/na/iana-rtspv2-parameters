@@ -1,0 +1,1 @@
+{"name":"iana-rtspv2-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"3c64fcf1840d34c9d9668518d1a277e128191bf55a07e0531514f3ae1a40cfb4","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T02:07:33Z"}

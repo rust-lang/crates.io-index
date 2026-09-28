@@ -1,0 +1,1 @@
+{"name":"iana-character-sets","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"dc275007eb1de3acd88606ddb3dab2ddc185e9e6665b1f84bfe4bf3e7312eb70","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T02:47:32Z"}

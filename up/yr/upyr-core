@@ -1,0 +1,1 @@
+{"name":"upyr-core","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7a53c1c80409e8ef39312ba60683a4dc10e496dac9cd621a8a2e76a0abfed0b","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-19T21:53:52Z"}

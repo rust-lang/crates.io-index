@@ -1,0 +1,1 @@
+{"name":"gandr-lang","vers":"0.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"485d0df9568c90033a67e970adad663ef6eef7c0ef2129b2528c1c0d9b6b148d","features":{},"yanked":false,"pubtime":"2026-08-29T08:39:52Z"}

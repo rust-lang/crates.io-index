@@ -1,0 +1,1 @@
+{"name":"yurt-abi-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0452962cd7d3a584060b42054ad5e22c879b858210517e2c6494b742486664e","features":{},"yanked":false,"pubtime":"2026-08-24T01:25:43Z"}

@@ -1,0 +1,2 @@
+{"name":"bailey-common","vers":"0.0.0","deps":[],"cksum":"961495e017cd2fb01f2aa396a2e91ae0ae3aa6c47ac6b47c0003a84cd89c37eb","features":{},"yanked":false,"pubtime":"2026-08-21T16:55:09Z"}
+{"name":"bailey-common","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a0d833397122a0a69ad1461c87343c5444917a684126d11fb4aad2e3d8218344","features":{},"yanked":false,"pubtime":"2026-08-21T17:04:00Z"}

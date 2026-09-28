@@ -1,0 +1,1 @@
+{"name":"rigorix-schemas","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f06a524230b9b17d815c1aa6fd824395013d474147e853402e76c8042cb2cba4","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-25T17:24:53Z"}

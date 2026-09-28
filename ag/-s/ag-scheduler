@@ -1,0 +1,1 @@
+{"name":"ag-scheduler","vers":"0.16.2","deps":[{"name":"tokio","req":"^1","features":["fs","io-util","macros","process","rt-multi-thread","sync","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff62a501aa9a185f15e9c849cd9433591350c660dfafc6713a36a8a3e908cd78","features":{},"yanked":false,"pubtime":"2026-09-28T06:07:38Z"}

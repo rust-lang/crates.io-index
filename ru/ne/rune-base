@@ -1,0 +1,1 @@
+{"name":"rune-base","vers":"0.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f0f5597d01fddc9da77e988267bf595c8f299a9663df45fffbea5f3a2a07ce1","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"pubtime":"2026-06-13T15:40:44Z","v":2}

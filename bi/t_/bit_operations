@@ -1,0 +1,12 @@
+{"name":"bit_operations","vers":"0.1.0","deps":[],"cksum":"4980bfe2399c23556c6a5b5e6374b7fb56b4614294b440e864d8fe0649706ba9","features":{},"yanked":false,"pubtime":"2026-06-18T23:15:19Z"}
+{"name":"bit_operations","vers":"0.1.1","deps":[],"cksum":"e89332ecd0b0227512555c8d91162c0854c708e7971a60acbae2015ed6a2f8af","features":{},"yanked":false,"pubtime":"2026-06-19T02:11:43Z"}
+{"name":"bit_operations","vers":"0.1.2","deps":[],"cksum":"bdfbcf2d640d5cd3e6299ae10665f96567c9e0a5dee0cd6f6bf18d2a7015348c","features":{},"yanked":false,"pubtime":"2026-06-21T20:52:42Z"}
+{"name":"bit_operations","vers":"0.1.3","deps":[],"cksum":"dc1f2e34697299a4c86f1f4dc33c8ce55127d89bc0829dc4cab4bd1a66c6d49d","features":{},"yanked":false,"pubtime":"2026-06-21T22:24:01Z"}
+{"name":"bit_operations","vers":"0.1.4","deps":[],"cksum":"378959c41427a44375f7426ccab3d84ff263bcbbb2a4747a7b11c41158865871","features":{},"yanked":false,"pubtime":"2026-06-21T22:51:23Z"}
+{"name":"bit_operations","vers":"0.1.5","deps":[],"cksum":"de1b83fd095cc0e2a2958783b66be8caaba93cf9cd335233db184949c36fd664","features":{},"yanked":false,"pubtime":"2026-06-23T07:25:08Z"}
+{"name":"bit_operations","vers":"0.1.6","deps":[],"cksum":"c521f94e027b275f287593a77f0964abcef924abe7f6cfc8d4d0db8802f04a46","features":{},"yanked":false,"pubtime":"2026-07-03T08:17:05Z"}
+{"name":"bit_operations","vers":"0.1.7","deps":[],"cksum":"da1c94dc94fafdd5fc552af78597548d24f12683db7f3d6b7cbf333cc34989f0","features":{},"yanked":false,"pubtime":"2026-07-12T04:24:54Z"}
+{"name":"bit_operations","vers":"0.2.0","deps":[],"cksum":"8533bd09178c1cde29b8092b952d25f1846431c7a4dd9b4a8f07aca779339cbf","features":{},"yanked":false,"pubtime":"2026-07-13T07:05:27Z"}
+{"name":"bit_operations","vers":"0.2.1","deps":[],"cksum":"1338152a81c1ecf399923261801691c9f37691f59110fed196df05f1c80c1d1f","features":{},"yanked":false,"pubtime":"2026-07-13T11:18:48Z"}
+{"name":"bit_operations","vers":"0.3.0","deps":[{"name":"intops","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62cb126f9159345f45e51d1b8060a40254e8cc61054a2d0d7a3417dd3db06c8a","features":{},"yanked":false,"pubtime":"2026-07-14T12:53:17Z"}
+{"name":"bit_operations","vers":"0.3.1","deps":[{"name":"intops","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0825f8da54b1fe4eaa59eac6f4d519b01a5ef7360f7e77656827dc655dc26274","features":{},"yanked":false,"pubtime":"2026-07-17T07:10:04Z"}
