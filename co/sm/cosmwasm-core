@@ -50,3 +50,4 @@
 {"name":"cosmwasm-core","vers":"2.2.10-rc.4","deps":[],"cksum":"4e4e5354f996b25de3029e6a88f351ad7a9d7be4ea4e7c0703e7cff83e354577","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-09-28T08:41:46Z"}
 {"name":"cosmwasm-core","vers":"2.2.10","deps":[],"cksum":"0e69421e413b23efb64311ffb6663d999a7b28df82cc88e38582acbdb099533a","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-09-28T09:46:24Z"}
 {"name":"cosmwasm-core","vers":"2.3.5-rc.4","deps":[],"cksum":"88e85f8aa1ff22513f6160c1fe6ecd65dae2b6a051e235af476f059e62549683","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-09-28T10:34:40Z"}
+{"name":"cosmwasm-core","vers":"2.3.5","deps":[],"cksum":"7b8bfcbc39bac4cbb69e9e7af0059c02a79c4cd7955e8ca2db0004cc8408c865","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-09-28T11:30:22Z"}
