@@ -1,0 +1,1 @@
+{"name":"istmo-window","vers":"0.1.1-alpha.3","deps":[{"name":"raw-window-handle","req":"^0.6","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"76c84bf8ffa6ef364062c1aa46b62cb7367fb43b0e61c669d3a05937e07c05e2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T17:58:42Z"}
