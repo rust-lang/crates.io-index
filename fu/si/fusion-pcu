@@ -1,1 +1,2 @@
 {"name":"fusion-pcu","vers":"0.0.1","deps":[],"cksum":"c415fa6d39cce41f406b4be599d93272735c0062dd013f33b985ba5ab14984db","features":{"default":[],"hosted":["std"],"insights":[],"std":[]},"yanked":false,"pubtime":"2026-09-28T09:21:35Z"}
+{"name":"fusion-pcu","vers":"0.0.2","deps":[],"cksum":"e9c3ec4d810c1c5119763e14ec85cd43ee2f0fa1a89535bdd7e2737771cd2a24","features":{"default":[],"hosted":["std"],"insights":[],"std":[],"tensor":[],"vm-reference":[]},"yanked":false,"pubtime":"2026-09-28T10:05:44Z"}
