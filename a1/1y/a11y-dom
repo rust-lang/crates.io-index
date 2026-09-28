@@ -11,4 +11,4 @@
 {"name":"a11y-dom","vers":"0.10.1","deps":[],"cksum":"e30cc89fd84821223a126e22c2fe395e4e17e820482d0ec9b2b2f36f6e6b2a25","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-23T04:48:05Z"}
 {"name":"a11y-dom","vers":"0.10.2","deps":[],"cksum":"1c4f3081b970c989f2fa98741ebaf3733ed15fa5fdbc4503755e2848a13f3328","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-23T15:45:55Z"}
 {"name":"a11y-dom","vers":"0.11.0","deps":[],"cksum":"1b08287c94ba93f01704f852eb47bda885bcc1cec7c63522162bd6c5740e0716","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-23T20:10:05Z"}
-{"name":"a11y-dom","vers":"0.11.1","deps":[],"cksum":"203a34fd89fe91ff54ad335988247d2f9a866988e33c7ab9f43b0a3fa4f81e57","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T04:59:58Z"}
+{"name":"a11y-dom","vers":"0.11.1","deps":[],"cksum":"203a34fd89fe91ff54ad335988247d2f9a866988e33c7ab9f43b0a3fa4f81e57","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-09-28T04:59:58Z"}
