@@ -1,0 +1,1 @@
+{"name":"rillz-exec","vers":"0.1.0","deps":[{"name":"rillz","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1b21e47671b106468d0e8a64cd2e03a2be45344a0d41b2ec41458769d634d63","features":{"default":[],"threads":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T23:29:41Z"}
