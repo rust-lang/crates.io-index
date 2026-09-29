@@ -1,0 +1,1 @@
+{"name":"xbpf-test","vers":"0.0.1","deps":[{"name":"libbpf-rs","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a6fe9318d5182bfa3096dfefeee30be9cf94a886aa2e1b5202dba63a12210bbe","features":{},"yanked":false,"pubtime":"2026-09-29T19:09:21Z"}
