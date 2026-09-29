@@ -1,0 +1,1 @@
+{"name":"fusion-pcu-core","vers":"0.0.3","deps":[],"cksum":"2cbd4118637ec7c44ca1b51521e37a9c893e527fdbf3614da2303a9649b65186","features":{"alloc":[],"default":[],"hosted":["std"],"insights":[],"std":["alloc"],"tensor":["alloc"],"vm-reference":[]},"yanked":false,"pubtime":"2026-09-29T08:36:03Z"}
