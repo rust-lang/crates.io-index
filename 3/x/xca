@@ -11,3 +11,5 @@
 {"name":"xca","vers":"0.9.1","deps":[],"cksum":"b4eebb95b3bf47a20412e843ee7c2ce624b0d43e631097a57ff8889e9b51f41b","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:24Z"}
 {"name":"xca","vers":"0.10.0","deps":[],"cksum":"131b577944442ffc4ff14c37b973d2385f864a2594b838af767d952a355b23a6","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:28Z"}
 {"name":"xca","vers":"0.11.0","deps":[],"cksum":"2507ec63716265af6aec2dc5d737f54bb4e5daef6c95b249c010592efbb7bb74","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:31Z"}
+{"name":"xca","vers":"0.11.1","deps":[],"cksum":"fbedbd8e6e3c649b2fff5424b8ef4cea2b0c6d8b88853153be71826bea8169f9","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:35Z"}
+{"name":"xca","vers":"0.11.2","deps":[],"cksum":"37432219ed28918178cb6228524d564273726e60d7839cd5ae644a0eca9a0505","features":{"c-api":[],"default":["c-api"]},"yanked":false,"pubtime":"2026-09-30T20:06:38Z"}
