@@ -2,3 +2,4 @@
 {"name":"conc-util","vers":"0.2.0","deps":[],"cksum":"99e7e11a52dab572ae7c149736e41b4e28f2ffa92a643a7e9b24e9327294655b","features":{},"yanked":false,"pubtime":"2026-09-29T20:59:31Z"}
 {"name":"conc-util","vers":"0.2.1","deps":[],"cksum":"316c4ebf0bcf166a1eede078c0df4ac5db29e102cda0f53cfb91d240475fbe47","features":{},"yanked":false,"pubtime":"2026-09-29T21:11:20Z"}
 {"name":"conc-util","vers":"0.3.0","deps":[],"cksum":"3bd3b6c5edcc67efd4a70f57ef37032986e63b94379a177cdf58028425fa0bfc","features":{},"yanked":false,"pubtime":"2026-09-30T15:49:01Z"}
+{"name":"conc-util","vers":"0.3.1","deps":[],"cksum":"e3a1374bd42f8830a5f4bd005ba72355bf559e865e820242039cc7c128c1e491","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:40:09Z"}
