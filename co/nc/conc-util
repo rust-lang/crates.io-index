@@ -7,3 +7,4 @@
 {"name":"conc-util","vers":"0.4.1","deps":[],"cksum":"087fe9bee676bd9aaeb5e4dc8ead646e772aa2fc3fcc20236ecb3713ee8b8c6f","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:56:46Z"}
 {"name":"conc-util","vers":"0.4.2","deps":[],"cksum":"fe6a1f4ac71866868a182d96ee7b9d2c73d3277f28c8129a6aa338ea39e6e89b","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T17:04:49Z"}
 {"name":"conc-util","vers":"0.4.3","deps":[],"cksum":"c5e8dfb91571c214d32b519a281446b20cacc4a53ad5530d0d0c1d3ed4593656","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T17:25:39Z"}
+{"name":"conc-util","vers":"0.5.0","deps":[],"cksum":"8a2a400cd8ee082b9e1423de4b6217445705dbf97073b6be85aa52002104fc4c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T18:48:07Z"}
