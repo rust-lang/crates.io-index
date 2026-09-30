@@ -1,0 +1,1 @@
+{"name":"pathstr","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dcd9bfb42222c80ce67ff7734dac304a72b75d0c5463da163317c165eee8659","features":{},"features2":{"default":["serde"],"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-09-30T14:54:26Z","v":2}
