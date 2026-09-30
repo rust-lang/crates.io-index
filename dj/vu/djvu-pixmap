@@ -43,3 +43,4 @@
 {"name":"djvu-pixmap","vers":"0.37.0","deps":[],"cksum":"1ff74a160eb576a55e710d5abe1ca04e5705b9ecc310937df9ff16ba45d46d42","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-27T00:45:37Z"}
 {"name":"djvu-pixmap","vers":"0.38.0","deps":[],"cksum":"262fc6cdd223b065c498fcb2bd3ceadf376fd7298bce48c0f23fa28fd4a1aed7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-29T23:42:58Z"}
 {"name":"djvu-pixmap","vers":"0.38.1","deps":[],"cksum":"51fe0f1dc2fa6bed082555c195b47e2c0a3b08bea82d17b50d4fd2120f594cae","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-30T02:09:52Z"}
+{"name":"djvu-pixmap","vers":"0.39.0","deps":[],"cksum":"442a82b03fb2c69439b095879efc416a10c6f6aeecfd070b9b552d5e3c49a4c6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-30T17:05:41Z"}
