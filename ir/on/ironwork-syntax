@@ -1,2 +1,3 @@
 {"name":"ironwork-syntax","vers":"0.1.0","deps":[],"cksum":"5569ce1f164871f98759d072095a77a49a03df9e44621db40dd7b5cd95a7b3c9","features":{},"yanked":false,"pubtime":"2026-09-29T14:36:12Z"}
 {"name":"ironwork-syntax","vers":"0.1.1","deps":[],"cksum":"27c203c6bf7201ba3fc1e5182dc02ca69248644a6d5824848589662ce7797641","features":{},"yanked":false,"pubtime":"2026-09-29T15:13:36Z"}
+{"name":"ironwork-syntax","vers":"0.1.2","deps":[{"name":"rt","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ironwork-rt"}],"cksum":"e1482019778e72418a0a8f1e2feb301da583b6ba544c241b43365e776cafe144","features":{},"yanked":false,"pubtime":"2026-09-30T11:25:53Z"}
