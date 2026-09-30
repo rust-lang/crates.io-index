@@ -1,0 +1,1 @@
+{"name":"zisk-setup","vers":"1.3.1-alpha","deps":[{"name":"serde_json","req":"^1.0","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b909b8e96c972cd486d2a3757cc6187771d4930e4dfce688655a94b42b657fe","features":{},"yanked":false,"pubtime":"2026-09-30T13:47:46Z"}
