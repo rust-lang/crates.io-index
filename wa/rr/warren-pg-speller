@@ -1,0 +1,1 @@
+{"name":"warren-pg-speller","vers":"0.1.0","deps":[{"name":"pgrx","req":"=0.19.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d23f97b808cbf3ea4882e6f768bcf4285ae908e5e2ef5dbe67c1baef450709af","features":{"default":["pg18"],"pg18":["pgrx/pg18"],"pg19":["pgrx/pg19"]},"yanked":false,"pubtime":"2026-09-30T22:59:14Z"}
