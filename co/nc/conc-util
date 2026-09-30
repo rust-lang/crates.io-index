@@ -5,3 +5,4 @@
 {"name":"conc-util","vers":"0.3.1","deps":[],"cksum":"e3a1374bd42f8830a5f4bd005ba72355bf559e865e820242039cc7c128c1e491","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:40:09Z"}
 {"name":"conc-util","vers":"0.4.0","deps":[],"cksum":"c3c248fffdcf6b66d6f75b4719212cb9876e830ab2154729be20474271fedeee","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:52:44Z"}
 {"name":"conc-util","vers":"0.4.1","deps":[],"cksum":"087fe9bee676bd9aaeb5e4dc8ead646e772aa2fc3fcc20236ecb3713ee8b8c6f","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:56:46Z"}
+{"name":"conc-util","vers":"0.4.2","deps":[],"cksum":"fe6a1f4ac71866868a182d96ee7b9d2c73d3277f28c8129a6aa338ea39e6e89b","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T17:04:49Z"}
