@@ -5,3 +5,4 @@
 {"name":"rulisp-runtime","vers":"0.4.0","deps":[],"cksum":"e0128925434925425de39f8d4853949d75e2843f78632a92cf416c6f04faf082","features":{},"yanked":false,"pubtime":"2026-09-02T06:21:36Z"}
 {"name":"rulisp-runtime","vers":"0.5.0","deps":[],"cksum":"116a219f64136f196e18184988e488d2c400811457b797e0d2fdb45dfae7c9ea","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-04T06:11:35Z"}
 {"name":"rulisp-runtime","vers":"0.6.0","deps":[],"cksum":"0e74dab37461ec2fd5fc23774e306b15b75ec77b33f6fc5b9324b38711139f9d","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-14T06:35:33Z"}
+{"name":"rulisp-runtime","vers":"0.7.0","deps":[],"cksum":"8e9499915bdc0b8235d05c6ca91c9bdc7bd7bf9a288290a72ecdd5a6674c3785","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-30T08:31:20Z"}
