@@ -3,3 +3,5 @@
 {"name":"xca","vers":"0.3.0","deps":[],"cksum":"c0728c4a043bf1de66770a989b8a69c41226e7085f0edce243e415c856a8ab0f","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:05:58Z"}
 {"name":"xca","vers":"0.4.0","deps":[],"cksum":"629aaf8ee5b0e0d9d756ece0b66234cdcd47dffec5421b731079d9c894d36e1d","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:01Z"}
 {"name":"xca","vers":"0.5.0","deps":[],"cksum":"670d86604ea8c4846044adb83c97248fc2e0bdb6b06f0b328426fd90f2a53e5b","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:04Z"}
+{"name":"xca","vers":"0.6.0","deps":[],"cksum":"901dcb91ea7b65e2814addd364edcfc153b78084d7482cd34454bf87f6fd72aa","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:07Z"}
+{"name":"xca","vers":"0.7.0","deps":[],"cksum":"bb912ad04470fbb4ed461fd04fb59f3b1df02bfba7f59ac3e5a2d359757376dc","features":{"c-api":[],"default":[]},"yanked":false,"pubtime":"2026-09-30T20:06:11Z"}
