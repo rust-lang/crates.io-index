@@ -10,3 +10,4 @@
 {"name":"spirv-std-types","vers":"0.8.0","deps":[],"cksum":"5cce2183deb9e7ada727867823fb8bbbc8b56e503801a332d155dde613130e1b","features":{},"yanked":false,"pubtime":"2023-06-02T22:06:38Z"}
 {"name":"spirv-std-types","vers":"0.9.0","deps":[],"cksum":"a73417b7d72d95b4995c840dceb4e3b4bcbad4ff7f35df9c1655b6826c18d3a9","features":{},"yanked":false,"pubtime":"2023-07-25T09:58:39Z"}
 {"name":"spirv-std-types","vers":"0.10.0-alpha.1","deps":[],"cksum":"28b7ffce7843c3a9f5d5d2b9c21402d4cd026c26780b2f16a3cd6de3e6436230","features":{"std":[]},"yanked":false,"pubtime":"2026-04-17T14:12:53Z"}
+{"name":"spirv-std-types","vers":"0.10.0","deps":[],"cksum":"655632248eaaa205cea4656bc73c8285cbd8109fc784010b24ea6bd0bab79ac1","features":{"std":[]},"yanked":false,"pubtime":"2026-10-01T15:51:28Z"}
