@@ -37,3 +37,4 @@
 {"name":"argyle","vers":"0.13.0","deps":[],"cksum":"aa3a93c4a2ad8a815f6f2afc49cd26a0bb0efdbf9b7d81aa297a540428bc0084","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.88","pubtime":"2025-06-26T19:33:13Z"}
 {"name":"argyle","vers":"0.14.0","deps":[],"cksum":"5c38d5407c7d0384b57210960952a629d9fa6fefae4d46d0565962697a5fdb22","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.90","pubtime":"2025-09-21T03:15:38Z"}
 {"name":"argyle","vers":"0.15.0","deps":[],"cksum":"baf893d9bf5d80e61998d27cc42ce55c38d7160aea56c6f457396ca1526a33f8","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-01-23T01:47:24Z"}
+{"name":"argyle","vers":"0.16.0","deps":[],"cksum":"cba4e8d559e4d79fb5ca001300baa024381126ed033f16a60c628e5b95054c69","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-01T21:29:08Z"}
