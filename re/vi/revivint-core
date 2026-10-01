@@ -1,1 +1,2 @@
 {"name":"revivint-core","vers":"0.0.1","deps":[],"cksum":"04419a474e82c0274f64dead4232f6dcbb4b6490fcb1f71e04587ee719583c6b","features":{},"yanked":false,"pubtime":"2026-09-29T22:16:59Z"}
+{"name":"revivint-core","vers":"0.1.0","deps":[],"cksum":"6ba26ef43cd67ab1aeabbe86968b133d0c093dd74bec6db1104408cd2abeecd1","features":{"cc1101":[],"default":["std"],"mqtt":[],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-01T13:55:25Z"}
