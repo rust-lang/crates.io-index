@@ -7,3 +7,4 @@
 {"name":"dns-lattice-core","vers":"1.0.0","deps":[],"cksum":"20ae4f0ff6f254fc4bc2c4fb139d6a2dc706112389759d4c8eccff2d90c99040","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-18T14:38:40Z"}
 {"name":"dns-lattice-core","vers":"1.1.0","deps":[],"cksum":"ae2e10febc1a94ee9788a4bc3f750d848aa7bc7f007b7218c34df7ff05252bc3","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-18T15:33:53Z"}
 {"name":"dns-lattice-core","vers":"1.1.1","deps":[],"cksum":"0a02360f0c90453e948c70fe919216deadfd16851310cc3294a76488a7e79ea1","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-09-30T17:43:42Z"}
+{"name":"dns-lattice-core","vers":"1.1.2","deps":[],"cksum":"7f6ebc39a114a93cc92467b691f013e3e6bedc74783f9bedfb32c06ff44457b9","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-01T01:48:29Z"}
