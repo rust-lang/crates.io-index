@@ -1,0 +1,1 @@
+{"name":"buildah-ffi","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5b1b60d37e1d3cd26762a43ba8dab569ad0dc1565853a9a4b265df37bf27bd0d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-01T01:07:11Z"}
