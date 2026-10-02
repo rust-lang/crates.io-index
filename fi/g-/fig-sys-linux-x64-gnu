@@ -12,3 +12,4 @@
 {"name":"fig-sys-linux-x64-gnu","vers":"4.0.0","deps":[],"cksum":"c82efb10916b8bae0b8b06864531a5ed59c9b9dcb00fe22b5ee1ec7f56cb52e2","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-09-14T22:07:47Z"}
 {"name":"fig-sys-linux-x64-gnu","vers":"4.1.0","deps":[],"cksum":"c7a8000c6f79748432976fcc4491e61616d7ac0901b5630c5ab2302098d10eac","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-09-23T01:25:12Z"}
 {"name":"fig-sys-linux-x64-gnu","vers":"5.0.0","deps":[],"cksum":"1f19c8849e66e88610b1c5fef33531dbefca7869f29328eeb6c3952de6642828","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","rust_version":"1.88","pubtime":"2026-09-27T20:48:37Z"}
+{"name":"fig-sys-linux-x64-gnu","vers":"5.1.0","deps":[],"cksum":"e698461ae61a0b9996d733fb35358e152a31b8c68c31613df076d2363078db8d","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","rust_version":"1.88","pubtime":"2026-10-02T01:38:24Z"}
