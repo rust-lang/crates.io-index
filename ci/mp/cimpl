@@ -4,3 +4,4 @@
 {"name":"cimpl","vers":"0.3.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e903462e903086721a4991e9e2a70ebd14edf0ecf0781860504672a05456628b","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-02-17T03:22:09Z"}
 {"name":"cimpl","vers":"0.3.1","deps":[],"cksum":"14da346401148dcc87bb3049e57de67ac97740b35e42ce5333b42fdcc4617758","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-02-17T22:16:19Z"}
 {"name":"cimpl","vers":"0.4.0","deps":[],"cksum":"2863b7b39e31bf7affaff6f6bdb145e561391fded3fcd11bc2aef136e9a425f0","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-01T21:47:36Z"}
+{"name":"cimpl","vers":"0.4.1","deps":[],"cksum":"1c2b2ed73db1c36d7facadbb7c2c50a2747d98417ae013ed632c491a9b196d9c","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-02T23:28:24Z"}
