@@ -1,1 +1,2 @@
 {"name":"tabular-center","vers":"0.1.1","deps":[],"cksum":"effc1124df9fe09705232f75f8ac9ba26b7ffb90136544f46b4697e3ccb3e22e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-02T19:02:32Z"}
+{"name":"tabular-center","vers":"0.1.2","deps":[],"cksum":"b6b322e1d5909c47c05684adba1d1fa31252bd810e200cdb5f068d15be76cd8a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-02T19:44:48Z"}
