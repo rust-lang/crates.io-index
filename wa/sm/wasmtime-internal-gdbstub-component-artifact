@@ -23,3 +23,4 @@
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"49.0.0","deps":[],"cksum":"ab272d7d0ca41a44392ed8a9e39135fc698170cdca2696b14feb3db523038368","features":{},"yanked":false,"pubtime":"2026-09-21T15:30:03Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"48.0.3","deps":[],"cksum":"888a7df760382075b426fff372fca528b628e1178ff07fc0e4f9f091db00ef3c","features":{},"yanked":false,"pubtime":"2026-09-24T18:59:39Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"49.0.1","deps":[],"cksum":"6a59866fe883a336bf8d78a9e83af7c344eb30ed5f548251faa5897f7beb2b0f","features":{},"yanked":false,"pubtime":"2026-09-24T19:20:48Z"}
+{"name":"wasmtime-internal-gdbstub-component-artifact","vers":"49.0.2","deps":[],"cksum":"29e177a10f9cd5786eedf0aa42fe5723e624a3d688bd1efc4d3bad56873f1555","features":{},"yanked":false,"pubtime":"2026-10-02T16:49:46Z"}
