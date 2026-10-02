@@ -6,3 +6,4 @@
 {"name":"sipr-auth","vers":"0.31.0","deps":[],"cksum":"4469e5c93347f657d62f406dd6dd450ae443276bcf679be5ae5a061d808571ce","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T10:50:54Z"}
 {"name":"sipr-auth","vers":"0.32.0","deps":[],"cksum":"1eadcf46fda51ed901306cd5ec98a6976d74b43b56cddd446ea0c507e7b58a69","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-30T08:28:38Z"}
 {"name":"sipr-auth","vers":"0.33.0","deps":[],"cksum":"87636cac9781e7064a1cc21b428d691c3a6ac4fed7273d5b7133cfecfd6a5a93","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-30T12:58:44Z"}
+{"name":"sipr-auth","vers":"0.33.1","deps":[],"cksum":"9066aa20ffb541c9ab7a827d7874b38a1917b5d183e5272ca01f4de9f5e34171","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-02T05:22:57Z"}
