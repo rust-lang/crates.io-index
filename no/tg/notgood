@@ -2,3 +2,4 @@
 {"name":"notgood","vers":"0.1.1","deps":[],"cksum":"46602b216d1f2cefd4f40db951fc380f9c39d8c4a516815dbc8bab23ffaecb10","features":{},"yanked":false,"pubtime":"2026-08-29T23:18:54Z"}
 {"name":"notgood","vers":"0.1.2","deps":[],"cksum":"c00174d7ea1013326fa9f8828099f28a1d473856b78e784534e0d0fe681887bc","features":{},"yanked":false,"pubtime":"2026-08-30T00:30:42Z"}
 {"name":"notgood","vers":"0.2.0","deps":[{"name":"trybuild","req":"^1.0.121","features":["diff"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a3cc8e807c2554abcd20a301ad935f23a7112f4c4cb735767793afbb8148ac7","features":{},"yanked":false,"pubtime":"2026-10-02T02:43:15Z"}
+{"name":"notgood","vers":"0.2.3","deps":[{"name":"trybuild","req":"^1.0.121","features":["diff"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4f58c9d65978f3e0f463b48d60abaa4813de667faca1bf28dca9a6de2f5ae17","features":{},"yanked":false,"pubtime":"2026-10-02T04:21:29Z"}
