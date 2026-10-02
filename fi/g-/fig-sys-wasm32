@@ -14,3 +14,4 @@
 {"name":"fig-sys-wasm32","vers":"5.0.0","deps":[],"cksum":"3494d0a476225d8b5c37190051e24a4556121376a3f91c4edcd8b95e89ce9cee","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","rust_version":"1.88","pubtime":"2026-09-27T20:48:44Z"}
 {"name":"fig-sys-wasm32","vers":"5.1.0","deps":[],"cksum":"edcbef3f28e6a4b178eaa0b72d9a90a45ad0bede0ee4ba5db551bf3ecbc4d53a","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","rust_version":"1.88","pubtime":"2026-10-02T01:38:31Z"}
 {"name":"fig-sys-wasm32","vers":"5.1.1","deps":[],"cksum":"90ac99c81a031797999c19edbf73a75b4db8b7be757f05cf9394d23c4c4eb904","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","rust_version":"1.88","pubtime":"2026-10-02T01:53:52Z"}
+{"name":"fig-sys-wasm32","vers":"5.1.2","deps":[],"cksum":"fc23c5cf2f993ffe00754fe4fa1652afd5ded785694458cd64d9c7232fbe9bad","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","rust_version":"1.88","pubtime":"2026-10-02T03:12:01Z"}
