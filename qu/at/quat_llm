@@ -1,0 +1,1 @@
+{"name":"quat_llm","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.20","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1786519c361a8a192fc4a0a0c91bc4c198666019e1c5d20f32cfa54d3f6bdf4b","features":{"default":[]},"features2":{"python":["dep:pyo3"]},"yanked":false,"pubtime":"2026-10-03T18:27:59Z","v":2}
