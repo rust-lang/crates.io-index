@@ -33,3 +33,4 @@
 {"name":"kcode-k1-daemon-lib-testkit","vers":"0.5.6","deps":[],"cksum":"15b4de4ca4d8a9a1c392d1f5e4bfa507f8c8047841d24ea4ea3af8e795d26683","features":{},"yanked":false,"pubtime":"2026-10-03T00:32:18Z"}
 {"name":"kcode-k1-daemon-lib-testkit","vers":"0.5.7","deps":[],"cksum":"9f672b5dc21722814653fcb59dd23445c77145774a0481747c65dd8be7d08c1f","features":{},"yanked":false,"pubtime":"2026-10-03T00:41:02Z"}
 {"name":"kcode-k1-daemon-lib-testkit","vers":"0.5.8","deps":[],"cksum":"5d5bc9caaa00578910194d3b72c7c8f8713c5b2645fa72b39003138579aeeb03","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-03T06:53:12Z"}
+{"name":"kcode-k1-daemon-lib-testkit","vers":"0.5.9","deps":[],"cksum":"df6451e2dfbb14000f112996c1ba0dfc306efbfe976e2b4c71e3471f5b677865","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-03T12:36:59Z"}
