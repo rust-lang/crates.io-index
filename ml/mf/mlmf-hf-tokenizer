@@ -1,0 +1,1 @@
+{"name":"mlmf-hf-tokenizer","vers":"0.5.10","deps":[{"name":"serde_json","req":"^1.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d019b664d7579bb6d9f65f0354920552b8adb97fd596bb01b6b0c13cb08fedf1","features":{},"yanked":false,"pubtime":"2026-10-03T11:25:28Z"}
