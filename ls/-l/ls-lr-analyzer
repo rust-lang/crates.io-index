@@ -1,1 +1,2 @@
 {"name":"ls-lr-analyzer","vers":"0.1.0","deps":[],"cksum":"c3eaad3c673894f1425726af21fda3e464d0b01bf0fcb587facbb6e2fa2b608b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-02T05:24:40Z"}
+{"name":"ls-lr-analyzer","vers":"0.1.3","deps":[],"cksum":"41329d237e92527c7b9ff1864bde43223a1cb6fcbc6d666f780684af4590dfd5","features":{"default":[],"duckdb":[],"parquet":[],"sqlite":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-03T08:03:00Z"}
