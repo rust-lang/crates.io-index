@@ -1,0 +1,1 @@
+{"name":"voe-plugin-sdk","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4bcba9c996d8c0c9f49357017c6960b3301ad24e807fd4519d5a705ba6fc548d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-03T11:57:25Z"}
