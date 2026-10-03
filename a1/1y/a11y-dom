@@ -31,3 +31,4 @@
 {"name":"a11y-dom","vers":"0.17.0","deps":[],"cksum":"5a9d4c75ab06b5991dd887b6d0c5898e23e82481b9d908fda6ed81ed71b2467b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-01T19:14:45Z"}
 {"name":"a11y-dom","vers":"0.18.0","deps":[],"cksum":"ca5eb5a911fae9b8aab3f901b8c8a7d7c4dbec48385a1f8d537d54ff23c3202b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-03T16:39:06Z"}
 {"name":"a11y-dom","vers":"0.19.0","deps":[],"cksum":"b584bb4788c5231650f9c8f9fd962628b95f38ae106eb9bc017c201f41e6b6c1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-03T20:16:14Z"}
+{"name":"a11y-dom","vers":"0.19.1","deps":[],"cksum":"0cfeb15101def9f8873a0e0ba2259ebe67ef24ecc728e5726f70ee5e3de010ac","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-03T22:29:03Z"}
