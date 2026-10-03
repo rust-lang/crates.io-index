@@ -8,3 +8,4 @@
 {"name":"ftui-simd","vers":"0.5.0","deps":[],"cksum":"b58484de5e4bb8592bc949ee8c58dade63ec80b72a3c99b35055e8e6db966bf9","features":{},"yanked":false,"pubtime":"2026-07-05T04:40:47Z"}
 {"name":"ftui-simd","vers":"0.6.0","deps":[],"cksum":"da89cc9ea6cdd101b8f60470eca6e0f50dd3d92c2a054d0fb11e85191ad93158","features":{},"yanked":false,"pubtime":"2026-08-24T20:47:54Z"}
 {"name":"ftui-simd","vers":"0.7.0","deps":[],"cksum":"f91948f295e98c5a2db56d306e13d6097128c5f8dbf6fd11e957c186d42b408c","features":{"default":[],"experimental":[]},"yanked":false,"pubtime":"2026-09-08T17:00:11Z"}
+{"name":"ftui-simd","vers":"0.9.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"82ce1ae4d8dcc95590d799e67d21645a291eecaa94e300c5f3e1777318a52146","features":{"default":[],"experimental":[]},"yanked":false,"pubtime":"2026-10-03T08:11:56Z"}
