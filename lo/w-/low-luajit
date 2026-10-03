@@ -2,3 +2,4 @@
 {"name":"low-luajit","vers":"0.2.0","deps":[],"cksum":"8133c03181afd4f185daa744e498ea8f6d4efb491ba0c5b7e0f26dc088e1d1c9","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-09T13:55:08Z"}
 {"name":"low-luajit","vers":"0.3.0","deps":[],"cksum":"b59c2c6b62f1ad1b6a823ca6be12e8746dce4596b32b75819d9f1b8d0a0fd34c","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-20T16:56:43Z"}
 {"name":"low-luajit","vers":"0.3.1","deps":[],"cksum":"f76e8fa6459b1b82e8eb7b7d940848bdd908d6afda223b19035c5b919585c419","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-23T12:55:06Z"}
+{"name":"low-luajit","vers":"0.4.0","deps":[],"cksum":"e631be2a52a772d24607d19464fc5ba900c60de7d6e8da57309a3a164aff9442","features":{"no_msrv":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-03T15:53:41Z"}
