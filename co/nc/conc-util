@@ -10,3 +10,4 @@
 {"name":"conc-util","vers":"0.5.0","deps":[],"cksum":"8a2a400cd8ee082b9e1423de4b6217445705dbf97073b6be85aa52002104fc4c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T18:48:07Z"}
 {"name":"conc-util","vers":"0.5.1","deps":[],"cksum":"10aea24d3483c332bbac7ffc952bb832a43d407162b0a86280a5df797ab78378","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T22:31:33Z"}
 {"name":"conc-util","vers":"0.5.2","deps":[],"cksum":"92d6d856b6c677f93cc8cea57276cb547bbbe1ce9abefd67c4ff18a59642c4c1","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T23:25:26Z"}
+{"name":"conc-util","vers":"0.5.3","deps":[],"cksum":"3179ab57dfaa6070489a25742d31385cdc252b4cb61805057bbd9ec5cf5d181c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T23:27:24Z"}
