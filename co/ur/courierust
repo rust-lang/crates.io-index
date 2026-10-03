@@ -6,3 +6,4 @@
 {"name":"courierust","vers":"1.0.5","deps":[],"cksum":"18835cea2efe2fccd297a28a09d7cb60e50a3a2bfcf735410a1cf4d7bd5fa6bd","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.78","pubtime":"2026-09-13T18:21:55Z"}
 {"name":"courierust","vers":"1.0.6","deps":[],"cksum":"b57345c776abf8625aa86c3aa7d1395ca2e970b79040ab1c6e5e67930589cd22","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.78","pubtime":"2026-09-14T02:50:19Z"}
 {"name":"courierust","vers":"1.0.7","deps":[],"cksum":"4dd4bdb0606308c783d886160451e8e074bb6c1c1ee7c154efa6b6402aa27ad0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-14T05:43:01Z"}
+{"name":"courierust","vers":"1.0.8","deps":[],"cksum":"35e39bd9fd828e6f75ab4e28fcec78b1fb8580c9508c4b74ce02b82f7bd1603c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-10-03T09:25:12Z"}
