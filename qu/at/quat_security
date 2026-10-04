@@ -5,3 +5,4 @@
 {"name":"quat_security","vers":"0.4.1","deps":[],"cksum":"54d69900632ddcdd04af58c35a361b42a07fe5d973be7a501b8821e293de7b48","features":{},"yanked":false,"pubtime":"2026-09-15T11:38:12Z"}
 {"name":"quat_security","vers":"0.5.0","deps":[],"cksum":"661f99e5721beb2444f0cc064f62eae18908a69683e9e7ec481a646ba6f2d6a0","features":{},"yanked":false,"pubtime":"2026-09-19T11:52:13Z"}
 {"name":"quat_security","vers":"0.6.0","deps":[],"cksum":"adf238ceaaa728f415c6540144054935c48ea0a451fb0cd345e17e8b1a31a7ae","features":{},"yanked":false,"pubtime":"2026-09-26T17:58:33Z"}
+{"name":"quat_security","vers":"1.0.0","deps":[{"name":"cbindgen","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"249e0a586f8267a8b8025e2e5fc3aa38bc5004de6d2d49c5653ec5fa8934cdd5","features":{},"yanked":false,"pubtime":"2026-10-04T00:55:22Z"}
