@@ -1,1 +1,2 @@
 {"name":"contains_lines","vers":"0.0.1","deps":[],"cksum":"9e975c4385c8388e8f74feca3a40f6300e737bdd26bdfb0e76d3419652e2bb67","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-09T01:35:14Z"}
+{"name":"contains_lines","vers":"0.0.2","deps":[{"name":"regex","req":"^1.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"843e5fe8e83748bb9698cf3c0d27a6c1243551cd4ba2ca937ccddac5162556e9","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-04T00:51:04Z"}
