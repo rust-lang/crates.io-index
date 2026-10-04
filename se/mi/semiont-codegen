@@ -1,0 +1,1 @@
+{"name":"semiont-codegen","vers":"0.6.9","deps":[{"name":"serde_json","req":"^1.0.151","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a319aacfe347f54e37377915eb506776125b20005c52d7c34f2a81e4eba39c8e","features":{},"yanked":false,"pubtime":"2026-10-04T04:33:27Z"}
