@@ -1,0 +1,1 @@
+{"name":"horton","vers":"0.17.0","deps":[{"name":"loom","req":"=0.7.2","features":[],"optional":false,"default_features":true,"target":"cfg(horton_loom)","kind":"normal"}],"cksum":"bd2c33895ae002dffcf22ad18222f9db4ee065d8a90c9ea3bdc733df6714ae4a","features":{"multiwriter":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-09T17:41:24Z"}
