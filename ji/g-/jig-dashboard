@@ -1,1 +1,2 @@
 {"name":"jig-dashboard","vers":"0.0.0","deps":[],"cksum":"39c38a921da98daecbe0c1212ce58a23d8c537dfecbc925df9ab93a410d1985b","features":{},"yanked":true,"pubtime":"2026-10-09T20:49:43Z"}
+{"name":"jig-dashboard","vers":"0.8.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00e80a84bb6d1e0b3c8026faebb63bef318ace8d71b9f7ecc63d582320994401","features":{"test-support":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-09T22:21:32Z"}
