@@ -1,0 +1,1 @@
+{"name":"nexusnet-router","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e81672666bc8be6a99a87c3db3009adb6fe8255fff0891aac6f4f7e7a92ade2e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-25T18:19:39Z"}

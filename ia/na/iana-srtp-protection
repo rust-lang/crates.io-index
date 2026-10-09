@@ -1,0 +1,1 @@
+{"name":"iana-srtp-protection","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"4c248b997e097b28640ea538c8406763a84eefcc54b081057e34ccbf7c3ef7d4","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-27T23:37:32Z"}

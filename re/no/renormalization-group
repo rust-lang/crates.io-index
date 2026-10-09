@@ -1,0 +1,1 @@
+{"name":"renormalization-group","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60c5af93b7c9fd17edca83b179c3737f7a15e331c23db7f6fb028e0d9504ca5a","features":{},"yanked":false,"pubtime":"2026-06-07T05:15:03Z"}

@@ -1,0 +1,1 @@
+{"name":"ahx-rs","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.16","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02c9b8d1fab24c57b17922741208cdc44aedb53483a5529872358262c8aa8c8f","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-09-17T23:55:58Z"}

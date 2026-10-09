@@ -1,0 +1,1 @@
+{"name":"optimizers","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.28.2","features":["extension-module","abi3-py39"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06d78a6c2751f0eb043687c613ed38369e15d859732f4bdaffe70aed8cf4ada8","features":{},"yanked":true,"pubtime":"2026-10-05T12:47:18Z"}

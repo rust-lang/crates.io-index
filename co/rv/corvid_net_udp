@@ -1,0 +1,1 @@
+{"name":"corvid_net_udp","vers":"0.1.2","deps":[{"name":"corvid_net","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6034c6b1eeb8aec57f183318ea57d1074195a98c3b163cb91dff5929af501a3b","features":{"default":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-15T23:18:08Z"}

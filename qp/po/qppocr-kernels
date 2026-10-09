@@ -1,0 +1,3 @@
+{"name":"qppocr-kernels","vers":"0.2.0","deps":[],"cksum":"36492d931f0284e3147d4f72306a1bd5cc7e93de70e5531be5fb70caea67ecf6","features":{"default":["parallel"],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-27T15:26:24Z"}
+{"name":"qppocr-kernels","vers":"0.2.1","deps":[],"cksum":"12d0187895098264c3d9b1e24108eadc5ce43339c308c881f9263a474b8c66d4","features":{"default":["parallel"],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-27T15:35:03Z"}
+{"name":"qppocr-kernels","vers":"0.3.1","deps":[],"cksum":"bcafdf7cf67be0315c7dc7daa49db9c22f6ba436ac2a8212d40097092cf6e0bd","features":{"default":["parallel"],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T16:09:46Z"}

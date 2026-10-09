@@ -1,0 +1,1 @@
+{"name":"zarpyon-support-transport-reqwest","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.12","features":["rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3a46d042abc70edd6d6bb64f603291535f48b8e4a8b5f77e5e8fd199653c764e","features":{},"yanked":false,"pubtime":"2026-09-24T17:35:07Z"}

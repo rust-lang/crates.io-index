@@ -1,0 +1,1 @@
+{"name":"pooled-arc","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85b293b36b82078e27b4519abe983c609d5e03026d30b7d0ccf8798040d616e8","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-02-18T14:51:42Z","v":2}

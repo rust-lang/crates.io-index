@@ -1,0 +1,1 @@
+{"name":"pith-mp4","vers":"0.1.0","deps":[{"name":"pith-digest","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18f27b171a60493e19764ee619e45da674dad0991919538f8a9d500159b8c96c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-09T02:08:06Z"}

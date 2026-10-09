@@ -1,0 +1,1 @@
+{"name":"iana-matroska","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"35a2a823e9a2a40e950ca6b58896609baf1f1c70ea76f15d430e41fdf6dc2f10","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T00:57:35Z"}

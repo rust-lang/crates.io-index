@@ -1,0 +1,1 @@
+{"name":"neco-stencil","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01ced7f78bdfd0645517a21233c0e5bb36fc2dadd1e308ce7865b69a7546c715","features":{"default":[]},"features2":{"rayon":["dep:rayon"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-03T05:48:59Z","v":2}

@@ -1,0 +1,1 @@
+{"name":"shannon-plugin-api","vers":"0.11.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e3a33f3dff27a7464a497aa6a3fd121f4ceadda4ca38fd7e9c9186c036b9288","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-09T18:29:26Z"}

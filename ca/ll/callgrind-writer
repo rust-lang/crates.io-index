@@ -1,0 +1,1 @@
+{"name":"callgrind-writer","vers":"0.1.0","deps":[{"name":"callgrind-parser","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e34d4c932fe2ebac3c4e6bfb69bfe46da5adb65ac1da995af63df7e96c09bf9c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-23T00:23:34Z"}

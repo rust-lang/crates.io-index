@@ -1,0 +1,1 @@
+{"name":"scaffold-agent-skill","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6eca21873eb18e3026479f92edc3f0e14682590f3d75ba9011b150991d0cec3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-01T15:53:37Z"}

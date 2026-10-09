@@ -1,0 +1,1 @@
+{"name":"gcra-limiter","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6da8649fbcc8b3784e1bca3620dac79688baba894e75785836727da1deed1ad4","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-04T15:39:45Z"}

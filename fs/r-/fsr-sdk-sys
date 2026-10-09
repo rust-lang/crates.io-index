@@ -1,0 +1,1 @@
+{"name":"fsr-sdk-sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7e0ba27a9cc3b95dcb8c4d26c37bc04b2961babd6cd089d63ecde0e705f734e","features":{"default":[],"dx12":[],"vulkan":[]},"yanked":false,"pubtime":"2026-09-28T19:30:01Z"}

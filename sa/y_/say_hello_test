@@ -1,0 +1,3 @@
+{"name":"say_hello_test","vers":"0.1.0","deps":[],"cksum":"69a741924d154769b437cb2235e567a1eaa5405b8dc6f0cf7af5ad5a3d636bff","features":{},"yanked":false,"pubtime":"2026-04-18T08:40:14Z"}
+{"name":"say_hello_test","vers":"0.2.0","deps":[],"cksum":"1b42f488c1c4d7fc7605238af67675039d9235e4fdc58cfc89b67e14153398ad","features":{},"yanked":false,"pubtime":"2026-04-18T08:57:36Z"}
+{"name":"say_hello_test","vers":"0.3.0","deps":[],"cksum":"c59e8ec09a8b3973b95a17a189ba43e8a9cfea0d419355c4f99e1ff309262dce","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-04-18T10:06:18Z"}

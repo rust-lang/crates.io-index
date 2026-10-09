@@ -1,0 +1,1 @@
+{"name":"pera-tmux","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.0","features":["macros","process","rt-multi-thread","signal","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f92b8abb6b2f7d1597f6b9d190047eb64a1ecfa4cadbdf9d7347ab8f472de87","features":{},"yanked":false,"pubtime":"2026-02-15T05:46:05Z"}

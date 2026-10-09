@@ -1,0 +1,1 @@
+{"name":"frp-plexus","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c8fb5a468561b97f7b36d8ede94b510b1c99bb57def450af961f956c790d7dc","features":{},"yanked":false,"pubtime":"2026-04-29T22:37:42Z"}

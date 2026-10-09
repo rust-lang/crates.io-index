@@ -1,0 +1,1 @@
+{"name":"fishing-protocol","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8edf9e9b2e2c4c5f144872befb9e20590f67a528b9a82d4d4f5e6c4f1196661f","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":true,"pubtime":"2026-09-15T01:32:58Z","v":2}

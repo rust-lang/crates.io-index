@@ -1,0 +1,2 @@
+{"name":"ulmen-core","vers":"1.0.7","deps":[],"cksum":"1a01d32bc0d6be5865b875d6a882881dc1aeb4e5e112798d13141af1e6b4a395","features":{},"yanked":false,"pubtime":"2026-07-10T21:04:44Z"}
+{"name":"ulmen-core","vers":"1.1.0","deps":[],"cksum":"e7879bada809438150c91f3e53452751972131a42b39378711cd98a1ec934d18","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-07-13T22:03:03Z"}

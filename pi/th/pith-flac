@@ -1,0 +1,1 @@
+{"name":"pith-flac","vers":"0.1.0","deps":[{"name":"pith-digest","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf10cb74f9cb14f8ef8e2399f3dc4483eb68b1751c90e95da21feab260883d71","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-09T01:43:48Z"}

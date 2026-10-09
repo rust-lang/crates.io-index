@@ -1,0 +1,1 @@
+{"name":"glaucus-validate","vers":"0.0.1-1","deps":[{"name":"glaucus","req":"^0.0.1-1","features":["schema"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"62d8dc494c0bc0a79359e0900687ca6babcf2e8421a5d3c50996fc4beb0d559e","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-02T14:29:33Z"}

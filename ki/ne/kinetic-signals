@@ -1,0 +1,1 @@
+{"name":"kinetic-signals","vers":"0.4.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"283f1bac80af9db929c73eb2e9e9a29a0b01d214efd818ca3f5d9f9b4acda7f9","features":{"default":[]},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-10T20:59:43Z"}

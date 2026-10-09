@@ -1,0 +1,1 @@
+{"name":"cp2k-elpa-sys","vers":"0.3.1","deps":[{"name":"cp2k-build-utils","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e4c1021a73cbb0f86122ae29979f666e6492baab22af92b251a0b3bbdb14d93a","features":{"cuda":[],"hip":[]},"yanked":false,"links":"cp2k_elpa","pubtime":"2026-09-23T10:07:12Z"}

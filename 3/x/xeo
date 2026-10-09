@@ -1,0 +1,7 @@
+{"name":"xeo","vers":"0.0.1","deps":[],"cksum":"696fc16924fc1ffb664c9d4a3c2c8e48c968c00cf00922235079d8b4f5578e12","features":{},"yanked":false,"pubtime":"2026-01-14T02:38:02Z"}
+{"name":"xeo","vers":"0.1.0","deps":[],"cksum":"93630fcdc85f3332b22ffd09c99c2f3775596699f17710a61ebd6b95e07e5648","features":{},"yanked":false,"pubtime":"2026-01-14T23:33:51Z"}
+{"name":"xeo","vers":"0.1.1","deps":[],"cksum":"13e185867cbc061827c2f542ddefa1bd9e6e02d2bfe7ada88ec6064f2de68290","features":{},"yanked":false,"pubtime":"2026-01-14T23:36:55Z"}
+{"name":"xeo","vers":"0.1.2","deps":[],"cksum":"22d45a7ce63a04c2e874889c05aa9a871ae7e4d73d61932e9c3ffa75ba393e52","features":{},"yanked":false,"pubtime":"2026-01-14T23:59:14Z"}
+{"name":"xeo","vers":"0.1.3","deps":[],"cksum":"4d741d8c28b1052aa3b8fc4df85a3455f9cda2926abce22dd1005c19a36a58ae","features":{},"yanked":false,"pubtime":"2026-01-15T00:03:30Z"}
+{"name":"xeo","vers":"0.1.4","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4da06998c931ea56a196a8e75702d1039c5fa8e4eb78c39aa4f6d2826d5fc85a","features":{},"yanked":false,"pubtime":"2026-01-18T22:17:54Z"}
+{"name":"xeo","vers":"0.1.5","deps":[{"name":"httparse","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d29ec830133eadc97c092f97f3f72e35645af15fd0a222ad536fc7c957a181cf","features":{},"yanked":false,"pubtime":"2026-01-18T22:32:40Z"}

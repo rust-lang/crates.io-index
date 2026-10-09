@@ -1,0 +1,9 @@
+{"name":"ironwork-jcl","vers":"0.1.2","deps":[],"cksum":"30237b571bf3b97241271683cb7606b568713845b24ac2658571a838a0815e0e","features":{},"yanked":false,"pubtime":"2026-09-30T11:25:40Z"}
+{"name":"ironwork-jcl","vers":"0.2.0","deps":[],"cksum":"fd9f39045014cd53ec415a2d906e8005cff19ea5848af53313cab1cfee13b2b1","features":{},"yanked":false,"pubtime":"2026-10-02T05:26:20Z"}
+{"name":"ironwork-jcl","vers":"0.3.0","deps":[],"cksum":"77a1c9e11ff128f69d74d00747e70eeed2b0c3198ec13545dbe0956b5378f76f","features":{},"yanked":false,"pubtime":"2026-10-02T14:38:50Z"}
+{"name":"ironwork-jcl","vers":"0.4.1","deps":[],"cksum":"ffd42fd783088b4c6d0268e03ebf3bbbbf28b65f0997f98fec1b0d062ec73eca","features":{},"yanked":false,"pubtime":"2026-10-03T14:09:10Z"}
+{"name":"ironwork-jcl","vers":"0.5.0","deps":[],"cksum":"78fcfafda867bb2bd4f0b55f9ebe73987f5b89d803f359dc190cfb2031fb3bf6","features":{},"yanked":false,"pubtime":"2026-10-04T08:05:26Z"}
+{"name":"ironwork-jcl","vers":"0.6.0","deps":[],"cksum":"18fc45553ec6be2f56ea318e2a594a9b98a60aefc1cb90a49747d3e347023cc7","features":{},"yanked":false,"pubtime":"2026-10-04T08:21:49Z"}
+{"name":"ironwork-jcl","vers":"0.7.0","deps":[],"cksum":"0bde0a734f3788472336dfbf311ec160a04ce00a9066207186663ad0caeaa2e5","features":{},"yanked":false,"pubtime":"2026-10-04T08:56:20Z"}
+{"name":"ironwork-jcl","vers":"0.8.0","deps":[],"cksum":"1f6dac49e490727d45570c20b80812593fa61c2a1c410ff680e577cb23a9d6b6","features":{},"yanked":false,"pubtime":"2026-10-06T14:32:52Z"}
+{"name":"ironwork-jcl","vers":"0.9.0","deps":[{"name":"syntax","req":"=0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ironwork-syntax"}],"cksum":"09303c54ce61d96c851a95c1643805f51c8d36b32d136d1e841efe6d5ccd26a5","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T12:15:35Z"}

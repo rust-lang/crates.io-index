@@ -1,0 +1,1 @@
+{"name":"msrt-std","vers":"0.1.0","deps":[{"name":"msrt","req":"^0.1.8","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5bf9f01f2df20cd3a57f92fd88a5cb3e1bb0ad7e7209fdd872cdff07a38bf082","features":{},"yanked":false,"pubtime":"2026-06-15T01:40:42Z"}

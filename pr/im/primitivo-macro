@@ -1,0 +1,1 @@
+{"name":"primitivo-macro","vers":"0.0.1","deps":[{"name":"anchor-lang","req":"^0.32.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"799c32a58dfc9a5872668d60eff7932805e0ace3ae2b3ce4f79ac637cb410f30","features":{"default":[],"idl-build":["anchor-lang/idl-build"]},"yanked":false,"pubtime":"2026-03-11T12:10:59Z"}

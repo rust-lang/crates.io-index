@@ -1,0 +1,1 @@
+{"name":"baijimu-content-contract","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ade736447cab09e47b6ae7104bd279fc92b30670ab906ec85278bb9c38fca13","features":{},"yanked":false,"pubtime":"2026-10-06T17:50:40Z"}

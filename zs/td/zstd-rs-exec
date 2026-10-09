@@ -1,0 +1,1 @@
+{"name":"zstd-rs-exec","vers":"0.1.0","deps":[{"name":"zstd-rs","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"653144a80b2f30da410cc834172a5a486852acc61def1d4ee6444e58e23d1484","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T22:15:51Z"}

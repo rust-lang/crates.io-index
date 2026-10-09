@@ -1,0 +1,1 @@
+{"name":"quilt-zout","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05f594333f804312fe548fbb554d2fea4f67c7681c5a108c207ae519fcb189aa","features":{},"yanked":false,"pubtime":"2026-08-21T09:35:42Z"}

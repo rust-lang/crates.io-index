@@ -1,0 +1,1 @@
+{"name":"dream-soft-render","vers":"1.0.0","deps":[{"name":"egui","req":"^0.34","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77cfb5e928da15f9baaea82bd581e2ff20a4ba8f6aee2baaaee5ae4bd5147326","features":{"default":[]},"features2":{"egui":["dep:egui"]},"yanked":false,"rust_version":"1.92","pubtime":"2026-09-28T15:36:40Z","v":2}

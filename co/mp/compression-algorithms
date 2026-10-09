@@ -1,0 +1,1 @@
+{"name":"compression-algorithms","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5feac3dc7b6c5a728f93d5d57b63266233ea3263abd49f1c9b636103d67bc645","features":{},"yanked":false,"pubtime":"2026-06-02T19:58:13Z"}

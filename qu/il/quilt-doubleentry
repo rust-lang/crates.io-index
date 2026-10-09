@@ -1,0 +1,1 @@
+{"name":"quilt-doubleentry","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4d1eb31447bb779be04a551f1887d32523d323022b6c336a55986b9a9fdde71","features":{},"yanked":false,"pubtime":"2026-08-21T09:36:24Z"}

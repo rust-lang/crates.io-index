@@ -1,0 +1,1 @@
+{"name":"argus-anomaly","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0397f16f36777419e147eb2f7f36c80dd8a08962f7593be7c774285abe16a423","features":{},"yanked":false,"pubtime":"2026-10-06T14:40:55Z"}

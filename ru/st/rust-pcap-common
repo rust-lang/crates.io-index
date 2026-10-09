@@ -1,0 +1,1 @@
+{"name":"rust-pcap-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.14","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9659f4140d4d6a0ab832c3863d32a6f7b19020ed64efca8ec614a354098efb65","features":{"default":[],"user":["aya"]},"yanked":false,"pubtime":"2026-07-15T22:15:45Z"}

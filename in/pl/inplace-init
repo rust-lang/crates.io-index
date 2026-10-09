@@ -1,0 +1,1 @@
+{"name":"inplace-init","vers":"0.1.0","deps":[{"name":"inplace-init-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00d2525c1fe1c84875629f058bc88ba08b00f43d915bbd968d1306d667d443ed","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-10-08T09:43:46Z"}

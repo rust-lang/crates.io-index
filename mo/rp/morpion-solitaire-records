@@ -1,0 +1,2 @@
+{"name":"morpion-solitaire-records","vers":"0.0.0","deps":[],"cksum":"5e725c6ae7c7aa72108238e81854f990533d12e81f54e97fca8eb0782db8e1de","features":{},"yanked":false,"pubtime":"2026-06-14T08:54:45Z"}
+{"name":"morpion-solitaire-records","vers":"0.1.0","deps":[{"name":"morpion-solitaire-record","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e92471cf7e4d9c05b05727d40f606f2cb66bd6be889d0f2e09d8a69bb08f9584","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-15T06:20:17Z"}

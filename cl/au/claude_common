@@ -1,0 +1,1 @@
+{"name":"claude_common","vers":"1.0.0","deps":[{"name":"test_tools","req":"~0.16","features":["full"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"5c324367ff0af6e8db76d1ae2c20fade3a29a0f91320c67f591fcc538cdc4ca8","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-04-15T10:14:45Z"}

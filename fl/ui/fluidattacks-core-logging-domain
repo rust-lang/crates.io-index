@@ -1,0 +1,2 @@
+{"name":"fluidattacks-core-logging-domain","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"813805087c3b95754ecc2e928cb69c6f8eb09ae23ff1669669a6bf73cce35fe9","features":{},"yanked":true,"pubtime":"2026-08-26T21:07:34Z"}
+{"name":"fluidattacks-core-logging-domain","vers":"0.29.0","deps":[],"cksum":"8598198fb8ff0cfabd96875ec9724ead4dd4049d1c4a44abc9c740f0cef89fd1","features":{},"yanked":false,"pubtime":"2026-08-27T16:26:51Z"}

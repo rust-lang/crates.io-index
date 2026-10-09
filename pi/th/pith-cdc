@@ -1,0 +1,1 @@
+{"name":"pith-cdc","vers":"0.1.0","deps":[{"name":"pith-digest","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddf2c95e22134f24845940ece6a282e6bf93f270739dd97430f5cf83493a098f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-09T03:52:08Z"}

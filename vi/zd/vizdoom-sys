@@ -1,0 +1,1 @@
+{"name":"vizdoom-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"a461aad384ceeb87a9eef1b6d2b63cecb090fc2a0eb0ac901dd9af686e7561fa","features":{},"features2":{"static-link":["dep:cmake"]},"yanked":false,"links":"vizdoom","pubtime":"2026-06-08T03:09:37Z","v":2}

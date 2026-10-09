@@ -1,0 +1,1 @@
+{"name":"acton-service-core","vers":"0.47.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3c8d73593c5ed838cf69e81dda2d77ed8fcc3f527892ab96182b501da68fc97","features":{"mssql":[]},"yanked":false,"pubtime":"2026-10-07T16:51:35Z"}

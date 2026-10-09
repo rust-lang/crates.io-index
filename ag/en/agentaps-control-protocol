@@ -1,0 +1,1 @@
+{"name":"agentaps-control-protocol","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07b086dc847c155dc2f5c1494365a74a131e5c127573661c3437bc26465f5fe9","features":{},"yanked":false,"pubtime":"2026-10-08T17:18:12Z"}

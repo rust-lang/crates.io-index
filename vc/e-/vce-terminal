@@ -1,0 +1,1 @@
+{"name":"vce-terminal","vers":"0.1.1","deps":[{"name":"engine","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"vce-engine"}],"cksum":"cb74b1c47ebcb9c319c920e65ba95ec9eb28cdb6cd1ad057b2ce47750e39f2ce","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-02T06:50:29Z"}

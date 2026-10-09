@@ -1,0 +1,1 @@
+{"name":"argus-investigate","vers":"0.2.0","deps":[{"name":"uuid","req":"^1","features":["v4","serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abeaaaec1b212ad51b061d29ac2c4c609a61e6366123d1c6b4e7d71751ba0897","features":{},"yanked":false,"pubtime":"2026-10-06T14:42:45Z"}

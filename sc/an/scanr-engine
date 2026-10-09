@@ -1,0 +1,1 @@
+{"name":"scanr-engine","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae83ca97feb51e6bdf4f0a22610b793895833a12c7f9b8ed042150579e1c5d4","features":{},"yanked":false,"pubtime":"2026-03-03T18:00:13Z"}

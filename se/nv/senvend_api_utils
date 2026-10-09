@@ -1,0 +1,1 @@
+{"name":"senvend_api_utils","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.23.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"33c77a1000475c304c2fe495c90089537f05e89c2dc54aa9bbfbb579a7a31c11","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-09-16T21:12:51Z"}

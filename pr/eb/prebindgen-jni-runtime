@@ -1,0 +1,1 @@
+{"name":"prebindgen-jni-runtime","vers":"0.5.0","deps":[{"name":"jni","req":"^0.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63e1c12ad857da45a8c6977a4b5b3395b4f53c8082239dcde925f3b964144531","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-07T14:01:04Z"}

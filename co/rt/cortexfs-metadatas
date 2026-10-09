@@ -1,0 +1,1 @@
+{"name":"cortexfs-metadatas","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7b7aa78fff2783c68938100c6d4b6c152d6212c0fcb97afe619ce2cdf1df46d","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-16T12:19:35Z"}

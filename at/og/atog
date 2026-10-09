@@ -1,0 +1,5 @@
+{"name":"atog","vers":"1.0.0","deps":[],"cksum":"e4c7ba6427525ebf4d5751d036083f587fd50f8a8e9add9ac9110094aca4f574","features":{},"yanked":false,"pubtime":"2025-11-26T03:06:36Z"}
+{"name":"atog","vers":"1.0.1","deps":[],"cksum":"f9107f11c8cb825ab24ae9f7b1d3915ef38a15301c37a31e41d03e39a5558c7d","features":{},"yanked":false,"pubtime":"2025-11-26T03:07:34Z"}
+{"name":"atog","vers":"1.0.2","deps":[],"cksum":"01a2e8f690f4e3bdd1cec721e29991c6c03f5536f68b844bb42dce5c0e060344","features":{},"yanked":false,"pubtime":"2025-11-26T03:13:27Z"}
+{"name":"atog","vers":"1.1.0","deps":[],"cksum":"27187c675c28d136124e35a1064940d78af321eed48651007258e4b9fd2a0d64","features":{},"yanked":false,"pubtime":"2025-12-08T19:24:07Z"}
+{"name":"atog","vers":"1.2.0","deps":[{"name":"mazer-atog","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7f6b242de248e4324b088549b849d1a41468c5015395300436783f14d5e218b","features":{},"yanked":false,"pubtime":"2026-01-05T19:01:49Z"}

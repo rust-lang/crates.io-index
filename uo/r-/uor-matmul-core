@@ -1,0 +1,1 @@
+{"name":"uor-matmul-core","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e564c8e10b5eab17fcdd673261fe3871f56f59742dd4ab3d5b877a4b7caff1f7","features":{"default":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-14T23:17:20Z"}

@@ -1,0 +1,1 @@
+{"name":"async-pqueue","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["macros","rt","rt-multi-thread","sync","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"19972d67658937d45486db4df57e865c9c77e1b31b78fb5c62e602c4335dae19","features":{},"yanked":false,"pubtime":"2026-08-26T14:16:39Z"}

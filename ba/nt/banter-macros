@@ -1,0 +1,1 @@
+{"name":"banter-macros","vers":"0.1.0","deps":[{"name":"unsynn","req":"^0.3","features":["proc_macro2"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"52883e4a3eb91dd7403aafc9f548705f1aab53043159b80805dff45a365cc555","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-28T09:50:48Z"}

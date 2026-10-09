@@ -1,0 +1,1 @@
+{"name":"cuda-forth","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b588c0683de8e36c46de3c8a33d4f969eb08b00f7501108da9b685a76717327","features":{},"yanked":false,"pubtime":"2026-04-27T01:02:15Z"}

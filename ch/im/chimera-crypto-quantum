@@ -1,0 +1,1 @@
+{"name":"chimera-crypto-quantum","vers":"0.1.0","deps":[{"name":"chimera-nano-kernel","req":"^0.1.0","features":["host","pq"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"38ccb6126697e648caba66c9ff9c0934db9a919dd8373f3a3d69749078642216","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-08T00:22:37Z"}

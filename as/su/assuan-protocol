@@ -1,0 +1,1 @@
+{"name":"assuan-protocol","vers":"1.0.0","deps":[{"name":"zeroize","req":"^1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3ec2ef8faacff94b0f65b897862a9f1305d2ceeef015d3a0319ec700b51c54d4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-23T15:52:31Z"}

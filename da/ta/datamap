@@ -1,0 +1,1 @@
+{"name":"datamap","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc78156ab8e5328a2172df6a8afea26a985e82a514b71af1efd773962257cae5","features":{"default":["u64"],"u64":[]},"yanked":false,"pubtime":"2026-06-22T14:07:22Z"}

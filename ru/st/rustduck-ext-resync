@@ -1,0 +1,1 @@
+{"name":"rustduck-ext-resync","vers":"1.0.0","deps":[{"name":"rustduck-ext-transport-stream","req":"=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e166ae317d078e07e96db12b49622ed9d267fcbfcf4a3dd5210988df455ee91","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-11T05:15:07Z"}

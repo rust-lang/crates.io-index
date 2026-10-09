@@ -1,0 +1,1 @@
+{"name":"message-broker-svc-spi-shared","vers":"0.1.0","deps":[{"name":"message-broker-pattern","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaa49a3a518f56dded48ecc9ede474ea82a9d72cb66ef522b9316ebda3c9a9e8","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-14T14:18:46Z"}

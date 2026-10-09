@@ -1,0 +1,1 @@
+{"name":"oliphaunt-seed-native-linux-arm64-gnu-icu","vers":"0.2.2","deps":[{"name":"oliphaunt-icu","req":"=0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"628de6d1a186bd00cf6a65912ebb41b9c74d5704dcc64295e73b4a6de2ee16b2","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-03T01:52:07Z"}

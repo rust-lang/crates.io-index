@@ -1,0 +1,2 @@
+{"name":"rados-sys","vers":"0.0.0","deps":[],"cksum":"8a038e0bc8f1ff933a247f65c75e7d2bb1f803f2aa2905b184721c8812d4ac8c","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-10-05T10:48:39Z"}
+{"name":"rados-sys","vers":"0.1.0","deps":[{"name":"ceph-bindings-gen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":"cfg(not(ceph_sys_bundled))","kind":"build"}],"cksum":"0d88b40f3cd194b12a62bdfe53adbe96ed5f894bf715948a989d4a481cb5e406","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-05T16:03:32Z"}
