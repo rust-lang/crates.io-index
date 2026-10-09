@@ -1,0 +1,1 @@
+{"name":"killw","vers":"0.1.0","deps":[{"name":"windows","req":"^0.54.0","features":["Win32_Foundation","Win32_System_Threading","Win32_System_Console"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ab1d20591c9a9475c36b8305cf9823c5d0a9cde067e6f49b4aa4f169df3620","features":{},"yanked":false,"pubtime":"2026-10-09T11:04:20Z"}
