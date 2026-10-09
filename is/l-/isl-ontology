@@ -4,3 +4,4 @@
 {"name":"isl-ontology","vers":"0.3.0","deps":[],"cksum":"a0b9904893d9644f55b5b6a09d6408a348533498c94e780c607e5fcf879d714a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-06T23:13:25Z"}
 {"name":"isl-ontology","vers":"0.3.1","deps":[],"cksum":"fd72e06334a9f2199ebef97dbe3629fe3f49545788c16c2f86c8a7b5d694bc8a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-07T04:57:38Z"}
 {"name":"isl-ontology","vers":"0.3.2","deps":[],"cksum":"5204ab612f0df2af6cbeac5cc8e4bf2d0850ec10b3b4e9152cb868258866d19d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-07T16:53:57Z"}
+{"name":"isl-ontology","vers":"0.3.3","deps":[],"cksum":"94165eb8b4fdc125ec7df617eab9d873ab6d45ae18a7db5db75da4491311a32b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-09T23:00:13Z"}
