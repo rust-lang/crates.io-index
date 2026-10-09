@@ -7,3 +7,4 @@
 {"name":"netw","vers":"0.5.6","deps":[{"name":"priority-queue","req":"^2.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"008e522472a042a70f96eded77df1d5f754c25a0fabf49a411e7f6077b73adf0","features":{},"yanked":false,"pubtime":"2026-09-01T18:08:25Z"}
 {"name":"netw","vers":"0.5.7","deps":[{"name":"priority-queue","req":"^2.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"382fa13d906db6d6d3093bf0c4b84e944854238ad0349b3c63307a88da083ba8","features":{},"yanked":false,"pubtime":"2026-09-26T14:50:22Z"}
 {"name":"netw","vers":"0.6.0","deps":[],"cksum":"b0a78fc1c6c7c8ba4115c4d5e17beb3bd1e1ce4d73470b4f877715fc1a5f6d1c","features":{},"yanked":false,"pubtime":"2026-10-07T19:07:00Z"}
+{"name":"netw","vers":"0.6.1","deps":[],"cksum":"c18d3aa3cc21415477056d211ba9b6b9189bd3f03b9c3d2fbe585c9742b145b8","features":{},"yanked":false,"pubtime":"2026-10-09T16:51:09Z"}
