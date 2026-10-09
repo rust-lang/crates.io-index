@@ -37,3 +37,4 @@
 {"name":"bikkuri","vers":"0.2.0-rc42","deps":[],"cksum":"206ea422549bf8ea9be51a33b6c5811c08f2253cdb6a1bd3831b80de83269f57","features":{},"yanked":false,"pubtime":"2026-06-17T15:56:28Z"}
 {"name":"bikkuri","vers":"0.2.0-rc43","deps":[],"cksum":"2ed486e39e73280ea46a9866e6f8c30593905429fa49975ccf8db3b0c8fe93c8","features":{},"yanked":false,"pubtime":"2026-06-17T20:17:10Z"}
 {"name":"bikkuri","vers":"0.2.0","deps":[],"cksum":"407edf32cf409fa2efd39c2ee97b2c59b1c8b5b3645d7fb84ad29703da9cf07d","features":{},"yanked":false,"pubtime":"2026-06-25T08:29:47Z"}
+{"name":"bikkuri","vers":"0.3.0","deps":[{"name":"regex","req":"^1.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b649e424c4f62abd62fee20b1f44c618eadcf33986fee499f30883b876872f84","features":{},"yanked":false,"pubtime":"2026-10-09T09:42:58Z"}
