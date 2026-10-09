@@ -1,3 +1,4 @@
 {"name":"minimage","vers":"0.1.1","deps":[],"cksum":"fac6d4edb4b59cc9deaae713b5f34e1abff2b9594eb5de88ff620ab210c81f68","features":{"capi":[],"default":["capi"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-13T19:37:51Z"}
 {"name":"minimage","vers":"0.1.2","deps":[],"cksum":"ad8f0c3ad52d3a9253be305dfee0ce9412d3f008784a031e346cc9de8700ee0e","features":{"capi":[],"default":["capi"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-27T00:21:27Z"}
 {"name":"minimage","vers":"0.1.3","deps":[],"cksum":"5b5871b19bca370f68bde5836914dcb7ca0aeca856eb8333233436841db1fbe7","features":{"capi":[],"default":["capi"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-04T22:31:43Z"}
+{"name":"minimage","vers":"0.1.4","deps":[],"cksum":"6e0c930112bcf7c3606a5e4dd67c90522432cb536a250d879967d094f1803abe","features":{"capi":[],"default":["capi"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-09T09:46:13Z"}
