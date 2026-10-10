@@ -1,1 +1,2 @@
 {"name":"charpente-sim","vers":"0.0.0","deps":[],"cksum":"60052f77446058c533c31f8e439eb64fda871db7a8b81413e6ff4c4ec6a472c3","features":{},"yanked":false,"pubtime":"2026-07-02T05:01:50Z"}
+{"name":"charpente-sim","vers":"0.1.0","deps":[{"name":"charpente-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cbfa0cc6d10253cd8a9cf5737819456b8fddc165440e2912eb8306007012856","features":{},"yanked":false,"pubtime":"2026-10-10T16:59:47Z"}
