@@ -1,1 +1,2 @@
 {"name":"verkval","vers":"0.1.0","deps":[],"cksum":"c71f5392a52d4ba5e09dc3d46639299f39f2a49ac46b311c09d90b4a5570f401","features":{},"yanked":false,"pubtime":"2026-09-21T18:41:18Z"}
+{"name":"verkval","vers":"0.2.0","deps":[{"name":"ristari","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74656141ba4dfb45946470942265ec896c9a7b1a940eb7eecda9f4084977edba","features":{},"yanked":false,"pubtime":"2026-10-10T17:21:48Z"}
