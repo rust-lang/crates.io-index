@@ -1,1 +1,2 @@
 {"name":"frazaro-core","vers":"0.8.0","deps":[],"cksum":"7571d11495b9a15b23107d8622c7deb939549292bc6905733420cabad97c6600","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-07T06:10:17Z"}
+{"name":"frazaro-core","vers":"0.8.1","deps":[{"name":"vla-lang","req":"=0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0957d545dc9ed12fc278c3cfa983737664a7071fbdff322dd74cc31d5591deee","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-10T08:45:38Z"}
