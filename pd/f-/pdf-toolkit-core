@@ -1,0 +1,1 @@
+{"name":"pdf-toolkit-core","vers":"0.1.0","deps":[{"name":"miniz_oxide","req":"^0.8","features":["with-alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d23a493948c3bcd15431274b4d838c3fc5443a8b4ee17eaa06d391f82c52deaf","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-10T10:34:37Z"}
