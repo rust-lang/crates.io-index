@@ -1,1 +1,2 @@
 {"name":"opsec","vers":"0.1.0","deps":[],"cksum":"10c992c9a725480941220cacdd195dacc2426f7ac99aae4c353e0e17aabd0c24","features":{},"yanked":false,"pubtime":"2026-10-09T05:25:34Z"}
+{"name":"opsec","vers":"1.0.0","deps":[{"name":"rand","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"450ac16de5a4ad68a2edb8436fc297824bc2d024c90574a41129e9f8fc936524","features":{},"yanked":false,"pubtime":"2026-10-10T08:26:19Z"}
