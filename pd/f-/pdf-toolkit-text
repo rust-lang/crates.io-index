@@ -1,0 +1,1 @@
+{"name":"pdf-toolkit-text","vers":"0.1.0","deps":[{"name":"pdf-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"pdf-toolkit-core"}],"cksum":"61143ad02de4983e3ef211e75640b32eb130f96e71621acdb710545f654c83cd","features":{"default":["std"],"std":["pdf-core/std"]},"yanked":false,"pubtime":"2026-10-10T10:34:43Z"}
