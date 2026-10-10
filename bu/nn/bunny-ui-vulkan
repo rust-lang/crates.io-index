@@ -1,0 +1,1 @@
+{"name":"bunny-ui-vulkan","vers":"0.1.0","deps":[{"name":"bunny-ui","req":"^0.1.0","features":["canvas","gpu"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5cba91da5b216f75df3011e6179fac14883d26000cca722cb0a1ce86564bffe8","features":{},"yanked":false,"pubtime":"2026-10-10T01:08:19Z"}
