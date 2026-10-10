@@ -1,0 +1,1 @@
+{"name":"rivium-error","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1.41","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"176b8ba3ff86fc040bb457d95f49523d00ab058efd2b4d4fdfd26b2c79807b0c","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-10-10T07:54:15Z"}
