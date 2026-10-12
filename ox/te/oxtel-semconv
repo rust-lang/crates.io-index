@@ -1,3 +1,4 @@
 {"name":"oxtel-semconv","vers":"0.0.1","deps":[],"cksum":"2ad254ec2758373acddfa0402e953af7c0753e230066e7e9c7c368598a8d3eb6","features":{},"yanked":false,"pubtime":"2026-10-09T03:41:23Z"}
 {"name":"oxtel-semconv","vers":"0.1.0","deps":[],"cksum":"b9f30de0ce3c7619cd5662454e883ae84f97ba795f45cf4df64422789114b9ae","features":{"default":[],"experimental":[]},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-10T22:03:53Z"}
 {"name":"oxtel-semconv","vers":"0.2.0","deps":[],"cksum":"3783382ea9a624ee3162449b8b6411f680941cafa82a9f42c0c876e1787a48d0","features":{"default":[],"experimental":[]},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-11T00:15:30Z"}
+{"name":"oxtel-semconv","vers":"0.3.0","deps":[],"cksum":"3af9a500fcb074e4eb297d2dfec8b5aaab9416bb700363c82ef56743f3cd35f2","features":{"default":[],"experimental":[]},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-12T18:17:20Z"}
