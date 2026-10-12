@@ -1,1 +1,2 @@
 {"name":"seedstone-resp","vers":"0.0.0","deps":[],"cksum":"e80edf8b50c42beefb89d2067adec8908c34c35e5e7fad402bee385549a063e1","features":{},"yanked":false,"pubtime":"2026-10-12T17:01:56Z"}
+{"name":"seedstone-resp","vers":"0.3.3","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40563643a375bfd2e6deab154a1c30ee54c1da9842d8fac730b19d9c1710c570","features":{},"yanked":false,"pubtime":"2026-10-12T21:28:26Z"}
