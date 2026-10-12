@@ -1,0 +1,1 @@
+{"name":"flux-isa-mini","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ab4b6b1cbb2116e4f4db48cd9cafebf2354edb4ba1dfe5935b02397ed3275ef","features":{"default":[],"defmt":[]},"yanked":false,"pubtime":"2026-05-03T06:28:20Z"}

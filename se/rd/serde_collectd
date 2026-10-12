@@ -1,0 +1,1 @@
+{"name":"serde_collectd","vers":"0.1.0","deps":[{"name":"serde_core","req":"^1.0.220","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cdf9a6f5ea0d74107d879ba6f1a60507b7e8638e108aff533fb61e26feca8622","features":{"default":[]},"yanked":true,"pubtime":"2026-08-25T19:08:52Z"}

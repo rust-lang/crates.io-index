@@ -1,0 +1,1 @@
+{"name":"bmux_snapshot_protocol","vers":"0.0.1-alpha.1","deps":[{"name":"serde","req":"^1.0.228","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"202823b9717119203e63da21b58f7c537a5c1608f6b7d9c7214e157ae6a0f3bc","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-05-21T19:27:32Z"}

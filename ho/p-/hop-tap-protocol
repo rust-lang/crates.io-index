@@ -1,0 +1,1 @@
+{"name":"hop-tap-protocol","vers":"0.2.30","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d79339da727ebc04d3eb1f8b444f2da59c855ec0fba4893c19f426bda2b693da","features":{},"yanked":false,"pubtime":"2026-09-05T16:28:02Z"}

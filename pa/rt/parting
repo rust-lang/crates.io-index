@@ -1,0 +1,1 @@
+{"name":"parting","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.9.0","features":["postgres"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5dd8c173c3a2a1f7090511bdf1066d5a1ff883cd06ed8a86c951e534737b5098","features":{},"yanked":false,"pubtime":"2026-08-25T18:30:51Z"}

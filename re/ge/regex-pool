@@ -1,0 +1,2 @@
+{"name":"regex-pool","vers":"0.1.0","deps":[],"cksum":"9810c6934bd9892cf2e398077c51ee6e324ce7953ff7facfb0510c018dd26fd9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-05-12T18:59:27Z"}
+{"name":"regex-pool","vers":"0.1.1","deps":[],"cksum":"e9d1c4e093793ea93da49df43979b94c6b73d94c00baba346eeda9f58e53e8e5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-05-12T20:43:37Z"}

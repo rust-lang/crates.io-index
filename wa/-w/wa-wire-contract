@@ -1,0 +1,3 @@
+{"name":"wa-wire-contract","vers":"0.1.0","deps":[],"cksum":"40805d6ff1581b9111452c898c24f86a26b648dad4fdb61cec9dbec299a03d3c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-09T01:19:32Z"}
+{"name":"wa-wire-contract","vers":"0.1.1","deps":[],"cksum":"9fe5baca823d26e45b273656e8d9f19c5b1504724296495ae821df905d7b080e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-09T01:29:57Z"}
+{"name":"wa-wire-contract","vers":"0.1.2","deps":[],"cksum":"796fb24ac2cbc76d475ce7a4a98d83bed99da819b90e49436a92703bd0f02524","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-10T00:56:19Z"}

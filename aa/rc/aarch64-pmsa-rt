@@ -1,0 +1,1 @@
+{"name":"aarch64-pmsa-rt","vers":"0.1.0","deps":[{"name":"aarch64-cpu","req":"^11.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90ab1641e21791558c56a57ee21a4422df5569629e3d1bdaa84874eede8e377d","features":{},"yanked":false,"pubtime":"2026-06-24T22:22:54Z"}

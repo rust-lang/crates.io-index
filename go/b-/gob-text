@@ -1,0 +1,2 @@
+{"name":"gob-text","vers":"0.0.0","deps":[],"cksum":"685d08cc49f89ed6f142ccb6384b544a717b8a83a7d38c11a06e3d546be6463a","features":{},"yanked":false,"pubtime":"2026-10-04T02:47:07Z"}
+{"name":"gob-text","vers":"0.532.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf8832c70278037d0bc252fe44c958f66991ec8cb77e90f1942816847fa0206a","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-06T04:09:49Z"}

@@ -1,0 +1,1 @@
+{"name":"tpt-fem-dofmap","vers":"0.1.0","deps":[{"name":"tpt-fem-mesh","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b91068d66aa7c981d9ccdc7198361c7ab1eafff23d5cbb3e07658dd84b5ac35","features":{"default":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-22T23:51:44Z"}

@@ -1,0 +1,1 @@
+{"name":"rinx_template","vers":"0.1.0","deps":[{"name":"minijinja","req":"^2","features":["loader"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fca5257c1abb8d7b07d65d6a6fd8177535c65785818268d3610d6acfe7cc706","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-26T22:01:27Z"}

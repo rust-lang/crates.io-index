@@ -1,0 +1,1 @@
+{"name":"furious-qr","vers":"3.0.0","deps":[{"name":"serde_json","req":"^1.0.151","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e988552f71b7d6cabbf52ea632118f09d8d3ffa42f42500a1b57a18b10273183","features":{"extras":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-09-30T00:20:45Z"}

@@ -1,0 +1,1 @@
+{"name":"grass-gis-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e3492aac2f9608c2e0a709367450a260bcf88fdff56f9787de281c31fe86910f","features":{},"yanked":false,"links":"grass_gis","rust_version":"1.85","pubtime":"2026-04-12T20:25:27Z"}

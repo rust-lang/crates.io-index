@@ -1,0 +1,1 @@
+{"name":"tenui-simd","vers":"0.1.0","deps":[{"name":"tenui-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f3ac6e8718a6986223c1ff207acad93c252ebc8f805f4fa7bf448f0bfe2230c","features":{"avx512":[]},"yanked":false,"pubtime":"2026-09-16T13:25:24Z"}

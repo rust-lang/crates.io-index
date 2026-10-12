@@ -1,0 +1,1 @@
+{"name":"viva-uefi","vers":"0.1.0","deps":[{"name":"rand_core","req":"^0.6","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e7efee0f043570391e2edd0ae7543809a618edc3b42b96903f1486e982e6e299","features":{"alloc":[]},"features2":{"default":["alloc","rand"],"rand":["dep:rand_core"]},"yanked":false,"pubtime":"2026-08-22T10:09:33Z","v":2}

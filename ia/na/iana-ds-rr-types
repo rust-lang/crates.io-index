@@ -1,0 +1,1 @@
+{"name":"iana-ds-rr-types","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"085264678da917ae059c193fcd3867e914e9c4efc19ccbdcd12cbd463f31f4b1","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T06:47:33Z"}

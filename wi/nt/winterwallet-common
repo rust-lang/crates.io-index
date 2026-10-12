@@ -1,0 +1,1 @@
+{"name":"winterwallet-common","vers":"0.1.0","deps":[{"name":"solana-address","req":"^2.6.0","features":["decode"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ba5be41bfce8168fefb6bb15f48496fa1922f590ebe9fbd05fcc7c0363690e34","features":{},"yanked":false,"pubtime":"2026-04-27T14:13:04Z"}

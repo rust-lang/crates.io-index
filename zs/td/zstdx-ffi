@@ -1,0 +1,1 @@
+{"name":"zstdx-ffi","vers":"0.2.0","deps":[{"name":"zstdx","req":"^0.2.0","features":["std","hash"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2b37d85f2e670424f2c9d3f1428a624e0fd4064126169db00e572a626db3ae40","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-01T20:35:29Z"}

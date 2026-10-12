@@ -1,0 +1,1 @@
+{"name":"trfont","vers":"0.1.0","deps":[{"name":"egui","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bf9a397d887e340dd10f4495c3f26954f6f58d7c14117b2f25a2aae957a0053","features":{"default":["default-fonts"],"default-fonts":[]},"yanked":false,"pubtime":"2026-10-11T12:07:07Z"}

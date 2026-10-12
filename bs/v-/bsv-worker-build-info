@@ -1,0 +1,1 @@
+{"name":"bsv-worker-build-info","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad7a2cffb2d19f9364497aa9678ad3d16310d76348cd1562e3b14ff697501a5d","features":{"build":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-12T03:02:14Z"}

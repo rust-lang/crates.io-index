@@ -1,0 +1,1 @@
+{"name":"cargo-iris","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.61","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08d2f7294b68a75a2b7c608944e9e4ba676c3fec7454d52b4ada06b4a3039751","features":{},"yanked":false,"pubtime":"2026-03-20T16:53:26Z"}

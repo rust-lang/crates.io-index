@@ -1,0 +1,1 @@
+{"name":"semagraph-core-rs","vers":"0.7.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ac21bfb7c2e767f8fb5f949f26e44ca400525769aac6d677482d0fea1b44ba6","features":{"default":[],"ffi":[],"simd":[]},"yanked":false,"pubtime":"2026-07-06T13:35:36Z"}

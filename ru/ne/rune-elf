@@ -1,0 +1,1 @@
+{"name":"rune-elf","vers":"0.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f074b8133a0363a7eb4994905ee1b95c02fb5cb892c933a9ba693cc87b07ce33","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"pubtime":"2026-08-20T16:59:47Z","v":2}

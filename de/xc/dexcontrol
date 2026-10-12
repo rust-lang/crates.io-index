@@ -1,0 +1,1 @@
+{"name":"dexcontrol","vers":"0.7.7-rc.4","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"44fde785f64ffdcfd939f4f5ccd608a031cc9c4f048b9f82e99df319d93e530c","features":{},"yanked":false,"links":"dexcontrol_capi","rust_version":"1.90","pubtime":"2026-10-01T23:20:56Z"}

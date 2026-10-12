@@ -1,0 +1,1 @@
+{"name":"libclimate","vers":"0.0.0","deps":[{"name":"test_help-rs","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"6859250af6f2157126981803bc653c50debfa086d6cec152b279a65804b7149e","features":{"_NEVER_TO_BE_ENABLED":[],"default":[],"null-feature":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-11T19:18:40Z"}

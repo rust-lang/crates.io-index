@@ -1,0 +1,1 @@
+{"name":"hsh-backend-awslc","vers":"0.0.10","deps":[{"name":"aws-lc-rs","req":"^1.17","features":["fips"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a149978882709572fded13c99de9a19071366267ab0ef754ed828a4eee619bfa","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-27T06:28:56Z"}

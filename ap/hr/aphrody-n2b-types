@@ -1,0 +1,1 @@
+{"name":"aphrody-n2b-types","vers":"0.7.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db03ce80a39e778dfdb3e2c5f16c0b3a7a53cfcd812606948524642d8213073c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-08T22:45:22Z"}

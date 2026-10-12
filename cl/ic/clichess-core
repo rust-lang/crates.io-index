@@ -1,0 +1,1 @@
+{"name":"clichess-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0dbcf93211f0d732eaa10604c9f64f77ba1e5ac5f838dea35ff7b4893649183","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-30T17:39:03Z"}

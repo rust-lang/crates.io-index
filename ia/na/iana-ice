@@ -1,0 +1,1 @@
+{"name":"iana-ice","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"1b752a51553856838ea68e8157ea9bfe79b4b104df326ac2724813cd25e8b83a","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-27T23:14:13Z"}

@@ -1,0 +1,1 @@
+{"name":"quilt-murmur","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d81ffeb9134f754fb358b56b41e3ae9a15e76d154cfad36d4603a67567b116d","features":{},"yanked":false,"pubtime":"2026-08-21T09:40:43Z"}

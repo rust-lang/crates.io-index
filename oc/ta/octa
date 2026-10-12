@@ -1,0 +1,1 @@
+{"name":"octa","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"944fd66cc3b015b2794aff52fe2f19db2987189326398268006eec13a7d33200","features":{},"features2":{"default":["rayon"],"rayon":["dep:rayon"]},"yanked":false,"pubtime":"2026-04-22T11:45:39Z","v":2}

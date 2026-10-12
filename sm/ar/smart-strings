@@ -1,0 +1,1 @@
+{"name":"smart-strings","vers":"0.1.0","deps":[{"name":"allocator-api2","req":"^0.4","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"27832b8c0f07e6e220093c24bc2e7f2907765007bb021829d524a4095bba1ba7","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-19T07:40:53Z"}

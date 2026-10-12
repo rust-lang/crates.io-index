@@ -1,0 +1,1 @@
+{"name":"iana-tsig-algorithm-names","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"6e70eaef3e788d0f8a36aa3ec2218c1ac1605d24d1e3195c9936bebcd003802c","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T07:27:34Z"}

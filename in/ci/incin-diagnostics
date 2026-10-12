@@ -1,0 +1,2 @@
+{"name":"incin-diagnostics","vers":"0.0.0","deps":[],"cksum":"f5908d385cb2a884e9c4aaa9ecb13249e0c1b8cec93202656dd6f76dbb61ba33","features":{},"yanked":false,"pubtime":"2026-07-24T19:46:05Z"}
+{"name":"incin-diagnostics","vers":"0.1.0","deps":[],"cksum":"52c2ef4a5d8798f1eb0d54b69a0ac5f4b1c663fec9b41566c835935a50556f97","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-25T16:49:33Z"}

@@ -1,0 +1,2 @@
+{"name":"zerialize","vers":"0.0.0","deps":[],"cksum":"e26a379ad8e86f0b276e724f2aad32be2b7ef1238addf39dd2b9bfe6ff30a30d","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-28T04:08:31Z"}
+{"name":"zerialize","vers":"0.0.1","deps":[{"name":"zerialize-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8d447158ac47d1e0e2b4623167e7c2c29dac15fa86f3439ffd76c5c56ebf23c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-20T03:52:59Z"}

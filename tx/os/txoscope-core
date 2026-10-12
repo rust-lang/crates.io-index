@@ -1,0 +1,1 @@
+{"name":"txoscope-core","vers":"0.3.0","deps":[{"name":"strum","req":"^0.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca72eeb31c38077876dca4d90fa0b3ed386a66e5c56cefc077cbd21db6df167f","features":{},"yanked":false,"pubtime":"2026-09-24T03:45:14Z"}

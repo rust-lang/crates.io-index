@@ -1,0 +1,1 @@
+{"name":"tpt-augur-frontend","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd5168f2307f5cc6dc2a21729d34387b0c1bddd9dea7780e2fdc2f5ee2db6e3c","features":{},"yanked":false,"pubtime":"2026-07-17T06:40:00Z"}

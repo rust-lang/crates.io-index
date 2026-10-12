@@ -1,0 +1,1 @@
+{"name":"run-if-present","vers":"0.1.0","deps":[{"name":"clap","req":"=4.6.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af03ee98a1908b901377fe153a0e189722255b20e7fd5f9c2bfd50352af1e024","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-02T18:40:24Z"}

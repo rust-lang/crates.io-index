@@ -1,0 +1,1 @@
+{"name":"fuzzbunny-rs","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"856e61317fdc67e587035dcf51047817bc83db19967525985507c60b1756dc9a","features":{"default":[],"std":[]},"features2":{"rayon":["std","dep:rayon"]},"yanked":false,"pubtime":"2026-01-10T09:48:42Z","v":2}

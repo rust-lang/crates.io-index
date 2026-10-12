@@ -1,0 +1,1 @@
+{"name":"sheet-core","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2556abaecddbf05cfb400e47814dc693722a6ff92fd64f34f41f6ca40b0ea32b","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T11:32:57Z"}

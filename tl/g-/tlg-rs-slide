@@ -1,0 +1,1 @@
+{"name":"tlg-rs-slide","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.8.2","features":["csv_output","html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1162f0773a9fc5cf18829a9295bc9703549b9c6109fcc42998500f27e8842090","features":{},"yanked":false,"pubtime":"2026-10-10T16:10:38Z"}

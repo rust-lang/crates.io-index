@@ -1,0 +1,1 @@
+{"name":"acctswap-core","vers":"0.2.1","deps":[{"name":"serde_json","req":"^1","features":["std","preserve_order"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5ad05bd432cb0a8eb2bc6d0330384fbad7ce78f9073637f70592c4f7e40962a7","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-11T16:45:29Z"}

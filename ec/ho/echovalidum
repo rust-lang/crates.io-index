@@ -1,0 +1,4 @@
+{"name":"echovalidum","vers":"0.1.0","deps":[],"cksum":"7f76a38ab58f4d869852764e0a1a33f3aa8f40f9f864b022b6e9f2cd423b16ae","features":{},"yanked":false,"pubtime":"2026-09-24T19:11:39Z"}
+{"name":"echovalidum","vers":"0.3.0","deps":[],"cksum":"26db69c9b07fbf9c302ab810e14e249e40f5e81a1ce35da2119069c41c385e6c","features":{},"yanked":false,"pubtime":"2026-09-25T17:46:08Z"}
+{"name":"echovalidum","vers":"0.3.1","deps":[],"cksum":"d955f2abbafd66636fffe29550bf6358e453c4aebb7308546b005ff1bfa58e4e","features":{},"yanked":false,"pubtime":"2026-10-05T22:38:40Z"}
+{"name":"echovalidum","vers":"0.4.0","deps":[{"name":"serde_json","req":"^1","features":["float_roundtrip"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b28c09536f55830e0b8781d65077b53f5219ab2a10af4a7969f640fda2ba8099","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-08T06:56:12Z"}

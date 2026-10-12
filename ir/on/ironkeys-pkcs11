@@ -1,0 +1,1 @@
+{"name":"ironkeys-pkcs11","vers":"0.1.0","deps":[{"name":"ic-core","req":">=0.2.21, <0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"338ed2af60e89f95c7d5dee2e591d045394fbeb8e39155168534999c0e245506","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T06:41:51Z"}
