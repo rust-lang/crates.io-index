@@ -1,0 +1,1 @@
+{"name":"mixradix","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb4a18b3fa07ca9f3fa3af79cb7c212a636c6d8f3a6ae6126c4b8284ec6a4ce","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-12T17:13:46Z","v":2}
