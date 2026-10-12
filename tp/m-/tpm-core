@@ -1,1 +1,2 @@
 {"name":"tpm-core","vers":"0.1.0","deps":[],"cksum":"17bc9c8d791286ce0859d9f1fad22bb078b0e26c3bdb565e209062d5ca0a7a24","features":{"default":["runtime"],"runtime":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-12T14:27:45Z"}
+{"name":"tpm-core","vers":"0.1.1","deps":[],"cksum":"c51ca8a543fd828f6b207be8cb73b305a2a55c7a4f2c852e27c3f7e2e0dc8075","features":{"default":["runtime"],"runtime":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-12T16:06:38Z"}
