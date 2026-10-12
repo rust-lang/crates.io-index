@@ -1,0 +1,1 @@
+{"name":"iksel-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4475509bfd655c4c8906207afc058a4d9aeead847c02d295e41ada96491563","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-12T16:37:04Z"}
