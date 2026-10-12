@@ -24,3 +24,4 @@
 {"name":"linux-boot-params","vers":"0.17.2","deps":[],"cksum":"dd55d3ad2968fad27226d4c1ae10a2707d87a41b9675fb6ec2b736579893761a","features":{},"yanked":false,"pubtime":"2026-05-09T12:00:53Z"}
 {"name":"linux-boot-params","vers":"0.18.0","deps":[],"cksum":"46e277eb921b58eb94ad82fe56d1f1688b2d0ab56007b6c155dd3d870fefb1a4","features":{},"yanked":false,"pubtime":"2026-06-03T14:14:01Z"}
 {"name":"linux-boot-params","vers":"0.18.1","deps":[],"cksum":"825baec9510046fc618ec5b484914f420caf8a12bd99ad57f4260b7716d0a6bb","features":{},"yanked":false,"pubtime":"2026-08-18T14:53:00Z"}
+{"name":"linux-boot-params","vers":"0.19.0","deps":[],"cksum":"ec98c9607699076badfdd1780eb0398e26c6c6809fb670545565c416835c7f88","features":{},"yanked":false,"pubtime":"2026-10-12T21:21:48Z"}
