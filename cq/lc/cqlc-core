@@ -1,0 +1,1 @@
+{"name":"cqlc-core","vers":"1.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db011d7408b8a3d199d3ff8c36658e05d4dc4270622239b5513f874c57b56496","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-12T16:08:40Z"}
