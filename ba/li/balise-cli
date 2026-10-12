@@ -1,1 +1,2 @@
 {"name":"balise-cli","vers":"0.0.0","deps":[],"cksum":"23691df68b156e149626bd48ff7c6628fc3aee0d3670c7de25b6b3f43a8607dc","features":{},"yanked":false,"pubtime":"2026-10-10T17:24:18Z"}
+{"name":"balise-cli","vers":"0.1.0-alpha.1","deps":[{"name":"balise-core","req":"=0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"498e114d672791153aec1091487aa04545f06c669fd23fc834f6a1127f5d7bbc","features":{},"yanked":false,"pubtime":"2026-10-12T21:02:32Z"}
