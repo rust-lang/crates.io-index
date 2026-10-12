@@ -1,0 +1,1 @@
+{"name":"audio2mp3-core","vers":"0.2.0","deps":[{"name":"symphonia","req":"^0.6.1","features":["mp3"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"90a29bb6aae828cd82b705981f5340fba5d13f2175ded67d60b81420d4afb31a","features":{"default":[],"ffi":[],"pcm-convert":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-12T21:20:16Z"}
