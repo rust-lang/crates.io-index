@@ -1,1 +1,2 @@
 {"name":"consus-onnx","vers":"0.1.0","deps":[],"cksum":"527293521c6530ae55e777debf69a673f7cd83e4c1fee03ec31e8c4a243ff709","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-02T12:52:53Z"}
+{"name":"consus-onnx","vers":"0.2.0","deps":[],"cksum":"8182be5ec1c7f6ab1ca2e8e1f3df3d6989c090925c8d58ac761c491b3ad07ea9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-10-12T14:59:10Z"}
