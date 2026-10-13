@@ -1,0 +1,1 @@
+{"name":"open-chess-ble","vers":"0.1.0","deps":[{"name":"rustix","req":"^1.1.5","features":["net","event","fs"],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"6e3642799b7624641363baddeb65d8b7fa513fd124a2070288c9fb396de6c2cf","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-13T09:18:17Z"}
