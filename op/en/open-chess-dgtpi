@@ -1,0 +1,1 @@
+{"name":"open-chess-dgtpi","vers":"0.1.0","deps":[{"name":"rustix","req":"^1.1.5","features":["fs","mm"],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"c2074c0e5f89be3aacc70062accfb467d5f7af4d04ac3fcd27ec699181baa594","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-13T09:49:37Z"}
