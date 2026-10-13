@@ -1,0 +1,1 @@
+{"name":"cvvdp-lite","vers":"0.1.0","deps":[],"cksum":"ff00b4fbb7a3f6ef94e3958811a848372615d58ab82074084279884b788a6ad7","features":{"avx":[],"default":["avx","neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-13T14:55:47Z"}
