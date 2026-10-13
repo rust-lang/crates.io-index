@@ -1,0 +1,1 @@
+{"name":"cargo-prune-superseded","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fe09aa64b216cb5160c3aa2936c001b941046ce52554e5467758e2348872ea4","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-13T03:50:08Z"}
