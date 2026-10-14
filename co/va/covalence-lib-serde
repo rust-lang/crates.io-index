@@ -1,0 +1,1 @@
+{"name":"covalence-lib-serde","vers":"0.1.0-dev.2","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08afe4af44c51f84a4c001dde95795c4257dc4f3535a7fb06f903598b44bffe6","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-14T20:11:35Z"}
