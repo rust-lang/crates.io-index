@@ -1,3 +1,4 @@
 {"name":"wordcraft","vers":"0.1.0","deps":[],"cksum":"6590d92175053d4c0a33299cb352d448f94c91e627a6936b7acb77fc8104072f","features":{},"yanked":false,"pubtime":"2026-10-14T09:19:20Z"}
 {"name":"wordcraft","vers":"0.0.2","deps":[],"cksum":"e63222c902df1eb6077e12058ff29be04bb854380b358305437135b670d627af","features":{},"yanked":false,"pubtime":"2026-10-14T09:36:15Z"}
 {"name":"wordcraft","vers":"0.1.1","deps":[],"cksum":"07bc6541f76ad7dccba569cd625f0a401a8624751fb7e3e84fc81b2d3c5e2b50","features":{},"yanked":false,"pubtime":"2026-10-14T09:49:51Z"}
+{"name":"wordcraft","vers":"0.1.2","deps":[{"name":"corecraft","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffcfcbe57c4c28f41d6acda8b62f7e581b0ba883e6d2d8d6ac5dd483c36f9aa2","features":{},"yanked":false,"pubtime":"2026-10-14T10:50:11Z"}
