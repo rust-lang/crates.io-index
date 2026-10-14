@@ -7,3 +7,4 @@
 {"name":"videoson-core","vers":"0.6.2","deps":[],"cksum":"3942f5b59c849e49b326979b52ba99b8c719831513f483f9e784bc7cbad465b1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-04T03:09:13Z"}
 {"name":"videoson-core","vers":"0.6.3","deps":[],"cksum":"15fdd9ca4936c779a89985b6ad3910261ffee53b917753e3d3d2a76b9c6795ac","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-13T01:20:46Z"}
 {"name":"videoson-core","vers":"0.6.4","deps":[],"cksum":"0992cf5308beeea74e83b17a965d9bfdfb9b7c1aa11912f6e457996f78bdf005","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-13T04:12:21Z"}
+{"name":"videoson-core","vers":"0.6.5","deps":[],"cksum":"328b8e10086b5e2659e456b3496cf0afab53f46f589ccbe35fe8946fa4d2c5ee","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-14T01:51:38Z"}
