@@ -6,3 +6,4 @@
 {"name":"hdf5-rust","vers":"1.1.0","deps":[],"cksum":"d9885f1e97810eecba847af22edf66342f5ba9c40b1425d735bb88fe9b62c3b6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-05T14:30:52Z"}
 {"name":"hdf5-rust","vers":"1.1.1","deps":[],"cksum":"e6dff9d03ac881129265a9efe182b7733c159ed49ab954d9b7cb8d25a16b512f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-05T17:26:35Z"}
 {"name":"hdf5-rust","vers":"1.1.2","deps":[],"cksum":"b822b484ee0a8fea2388c6186b13da6ac14e9441fc3742e563e529026c963905","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-06T13:36:16Z"}
+{"name":"hdf5-rust","vers":"2.0.0","deps":[],"cksum":"d80be79fe7e7b88d6c939c3c186b8b8ec1009094ecc8af39e10ca781b121d558","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-14T18:03:03Z"}
