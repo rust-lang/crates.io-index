@@ -28,3 +28,4 @@
 {"name":"hatmil","vers":"1.4.0","deps":[],"cksum":"f3ebe93a4e60123c47d010c70057a2156ff4a04ba8030747a0099c505c36a26c","features":{},"yanked":false,"pubtime":"2026-04-29T14:45:33Z"}
 {"name":"hatmil","vers":"1.5.0","deps":[],"cksum":"a804488386ceaff16d3b93ed545aad32dfc6df8fcb0282d33379d33153e1d2be","features":{"default":[],"experimental":[],"limited-availability":[]},"yanked":false,"pubtime":"2026-05-07T18:44:16Z"}
 {"name":"hatmil","vers":"1.6.0","deps":[],"cksum":"91756344edfd671744292abd720b4f0408cb25df2e5144f29d33c6600e41889e","features":{"default":[],"experimental":[],"limited-availability":[]},"yanked":false,"pubtime":"2026-09-19T23:26:41Z"}
+{"name":"hatmil","vers":"1.7.0","deps":[],"cksum":"87db52bfc550b952c03a16a018671215df76bcb81c92898f6aa85759e330924b","features":{"default":[],"experimental":[],"limited-availability":[]},"yanked":false,"pubtime":"2026-10-14T19:01:14Z"}
