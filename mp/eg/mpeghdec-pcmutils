@@ -1,0 +1,1 @@
+{"name":"mpeghdec-pcmutils","vers":"0.0.1","deps":[{"name":"mpeghdec-fdk","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f86d8e2eeaa1ac34b4b685d833753f2127562593a457d858815b4950c16465f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-14T18:39:13Z"}
