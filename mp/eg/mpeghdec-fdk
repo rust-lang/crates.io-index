@@ -1,0 +1,1 @@
+{"name":"mpeghdec-fdk","vers":"0.0.1","deps":[{"name":"mpeghdec-digest-derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80db12a55f905833aeb264584df682a3870219a974897d885044ce00734e8ef8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-14T18:08:38Z"}
