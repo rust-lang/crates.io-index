@@ -6,3 +6,4 @@
 {"name":"dup-defs-core","vers":"0.2.0","deps":[],"cksum":"29df5bdfa0454d042216acb2a13ae5c611b0f7908a82ad12df5eaa06443c1186","features":{},"yanked":false,"pubtime":"2026-08-28T08:20:56Z"}
 {"name":"dup-defs-core","vers":"0.2.1","deps":[],"cksum":"46a42b506527dfe0b894e05cbca76fdaf730cd5492e053bfc16df26b5d4778b3","features":{},"yanked":false,"pubtime":"2026-08-28T12:43:54Z"}
 {"name":"dup-defs-core","vers":"0.2.2","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f59301b697e2987176a50c931533dbd267c8f48fbcf8bf721ede46bda4f1e59","features":{},"yanked":false,"pubtime":"2026-09-04T13:04:33Z"}
+{"name":"dup-defs-core","vers":"0.3.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4fbb18035313c2521c7fa14739eda693dd285f5645b54cd439cf89dfa630893","features":{},"yanked":false,"pubtime":"2026-10-14T17:05:34Z"}
