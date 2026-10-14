@@ -1,3 +1,4 @@
 {"name":"photocraft","vers":"0.1.0","deps":[],"cksum":"5c6b997ff1841f4dc8a68c00a66d48835a6788fe87994bdb6ac4247155a3ecbf","features":{},"yanked":false,"pubtime":"2026-10-14T09:18:33Z"}
 {"name":"photocraft","vers":"0.0.2","deps":[],"cksum":"925b4eb1f1778ab4c77b5a34cbd2bb86caf5435d7b1e0d56cea622b8bcaffd42","features":{},"yanked":false,"pubtime":"2026-10-14T09:35:33Z"}
 {"name":"photocraft","vers":"0.1.1","deps":[],"cksum":"a350602c9d10423771938f27b517813891a2afe958485690c282011f643cf2c3","features":{},"yanked":false,"pubtime":"2026-10-14T09:49:29Z"}
+{"name":"photocraft","vers":"0.1.2","deps":[{"name":"corecraft","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e05d3b5277d61c9f3e6508fa045d6218c5a322e27ad870be8a6cf73e8527cc7","features":{},"yanked":false,"pubtime":"2026-10-14T10:49:41Z"}
