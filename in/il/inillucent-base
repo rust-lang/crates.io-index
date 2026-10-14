@@ -37,3 +37,4 @@
 {"name":"inillucent-base","vers":"2.5.4","deps":[],"cksum":"5f38692595dba3512ab494435f4fe1e4018d49200cd00d19a0df2ea760e4d2e0","features":{"testing":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T14:02:31Z"}
 {"name":"inillucent-base","vers":"2.5.5","deps":[],"cksum":"5303b573b2df94882cf63873dd7adb86f3aa1d0c49fa964f8eaee002b9991e06","features":{"testing":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-12T06:56:25Z"}
 {"name":"inillucent-base","vers":"2.6.0","deps":[],"cksum":"978f53527244b9bf34e3c1091d091626283814d930c8f01d4f971729e484aa38","features":{"testing":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-13T15:12:51Z"}
+{"name":"inillucent-base","vers":"2.7.0","deps":[],"cksum":"c7ae4fa177a229ca8d12c9a69231d2b70302c4fc0726bb613da999398d44021a","features":{"testing":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-14T11:33:24Z"}
