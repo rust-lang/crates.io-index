@@ -1,0 +1,1 @@
+{"name":"drmkit-time","vers":"0.1.0","deps":[{"name":"rustix","req":"^1","features":["std","time"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9517e38a9081ecf67ec53e719d024a2af202ba3c78f09baa35a9925daf7b17d5","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-14T10:25:44Z"}
