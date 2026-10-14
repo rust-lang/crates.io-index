@@ -115,3 +115,4 @@
 {"name":"rucc-safe-rt","vers":"0.29.3","deps":[],"cksum":"1b528fe5f7c626124cf931a00ff47b11d386103b1d6fd25b3b30bac36f09c147","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-08T19:11:29Z"}
 {"name":"rucc-safe-rt","vers":"0.30.0","deps":[],"cksum":"8ecf1366fba309c66728c9df3590b415de16c4943a023adcfab09dfa3719f833","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-10T08:38:22Z"}
 {"name":"rucc-safe-rt","vers":"0.30.1","deps":[],"cksum":"47df21def1f0cd0741d32f85d4da8e67ff18b838c14c1ee0b03f90f21a93166a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-13T17:40:21Z"}
+{"name":"rucc-safe-rt","vers":"0.30.6","deps":[],"cksum":"4f30559d26572bf30b62e8c38260f49063d633ac3d746067e9f26d1650206580","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-14T19:57:17Z"}
