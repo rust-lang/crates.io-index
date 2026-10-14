@@ -1,1 +1,2 @@
 {"name":"soundcraft","vers":"0.1.1","deps":[],"cksum":"76fa1e739fb0d7598e96bd77cb4cd3498a9a73bff6a8b3379a209f05199ff2ba","features":{},"yanked":false,"pubtime":"2026-10-14T10:28:14Z"}
+{"name":"soundcraft","vers":"0.1.2","deps":[{"name":"corecraft","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f238b3d8b0c1d58aaf3e1120e175b1561f5be4ef5073f3b97c0af7e29be0d610","features":{},"yanked":false,"pubtime":"2026-10-14T10:50:23Z"}
