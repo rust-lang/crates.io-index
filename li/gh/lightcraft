@@ -1,3 +1,4 @@
 {"name":"lightcraft","vers":"0.1.0","deps":[],"cksum":"4f0e0485e51f709f433123e1cfed4047479070778c02d7f3ab6b556bf8209025","features":{},"yanked":false,"pubtime":"2026-10-14T09:19:09Z"}
 {"name":"lightcraft","vers":"0.0.2","deps":[],"cksum":"bc03bf617ba1e60117f558301fc2daa9a32b8f44c6bcac013f851165de8044e8","features":{},"yanked":false,"pubtime":"2026-10-14T09:36:05Z"}
 {"name":"lightcraft","vers":"0.1.1","deps":[],"cksum":"99e289cc437079f35812c932e9506cacd463612748a3f5d137fdecbdeb1ba7ae","features":{},"yanked":false,"pubtime":"2026-10-14T09:49:47Z"}
+{"name":"lightcraft","vers":"0.1.2","deps":[{"name":"corecraft","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"photocraft","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"596bec37bf21f8bec221886059e2d10af17dec7bc7026a636a73f9c9c0439be4","features":{},"yanked":false,"pubtime":"2026-10-14T10:51:07Z"}
