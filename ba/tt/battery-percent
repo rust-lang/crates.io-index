@@ -1,0 +1,1 @@
+{"name":"battery-percent","vers":"2.0.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"15b5e42ec3ddc37a550dfd507a31227948ac650eae47f3e3cc7f56b4688f2917","features":{},"yanked":false,"links":"battery_percent","rust_version":"1.88","pubtime":"2026-10-15T08:26:55Z"}
