@@ -22,3 +22,4 @@
 {"name":"t-oc","vers":"8.0.1","deps":[],"cksum":"a1081099a255b64f58883f98901a04408df12df0934f56d4afd9e2688c60d18c","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-01T21:20:34Z"}
 {"name":"t-oc","vers":"8.0.2","deps":[],"cksum":"f178021ee14d077802689bfb0b62a6bdbfc1e35420a868e647448d0e8cd56a12","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-04-19T19:29:27Z"}
 {"name":"t-oc","vers":"8.0.3","deps":[],"cksum":"a2ac34ea233bca3d3dfc405edaa5d10b340c309d62040c0f7b1780453ec1d91e","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-05-12T20:35:08Z"}
+{"name":"t-oc","vers":"8.0.4","deps":[],"cksum":"00123e44ad7a715160d5db9c4f5465bf41dec217650229b76c81b8ff6eb15580","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-10-15T19:42:26Z"}
