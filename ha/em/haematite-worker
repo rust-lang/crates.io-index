@@ -1,0 +1,1 @@
+{"name":"haematite-worker","vers":"0.21.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"a1e8ce2850558c5d90dee703dcb1f151b1a1ba4f94bb7dd8679123e22cf03fd7","features":{},"yanked":false,"pubtime":"2026-10-15T20:50:52Z"}
