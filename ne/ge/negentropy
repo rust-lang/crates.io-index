@@ -11,3 +11,4 @@
 {"name":"negentropy","vers":"0.5.0","deps":[],"cksum":"f0efe882e02d206d8d279c20eb40e03baf7cb5136a1476dc084a324fbc3ec42d","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.51.0","pubtime":"2025-01-31T08:22:49Z"}
 {"name":"negentropy","vers":"0.5.1","deps":[],"cksum":"81c353b400a5503efdcf398f11a83fb7aa84f59f5d76fc4bf5bbc1e4f5366caa","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.51.0","pubtime":"2026-08-16T07:27:04Z"}
 {"name":"negentropy","vers":"0.5.2","deps":[],"cksum":"a3d66662cb5ca384d4991509755ed5a42dd8e31c4282bf881938e506fc3146ec","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.51.0","pubtime":"2026-10-15T06:54:37Z"}
+{"name":"negentropy","vers":"0.4.4","deps":[],"cksum":"53708d9b77573288cd00d4dc1dd5ec05b03fca57cfa46fa28699ea0b644c09d1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.51.0","pubtime":"2026-10-15T07:02:45Z"}
