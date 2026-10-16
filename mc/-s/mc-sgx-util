@@ -19,3 +19,4 @@
 {"name":"mc-sgx-util","vers":"0.10.1","deps":[],"cksum":"70a17bdd557d482382794a59232314fe9cfb7a9c4450aec867f737d815e5f5b0","features":{},"yanked":false,"rust_version":"1.62.1","pubtime":"2023-12-11T20:05:50Z"}
 {"name":"mc-sgx-util","vers":"0.11.0","deps":[],"cksum":"b3c237bec3e33530c4b1a171c8c078ad5d525d5fae177ac9d62e8e454b3fffb7","features":{},"yanked":false,"rust_version":"1.62.1","pubtime":"2024-03-22T19:54:28Z"}
 {"name":"mc-sgx-util","vers":"0.12.0","deps":[],"cksum":"16e47794dd20210dbb3e4c35da900328937ffde47ba0a8d5b00994e4afec6ffd","features":{},"yanked":false,"rust_version":"1.62.1","pubtime":"2025-05-21T14:56:42Z"}
+{"name":"mc-sgx-util","vers":"0.14.0","deps":[],"cksum":"4fa88e36e9924065957105b2ed7101adb2b96b969f2aa22e463f9a43a8c82aed","features":{},"yanked":false,"rust_version":"1.99.0","pubtime":"2026-10-16T04:10:32Z"}
