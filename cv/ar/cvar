@@ -7,3 +7,4 @@
 {"name":"cvar","vers":"0.4.0","deps":[],"cksum":"ae92ec656a948ca166f1e33fbc7c8ffb940b1d32fc37d797d0e7513fa0e4edc5","features":{"type_name":[]},"yanked":false,"pubtime":"2022-09-22T00:49:13Z"}
 {"name":"cvar","vers":"0.4.1","deps":[],"cksum":"63c2d5e97ea73360c91d7f863a2c870deb2d830c13643b676aa01755a6f21c46","features":{"type_name":[]},"yanked":false,"pubtime":"2023-03-14T00:44:53Z"}
 {"name":"cvar","vers":"0.4.2","deps":[],"cksum":"42efc53160b881b3ba1e8bc44f1285538b43f78be49bb4afcf094f5f664b3d6e","features":{"type_name":[]},"yanked":false,"pubtime":"2026-04-26T14:58:23Z"}
+{"name":"cvar","vers":"0.5.0","deps":[],"cksum":"70028d8acaae3cf0fb5ff61af77c115f722fafb34529b463a702e6f00a554859","features":{"default":["std"],"std":[],"type_name":[]},"yanked":false,"rust_version":"1.86","pubtime":"2026-10-16T19:33:45Z"}
