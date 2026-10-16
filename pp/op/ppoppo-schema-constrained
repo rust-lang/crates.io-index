@@ -38,7 +38,7 @@
 {"name":"ppoppo-schema-constrained","vers":"0.52.0","deps":[],"cksum":"dcef940cbab74ebb2528f6ea97938008f36f2a79fb607a4b02ab74882e872419","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-10-08T03:06:35Z"}
 {"name":"ppoppo-schema-constrained","vers":"0.52.1","deps":[],"cksum":"e863596ab51d4c385c1987e7b9e2a97de1dfe6f9d6b8f1a3fbfaf9ca0018204c","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-10-08T07:25:32Z"}
 {"name":"ppoppo-schema-constrained","vers":"0.53.0","deps":[],"cksum":"52185d57fea9c138411bef45f50288ee497257693a5b283083b54891e6967ea2","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-10-08T22:49:40Z"}
-{"name":"ppoppo-schema-constrained","vers":"0.54.0","deps":[],"cksum":"f4276e14152ca0b41e69997551d522e5c1462969e7d6c91a35a0784f0dcdf840","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-09T05:42:14Z"}
+{"name":"ppoppo-schema-constrained","vers":"0.54.0","deps":[],"cksum":"f4276e14152ca0b41e69997551d522e5c1462969e7d6c91a35a0784f0dcdf840","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-10-09T05:42:14Z"}
 {"name":"ppoppo-schema-constrained","vers":"0.55.0","deps":[],"cksum":"9426dc35a2181141133fcc275d0833cf5faaefd76a27385552fa0629680f3fe2","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-10T17:13:55Z"}
 {"name":"ppoppo-schema-constrained","vers":"0.56.0","deps":[],"cksum":"eea8fba053ec216293f0a3967a95c64a9672256c74a5c708e5ef17e4faaccfa2","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-11T12:12:17Z"}
 {"name":"ppoppo-schema-constrained","vers":"0.57.0","deps":[],"cksum":"53ef6540966986ea284097c3e2745efbd90e4eb2acd4a81b56b79ade756c5e92","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-14T02:46:02Z"}
