@@ -1,0 +1,1 @@
+{"name":"xbox360","vers":"0.1.0","deps":[{"name":"xbox360-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c33dd22097eb0c02f644d5f2abe486c6b945a29fc8d26da59ec1cc93400d14f8","features":{"alloc":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-16T22:15:31Z"}
