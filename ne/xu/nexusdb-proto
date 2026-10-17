@@ -1,1 +1,0 @@
-{"name":"nexusdb-proto","vers":"0.1.0","deps":[{"name":"nexus-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"nexusdb-core"}],"cksum":"851679a7c7976618c2cb0cd81c42044d3e232307fe531ed9e44d26758d24822d","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-17T00:33:30Z"}
