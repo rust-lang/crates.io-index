@@ -2,3 +2,4 @@
 {"name":"offlineasm-ir","vers":"0.2.0","deps":[],"cksum":"b8e00d06d8d95c4962ea4ef9ea1d41c4113ca9f40c9da0a363cbc1758350e830","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-10T16:06:05Z"}
 {"name":"offlineasm-ir","vers":"0.3.0","deps":[],"cksum":"c00fe09bc5dae921b49db563b96c8c25cfc298ff609b36fba1afbfb1a30d33df","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T01:22:17Z"}
 {"name":"offlineasm-ir","vers":"0.3.1","deps":[],"cksum":"2c078d2b5ed5e0591f257ad6e9867e29d1c099c38f780f7a3fcf6497ac500066","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T02:02:03Z"}
+{"name":"offlineasm-ir","vers":"0.3.2","deps":[{"name":"smallvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40b3cbe94249284dcb426614b0e15ae57a2dd6570b5610c768a66c5972a8f567","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-19T13:00:52Z"}
