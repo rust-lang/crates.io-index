@@ -1,0 +1,1 @@
+{"name":"taraba-helpers","vers":"0.1.0","deps":[],"cksum":"197a8b983cf74882638d29268bd8cbb8d4c103dd1a48531e5246b2673afa8b12","features":{"alloc":[],"default":[],"encoding":["strings"],"iterator":["values"],"regexp":[],"segmenter":["strings","iterator"],"strings":["values"],"values":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-19T18:09:18Z"}
