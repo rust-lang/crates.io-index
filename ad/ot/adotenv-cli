@@ -1,0 +1,1 @@
+{"name":"adotenv-cli","vers":"0.7.0","deps":[{"name":"adotenv","req":"^0.7.0","features":["load"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"122d64996d9ad7a330027454e3eaa6bf7f4d54720add9d3574e1eae2d3af05a5","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-10-19T20:21:35Z"}
