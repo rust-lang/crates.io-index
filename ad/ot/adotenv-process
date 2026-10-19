@@ -1,0 +1,1 @@
+{"name":"adotenv-process","vers":"0.7.0","deps":[{"name":"adotenv","req":"^0.7.0","features":["load"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67cc85e3d1d5f20ec70e4b728105af4765a93b5001308e2146e66de9b430d654","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-10-19T20:21:25Z"}
