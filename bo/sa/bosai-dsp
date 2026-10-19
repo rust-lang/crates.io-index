@@ -1,0 +1,2 @@
+{"name":"bosai-dsp","vers":"0.1.0","deps":[{"name":"approx","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69241c01993dbe0489305051caed9c61b944a3d8646d32cf2afe258cb38acedf","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-05T07:59:58Z"}
+{"name":"bosai-dsp","vers":"0.1.1","deps":[],"cksum":"e898942dbb5d37bbb7e57f21fa485b17da452d48d1a2f1a84c86141f41049ad6","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-13T04:47:22Z"}

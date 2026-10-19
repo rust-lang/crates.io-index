@@ -1,0 +1,1 @@
+{"name":"zstd-rs","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13","features":["zdict_builder","experimental"],"optional":false,"default_features":false,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"dev"}],"cksum":"41514ccc30389f95bb9e6ab6d5634f17121c7b4fead6722a5fceec1c7891d78f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-28T22:15:48Z"}

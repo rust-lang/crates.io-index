@@ -1,0 +1,1 @@
+{"name":"falcorn-proto","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b02b0bd8c1eac5d7aa57b14edc077180eb59a0424751223611b626ac6fb6547","features":{},"yanked":false,"pubtime":"2026-03-26T02:49:01Z"}

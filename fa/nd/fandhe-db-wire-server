@@ -1,0 +1,1 @@
+{"name":"fandhe-db-wire-server","vers":"0.2.0","deps":[{"name":"engine","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"fandhe-db-engine"}],"cksum":"c1493cb8e9d69549dfdef36d260c5d8f76fc3b442ab242d81e27d036be4fecce","features":{"fault-injection":[]},"yanked":false,"pubtime":"2026-10-08T05:23:53Z"}

@@ -1,0 +1,1 @@
+{"name":"iana-pkix-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"1db7d4cb50503e0fc7c04b0f1b63b89edd78fbb714442d16d5c56e6d4873620a","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T04:17:32Z"}

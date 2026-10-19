@@ -1,0 +1,1 @@
+{"name":"thornode-pulse-wire","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b23a1b03a992c90b11be0ea6230c3f708d21f8c3abef23fb91a11143b868a7db","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-15T22:46:57Z"}

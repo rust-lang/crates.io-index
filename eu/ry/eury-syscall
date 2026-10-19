@@ -1,0 +1,1 @@
+{"name":"eury-syscall","vers":"0.1.0","deps":[{"name":"eury-abi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"575794b317e58903766cff2f48166176bf8e7bb9c0d364c51b10588d35bcc2c3","features":{"absorber-client":[],"absorber-image":[],"default":[],"symbols":[]},"yanked":false,"pubtime":"2026-09-09T21:06:09Z"}

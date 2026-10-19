@@ -1,0 +1,1 @@
+{"name":"mata-ecdsa","vers":"0.1.0","deps":[{"name":"p256","req":"^0.13","features":["ecdsa","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"308414bd714ce9209672d79746feb0c66c71b84af90279903caa3a1432b448cf","features":{},"yanked":false,"pubtime":"2026-10-14T18:58:37Z"}

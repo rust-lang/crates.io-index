@@ -1,0 +1,1 @@
+{"name":"cp2k-hdf5-sys","vers":"0.3.1","deps":[{"name":"cp2k-build-utils","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"92c395e6a556bae2d6113afe663c9530f19dbc077c4bf697079398d6f732a6d9","features":{},"yanked":false,"links":"cp2k_hdf5","pubtime":"2026-09-23T16:13:38Z"}

@@ -1,0 +1,1 @@
+{"name":"unikernel","vers":"0.1.0","deps":[{"name":"defmt","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b47edc2af1c20e5ced343d0593b2b3164e345fcba6125603588d696c96a218dc","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"pubtime":"2026-02-09T17:27:50Z","v":2}

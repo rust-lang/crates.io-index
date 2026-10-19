@@ -1,0 +1,1 @@
+{"name":"jb-embassy-irrigation-control","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d1f0f52f3062c449daa754d26dd0079727ae06777c0581065cd197727323914","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-27T18:49:32Z"}

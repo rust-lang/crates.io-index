@@ -1,0 +1,1 @@
+{"name":"minimal-left-right","vers":"0.1.0","deps":[{"name":"spin","req":"^0.10","features":["mutex","spin_mutex","rwlock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"96d4339cb041494a0210636e0057349e9b3c04cd17a2009679706f9967e910d3","features":{},"yanked":false,"pubtime":"2026-02-18T19:08:20Z"}

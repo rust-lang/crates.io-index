@@ -1,0 +1,2 @@
+{"name":"coorder","vers":"0.0.0","deps":[],"cksum":"52b41ae9d7ddc7d1fde31512735f7e075e14becd1290a469416980598af8ed5e","features":{},"yanked":true,"pubtime":"2026-07-17T23:57:14Z"}
+{"name":"coorder","vers":"0.2.0","deps":[{"name":"nalgebra","req":"^0.35.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a8b41aa87335123496b7a4c5bbcca6e5f2a75b88df570075879c6c3ec1ebcdf","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-19T12:33:09Z"}

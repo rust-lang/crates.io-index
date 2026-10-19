@@ -1,0 +1,1 @@
+{"name":"mathtex-render","vers":"0.1.0","deps":[{"name":"mathtex-ir","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8cda8ae12df9452edc4de8ab0d321fcbf119e5395b2d802ee0884d763bd3c928","features":{"default":["std"],"std":["mathtex-ir/std"]},"yanked":false,"pubtime":"2026-07-06T15:46:24Z"}

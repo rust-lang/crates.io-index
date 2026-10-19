@@ -1,0 +1,2 @@
+{"name":"sci-differentiate","vers":"0.0.0","deps":[],"cksum":"6eaf3548adc5e1a3a3d323f0feb9be468576feb09fe55cd1532325ee5a5aefae","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-14T23:09:56Z"}
+{"name":"sci-differentiate","vers":"0.1.0","deps":[{"name":"sci-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f724c4a109d44de0ab286e5f8ef7b098fcdd12db26ac75dc8261cf1c692b7ec","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-15T07:16:11Z"}

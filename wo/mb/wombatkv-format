@@ -1,0 +1,1 @@
+{"name":"wombatkv-format","vers":"0.1.0-alpha.pre1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2955fa5e2757cd99de133779ef8db772f4f54a309300ee0fdd402513713a897","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-25T06:39:10Z"}

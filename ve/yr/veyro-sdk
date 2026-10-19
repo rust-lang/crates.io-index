@@ -1,0 +1,1 @@
+{"name":"veyro-sdk","vers":"0.1.0","deps":[{"name":"veyro","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ae8097e5289d1827081dc16e0ed111b47fc199310fd6f841a80d01f1820897ea","features":{"default":["std"],"std":["veyro/std"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-21T10:29:05Z"}

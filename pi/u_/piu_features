@@ -1,0 +1,1 @@
+{"name":"piu_features","vers":"0.56.0","deps":[{"name":"deno_core","req":"^0.412.0","features":["reactor-tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"piu_core"}],"cksum":"f2413623b1fc9b1a87868fee10de22fb0ed59a83b20353f9969f63c52062118b","features":{},"yanked":false,"pubtime":"2026-10-15T21:17:53Z"}

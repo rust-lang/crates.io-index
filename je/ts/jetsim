@@ -1,0 +1,1 @@
+{"name":"jetsim","vers":"0.0.1","deps":[{"name":"pyo3","req":"^0.23","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55ef81fbf6d683cb362e5b1f3e8fac9ae635a045145f74d52722ca5cc9ba61ae","features":{"default":[],"python":["pyo3"]},"yanked":false,"pubtime":"2025-12-28T16:41:11Z"}

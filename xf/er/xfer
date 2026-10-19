@@ -1,0 +1,1 @@
+{"name":"xfer","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49e63475e977d8fb9fe65753b67399815730eb9cb0360656e8027f24fd8081c6","features":{},"yanked":false,"pubtime":"2026-03-10T00:28:19Z"}

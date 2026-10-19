@@ -1,0 +1,2 @@
+{"name":"ssimu2-lite","vers":"0.1.0","deps":[],"cksum":"43abbe6644fcc293c11eec7ffd755421a5a4cea25ed9882b5e088abcd75d83b5","features":{"avx":[],"default":["avx","neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-14T15:19:01Z"}
+{"name":"ssimu2-lite","vers":"0.1.1","deps":[],"cksum":"232fcdf6a69da36815de1c378df0b56fc72f170535450eef45745118ab78b91b","features":{"avx":[],"default":["avx","neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-15T04:04:19Z"}

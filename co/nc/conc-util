@@ -1,0 +1,13 @@
+{"name":"conc-util","vers":"0.1.0","deps":[],"cksum":"bf6a73c16a4750c2aa816c3b2bc46b5049e44c3f3f6116a33369eb88c9a80e84","features":{},"yanked":false,"pubtime":"2026-09-29T19:29:15Z"}
+{"name":"conc-util","vers":"0.2.0","deps":[],"cksum":"99e7e11a52dab572ae7c149736e41b4e28f2ffa92a643a7e9b24e9327294655b","features":{},"yanked":false,"pubtime":"2026-09-29T20:59:31Z"}
+{"name":"conc-util","vers":"0.2.1","deps":[],"cksum":"316c4ebf0bcf166a1eede078c0df4ac5db29e102cda0f53cfb91d240475fbe47","features":{},"yanked":false,"pubtime":"2026-09-29T21:11:20Z"}
+{"name":"conc-util","vers":"0.3.0","deps":[],"cksum":"3bd3b6c5edcc67efd4a70f57ef37032986e63b94379a177cdf58028425fa0bfc","features":{},"yanked":false,"pubtime":"2026-09-30T15:49:01Z"}
+{"name":"conc-util","vers":"0.3.1","deps":[],"cksum":"e3a1374bd42f8830a5f4bd005ba72355bf559e865e820242039cc7c128c1e491","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:40:09Z"}
+{"name":"conc-util","vers":"0.4.0","deps":[],"cksum":"c3c248fffdcf6b66d6f75b4719212cb9876e830ab2154729be20474271fedeee","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:52:44Z"}
+{"name":"conc-util","vers":"0.4.1","deps":[],"cksum":"087fe9bee676bd9aaeb5e4dc8ead646e772aa2fc3fcc20236ecb3713ee8b8c6f","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T16:56:46Z"}
+{"name":"conc-util","vers":"0.4.2","deps":[],"cksum":"fe6a1f4ac71866868a182d96ee7b9d2c73d3277f28c8129a6aa338ea39e6e89b","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T17:04:49Z"}
+{"name":"conc-util","vers":"0.4.3","deps":[],"cksum":"c5e8dfb91571c214d32b519a281446b20cacc4a53ad5530d0d0c1d3ed4593656","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T17:25:39Z"}
+{"name":"conc-util","vers":"0.5.0","deps":[],"cksum":"8a2a400cd8ee082b9e1423de4b6217445705dbf97073b6be85aa52002104fc4c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-09-30T18:48:07Z"}
+{"name":"conc-util","vers":"0.5.1","deps":[],"cksum":"10aea24d3483c332bbac7ffc952bb832a43d407162b0a86280a5df797ab78378","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T22:31:33Z"}
+{"name":"conc-util","vers":"0.5.2","deps":[],"cksum":"92d6d856b6c677f93cc8cea57276cb547bbbe1ce9abefd67c4ff18a59642c4c1","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T23:25:26Z"}
+{"name":"conc-util","vers":"0.5.3","deps":[],"cksum":"3179ab57dfaa6070489a25742d31385cdc252b4cb61805057bbd9ec5cf5d181c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-10-03T23:27:24Z"}

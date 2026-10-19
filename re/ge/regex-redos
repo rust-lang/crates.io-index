@@ -1,0 +1,2 @@
+{"name":"regex-redos","vers":"0.1.0","deps":[],"cksum":"cf9125b6b120903b1c871d1e5bdf9c995a4490978f8bb0bc9208a199a2f2b225","features":{},"yanked":false,"pubtime":"2026-07-01T05:41:58Z"}
+{"name":"regex-redos","vers":"0.2.0","deps":[{"name":"unicode-id-start","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46f29d6a987d2e107d0c1e4885cae9bc5924401851a65d12437a5f41f1d86896","features":{},"yanked":false,"pubtime":"2026-07-08T02:43:59Z"}

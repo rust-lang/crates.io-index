@@ -1,0 +1,1 @@
+{"name":"brouter_telemetry_util","vers":"0.0.1-alpha.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"538e643bf5217bc0172b3bf2236882cd9f45dddceed8817d0f6718e492babb4a","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-10-18T19:17:32Z"}

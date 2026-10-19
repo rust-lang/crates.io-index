@@ -1,0 +1,1 @@
+{"name":"discord-time","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.45","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"271b00a1df991b181709e43aa0bef6f933a9e23335f78bcb31b477045e5c5c4f","features":{},"features2":{"chrono":["dep:chrono"]},"yanked":false,"pubtime":"2026-10-08T10:51:34Z","v":2}

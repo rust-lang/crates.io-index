@@ -1,0 +1,1 @@
+{"name":"ferrocad_types","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db70878e9ca5d05b7d54d2093fb35456f5259094313244aa18a034719400bf13","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T02:54:30Z"}

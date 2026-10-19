@@ -1,0 +1,2 @@
+{"name":"purrassist-derive","vers":"0.0.0","deps":[],"cksum":"dfedee244204c6fad2dcf5eff5cab3b5e375762ef88558aba2308067f73202b9","features":{},"yanked":false,"pubtime":"2026-10-12T18:03:04Z"}
+{"name":"purrassist-derive","vers":"0.1.0","deps":[{"name":"purrassist-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d86eab57592457cd5545b7bad5f83537ffde4b97bb8573cff8f05f170de9b293","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-13T06:45:17Z"}

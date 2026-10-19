@@ -1,0 +1,1 @@
+{"name":"rbtree_extended","vers":"0.1.0","deps":[],"cksum":"76d8291f97fc3d6301cb192b39d932ac568fc8f3a4306f38caeceba5054eb77b","features":{"bfs":[],"default":["in-order","reverse-in-order","pre-order","post-order","bfs"],"in-order":[],"post-order":[],"pre-order":[],"reverse-in-order":[]},"yanked":false,"pubtime":"2026-10-16T10:26:52Z"}

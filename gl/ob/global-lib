@@ -1,0 +1,1 @@
+{"name":"global-lib","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.5","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"193002a2e5f301fd7863cacfa9751709570605b2cd6e6b71b7a5472669295e4e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-14T00:53:38Z"}
