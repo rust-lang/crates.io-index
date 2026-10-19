@@ -1,1 +1,2 @@
 {"name":"sonorant-analysis","vers":"0.0.1","deps":[],"cksum":"2fdca3ce3261296e3901c702e37d9edd367c42cbdca75558fb9b59e49993b3d8","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-10-09T16:55:47Z"}
+{"name":"sonorant-analysis","vers":"0.6.5","deps":[{"name":"sonorant-core","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85f819426ab39df46f72d37acb2a2181be50337e359158547ad61c5acb1bdd2a","features":{},"yanked":false,"pubtime":"2026-10-19T20:04:45Z"}
