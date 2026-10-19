@@ -104,3 +104,4 @@
 {"name":"wasi-preview1-component-adapter-provider","vers":"48.0.6","deps":[],"cksum":"6d81a2054866f4a7cc373e85e574df46d3d579e4c16ad5d57bc8ddc14a9c0bdf","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-10-14T17:00:06Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"49.0.3","deps":[],"cksum":"a6330ecda6f2ff8dcd4a8fd0cb9badafdb18cc4cd593b4f005317f6df1beb3a8","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-10-14T17:12:00Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"36.0.19","deps":[],"cksum":"72b5f8caf32e6d5f49dcb1053cfb26d5c8693f7bd93d979d6f10a2ad11f5270c","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-10-19T19:06:04Z"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"49.0.4","deps":[],"cksum":"9b4323ebb90e4f2eb38c03edabf2579e0cee3eab25bf22b352363b89c1e53470","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-10-19T19:16:08Z"}
