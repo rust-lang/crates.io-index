@@ -1,1 +1,2 @@
 {"name":"rustclamp-core","vers":"0.0.0","deps":[],"cksum":"f15da64e4b83b4ce31fdd5850df6d7e37af84f06666a7ffd45c57208503c7779","features":{},"yanked":false,"pubtime":"2026-10-08T08:43:36Z"}
+{"name":"rustclamp-core","vers":"1.0.0","deps":[{"name":"getrandom","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"fb2765e4552e2f3309e0ffe2a230a53c79118473a69e6e4ba3568cb35eb822fb","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-10-19T11:11:59Z"}
