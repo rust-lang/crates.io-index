@@ -1,0 +1,1 @@
+{"name":"nicenum","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02565b2f05807247e0ebd5142ac31b0c045f4a1bfae3c5660ce34021714b22bf","features":{"default":["std"],"std":[]},"features2":{"libm":["dep:libm"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T10:46:02Z","v":2}
