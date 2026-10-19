@@ -8,3 +8,4 @@
 {"name":"hiasync","vers":"0.2.0","deps":[],"cksum":"ced0b4c8e30e109e025f34a8b49c9a1ea41c421b243d17d787bc57c11315ea43","features":{},"yanked":false,"pubtime":"2025-07-30T15:32:46Z"}
 {"name":"hiasync","vers":"0.2.1","deps":[],"cksum":"a60f301e00b90622629eb8634471841931ed7ccb37c0d58a28b8c4c598714f69","features":{},"yanked":false,"pubtime":"2025-07-31T13:19:51Z"}
 {"name":"hiasync","vers":"0.2.2","deps":[],"cksum":"23197394228550ba38ff7837de0ab0f4c84afc1112ad11aeac042bbd9a2e6622","features":{},"yanked":false,"pubtime":"2026-03-11T04:57:28Z"}
+{"name":"hiasync","vers":"0.3.0","deps":[{"name":"hifmt","req":"^0.4.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba39f8a172c9646d8bc4a3305ec67adc65c25a33f9396ae5ae72ff1000ff882b","features":{},"features2":{"hifmt":["dep:hifmt"]},"yanked":false,"pubtime":"2026-10-19T12:20:50Z","v":2}
