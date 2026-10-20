@@ -3,3 +3,4 @@
 {"name":"vix-locale-model","vers":"1.4.0","deps":[],"cksum":"1c227ff3c2a4f72ac3f77e7bd74caa7a502b4aea5944c9fe33e74781aafd5ab7","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T08:23:45Z"}
 {"name":"vix-locale-model","vers":"1.4.1","deps":[],"cksum":"393960a475735b06c078bc55322c6447eb5fafa58425eecae68d496f2878b8bc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T23:27:28Z"}
 {"name":"vix-locale-model","vers":"1.5.0","deps":[],"cksum":"78bc755a3943f86f8b37ae57e029504d3dad38a4900d8161d1963d6da8b8ff2d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:31:59Z"}
+{"name":"vix-locale-model","vers":"1.7.0","deps":[{"name":"unicode-bidi","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b68bec4fab4c47301780f54602b86d2aefa97645eb1ce01868b72fc33fe01005","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T21:34:49Z"}
