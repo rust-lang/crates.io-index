@@ -5,3 +5,4 @@
 {"name":"hierr","vers":"0.2.2","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"449b88c59d9d6590f7cad6d63e750f9f8091d5dcd233ae126fa5effe90f9b23b","features":{},"yanked":false,"pubtime":"2024-08-15T01:56:06Z"}
 {"name":"hierr","vers":"0.2.3","deps":[],"cksum":"a1c5a9ae96cd528595d7f9f52ee8b284a6ffbc7054948ac37d8f5a1013d1966e","features":{},"yanked":false,"pubtime":"2024-12-16T07:14:44Z"}
 {"name":"hierr","vers":"0.2.4","deps":[],"cksum":"c42704188a56c5aa81ae6bbc24419eff82eafeec1fd735a118ffec7c7d4f12b2","features":{},"yanked":false,"pubtime":"2025-02-07T07:04:25Z"}
+{"name":"hierr","vers":"0.2.5","deps":[],"cksum":"09c755c678593245ecc8a14ab46bfe3a82eef30c1a7c6a58c23cf67259f837d7","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-10-20T02:10:12Z"}
