@@ -1,0 +1,1 @@
+{"name":"light-fw-behavior-validation","vers":"0.4.0","deps":[{"name":"light-fw-core","req":"^0.4.0","features":["validation","required-fields"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc79f713950667ac5c4ae3d5d31c02d2a5d43c768f82ed7df5908add5656651c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-20T11:49:30Z"}
