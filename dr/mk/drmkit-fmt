@@ -1,3 +1,4 @@
 {"name":"drmkit-fmt","vers":"0.1.0","deps":[],"cksum":"c80eb97fa1e5b176c4a5f04f09ca1f87693c4f8bd6548d307feb5e6d382573df","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-14T10:25:42Z"}
 {"name":"drmkit-fmt","vers":"0.1.1","deps":[],"cksum":"2fe8b7e8a7cbd504bbd81073f4bcb69732d32031e4c6ae2c742cc3d85f333749","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-14T15:02:55Z"}
 {"name":"drmkit-fmt","vers":"0.1.2","deps":[],"cksum":"2d17d972fcc84322963fddc77fbb6b7a7b60aaf0b3b2a79071708efaec05a0b2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-15T21:55:25Z"}
+{"name":"drmkit-fmt","vers":"0.1.3","deps":[],"cksum":"b340e6fb51d3023b671520c8fd40bab04a2bfe76bd8b368f56e8d8d3921b52f2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-20T20:10:44Z"}
