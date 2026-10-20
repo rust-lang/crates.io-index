@@ -26,3 +26,4 @@
 {"name":"openssl-rs","vers":"0.0.26","deps":[],"cksum":"281fff5f53789dc30894ff4e9c974d7512fa1650dd2165dc21ace99829e79f65","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-06T11:56:41Z"}
 {"name":"openssl-rs","vers":"0.0.27","deps":[],"cksum":"67eda43d88ab7bb13aa44590efcbdeca5400727339919ce3f11e88a21ff28cfa","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-07T12:03:41Z"}
 {"name":"openssl-rs","vers":"0.0.28","deps":[],"cksum":"d2e4460c0911398a6c5531ae4308e8fa2481b89bd960ade185d81ad42581801e","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-14T12:53:36Z"}
+{"name":"openssl-rs","vers":"0.0.29","deps":[{"name":"loom","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"dev"}],"cksum":"bd2bc9b0c0db2160599279851605abd69af00c7c5430f23c6ea78ffd3593de44","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-20T20:31:17Z"}
