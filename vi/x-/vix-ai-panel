@@ -3,3 +3,4 @@
 {"name":"vix-ai-panel","vers":"1.4.0","deps":[],"cksum":"8908eb005ad7cc5488f5e17ce80d6bcbdd1186da7450443651bdabaa55daeea7","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T07:48:26Z"}
 {"name":"vix-ai-panel","vers":"1.4.1","deps":[],"cksum":"5d2411bc3ec4f106e1c96aaa28694a9a5fc88526204435bac08dfe31bd873006","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T22:50:38Z"}
 {"name":"vix-ai-panel","vers":"1.5.0","deps":[],"cksum":"48c5382fbc7069feab392cf7a2ba996fdc1b4a1e1ec2f914ad4522afedff51fc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T21:45:55Z"}
+{"name":"vix-ai-panel","vers":"1.7.0","deps":[{"name":"vix-greedy-wrap","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c481a236ed966c131404cfa4c2982999de5d009e3d99f75f97f58a977413ee53","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T20:04:41Z"}
