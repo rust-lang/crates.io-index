@@ -3,3 +3,4 @@
 {"name":"vix-contact-panel","vers":"1.4.0","deps":[],"cksum":"26da98797a30b619bfa588ef7de9832cf6ca46e3de9076bf2d1194474db8acdb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T07:48:30Z"}
 {"name":"vix-contact-panel","vers":"1.4.1","deps":[],"cksum":"7b686de615cc5eeb20a0150b1968fa271afe258919a2d3678f421db320b558b8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T22:52:36Z"}
 {"name":"vix-contact-panel","vers":"1.5.0","deps":[],"cksum":"8eaa4b121f4ed51b049d352451acd7c838bb5b37c6733062e99bbe09875cc221","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T21:46:01Z"}
+{"name":"vix-contact-panel","vers":"1.7.0","deps":[{"name":"vix-list-state","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1393e8755fe9d6c5e3148531c0538cd580ff46825e380af1e6c01f74ce1c47d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T20:34:48Z"}
