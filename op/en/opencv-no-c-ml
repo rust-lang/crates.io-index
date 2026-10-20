@@ -1,0 +1,1 @@
+{"name":"opencv-no-c-ml","vers":"0.1.0","deps":[{"name":"cv-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"opencv-no-c-core"}],"cksum":"18aa640c4a801301a8b44407a3f3a441a45dc5bce32a563da57ea6a1f02cfe53","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-10-20T07:09:29Z"}
