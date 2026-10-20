@@ -3,3 +3,4 @@
 {"name":"vix-welcome-panel","vers":"1.4.0","deps":[],"cksum":"2ef360e7cef5675370df71f6ffe2e4bc9aa8695a1bed03d0be5e6e7a7fa2108e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T09:06:01Z"}
 {"name":"vix-welcome-panel","vers":"1.4.1","deps":[],"cksum":"db6dcb7d85e3927bd750536237c20154efb7a7928e9823ed16172c02480ea4c6","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-27T00:07:32Z"}
 {"name":"vix-welcome-panel","vers":"1.5.0","deps":[],"cksum":"1c88d260b3682832a9da401f2509e43833f6b70c19c49f2387b2887f5f6debfb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:22:29Z"}
+{"name":"vix-welcome-panel","vers":"1.7.0","deps":[{"name":"vix-greedy-wrap","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a5c99d0ec045dbe4034302bf90b5b36f3ca197ad7847de08ea7a51f2d8f1d23","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T22:45:36Z"}
