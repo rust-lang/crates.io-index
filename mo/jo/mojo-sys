@@ -1,0 +1,1 @@
+{"name":"mojo-sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"989bbb6b33a0d90eb54b10ef01b8214fb47aa6ef1194cd33e3f9f130a9a667f7","features":{},"yanked":false,"links":"chromium_mojo_runtime","rust_version":"1.96","pubtime":"2026-10-20T17:06:57Z"}
