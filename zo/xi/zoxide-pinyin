@@ -1,0 +1,1 @@
+{"name":"zoxide-pinyin","vers":"0.10.0","deps":[{"name":"zoxide-romanized","req":"=0.10.0","features":["pinyin"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e6fab9d2fb878e688b9ac71ad1e31b4a3c21d4d413d66207e6fd87f05f050834","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-20T13:24:46Z"}
