@@ -3,3 +3,4 @@
 {"name":"vix-fileops","vers":"1.4.0","deps":[],"cksum":"de67c9eb67f1b910a59556f1b96d8acd9ca0d09383a7173b231de6a34cde8e57","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T08:08:53Z"}
 {"name":"vix-fileops","vers":"1.4.1","deps":[],"cksum":"6821c0885f8f6e00f600953767e00e1d3c56a3969bd351c96c90ecf6585ae2bd","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-26T22:54:49Z"}
 {"name":"vix-fileops","vers":"1.5.0","deps":[],"cksum":"cd27cbd6ee435c17fbda4139bcb31af3d19bbc767ac54880716467e55035b30b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:43:48Z"}
+{"name":"vix-fileops","vers":"1.7.0","deps":[{"name":"trash","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"133712409fd97530bc12a6e183377632a27c0663ff399487641dc929ee510cfc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T20:44:41Z"}
