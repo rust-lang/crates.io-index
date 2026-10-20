@@ -1,0 +1,1 @@
+{"name":"light-fw-element-form","vers":"0.4.0","deps":[{"name":"light-fw-core","req":"^0.4.0","features":["elements-form"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b750fed77644ed3f33b8db0e4247284c503f89da00bc52cb51ae8f7e53e77ef9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-20T12:46:47Z"}
