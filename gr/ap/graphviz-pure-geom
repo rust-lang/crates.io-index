@@ -1,1 +1,2 @@
 {"name":"graphviz-pure-geom","vers":"0.0.0","deps":[],"cksum":"af0aa5f8bd3a9e13865c9e332631787fa0f44ffa526258e0d10eb8a2b1863a9a","features":{},"yanked":false,"pubtime":"2026-10-20T12:35:08Z"}
+{"name":"graphviz-pure-geom","vers":"0.1.0","deps":[{"name":"graphviz-pure-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6346db59f3d1bb2431fa2d90eeaba2781c56cc44d3ca2abd7c95e5bf7002e5f","features":{},"yanked":false,"pubtime":"2026-10-21T11:03:40Z"}
