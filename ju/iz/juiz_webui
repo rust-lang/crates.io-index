@@ -1,0 +1,1 @@
+{"name":"juiz_webui","vers":"0.0.19","deps":[{"name":"rust-embed","req":"^8.5.0","features":["interpolate-folder-path","mime-guess","debug-embed"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ff29cbdcc58642b7dfbc0d286f4ba5f108a70000631167c3a70b1890c1c9457","features":{},"yanked":false,"pubtime":"2026-10-21T12:09:37Z"}
