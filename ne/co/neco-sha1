@@ -1,1 +1,2 @@
 {"name":"neco-sha1","vers":"0.1.0","deps":[],"cksum":"b6523df8303c0bcfab89f69bcb93ac171afe89a0f6a3fdfa8dc47464718fcd37","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-12T13:52:43Z"}
+{"name":"neco-sha1","vers":"0.2.0","deps":[],"cksum":"21af8afbaf99558b6d7409182da0743b933621f8887a82dfebfebfa299b4a50b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-21T06:38:47Z"}
