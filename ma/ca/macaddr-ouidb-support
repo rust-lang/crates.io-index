@@ -1,3 +1,4 @@
 {"name":"macaddr-ouidb-support","vers":"0.1.18","deps":[],"cksum":"6a23e40d42f682074a2d30030041e6e3a4c74daddebdf54c9403ab771038e070","features":{},"yanked":false,"pubtime":"2026-10-19T03:08:53Z"}
 {"name":"macaddr-ouidb-support","vers":"0.2.0","deps":[],"cksum":"af82f5c162f80dfd6243d957fbaa3a12d482a034d0dd1bc3de3650b32b0db3c7","features":{},"yanked":false,"pubtime":"2026-10-19T09:04:48Z"}
 {"name":"macaddr-ouidb-support","vers":"0.2.1","deps":[],"cksum":"25283d28e37a0b0abe26ad3e53a28ee1368db5e54d38e8027c4eba73951c4252","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-21T04:51:11Z"}
+{"name":"macaddr-ouidb-support","vers":"0.2.2","deps":[],"cksum":"21af3f8d6698f750b1f5725487ee808aa6471fd767dab2ee1b08df549341604d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-21T06:21:51Z"}
