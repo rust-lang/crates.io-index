@@ -1,0 +1,1 @@
+{"name":"avcopan_trialrs","vers":"0.0.1","deps":[{"name":"pyo3","req":"^0.29","features":["abi3-py313","experimental-inspect"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3328dd21e64f00d1c879464f8b34e7a3caae868313f6a643d0e7d0383b0b937e","features":{},"features2":{"python":["dep:pyo3"]},"yanked":false,"pubtime":"2026-10-21T14:05:35Z","v":2}
