@@ -1,0 +1,1 @@
+{"name":"kuebiko","vers":"0.13.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce19b6bd91262301d9791c5128d87c197477946a6fd1da78ae843bc4a369d3c1","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-21T11:16:18Z","v":2}
