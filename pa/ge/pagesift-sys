@@ -1,0 +1,1 @@
+{"name":"pagesift-sys","vers":"0.12.1","deps":[{"name":"libc","req":"^0.2.191","features":[],"optional":false,"default_features":true,"target":"cfg(all(target_os = \"linux\", target_env = \"gnu\"))","kind":"normal"}],"cksum":"22bcd370c377030ef2c3eb07e4801d2f7cbfd669aadb1524e84ce1a753741899","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-21T22:21:44Z"}
