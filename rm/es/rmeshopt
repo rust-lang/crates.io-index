@@ -1,0 +1,1 @@
+{"name":"rmeshopt","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f78018d9f6a232ad77948dd29b1b566e6824006534c1173e9f4c158ec3f700b3","features":{"default":["std"],"simd":[],"simd-avx512":["simd"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-21T00:50:12Z"}
