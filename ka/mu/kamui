@@ -1,1 +1,2 @@
 {"name":"kamui","vers":"0.13.0","deps":[],"cksum":"4a9f599af1882b2163c12c5899e90fa8c52840cbb61d54b7d56e3ec4bc52f6f7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-21T11:16:22Z"}
+{"name":"kamui","vers":"0.14.0","deps":[{"name":"proptest","req":"^1.12","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"240e3ff8b0f3587c67e8fe3ee908dadf05bf987935d0a0bec04fca66f3839160","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-22T04:13:51Z"}
