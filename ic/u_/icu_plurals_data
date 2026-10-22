@@ -10,3 +10,4 @@
 {"name":"icu_plurals_data","vers":"2.1.1","deps":[],"cksum":"f018a98dccf7f0eb02ba06ac0ff67d102d8ded80734724305e924de304e12ff0","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:07:20Z"}
 {"name":"icu_plurals_data","vers":"2.2.0","deps":[],"cksum":"8485497155dc865f901decb93ecc20d3e467df67bfeceb91e3ba34e2b11e8e1d","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:48:58Z"}
 {"name":"icu_plurals_data","vers":"2.3.0","deps":[],"cksum":"1251aa39a95e1333888e499b1263e1c196447a28948acf5bdabd82c046f153bf","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-13T23:29:13Z"}
+{"name":"icu_plurals_data","vers":"2.4.0","deps":[],"cksum":"d43ff7df2c1a1d41588a6ddcba354d513d4a3e10eec22c06fe56d13c12a848ea","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-22T08:57:16Z"}
