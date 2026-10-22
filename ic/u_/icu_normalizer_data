@@ -11,3 +11,4 @@
 {"name":"icu_normalizer_data","vers":"2.1.1","deps":[],"cksum":"7aedcccd01fc5fe81e6b489c15b247b8b0690feb23304303a9e560f37efc560a","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:06:02Z"}
 {"name":"icu_normalizer_data","vers":"2.2.0","deps":[],"cksum":"da3be0ae77ea334f4da67c12f149704f19f81d1adf7c51cf482943e84a2bad38","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:48:28Z"}
 {"name":"icu_normalizer_data","vers":"2.3.0","deps":[],"cksum":"1563da1ed3e0b3bf3d74c9b85917ac9c56464d2f57242270c09c9e752f8021a0","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-13T23:28:53Z"}
+{"name":"icu_normalizer_data","vers":"2.4.0","deps":[],"cksum":"20f0088bfb7441f7a37fa0c9e20cb1e9cba1cac6b9ce8cd2a6dc44294f8e8cbc","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-22T08:56:37Z"}
