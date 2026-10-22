@@ -29,3 +29,4 @@
 {"name":"solana-define-syscall","vers":"5.0.0","deps":[],"cksum":"03aacdd7a61e2109887a7a7f046caebafce97ddf1150f33722eeac04f9039c73","features":{"unstable-static-syscalls":[]},"yanked":false,"pubtime":"2026-01-11T01:40:35Z"}
 {"name":"solana-define-syscall","vers":"5.1.0","deps":[],"cksum":"21e14a4f604117f379840956a8fc8695e4c84f5b0ebed192f31f60d9b85d581d","features":{"unstable-static-syscalls":[]},"yanked":false,"pubtime":"2026-04-16T09:26:47Z"}
 {"name":"solana-define-syscall","vers":"5.2.0","deps":[],"cksum":"bf8209ece2bd9f1450e672858ffc0e5c8c786ff6916d2a862b126dd0128f380f","features":{"unstable-static-syscalls":[]},"yanked":false,"pubtime":"2026-07-28T09:21:55Z"}
+{"name":"solana-define-syscall","vers":"5.3.0","deps":[],"cksum":"e4d02bb1453b6f9e1e705383a44b98a8722669b44adcdfe3643183987fdad72e","features":{"unstable-static-syscalls":[]},"yanked":false,"pubtime":"2026-10-22T10:23:43Z"}
