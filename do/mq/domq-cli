@@ -1,0 +1,1 @@
+{"name":"domq-cli","vers":"0.4.0","deps":[{"name":"domq","req":"^0.4","features":["json","query","markdown","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2903f7e0168f4888a5a003192add82fdf8ec729045d3d1c82e754deb1f10350e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-22T19:30:19Z"}
