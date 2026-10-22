@@ -11,3 +11,4 @@
 {"name":"mecha10-turn-config","vers":"3.0.0","deps":[],"cksum":"5f20047e89f3d69bf89d39af2eb1a9a71085d0a8b34a0ac6cf9262ee2f60e30c","features":{},"yanked":false,"pubtime":"2026-10-21T17:31:17Z"}
 {"name":"mecha10-turn-config","vers":"4.0.0","deps":[],"cksum":"f6f53962ee1052ad29632aa9f2836d412f885117d57b3850d11024cba28fc5c1","features":{},"yanked":false,"pubtime":"2026-10-21T23:49:44Z"}
 {"name":"mecha10-turn-config","vers":"4.0.1","deps":[],"cksum":"8e5ac95436aa16da4f2e4859f29678b68c235e9492165360426a63b5e723c192","features":{},"yanked":false,"pubtime":"2026-10-22T04:15:30Z"}
+{"name":"mecha10-turn-config","vers":"4.0.2","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a2000b8365ca821d3e097a72abe05b1f70aec29aa63529b497436b001ab330c","features":{},"yanked":false,"pubtime":"2026-10-22T06:40:13Z"}
