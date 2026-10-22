@@ -48,3 +48,4 @@
 {"name":"yog-abi","vers":"0.30.10","deps":[],"cksum":"b91c33dc215cb065a27b0cad2252f878888a01d23334a6ff405fc79d77de7932","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-18T14:59:40Z"}
 {"name":"yog-abi","vers":"0.31.0","deps":[],"cksum":"2ba57306e12d8049221c8bd0c41e8b096edf953bc24e1bef098a828f4a2d24f2","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-21T16:09:30Z"}
 {"name":"yog-abi","vers":"0.32.0","deps":[],"cksum":"19d2ac78478ffaa583a7b6ade79dfaedc3af4f041c96cf860680f55f1377b144","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-21T16:58:00Z"}
+{"name":"yog-abi","vers":"0.32.1","deps":[{"name":"yog-sync","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1df417affe8c5fa16a6caa38b2ffec9b40deafff9b1f11e83aa65934316bfc6e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-22T07:21:53Z"}
