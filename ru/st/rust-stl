@@ -4,4 +4,4 @@
 {"name":"rust-stl","vers":"0.3.0","deps":[],"cksum":"fa06f9650ff7f17964f33ff88542d760b8313a7c1931773157cb6218544ecd87","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-19T13:49:13Z"}
 {"name":"rust-stl","vers":"0.4.0","deps":[],"cksum":"37003e42ec163a89addff8a9d48daf4290b97cb4c9cf57ba4565fc4f05902531","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-22T05:09:44Z"}
 {"name":"rust-stl","vers":"0.4.1","deps":[],"cksum":"d45d6ea636a11936141e06f9e20a0fc22bf5325a3d940dff3cd08388c8d6544c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-22T05:14:37Z"}
-{"name":"rust-stl","vers":"0.5.0","deps":[],"cksum":"d6598405a623d8cbd1b106cd2d359a7b9bb06ffeb3c119b35b615be203af2026","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-22T06:00:06Z"}
+{"name":"rust-stl","vers":"0.5.0","deps":[],"cksum":"d6598405a623d8cbd1b106cd2d359a7b9bb06ffeb3c119b35b615be203af2026","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-10-22T06:00:06Z"}
