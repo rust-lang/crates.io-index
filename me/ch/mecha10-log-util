@@ -11,3 +11,4 @@
 {"name":"mecha10-log-util","vers":"3.0.0","deps":[],"cksum":"3277c2bc0e33801aaca1daa4a4709cffec74109ce1cda1054ac91c5288e0a63e","features":{},"yanked":false,"pubtime":"2026-10-21T17:32:07Z"}
 {"name":"mecha10-log-util","vers":"4.0.0","deps":[],"cksum":"34ac50ba8d0ac4ab2ec17b751b7f2ae090f03620f09b602f92cf98181aa46e75","features":{},"yanked":false,"pubtime":"2026-10-21T23:50:34Z"}
 {"name":"mecha10-log-util","vers":"4.0.1","deps":[],"cksum":"2a25b3766abad2fe27e3543a3ad7c5b6cea818edbe3bb453bfd37c9025ad9d62","features":{},"yanked":false,"pubtime":"2026-10-22T04:16:20Z"}
+{"name":"mecha10-log-util","vers":"4.0.2","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32747dd6436bf655ff95b30f83d1b25ddf395b6ca75a28e090713d62e0da8d4c","features":{},"yanked":false,"pubtime":"2026-10-22T06:41:03Z"}
