@@ -1,1 +1,2 @@
 {"name":"papyra-core","vers":"0.0.0","deps":[],"cksum":"12221a69b1290ad55c2aecf1a370af55abe6556ad4aa02173ef171a266918659","features":{},"yanked":false,"pubtime":"2026-10-22T15:59:11Z"}
+{"name":"papyra-core","vers":"0.5.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3097bc171231703e4cdfa9488c75f31778b7699cd3ea6ca07dac24b1ef8df6b3","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-10-22T18:38:56Z"}
