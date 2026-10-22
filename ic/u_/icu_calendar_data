@@ -10,3 +10,4 @@
 {"name":"icu_calendar_data","vers":"2.1.1","deps":[],"cksum":"527f04223b17edfe0bd43baf14a0cb1b017830db65f3950dc00224860a9a446d","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2025-10-28T18:03:58Z"}
 {"name":"icu_calendar_data","vers":"2.2.0","deps":[],"cksum":"118577bcf3a0fa7c6ac0a7d6e951814da84ee56b9b1f68fb4d8d10b08cefaf4d","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-04-01T16:47:23Z"}
 {"name":"icu_calendar_data","vers":"2.3.0","deps":[],"cksum":"dc00caaa3fb3201ff7a18aa458e8c3ab042b9da154cfdf948bdde3936c31c36e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-13T23:28:16Z"}
+{"name":"icu_calendar_data","vers":"2.4.0","deps":[],"cksum":"514da54e79efa36b5976232d5b3d1d8ee1b47b19ab658f1b1ebe39221696c2d8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-22T08:51:58Z"}
