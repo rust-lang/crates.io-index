@@ -1,0 +1,1 @@
+{"name":"lomboksimhash","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4cd400a7b24d87025fe375eef774497a1b11585146322f4e15f15653904f7c33","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-22T08:02:13Z"}
