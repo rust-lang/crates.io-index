@@ -1,0 +1,1 @@
+{"name":"rndr_core","vers":"0.1.0","deps":[{"name":"unicode-segmentation","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24998085eb13e50c086ed8a07d4e2d156a223eb342e27a74d08bd655d6e1b320","features":{"default":[],"pool":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-22T22:44:59Z"}
