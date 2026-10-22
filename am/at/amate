@@ -1,1 +1,2 @@
 {"name":"amate","vers":"0.13.0","deps":[],"cksum":"f5909453dcea7d235aef6341095136b99c5628dff707576a47fc53cd543184f3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-21T11:16:12Z"}
+{"name":"amate","vers":"0.14.0","deps":[{"name":"proptest","req":"^1.12","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"c22096db4f0c726535b6e04b249eea31fd8b86107dcce0612cd5465c14b810d9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-22T04:13:45Z"}
