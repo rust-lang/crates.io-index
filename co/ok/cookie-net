@@ -1,1 +1,2 @@
 {"name":"cookie-net","vers":"0.1.0","deps":[],"cksum":"fe92b8469199b2e7c1601deb2ecff647fb1e13b34770dd48188188b3f10d8275","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-23T04:20:08Z"}
+{"name":"cookie-net","vers":"0.2.0","deps":[],"cksum":"0f6b61e69a31ab9934daa0d98f9ae9b1921e912c00655d185f84352dac164e27","features":{"alloc":[],"client":[],"default":["std"],"encrypted":["signed","std"],"jar":["client","alloc"],"signed":[],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-23T04:25:09Z"}
