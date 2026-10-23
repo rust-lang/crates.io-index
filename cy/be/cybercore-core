@@ -1,0 +1,1 @@
+{"name":"cybercore-core","vers":"0.1.0","deps":[{"name":"cybercore","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec77aed67fdee737aebe263966f1260001cebde3d1965bd09d9e1febfd66d6b8","features":{"default":[],"status":["cybercore/status"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-23T18:42:40Z"}
