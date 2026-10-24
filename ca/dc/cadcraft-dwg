@@ -1,0 +1,1 @@
+{"name":"cadcraft-dwg","vers":"1.4.7","deps":[{"name":"acadrust","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"291731a7a66e60949f57de67e43a1eaebc018347ddeae54fe414774851cad093","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-24T07:42:57Z"}
