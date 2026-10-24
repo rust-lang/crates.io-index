@@ -20,3 +20,4 @@
 {"name":"normalized-line-endings","vers":"1.0.12","deps":[],"cksum":"619a6f2084ee350ff83530aad662b5175acbb12784913e07b356223b21579deb","features":{},"yanked":false,"pubtime":"2026-01-15T17:40:02Z"}
 {"name":"normalized-line-endings","vers":"1.0.13","deps":[],"cksum":"0c880807e0491894da7ebe4ed848b23063e45ac0bbf34bebaf991322be47d817","features":{},"yanked":false,"pubtime":"2026-01-15T17:58:03Z"}
 {"name":"normalized-line-endings","vers":"1.0.14","deps":[],"cksum":"4ec1c9b208b243df153ffa70a7212704a421c77927c37fb871e699b28d696088","features":{},"yanked":false,"pubtime":"2026-01-15T18:23:47Z"}
+{"name":"normalized-line-endings","vers":"2.0.0","deps":[],"cksum":"d5d8fb1dbd0ec691441b3aebf1d5cbae592e586840c22e05cc182d5e0ca641fc","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-24T11:17:33Z"}
