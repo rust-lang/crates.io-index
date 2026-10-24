@@ -1,1 +1,2 @@
 {"name":"paperpaw-hyphen","vers":"0.0.0","deps":[],"cksum":"1a8934929587a71c385bba944b74ef70fe99a07f25c1fde0a5d9ff41b842c403","features":{},"yanked":false,"pubtime":"2026-10-19T16:04:28Z"}
+{"name":"paperpaw-hyphen","vers":"0.5.0-beta.1","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"7e0fc33d8a759835b5edefee56048a8cd7826cdea3d6fa8068b4553af810db4a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-24T09:31:30Z"}
