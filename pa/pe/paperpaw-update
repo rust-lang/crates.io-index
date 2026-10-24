@@ -1,1 +1,2 @@
 {"name":"paperpaw-update","vers":"0.0.0","deps":[],"cksum":"2ba300758a6edabb095af39ff9a5e8d102401324d53e5024aed5b84ee41d3f33","features":{},"yanked":false,"pubtime":"2026-10-19T22:50:52Z"}
+{"name":"paperpaw-update","vers":"0.5.0-beta.1","deps":[{"name":"ed25519-compact","req":"=2.6.0","features":["opt_size"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ab7da7cf912793aff8e3ebe2de4285928ce42820accd20c6daba26f7e58bebee","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-24T09:31:31Z"}
