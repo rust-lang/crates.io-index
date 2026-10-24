@@ -35,3 +35,4 @@
 {"name":"persistant-core","vers":"0.9.28","deps":[],"cksum":"24a85bd90704eba221a1407fc74b9444784f336efdd6ff19627e00585368759b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-23T09:48:22Z"}
 {"name":"persistant-core","vers":"0.9.32","deps":[],"cksum":"c075e10a5188e31a7f1a75e4a9dc125afe3bf5daf4182477b0e413fbc67a4b86","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-23T12:46:52Z"}
 {"name":"persistant-core","vers":"0.9.37","deps":[],"cksum":"23a1930583efba64787b70dfb6a3da4176745d386592773fde0eaf3a9605a617","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-23T22:34:25Z"}
+{"name":"persistant-core","vers":"0.9.40","deps":[{"name":"capant","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b148f3a2c03c36cc05185510b4d01b0766f683c27bab0a2bba6d65eb12a5a5d2","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-24T02:52:06Z"}
