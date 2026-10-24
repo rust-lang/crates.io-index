@@ -1,1 +1,2 @@
 {"name":"paperpaw-xml","vers":"0.0.0","deps":[],"cksum":"ae8ae33985f398086ec71c773e95bc25a66842422a4355a7d5e2c1cef64c48fe","features":{},"yanked":false,"pubtime":"2026-10-19T23:41:15Z"}
+{"name":"paperpaw-xml","vers":"0.5.0-beta.1","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"211967d9e4adc408d0d0bbef8d9b33bd122b28121ad3d9dc3c87ccc4f5bf63a1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-24T09:31:32Z"}
