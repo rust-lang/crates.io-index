@@ -1,1 +1,2 @@
 {"name":"paperpaw-platform","vers":"0.0.0","deps":[],"cksum":"157543310aea8da509dd41b5fd6643375f77a8a7db7cc42417dbdc1d79d1ef33","features":{},"yanked":false,"pubtime":"2026-10-19T22:49:36Z"}
+{"name":"paperpaw-platform","vers":"0.5.0-beta.1","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"9a8f90b31e3165b2002696a5914a82b1d5bf0661c986cd2c5912bbd561a4f7f3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-24T09:31:30Z"}
