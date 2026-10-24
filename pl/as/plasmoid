@@ -1,1 +1,2 @@
 {"name":"plasmoid","vers":"0.1.0","deps":[],"cksum":"9be28d879c49dea6c507f393f7bcaa57abb4263b58c1ee76f1fc93254fbd1fb2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-24T08:38:20Z"}
+{"name":"plasmoid","vers":"0.2.0","deps":[{"name":"metrology","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3e4ceaab51290dd46dca113a89e27f681e4b97e067ca7f75f75a95940c4e652","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-24T09:51:52Z"}
