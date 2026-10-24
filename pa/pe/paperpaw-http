@@ -1,1 +1,2 @@
 {"name":"paperpaw-http","vers":"0.0.0","deps":[],"cksum":"0a0239e1c3125f4340dadbdf34761f91e86ea9f1e5249945acd9414fc6ddd210","features":{},"yanked":false,"pubtime":"2026-10-19T16:00:38Z"}
+{"name":"paperpaw-http","vers":"0.5.0-beta.1","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"8e178590df6afd32c873c04a1f330ac647f8343d2223122f8c963a5c4908d816","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-24T09:31:29Z"}
