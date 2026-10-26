@@ -4,3 +4,4 @@
 {"name":"qindex","vers":"0.3.0","deps":[],"cksum":"deb869274426da3a05808c209162b312f327339c3d6a5e0b153ffce78fb9f210","features":{},"yanked":false,"pubtime":"2026-09-20T14:35:07Z"}
 {"name":"qindex","vers":"0.4.0","deps":[],"cksum":"b9432b0b0938697c52b091bf1d205af57d524eadfd6a462ad7529fc40290e8af","features":{},"yanked":false,"pubtime":"2026-10-01T18:25:53Z"}
 {"name":"qindex","vers":"0.5.0","deps":[],"cksum":"249bfced2f4b689b7c7da24f54b313feb7934759bcbb7f38e639e1bf12696ff2","features":{},"yanked":false,"pubtime":"2026-10-07T21:00:38Z"}
+{"name":"qindex","vers":"0.6.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0c14e12c012f751503d0663c2af45b90d5d5636878357a19ad30c9730aeacbc","features":{},"yanked":false,"pubtime":"2026-10-26T23:59:58Z"}
