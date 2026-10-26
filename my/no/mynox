@@ -2,3 +2,4 @@
 {"name":"mynox","vers":"0.1.1","deps":[{"name":"color-print","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2e2cd8a5645451f9f13ec82d767a9a68dc86f17b8ec0bb0333f093be7909889","features":{},"yanked":false,"pubtime":"2026-10-14T12:41:53Z"}
 {"name":"mynox","vers":"0.1.2","deps":[{"name":"color-print","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"902a823aebaaff9ec3f153deda292489abb9d4ccfe5eee030dc673d46ad4be93","features":{},"yanked":false,"pubtime":"2026-10-14T20:00:47Z"}
 {"name":"mynox","vers":"0.1.3","deps":[],"cksum":"4368718256cfd604f291e9768aea7e9c7807dabec64681ff66b3ce58dadc31c1","features":{},"yanked":false,"pubtime":"2026-10-14T20:31:04Z"}
+{"name":"mynox","vers":"0.2.0","deps":[],"cksum":"1cb972f25fa314f22852f88e70e1eb5b350f379d881ed3835d8476ffea370dc5","features":{},"yanked":false,"pubtime":"2026-10-26T17:19:58Z"}
