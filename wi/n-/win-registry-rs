@@ -1,0 +1,1 @@
+{"name":"win-registry-rs","vers":"0.1.2","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"17da6a3338af7ca4b219cb61a060e9f2f5d1645f20d3032999bee4b4d166b2db","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T15:36:47Z"}
