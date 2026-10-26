@@ -1,0 +1,1 @@
+{"name":"xinput-rs","vers":"0.1.1","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"cda3640348616e7f13d822287e021c170c61988cf051b3e2c7c27460693a8fcb","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T16:15:09Z"}
