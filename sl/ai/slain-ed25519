@@ -1,0 +1,1 @@
+{"name":"slain-ed25519","vers":"0.1.0","deps":[{"name":"slain-sha2","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3680c235615bfc041f68baaf836653bb5dfc8e02788ff2107d2df8d067a64217","features":{"capi":[],"default":["std"],"std":["slain-sha2/std"]},"yanked":false,"pubtime":"2026-10-26T17:29:28Z"}
