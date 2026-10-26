@@ -1,0 +1,1 @@
+{"name":"emu198x-nintendo-game-boy-mbc","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"611fa9d9f3aca05c24a8846b364e8f5c90b2eddce90df708dd50fa0d1dac80fc","features":{},"yanked":false,"pubtime":"2026-10-26T14:11:49Z"}
