@@ -3,3 +3,4 @@
 {"name":"quat_zip","vers":"0.3.1","deps":[],"cksum":"c629b81e1f10cc7dfbd7a46e5b2e8836044148147c1c041cd81ec99660c140fc","features":{},"yanked":false,"pubtime":"2026-09-19T19:52:13Z"}
 {"name":"quat_zip","vers":"0.4.0","deps":[],"cksum":"96d2d0e2a2f7b457c3280371696823aa801c0a2b0953a9c9b8f29e252ad544e9","features":{},"yanked":false,"pubtime":"2026-10-01T12:15:28Z"}
 {"name":"quat_zip","vers":"0.6.0","deps":[],"cksum":"909f0f7f3f3a19751f25f1f319b47167d3c611fb18d85c2f5dabe93792752885","features":{},"yanked":false,"pubtime":"2026-10-05T01:16:50Z"}
+{"name":"quat_zip","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66d1d8a6e6bb8cb488287c3d85ef3c09c151fbe8bdb3048e5129510476be3574","features":{},"yanked":false,"pubtime":"2026-10-26T16:58:16Z"}
