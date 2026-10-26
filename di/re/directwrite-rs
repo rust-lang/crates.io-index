@@ -1,0 +1,1 @@
+{"name":"directwrite-rs","vers":"0.2.0","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"0294e418111f09ec6884dd73f29a8c6bea5905e8be4e5487d807b2fb0322e851","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T15:04:55Z"}
