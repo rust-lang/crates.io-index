@@ -18,3 +18,4 @@
 {"name":"lex","vers":"0.15.0-rc.1","deps":[],"cksum":"8af905926f02f50188b6121784f492d8ee72f512a6420a7c2982333022ed7375","features":{},"yanked":false,"pubtime":"2026-03-07T16:24:50Z"}
 {"name":"lex","vers":"0.15.0","deps":[],"cksum":"1fb400ba10d31c790f560a0dd4549bfc5f5d177303751daa108488d7005164ae","features":{},"yanked":false,"pubtime":"2026-03-19T12:57:19Z"}
 {"name":"lex","vers":"0.16.0-rc.1","deps":[],"cksum":"e6fe6a28374a7f43f32ecffc1f11809f1ea3eb61c4e351aef44ed54576589ef1","features":{},"yanked":false,"pubtime":"2026-03-30T00:14:40Z"}
+{"name":"lex","vers":"0.16.0","deps":[{"name":"unicode-width","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"888dc2ccdb179fe652922f45bbe825d442d014a0e9ec14aeefaa45a216d4d6be","features":{},"yanked":false,"pubtime":"2026-10-26T18:06:02Z"}
