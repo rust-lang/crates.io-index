@@ -1,0 +1,1 @@
+{"name":"emu198x-amstrad-gate-array","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86d8af807512c77f691b4c1f08a510552eef7bc7c92dae8203c27f23ab3d834f","features":{},"yanked":false,"pubtime":"2026-10-26T09:23:44Z"}
