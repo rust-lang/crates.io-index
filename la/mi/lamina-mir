@@ -1,1 +1,2 @@
 {"name":"lamina-mir","vers":"0.1.0","deps":[{"name":"lamina-platform","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7db231b6573a8e466d70c384b9fd86cbadd1dcaaf96ca7f28cadf2b1d8187b9","features":{"default":[],"nightly":[]},"yanked":false,"pubtime":"2026-06-01T10:57:23Z"}
+{"name":"lamina-mir","vers":"0.1.1","deps":[],"cksum":"950209b06825fd6f792de09dd8d3cef5b4422ddc3f5e2980b4dc6f14b756206d","features":{"default":[],"nightly":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-26T09:50:28Z"}
