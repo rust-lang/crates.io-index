@@ -1,0 +1,1 @@
+{"name":"xaudio2-rs","vers":"0.1.1","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"703c46c6bb0470595555851f563ebab5a2f4772e6150134de5e971b2ac72a1c1","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T16:34:54Z"}
