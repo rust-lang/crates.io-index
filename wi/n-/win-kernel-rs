@@ -1,0 +1,1 @@
+{"name":"win-kernel-rs","vers":"0.1.2","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"47efa0469a01d337c9a4f4172186be2a6e069d70966a34fbdd773b40400e6e5a","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T14:50:38Z"}
