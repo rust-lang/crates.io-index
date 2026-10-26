@@ -5,3 +5,4 @@
 {"name":"nes-sim","vers":"0.1.4","deps":[],"cksum":"8c52baf829ca2fccdbb3e663ca0a86490ff6e61be6aeb49c783481f2b79a9d1d","features":{"debug":[],"default":[]},"yanked":false,"pubtime":"2026-06-22T02:33:02Z"}
 {"name":"nes-sim","vers":"0.2.0","deps":[],"cksum":"976b6cf62a23ab187d9eb076965c0a901895132889ce5a0a961b6ced81aa29b3","features":{"debug":[],"default":[]},"yanked":false,"pubtime":"2026-09-15T03:57:57Z"}
 {"name":"nes-sim","vers":"0.3.0","deps":[],"cksum":"ffa7e9355fcece8d994e876a7ec7bf6714fd4d47415af6ffd49cc21d9679bc41","features":{"debug":[],"default":[]},"yanked":false,"pubtime":"2026-10-16T08:50:39Z"}
+{"name":"nes-sim","vers":"0.4.0","deps":[],"cksum":"9cbf410c395283f4a2a7658898ebcb773eec8d8f46d18780829fa7178831d004","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-26T16:00:06Z"}
