@@ -2,3 +2,4 @@
 {"name":"bittersweet","vers":"0.1.1","deps":[],"cksum":"6a13868f52f614f2f1ddfb53ad53970bdcaee0463211b6def70c0391e5165fce","features":{},"yanked":false,"pubtime":"2023-07-16T13:48:02Z"}
 {"name":"bittersweet","vers":"0.1.2","deps":[],"cksum":"978df054c37b1ed22b3c5887c3021ea439528edb48a926c9e174a88b2953d188","features":{},"yanked":false,"pubtime":"2023-07-17T05:08:07Z"}
 {"name":"bittersweet","vers":"0.2.0","deps":[],"cksum":"0ee87da1e09dd939de5f2170db7f7ef7761d81a908557eebe986f30008fbb24a","features":{"default":["std"],"std":["string"],"string":[]},"yanked":false,"pubtime":"2026-05-14T02:38:49Z"}
+{"name":"bittersweet","vers":"0.3.0","deps":[],"cksum":"f527ddb3456b409479a6096dec850312a66813224af6115eb6c7378a6776d123","features":{"default":["std"],"std":["string"],"string":[]},"yanked":false,"rust_version":"1.56","pubtime":"2026-10-26T13:24:42Z"}
