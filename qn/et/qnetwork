@@ -4,3 +4,4 @@
 {"name":"qnetwork","vers":"0.2.4","deps":[],"cksum":"dd7ef394cdea5b43a58aae1f02c1d06cf99eae64c6cabf21b8fcaf8d1469c774","features":{},"yanked":false,"pubtime":"2026-09-19T09:39:43Z"}
 {"name":"qnetwork","vers":"0.3.0","deps":[],"cksum":"387c40b947f2fdd331404e23632fc3fafa1ffec95a1528dcf5365a560f8330e1","features":{},"yanked":false,"pubtime":"2026-09-19T13:45:13Z"}
 {"name":"qnetwork","vers":"0.4.0","deps":[],"cksum":"f66fc703e0d95fc155b29c1080451d3dc61681c255af96e5f0c142f5fef51771","features":{},"yanked":false,"pubtime":"2026-10-01T02:12:56Z"}
+{"name":"qnetwork","vers":"0.5.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc8a503b90267c23d543e138b27ae9570c4715ef7b458f13044e1a707a7a6e3a","features":{},"yanked":false,"pubtime":"2026-10-26T15:58:52Z"}
