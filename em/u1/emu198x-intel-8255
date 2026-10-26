@@ -1,0 +1,1 @@
+{"name":"emu198x-intel-8255","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f56d58395310537009928bc5d4ece5201ba7d6c648eb4039fe57db22025ddb52","features":{},"yanked":false,"pubtime":"2026-10-26T11:09:29Z"}
