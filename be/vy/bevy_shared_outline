@@ -1,0 +1,1 @@
+{"name":"bevy_shared_outline","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2497742864c8f4c622a105863f114744e8901a16ff2ad043142b9903938dfa40","features":{"webgl2":["bevy/webgl2"]},"yanked":false,"pubtime":"2026-04-21T15:16:49Z"}

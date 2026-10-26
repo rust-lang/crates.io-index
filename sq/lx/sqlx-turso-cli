@@ -1,0 +1,1 @@
+{"name":"sqlx-turso-cli","vers":"0.1.0-alpha.1","deps":[{"name":"clap","req":"^4.4.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c83d95004362798e01cd86842452486dfefe9f631e1008ba01a0a88678e4c9e4","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-26T19:59:51Z"}

@@ -1,0 +1,1 @@
+{"name":"luks-module-sys","vers":"0.1.0","deps":[{"name":"mlua-sys","req":"^0.10","features":["luau"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"979bf865650ce66a533be11a93aa6bad2e4a9fc72118d011b0bd7b9d11f9e9d2","features":{},"yanked":false,"pubtime":"2026-05-24T16:18:46Z"}

@@ -1,0 +1,1 @@
+{"name":"elecrust","vers":"0.0.1","deps":[{"name":"time","req":"^0.3.54","features":["alloc","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9931cdd1fb60f059bbd59af4c7ad4e767f5caeebbaff173524b08abb49dd4655","features":{"default":["util"],"util":[]},"yanked":false,"pubtime":"2026-10-21T07:12:28Z"}

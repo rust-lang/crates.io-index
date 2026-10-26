@@ -1,0 +1,1 @@
+{"name":"rusty-memory-embed","vers":"0.1.0","deps":[{"name":"rm-engine","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rusty-memory-engine"}],"cksum":"0d310c9cac6589405e4bedecd6445542b586fbd61846bb911fe4febb6dd69fdd","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-26T21:43:09Z"}

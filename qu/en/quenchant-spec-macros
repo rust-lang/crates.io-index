@@ -1,0 +1,1 @@
+{"name":"quenchant-spec-macros","vers":"0.0.0-rc.0","deps":[{"name":"anodized-macros","req":"=0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1f24be1e45596f99cfa4a0c9dedd116f1aec2f6f826bfd68f9368b6e03a492b","features":{"anodized":[],"default":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-10T05:51:13Z"}

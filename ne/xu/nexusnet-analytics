@@ -1,0 +1,1 @@
+{"name":"nexusnet-analytics","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c23715072d75cfc7dd697e63e95a5e443b6bd0c01385bdd9045fd7830dbcf25c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-25T18:19:10Z"}

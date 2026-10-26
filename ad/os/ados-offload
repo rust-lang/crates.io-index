@@ -1,0 +1,1 @@
+{"name":"ados-offload","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1da867341342c98f2bdf71f20e2f85c65fd48f66c9b25dcbca7712c950a67521","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-22T07:28:47Z"}

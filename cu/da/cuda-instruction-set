@@ -1,0 +1,1 @@
+{"name":"cuda-instruction-set","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea3a7402e380f48fc1007d3ab81a55ac0db3de332b4079a4b7c05adef6ecd3d0","features":{},"yanked":false,"pubtime":"2026-04-27T00:35:53Z"}

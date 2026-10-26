@@ -1,0 +1,2 @@
+{"name":"chalkline","vers":"0.0.1-alpha.1","deps":[],"cksum":"f486be0ec8dd19025862f6f0e82ae84f0ff830533acd367fcda9446e791ed8e8","features":{},"yanked":false,"pubtime":"2026-10-22T03:23:12Z"}
+{"name":"chalkline","vers":"0.1.0-beta.1","deps":[{"name":"chalkline-core","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dc8309561590c7947feec4b60ea6c27e1c0413b5065453eeb14ea3a2d2b4448","features":{},"yanked":false,"pubtime":"2026-10-22T20:10:39Z"}

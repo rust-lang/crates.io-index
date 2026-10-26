@@ -1,0 +1,1 @@
+{"name":"simkey","vers":"1.0.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser","errhandlingapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a55bb72713448b931b67a213cab1e131066ae5738b1ec20d998e0b320ea5f98","features":{},"yanked":false,"pubtime":"2026-09-23T12:45:59Z"}

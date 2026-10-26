@@ -1,0 +1,1 @@
+{"name":"pulsectl2-rs","vers":"0.3.3","deps":[{"name":"pulse","req":"^2.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"libpulse-binding"}],"cksum":"822ad2dfde5f4dd41b23d058ae47be82c39dca05847fe46129a7d1fb59ccdd18","features":{},"yanked":false,"pubtime":"2026-04-20T13:27:22Z"}

@@ -1,0 +1,1 @@
+{"name":"wa-wire-codec","vers":"0.1.0","deps":[{"name":"wa-wire-contract","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8f6ec7bf869035eeb586679f56655ffcc2f8263c2e728d3958ea8236f6152691","features":{"bundled-tokens":[],"default":["bundled-tokens"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-10T00:56:25Z"}

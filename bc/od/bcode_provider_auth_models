@@ -1,0 +1,1 @@
+{"name":"bcode_provider_auth_models","vers":"0.0.1-alpha.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"20e8646b4d04a371ff55c04879e0745b793ee486f6706682dc4a0136a2c885b7","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-10-17T20:17:54Z"}

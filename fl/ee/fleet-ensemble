@@ -1,0 +1,1 @@
+{"name":"fleet-ensemble","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36733e8c4baf8226f6690558094c6441b7d4e0211b20e8fc5d4b1448781e5301","features":{},"yanked":false,"pubtime":"2026-06-08T16:01:39Z"}

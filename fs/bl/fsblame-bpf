@@ -1,0 +1,1 @@
+{"name":"fsblame-bpf","vers":"0.1.1","deps":[{"name":"fsblame-abi","req":"=0.1.1","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cc2e94876e5919734cdf6e438003d4194ac07163befaa8c6a7542cc85fd35d47","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-17T03:24:32Z"}

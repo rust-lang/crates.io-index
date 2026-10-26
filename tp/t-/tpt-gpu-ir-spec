@@ -1,0 +1,1 @@
+{"name":"tpt-gpu-ir-spec","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3feeff6987c1f04853a2b85c290a1620bdd1c43523ed057eee592e3abaab34cb","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-08-03T12:09:09Z","v":2}

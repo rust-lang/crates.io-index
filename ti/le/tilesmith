@@ -1,0 +1,1 @@
+{"name":"tilesmith","vers":"0.1.0","deps":[{"name":"tilesmith-gemm","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a6e26eff28934da4b8837cdcc06eefaf192c21a98b778caa794b123c5f847aaf","features":{"default":["std"],"std":["tilesmith-gemm/std"]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-10-24T23:08:59Z"}

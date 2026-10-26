@@ -1,0 +1,1 @@
+{"name":"lombokasync","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec0f639e4cb88738fdc2d6bfde2dd657d2db44314f0f763c9478887393dc4309","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-26T06:25:14Z"}

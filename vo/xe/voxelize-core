@@ -1,0 +1,1 @@
+{"name":"voxelize-core","vers":"3.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ae063f0a8927a2b5efb8c1efef67ac166117e0b6e652ef7e94d00f421ce167c","features":{},"yanked":false,"pubtime":"2026-08-03T22:49:51Z"}

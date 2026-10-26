@@ -1,0 +1,1 @@
+{"name":"fabric-claim-router","vers":"0.10.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f300e7cb5c82dedb9c689542502548675d25fe699f5a0cf3530bfdc083ffddb9","features":{},"yanked":false,"pubtime":"2026-07-31T22:03:49Z"}

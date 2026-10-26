@@ -1,0 +1,3 @@
+{"name":"xorpio","vers":"0.0.0-alpha.0+efc2292","deps":[],"cksum":"7f224bb9323fec805c95e0bb9df931e3096cebc4f20e4706b86d8d9f861f098f","features":{},"yanked":true,"pubtime":"2024-11-29T22:40:22Z"}
+{"name":"xorpio","vers":"0.0.0+1beef237e7bd295d7af89d690d41a3714b97b8a1","deps":[{"name":"syscalls","req":"^0.6.18","features":["all"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2faf1fd47468be4a0d310c2abe1c2f8dfa20d61bdd71f94526977e63b12cf952","features":{},"yanked":true,"pubtime":"2024-11-30T01:47:25Z"}
+{"name":"xorpio","vers":"0.1.0-alpha.1","deps":[],"cksum":"85802d4802abc92034677071e3cfc009be4c772a4abf974d618a4f24f090f1ab","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-21T14:43:53Z"}

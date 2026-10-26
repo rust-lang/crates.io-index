@@ -1,0 +1,1 @@
+{"name":"cidrwall-common","vers":"0.1.3","deps":[{"name":"aya","req":"^0.14.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a2c389ff47023fd256ca2fbff7569c4ad48ae9b6a30ea44b7e02215a16a87ad","features":{"default":[],"user":["aya"]},"yanked":false,"pubtime":"2026-09-08T16:04:02Z"}

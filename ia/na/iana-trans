@@ -1,0 +1,1 @@
+{"name":"iana-trans","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"63f825eccd64d57b17f4c5d5ed7bffe360ad6b1a929cdd2b217ed559c58539fb","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T06:17:32Z"}

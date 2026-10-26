@@ -1,0 +1,1 @@
+{"name":"situate","vers":"0.1.0","deps":[{"name":"pathstr","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8c72e486625bef569cf356f6623feeb4af37af8311b8bc15da52f339512df60","features":{"default":["printing"],"printing":[]},"yanked":false,"pubtime":"2026-10-12T00:44:08Z"}

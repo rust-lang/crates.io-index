@@ -1,0 +1,2 @@
+{"name":"oriera-asset","vers":"0.3.0","deps":[],"cksum":"2391d4ac45dcd65512b3c66e7bf01087cb84de060d709be269bc3c6f37df73d7","features":{},"yanked":false,"pubtime":"2026-10-15T19:54:32Z"}
+{"name":"oriera-asset","vers":"0.8.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90bcb1475338420d9e1d87db898cf3c0f4b3add6446fcd36e520ac2849ae0c6a","features":{},"yanked":false,"pubtime":"2026-10-25T08:18:02Z"}

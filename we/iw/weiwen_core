@@ -1,0 +1,1 @@
+{"name":"weiwen_core","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9806efe9726c5cc45b6d12db877a1fc48b82f93c1e39a5ed242c8c8f21c4eabc","features":{},"yanked":true,"pubtime":"2026-07-04T14:39:43Z"}

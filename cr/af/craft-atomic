@@ -1,0 +1,1 @@
+{"name":"craft-atomic","vers":"1.4.7","deps":[{"name":"rustix","req":"^1.1.5","features":["std","fs"],"optional":false,"default_features":false,"target":"cfg(target_vendor = \"apple\")","kind":"normal"}],"cksum":"ec11e2320b4bbcfc7846c8d80c889e61275a6f1666f0a7d374a6031a58bb49d7","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-24T13:51:07Z"}

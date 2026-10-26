@@ -1,0 +1,1 @@
+{"name":"denyx-runtime-starlark","vers":"0.4.0","deps":[{"name":"wasmtime","req":"^44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0a552cc5dda5d2559462ac9ceabb2b74f14f7e7f0e55d2153adef84f0b293ddd","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-16T06:04:39Z"}

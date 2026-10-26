@@ -1,0 +1,1 @@
+{"name":"protolink-i2c","vers":"0.0.1","deps":[{"name":"embedded-hal-async","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87f0c62aab3963fdfebcc068faa5b77edf75dadcdd21e2a5bff2b50ddc222ae","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-13T08:09:05Z"}

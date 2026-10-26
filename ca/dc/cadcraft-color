@@ -1,0 +1,1 @@
+{"name":"cadcraft-color","vers":"1.4.7","deps":[{"name":"serde","req":"^1.0.228","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f6be9a58ec680b1d03a6cf40d669cf6ac1edb5cd2e62259a98b65444bb5fe22b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-24T05:16:25Z"}

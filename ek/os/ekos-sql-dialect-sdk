@@ -1,0 +1,1 @@
+{"name":"ekos-sql-dialect-sdk","vers":"1.0.3","deps":[{"name":"sqlparser","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc6d308b39548e3e10e65c6323ee6a814580afc0cef90b7400500ba0a52366ce","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-24T09:29:21Z"}

@@ -1,0 +1,1 @@
+{"name":"jitvm","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"5cbca218478f9f87966de1ce47110a3e1da9ffa1c950ec8c3ecef18c3fd22a0c","features":{},"yanked":false,"pubtime":"2026-04-20T08:48:49Z"}

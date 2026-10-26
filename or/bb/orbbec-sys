@@ -1,0 +1,1 @@
+{"name":"orbbec-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"57bfb5e7c2fe405e61099bfaba60a2fe9f534770406a2069fc8e3641e430a218","features":{},"yanked":false,"links":"OrbbecSDK","rust_version":"1.82","pubtime":"2026-08-12T08:28:49Z"}

@@ -1,0 +1,1 @@
+{"name":"rs-cat4sqlite","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.40.2","features":["bundled","wasm32-wasi-vfs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"271670c847b5ea9c34c5cb9b225616f12a7fff50c9a3d7a3c29219434cc1cfbf","features":{},"yanked":false,"pubtime":"2026-10-24T22:56:43Z"}

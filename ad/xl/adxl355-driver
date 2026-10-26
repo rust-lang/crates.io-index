@@ -1,0 +1,1 @@
+{"name":"adxl355-driver","vers":"0.1.0-alpha.3","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11250a08e18baf3780f15697d9c19cd1a5f2a57c2407b50af864f8f1399fe0f9","features":{"default":["std"],"hal":["embedded-hal"],"std":[]},"yanked":false,"pubtime":"2026-08-02T12:06:10Z"}

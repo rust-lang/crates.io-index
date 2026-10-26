@@ -1,0 +1,1 @@
+{"name":"tailite","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.32","features":["bundled"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af35b9cef43af23a81c65a067ba9ff8e975ac0697d535730056d24db4729ccf3","features":{},"yanked":false,"pubtime":"2026-09-28T17:46:13Z"}

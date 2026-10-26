@@ -1,0 +1,1 @@
+{"name":"prism-llvm","vers":"0.1.0","deps":[{"name":"inkwell","req":"^0.10","features":["llvm22-1","llvm22-1-prefer-dynamic"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35d6e9fae928946e3fcd24e63d66551dc3b1bbe5c6651ba79be969bc672153eb","features":{},"yanked":false,"pubtime":"2026-10-24T06:35:38Z"}

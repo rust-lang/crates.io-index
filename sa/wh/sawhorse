@@ -1,0 +1,2 @@
+{"name":"sawhorse","vers":"0.0.1-alpha.1","deps":[],"cksum":"f12cff553de7e40c9c5162114725424df362dce54a8dd316ded1f901d13b5d52","features":{},"yanked":false,"pubtime":"2026-10-22T01:55:14Z"}
+{"name":"sawhorse","vers":"0.1.0-beta.1","deps":[{"name":"sawhorse-core","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59b448c318810bbc4fb0f7cbe16b692b8ef09be8cd8fc87a1e23e636b23e523c","features":{"candle":["sawhorse-core/candle"],"default":["candle"]},"yanked":false,"pubtime":"2026-10-22T06:55:40Z"}

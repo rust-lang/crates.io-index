@@ -1,0 +1,8 @@
+{"name":"kibisis","vers":"0.1.0-alpha.1","deps":[],"cksum":"87264a162f8b62f5304e103aae89a115f92260b4bc5e1e9133c6a815700e8c77","features":{},"yanked":false,"pubtime":"2026-10-09T13:00:32Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.2","deps":[],"cksum":"28cbd9093be0bdfad3836d4520f5e820e03021f40de022a2bdd5bce276be3bc4","features":{},"yanked":false,"pubtime":"2026-10-10T02:59:25Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.4","deps":[{"name":"zeroize","req":"^1.9.0","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9d55b4b31e40e4fba531590c064461a8144cf643cb256d2ecaa8f1d03e69c7bd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-19T17:20:03Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.5","deps":[],"cksum":"ade035b82b373bd962267668983c1a268921ab641f5c38012a7c4cc62628059e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-20T01:55:25Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.6","deps":[],"cksum":"6c001dd3e863042f7da842eaa881fb2ea0609fb6315439669ec59bc46d617f4c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-21T02:22:32Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.7","deps":[],"cksum":"d769518e4a46727e8afd007b8059337b3792ae61e71d0c10d4a58fd5499acd39","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-21T12:25:34Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.8","deps":[],"cksum":"927e1682e41be0dd0fdefbcafaccbf2d921533a1737e55073911eb3e9a1b92a2","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-21T14:43:53Z"}
+{"name":"kibisis","vers":"0.1.0-alpha.9","deps":[],"cksum":"c12d87beb405f057d31ef7f4dfefbef56083164eaa7358bcce877aa7a3db172e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-21T15:48:47Z"}

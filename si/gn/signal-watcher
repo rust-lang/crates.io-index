@@ -1,0 +1,1 @@
+{"name":"signal-watcher","vers":"10.3.0","deps":[{"name":"tokio","req":"^1.53.3","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ec45d6fd8555ff1d696557c3afa7b56d27d74a4d0ccb64ce473630e30557a32","features":{},"yanked":false,"pubtime":"2026-10-24T09:37:10Z"}

@@ -1,0 +1,4 @@
+{"name":"slain-rt","vers":"0.1.0","deps":[],"cksum":"75cb4f18eb0703498989d255bf0d35fa1e23b1173841c8eeff882d7cffcb6640","features":{},"yanked":false,"pubtime":"2026-10-24T14:08:11Z"}
+{"name":"slain-rt","vers":"0.2.0","deps":[],"cksum":"e358d6cc0ac9fcfe5b268c9e1f8832c9fd70ea155e7fcca4dbe015edc3b8aca3","features":{},"yanked":false,"pubtime":"2026-10-24T14:31:26Z"}
+{"name":"slain-rt","vers":"0.3.0","deps":[],"cksum":"06c339bdea3c38e319f49c4b2cce64e86cf58d35fe513c26c5189d29e491c4c1","features":{"default":["nightly"],"nightly":[]},"yanked":false,"pubtime":"2026-10-24T18:51:21Z"}
+{"name":"slain-rt","vers":"0.3.1","deps":[],"cksum":"a16275df9d5a3b30355eed03d837c8f51e293f7f3f4e495cdeab5f0101b431af","features":{"default":["nightly"],"nightly":[]},"yanked":false,"pubtime":"2026-10-25T09:39:23Z"}

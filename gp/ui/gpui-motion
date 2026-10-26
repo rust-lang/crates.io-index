@@ -1,0 +1,2 @@
+{"name":"gpui-motion","vers":"0.0.1","deps":[],"cksum":"304302afeb75bffa3d4dd0a127b90583ee1df44e7fca4dd09ce7798abef82e0d","features":{},"yanked":false,"pubtime":"2026-08-25T16:04:51Z"}
+{"name":"gpui-motion","vers":"0.1.0","deps":[{"name":"gpui","req":"^0.2.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"241cd68447299642020f2fcd4729c27ee7043933acf63e17fd799d8b55bd7d9e","features":{},"features2":{"default":["gpui"],"gpui":["dep:gpui"],"gpui-main":["gpui"]},"yanked":false,"pubtime":"2026-08-26T08:15:23Z","v":2}

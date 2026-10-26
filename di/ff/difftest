@@ -1,0 +1,1 @@
+{"name":"difftest","vers":"0.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf16f41bc422ac34b836eb86be1801f1814f01722d7153e14a137e75ac07b72","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"pubtime":"2026-03-19T09:40:54Z","v":2}

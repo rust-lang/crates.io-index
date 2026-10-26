@@ -1,0 +1,1 @@
+{"name":"xhyper-configx","vers":"0.1.2","deps":[{"name":"kernel","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"xhyper-kernel"}],"cksum":"588baa6b1d8e910123edd1c520928e63bb19f62bed26d939a7733d3ee77464ad","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T17:23:31Z"}

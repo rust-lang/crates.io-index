@@ -1,0 +1,1 @@
+{"name":"blink-shared","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0b350bc8a28f965ed5f78b555ad8c9bf3098f62bef3fd438bc8253e35478939","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-26T01:10:00Z"}

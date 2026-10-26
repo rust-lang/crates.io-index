@@ -1,0 +1,2 @@
+{"name":"dado","vers":"0.0.1-alpha.1","deps":[],"cksum":"877d070cd5e10ea48a16014f6bc3fb26da6d5e1fe3133fd47747482d439b2ec8","features":{},"yanked":false,"pubtime":"2026-10-22T03:24:05Z"}
+{"name":"dado","vers":"0.1.0-beta.1","deps":[{"name":"dado-core","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d146d547938ce204d41d408e6906a4bc8800dc08be6a58438b1845378674fc3d","features":{},"yanked":false,"pubtime":"2026-10-22T20:13:21Z"}

@@ -1,0 +1,1 @@
+{"name":"deckcraft-color","vers":"0.6.1","deps":[{"name":"serde","req":"^1","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9d45b72a2f98477d3a1b406c29ad0035337b1b515c4c818199bf0038e5010d8","features":{},"yanked":false,"pubtime":"2026-10-24T20:06:16Z"}

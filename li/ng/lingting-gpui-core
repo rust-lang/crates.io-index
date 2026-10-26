@@ -1,0 +1,1 @@
+{"name":"lingting-gpui-core","vers":"26.10.1","deps":[{"name":"gpui-kit","req":"^0.7","features":["gpui-fast"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b33901cc6f931adc83bade03764258bd27a972315288f05be0a83eee70f7a4c0","features":{},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-10-23T07:36:13Z"}

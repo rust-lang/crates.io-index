@@ -1,0 +1,1 @@
+{"name":"chenhe-tg-rcore-tutorial-kernel-context","vers":"0.1.0-preview.1","deps":[{"name":"spin","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4f5489754f26b88c8c570641f8dca75a67f992dd78fbd7d6977838e9a621f29","features":{"foreign":["spin"]},"yanked":false,"pubtime":"2026-03-22T04:11:40Z"}

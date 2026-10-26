@@ -1,0 +1,1 @@
+{"name":"catfive","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b24ada461ff5f6d4b2a393c460b4b6c66d95987992cb39d27de254831f6aadc","features":{"default":[]},"features2":{"regex":["dep:regex"]},"yanked":false,"pubtime":"2026-10-25T00:49:46Z","v":2}

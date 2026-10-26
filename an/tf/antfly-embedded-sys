@@ -1,0 +1,2 @@
+{"name":"antfly-embedded-sys","vers":"0.0.0","deps":[],"cksum":"3580d1e174836640b52de05efed3d9af932e5f181288b529a085aa703c65f298","features":{},"yanked":false,"pubtime":"2026-10-05T23:13:08Z"}
+{"name":"antfly-embedded-sys","vers":"0.3.0-rc.2","deps":[{"name":"pkg-config","req":"^0.3.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cd1e4dbc12f1958ef925ad3f20e7409eda6744645e5de68fc8527f1af76ddda0","features":{"libantfly":[]},"yanked":false,"links":"antfly","pubtime":"2026-10-22T04:45:29Z"}

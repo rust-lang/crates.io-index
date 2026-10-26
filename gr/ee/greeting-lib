@@ -1,0 +1,3 @@
+{"name":"greeting-lib","vers":"0.1.0","deps":[],"cksum":"ebf3214c3c0f89ed7c333f4b1cedf4ee636b884a4c94863047e1d085c98a24a9","features":{},"yanked":false,"pubtime":"2026-08-31T09:06:34Z"}
+{"name":"greeting-lib","vers":"0.2.0","deps":[],"cksum":"e5f66cb096e4b700f07a60eb53b6de7fcb0afeab1410ee40efc435588fc15675","features":{"all":["time","non-time"],"default":["non-time"],"non-time":[],"time":[]},"yanked":false,"pubtime":"2026-09-02T07:42:38Z"}
+{"name":"greeting-lib","vers":"0.3.0","deps":[],"cksum":"6a9687dd1eee4da7788695a80015c2d415d2e78faf9d16e87515bc363c01bb9d","features":{"all":["time","non-time","author"],"author":[],"default":["non-time"],"non-time":[],"time":[]},"yanked":false,"pubtime":"2026-09-02T07:48:59Z"}

@@ -1,0 +1,2 @@
+{"name":"leap-sec","vers":"0.1.1","deps":[],"cksum":"abee0f7227f2e9672e275892f14f929ddbaae87e5c54cc9d18e8eed00e7e4ce2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-03-14T19:18:12Z"}
+{"name":"leap-sec","vers":"0.1.2","deps":[{"name":"behave","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"10173cf8c8531915dfd9529582bedeff3d8af091afcfeb39722bbf67bfa9ec7e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-03-14T20:11:15Z"}

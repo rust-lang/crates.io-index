@@ -1,0 +1,1 @@
+{"name":"llmrc-bots-discord","vers":"0.1.0","deps":[{"name":"llmrc-bots-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ff75c03272d1a62866e3b609fba368997eeacab5545b909d7b78bf3b033e0ea","features":{"default":[],"serenity":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-12T11:15:53Z"}

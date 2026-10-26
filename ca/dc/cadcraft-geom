@@ -1,0 +1,1 @@
+{"name":"cadcraft-geom","vers":"1.4.7","deps":[{"name":"serde","req":"^1.0.228","features":["derive","std","rc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6758d802764a290c2ab1229a33e2164c0e879106e5056f3419d09d0f2579a16e","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-24T05:26:51Z"}

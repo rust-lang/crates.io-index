@@ -1,0 +1,1 @@
+{"name":"stdexec-rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt-multi-thread","macros","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b36337a18bb7561b4d981dd38a3b571a0e8b1236d05291755e2e6c82299f1be","features":{},"yanked":false,"pubtime":"2026-02-08T13:28:54Z"}

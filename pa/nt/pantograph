@@ -1,0 +1,1 @@
+{"name":"pantograph","vers":"0.1.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4babab792333e74a4f96804ba5df4d86f95a4841ec610ad137e3cb7d1fe75fe4","features":{"default":["std"],"std":["crossbeam-utils/std"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-26T22:51:39Z"}

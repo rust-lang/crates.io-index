@@ -1,0 +1,1 @@
+{"name":"xl-value","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca6a3834ffada891121e85eb1c158ad0b2d6f04ece0fbf4a72dd583e05224a77","features":{"test-util":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T15:52:16Z"}

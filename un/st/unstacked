@@ -1,0 +1,4 @@
+{"name":"unstacked","vers":"0.1.0","deps":[],"cksum":"6af03d4445fe4f7c994bb66e5b51f52759e2c8fc5b2326a3ddd63ffab76d78e6","features":{},"yanked":true,"pubtime":"2025-05-10T18:23:23Z"}
+{"name":"unstacked","vers":"0.1.1","deps":[],"cksum":"29e7aed9af0fbb8fba65bb717a88ef94f9fd0c363a81a43de977df9e5c43f2cf","features":{},"yanked":true,"pubtime":"2025-05-13T07:18:57Z"}
+{"name":"unstacked","vers":"0.1.2","deps":[],"cksum":"75d9d3619994a5b9ab917928a7463f63883fab53702326755f76f8df8ceae5cc","features":{},"yanked":true,"pubtime":"2025-05-13T07:27:50Z"}
+{"name":"unstacked","vers":"0.2.0","deps":[],"cksum":"af6d4f992a2d7026d30edca0e0840fb6f1ed3b7e05addfc5326c66da6b1a10ae","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-05T16:13:50Z"}

@@ -1,0 +1,2 @@
+{"name":"batten","vers":"0.0.1-alpha.1","deps":[],"cksum":"e73a7940315b5f649f1dcfd94e1b7cd9bf14f9a639247983c31c2dc3cb515db1","features":{},"yanked":false,"pubtime":"2026-10-22T03:51:14Z"}
+{"name":"batten","vers":"0.1.0-beta.1","deps":[{"name":"batten-core","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e19066f585771d3d0421b8784e06ba06c8404ba1a9d3020cbdada9886ed27031","features":{},"yanked":false,"pubtime":"2026-10-22T20:23:49Z"}

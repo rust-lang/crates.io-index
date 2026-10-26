@@ -1,0 +1,2 @@
+{"name":"day-part-filesystem","vers":"0.0.1","deps":[],"cksum":"11044c19713e92502f70b23a22a6b907617dfd43196beed59bfbd6e07c864f90","features":{},"yanked":false,"pubtime":"2026-10-25T05:06:42Z"}
+{"name":"day-part-filesystem","vers":"0.6.1","deps":[{"name":"day-async","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c58e7333dc97f61a96f7cdafae5607c8c4ca9461f7ac8e56e461a092485f5dfb","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-26T04:36:47Z"}

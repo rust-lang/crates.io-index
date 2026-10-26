@@ -1,0 +1,2 @@
+{"name":"day-toolkit-qt-sys","vers":"0.0.1","deps":[],"cksum":"6cf18b6050d9af0b61dede10acc77a23b344e54e2bda85f11c3e8f5fc3836a22","features":{},"yanked":false,"pubtime":"2026-10-25T04:36:42Z"}
+{"name":"day-toolkit-qt-sys","vers":"0.6.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f550c7b7ed8a802bd4a18e87cf1c0088eff4426c92cee6984a7478b607e1b414","features":{},"yanked":false,"links":"dayqtshim","rust_version":"1.89","pubtime":"2026-10-26T04:36:36Z"}

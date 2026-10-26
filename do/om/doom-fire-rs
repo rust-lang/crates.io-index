@@ -1,0 +1,3 @@
+{"name":"doom-fire-rs","vers":"0.1.0","deps":[],"cksum":"4b64cf35d504c1bb4f3a2b81bdd3084b97ab00cc3fbf901f3a5d845d4e6270b3","features":{},"yanked":false,"pubtime":"2026-07-09T16:38:24Z"}
+{"name":"doom-fire-rs","vers":"0.1.1","deps":[],"cksum":"b8ba14fdd4d2ec17a2fdd7a8003d06ea4c2a0db47be7cfdbf4f47cc4823fdd6c","features":{},"yanked":false,"pubtime":"2026-07-15T13:44:34Z"}
+{"name":"doom-fire-rs","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"dev"}],"cksum":"638f21f15e939f8de01bb6f259a857dd3d4d35e15ded799cda9dffb76d196ecf","features":{},"yanked":false,"pubtime":"2026-09-12T21:36:24Z"}
