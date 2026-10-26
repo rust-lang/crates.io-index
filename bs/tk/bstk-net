@@ -1,0 +1,1 @@
+{"name":"bstk-net","vers":"0.5.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d223acbe21c3919cfc497206e804d2c2ff5b4eaeda63049583bcf44c41b179e","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-26T13:53:00Z"}
