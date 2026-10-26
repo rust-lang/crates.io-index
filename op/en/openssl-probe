@@ -7,3 +7,4 @@
 {"name":"openssl-probe","vers":"0.1.6","deps":[],"cksum":"d05e27ee213611ffe7d6348b942e8f942b37114c00cc03cec254295a4a17852e","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2025-01-23T16:14:49Z"}
 {"name":"openssl-probe","vers":"0.2.0","deps":[],"cksum":"9f50d9b3dabb09ecd771ad0aa242ca6894994c130308ca3d7684634df8037391","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2025-12-29T14:11:58Z"}
 {"name":"openssl-probe","vers":"0.2.1","deps":[],"cksum":"7c87def4c32ab89d880effc9e097653c8da5d6ef28e6b539d313baaacfbafcbe","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-01-20T19:53:29Z"}
+{"name":"openssl-probe","vers":"0.2.2","deps":[],"cksum":"7e036b411754132fd6b74e94b74e9a13c5cf606fa93d1885c35860d3060820b1","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-10-26T16:29:20Z"}
