@@ -3,3 +3,4 @@
 {"name":"qpipeline","vers":"0.3.0","deps":[],"cksum":"d33a59ee783b7add143a92d8c309fc785a481134fb6d0913787ff63500231fc7","features":{},"yanked":false,"pubtime":"2026-10-02T01:45:15Z"}
 {"name":"qpipeline","vers":"1.0.0","deps":[],"cksum":"e74e7379d6c53706194f1e2d57f335ccce8f36437645014666ed827b85e41c43","features":{},"yanked":false,"pubtime":"2026-10-07T13:17:47Z"}
 {"name":"qpipeline","vers":"1.0.1","deps":[],"cksum":"ec2d26014ac35cf0bde2c1c51c5530dadb091608a2f1d5886a92eab4309bc957","features":{},"yanked":false,"pubtime":"2026-10-07T13:26:27Z"}
+{"name":"qpipeline","vers":"1.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"768a8e8afc50908bc5b255c43884834a995b380ec1fcd3b85f714b0d290400ed","features":{},"yanked":false,"pubtime":"2026-10-27T14:44:53Z"}
