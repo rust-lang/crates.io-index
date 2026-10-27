@@ -1,0 +1,1 @@
+{"name":"wic-rs","vers":"0.1.0","deps":[{"name":"win-com-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"5a4a9d7e5f0e26f9c91817118bc272b66e82bd0bb7c8595b5bd4067226360ff1","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-27T02:27:00Z"}
