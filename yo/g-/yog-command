@@ -3,3 +3,4 @@
 {"name":"yog-command","vers":"0.2.1","deps":[],"cksum":"37097fa8f4590c28f4548f79ba661f0a284508ec70d6d4fedf1c916c01a106a4","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-15T11:00:00Z"}
 {"name":"yog-command","vers":"0.3.0","deps":[],"cksum":"1990760f09ecc848dd9c3b4ccccbd4a92d40aeae476744dcf3b027bb90926f66","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-21T16:09:33Z"}
 {"name":"yog-command","vers":"0.4.0","deps":[],"cksum":"8362e7a89507f6bf0070a794d2e309b25829db3dcda9c4b63f7146aae814e871","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-21T16:58:03Z"}
+{"name":"yog-command","vers":"0.4.1","deps":[{"name":"yog-ids","req":"^0.6.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8e2c26ad296e1dbe1b99970a1d778500d458f9789d7ec84cbc5147da77d3fd2","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-27T04:59:14Z"}
