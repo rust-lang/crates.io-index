@@ -1,1 +1,2 @@
 {"name":"aplite","vers":"0.0.0","deps":[],"cksum":"455b0baa514d1bab507c6c14f0511c90d7680edb9ce6392c8fcaa63eebaf4dc4","features":{},"yanked":false,"pubtime":"2026-10-26T16:17:56Z"}
+{"name":"aplite","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29e4c3ec1a566e14733c405c5afa743d2b8e8a5b847de9472984170389cadc42","features":{},"yanked":false,"pubtime":"2026-10-27T13:47:48Z"}
