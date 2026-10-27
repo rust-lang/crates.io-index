@@ -1,2 +1,3 @@
 {"name":"stl_say_hello","vers":"0.1.0","deps":[],"cksum":"9600a389ea82eca1712b62ab6c3df9b7d8e520c7c2d4dc5c814e2d22047f1473","features":{},"yanked":false,"pubtime":"2026-10-27T07:55:10Z"}
 {"name":"stl_say_hello","vers":"0.1.1","deps":[],"cksum":"49f02f142899812b52c7f1227b88fd1f67b09cd774d736d16778d839a5fee39c","features":{},"yanked":false,"pubtime":"2026-10-27T08:07:32Z"}
+{"name":"stl_say_hello","vers":"0.1.2","deps":[],"cksum":"afd8c56df6080d2b99534650502515673a08ca37aba3b7769a5c6bbfc2dfd0b4","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-10-27T09:08:21Z"}
