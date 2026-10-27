@@ -5,3 +5,4 @@
 {"name":"atomic-movegen","vers":"2.1.0","deps":[],"cksum":"e1c27338fce1f0749e2babbd9c6095def0306de09855e740681d41113c120f8b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-24T20:42:59Z"}
 {"name":"atomic-movegen","vers":"2.2.0","deps":[],"cksum":"c9fe77f231a09ecbf46a6b510ea2fb08f8c7ce6f6f4fa41f8a52d45052aa15a0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-08T16:05:44Z"}
 {"name":"atomic-movegen","vers":"2.3.0","deps":[],"cksum":"5cc6f55ee7d24fae017a94418d76bb64004da8b3bc5306152898af0e57445a88","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-10T11:37:32Z"}
+{"name":"atomic-movegen","vers":"2.3.1","deps":[],"cksum":"f7d2e30397cea8dd9273d811947eb5ce1144c9e91f738c674de9c018ff11264e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-27T09:12:55Z"}
