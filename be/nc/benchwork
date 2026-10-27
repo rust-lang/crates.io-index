@@ -1,1 +1,2 @@
 {"name":"benchwork","vers":"0.0.1-alpha.1","deps":[],"cksum":"d4b709bf7d34dbb61dba850930ba30fd1d9f3a85add57cfb73e02937d3498291","features":{},"yanked":false,"pubtime":"2026-10-22T04:50:32Z"}
+{"name":"benchwork","vers":"0.1.0-beta.6","deps":[{"name":"benchwork-core","req":"^0.1.0-beta.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f51cd297650a58e9c880eb80798ed1ae1f0b01fd437151186ab1c71fc2b1ff5e","features":{},"yanked":false,"pubtime":"2026-10-27T18:41:55Z"}
