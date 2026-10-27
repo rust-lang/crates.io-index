@@ -1,0 +1,1 @@
+{"name":"twill-core","vers":"0.3.0","deps":[{"name":"palette","req":"^0.7.6","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b584f47a96cd0e8d32a823b7149a10b08760e515f354c8f017cba0c17345cbe","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-27T07:32:15Z"}
