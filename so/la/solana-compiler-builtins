@@ -1,3 +1,4 @@
 {"name":"solana-compiler-builtins","vers":"0.0.0","deps":[],"cksum":"66f0de2f3e81e45b5c321ad4b7203042cca64c141d3bae53d5b766dda3351b65","features":{},"yanked":true,"pubtime":"2026-08-18T06:46:11Z"}
 {"name":"solana-compiler-builtins","vers":"0.1.0","deps":[],"cksum":"3a05ae1c52e1cf15f910d6206744427639bd99174bd79e2ec377071ebc736fa8","features":{},"yanked":false,"pubtime":"2026-10-08T12:34:42Z"}
 {"name":"solana-compiler-builtins","vers":"0.2.0","deps":[],"cksum":"0526815d70179ffdbeef2d37f20f39be7b71e7853cafda8e4e02f83d6b811b3f","features":{"weak-linkage":[]},"yanked":false,"pubtime":"2026-10-12T09:42:30Z"}
+{"name":"solana-compiler-builtins","vers":"0.3.0","deps":[],"cksum":"bf13f89e67fce1ee57bd4e03b49ef0deeaf57a19b9ba0f33c0180a3569b0385c","features":{"weak-linkage":[]},"yanked":false,"pubtime":"2026-10-27T17:07:26Z"}
