@@ -1,1 +1,2 @@
 {"name":"celox-sv-syntax","vers":"0.0.0","deps":[],"cksum":"1e2f6134019c27b14cc6566d58cb3a7bde6c004445660491d88efaccd2cd928b","features":{},"yanked":false,"pubtime":"2026-10-19T17:48:59Z"}
+{"name":"celox-sv-syntax","vers":"0.12.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5726e7dc0ec61300830b4605ba757d42ee27facba3539a229b9140eac41169d","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-10-27T18:37:54Z"}
