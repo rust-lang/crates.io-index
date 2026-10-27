@@ -24,3 +24,4 @@
 {"name":"code-gen","vers":"0.10.0","deps":[],"cksum":"cd75b553005509fd3a11b139b9a97883ae513d4f899539b43587e5730d69de88","features":{"rust":[]},"yanked":false,"pubtime":"2026-03-26T00:05:45Z"}
 {"name":"code-gen","vers":"0.11.0","deps":[],"cksum":"c20b8523d27c844b30821f877d46cc4a2ea511d821952d4ee2d7e874e4e18cbf","features":{"rust":[]},"yanked":false,"pubtime":"2026-10-26T21:55:48Z"}
 {"name":"code-gen","vers":"0.11.1","deps":[],"cksum":"36f39694b5071541a0f43d73b79c33ccf39a5b7b5e2e21ca42d861e7230f5377","features":{"rust":[]},"yanked":false,"pubtime":"2026-10-26T22:33:27Z"}
+{"name":"code-gen","vers":"0.11.2","deps":[],"cksum":"260f350d565e8d6b5f21ad8578e581d38cda15a4bb2adb2185f17168af53b218","features":{"rust":[]},"yanked":false,"pubtime":"2026-10-27T00:34:29Z"}
