@@ -3,3 +3,4 @@
 {"name":"mozjs_icu_collator_data","vers":"153.3.0","deps":[],"cksum":"b19ab440fab2f70cf54fc4c1f27eb3e96fc040e21fa824c126714ba50e4712ef","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-21T14:54:33Z"}
 {"name":"mozjs_icu_collator_data","vers":"153.4.0","deps":[],"cksum":"7880095e89f8e29bc40ca905fa649462be93b9b732e8af759e65e13b9d7bd824","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-07T07:02:22Z"}
 {"name":"mozjs_icu_collator_data","vers":"153.5.1","deps":[],"cksum":"5063b786659a6d5eae84c40111ea89ad8239b3accc7025fda6081254fa917a72","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-24T14:21:54Z"}
+{"name":"mozjs_icu_collator_data","vers":"153.6.0","deps":[],"cksum":"905f380c3d72b517739a618d84d2d196a55fb0d8cdf76dd96f21d074650140ce","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-28T20:28:36Z"}
