@@ -1,0 +1,1 @@
+{"name":"tape-base64","vers":"0.1.0","deps":[{"name":"base64","req":"^0.23","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"5c6082bb33b17eca5d8c4f39fbb683dbb989b55e33b4d692ec02dd29e9afef92","features":{"default":[],"internals":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-28T14:41:05Z"}
