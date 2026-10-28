@@ -1,0 +1,1 @@
+{"name":"surrealdb-parser-next","vers":"4.0.0-beta.1","deps":[{"name":"half","req":"^2.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff5f2307832d75e5c279e7c0c494f20e8497852919344f787f282b5603a57fc5","features":{"wasm-probe":[]},"yanked":false,"pubtime":"2026-10-28T18:01:33Z"}
