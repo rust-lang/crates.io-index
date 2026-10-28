@@ -6,3 +6,4 @@
 {"name":"javaproperties","vers":"0.1.6","deps":[],"cksum":"a37a220c0764643f18e6b1bc6a34af1e893f38d7b7a6c305a53b418ca478baae","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-27T05:48:54Z"}
 {"name":"javaproperties","vers":"0.1.7","deps":[],"cksum":"d56d334b1b7948bf6a8f7a149920c6085726cebe7aa557e179fe241071265863","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-28T01:54:32Z"}
 {"name":"javaproperties","vers":"0.1.8","deps":[],"cksum":"583cdfb83e1ee3a6c12c1d9067ce51fb066a4b8487a50a9d65eec8f56cadf285","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-28T03:44:13Z"}
+{"name":"javaproperties","vers":"0.1.9","deps":[{"name":"xmlkit","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e15e38116e52bce1133df4e5295d2b66ae8eb620c83574e255e2143f1fe27a3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-28T05:31:32Z"}
