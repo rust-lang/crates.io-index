@@ -1,0 +1,1 @@
+{"name":"nativekt","vers":"4.0.0","deps":[{"name":"wasm-bindgen","req":"~0.2.128","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"076bfcd9e519bcdde449a623982210cef6f10f22c18a771f2099d5bc80ea04dd","features":{"bundled":[],"default":["bundled"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-28T11:43:37Z"}
