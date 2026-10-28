@@ -3,3 +3,4 @@
 {"name":"mozjs_icu_normalizer_data","vers":"153.3.0","deps":[],"cksum":"72097863db07d41f443ccf464b1fe4a740362995f071e309b6d4bc81c46e42cc","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-09-21T14:55:37Z"}
 {"name":"mozjs_icu_normalizer_data","vers":"153.4.0","deps":[],"cksum":"04f63b94dde6b7333933c1d541d22cd1478a9d0abdd83b387a01ac420cdc23e4","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-10-07T07:03:28Z"}
 {"name":"mozjs_icu_normalizer_data","vers":"153.5.1","deps":[],"cksum":"a3081e09af7dbe71158cffa188f60383bfeab853a848fed0e09d3706be9bd57d","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-10-24T14:22:59Z"}
+{"name":"mozjs_icu_normalizer_data","vers":"153.6.0","deps":[],"cksum":"366ea39d07901d23c51a0b149bf332afa8c4dc84ab7619b2d899bfe01b3e3dbc","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-10-28T20:29:42Z"}
