@@ -1,0 +1,1 @@
+{"name":"sequence-heap","vers":"0.1.0","deps":[{"name":"no-panic","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57803b8d3d997da653236efeac9f6da9cb17dfcd085978921de82b384b33f8c5","features":{},"features2":{"no-panic":["dep:no-panic"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-28T10:01:50Z","v":2}
