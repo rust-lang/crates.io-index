@@ -1,0 +1,1 @@
+{"name":"slain-mlkem","vers":"0.1.0","deps":[{"name":"slain-sha3","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ad5cd4461b1a4e5e7f91245caab0d862cebe9376cc5add4b51a1ce762c82b43","features":{"capi":["std"],"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-28T18:16:11Z"}
