@@ -53,3 +53,4 @@
 {"name":"bevy_ptr","vers":"0.20.0-rc.1","deps":[],"cksum":"12e5f31b88040abbbb6ba5ce01a1a08c7e47b6c98e085739d3463f17b6ce43bc","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T21:46:23Z"}
 {"name":"bevy_ptr","vers":"0.20.0-rc.2","deps":[],"cksum":"4c0a2bf291fc984fb36134687ee245e932a4c48e2e8bf4e68bb98044471476d6","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-28T19:58:42Z"}
 {"name":"bevy_ptr","vers":"0.20.0","deps":[],"cksum":"41935a00c02004753bd7ed5094754397800b3f673bf15553bb007b06216872d5","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-08T22:30:20Z"}
+{"name":"bevy_ptr","vers":"0.20.1","deps":[],"cksum":"845b9f43ea7e4be1a19b93673325d47c091df8e3a57a2cd30dd003d0972796be","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-28T22:24:38Z"}
