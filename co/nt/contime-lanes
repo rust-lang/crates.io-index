@@ -1,0 +1,1 @@
+{"name":"contime-lanes","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"887fc0f0e7fec61371e651aacf82e16d4a13f70eaee0bf88ecb53d47a81725a3","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-28T06:49:28Z"}
