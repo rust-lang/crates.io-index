@@ -1,1 +1,2 @@
 {"name":"clasp-rs","vers":"0.0.0","deps":[],"cksum":"7c7ed5d2d3ef87f6f13260b8a7cfb26612fe06ea252a7e5db312e5d0f3efcb9d","features":{},"yanked":false,"pubtime":"2024-04-04T22:47:37Z"}
+{"name":"clasp-rs","vers":"0.0.1","deps":[{"name":"test_help-rs","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b07fd2fd8188de835daf95413f35752f9d6ca4a49cf67249404a0788d2d5b5c1","features":{"_NEVER_TO_BE_ENABLED":[],"default":[],"null-feature":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-28T02:27:24Z"}
