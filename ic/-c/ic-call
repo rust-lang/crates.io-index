@@ -1,0 +1,1 @@
+{"name":"ic-call","vers":"0.7.2","deps":[{"name":"ic-platform","req":"^0.7.2","features":["runtime"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2915b71b583b0b15902a7fe7196c44ee2383da9ba645670082392aec96135aa5","features":{"default":[]},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-10-28T11:51:18Z"}
