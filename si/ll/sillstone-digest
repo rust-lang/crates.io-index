@@ -3,3 +3,4 @@
 {"name":"sillstone-digest","vers":"0.2.1","deps":[],"cksum":"5ef3a8781a31138eab9a9fb5e33ddbc81f82aaf9ebe29fa0a794cdfdffba2da6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T07:27:23Z"}
 {"name":"sillstone-digest","vers":"0.3.0-beta.1","deps":[],"cksum":"37d4306d464239f3e1a488a1031bda574deacf08f6d113773e7c904496259c49","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-25T13:28:18Z"}
 {"name":"sillstone-digest","vers":"0.3.0-beta.2","deps":[],"cksum":"d917220143a47f323cce65c0f6d612e8a869218dabba24395f4aebb1acda2d3c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-25T17:49:11Z"}
+{"name":"sillstone-digest","vers":"0.3.0","deps":[],"cksum":"7284350afcc61ca6b6ef834971cac213548528b8e29a97d12768c1becbc9f2ac","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-28T00:23:13Z"}
