@@ -1,0 +1,1 @@
+{"name":"quik-dsp","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12ca8709582988aa3660b5923ebf24f40aaa2d14daf8735c3747926c75f2b82b","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-28T08:51:37Z"}
