@@ -4,3 +4,4 @@
 {"name":"tstrans-mbedtls-src","vers":"0.6.0+3.6.7","deps":[],"cksum":"9ae1feddb447d7bb392fa55e5c8dcfcaad51cf0f19680a53e4bf3c423b1ceeae","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-02T06:30:49Z"}
 {"name":"tstrans-mbedtls-src","vers":"0.7.0+3.6.7","deps":[],"cksum":"ca5907d2ca9c80ed5e47560acf3d76f93fbb4c8880d12abc58f8f355a811c5f6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-05T21:45:51Z"}
 {"name":"tstrans-mbedtls-src","vers":"0.8.0+3.6.7","deps":[],"cksum":"4475a34997d43bb9c612ae2232287e761cf79b47ffbfbb436eeb7d269475e7f1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-14T20:35:36Z"}
+{"name":"tstrans-mbedtls-src","vers":"0.9.0+3.6.7","deps":[],"cksum":"86bcc20826cd7a77623fe0f3a805ed745381af6dcbcbe14c082185ed4049aebb","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-28T06:48:21Z"}
