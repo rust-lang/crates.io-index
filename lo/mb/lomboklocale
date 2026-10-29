@@ -1,0 +1,1 @@
+{"name":"lomboklocale","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2687e11d482c52a999f897428a1e58165e1f56b1300c41615a8ec1b72f8af6f8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-29T01:52:52Z"}
