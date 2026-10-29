@@ -1,0 +1,1 @@
+{"name":"zerodds-ast-core","vers":"1.0.0-rc.7","deps":[{"name":"proptest","req":"^1.4","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a3edbd59a2d4fc01edc6d98995cf1c127b11415422ffbcc10be5dfcab2a83b72","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-29T08:51:29Z"}
