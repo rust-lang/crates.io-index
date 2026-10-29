@@ -1,0 +1,1 @@
+{"name":"active-rpc-transport","vers":"0.1.0","deps":[{"name":"active-rpc","req":"^2.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6f5e54637170e384d8442d216632c613a83a04bcb47a5113ed6b044e762584e9","features":{"default":["quic"],"quic":["active-rpc/quic"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-29T03:15:16Z"}
