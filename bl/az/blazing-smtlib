@@ -1,1 +1,2 @@
 {"name":"blazing-smtlib","vers":"0.0.0","deps":[],"cksum":"a62fdaa55df1f164e6299472a4ad77ea95a5a984a343f1099778f24e4874aeb9","features":{},"yanked":false,"pubtime":"2026-10-02T13:20:25Z"}
+{"name":"blazing-smtlib","vers":"0.1.0-alpha.3","deps":[{"name":"rayon","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"869a3977d3664adf7479b1d5399b1583abea88878e285d833cbdb43f71d72568","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-29T19:38:38Z"}
