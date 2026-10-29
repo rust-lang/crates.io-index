@@ -3,3 +3,4 @@
 {"name":"utf8_iter","vers":"1.0.2","deps":[],"cksum":"f8705cd5d300de978d3c959142e5dabe352aa56d048cd020abf400c6b90dd266","features":{},"yanked":false,"pubtime":"2022-09-09T08:42:27Z"}
 {"name":"utf8_iter","vers":"1.0.3","deps":[],"cksum":"64a8922555b9500e3d865caed19330172cd67cbf82203f1a3311d8c305cc9f33","features":{},"yanked":false,"pubtime":"2022-09-09T09:06:20Z"}
 {"name":"utf8_iter","vers":"1.0.4","deps":[],"cksum":"b6c140620e7ffbb22c2dee59cafe6084a59b5ffc27a8859a5f0d494b5d52b6be","features":{},"yanked":false,"pubtime":"2023-12-01T17:26:51Z"}
+{"name":"utf8_iter","vers":"1.1.0","deps":[{"name":"utf_types","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af3bd9d3e571c26fcce9d033b87ea5ab061b8d2ffe9b7a5675d810d68f03edf0","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-10-29T18:47:53Z"}
