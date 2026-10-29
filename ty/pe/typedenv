@@ -1,1 +1,2 @@
 {"name":"typedenv","vers":"0.1.0","deps":[],"cksum":"f9bf603f328a20e3ec96251a2c81bfdd8cfef8c64e6a44adb66795c815ac0f32","features":{},"yanked":false,"pubtime":"2026-10-27T17:14:38Z"}
+{"name":"typedenv","vers":"0.2.0","deps":[],"cksum":"c4ceaa7cf88abe7c51fbc49ce8de168df80ff9bdff5d596aa4aedb0af7bc3bda","features":{"default":["dotenv"],"dotenv":[]},"yanked":false,"pubtime":"2026-10-29T10:14:37Z"}
