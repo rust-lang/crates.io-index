@@ -1,2 +1,3 @@
 {"name":"libra-text","vers":"0.1.0","deps":[],"cksum":"481b2354683f0315dfa5aed14d0f04ad121c7268c3dbd6fdec5637921c25068c","features":{},"yanked":false,"pubtime":"2026-10-26T21:35:31Z"}
 {"name":"libra-text","vers":"0.1.1","deps":[],"cksum":"4ee78b1f24cd0194a42d39972f2d733392a6f87a1f031f964bf30413fabfd182","features":{},"yanked":false,"pubtime":"2026-10-27T14:43:24Z"}
+{"name":"libra-text","vers":"0.1.2","deps":[{"name":"ropey","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8499da1645384e5551893c7c92c1387080ca125b724fac5d981b615150b9b20","features":{},"yanked":false,"pubtime":"2026-10-30T14:41:34Z"}
