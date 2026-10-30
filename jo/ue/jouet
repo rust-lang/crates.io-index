@@ -1,1 +1,2 @@
 {"name":"jouet","vers":"0.0.0","deps":[],"cksum":"67ba1d0731c5b91d7c2b43eb5266a6c55dd94501de5742fccaf4d0deb3dda753","features":{},"yanked":false,"pubtime":"2026-10-30T14:24:09Z"}
+{"name":"jouet","vers":"0.0.1","deps":[{"name":"usage-rs","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7a816297623997912d5a8564a383cc033c861c568273e28abff38d7a2b742bc","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-30T15:11:03Z"}
