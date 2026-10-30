@@ -1,0 +1,1 @@
+{"name":"meridian-audio-domain","vers":"0.19.0","deps":[{"name":"meridian-gac","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"757e5e09c495ed9658331c8fec0f9cc3ff87e2bbbf023dd599d53876f216ef59","features":{"hw-tests":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-10-30T05:10:59Z"}
