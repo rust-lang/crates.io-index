@@ -9,3 +9,4 @@
 {"name":"scx","vers":"0.6.7","deps":[],"cksum":"9432c4b2bb22b494dec80e54ed4519475747248de34e24b5cf36b05b1e0812f4","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T11:52:58Z"}
 {"name":"scx","vers":"0.7.0","deps":[],"cksum":"7f92faec11508b5af638642ba11c8a3a5ef38693655ad5fdaf5cb24cd2c0946b","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T23:38:57Z"}
 {"name":"scx","vers":"0.9.0","deps":[],"cksum":"9a108d452a41944ebf96cd83013876f5ab1f73f945d3df33ecc7eb744d4f597a","features":{"default":["memory"],"memory":[],"perf":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-29T14:05:24Z"}
+{"name":"scx","vers":"0.10.0","deps":[],"cksum":"657697b9fa0a2a6f3f3d70f302c5aa91bbb9561abd34df9eb14c97f75f7e220f","features":{"default":["memory"],"memory":[],"perf":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-30T00:40:43Z"}
