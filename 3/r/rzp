@@ -2,3 +2,4 @@
 {"name":"rzp","vers":"1.7.0","deps":[],"cksum":"850809397fba23835bd6b6ef2932cb7d3a8507dc13369ca3833220c968305745","features":{},"yanked":false,"pubtime":"2026-10-24T12:15:07Z"}
 {"name":"rzp","vers":"2.0.0","deps":[],"cksum":"15f08bd5af4587ab329df6b22e31015c2d59ab1ac8ca239f3e728ba6ed1886b1","features":{},"yanked":false,"pubtime":"2026-10-25T11:10:41Z"}
 {"name":"rzp","vers":"2.1.0","deps":[],"cksum":"79d0d38d1f5f7b46db8e3085b5b7d7270beb3cb21735e83aba4429ed70c7779e","features":{},"yanked":false,"pubtime":"2026-10-27T12:28:19Z"}
+{"name":"rzp","vers":"2.2.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1def4ca90f955935862e67153e0b0e2df577a893029e562a3e1db964f79a8267","features":{},"yanked":false,"pubtime":"2026-10-30T10:57:14Z"}
