@@ -1,2 +1,3 @@
 {"name":"hep-columns","vers":"0.1.0","deps":[],"cksum":"820091ef37602f81e2a5175fddb485585ac861182854bedb41e2c7b9660d7fad","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-19T20:55:58Z"}
 {"name":"hep-columns","vers":"0.1.1","deps":[],"cksum":"d4e0d72adab3127b49d1b03214a2989afbad320f799fc7a58ccff99b3bda09ea","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-20T01:08:17Z"}
+{"name":"hep-columns","vers":"0.1.2","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7080f7b07159f95af2007e251cd14e8b65344b975960a44b7c2f94e28e42a5b","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-30T19:30:16Z"}
