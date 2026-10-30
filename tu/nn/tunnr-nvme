@@ -1,0 +1,1 @@
+{"name":"tunnr-nvme","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56685f832bd7924d893bae164ae3550e009ac94c938a81cbf3bf8fe629f3cd42","features":{"default":[],"fake":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-30T23:07:09Z"}
