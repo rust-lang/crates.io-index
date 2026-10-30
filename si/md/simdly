@@ -1,0 +1,1 @@
+{"name":"simdly","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e9b43df8c7a50d891e22a408c7a6ceef031339ca5752284f8681174d98e9f43f","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-30T20:27:17Z"}
