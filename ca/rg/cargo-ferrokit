@@ -1,0 +1,1 @@
+{"name":"cargo-ferrokit","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fd10bdd9ebef5db866418f184b8a5b8e456a529f37eeea0f5383d903ab66882","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-30T16:39:54Z"}
