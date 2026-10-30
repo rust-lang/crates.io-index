@@ -1,0 +1,1 @@
+{"name":"ic-platform-runtime-guard","vers":"0.9.1","deps":[],"cksum":"3479329c81818f2e3038a3d9a9cfc63ecd28a97099db997e974d5b905aff1358","features":{"default":[]},"yanked":false,"links":"ic-cdk async executor, see https://github.com/dfinity/cdk-rs/blob/links-pin/TROUBLESHOOTING.md","rust_version":"1.91.0","pubtime":"2026-10-30T15:06:27Z"}
