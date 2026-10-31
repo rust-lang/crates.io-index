@@ -1,1 +1,2 @@
 {"name":"clap-cpp","vers":"0.1.0","deps":[],"cksum":"422f5242000b72d305735e010582fb8070d93a3d6e0ce97da421c2c5f5f92de2","features":{},"yanked":false,"pubtime":"2026-10-29T01:36:26Z"}
+{"name":"clap-cpp","vers":"0.1.1","deps":[],"cksum":"b3b6a56c2b39d9b42b19d298d300b0d7091b116ea5ce4a39766170573e56f1c2","features":{"cuda":[],"default":[],"metal":[],"rocm":[],"vulkan":[]},"yanked":false,"pubtime":"2026-10-31T12:17:01Z"}
