@@ -8,3 +8,4 @@
 {"name":"tap-rs","vers":"1.5.3","deps":[],"cksum":"c2fa3eef08c7a42febbbeecb35d7138dab18008649a88bd682e9047573125455","features":{},"yanked":false,"pubtime":"2026-09-22T13:55:46Z"}
 {"name":"tap-rs","vers":"1.5.6","deps":[],"cksum":"7370cf1b37a6eec00cee153979320c82c6930769d5344376e1b9eb79cd7fa602","features":{},"yanked":false,"pubtime":"2026-09-22T14:35:57Z"}
 {"name":"tap-rs","vers":"1.6.0","deps":[{"name":"string_template","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fdfc1d2123b2c789456cd720d68d532c9c4800016162e1fb0b03fd63f4ca31f","features":{},"yanked":false,"pubtime":"2026-10-28T15:59:16Z"}
+{"name":"tap-rs","vers":"1.6.1","deps":[{"name":"string_template","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30a8f88857f206f5628f5f53ebb2c5cbd7b1f1efdf45cc61080c4848a8bb6a02","features":{},"yanked":false,"pubtime":"2026-10-31T12:57:45Z"}
