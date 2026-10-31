@@ -1,0 +1,1 @@
+{"name":"filer-wasi","vers":"0.0.0","deps":[{"name":"filer-api","req":"^0.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b499bcff6b6d762883263cda283a7f4b4a0fffa358f63f3a12a049aa6785c252","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-31T22:19:05Z"}
