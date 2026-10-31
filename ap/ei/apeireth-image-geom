@@ -1,0 +1,1 @@
+{"name":"apeireth-image-geom","vers":"2.0.0-rc.4","deps":[{"name":"serde","req":"^1","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c61d1f39c6d5812ab7019fd93419c6cd49e9c54681870cd6bed5ebdc345d2fd","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-31T04:27:34Z"}
