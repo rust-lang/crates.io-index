@@ -1,0 +1,1 @@
+{"name":"rift-http","vers":"0.1.0","deps":[{"name":"ed25519-dalek","req":"^2","features":["fast"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c981cf32f2c2f2fffa9b5077de421d5118e5a49909da6829fe99de4b6f72fe1f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-31T15:45:27Z"}
