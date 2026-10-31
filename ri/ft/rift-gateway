@@ -1,0 +1,1 @@
+{"name":"rift-gateway","vers":"0.1.0","deps":[{"name":"rift-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rift-discord-core"}],"cksum":"483d0a00b35cafc4c0c6139374fb79ee5fcb0a326228cfa3d06d92f69e15a82a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-31T15:44:53Z"}
