@@ -1,0 +1,1 @@
+{"name":"locale-simple","vers":"0.200.0-rc.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5832b93b6e119427b752bdd2210a94c6c6429b476dec829e0e8147e43a14d254","features":{},"yanked":false,"rust_version":"1.67","pubtime":"2026-10-31T00:19:18Z"}
