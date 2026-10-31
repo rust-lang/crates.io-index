@@ -8,3 +8,4 @@
 {"name":"ic-logging","vers":"0.19.0","deps":[],"cksum":"7e2ab59f91d09cc4bddf83afa3ab2425fec55fdda6fb7b628d75c3dd78879f79","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-10-30T16:27:04Z"}
 {"name":"ic-logging","vers":"0.20.0","deps":[],"cksum":"e8668bc65e23601f4491b24d2793bb348334368e64b28bf478b1b5cf78625011","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-10-30T17:57:55Z"}
 {"name":"ic-logging","vers":"0.21.0","deps":[],"cksum":"a49f405415f1dc8ef7d7a3831d6425fdec2be9d718f1b4b8ed29c031c2a6e884","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-10-30T18:03:28Z"}
+{"name":"ic-logging","vers":"0.21.1","deps":[],"cksum":"89f2229a31214695a261691d9bcc1e84d9ccb79fda4d3631c758cb046f7bceb2","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-10-31T08:33:58Z"}
