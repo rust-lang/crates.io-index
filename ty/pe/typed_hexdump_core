@@ -1,0 +1,1 @@
+{"name":"typed_hexdump_core","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cba430acc94a23518afa9d677fbe08b2d02b2b87d158c13fb2a2d1d3e6d91cd","features":{},"yanked":false,"pubtime":"2026-11-02T21:17:44Z"}
