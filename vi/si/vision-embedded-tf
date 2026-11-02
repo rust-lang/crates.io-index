@@ -1,1 +1,2 @@
 {"name":"vision-embedded-tf","vers":"0.1.0","deps":[],"cksum":"fa09d206fa7cc740aff0da9de6a70bb8a7f599b87868ff841faa85cb9a5d5295","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-02T19:05:22Z"}
+{"name":"vision-embedded-tf","vers":"0.2.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75c530da816065d1804526e06cd89a85f737f567d4a03ac48cb2814a870a90f8","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-02T19:30:40Z"}
