@@ -11,3 +11,4 @@
 {"name":"tun2socks","vers":"0.1.8","deps":[{"name":"cc","req":"^1.2.1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3e6cefe0117e87e0a282c0d17240971db95166f694667b9bfda0d6dc4d5324c5","features":{},"yanked":false,"pubtime":"2025-03-05T10:36:48Z"}
 {"name":"tun2socks","vers":"0.1.9","deps":[],"cksum":"7d170153055369d62e6568b381b9caf5e8c9e077a9365a92b37f7755e145aa9c","features":{},"yanked":true,"pubtime":"2025-08-22T10:55:18Z"}
 {"name":"tun2socks","vers":"0.1.10","deps":[],"cksum":"3157a6c4bca34b33cc84121359aedf7d05de945d598d1815b8f95cf7fb29a7d9","features":{},"yanked":false,"pubtime":"2025-08-22T11:28:00Z"}
+{"name":"tun2socks","vers":"0.1.11","deps":[],"cksum":"d93bed68278bf4c65060f1d3539a4012b485399166a0147ba0fe404af89331c1","features":{},"yanked":false,"pubtime":"2026-11-02T15:44:24Z"}
