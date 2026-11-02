@@ -1,0 +1,1 @@
+{"name":"fbx-reader","vers":"0.1.0","deps":[{"name":"miniz_oxide","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21f6f78813b0ceb0defcd1f07d57ee9b440b5fdbb94121d7631ba1f9e53837d2","features":{"write":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-02T21:17:06Z"}
