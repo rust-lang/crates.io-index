@@ -4,3 +4,4 @@
 {"name":"throttle-machines","vers":"0.3.0","deps":[],"cksum":"c4e8f0e39063d5125c8fe6c6685bc7de2b3594ce3b3b48a596be9a351979b6da","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-14T15:22:24Z"}
 {"name":"throttle-machines","vers":"0.3.1","deps":[],"cksum":"7c0a3fd615d10838ecd927b414dfe8b902ffcd7aab7881781dea7682f82005c5","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-20T22:01:34Z"}
 {"name":"throttle-machines","vers":"0.4.0","deps":[],"cksum":"c50e07b444af786a95ac5585d03e3dc1b0e6919aa8bc7ee7564fe18529c7fdc7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T12:41:25Z"}
+{"name":"throttle-machines","vers":"0.5.0","deps":[],"cksum":"e262493966d34b2b0ff84078a8efb3a22ee0a40284ee12ca89540f119f1558f0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-02T12:45:01Z"}
