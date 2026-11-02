@@ -1,0 +1,1 @@
+{"name":"cortexkit-presence","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a94f256a975f7ba86ec37b31a0a3d70e98eb9b41da9d5c70113fbecca9b96ebb","features":{},"yanked":false,"pubtime":"2026-11-01T00:47:46Z"}

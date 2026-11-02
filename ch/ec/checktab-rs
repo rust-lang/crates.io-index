@@ -1,0 +1,1 @@
+{"name":"checktab-rs","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f155ff6e16c58d3135eac92a0ff979c9e84232b75aa7e98ceb27da045fd28545","features":{"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-06T02:54:41Z"}

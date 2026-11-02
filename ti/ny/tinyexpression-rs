@@ -1,0 +1,1 @@
+{"name":"tinyexpression-rs","vers":"2.0.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f897beef0e201e699b600b734cb136bbc13479fbe3ee367049061697a426cc55","features":{},"features2":{"benchmarks":["dep:criterion"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-25T03:59:53Z","v":2}

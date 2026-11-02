@@ -1,0 +1,1 @@
+{"name":"ironhtml-parser","vers":"1.0.0","deps":[{"name":"ironhtml-elements","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45a8684658629c5605f58d5a8f35c760d0466e775c885fc21a6a211c58667902","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-02-08T02:43:32Z"}

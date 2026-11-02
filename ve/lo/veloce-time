@@ -1,0 +1,1 @@
+{"name":"veloce-time","vers":"0.1.7","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a098ce472647797dc8b9f551494cd992d058750060a1c2dd14c391755e08ba0e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T18:59:58Z"}

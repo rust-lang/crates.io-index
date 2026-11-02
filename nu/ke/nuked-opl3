@@ -1,0 +1,1 @@
+{"name":"nuked-opl3","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe763ce652db623a34372b1628588faaee86af83195175acee070d92d1fe27b7","features":{"stereo-ext":[]},"features2":{"c-reference-tests":["dep:cc"]},"yanked":false,"rust_version":"1.62","pubtime":"2026-06-12T06:12:13Z","v":2}

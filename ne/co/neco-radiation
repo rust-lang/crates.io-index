@@ -1,0 +1,1 @@
+{"name":"neco-radiation","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e1e6925179a55cd72e43d4f8fb532d5c04a6c5c7ebb2acb1d16369b8779ef9d","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-03T05:01:51Z","v":2}

@@ -1,0 +1,1 @@
+{"name":"veloce-geom","vers":"0.1.7","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b70a364c5dc727b7ad8dec8dcddf2ed7e8e0fa6eb23bf42820c1f11f7b8f8d6c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T17:49:56Z"}

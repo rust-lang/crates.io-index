@@ -1,0 +1,2 @@
+{"name":"si-conservation-enforcer","vers":"0.1.0","deps":[],"cksum":"87fa3d9a7c4f1662a903a2bf3b6f205e3337f54627f7e3979351d996654f8e3a","features":{"audit":["std"],"default":["std"],"metrics":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-12T15:39:08Z"}
+{"name":"si-conservation-enforcer","vers":"0.1.1","deps":[],"cksum":"69508332addad57946841a493f1ab20aa77a2f95426f53141778e94db39e10dc","features":{"audit":["std"],"default":["std"],"metrics":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-12T15:40:46Z"}

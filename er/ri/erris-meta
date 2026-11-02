@@ -1,0 +1,1 @@
+{"name":"erris-meta","vers":"1.0.0","deps":[{"name":"tracing-error","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0543a635c82bfa20a1c2075dbb49ba2d31074d8c50e583a931dc2078be0d0f36","features":{"default":[]},"features2":{"spantrace":["dep:tracing-error"]},"yanked":false,"pubtime":"2026-07-20T14:46:22Z","v":2}

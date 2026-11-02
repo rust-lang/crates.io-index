@@ -1,0 +1,1 @@
+{"name":"filer-zip","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c9f4c2c87e6786020cd12b7cfb88e83a12758cc0c22065afd3f9f30963e63af8","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T13:58:21Z"}

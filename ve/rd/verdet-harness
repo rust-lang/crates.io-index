@@ -1,0 +1,5 @@
+{"name":"verdet-harness","vers":"0.0.1","deps":[],"cksum":"536aa66b7ad8f12d11dd1e817fdf0b7eddb2a6c301c7b1db095afe742afda2fb","features":{},"yanked":true,"pubtime":"2026-07-17T13:15:04Z"}
+{"name":"verdet-harness","vers":"0.1.0","deps":[],"cksum":"cf7f10161167c557ce1dbc5be7f9f52cb653c8027500be3384124389bf158d90","features":{},"yanked":true,"pubtime":"2026-07-17T23:35:32Z"}
+{"name":"verdet-harness","vers":"0.1.1","deps":[],"cksum":"9907acb68f83d7c74ffab15136abc282d0e155d396da19a842d576a97c0b7d21","features":{},"yanked":false,"pubtime":"2026-07-17T23:36:57Z"}
+{"name":"verdet-harness","vers":"0.1.2","deps":[],"cksum":"094e2076a0de01823cff4c7acf2762d238245ed8ee6a5c1131ec939aef59162e","features":{},"yanked":false,"pubtime":"2026-07-18T08:47:49Z"}
+{"name":"verdet-harness","vers":"0.2.0","deps":[{"name":"verdet-harness-macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c2947df508269546ca0bbd9df0ab1967b723b337d61f3b955e1364827b97cae","features":{},"yanked":false,"pubtime":"2026-07-20T12:29:07Z"}

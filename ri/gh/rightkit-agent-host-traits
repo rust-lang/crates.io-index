@@ -1,0 +1,1 @@
+{"name":"rightkit-agent-host-traits","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c537b1f8d9ecebff084fd4ed3d02b3221ff8cff0a49b7854abc61d7896959be6","features":{"default":[]},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-11-01T12:26:18Z"}

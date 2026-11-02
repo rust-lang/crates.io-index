@@ -1,0 +1,1 @@
+{"name":"fin-metrics-rs","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1.43.0","features":["maths"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e262d204e7c0926845d80db2f772704612b4cce7e3c364960c8531da0a620040","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-29T16:55:15Z"}

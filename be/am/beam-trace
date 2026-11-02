@@ -1,0 +1,1 @@
+{"name":"beam-trace","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.25","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"796eed5071a7fc4b3d759dccd14d5735ea3cc2929291cf770e88c26fd4ee28b9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-13T12:56:57Z"}

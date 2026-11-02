@@ -1,0 +1,1 @@
+{"name":"sidermux-pac","vers":"0.1.0","deps":[{"name":"tock-registers","req":"=0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b83c3a3d0ec365cd745d9cf2b864cc9b6295a9fd3ae77c9b29021799d71efd07","features":{"cyclone-v":[],"default":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-10-18T00:08:59Z"}

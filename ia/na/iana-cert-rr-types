@@ -1,0 +1,1 @@
+{"name":"iana-cert-rr-types","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"fd86a4507e2c44101537b1fbe52d9c1a5efee807bad2bbe5a7efdc2f02dfd33a","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T06:57:33Z"}

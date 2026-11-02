@@ -1,0 +1,1 @@
+{"name":"tsv_html","vers":"0.8.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order","float_roundtrip","arbitrary_precision"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"18cc81fd2eb86502cc652f7c6281fc5e77ae1f3bd87180c6ca988d1fb25a7ea0","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-01T22:42:45Z"}

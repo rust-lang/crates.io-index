@@ -1,0 +1,3 @@
+{"name":"shed-machines","vers":"0.1.0","deps":[],"cksum":"93f13cd96862f9dabf0dc0d122030754984bfdc5657e901839825377a791d04e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T04:37:01Z"}
+{"name":"shed-machines","vers":"0.2.0","deps":[],"cksum":"982d5819ba291cb2ff79d39bcfa4ff806691231c7d5ff420cfe8ba2d1f50201a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T12:41:12Z"}
+{"name":"shed-machines","vers":"0.2.1","deps":[],"cksum":"471066e8c183f9c5c10b5a46e2f7f10bba1233751c9a0c7e2cd6cae755cd8aaf","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T15:57:10Z"}

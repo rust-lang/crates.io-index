@@ -1,0 +1,1 @@
+{"name":"goblin-sigscan-pattern","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d70116136c6eab81d50ffc60ab9535e2cdc8c41facaa21c5258084f51eacb26","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-20T19:34:58Z"}

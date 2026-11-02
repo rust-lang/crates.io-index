@@ -1,0 +1,4 @@
+{"name":"danmuji-sdk","vers":"0.1.0","deps":[],"cksum":"ac760bc80bdd40cac7824ea70510817e50023962758c403e68829e6682196ea4","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-15T14:05:56Z"}
+{"name":"danmuji-sdk","vers":"0.1.1","deps":[],"cksum":"820a41850efaec3eeac292bd21864645688343393655c84e68ff0dba90c3593e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-15T14:43:47Z"}
+{"name":"danmuji-sdk","vers":"0.1.2","deps":[],"cksum":"985f26336ce0c007e66078dc574669515585c6ae36694177fd81e0a77859092a","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-16T12:57:46Z"}
+{"name":"danmuji-sdk","vers":"0.1.3","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b7382cbef04a07e4284980ba21c3c8c3f3914d937c1513dce24720547cf3de","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-17T14:42:10Z"}

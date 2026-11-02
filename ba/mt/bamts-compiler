@@ -1,0 +1,1 @@
+{"name":"bamts-compiler","vers":"0.1.0","deps":[{"name":"bamts-bytecode","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc17483c137ffe5f049370b0ed150bf77e3e0ad76abca4074e1614df839aa0de","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-07-30T02:54:21Z"}

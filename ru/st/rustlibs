@@ -1,0 +1,5 @@
+{"name":"rustlibs","vers":"0.1.0","deps":[],"cksum":"4343345e5350d0adb06d24f8ba941925a7d9b0762e8ed532bca253bf41af87cf","features":{},"yanked":false,"pubtime":"2026-08-25T08:12:00Z"}
+{"name":"rustlibs","vers":"0.1.1","deps":[],"cksum":"f9d38465f16ab8b23c89afd5fd453dc7d276cd36effb4d92e3dabac41929e055","features":{},"yanked":false,"pubtime":"2026-08-25T08:22:56Z"}
+{"name":"rustlibs","vers":"0.1.2","deps":[],"cksum":"07555854c1f7fd2461c327a5aaf624354637f9731ef416974e0f0a51830785f1","features":{},"yanked":false,"pubtime":"2026-08-30T10:32:30Z"}
+{"name":"rustlibs","vers":"0.1.3","deps":[],"cksum":"3c633bdc8db2974324ae23d3576a93e82a43930615637ab920728cc138e5abb6","features":{},"yanked":false,"pubtime":"2026-08-30T10:39:10Z"}
+{"name":"rustlibs","vers":"0.1.4","deps":[{"name":"which","req":"^8.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f26d14b807674e32074674c1ce1538a323dda4cfa3859c17ebd90e205f3cd8f3","features":{},"yanked":false,"pubtime":"2026-08-30T10:43:53Z"}

@@ -1,0 +1,1 @@
+{"name":"neco-array2","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88a8bbfae650c4718c0fd3f6ec452a64361f03ced2f663de74ee29ecf29723b6","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-04-03T04:04:16Z","v":2}

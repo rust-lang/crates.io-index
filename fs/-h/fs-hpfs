@@ -1,0 +1,1 @@
+{"name":"fs-hpfs","vers":"0.1.0","deps":[{"name":"disk-core","req":"^0.2","features":["fs"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f46db6a9ca69c86ff269d9f70ad549356dea4b794aca8243e4908bdb71af8109","features":{"rust173-polyfill":["disk-core/rust173-polyfill"]},"yanked":false,"rust_version":"1.73","pubtime":"2026-10-31T19:01:46Z"}

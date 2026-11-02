@@ -1,0 +1,1 @@
+{"name":"filer-ext4","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"47b3f27119bb15fab04cd9331ac16e859006ee2b905eac69f6a6dd7db2b1281e","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T22:12:26Z"}

@@ -1,0 +1,1 @@
+{"name":"naive-totp","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10.1","features":["thread_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"304c97b452f1e772e3a37f88fea12409e22a85fd7dec8794188b62db0ff9956d","features":{},"yanked":false,"pubtime":"2026-04-23T12:41:32Z"}

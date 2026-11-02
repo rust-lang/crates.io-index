@@ -1,0 +1,1 @@
+{"name":"nrem","vers":"0.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff00943c520425ee7f19cbd16f4fa16d224fc22413b3d0af3a2ce729236f1d0f","features":{"default":[]},"features2":{"cli":["dep:clap"]},"yanked":false,"pubtime":"2026-10-01T14:49:27Z","v":2}

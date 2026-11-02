@@ -1,0 +1,2 @@
+{"name":"cast-stdlib","vers":"0.1.0","deps":[{"name":"cast","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"cast-spec"}],"cksum":"4884b9dc7896118c0e9983e267997e39dba3fb65773eb4cbd037040fcf3747b9","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-06T09:50:21Z"}
+{"name":"cast-stdlib","vers":"0.2.0","deps":[],"cksum":"8b83d6cc964a4920ec3f474e757019df579b3163988cf0e4ed3844c78669972e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T17:57:06Z"}

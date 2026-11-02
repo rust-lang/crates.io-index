@@ -1,0 +1,1 @@
+{"name":"filer-ar","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9441dc785f0b3f03a0e190c5e35862f45a7113cf28ca72255076fe6fe1c83cd5","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T17:10:17Z"}

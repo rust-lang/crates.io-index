@@ -1,0 +1,1 @@
+{"name":"const_blake3","vers":"0.0.0","deps":[{"name":"blake3","req":"^1","features":["std","pure"],"optional":false,"default_features":false,"target":"cfg(kani)","kind":"normal"}],"cksum":"73669b833cef325e02d23313debfb6fc18651590af0812036cc42239286a712d","features":{},"yanked":false,"pubtime":"2026-02-15T02:25:27Z"}

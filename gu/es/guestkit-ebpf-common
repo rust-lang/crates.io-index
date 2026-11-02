@@ -1,0 +1,1 @@
+{"name":"guestkit-ebpf-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.14","features":[],"optional":true,"default_features":false,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"9df57bd56cf266aa6e705663924c4fc93859b623bc62363c4e18e161d674a4de","features":{"default":[],"user":["aya"]},"yanked":false,"pubtime":"2026-10-18T05:44:55Z"}

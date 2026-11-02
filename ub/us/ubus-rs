@@ -1,0 +1,1 @@
+{"name":"ubus-rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["net","io-util","time","rt","macros"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"326f8aa5ef0b79409b32783532aff0c160f93d196cc83a483d01c4cc0a5bcf08","features":{"async":["tokio"],"default":[]},"yanked":false,"pubtime":"2026-08-10T06:21:25Z"}

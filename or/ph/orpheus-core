@@ -1,0 +1,1 @@
+{"name":"orpheus-core","vers":"0.0.1","deps":[{"name":"getrandom","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f194768dd72a33e5cd6b2a5d55834b45de4b4b937a5dfbf1e1fcb9a522452d1","features":{},"features2":{"default":["getrandom"],"getrandom":["dep:getrandom"]},"yanked":false,"pubtime":"2026-10-11T17:55:43Z","v":2}

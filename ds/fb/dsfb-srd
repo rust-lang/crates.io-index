@@ -1,0 +1,1 @@
+{"name":"dsfb-srd","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["clock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"45b753327bce8028905776d968c0a90b8288269621013d007d97750036175d33","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-12T07:14:16Z"}

@@ -1,0 +1,1 @@
+{"name":"tauri-plugin-google-app-functions-build","vers":"0.1.0","deps":[{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60d78da4126ebcc4632fcac8ce07b17faff7e4aaac200303fca9d64c433abced","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-09-29T22:30:14Z"}

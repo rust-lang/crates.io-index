@@ -1,0 +1,1 @@
+{"name":"sister-h3","vers":"0.1.0-rc.1","deps":[{"name":"serde_json","req":"^1.0.154","features":["float_roundtrip"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"712fdee4a9e2fed8cbd1074303adbbd2664d6933b928998ad7899302444c5605","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-02T05:57:35Z"}

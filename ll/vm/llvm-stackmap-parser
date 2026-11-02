@@ -1,0 +1,1 @@
+{"name":"llvm-stackmap-parser","vers":"0.1.0","deps":[{"name":"goblin","req":"^0.10.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c069dd29ef68e50ee64bc5d9b12281a2bda986e2cb125d24754a22be7acd2363","features":{},"yanked":false,"pubtime":"2026-09-07T11:05:22Z"}

@@ -1,0 +1,2 @@
+{"name":"rav2e","vers":"0.0.1","deps":[],"cksum":"4f8ca006e0e36a86a2970bf21060dde084c425ba245bd8fb404003bcacbea026","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-01T13:59:30Z"}
+{"name":"rav2e","vers":"0.1.0","deps":[{"name":"rav2d","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e5ce08185bc8ff054fafea0338dceba079a3ffcc15aa6f2838f912cf5146a5c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-01T14:04:28Z"}

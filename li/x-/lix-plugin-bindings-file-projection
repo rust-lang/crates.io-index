@@ -1,0 +1,1 @@
+{"name":"lix-plugin-bindings-file-projection","vers":"0.12.0","deps":[{"name":"wit-bindgen","req":"^0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1c79ddeebc70d7765c36799f9069047fdc015201f74de0b9153dce8a5458d0c","features":{},"yanked":true,"rust_version":"1.93","pubtime":"2026-08-15T03:30:30Z"}

@@ -1,0 +1,1 @@
+{"name":"rightkit-agent-engine-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4477715f1859ac710175482b8e83d8ed8d297e48582c0b1183e72933156ef3c","features":{},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-11-01T11:47:17Z"}

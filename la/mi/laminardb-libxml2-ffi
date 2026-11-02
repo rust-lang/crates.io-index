@@ -1,0 +1,1 @@
+{"name":"laminardb-libxml2-ffi","vers":"0.33.0","deps":[{"name":"cmake","req":"^0.1.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"500f64e311cd56efe8931353f7ef29606985efa537c8b753c2cd1b35f83c6d33","features":{},"yanked":false,"links":"xml2","rust_version":"1.95","pubtime":"2026-10-19T07:11:25Z"}

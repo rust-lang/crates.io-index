@@ -1,0 +1,1 @@
+{"name":"fec-rs","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a86d2bb0db9647ee5dece2ea54a808c14428db009ad751f95b091598835cd0b","features":{"default":[],"parallel":["rayon"]},"yanked":false,"pubtime":"2026-03-19T23:07:43Z"}

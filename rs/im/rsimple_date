@@ -1,0 +1,1 @@
+{"name":"rsimple_date","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["clock","std","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7b5385da710cabfc75e5976a080f48bef2e6e9ab68f8f1507679d0b1da426cec","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-05T02:29:40Z"}

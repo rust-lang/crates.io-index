@@ -1,0 +1,1 @@
+{"name":"crowsi-telemetry-contracts","vers":"0.10.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fa1558df6214f6b283a1f603276c8faa6ca07392c1f499b867b9081d15cc90f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-10T14:59:52Z"}

@@ -1,0 +1,1 @@
+{"name":"tensor-midi","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09115e40dce45086240d0183631b79ad3345e232e6ad12b935c334fef6d605a7","features":{},"yanked":false,"pubtime":"2026-06-06T22:30:01Z"}

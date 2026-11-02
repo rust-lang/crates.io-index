@@ -1,0 +1,1 @@
+{"name":"gubernaut-core","vers":"1.0.1","deps":[{"name":"serde_json","req":"=1.0.150","features":["float_roundtrip"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a87b82314b2a9ed9aaf3db0fd951e6c55f087025913503b3e525987272e5aa9a","features":{},"yanked":false,"pubtime":"2026-08-07T18:45:01Z"}

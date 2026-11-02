@@ -1,0 +1,1 @@
+{"name":"dogma-fs","vers":"0.3.1","deps":[{"name":"dogma-path","req":"^0.3.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"309dcdc5aef0d1a43c9e77ea92d1b71da568c93cb44cf39febf43e0d260a5d27","features":{"all":[],"default":["all","std"],"std":["dogma-path/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-31T12:42:42Z"}

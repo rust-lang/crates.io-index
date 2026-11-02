@@ -1,0 +1,1 @@
+{"name":"thruput-exn","vers":"0.58.0","deps":[{"name":"xdrs","req":"^0.17.1","features":["int128","heapless"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"thruput-xdrs"}],"cksum":"6045ba22ca53e5608262087d97b67042acc51d41ae62baf5f1e19e9aee9a53f9","features":{},"yanked":false,"pubtime":"2026-10-28T01:05:50Z"}

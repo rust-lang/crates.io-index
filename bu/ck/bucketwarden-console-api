@@ -1,0 +1,1 @@
+{"name":"bucketwarden-console-api","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59aa820be31e2559a4630c50658c2e1f1d33370f8055004a643b260ddef1af8c","features":{},"yanked":false,"pubtime":"2026-05-20T21:23:09Z"}

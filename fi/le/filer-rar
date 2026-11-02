@@ -1,0 +1,1 @@
+{"name":"filer-rar","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d0373f1cc6f6c8a795193d8f1a440f6fc03ce4f9ebe7dca5d8a62b4c65438c4d","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T17:10:19Z"}

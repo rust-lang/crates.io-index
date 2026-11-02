@@ -1,0 +1,1 @@
+{"name":"emu198x-tape-playback","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"306333c99d3faec482d3ce26f5e4e3dbbcf156feea6a6dace833e817cbfaa936","features":{},"yanked":false,"pubtime":"2026-10-26T16:43:26Z"}

@@ -1,0 +1,1 @@
+{"name":"entangle","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.36","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1befe5349f4e72b31a28d7ff77bd06e211785a4bbba4f6d7428be86015f8e52","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-02-06T19:26:46Z"}

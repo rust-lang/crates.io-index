@@ -1,0 +1,1 @@
+{"name":"medius-capi","vers":"3.4.6","deps":[{"name":"medius","req":"=3.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a17333a86c501354ec2fcbafd20171485a1eaa71dcaa6b381d90ab6908cedccf","features":{"default":[],"mock":["medius/mock"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-16T04:54:16Z"}

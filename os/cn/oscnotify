@@ -1,0 +1,1 @@
+{"name":"oscnotify","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.29","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f948d24d04a59248fae7a4003bd5a1d7baf4e26234d5dddec2ed5d8c9084df29","features":{"default":[]},"features2":{"crossterm":["dep:crossterm"]},"yanked":false,"pubtime":"2026-07-16T06:49:55Z","v":2}

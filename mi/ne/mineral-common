@@ -1,0 +1,1 @@
+{"name":"mineral-common","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52e2347ed25c7b9b0726f4136e4d8cc42900b178c7c641db0c07f04abdcf35bb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-31T17:51:54Z"}

@@ -1,0 +1,1 @@
+{"name":"su","vers":"0.1.0","deps":[{"name":"resync","req":"^0.6.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e1de2c0a154a32fd8dda7fce42fc965d8f8b5806558eab0b3192387eaead5078","features":{"dev":["resync/dev"],"std":["resync/std"]},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-08-15T18:40:30Z"}

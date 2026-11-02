@@ -1,0 +1,2 @@
+{"name":"argument","vers":"0.0.1","deps":[],"cksum":"c9dd030cff98f36649db1bacdc200520efee4d69e6d1809435925adfb96e46cf","features":{},"yanked":false,"pubtime":"2025-01-20T13:04:21Z"}
+{"name":"argument","vers":"0.1.0","deps":[{"name":"argument-parser","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2ce63739a078df7f1f27fa78d1fc629a96a8e3af7a5370449a79b13de88a3f9","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-10-04T22:23:40Z"}

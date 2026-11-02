@@ -1,0 +1,1 @@
+{"name":"iana-dane-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"62f8ac7b3d6c55a07353565ec4e7a3a1071e2684f5d24f63f5b5e9944e2ac6ac","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T07:07:33Z"}

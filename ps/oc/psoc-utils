@@ -1,0 +1,1 @@
+{"name":"psoc-utils","vers":"0.1.0","deps":[{"name":"critical-section","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e8ba187e4354cb766adcbbefe1f0ab72d89e8a600a37c5e6b39ee40e6f450ce","features":{"std":["critical-section/std"]},"yanked":false,"pubtime":"2026-05-15T22:13:52Z"}

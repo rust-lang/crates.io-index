@@ -1,0 +1,4 @@
+{"name":"better-auth-schema-registry","vers":"1.0.0-alpha.2","deps":[],"cksum":"acccb0cf15d4057fae082470f61ceba0b47b6b78e46e5a4128013dccb95fa469","features":{},"yanked":false,"pubtime":"2026-08-15T12:15:56Z"}
+{"name":"better-auth-schema-registry","vers":"1.0.0-alpha.3","deps":[],"cksum":"962c1bf027c597e38880a594712e6cc14d06328e37227eefca53f04d1a7002fd","features":{},"yanked":false,"pubtime":"2026-09-26T15:07:01Z"}
+{"name":"better-auth-schema-registry","vers":"1.0.0-alpha.4","deps":[],"cksum":"964eadc2a3c362262736389ff10ed44c94ae7d713c3c30104d50d33d91089c81","features":{},"yanked":false,"pubtime":"2026-10-20T14:56:02Z"}
+{"name":"better-auth-schema-registry","vers":"1.0.0-alpha.5","deps":[{"name":"serde","req":"^1.0","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18ab007d7904a1fbbbcc7e1ccabc3361d28de2c9ab910adda6c03601174f153c","features":{},"yanked":false,"pubtime":"2026-10-21T07:45:37Z"}

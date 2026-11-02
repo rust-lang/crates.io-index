@@ -1,0 +1,1 @@
+{"name":"wgpui-platform","vers":"0.6.1","deps":[{"name":"wgpui","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae8359228ffb97450776b35796860b9c71d8050de6456299df70be45d90f2bf4","features":{"test-support":["wgpui/test-support"]},"yanked":false,"pubtime":"2026-09-12T02:11:37Z"}

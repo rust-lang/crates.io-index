@@ -1,0 +1,1 @@
+{"name":"tincan-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f0bcb892adcc4e81d044c692be2dfb7812d969902d38f34999600b14dc7f6b7","features":{},"yanked":false,"pubtime":"2026-10-30T19:49:59Z"}

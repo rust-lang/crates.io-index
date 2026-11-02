@@ -1,0 +1,1 @@
+{"name":"rustpress-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fa09fed765b49f23302dea1abd67df055c6a64a520816461b90d1d3b1979a27","features":{},"yanked":false,"pubtime":"2026-11-01T22:10:36Z"}

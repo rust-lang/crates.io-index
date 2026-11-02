@@ -1,0 +1,1 @@
+{"name":"brain-nn-rs","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a701948d1c7f5b4441e15da3364c43a4810f0bfe8392ac4b191ebdbd62502a06","features":{},"yanked":false,"pubtime":"2026-10-11T21:35:35Z"}

@@ -1,0 +1,1 @@
+{"name":"concerto-jolt-ffi","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1fa3fd351a356d40dde7e754d9f9cd22aae8bc88d7d496d5cac45bd9f729244b","features":{},"yanked":false,"links":"jolt","pubtime":"2026-09-24T12:56:37Z"}

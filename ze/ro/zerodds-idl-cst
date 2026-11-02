@@ -1,0 +1,1 @@
+{"name":"zerodds-idl-cst","vers":"1.0.0-rc.7","deps":[{"name":"proptest","req":"^1.4","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4569d01ec01acf82de56b8377df4d2dbd0b019ae4efd45eaeb573576b5c4cd43","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-29T09:13:17Z"}

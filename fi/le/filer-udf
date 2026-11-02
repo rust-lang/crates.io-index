@@ -1,0 +1,1 @@
+{"name":"filer-udf","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7e9458bc4aa864cda81378e768b4b48eff5e92c7f39672f3d345f745dbf61400","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T22:12:34Z"}

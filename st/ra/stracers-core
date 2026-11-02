@@ -1,0 +1,1 @@
+{"name":"stracers-core","vers":"0.1.0","deps":[{"name":"nix","req":"^0.31","features":["ptrace","process","signal","personality"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b53c108acf12dfd1fb171fd2bbc4d18db3fc985d5f31f75e4e1f33c9cdaa06b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-28T15:52:36Z"}

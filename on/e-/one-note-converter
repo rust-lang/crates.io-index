@@ -1,0 +1,1 @@
+{"name":"one-note-converter","vers":"0.1.2","deps":[{"name":"flate2","req":"^1","features":["zlib-rs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ee4d2688e8c3f72c4176f072b29c7ea7eab1b1ceef4e994d37280d1e15ce43ad","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-27T05:37:16Z"}

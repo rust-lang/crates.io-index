@@ -1,0 +1,1 @@
+{"name":"clickhouse-lexer-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eda9240261cae13534517392bd986926c53cf17a5cf35a1a83154bd3261b0dc4","features":{},"yanked":false,"links":"clickhouse_lexer","rust_version":"1.74","pubtime":"2026-10-17T19:54:51Z"}

@@ -1,0 +1,1 @@
+{"name":"basisu_wasm_libcxx","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fbed49d669d51b70f0b89a6619853ba3aecb0f398b21f60bea7e5a7182dc83b7","features":{},"yanked":false,"links":"basisu_wasm_libcxx","pubtime":"2026-09-21T11:40:10Z"}

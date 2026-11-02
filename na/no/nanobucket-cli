@@ -1,0 +1,1 @@
+{"name":"nanobucket-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^4","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d49ed316edf832643980e2b4e89fb88807022a45caa1024643cb2edec90de357","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-19T21:09:15Z"}

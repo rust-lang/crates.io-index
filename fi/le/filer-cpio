@@ -1,0 +1,1 @@
+{"name":"filer-cpio","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"16b398f16bbdbedc443e0de5ca7667cd9d274bad13c4694523a84282cc820b35","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T17:10:18Z"}

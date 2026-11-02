@@ -1,0 +1,1 @@
+{"name":"lanehash","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5afd97e2321b023ab606afa92a48962cf38422d2c6d1dfd510a2d5b16ce0ca33","features":{"default":["std"],"force-fallback":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-18T16:31:59Z"}

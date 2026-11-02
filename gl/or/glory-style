@@ -1,0 +1,1 @@
+{"name":"glory-style","vers":"0.6.0","deps":[{"name":"cssparser","req":"=0.38.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57644d3389c597017690618079d0d7096d777eb82ff2e83e27829d8812f82f33","features":{"default":[]},"features2":{"css":["dep:cssparser"]},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-29T10:57:57Z","v":2}

@@ -1,0 +1,1 @@
+{"name":"braid58","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"61e6bf77f7e2e4561811273b31376824dfbe5dd167295ffb5ceacf74268fafb9","features":{"avx2":[],"avx512":["avx2"],"default":[]},"yanked":false,"links":"braid58","rust_version":"1.85","pubtime":"2026-08-16T18:34:59Z"}

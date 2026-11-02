@@ -1,0 +1,1 @@
+{"name":"iana-sig-alg-numbers","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"f55bcca54788debb327924efe27fec6d885dfd7093f74c778e8f2c4818e36c42","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T07:37:33Z"}

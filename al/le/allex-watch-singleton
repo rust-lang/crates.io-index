@@ -1,0 +1,1 @@
+{"name":"allex-watch-singleton","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f891cfc5440c8ddcedc39f052b473808370cc6c3caa05a7e679cbb9a3a6a4345","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T20:23:57Z"}

@@ -1,0 +1,1 @@
+{"name":"zahyou","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"753f9f1ce82f3235d797fdf560a4103adcdc3b3b0a82d669c717731ee2ae62b3","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-08T20:46:22Z","v":2}

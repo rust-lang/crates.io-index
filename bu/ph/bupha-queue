@@ -1,0 +1,1 @@
+{"name":"bupha-queue","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd11de53f9369e402cb64225f5e28845b80cc1a284cd3b9116af6c4d53e5c350","features":{},"yanked":false,"pubtime":"2026-10-17T22:37:14Z"}

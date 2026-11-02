@@ -1,0 +1,1 @@
+{"name":"trixel-policy-engine","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78002c982625017d4654e25d5ee92e350e7522504c30c1b56b4e6bbdcc448870","features":{},"yanked":false,"pubtime":"2026-06-29T00:12:45Z"}

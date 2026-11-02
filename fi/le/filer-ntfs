@@ -1,0 +1,1 @@
+{"name":"filer-ntfs","vers":"0.0.1","deps":[{"name":"filer-api","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c66a29471a749b0eda06f6923f8ae2182b9240714a316a69c1893982e924e292","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-01T22:12:30Z"}

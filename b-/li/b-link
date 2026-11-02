@@ -1,0 +1,1 @@
+{"name":"b-link","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12","features":["arc_lock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcc8d8ed19ed14e2e77be5fc1479627ba155142ca324a7ba8b35dceb47bc7d9c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-30T18:11:54Z"}

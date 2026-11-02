@@ -1,0 +1,1 @@
+{"name":"toolang","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.38","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b569450a5353442003970e7f074430d1e32b30f7bf4a3479030dd04cbcfd4eca","features":{},"yanked":false,"pubtime":"2026-03-18T11:12:11Z"}

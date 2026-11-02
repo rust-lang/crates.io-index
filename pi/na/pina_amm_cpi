@@ -1,0 +1,2 @@
+{"name":"pina_amm_cpi","vers":"0.0.0","deps":[],"cksum":"e850b6139eda989c87b375110f1dff0063986f2efc5cbf305f767e7180e86fa0","features":{},"yanked":false,"pubtime":"2026-10-07T17:58:49Z"}
+{"name":"pina_amm_cpi","vers":"0.1.0","deps":[{"name":"pina","req":"=0.23.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5cb13542f892827fbf8a7cc5091f78611ed09004eadeae13a31eae8edd0c9aee","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-10-09T07:25:56Z"}

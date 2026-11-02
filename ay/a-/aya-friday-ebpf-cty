@@ -1,0 +1,1 @@
+{"name":"aya-friday-ebpf-cty","vers":"0.2.3","deps":[{"name":"aya-build","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build","package":"aya-friday-build"}],"cksum":"62b9a97721d230c2824e7e2340cdb866de65f75bb2d40f415d2f32121d3e64e9","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-05-28T12:35:34Z"}

@@ -1,0 +1,1 @@
+{"name":"emu198x-mos-acia-6551","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7e0c57f993a99e7bdf3d25ac37b252fa6ca6e68db84fc528df791dc8bf5072e","features":{},"yanked":false,"pubtime":"2026-10-26T11:29:42Z"}

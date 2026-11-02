@@ -1,0 +1,1 @@
+{"name":"structscope-agent","vers":"0.4.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"703824bfb4556966c3152526ce261e252fe876cacac8c011de82544b2bf265ca","features":{"default":[],"guard-ebpf":[]},"yanked":false,"pubtime":"2026-06-11T19:17:39Z"}

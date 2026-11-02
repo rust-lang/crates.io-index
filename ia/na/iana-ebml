@@ -1,0 +1,1 @@
+{"name":"iana-ebml","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"c2abd27b1ce1ca84b1a8c7572fcbab0116a97d65b92c3709f684d1a9cacd3b6a","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T01:07:34Z"}

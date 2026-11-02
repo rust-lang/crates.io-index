@@ -1,0 +1,3 @@
+{"name":"publisle-math","vers":"0.0.1","deps":[],"cksum":"66dc277c3cd494363e0fa7f46d91a3586fa98f082e870e4e6e7876cf9a7b1840","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-23T18:39:46Z"}
+{"name":"publisle-math","vers":"0.1.0","deps":[],"cksum":"25c5f46a9a7257516bd8bc85ac08b178d9a737e0c82e31be2037e6929a2d99da","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-23T20:41:12Z"}
+{"name":"publisle-math","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86a754741fba61a2ed6ace1cc6d383f5396eb32b3f675a0b464cf1bbdaebcca6","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-24T13:23:36Z"}

@@ -1,0 +1,2 @@
+{"name":"k230-kpu","vers":"0.1.0","deps":[],"cksum":"fa69fe2ecdf0ca8ebf39e015c254c9677dcf1e241fce8baf27dd7d4e2efdce40","features":{},"yanked":false,"pubtime":"2026-06-02T07:51:53Z"}
+{"name":"k230-kpu","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8d426abc182c3c8f6573cfb9ab005b191b42bc9a0d842b906f69eec5e9363342","features":{},"yanked":false,"pubtime":"2026-08-20T15:49:11Z"}
