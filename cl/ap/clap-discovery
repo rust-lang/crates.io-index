@@ -1,0 +1,1 @@
+{"name":"clap-discovery","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"831eb87f0713a6073381126f75c78d5ac1d4b4edbcb0d3301b0561ecf4aad1cf","features":{"default":[],"derive":["clap/derive"]},"yanked":false,"pubtime":"2026-11-02T13:24:11Z"}
