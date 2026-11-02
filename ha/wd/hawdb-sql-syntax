@@ -20,3 +20,4 @@
 {"name":"hawdb-sql-syntax","vers":"0.22.0","deps":[],"cksum":"a1911853286747853d156303f14437cbec3ac232c5ecd061755ded68ecd71203","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-10-30T22:46:03Z"}
 {"name":"hawdb-sql-syntax","vers":"0.23.0","deps":[],"cksum":"20bfc889b0ae9bf0dc769ddb1f01acba789d9ca0b0a97fdf4e67f70e3de4894c","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-10-31T15:29:05Z"}
 {"name":"hawdb-sql-syntax","vers":"0.24.0","deps":[],"cksum":"822c648c1efd6c6676d069c82e0dd1038e6fbd1947d8dd5e889fd6bdaa3d39eb","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-01T11:58:37Z"}
+{"name":"hawdb-sql-syntax","vers":"0.25.0","deps":[],"cksum":"1c4493c35a3f45998ab8e16681f7734e75297d1fa1adab9b496c1fc3f7eb5f64","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-02T10:24:21Z"}
