@@ -1,0 +1,1 @@
+{"name":"filer-7z","vers":"0.0.2","deps":[{"name":"filer-api","req":"^0.0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bb906274c86720e7eeaa6cc9146fbce54229e95b5a2c76260431ad5430f1abb6","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-03T15:26:22Z"}
