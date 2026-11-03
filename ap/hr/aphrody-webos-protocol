@@ -1,0 +1,1 @@
+{"name":"aphrody-webos-protocol","vers":"1.4.7","deps":[{"name":"serde","req":"^1.0.228","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8e8b946d94da404b430ac9830490842f811b321d373fd63146b11304cf54b233","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-03T15:00:36Z"}
