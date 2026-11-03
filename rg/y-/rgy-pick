@@ -1,3 +1,4 @@
 {"name":"rgy-pick","vers":"0.1.1","deps":[],"cksum":"784feadccd68f2202874187bf34bba07f224b0839127401143bcf3bf7596d023","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-30T14:46:54Z"}
 {"name":"rgy-pick","vers":"0.1.2","deps":[],"cksum":"3d7f331a997e898f03a655046c77b90bbf9fdde47fdbf0d0ecc3fff8ee13c27d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-10-31T12:01:23Z"}
 {"name":"rgy-pick","vers":"0.1.3","deps":[],"cksum":"212d9022c8e2dae642b27140b018fded075aa83b50798fff6faf457114f9fa47","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-01T12:48:52Z"}
+{"name":"rgy-pick","vers":"0.1.4","deps":[],"cksum":"9194a0066f6a71f39ca02ecc3a331268fcdb2c6ed1f07d6f10a011ea2abc843b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T14:14:24Z"}
