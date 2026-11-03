@@ -1,1 +1,2 @@
 {"name":"opentlv-sys","vers":"0.2.0","deps":[],"cksum":"5e35342dc71b8f9bd015a2736fd643761181d7d43b1f5235b41d81101ace552a","features":{"default":["lldp","document","nfc"],"document":[],"lldp":[],"nfc":[]},"yanked":false,"links":"tlv","rust_version":"1.82","pubtime":"2026-11-01T14:32:22Z"}
+{"name":"opentlv-sys","vers":"0.2.2","deps":[],"cksum":"7cf440936c85a74683534428080202061487e66daa110c0c5c83fa2872fba8a8","features":{"default":["lldp","document","nfc"],"document":[],"lldp":[],"nfc":[]},"yanked":false,"links":"tlv","rust_version":"1.82","pubtime":"2026-11-03T11:01:43Z"}
