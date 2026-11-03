@@ -22,3 +22,4 @@
 {"name":"ic-logging","vers":"0.24.1","deps":[],"cksum":"b57f8628fc49c3dc70b644a6566ea5d02cdee57bdc5f3382c501c8799e485a4d","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-02T11:45:34Z"}
 {"name":"ic-logging","vers":"0.24.2","deps":[],"cksum":"c2c39b9656c998f08d2f5da3fc936ea394c809bc631b373d15df1e762ed0aad0","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-02T18:34:20Z"}
 {"name":"ic-logging","vers":"0.24.3","deps":[],"cksum":"2987abc85007425acc12528f8ad9d72cde96b6dfa33e8ac77d7339848aeb4863","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-02T19:56:20Z"}
+{"name":"ic-logging","vers":"0.24.4","deps":[],"cksum":"51f91df8c34f3997dda62df829b222678314652bd8244f0d54fadcb35f1fb9b3","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-03T11:33:41Z"}
