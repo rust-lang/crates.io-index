@@ -1,0 +1,1 @@
+{"name":"filer-pack","vers":"0.0.2","deps":[{"name":"filer-api","req":"^0.0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b08318c208c711d0e53a6fcd81554726bede1b960342aa0c9d4309a2bd0ace70","features":{"all":[],"default":["all","std"],"std":["filer-api/std"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-03T22:07:30Z"}
