@@ -1,0 +1,1 @@
+{"name":"ruf4-stdext","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"7e0b56a889efcd4157b615584faa7784d736703d1911180eb5a26b7708202143","features":{"single-threaded":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-03T06:57:18Z"}
