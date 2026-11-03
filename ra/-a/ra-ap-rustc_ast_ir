@@ -74,3 +74,4 @@
 {"name":"ra-ap-rustc_ast_ir","vers":"0.180.0","deps":[],"cksum":"dc1c3f764741841792913cc61241dbc8429796e1c176365e82746c72d2d614da","features":{"nightly":[]},"yanked":false,"pubtime":"2026-11-01T06:29:33Z"}
 {"name":"ra-ap-rustc_ast_ir","vers":"0.181.0","deps":[],"cksum":"2dacd250a836c40b35acfb65355d08d485e438d6e3aa5a14ddd4b420751bc399","features":{"nightly":[]},"yanked":false,"pubtime":"2026-11-01T08:15:00Z"}
 {"name":"ra-ap-rustc_ast_ir","vers":"0.182.0","deps":[],"cksum":"f064dfe668f7a6b0de5d27345c1627b43f912fd7bc600122c0992599278656a3","features":{"nightly":[]},"yanked":false,"pubtime":"2026-11-03T00:49:20Z"}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.183.0","deps":[],"cksum":"4a99466fdbabad2e6440c8a113532e32e5a4c714697387e65b064b6123a0b180","features":{"nightly":[]},"yanked":false,"pubtime":"2026-11-03T14:25:27Z"}
