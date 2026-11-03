@@ -19,3 +19,4 @@
 {"name":"openlogi-device-registry","vers":"0.8.18","deps":[],"cksum":"6aed7032f50e0261a53c87d1d2a2ef352004a420dbdbf58fbc55f55fc6b384bd","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-25T20:13:30Z"}
 {"name":"openlogi-device-registry","vers":"0.8.19","deps":[],"cksum":"00cb92cdf2ca086426680c4e86bb5945a28a41f263a5696289c57a58121e38ac","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-29T15:39:38Z"}
 {"name":"openlogi-device-registry","vers":"0.8.20","deps":[],"cksum":"f8b72a14b7e9ba5c85d50fc124ac7f16bdd3cd1161b653ff37fdc02bcd531f8b","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T11:40:32Z"}
+{"name":"openlogi-device-registry","vers":"0.9.0","deps":[],"cksum":"3e8af88aa635989eac73e606c13aa3a0345416bd718c75fc9ae730fdb1f10698","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-03T20:22:12Z"}
