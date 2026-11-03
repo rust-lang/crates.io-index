@@ -1,0 +1,1 @@
+{"name":"escope-protocol","vers":"0.1.0","deps":[{"name":"minicbor","req":"^2.3.1","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"04dd480b1c6da5286743f15725b5423c58bf3d9c5337b395c65d4002d0d9a87b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-03T04:59:53Z"}
