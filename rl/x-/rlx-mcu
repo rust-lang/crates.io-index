@@ -1,0 +1,1 @@
+{"name":"rlx-mcu","vers":"0.2.20","deps":[{"name":"rlx-libm","req":"^0.2.20","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6dedc11ccd807fb24fa0a892bc5380e43a1b08666f526c8763ce392fe9cd7d1e","features":{"default":["std"],"dsp":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T01:59:24Z"}
