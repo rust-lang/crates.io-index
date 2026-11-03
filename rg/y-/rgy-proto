@@ -4,3 +4,4 @@
 {"name":"rgy-proto","vers":"0.1.3","deps":[],"cksum":"1e0442687aa2df1cefd91b76ce93a9f49336aef44a4ed4542ced2fc58387e2fe","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-01T12:48:57Z"}
 {"name":"rgy-proto","vers":"0.1.4","deps":[],"cksum":"326e3595c705c0af54deb0cf0059c84302d1c1d22c3c7161e7e0d856e5fd18e8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T14:14:28Z"}
 {"name":"rgy-proto","vers":"0.1.6","deps":[],"cksum":"6e33649c7290a264cd380cfc7b777f772945cc96f88aff6d39ae9a73ef76bef8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T16:37:18Z"}
+{"name":"rgy-proto","vers":"0.1.8","deps":[],"cksum":"95147ef07c654715953dc14903c5db2132220a0a0eff7fdcd5a2945719d17aba","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T19:26:29Z"}
