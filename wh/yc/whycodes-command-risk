@@ -1,0 +1,1 @@
+{"name":"whycodes-command-risk","vers":"0.6.29","deps":[{"name":"criterion","req":"^0.8","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"c6064c4863a1f684acfae487afd6a46df7531a39267be4ce0227305f6732154b","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-03T15:30:37Z"}
