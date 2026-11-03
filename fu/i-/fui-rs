@@ -27,3 +27,4 @@
 {"name":"fui-rs","vers":"0.4.0-alpha1","deps":[],"cksum":"52ffd9da676ff0351545162afc2c6e79d614c7a11eb79fef5435d7a674a609fb","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-11-03T08:05:53Z"}
 {"name":"fui-rs","vers":"0.4.0","deps":[],"cksum":"84ac776143602911dbb9cf58bfa65b801eb3f2c390884f2fd4e363e6477aa702","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-11-03T08:08:29Z"}
 {"name":"fui-rs","vers":"0.4.1-alpha1","deps":[],"cksum":"497dc3d9bdfb032a7fc5a5e06697c97ca8fa465682c5eaab49b08e68eb04f06e","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-11-03T13:17:39Z"}
+{"name":"fui-rs","vers":"0.4.1","deps":[],"cksum":"21382c6ad481a8e2faa35aa014a21213f3630bf20ee59b74fae6e6dc8e5f0c5f","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-11-03T13:21:59Z"}
