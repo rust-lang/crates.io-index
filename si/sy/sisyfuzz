@@ -1,0 +1,1 @@
+{"name":"sisyfuzz","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d3557507fb1279b650b26273f5599ad09b439456590599f90020e73d954f3ff","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-11-03T13:43:40Z","v":2}
