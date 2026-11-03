@@ -47,3 +47,4 @@
 {"name":"libpetri-event","vers":"10.0.0","deps":[],"cksum":"e915885423c9e4d9cd36129d2e1b6fa2d67ec9d97eccf8b20c58a94184ef9fa6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-05T14:14:39Z"}
 {"name":"libpetri-event","vers":"10.1.0","deps":[],"cksum":"dca99be1a29240660281bc030a837e34ded1d3fe6e9eac17e2a040c8079c60c8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-06T07:01:40Z"}
 {"name":"libpetri-event","vers":"11.0.0","deps":[],"cksum":"fdd30acdc0991af648eea4918c3536adeff8c3b89926837fd8b030af6345f373","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-08T19:08:45Z"}
+{"name":"libpetri-event","vers":"11.0.1","deps":[],"cksum":"140208490b5c155c1f77ed23603e050367bab406e0e04161672b13ad046155f0","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-03T14:30:32Z"}
