@@ -1,0 +1,1 @@
+{"name":"pagesift-syntax","vers":"1.1.0","deps":[{"name":"miniz_oxide","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fab7d7169d2d04cb9ab624ec5f96ceec71671d5e50c76e27550c3c147f474001","features":{"tools":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-04T08:16:44Z"}
