@@ -1,0 +1,1 @@
+{"name":"docboss-model","vers":"0.2.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"727c01478784c1950e6fe6092ffb037c6ce9f0d8aa2c75a048921064d6bd327a","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-11-04T20:44:59Z","v":2}
