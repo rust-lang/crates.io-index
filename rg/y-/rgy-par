@@ -4,3 +4,4 @@
 {"name":"rgy-par","vers":"0.1.4","deps":[],"cksum":"8e1a21e0a210c3a2d186ecf6ddbf4e2c930c2177ebaa7866435e46978911c2a9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T14:14:19Z"}
 {"name":"rgy-par","vers":"0.1.6","deps":[],"cksum":"b1ce164a4f652148611810a62fa2f90098ebf9389aa4cd70c25a56e81ac28f81","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T16:37:08Z"}
 {"name":"rgy-par","vers":"0.1.8","deps":[],"cksum":"825f7f95f50a386c70fc446859d910675a9ddca9eba71e86405d7e6524bdb088","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T19:26:19Z"}
+{"name":"rgy-par","vers":"0.1.9","deps":[],"cksum":"e2846d40105f8de7443b66ef241750e11aea0d5e16172ef72fc574cf3bf03139","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-04T02:40:53Z"}
