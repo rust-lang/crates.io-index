@@ -1,0 +1,1 @@
+{"name":"adamo-authorization","vers":"1.0.20-rc.2","deps":[{"name":"zenoh-keyexpr","req":"=1.9.0-adamo.1.0.20-rc.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"adamo-zenoh-keyexpr"}],"cksum":"06accdb4a38e39cac78a71a9b679d03aa691b8513a55e17a72e03d9fdd60b341","features":{},"yanked":false,"pubtime":"2026-11-04T23:46:30Z"}
