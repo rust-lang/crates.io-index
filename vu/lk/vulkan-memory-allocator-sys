@@ -1,0 +1,1 @@
+{"name":"vulkan-memory-allocator-sys","vers":"0.0.1","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"192b573fc331f4b9c446d187f9c84ef84cb4c291127d60976685fed7358b4c68","features":{},"yanked":false,"links":"vulkan_memory_allocator","rust_version":"1.85","pubtime":"2026-11-04T07:03:59Z"}
