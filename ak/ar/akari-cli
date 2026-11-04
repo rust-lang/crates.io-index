@@ -1,0 +1,1 @@
+{"name":"akari-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^4.6.7","features":["derive","color"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5321a7515939da48a96a507d713c51a4b254a5b0215a8ea4bf6927c9ba29ca0d","features":{},"yanked":false,"pubtime":"2026-11-04T12:48:58Z"}
