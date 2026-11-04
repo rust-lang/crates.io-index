@@ -1,0 +1,1 @@
+{"name":"blue-lang-kernel","vers":"0.0.150","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"f7bdf7ddea93c4a0b31f129bc728a113eece127a258105bb5548941e0549609e","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-11-04T00:47:55Z"}
