@@ -1,0 +1,1 @@
+{"name":"solitaire-tui-core","vers":"0.4.4","deps":[{"name":"ratatui","req":"^0.30.2","features":["std","layout-cache"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"651c8ab39414a35328c75732c6248035f86c96fea333443dd73241dc34696e38","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-04T19:44:28Z"}
