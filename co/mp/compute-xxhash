@@ -1,0 +1,1 @@
+{"name":"compute-xxhash","vers":"0.0.2","deps":[{"name":"twox-hash","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d8938016dfd615bd66e21c287c7921deb23abbefe90c56408c47c7282727ac93","features":{"all":["xxh64"],"default":["all","std"],"std":[],"xxh64":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T22:45:51Z"}
