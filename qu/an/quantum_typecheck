@@ -1,0 +1,1 @@
+{"name":"quantum_typecheck","vers":"0.0.1-alpha1","deps":[{"name":"quantum_parser","req":"^0.0.1-alpha1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87b79e6c0b575989f7d25a836062b46c79e2dcb409c495a8c29636c473300b58","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-04T10:55:12Z"}
