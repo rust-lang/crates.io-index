@@ -11,3 +11,4 @@
 {"name":"rusty_time-core","vers":"0.2.0","deps":[],"cksum":"d019985f57b6328019a09a08644e6f6e4172a700885d966f834a976f72b9beb4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-10T00:39:49Z"}
 {"name":"rusty_time-core","vers":"0.3.0","deps":[],"cksum":"f7052c38c451d7b3361cfa50673483f7fc2fb5ec494b361afc44ef1af8144a28","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-09T03:41:56Z"}
 {"name":"rusty_time-core","vers":"0.3.1","deps":[],"cksum":"44f9445bf24480eabedcbc777d8b3d8b4ca1d6c43df299d15d0e5c13fb8daa57","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-18T15:32:37Z"}
+{"name":"rusty_time-core","vers":"0.3.2","deps":[],"cksum":"b00f92b9ff3063f2356e04217f53fe887028f757d6a0e99988095a276107d29c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-04T18:15:56Z"}
