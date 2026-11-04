@@ -1,1 +1,2 @@
 {"name":"ufw-guard","vers":"0.1.0","deps":[],"cksum":"55233b0f2328409f6bc65fbf86375b7f8450d715e73d7f3c346b89b67a1b3101","features":{},"yanked":false,"pubtime":"2026-11-04T01:45:13Z"}
+{"name":"ufw-guard","vers":"0.2.0","deps":[{"name":"regex-lite","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ba06f5782b9f55e521ec77be82187031779d3343bf32618a3829aaf0fb3401d","features":{},"yanked":false,"pubtime":"2026-11-04T03:47:52Z"}
