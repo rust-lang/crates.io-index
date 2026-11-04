@@ -43,3 +43,4 @@
 {"name":"etcd-bin-vendored-linux-ppc64le","vers":"3.6.15","deps":[],"cksum":"f058929dd7a2d1ef4c717062758f676600eb4ad3b3aa87ac10813ad6a83b0ba5","features":{},"yanked":false,"pubtime":"2026-09-25T16:30:38Z"}
 {"name":"etcd-bin-vendored-linux-ppc64le","vers":"3.7.2","deps":[],"cksum":"96e274b6f93bf5a13dd6de015d9ef207912bc715b3a8d1d5edd84ecdc619c552","features":{},"yanked":false,"pubtime":"2026-09-25T16:33:29Z"}
 {"name":"etcd-bin-vendored-linux-ppc64le","vers":"3.5.35","deps":[],"cksum":"3a583d863b5fea153d126799ef82ee8d6541042b62b379f96722e0f5b17cf773","features":{},"yanked":false,"pubtime":"2026-11-04T00:03:45Z"}
+{"name":"etcd-bin-vendored-linux-ppc64le","vers":"3.6.16","deps":[],"cksum":"b13a462b6c435c6c69fc1548bc65a916a5a09039e9bcb10e58b8ecf940252245","features":{},"yanked":false,"pubtime":"2026-11-04T00:05:27Z"}
