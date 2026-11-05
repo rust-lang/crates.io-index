@@ -5,3 +5,4 @@
 {"name":"vulkane-kernels-source","vers":"0.19.0","deps":[],"cksum":"2b99d936f0e1232397ceb3c342f80b5a01498dce6e4f2de25f05162cfd87f822","features":{},"yanked":false,"pubtime":"2026-10-31T09:41:40Z"}
 {"name":"vulkane-kernels-source","vers":"0.20.2","deps":[],"cksum":"4abb6efa75d45b5e74883257b89b013cf3ffacef61397718b31db0f12e098d81","features":{},"yanked":false,"pubtime":"2026-11-01T05:27:09Z"}
 {"name":"vulkane-kernels-source","vers":"0.21.0","deps":[],"cksum":"4025cf8a9391a6d52f7d43aae6c176993a8de81995e7bb432668346a507f0ce7","features":{},"yanked":false,"pubtime":"2026-11-05T01:45:51Z"}
+{"name":"vulkane-kernels-source","vers":"0.21.1","deps":[],"cksum":"0e8b6ab6c1fe6011babff5a801abd40c1ad94e5942affd74de3289e0199b5b48","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-05T13:59:08Z"}
