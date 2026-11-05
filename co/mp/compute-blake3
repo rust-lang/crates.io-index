@@ -1,1 +1,2 @@
 {"name":"compute-blake3","vers":"0.0.2","deps":[],"cksum":"aeda505ea8f3fc2caac3a10c2cc3a1c7aae9d0d2c008cac185d53d1075fdd787","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T23:04:26Z"}
+{"name":"compute-blake3","vers":"0.0.3","deps":[],"cksum":"a5f07c9814bb01ff56a42196e291001262f2a444769c5778a0bca55d3f926cb2","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T07:27:15Z"}
