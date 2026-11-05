@@ -1,0 +1,1 @@
+{"name":"feathrise_scene_core","vers":"0.1.0","deps":[{"name":"bevy","req":"=0.19.1","features":["file_watcher","bevy_ui_widgets","jpeg","pbr_specular_textures"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e1395716aa8fe870b689e1e435d5b49630a3b138d6772936f80a3f01ac88e8c","features":{},"yanked":false,"pubtime":"2026-11-05T02:09:30Z"}
