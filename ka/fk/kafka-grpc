@@ -1,0 +1,1 @@
+{"name":"kafka-grpc","vers":"0.37.1","deps":[{"name":"grpc-dc","req":"^0.37.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c820c78c144215370ca82269bd906e8c4a634fc4832f36f4a96ee7141ce60aa8","features":{},"yanked":false,"pubtime":"2026-11-05T14:15:22Z"}
