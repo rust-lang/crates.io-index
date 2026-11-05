@@ -1,1 +1,2 @@
 {"name":"ukit-hash","vers":"0.1.8","deps":[],"cksum":"7d97e0525e88a65e464e438bb826c667d3e482f8c1499f87112a475100cbc666","features":{"alloc":[],"default":["fnv1a64"],"fnv1a64":[],"std":[]},"yanked":false,"pubtime":"2026-11-03T14:07:35Z"}
+{"name":"ukit-hash","vers":"0.1.9","deps":[],"cksum":"20ecd326f61832cb57cae20bede8c863331f2bd601627aeeb17b7b0154a759b6","features":{"alloc":[],"std":[]},"yanked":false,"pubtime":"2026-11-05T16:44:48Z"}
