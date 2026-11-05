@@ -4,3 +4,4 @@
 {"name":"tvm-ffi-sys","vers":"0.1.15","deps":[],"cksum":"a5d7cef549ad210501544ddcf0b55085393280d61b10dd9785e21889d3e6f7c3","features":{"testing":[]},"yanked":false,"pubtime":"2026-10-18T16:07:42Z"}
 {"name":"tvm-ffi-sys","vers":"0.1.15-post2","deps":[],"cksum":"f87f504ced3d8997ed7f761c024fab2f6a4f6c8fda81a377f1215aa92a5c4a16","features":{"testing":[]},"yanked":false,"pubtime":"2026-10-29T21:04:42Z"}
 {"name":"tvm-ffi-sys","vers":"0.1.16-rc0","deps":[],"cksum":"a76a967b91623603cf1fc1140b3e2baa1caf27fb6f3156f0bfe642711291e2ae","features":{"testing":[]},"yanked":false,"pubtime":"2026-11-04T19:46:11Z"}
+{"name":"tvm-ffi-sys","vers":"0.1.16-rc1","deps":[],"cksum":"a81cde0d0b76fc22f8f409318afc72da8675bc83b8523e421810b343f0e35c0d","features":{"testing":[]},"yanked":false,"pubtime":"2026-11-05T08:18:18Z"}
