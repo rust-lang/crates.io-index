@@ -1,0 +1,1 @@
+{"name":"feathrise_ui_widgets","vers":"0.1.0","deps":[{"name":"bevy","req":"=0.19.1","features":["file_watcher","bevy_ui_widgets","jpeg","pbr_specular_textures"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c82e561fa55e63d9b55d95fb50ae54e2b071b38e561f475c479cf745343c60d8","features":{},"yanked":false,"pubtime":"2026-11-05T05:57:12Z"}
