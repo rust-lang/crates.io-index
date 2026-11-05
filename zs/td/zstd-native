@@ -1,1 +1,2 @@
 {"name":"zstd-native","vers":"0.1.0+zstd.1.5.7","deps":[],"cksum":"3e827ff67a272387e0bd9ef3db7630c93e13125912bb0bb904805715b96ecd73","features":{"default":["std"],"portable":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-05T05:02:50Z"}
+{"name":"zstd-native","vers":"0.1.1+zstd.1.5.7","deps":[],"cksum":"bb51010123ce0be9753af02d8bf014ecb1a2bec78c4b59bb2447a9e92c8a037d","features":{"default":["std"],"portable":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-05T22:09:09Z"}
