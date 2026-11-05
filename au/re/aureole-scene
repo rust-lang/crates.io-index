@@ -1,0 +1,1 @@
+{"name":"aureole-scene","vers":"0.0.1-beta.1","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd9fd8214953bfec7153b30563a7bb0c6d4d8718570d7b7398d72581efa151c2","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-05T23:50:42Z"}
