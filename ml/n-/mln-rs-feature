@@ -1,0 +1,1 @@
+{"name":"mln-rs-feature","vers":"0.0.8","deps":[{"name":"geometry","req":"=0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"mln-rs-geometry"}],"cksum":"696fb56b3b70e0feea9f41ad0cd3ecbd9e79a93e0999d930e20c57e2b798e2b0","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T19:42:54Z"}
