@@ -1,2 +1,3 @@
 {"name":"diml","vers":"0.0.0","deps":[],"cksum":"e5d52c5bbbd10d379e386f1e3b95556c6651d85ab8b6a8806d967bfdb2a72787","features":{},"yanked":false,"pubtime":"2026-09-04T07:08:12Z"}
 {"name":"diml","vers":"0.1.0","deps":[{"name":"normalized-line-endings","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a60eccc8c4350d13e7b040b8cc02886e448897362adc5468e870d148e28c5cac","features":{},"yanked":false,"pubtime":"2026-10-06T17:35:25Z"}
+{"name":"diml","vers":"0.2.0","deps":[],"cksum":"cc7af09ac05ad2e11c054630b1eadb0820c94bb50c51125f4fe7efb5ed647f31","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-11-06T06:31:10Z"}
