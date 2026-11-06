@@ -1,0 +1,1 @@
+{"name":"consensus-machines","vers":"0.2.0","deps":[{"name":"quorum-machines","req":">=0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d931da7ee1ccedcbae74e3ac8427bc98860b825fa1989fff9f42db91d3922bf0","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T15:39:21Z"}
