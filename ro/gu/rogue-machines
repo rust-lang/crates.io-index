@@ -1,2 +1,3 @@
 {"name":"rogue-machines","vers":"0.1.0","deps":[],"cksum":"0cef8af18cfcacc6d23e29e14f958225379dc8d027d7d5998b497b805de4ddf8","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T09:27:43Z"}
 {"name":"rogue-machines","vers":"0.2.0","deps":[],"cksum":"670d7acbd70473b6e8744cdce4bef029551925825d5fb8312d54fbff698a0a32","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T12:51:52Z"}
+{"name":"rogue-machines","vers":"0.2.1","deps":[],"cksum":"c80e3ab9133a912517598ad96183bd8686b392181db310c42af300552d95f17b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T20:24:33Z"}
