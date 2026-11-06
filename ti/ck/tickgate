@@ -1,2 +1,3 @@
 {"name":"tickgate","vers":"0.1.0","deps":[],"cksum":"878481b9886ce0527113d03eadb9263a875dc87dafcdd5322de32c660dd4f31f","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-11-05T23:41:21Z"}
 {"name":"tickgate","vers":"0.1.1","deps":[],"cksum":"f89dcab4e7936dd8f82805ab1be074ecfe3463e0cff17b3d7c163fa6200b3fdc","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-11-05T23:52:48Z"}
+{"name":"tickgate","vers":"0.1.2","deps":[],"cksum":"68b354c05f34b61642126b657001bfe499998142ec24a999c02dcb0b8c63e38f","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-11-06T00:01:12Z"}
