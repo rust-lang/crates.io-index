@@ -1,2 +1,3 @@
 {"name":"harel-machines","vers":"0.1.0","deps":[],"cksum":"9e0ac9f78b57aa450f3a7fdf146aa498d22c94d4e198ddbaa45dacd4e49aec14","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T04:37:04Z"}
 {"name":"harel-machines","vers":"0.2.0","deps":[],"cksum":"bcebc289448746f774618df27ef10cd821a0b5f5c499aa9ef71309c5d04638fc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T12:51:44Z"}
+{"name":"harel-machines","vers":"0.2.1","deps":[],"cksum":"264e263e4f9e295a4c9e086db6e781d0130b0f8aaa72aa18163391e697549ff5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T20:23:32Z"}
