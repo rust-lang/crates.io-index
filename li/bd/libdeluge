@@ -1,0 +1,1 @@
+{"name":"libdeluge","vers":"0.1.0","deps":[{"name":"libdeluge-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4559ae7891a395296e4e1823f4141766714d06f85dd3a8379eae1853330f32dd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-06T14:35:54Z"}
