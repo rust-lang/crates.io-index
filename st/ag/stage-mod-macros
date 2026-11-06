@@ -1,1 +1,2 @@
 {"name":"stage-mod-macros","vers":"0.0.0","deps":[],"cksum":"5bd127174982713f6156506ddfcc5de1cb7570e0ac68f3b5d5f67e7e8b905087","features":{},"yanked":true,"pubtime":"2026-11-06T21:03:05Z"}
+{"name":"stage-mod-macros","vers":"0.19.0","deps":[{"name":"yaml-rust2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e25ae4a0aa08e2f3bdd84fd3378dcbad34f8b148cf672462157f280942cf508e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-06T21:55:16Z"}
