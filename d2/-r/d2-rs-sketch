@@ -1,0 +1,1 @@
+{"name":"d2-rs-sketch","vers":"0.1.0","deps":[{"name":"d2-rs-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14b4d5cde43b66784c94da5b17a0235b20218b7c9ec1d82797cf0585e1cef0f8","features":{"oracle-fixtures":[]},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-06T06:11:00Z"}
