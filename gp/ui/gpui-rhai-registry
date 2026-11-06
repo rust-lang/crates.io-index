@@ -17,3 +17,4 @@
 {"name":"gpui-rhai-registry","vers":"0.3.3","deps":[],"cksum":"ebb696294278d41508c03bf5933da297bd177b7b92e03748ad45161189491773","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-29T22:44:54Z"}
 {"name":"gpui-rhai-registry","vers":"0.4.0","deps":[],"cksum":"143b7b5c726aae88ae00fa337aefe7b8ee5c63eb0dcd1cd5a78be5d1aac3e912","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-31T14:16:39Z"}
 {"name":"gpui-rhai-registry","vers":"0.4.1","deps":[],"cksum":"db4f177f12fe412bbcd99fea8bdc99c5bc2357c4c31c2b2e7a2dd50df043e7c1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-06T03:40:11Z"}
+{"name":"gpui-rhai-registry","vers":"0.4.2","deps":[],"cksum":"d6db5b9047a735de7cc776500f4ca81b672e896b74435e16cc01c43991e9ee46","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T18:36:47Z"}
