@@ -3,3 +3,4 @@
 {"name":"hierarchyid","vers":"0.0.4","deps":[],"cksum":"2fe4800c9117d054fd6203a85e81b5f2f1d21e5b94bbe0e533d4c125447218be","features":{},"yanked":false,"pubtime":"2026-10-24T03:25:24Z"}
 {"name":"hierarchyid","vers":"0.0.5","deps":[],"cksum":"f3ead92cf896222a046e4abf2ce41700588b94ee1a03141ad4645ef62cf8616e","features":{},"yanked":false,"pubtime":"2026-10-27T03:42:55Z"}
 {"name":"hierarchyid","vers":"0.0.6","deps":[{"name":"smallvec","req":"^1.16.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"717d9f510f1e242919e3efff7e05469ef7fec397b9651b443bca38855a2278b1","features":{},"yanked":false,"pubtime":"2026-11-06T16:39:06Z"}
+{"name":"hierarchyid","vers":"0.0.7","deps":[{"name":"smallvec","req":"^1.16.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b6b163bfe43a5b2cd1d1ecc015d177334251d400ca8dc1a0df9a7498ece183c","features":{},"yanked":false,"pubtime":"2026-11-06T16:52:52Z"}
