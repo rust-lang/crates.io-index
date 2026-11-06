@@ -1,1 +1,2 @@
 {"name":"media-query-parse","vers":"0.1.0","deps":[],"cksum":"f93a1e4247a741c4a1d80414a107c4ddae6302e41b783de3eabcfbceca71727c","features":{},"yanked":false,"pubtime":"2026-08-22T22:40:36Z"}
+{"name":"media-query-parse","vers":"0.2.0","deps":[{"name":"css-tokenize","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b152f240adcab2252b8cbb87c5f6674ebd41b5940e54f7a002917131b8f69c1b","features":{},"yanked":false,"pubtime":"2026-11-06T04:53:28Z"}
