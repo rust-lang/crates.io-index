@@ -3,3 +3,4 @@
 {"name":"forthling","vers":"0.2.0","deps":[],"cksum":"06bb3a4fc78eafa967e7c5deabe1a9640e030f515b2777b9124e8d0d8798f255","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-01T18:50:09Z"}
 {"name":"forthling","vers":"0.2.1","deps":[],"cksum":"0f7a77e0f9b6c2d0feb8abb9c454315413705d6b560789372febe05f0d408973","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-02T10:16:47Z"}
 {"name":"forthling","vers":"0.2.2","deps":[],"cksum":"5c86ad24cb4c53efa6f42af53e851453a6da245fab4e0d2747883865312108d1","features":{"default":["help"],"help":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-05T18:53:16Z"}
+{"name":"forthling","vers":"0.2.3","deps":[],"cksum":"1529424ffb10fcc3c8989c9c508e32f13c3a64c8c6d3af21fae7c1aeb4cb6d82","features":{"default":["help"],"help":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-06T20:23:32Z"}
