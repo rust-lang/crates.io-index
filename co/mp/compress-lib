@@ -1,0 +1,1 @@
+{"name":"compress-lib","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"909dc9b3aaf6abc29d6172e87c4ca265383fde5d0ce9d881beb21ddd061ed317","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-06T05:27:55Z"}
