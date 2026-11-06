@@ -1,0 +1,1 @@
+{"name":"vix-oci","vers":"2.0.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b014e8b372d63c7e1f97950d60ae73e42e5ccfc81acbec19a0a2dff6a34e070c","features":{"default":["process"],"process":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-06T13:28:41Z"}
