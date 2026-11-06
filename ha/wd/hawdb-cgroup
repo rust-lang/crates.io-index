@@ -23,3 +23,4 @@
 {"name":"hawdb-cgroup","vers":"0.25.0","deps":[],"cksum":"d798ff21ae124cfc7bf4f7b4ab2a5f700628ca47087f8f9783a585715a691faa","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-02T10:24:16Z"}
 {"name":"hawdb-cgroup","vers":"0.26.0","deps":[],"cksum":"73b1000130d3def8232b59586085927454c52fd86363b0cae7bc79aed3c33698","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-04T01:19:16Z"}
 {"name":"hawdb-cgroup","vers":"0.27.0","deps":[],"cksum":"adb2f566fd749357cdb0ed4ba24509449fb4cb769e49e14f8542e6585a7cbb85","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-04T17:12:28Z"}
+{"name":"hawdb-cgroup","vers":"0.28.0","deps":[],"cksum":"34d01fe70172f1ccc19d7c0063c352ecfdcd5bf50d5ff6c13e6fcef3c9399bf5","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-06T05:46:37Z"}
