@@ -1,3 +1,4 @@
 {"name":"cameleer-core","vers":"0.2.0","deps":[],"cksum":"f693c7e83f61fd009a275cc1ea7f56aec70868a04629b7c935d570164f26f113","features":{},"yanked":false,"pubtime":"2026-11-05T08:33:55Z"}
 {"name":"cameleer-core","vers":"0.2.1","deps":[],"cksum":"cb114c57e5a8a3b2a1d057c744c34594b0ed29a825d15d3852a8e175ccda9b60","features":{},"yanked":false,"pubtime":"2026-11-05T12:15:51Z"}
 {"name":"cameleer-core","vers":"0.3.0","deps":[],"cksum":"62603da1ae51d88099333737866d70459e218f5c4d206111edccaf23a360b39a","features":{},"yanked":false,"pubtime":"2026-11-05T13:09:29Z"}
+{"name":"cameleer-core","vers":"0.4.0","deps":[],"cksum":"ab44fa0699b776982db766b2528dfd4aaac625eb7e1be0cdfd417a36c36fab98","features":{"default":["templates","jq","xpath"],"jq":[],"templates":[],"xpath":[]},"yanked":false,"pubtime":"2026-11-06T09:23:06Z"}
