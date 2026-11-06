@@ -1,0 +1,1 @@
+{"name":"vix-acp","vers":"2.0.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"195bc1795fd0cb9c4a6bb186ff497e160da5f069c294cc0a927431b3bbc9c225","features":{"default":[],"process":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-06T12:53:45Z"}
