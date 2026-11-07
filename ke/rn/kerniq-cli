@@ -1,0 +1,1 @@
+{"name":"kerniq-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d96f7ca5154d1cb38405eb58d8b3b315c7ca38119c654f2e334cd505d7ca0d65","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-07T15:22:29Z"}
