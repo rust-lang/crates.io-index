@@ -7,3 +7,4 @@
 {"name":"blobby","vers":"0.4.0-pre.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a859067dcb257cb2ae028cb821399b55140b76fb8b2a360e052fe109019db43","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-02-22T16:01:12Z"}
 {"name":"blobby","vers":"0.4.0-pre.1","deps":[],"cksum":"e4db6eec520c1f3d3b060c5b67527c3d1d4122d9f0ff47edf0149a7ffa34cebb","features":{"alloc":[]},"yanked":false,"rust_version":"1.85","pubtime":"2025-09-20T00:32:18Z"}
 {"name":"blobby","vers":"0.4.0","deps":[],"cksum":"89af0b093cc13baa4e51e64e65ec2422f7e73aea0e612e5ad3872986671622f1","features":{"alloc":[]},"yanked":false,"rust_version":"1.85","pubtime":"2025-10-08T15:02:41Z"}
+{"name":"blobby","vers":"0.4.1","deps":[],"cksum":"2a2d27f438abc673fba239d3767f7da4e1a10276280b412d90ca31bc2fbd76db","features":{"alloc":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T11:14:50Z"}
