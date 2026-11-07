@@ -198,3 +198,4 @@
 {"name":"http-constant","vers":"22.0.11","deps":[],"cksum":"03d6110659b4ea3ac9002b91298d46253f24167f6814a1f611f3be3766df1e20","features":{},"yanked":false,"pubtime":"2026-10-30T05:15:55Z"}
 {"name":"http-constant","vers":"22.1.0","deps":[],"cksum":"0b6682eaff8d9953e39e426772d5c98da10be9a2f415b31869ee0dcf68430834","features":{},"yanked":false,"pubtime":"2026-10-31T03:27:30Z"}
 {"name":"http-constant","vers":"22.1.1","deps":[],"cksum":"770787aefab150784f92db83f75bfdfbc60c89eabe72f9fd32f13fa2d52b5547","features":{},"yanked":false,"pubtime":"2026-11-07T07:54:06Z"}
+{"name":"http-constant","vers":"22.2.0","deps":[],"cksum":"14d55b58f31367c27e95555e47cebdda693963f8d6194f0e595b5e7a3cc8ee5f","features":{},"yanked":false,"pubtime":"2026-11-07T08:05:41Z"}
