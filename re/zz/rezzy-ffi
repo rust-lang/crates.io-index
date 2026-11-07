@@ -1,0 +1,1 @@
+{"name":"rezzy-ffi","vers":"0.6.0-rc.1","deps":[{"name":"rezzy","req":"^0.6.0-rc.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ff0f1c91f07ab8b1774ba9fb8302c25ae13a04cce3cbe0214c7a94c73847bbf7","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-07T14:20:55Z"}
