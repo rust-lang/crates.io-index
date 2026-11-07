@@ -1,0 +1,1 @@
+{"name":"stringbytes","vers":"0.0.1","deps":[{"name":"bytes","req":"1.12.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3df75090655218eb67798ac8a6d5f1639631340e2f96b15bc692990bd326332c","features":{},"features2":{"bytes":["dep:bytes"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-07T15:38:00Z","v":2}
