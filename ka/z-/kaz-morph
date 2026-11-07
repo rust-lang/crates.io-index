@@ -1,0 +1,1 @@
+{"name":"kaz-morph","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d5a8e30208342f9ddc15afede1d46fe2015f286653beb0cd5e3e6403e11c5ffc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T01:21:14Z"}
