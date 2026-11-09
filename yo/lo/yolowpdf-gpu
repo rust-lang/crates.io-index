@@ -1,0 +1,1 @@
+{"name":"yolowpdf-gpu","vers":"0.1.0","deps":[{"name":"yolowpdf-infer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"610f42e592352c196e360bb4a259c0a7b864db77aaf53181424ca47076f81d27","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-09T16:14:27Z"}
