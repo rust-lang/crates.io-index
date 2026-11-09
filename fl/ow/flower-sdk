@@ -1,0 +1,1 @@
+{"name":"flower-sdk","vers":"0.0.20261105","deps":[{"name":"flower-sdk-macros","req":"^0.0.20261105","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9768370e23aa1f89a13b86208b0c03626319725ae1cc9c28a3fb0eb3c629ccfe","features":{"native-host":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-06T10:27:30Z"}

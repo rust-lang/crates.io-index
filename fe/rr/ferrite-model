@@ -1,0 +1,2 @@
+{"name":"ferrite-model","vers":"0.1.0","deps":[],"cksum":"7c314ce6918579bed5293d2d241bf8bdf224bd4ed09ba4dc0c65c8ec67e7a2ae","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-10T21:39:32Z"}
+{"name":"ferrite-model","vers":"0.2.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f2315b7b211e1c8858b1f2b06e639403e0ca0c7472d9e8a68ea17ec04a5a36","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T16:18:51Z"}

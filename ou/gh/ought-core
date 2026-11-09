@@ -1,0 +1,1 @@
+{"name":"ought-core","vers":"0.2.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85f0394fb1e8ccf40e2301fb0dd89b4cfcd09c470605f79c8e6cfae044837a21","features":{},"yanked":false,"pubtime":"2026-04-25T01:21:29Z"}

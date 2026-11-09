@@ -1,0 +1,1 @@
+{"name":"bcode_session_import","vers":"0.0.1-alpha.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"28196e807c6f1fca1629384bb24cad4713f168eca6fcc543a8d58b7671fe9450","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-10-17T22:57:32Z"}

@@ -1,0 +1,1 @@
+{"name":"grpcuds-build","vers":"0.1.0","deps":[{"name":"prost-build","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e326334d24baf7fff8bf168dc4b9c86a72991e0b512fd0c0424b8104d63358","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T00:32:31Z"}

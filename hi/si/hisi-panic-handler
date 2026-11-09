@@ -1,0 +1,1 @@
+{"name":"hisi-panic-handler","vers":"0.1.0","deps":[],"cksum":"82838ac70a30951282f15df5741eeb38f748f5347d419c91b93751ceccc49876","features":{"default":["panic-halt"],"panic-halt":[],"panic-uart0":[]},"yanked":false,"pubtime":"2026-07-22T18:26:54Z"}

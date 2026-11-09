@@ -1,0 +1,1 @@
+{"name":"jakkals","vers":"0.0.0","deps":[{"name":"clap","req":"^4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6058f2cadf0fe0b096002de87634e4068a0bb442e70572a638d2a52d47dacec","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-29T13:24:27Z"}

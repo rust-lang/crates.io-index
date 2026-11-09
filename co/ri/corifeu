@@ -1,0 +1,1 @@
+{"name":"corifeu","vers":"0.0.0","deps":[{"name":"clap","req":"^4.5.23","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbb3ccbdae4f58c37a2f5a901b69e9d8d15ab05f81d5316eb7ed741ca2db53eb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-12T21:18:08Z"}

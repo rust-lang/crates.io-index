@@ -1,0 +1,1 @@
+{"name":"filer-proto","vers":"0.11.0","deps":[{"name":"web-time","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"1891b279a15a9e9bb8209159b86e44607b464c737827153d459aa2cce1dfab78","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T02:45:53Z"}

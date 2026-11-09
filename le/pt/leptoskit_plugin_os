@@ -1,0 +1,2 @@
+{"name":"leptoskit_plugin_os","vers":"0.0.0","deps":[],"cksum":"c9c76e234723174851bea5e198c216626fda96868bc0a3d71f1df5e4565ef06e","features":{},"yanked":false,"pubtime":"2026-10-24T12:54:37Z"}
+{"name":"leptoskit_plugin_os","vers":"0.3.0","deps":[{"name":"leptoskit_bridge","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1817ba703ffe42d84f79e78e93f73f21c8b83b43944717a1273f1c8af938c2c2","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-11-07T08:47:36Z"}

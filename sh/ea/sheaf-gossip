@@ -1,0 +1,1 @@
+{"name":"sheaf-gossip","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71bc7a89b8af2fe481bea5e39e601d40f367321584cf71777729198d78965e86","features":{},"yanked":false,"pubtime":"2026-06-07T04:21:58Z"}

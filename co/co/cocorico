@@ -1,0 +1,1 @@
+{"name":"cocorico","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"18417d419b10ac224be147b2c3f04bb04ba1ee3fa3d06a01704432228f0096e3","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-12T09:50:09Z"}

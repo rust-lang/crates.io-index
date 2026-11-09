@@ -1,0 +1,1 @@
+{"name":"cvra-rs","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb31a83d8a56aee81328391e42e938e65c7b0c5908e6b0158a7fb8f5c7587fbd","features":{},"features2":{"default":["zstd"],"zstd":["dep:zstd"]},"yanked":false,"pubtime":"2026-11-01T20:46:43Z","v":2}

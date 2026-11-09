@@ -1,0 +1,1 @@
+{"name":"bum","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.7","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"54c3ceb731fe1c79873efc3522bf187a04640968de31733cebce434861bcdd33","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-04T12:24:51Z"}

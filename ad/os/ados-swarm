@@ -1,0 +1,1 @@
+{"name":"ados-swarm","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"306f28ce11a481b676f3a2785b18f54c9ab8b664c0b844eff0eec450b22c848b","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-22T09:35:20Z"}

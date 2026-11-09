@@ -1,0 +1,1 @@
+{"name":"expat","vers":"0.1.0-beta.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c0dc55ad7938332ca7356b51c68f033cb53479b0a1a3928c088d4c6a08f2d572","features":{"default":["std"],"internal-api":[],"std":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-18T11:35:35Z"}

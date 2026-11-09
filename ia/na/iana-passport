@@ -1,0 +1,1 @@
+{"name":"iana-passport","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"445659beb833e835264a61c87c488dd92df31f9528d44675d20bcec78d5d8f99","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T03:27:32Z"}

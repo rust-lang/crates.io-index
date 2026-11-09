@@ -1,0 +1,1 @@
+{"name":"cipherrun-probes","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c569916386fd313a456b94f62711e2fd631323e0aa172632f95a198857fd5909","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-25T17:18:47Z"}

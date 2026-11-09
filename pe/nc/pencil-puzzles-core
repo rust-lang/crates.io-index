@@ -1,0 +1,1 @@
+{"name":"pencil-puzzles-core","vers":"0.3.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67dd81d95a5bf7c36bc8c7d4a3ef002d95fa98d3c77de9b5b0044acd3236f467","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-08T23:06:47Z","v":2}

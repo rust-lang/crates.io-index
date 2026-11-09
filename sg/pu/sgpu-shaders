@@ -1,0 +1,1 @@
+{"name":"sgpu-shaders","vers":"0.1.0","deps":[{"name":"spirv-std","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f853e6e634cec2fa99bd8d8b75b6857f68ca838b8e5df6a09be7f833cdb5bf0d","features":{},"yanked":false,"pubtime":"2026-10-24T06:12:12Z"}

@@ -1,0 +1,1 @@
+{"name":"lean-log","vers":"0.1.0","deps":[],"cksum":"3607fed5be83da0e6270f3650c6aa3d0cc235b10cd3f883fee38d4a72e9a5b99","features":{"default":["max_debug"],"disabled":[],"max_debug":["max_info"],"max_error":[],"max_info":["max_notice"],"max_notice":["max_warn"],"max_trace":["max_debug"],"max_warn":["max_error"]},"yanked":false,"pubtime":"2026-03-22T08:06:41Z"}

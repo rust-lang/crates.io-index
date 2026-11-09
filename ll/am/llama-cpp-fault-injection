@@ -1,0 +1,1 @@
+{"name":"llama-cpp-fault-injection","vers":"0.28.0","deps":[{"name":"llama-cpp-bindings-sys","req":"=0.28.0","features":["fault-injection"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ece88ba090fb5db2dc3e3b7591bbdc7b6994fa35d9a8b8f1bdac4f039f77e185","features":{},"yanked":false,"pubtime":"2026-11-06T03:38:59Z"}

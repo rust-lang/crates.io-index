@@ -1,0 +1,5 @@
+{"name":"purrdf-hash","vers":"0.0.0","deps":[],"cksum":"4354af1e8ac9bc1dd5985b9d84f00d465839f1b746bc082eb972a0a40db6b8de","features":{},"yanked":true,"pubtime":"2026-10-01T08:12:00Z"}
+{"name":"purrdf-hash","vers":"3.0.0","deps":[],"cksum":"a9a8bc7ff642fa4b72d108441c989f504bb010714a9fc6f632b4341262694c9e","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-02T10:25:16Z"}
+{"name":"purrdf-hash","vers":"3.0.1","deps":[],"cksum":"bd021886ad0790918ec3501c47f952f98cc60474340fe4dad8df1f4b77471a91","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-02T23:44:19Z"}
+{"name":"purrdf-hash","vers":"4.0.0","deps":[],"cksum":"a3bb9beec719fdbadfd6b81ddc666b48682cada7447a59ad703f6ec529315452","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T04:56:39Z"}
+{"name":"purrdf-hash","vers":"4.0.1","deps":[{"name":"purrdf-alloc-probe","req":"^4.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f11abbb47cfffb3754d9381c60e78f0249be6cae45a669eb6120efa25e6b7b60","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T17:23:36Z"}

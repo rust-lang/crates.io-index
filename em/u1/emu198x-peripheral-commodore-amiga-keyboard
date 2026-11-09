@@ -1,0 +1,1 @@
+{"name":"emu198x-peripheral-commodore-amiga-keyboard","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aba1f6946288b9b82eeeeabedfb2e78d6a3c76ef74962b8879ddd58a88dfda8","features":{},"yanked":false,"pubtime":"2026-10-26T15:02:23Z"}

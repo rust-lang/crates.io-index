@@ -1,0 +1,1 @@
+{"name":"deluge-panel-protocol","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"afd3b0cc8bd0c0fb2feb417b2719cae42d73fbc48724521a814e7b070e44c9fb","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-06T14:35:39Z"}

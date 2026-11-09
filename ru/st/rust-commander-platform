@@ -1,0 +1,1 @@
+{"name":"rust-commander-platform","vers":"0.2.2","deps":[{"name":"windows-sys","req":"^0.61","features":["Win32_System_Console"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"45bd7abb01459d119545e8a5f9766a9a225883425578f60c00ee0a9baad40d39","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-12T03:05:37Z"}

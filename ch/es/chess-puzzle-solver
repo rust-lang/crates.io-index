@@ -1,0 +1,1 @@
+{"name":"chess-puzzle-solver","vers":"0.1.0","deps":[{"name":"shakmaty","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e152ebc1426fbf80ec2cac8796af80893c9edddb4f7156fb160096ceac6588a1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-21T06:34:53Z"}

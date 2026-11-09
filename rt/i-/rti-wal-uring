@@ -1,0 +1,1 @@
+{"name":"rti-wal-uring","vers":"0.8.0","deps":[{"name":"io-uring","req":"^0.7","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"71f6419a2aa32812963b5c780dcda3f23833cf2cbe70113e3918fa31d70d12e9","features":{},"yanked":false,"pubtime":"2026-09-11T14:29:05Z"}

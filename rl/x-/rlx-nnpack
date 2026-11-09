@@ -1,0 +1,1 @@
+{"name":"rlx-nnpack","vers":"0.2.19","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d51c5af8634fc2370844556c8dba326b4532a8059661a4d37fabaafaca9209e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-25T21:19:26Z"}

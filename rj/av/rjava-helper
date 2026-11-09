@@ -1,0 +1,1 @@
+{"name":"rjava-helper","vers":"0.1.0","deps":[{"name":"jni","req":"^0.22","features":["invocation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d9c1de1e0fdd47b92ac90b8c502a55f2d917afe8ce5a8a63248aa56b78b708e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-08T05:18:57Z"}

@@ -1,0 +1,1 @@
+{"name":"opencolorio-rs-formats","vers":"1.0.0+ocio.2.5.2","deps":[{"name":"ocio-ops","req":"=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"opencolorio-rs-ops"}],"cksum":"d22b7a1682d184d5f647e857ec279bd0da7c3ba6f29fb33ccc6a36b2f7a0e6d5","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-05T14:33:16Z"}

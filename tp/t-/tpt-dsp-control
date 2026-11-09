@@ -1,0 +1,3 @@
+{"name":"tpt-dsp-control","vers":"0.1.0","deps":[],"cksum":"737b1dd084880fcf2880c771428f7c39d6cdc75d33e49f21d52c05e96b5357f5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-26T08:07:14Z"}
+{"name":"tpt-dsp-control","vers":"0.2.0","deps":[],"cksum":"fe301d9b04a71df7632469e1236264b05e935340bf3d8e773910302d59beb903","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-01T07:37:25Z"}
+{"name":"tpt-dsp-control","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4986b9c647ddd5471ebbc37e1c8f75d9fdbeb5a22368efe39967e8d883534e52","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T00:56:10Z"}

@@ -1,0 +1,2 @@
+{"name":"rprotobuf","vers":"0.1.0","deps":[],"cksum":"54dab842d0a10e3b282c7086013f6ddecd131583395100ef59430c9099f1d09e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-25T18:52:08Z"}
+{"name":"rprotobuf","vers":"0.2.0","deps":[{"name":"loopbuf","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"934c16db50394b739b6c0e19daccae203049bf55312a553ac5f77a06a21a6e67","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-01T17:29:24Z"}

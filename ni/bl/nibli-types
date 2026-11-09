@@ -1,0 +1,1 @@
+{"name":"nibli-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36c4dc8e37c9e5cb834be947dbc1e0c8739a4b5dc93338eebf54fa1decb18ad5","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-08-03T03:45:36Z","v":2}

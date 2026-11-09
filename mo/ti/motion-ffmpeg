@@ -1,0 +1,1 @@
+{"name":"motion-ffmpeg","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72","features":["runtime"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"44f8a38b72376610a40daa1c97f0b2b6d1d7204309823d563b0cc92409123650","features":{},"yanked":false,"links":"motion_ffmpeg","rust_version":"1.99","pubtime":"2026-11-08T06:04:34Z"}

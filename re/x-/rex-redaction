@@ -1,0 +1,1 @@
+{"name":"rex-redaction","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b8f1249c11ab2cd2300b2018e254aa1e4fddbbca64eca3c1591318380e7b677","features":{"redaction-converter":[]},"yanked":false,"pubtime":"2026-04-27T21:32:13Z"}

@@ -1,0 +1,3 @@
+{"name":"compute-blake2","vers":"0.0.2","deps":[],"cksum":"72af6bfc3b5cf208a4709ab058f1354fd387e87d163c020dd6c07795f1dcb042","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T23:04:23Z"}
+{"name":"compute-blake2","vers":"0.0.3","deps":[],"cksum":"998c5dcf47498de00f0d25fbd63ff0d6e12c430635622484f5439fbf96d337ec","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T07:27:14Z"}
+{"name":"compute-blake2","vers":"0.0.4","deps":[],"cksum":"71ad7f443d0e6e3c78bdd10113f7383a95b7ab0264afedea202b6c72855601f5","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T11:45:42Z"}

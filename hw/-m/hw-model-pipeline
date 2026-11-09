@@ -1,0 +1,1 @@
+{"name":"hw-model-pipeline","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.49","features":["macros","rt"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"aa64462578adb723e5064ae53b21d946c965a000619ba3ff7035ae5a01e5d8d0","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-28T03:41:15Z"}

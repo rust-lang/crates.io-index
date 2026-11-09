@@ -1,0 +1,2 @@
+{"name":"tensor-id","vers":"0.0.0","deps":[],"cksum":"17bb35b8b9e04c88ac64f05786a5c5f38e6dd2671505c62dd2d498c7e5cc4b56","features":{},"yanked":false,"pubtime":"2026-08-06T07:35:29Z"}
+{"name":"tensor-id","vers":"0.1.0","deps":[{"name":"blake3","req":"^1","features":["pure"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3df8f10d8c72be4fc14a165851685070e803c4c56db76f1553a99f7c1bf50eb6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-09T10:34:58Z"}

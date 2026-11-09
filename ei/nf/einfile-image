@@ -1,0 +1,1 @@
+{"name":"einfile-image","vers":"0.1.0","deps":[{"name":"einfile-crc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2860671041a83fdf56ec4542487d4b0f8702c6c678e77e1bb44747212a449b7","features":{"default":[],"std":["einfile-crc/std"]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-06T12:53:32Z"}

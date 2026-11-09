@@ -1,0 +1,1 @@
+{"name":"dwanim-core","vers":"1.0.0","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6da83758ef0fe160eb31631addae07196444b3dc44b57a663af9e9f7d76fe69","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-03T12:03:48Z"}

@@ -1,0 +1,1 @@
+{"name":"idyll-wit","vers":"0.1.0","deps":[{"name":"wasmtime","req":"^46","features":["component-model","runtime"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a7d426ecdf6265a42219aed8b1d75121b3a512e10f60adcc158bceaf8945a70","features":{},"features2":{"host":["dep:wasmtime"]},"yanked":false,"pubtime":"2026-09-23T18:15:18Z","v":2}

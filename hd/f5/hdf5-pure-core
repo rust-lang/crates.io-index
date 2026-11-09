@@ -1,0 +1,1 @@
+{"name":"hdf5-pure-core","vers":"0.48.0-rc.1","deps":[{"name":"rstest","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e04935227e81a22740e120eecfcbc6064d1c9a7ccadec37f7c2b599a6b9ab3ab","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-07T23:08:48Z"}

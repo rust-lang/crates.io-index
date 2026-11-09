@@ -1,0 +1,1 @@
+{"name":"cvlite","vers":"0.1.0","deps":[{"name":"image","req":"^0.25","features":["png","jpeg"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"d711cadfd02bb523284e263292d8668289853e407164441da868376c1a1b7419","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-30T14:56:19Z"}

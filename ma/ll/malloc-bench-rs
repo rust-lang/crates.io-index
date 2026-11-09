@@ -1,0 +1,1 @@
+{"name":"malloc-bench-rs","vers":"0.1.0","deps":[{"name":"mimalloc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2b39d14ce1c2bb3463491066b5382ac0a51e67ccbeb73956c4bff44acda5e84","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T17:31:47Z"}

@@ -1,0 +1,2 @@
+{"name":"rsint","vers":"0.1.0","deps":[],"cksum":"8ce055394698b46986161a912dab4b6a13dcb1ec08024110a29557cd89b269b0","features":{},"yanked":false,"pubtime":"2026-10-27T14:23:47Z"}
+{"name":"rsint","vers":"0.1.1","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b876519dfc7bc9760e87c5d76d754ce95741f4b5187fc252d44dad5a82f3f3b","features":{},"yanked":false,"pubtime":"2026-11-05T11:31:39Z"}

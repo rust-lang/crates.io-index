@@ -1,0 +1,1 @@
+{"name":"linux_notif","vers":"0.0.0","deps":[{"name":"zbus","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0433ca4575f5de48c0c1be62355f14677590490274b4e8b29add4fe1ae913c5","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-18T05:16:51Z"}

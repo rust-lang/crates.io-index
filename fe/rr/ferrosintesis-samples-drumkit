@@ -1,0 +1,2 @@
+{"name":"ferrosintesis-samples-drumkit","vers":"0.1.0","deps":[],"cksum":"006e4f965a1a6d99b2952769ccd3ffdfc89a5ac5f700fdd84e7bf292c850080a","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-31T06:05:43Z"}
+{"name":"ferrosintesis-samples-drumkit","vers":"0.2.0","deps":[{"name":"ferrosintesis-flac","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b57b772660d0eabdb2d766c91de6018e494fcdc8ca532b6aae4edd3b77f0452","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-17T21:24:36Z"}

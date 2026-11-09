@@ -1,0 +1,1 @@
+{"name":"mceliece348864","vers":"1.0.0","deps":[{"name":"classic-mceliece-rust","req":"^3.1","features":["mceliece348864","alloc","zeroize"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"756edd5b745c49e925072a3f0e2a3abaecf60addd3916680f5b56c01d226a548","features":{},"yanked":false,"pubtime":"2026-07-13T17:33:04Z"}

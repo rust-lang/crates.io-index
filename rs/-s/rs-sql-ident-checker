@@ -1,0 +1,1 @@
+{"name":"rs-sql-ident-checker","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.21","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"262d0e43bf9ad63b0c3678bd7ff97ebf195365fe5c0e0c16af29775214492eb7","features":{},"yanked":false,"pubtime":"2026-10-30T23:10:32Z"}

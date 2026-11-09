@@ -1,0 +1,1 @@
+{"name":"peptide-rs","vers":"1.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e43cc2bfe3b5402819ce233e5d541b7639ff74f22320093757e0e7cd516180b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-23T12:18:45Z"}

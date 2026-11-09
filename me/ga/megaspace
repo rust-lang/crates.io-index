@@ -1,0 +1,1 @@
+{"name":"megaspace","vers":"0.1.0","deps":[{"name":"rmx","req":"^0.0.8","features":["rmx-profile-cli","rmx-profile-net","comrak","tera"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rustmax"}],"cksum":"802511ade9f052118a3891d3cde81d816ca56bf8275f3df2de5587c178e2332a","features":{},"yanked":false,"pubtime":"2026-08-23T03:12:27Z"}

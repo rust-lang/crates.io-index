@@ -1,0 +1,2 @@
+{"name":"monero-primitives","vers":"0.0.1","deps":[],"cksum":"4b479307621e3d00a8b48bbf414a2402a58df0f189802b9733d79bf706120a27","features":{},"yanked":false,"pubtime":"2024-12-05T13:41:50Z"}
+{"name":"monero-primitives","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"721e7f3a20b3330a14b4dded49c20b7e6614e782112256e7970d20be2368d963","features":{"default":["std"],"std":["sha3/std"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-07-31T21:08:48Z"}

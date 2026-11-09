@@ -1,0 +1,1 @@
+{"name":"securom_unwrap","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b1818a5e15e2e45cf10dcb23a8ef873780d04918d37d5b81da22abd6be48dea","features":{},"yanked":false,"pubtime":"2026-11-03T17:36:02Z"}

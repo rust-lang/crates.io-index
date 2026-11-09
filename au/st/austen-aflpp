@@ -1,0 +1,1 @@
+{"name":"austen-aflpp","vers":"0.0.1","deps":[{"name":"austen-lib","req":"^0.0.1","features":["driver"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75e111d92018d800137740b4f01dd2b5ca5a67c125568bbf63099922fb363d88","features":{"vendored":[]},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-10-30T10:42:38Z"}

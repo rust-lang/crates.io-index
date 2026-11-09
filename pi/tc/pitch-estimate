@@ -1,0 +1,1 @@
+{"name":"pitch-estimate","vers":"0.1.0","deps":[{"name":"realfft","req":"^3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b5221ef8b612c7339bf1d6871585024b83353f00f7e3f4e1c8ae25e58bbaba3","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-22T15:22:19Z"}

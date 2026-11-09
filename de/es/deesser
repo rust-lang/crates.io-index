@@ -1,0 +1,1 @@
+{"name":"deesser","vers":"0.1.0","deps":[{"name":"hound","req":"^3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed438b6a473d4cfccc1e001437a41e019da93c1fe7e56e1ceb73df2cb71cb12b","features":{},"features2":{"cli":["dep:hound"],"default":["cli"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-04T10:30:44Z","v":2}

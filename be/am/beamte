@@ -1,0 +1,1 @@
+{"name":"beamte","vers":"0.1.0","deps":[{"name":"treebank","req":"^0.3","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d369373b6cfa7fd9d2e8c8716ff29a31b111aabdb3ecaf26d07d60b218df553b","features":{},"features2":{"default":["manifests"],"manifests":["dep:treebank"]},"yanked":false,"pubtime":"2026-08-30T11:03:53Z","v":2}

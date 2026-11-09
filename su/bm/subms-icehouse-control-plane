@@ -1,0 +1,1 @@
+{"name":"subms-icehouse-control-plane","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43019b6775be6e4c4236c919b503e6a134a367474ad93ffccae7d7fd536f4cfc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-11T12:58:15Z"}

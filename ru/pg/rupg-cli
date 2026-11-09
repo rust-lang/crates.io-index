@@ -1,0 +1,1 @@
+{"name":"rupg-cli","vers":"0.1.84","deps":[{"name":"rupg","req":"=0.1.84","features":["server"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad6d85cf2f2144f7a36c19a3f6c6352700dbe2be6c570a35b8ff73ee3341bda6","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-25T16:20:22Z"}

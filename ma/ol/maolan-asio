@@ -1,0 +1,1 @@
+{"name":"maolan-asio","vers":"0.0.1","deps":[{"name":"windows","req":"^0.62.2","features":["Win32_Foundation","Win32_System_Com","Win32_System_Registry"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"b1c08352937a4a2392be4e664f583ec8841a469d24408bfaecbf98442613ea11","features":{},"yanked":false,"pubtime":"2026-10-16T18:00:19Z"}

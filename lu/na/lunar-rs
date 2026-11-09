@@ -1,0 +1,2 @@
+{"name":"lunar-rs","vers":"0.1.0","deps":[],"cksum":"1681f1774120758fc92dea38081b320f27c6b4e1517bb54db6b5df1eabd6ea03","features":{},"yanked":false,"pubtime":"2023-11-11T07:06:35Z"}
+{"name":"lunar-rs","vers":"1.0.0-rc1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95e5de2c9e5eda6ad9eb53ba75c97084b9288d12226f984174c8d10aa2f8b5c7","features":{"default":[],"i18n":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-07-07T18:15:15Z","v":2}

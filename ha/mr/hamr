@@ -1,0 +1,1 @@
+{"name":"hamr","vers":"0.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7d5b1df3f896916b6a2853bc193ec272bf6dae9c038d103f0a6ea2b1a92e3e3","features":{},"features2":{"default":["std"],"std":["dep:clap"]},"yanked":false,"pubtime":"2026-08-14T12:06:58Z","v":2}

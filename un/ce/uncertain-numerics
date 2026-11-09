@@ -1,0 +1,1 @@
+{"name":"uncertain-numerics","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09f8fe3b4b85f1d26bdc4e42f5a6beb0f3edbfce4c43ae13aedb6ee052b418af","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-17T20:54:06Z"}

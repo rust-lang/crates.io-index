@@ -1,0 +1,1 @@
+{"name":"bun_env_cookie","vers":"1.4.7","deps":[{"name":"serde_json","req":"^1.0.154","features":["std","preserve_order"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4acd9ce7c0d59a1c8f23466d6388f672c55c22a41792b9493daf05fef9252f7c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T05:20:16Z"}

@@ -1,0 +1,1 @@
+{"name":"kartta-lang","vers":"0.0.0","deps":[{"name":"tree-sitter","req":"^0.27.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0da67c1848317fbf8a61eb47176602ccdccb54badd304f1728f3a0a805bf5765","features":{},"features2":{"tree-sitter":["dep:tree-sitter"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-16T16:54:45Z","v":2}

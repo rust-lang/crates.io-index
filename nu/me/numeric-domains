@@ -1,0 +1,2 @@
+{"name":"numeric-domains","vers":"0.0.0","deps":[],"cksum":"97bf4759ce19cf9322237ceaaead0c1095d996fa1ae6b6456db53f2ca71fb0e7","features":{},"yanked":false,"pubtime":"2026-08-22T17:59:35Z"}
+{"name":"numeric-domains","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16b1eb7c297522467b9020f01f6eaabe9526d792ca6e6d63832f1740fef16ae1","features":{},"yanked":false,"pubtime":"2026-08-23T16:46:56Z"}

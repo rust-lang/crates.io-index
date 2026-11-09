@@ -1,0 +1,1 @@
+{"name":"iana-cont-disp","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"76fc30b68c2c8dbdd69e25313f92bb16d1352c6b66c61e9416ee7d3b539561d5","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T02:57:31Z"}

@@ -1,0 +1,1 @@
+{"name":"llm-message-dedup","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57901144181373e90b1c6b1be08a4f2d227bad3a59407c5f7f43929d9759c763","features":{},"yanked":false,"pubtime":"2026-05-25T21:09:53Z"}

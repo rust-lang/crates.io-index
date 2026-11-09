@@ -1,0 +1,2 @@
+{"name":"tessipher","vers":"0.1.0","deps":[],"cksum":"0e5077a8bb93ab142654c735653cfccd009fe1ad162e04995c031bac335833fc","features":{"default":["detect"],"detect":[],"micro-qr":[],"micro-qr-detect":["detect","micro-qr"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-16T00:23:54Z"}
+{"name":"tessipher","vers":"0.2.0","deps":[],"cksum":"8fd0b3b6778ff98b532349ccc2f889a2f41014d6661ea1968b434079daa07da6","features":{"default":["detect"],"detect":[],"micro-qr":[],"micro-qr-detect":["detect","micro-qr"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-16T19:11:15Z"}

@@ -1,0 +1,3 @@
+{"name":"belajar_membuat_lib_rust","vers":"0.1.0","deps":[],"cksum":"1b0e0df6277599476e9feced030e99c4d5ff455b80528b93296b79db7034ac95","features":{},"yanked":false,"pubtime":"2026-07-18T07:35:50Z"}
+{"name":"belajar_membuat_lib_rust","vers":"0.1.1","deps":[],"cksum":"3cf47a343f9c345d58b0320f768c3dfe082dd0b005d6c8e207a2108ca160dde2","features":{},"yanked":false,"pubtime":"2026-07-18T08:00:43Z"}
+{"name":"belajar_membuat_lib_rust","vers":"0.1.3","deps":[],"cksum":"97542f475659929c3788f438c3cf1599027938271cd1073242aed72cf75dac50","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-07-18T08:14:06Z"}

@@ -1,0 +1,1 @@
+{"name":"ra-jit-paths","vers":"0.1.0","deps":[{"name":"camino","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ea80058146f95d657a4a9318d8c711a1406a567d991ea9827767d4b9ae9c324","features":{"serde1":["camino/serde1"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-20T13:53:13Z"}

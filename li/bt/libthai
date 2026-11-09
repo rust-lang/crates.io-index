@@ -1,0 +1,1 @@
+{"name":"libthai","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34fa6fbd54d1cf93560f469365655672fc94ef415fea1e73fbf2a4992b4905c8","features":{"alloc":[],"bench-c":[],"default":["std"],"std":[],"word-break":["alloc"]},"yanked":false,"pubtime":"2026-11-09T04:09:04Z"}

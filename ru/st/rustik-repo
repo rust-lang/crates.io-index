@@ -1,0 +1,2 @@
+{"name":"rustik-repo","vers":"0.2.0","deps":[],"cksum":"b79b7d094224162266fbae345f31c50b29a3981bfa1c2af631c4cd8abcddb742","features":{},"yanked":false,"pubtime":"2026-05-23T12:45:20Z"}
+{"name":"rustik-repo","vers":"0.3.0","deps":[{"name":"serde","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"microserde"}],"cksum":"b67685511031ff0d3b1d91e44ec6caa0853623ee96b4160ad37199c6fa986e48","features":{},"yanked":false,"pubtime":"2026-08-03T08:48:06Z"}

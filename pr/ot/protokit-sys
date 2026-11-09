@@ -1,0 +1,1 @@
+{"name":"protokit-sys","vers":"0.7.0","deps":[{"name":"cc","req":">=1.2.22","features":["parallel"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"a7407094503606b6cc86c47b1907366fc7ba8f886c25ba9acebc486ddb286b7f","features":{"default":[],"native":[]},"yanked":false,"links":"protokit","rust_version":"1.95","pubtime":"2026-10-26T02:04:27Z"}

@@ -1,0 +1,1 @@
+{"name":"liteinst-x86","vers":"0.2.0","deps":[{"name":"iced-x86","req":"=1.21.0","features":["decoder"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c663b904c7a56bd98d1acc594d0b26d4eee1c96a6c50eb4a982505f0ced3bad3","features":{"default":["std"],"std":["iced-x86/std"]},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-05T00:38:48Z"}

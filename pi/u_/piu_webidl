@@ -1,0 +1,1 @@
+{"name":"piu_webidl","vers":"0.259.0","deps":[{"name":"deno_core","req":"^0.412.0","features":["reactor-tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"piu_core"}],"cksum":"6603d70bc6f206ee993e913cef834d7245aca133d1fd47f492b12d21e1c3b062","features":{},"yanked":false,"pubtime":"2026-10-15T22:58:30Z"}

@@ -1,0 +1,1 @@
+{"name":"qsl-core","vers":"0.1.0","deps":[{"name":"xxhash-rust","req":"=0.8.15","features":["xxh3"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3891631cec7a3cf3a4409aa092e6fede5d3e3aa92628c6c2dfa64d1efab27957","features":{"default":[],"diagnostics":[]},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T00:25:24Z"}

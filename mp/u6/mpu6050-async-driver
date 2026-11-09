@@ -1,0 +1,1 @@
+{"name":"mpu6050-async-driver","vers":"0.1.0","deps":[{"name":"embedded-hal-async","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a063d38e2ac8aaa443b839ffd15fc4506cbb1065ab40aa1b0fbef7138c29a41","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-10T19:02:35Z"}

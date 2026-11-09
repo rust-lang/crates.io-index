@@ -1,0 +1,1 @@
+{"name":"rightkit-deep-link","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18678c7c7477ed540ca9a2def96897f971041f433730855cba665905fe388951","features":{},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-11-04T09:01:38Z"}

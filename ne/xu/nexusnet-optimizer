@@ -1,0 +1,1 @@
+{"name":"nexusnet-optimizer","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d141012da74fcfeaf7170a687454f925de58aa09b2f950a31e9022a15572b228","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-25T18:19:30Z"}

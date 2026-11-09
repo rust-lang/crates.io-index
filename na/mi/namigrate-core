@@ -1,0 +1,1 @@
+{"name":"namigrate-core","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a4c4890e9385be96d5a8a3dd1e54d9320d43098a395a29d6258350c661bb902","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-27T09:24:41Z"}

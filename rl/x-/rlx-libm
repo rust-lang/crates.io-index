@@ -1,0 +1,1 @@
+{"name":"rlx-libm","vers":"0.2.20","deps":[],"cksum":"41d596d6839614c8d26b7527c0097cdbf35e41af77997a4c28c30801c6d155e1","features":{"default":["std"],"export-glibc":[],"libm":["std"],"std":[],"wasm-fma":[],"wasm-glibc":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-03T01:59:17Z"}

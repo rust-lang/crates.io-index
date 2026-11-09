@@ -1,0 +1,1 @@
+{"name":"iana-stun-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"0826fe71bfa80ada9e63af9e301f4c74b97a2e60cffc8dc9d74729fab1758c9e","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-27T22:27:32Z"}

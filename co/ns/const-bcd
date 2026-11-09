@@ -1,0 +1,1 @@
+{"name":"const-bcd","vers":"0.1.0","deps":[{"name":"test-format","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0843299bb81473670a2ec52d4c35a943c415dd87408bb4b7e50d2a8725af18f9","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-08-03T02:57:38Z"}

@@ -1,0 +1,1 @@
+{"name":"lbl-tg-rcore-tutorial-ch1-storage","vers":"0.1.0-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.8","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"cbd43894852d38beaad3e763388ff11ad8142ef4c9c89b127203b78d7db77fd4","features":{},"yanked":false,"pubtime":"2026-03-20T03:13:55Z"}

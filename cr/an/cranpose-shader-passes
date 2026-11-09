@@ -1,0 +1,1 @@
+{"name":"cranpose-shader-passes","vers":"0.21.0","deps":[{"name":"naga","req":"^30.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"572eb0a8def6c98395cf1b660e53c56d3c8f9da3c282dbf7db734749f7fb65b8","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T11:09:05Z"}

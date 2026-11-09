@@ -1,0 +1,1 @@
+{"name":"monocoque-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a409d0a4fcd63bc9f0a6655209ae187216ccc0dad68d489744e9e48424fc731","features":{},"yanked":false,"pubtime":"2026-05-13T19:44:46Z"}

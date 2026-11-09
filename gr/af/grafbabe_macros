@@ -1,0 +1,1 @@
+{"name":"grafbabe_macros","vers":"0.0.0","deps":[{"name":"xxhash-rust","req":"^0.8.18","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff1bd711228bdf2c2b181502e589606271781ce065fa878ff47f50de1db967b8","features":{},"yanked":false,"pubtime":"2026-08-03T21:14:18Z"}

@@ -1,0 +1,1 @@
+{"name":"noai","vers":"0.1.0","deps":[{"name":"image","req":"^0.25","features":["bmp","gif","ico","jpeg","png","qoi","tga","tiff","webp"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"35ce66557ae61800c0ebb6b8caaec89b90a061aa2c69d8e950f5bd350b707bef","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-09T12:55:51Z"}

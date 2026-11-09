@@ -1,0 +1,1 @@
+{"name":"zengpu-cpu","vers":"0.1.0","deps":[{"name":"zengpu-hal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ff6ab5ee583fcc49e2926a2927fcfc24ec13272ac073b75588f16e2200a4f3a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-05T04:52:30Z"}

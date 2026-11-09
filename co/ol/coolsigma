@@ -1,0 +1,2 @@
+{"name":"coolsigma","vers":"1.0.0","deps":[],"cksum":"f35444c7ab10ffa81cc221fabbfad24457ad58fa314a8ec5128d57e2294a2b18","features":{},"yanked":false,"pubtime":"2026-10-11T11:20:20Z"}
+{"name":"coolsigma","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2844cb1196bc77229a3d5734daf48bf03080531937de14d3ac29461e8c2582af","features":{},"yanked":false,"pubtime":"2026-10-11T12:21:32Z"}
