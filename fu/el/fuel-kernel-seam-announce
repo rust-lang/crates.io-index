@@ -18,3 +18,4 @@
 {"name":"fuel-kernel-seam-announce","vers":"0.36.4","deps":[],"cksum":"41815ee7fa919b5753acb6a201c1d776f0ddb8d777a5d6d687178edbf789fb77","features":{},"yanked":false,"pubtime":"2026-11-02T04:38:09Z"}
 {"name":"fuel-kernel-seam-announce","vers":"0.36.7","deps":[],"cksum":"45ad4e313e76bb0bce9f8ffd39ed46faa578f0228659c98812e169e1632fbc35","features":{},"yanked":false,"pubtime":"2026-11-02T09:01:22Z"}
 {"name":"fuel-kernel-seam-announce","vers":"0.43.2","deps":[],"cksum":"4064a8be6b25d40ae07a24e33e9caa80fd24542fa47d5ae34530db71f280b664","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-07T12:36:32Z"}
+{"name":"fuel-kernel-seam-announce","vers":"0.46.2","deps":[],"cksum":"5a548679126d9cc2ada8a7ee33a4ad4b4d0c1f8dbc96a223174bf781599212f8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T22:23:19Z"}
