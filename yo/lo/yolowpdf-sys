@@ -1,0 +1,1 @@
+{"name":"yolowpdf-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.191","features":[],"optional":false,"default_features":true,"target":"cfg(all(target_os = \"linux\", target_env = \"gnu\"))","kind":"normal"}],"cksum":"b5d5879ee0a00046e33f12c23c8c874ea71ee67aabb5dfdede83c907e24a2687","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-09T16:14:08Z"}
