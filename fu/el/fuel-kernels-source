@@ -11,3 +11,4 @@
 {"name":"fuel-kernels-source","vers":"0.35.2","deps":[],"cksum":"5d4637dbdde67455875e0f8db917f72125968fd591452dde3c40191fe446916d","features":{},"yanked":false,"pubtime":"2026-11-01T09:04:08Z"}
 {"name":"fuel-kernels-source","vers":"0.36.4","deps":[],"cksum":"19f510a5025ecff780904402b0cc227fc70745de8077309d9b77e367dba38ed7","features":{},"yanked":false,"pubtime":"2026-11-02T04:38:44Z"}
 {"name":"fuel-kernels-source","vers":"0.36.7","deps":[],"cksum":"2ffa3797e73cbeac60978a70e9f4617c1c32c85eba015e2d546c2c69db84ca83","features":{},"yanked":false,"pubtime":"2026-11-02T09:02:28Z"}
+{"name":"fuel-kernels-source","vers":"0.46.2","deps":[],"cksum":"4a2bf9e986d9dd58e6e61e2cee91dfdcafabf8b57cf2de32f3a7f84fa3860e1b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T22:24:17Z"}
