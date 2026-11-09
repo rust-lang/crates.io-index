@@ -24,3 +24,4 @@
 {"name":"fuel-kernel-seam-types","vers":"0.42.0","deps":[],"cksum":"58b586770f1347a3a13b26ff80a1a1cc7c4aedcc9860e75aa6f14a56d85954c2","features":{},"yanked":false,"pubtime":"2026-11-05T04:33:36Z"}
 {"name":"fuel-kernel-seam-types","vers":"0.43.0","deps":[],"cksum":"559b22e88d9634f6a72dea87177f5e7ad4e84b4e64b20349697d572464dc1e59","features":{},"yanked":false,"pubtime":"2026-11-05T16:34:32Z"}
 {"name":"fuel-kernel-seam-types","vers":"0.43.2","deps":[],"cksum":"830712752f37ee084d6dada83bf0de52edc976bcb404b30ae99cb817e37c70a7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-07T12:36:36Z"}
+{"name":"fuel-kernel-seam-types","vers":"0.46.2","deps":[],"cksum":"de7c2de3c79e83cbe30376d555129ed3f0237ba07f5ec9ab5bbd98e367052ee6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T22:23:27Z"}
