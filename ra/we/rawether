@@ -1,1 +1,2 @@
 {"name":"rawether","vers":"0.0.1","deps":[],"cksum":"569431b000608908a2a80ff6d1fa7cbe5ebdb15837059e51b6789179b93bb926","features":{},"yanked":false,"pubtime":"2026-11-09T09:43:29Z"}
+{"name":"rawether","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.191","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7266488cc9d62b14ad6a5c569a768d1610f159fa3aa5dd1305d6a201b9d9bb6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T12:41:53Z"}
