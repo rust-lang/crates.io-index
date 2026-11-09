@@ -7,3 +7,4 @@
 {"name":"swc_next_simd","vers":"0.4.1","deps":[],"cksum":"d949da076ab686ff1e3e8a2e56761ef662fdf8b759855f718381b8a334720d1c","features":{"memchr":[]},"yanked":false,"pubtime":"2026-10-29T07:53:25Z"}
 {"name":"swc_next_simd","vers":"0.5.0","deps":[],"cksum":"d08016b2aee6f27884457d17018468ec473df17332c34d08478db71c977e8492","features":{"memchr":[]},"yanked":false,"pubtime":"2026-11-02T09:38:02Z"}
 {"name":"swc_next_simd","vers":"0.6.0","deps":[],"cksum":"6f2761d6e3e8012601d8cb60110f81587cbeec6642c2806d441244ef65afa578","features":{"memchr":[]},"yanked":false,"pubtime":"2026-11-09T06:32:43Z"}
+{"name":"swc_next_simd","vers":"0.6.1","deps":[],"cksum":"fb6111263f5ea009594e065af19c6627fe988bd98786fc2dd93ebaf8e8aeec1d","features":{"memchr":[]},"yanked":false,"pubtime":"2026-11-09T11:11:22Z"}
