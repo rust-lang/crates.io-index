@@ -1,0 +1,1 @@
+{"name":"arqlet-routing","vers":"0.1.0","deps":[{"name":"arqlet-model","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f720bec6e7ff256198694c348fa8e0290bd00d09f60f09cbde68e3335439d20c","features":{"benchmark-timings":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-10T22:19:55Z"}
