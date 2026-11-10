@@ -1,0 +1,1 @@
+{"name":"lattice-leptos-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c74df7d347227a48bf064018a21b00198366606926997584ea865a58de719f86","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-10T08:09:07Z"}
