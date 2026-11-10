@@ -7,3 +7,4 @@
 {"name":"qvfs","vers":"2.0.0","deps":[],"cksum":"18a6c0e903e069d977520178483dd57eb294ec49978f7199561d8b5adef36d3a","features":{},"yanked":false,"pubtime":"2026-10-01T11:38:59Z"}
 {"name":"qvfs","vers":"2.1.0","deps":[],"cksum":"eede1096d17820fc4c42c8b7c215e8de886fcf30d335e42ad115abcb5a05ab0d","features":{},"yanked":false,"pubtime":"2026-10-04T23:49:52Z"}
 {"name":"qvfs","vers":"2.2.0","deps":[],"cksum":"1594460a0b227ea9a086c324ace51eda031fd4ac736930bd3c1c425c7b1f73b6","features":{},"yanked":false,"pubtime":"2026-10-27T22:48:04Z"}
+{"name":"qvfs","vers":"2.3.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"913c5ba0f2137101b50954edc78feb23627d9e95222eacf9a512352299650734","features":{},"yanked":false,"pubtime":"2026-11-10T02:50:01Z"}
