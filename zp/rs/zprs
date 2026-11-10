@@ -1,0 +1,1 @@
+{"name":"zprs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"dce3db07905802fa2cbbcdd9a3c242ccbe107369a6583c4e28b725570f39185a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-10T14:18:35Z"}
