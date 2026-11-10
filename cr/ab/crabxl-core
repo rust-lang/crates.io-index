@@ -1,0 +1,1 @@
+{"name":"crabxl-core","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d668de8e762abd493d1ba2594af724cc29761286fcc776b58ed2b1019d32a0c8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-10T11:22:15Z"}
