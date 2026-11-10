@@ -2,3 +2,4 @@
 {"name":"ascii-uml","vers":"0.2.0","deps":[],"cksum":"e30805dadb28d0219a9f2540403ba606371691445190e7baeb246d46ed78a4c9","features":{},"yanked":false,"pubtime":"2026-11-09T11:02:33Z"}
 {"name":"ascii-uml","vers":"0.2.1","deps":[],"cksum":"a2508e6a69c387559b34ac5cc59576dc58528e5455985357450e154a6ddcbbe7","features":{},"yanked":false,"pubtime":"2026-11-09T11:10:07Z"}
 {"name":"ascii-uml","vers":"0.3.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34d41f1b642547b780680bbb36373c901857454cd7c103b0f1908a6ca3a728b8","features":{},"yanked":false,"pubtime":"2026-11-09T13:40:23Z"}
+{"name":"ascii-uml","vers":"0.4.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ed089b0cd5a01fb15073c9666b1546c678fa07f18006370226eafcd91536155","features":{},"yanked":false,"pubtime":"2026-11-10T14:35:36Z"}
