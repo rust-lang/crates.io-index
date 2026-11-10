@@ -1,0 +1,1 @@
+{"name":"vtmux-vt","vers":"3.8.0-beta.1","deps":[{"name":"libghostty-vt","req":"=3.8.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"vtmux-ghostty-vt"}],"cksum":"1b5f87376ca38f6e3e5738672db71873c9d07926bb4d69ff63c3a8c2c09eca7f","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-10T06:48:26Z"}
