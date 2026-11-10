@@ -45,3 +45,4 @@
 {"name":"sandogasa-rpmvercmp","vers":"0.26.0","deps":[],"cksum":"cdd752eb7bcdb09e213743fc41c4a06da80be959c4938326380e05c0201a0b14","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-14T19:44:33Z"}
 {"name":"sandogasa-rpmvercmp","vers":"0.27.0","deps":[],"cksum":"d80c81a1f7cf5ec3a7f00ab12f6b19aa31f0447a241bb4557cfc7da576473b1d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-21T14:05:43Z"}
 {"name":"sandogasa-rpmvercmp","vers":"0.27.1","deps":[],"cksum":"46fee4d2bf534798140747a65871e823a5c8ba2c0250e1cc7214759de9c24512","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-04T23:01:35Z"}
+{"name":"sandogasa-rpmvercmp","vers":"0.28.0","deps":[],"cksum":"64cf2fa26445c0d7bd9cc774da56af32389ef4551a4ae8c9a6e3831e2155d28a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-10T15:36:56Z"}
