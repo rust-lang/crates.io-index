@@ -1,0 +1,1 @@
+{"name":"avenlab-physics","vers":"0.1.0","deps":[{"name":"rapier3d","req":"^0.22","features":["dim3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ae7e50a2af755c87c624b8864bd1f7bf2d91dc2f9166039059402e4015d9fd1","features":{},"yanked":false,"pubtime":"2026-11-10T04:12:13Z"}
