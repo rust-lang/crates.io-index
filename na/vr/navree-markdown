@@ -1,0 +1,1 @@
+{"name":"navree-markdown","vers":"1.0.0","deps":[{"name":"pulldown-cmark","req":"^0.13.6","features":["html"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ba5e019c5660bf9556e3a731cf4865d4eee03cc4c96b17e260479f5d592f46fa","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-10T10:53:23Z"}
