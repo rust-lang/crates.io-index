@@ -1,1 +1,2 @@
 {"name":"crushlzfse","vers":"0.0.0","deps":[],"cksum":"eef4e4d1bddaf14e308aea3616d2f1e157178839dae3dc9df693df942aaf4586","features":{},"yanked":false,"pubtime":"2026-09-09T02:22:41Z"}
+{"name":"crushlzfse","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7cefc39538be1a350dd0d9ee3afb859ab56f1d39308fbf8b4d38f634f4589be","features":{},"yanked":false,"pubtime":"2026-11-11T20:34:50Z"}
