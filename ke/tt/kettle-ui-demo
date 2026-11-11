@@ -1,1 +1,2 @@
 {"name":"kettle-ui-demo","vers":"0.0.0","deps":[],"cksum":"cd535b21955a0ef5ed87bf569e94dea6ce5d95b6f3e85c5bc5876ae29d287bb5","features":{},"yanked":false,"pubtime":"2026-11-08T02:15:57Z"}
+{"name":"kettle-ui-demo","vers":"0.1.0","deps":[{"name":"kettle-ui","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afde3828ff3992908f4b4e8b080ab28d0a48e97ef0c28570230ff7b27ebe8216","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-11T01:29:20Z"}
