@@ -1,0 +1,1 @@
+{"name":"oxc_simd","vers":"0.158.0","deps":[{"name":"oxc_simd_macros","req":"^0.158.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0e9847e9696ea100bf4f27dcd932eb60b3aaf9076e6ff35d9874d2afd2bd960","features":{"testing":[]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-11-11T07:13:54Z"}
