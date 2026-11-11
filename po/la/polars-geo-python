@@ -1,0 +1,1 @@
+{"name":"polars-geo-python","vers":"0.4.0","deps":[{"name":"polars-geo-core","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d40d29b186368a596dceafd1493ff97e35564c3a67263e3edf36a926aacecd67","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-11T09:17:13Z"}
