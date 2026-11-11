@@ -1,2 +1,3 @@
 {"name":"zmime","vers":"0.1.0","deps":[],"cksum":"4a5180c47e6da71972f6dc45eccf2bd9e29bdc7a99d3db4c2fc6c106b4efd217","features":{"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-10T15:18:47Z"}
 {"name":"zmime","vers":"0.1.1","deps":[],"cksum":"79c3b3f1c0cc229ab0aa09ecacabc9e9135e513b34e04b387cd73db6b0b8703c","features":{"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T02:38:46Z"}
+{"name":"zmime","vers":"0.1.2","deps":[],"cksum":"943c1d190c83eca7c11b28b02090a9903f6c6121779a554bed555c5c2bacf023","features":{"default":["simd"],"simd":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T02:59:13Z"}
