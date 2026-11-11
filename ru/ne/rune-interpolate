@@ -1,0 +1,1 @@
+{"name":"rune-interpolate","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82677b17d3348ab852db4edb0ff7272bc9e4b5bac078e1b149684fe46374f964","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T19:20:41Z","v":2}
