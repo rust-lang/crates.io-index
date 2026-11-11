@@ -8,3 +8,4 @@
 {"name":"tvm-ffi-sys","vers":"0.1.16-rc2","deps":[],"cksum":"61f9f0c705b2488d2ad94b15e68dfd86213bf430758ce2314942e0df41f6eab3","features":{"testing":[]},"yanked":false,"pubtime":"2026-11-05T17:50:38Z"}
 {"name":"tvm-ffi-sys","vers":"0.1.16-rc3","deps":[],"cksum":"31697441e5f6e82f9d4aadf2e21868b17671117d73e41c6edd7f755c2d270f9c","features":{"testing":[]},"yanked":false,"pubtime":"2026-11-06T09:27:38Z"}
 {"name":"tvm-ffi-sys","vers":"0.1.16-rc4","deps":[],"cksum":"15c95844a6dc3de79fce2111c0bcafbe60e2dc7fa352efac2cb37b2a743cbca7","features":{"testing":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-09T08:03:39Z"}
+{"name":"tvm-ffi-sys","vers":"0.1.16","deps":[],"cksum":"36c66fa9a54eb40d711304518b478d917b005ce6065ad0fe30a76fcff2bb3e2c","features":{"testing":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-11T09:15:19Z"}
