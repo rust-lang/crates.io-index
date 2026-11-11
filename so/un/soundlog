@@ -20,3 +20,4 @@
 {"name":"soundlog","vers":"0.13.0","deps":[],"cksum":"a9ade4a795790a2444d2207a705e3db2d8cf38ab639c10d3ce2b8d5e3e238e01","features":{},"yanked":false,"pubtime":"2026-08-20T02:56:09Z"}
 {"name":"soundlog","vers":"0.14.0","deps":[],"cksum":"edc88f680f1efdb00de8753b8b1782e6993c1888c99bf4d5c7f0ee92020854ee","features":{"default":[],"mdx":[]},"yanked":false,"pubtime":"2026-09-27T12:03:55Z"}
 {"name":"soundlog","vers":"0.15.0","deps":[],"cksum":"c58288925c5be96f6adac2d7bacb5448cc0ccbdcdf9431247f78d2b1938bb227","features":{"default":[],"mdx":[]},"yanked":false,"pubtime":"2026-10-03T08:26:12Z"}
+{"name":"soundlog","vers":"0.16.0","deps":[],"cksum":"c3abcf081406d9d95c7ffc86aabc4f255ade014483f8917af63e18b8c5f49e63","features":{"default":[],"mdx":[]},"yanked":false,"pubtime":"2026-11-11T15:48:52Z"}
