@@ -1,2 +1,3 @@
 {"name":"zsyn","vers":"0.1.0","deps":[],"cksum":"0d1b36bc623b3e1ec046959e5703177f5a3202ab8f6625f1330f156c806acc10","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-10T04:48:38Z"}
 {"name":"zsyn","vers":"0.1.1","deps":[],"cksum":"2ea10078c178df65b511ce9259bf9c9d62fa270d27857f477070dff7832f926f","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-10T15:08:23Z"}
+{"name":"zsyn","vers":"0.1.2","deps":[],"cksum":"7298e7459baa386d6ed35fbe5a270abe6cee3e9956f4c71b71fe1c09556e98f7","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T02:36:00Z"}
