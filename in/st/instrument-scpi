@@ -1,0 +1,1 @@
+{"name":"instrument-scpi","vers":"0.2.0-alpha.1","deps":[{"name":"instrument-api","req":"=0.2.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c26520b896d380deadae7ab194868b31d31f0827750b30019d2655e5b2bdd856","features":{"async":["instrument-api/async"],"default":[]},"yanked":false,"pubtime":"2026-11-11T22:30:41Z"}
