@@ -1,0 +1,1 @@
+{"name":"implicit-predicates-core","vers":"0.0.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a48515fe6c9044694db41405f1c1726953023dedecd75cf4c68868d0c3dc3fdc","features":{"alloc":[]},"yanked":false,"rust_version":"1.86","pubtime":"2026-11-11T12:54:18Z"}
