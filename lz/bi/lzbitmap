@@ -1,1 +1,2 @@
 {"name":"lzbitmap","vers":"0.0.0","deps":[],"cksum":"43c4a5ab4eb3eff64fb392cbc93b826b191b3f20ae1123f85b87f6f4594b9ff7","features":{},"yanked":false,"pubtime":"2026-09-09T02:23:53Z"}
+{"name":"lzbitmap","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6d02ef621606b5a5cba735ed01ead570e56ad744b5e91013d83fd65f4c7d220c","features":{},"yanked":false,"pubtime":"2026-11-11T20:34:54Z"}
