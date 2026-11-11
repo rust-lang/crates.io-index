@@ -1,0 +1,1 @@
+{"name":"spacemouse","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2","features":["linux-native-basic-udev"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b0a81a850d589b7a0b2abefc5f4593864dd0fecb95906527f673a147137dea27","features":{"fail-on-warnings":[]},"yanked":false,"rust_version":"1.65","pubtime":"2026-11-11T16:11:15Z"}
