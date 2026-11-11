@@ -1,1 +1,2 @@
 {"name":"iceoryx2-customization-ffi-service-types","vers":"0.0.1","deps":[],"cksum":"088c3af09669b905fb3070ce99c727d825e56c1d16d6a5d45e0423c53a636cdc","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-10T10:49:22Z"}
+{"name":"iceoryx2-customization-ffi-service-types","vers":"0.0.2","deps":[],"cksum":"13d10f67698b3e3d21c18ec5dfbdd7bfea83a3ce08cd8e3e7a2db8ab73fb8cdf","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T20:51:06Z"}
