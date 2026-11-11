@@ -1,1 +1,2 @@
 {"name":"lzmesh","vers":"0.0.0","deps":[],"cksum":"a456c09d133f2dfd67500b1e87c4b8ae945051dcf3fb552216bdd5a775f826b4","features":{},"yanked":false,"pubtime":"2026-11-09T19:01:08Z"}
+{"name":"lzmesh","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9afadf02eaa2cf968a809da61a9129047ee15f9afc99ce1c1133c4a914cfbd56","features":{},"yanked":false,"pubtime":"2026-11-11T20:35:01Z"}
