@@ -1,0 +1,1 @@
+{"name":"rune-lowpass","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dbb740a255c4e7cfdf3c908c93eabfa3c310c9cda1f0823f35ea35e14c824c7","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T20:06:49Z","v":2}
