@@ -1,0 +1,1 @@
+{"name":"zharness","vers":"0.1.1","deps":[{"name":"zcall","req":"=0.1.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"db6331daab02ea1fa3d904ee382420dbd248d9ad0da770c3cd6309e0af08582c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T04:59:01Z"}
