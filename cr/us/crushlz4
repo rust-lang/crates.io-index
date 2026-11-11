@@ -1,1 +1,2 @@
 {"name":"crushlz4","vers":"0.0.0","deps":[],"cksum":"df4cdfac3e2652ba40d2cd76c0d3d15bd2d1c1cbe7c5f9363cc5178a3798b237","features":{},"yanked":false,"pubtime":"2026-09-09T02:23:36Z"}
+{"name":"crushlz4","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fda8667f310f9c3d18ef41b2ff1d4e10e9698965599ff01998fe727ef3b75e25","features":{},"yanked":false,"pubtime":"2026-11-11T20:34:59Z"}
