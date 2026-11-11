@@ -3,3 +3,4 @@
 {"name":"xpath-eval","vers":"0.2.1","deps":[],"cksum":"5e22fd51ef5efd3a37f3e7cd1b57ce899e330080e086b8028ad9560de113e5da","features":{},"yanked":false,"pubtime":"2026-08-21T12:10:37Z"}
 {"name":"xpath-eval","vers":"0.2.2","deps":[],"cksum":"83058fdeec995449ff47adb0bc5773092b56aa91423c4cb257ef4e4e11df542b","features":{},"yanked":false,"pubtime":"2026-08-22T07:08:03Z"}
 {"name":"xpath-eval","vers":"0.2.3","deps":[],"cksum":"05096d87ea0052f3820cc861b617d9af265574e18733064a8a011caa9e7f63bc","features":{},"yanked":false,"pubtime":"2026-10-31T11:08:41Z"}
+{"name":"xpath-eval","vers":"0.3.0","deps":[{"name":"roxmltree","req":"^0.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"18826077b52b1d98b2af6466d80ad6e3e227afebccf07e3892f2c6814807496c","features":{},"yanked":false,"pubtime":"2026-11-11T06:50:34Z"}
