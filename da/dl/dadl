@@ -1,1 +1,2 @@
 {"name":"dadl","vers":"0.0.2","deps":[],"cksum":"1b1a6654c40106a7c0b310ed843fb06299c309e97fae2b2dfa2d8442b60c8ba5","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-11T07:05:19Z"}
+{"name":"dadl","vers":"0.0.3","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"365f103e2751a1fe493a0e6a4adbaf799dafaae8c6fb166203bb7bc3bde91cd2","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-11T22:48:43Z"}
