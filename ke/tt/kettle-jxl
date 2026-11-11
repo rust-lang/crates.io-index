@@ -1,1 +1,2 @@
 {"name":"kettle-jxl","vers":"0.0.0","deps":[],"cksum":"434f1c26d96f65fe016fcfbfc219466f3f0384709dc612daa07aa84d68b1baf0","features":{},"yanked":false,"pubtime":"2026-11-08T01:55:49Z"}
+{"name":"kettle-jxl","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7653d918341ab1afee6a50dd639829d23de2e93a654a45bb468792bb53d5617b","features":{},"yanked":false,"links":"jxl","rust_version":"1.90","pubtime":"2026-11-11T01:29:14Z"}
