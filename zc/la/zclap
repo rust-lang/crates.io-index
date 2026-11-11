@@ -2,3 +2,4 @@
 {"name":"zclap","vers":"0.1.1","deps":[],"cksum":"b00d870a59dbd55f33f6a0a0a4729c1339ed2f92148f472e75f5cafbfcc6c0b4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-10T03:27:26Z"}
 {"name":"zclap","vers":"0.1.2","deps":[],"cksum":"872032304c8317d8302d57e57902221c626cf2a9be8c56fffa991b0a4a6db1a1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-10T15:05:00Z"}
 {"name":"zclap","vers":"0.1.3","deps":[],"cksum":"77cc6a4d03d6a1d7c44d609174d8a8ee7bd7e071e2622281ef59f81a4edd03c0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T02:19:43Z"}
+{"name":"zclap","vers":"0.1.4","deps":[],"cksum":"5efb5b25a7eb925fe9943888238d1e261224fa629456f4abe203b1deb34ac102","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T02:49:04Z"}
