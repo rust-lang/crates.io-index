@@ -1,1 +1,2 @@
 {"name":"mlmf-tensor-names","vers":"0.7.26","deps":[],"cksum":"46690a3eeddf3ff3ea1fdb48a41a02f6f39242c95f26909db2b0e2ff58f9571f","features":{},"yanked":false,"pubtime":"2026-10-26T17:28:55Z"}
+{"name":"mlmf-tensor-names","vers":"0.11.29","deps":[{"name":"serde_json","req":"^1.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c001331b07c5a34741e18363b45b2f535565c6fe25b52a6fd3064f605bd1051c","features":{},"yanked":false,"pubtime":"2026-11-11T20:24:06Z"}
