@@ -1,0 +1,1 @@
+{"name":"mln-rs-vec-map","vers":"0.0.11","deps":[{"name":"serde","req":"^1.0.229","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d068e93498ee74a6d16f03504eec87af3a44dda69ff48d5b5b055b486f1b19c","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-12T23:06:45Z"}
