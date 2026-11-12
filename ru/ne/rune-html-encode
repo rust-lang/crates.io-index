@@ -1,1 +1,2 @@
 {"name":"rune-html-encode","vers":"0.1.0","deps":[],"cksum":"1446f9957e00716d4be2216620b559891f7e4d5702662ebd3e820ed4beca6e9d","features":{},"yanked":false,"pubtime":"2026-05-30T20:17:28Z"}
+{"name":"rune-html-encode","vers":"0.2.0","deps":[{"name":"proptest","req":"^1.7.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"2093fcde491c8951f9b5a1baa191a8a6d858ab6d24026b757b573f246b39ab0b","features":{"cli":["std"],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T20:08:04Z"}
