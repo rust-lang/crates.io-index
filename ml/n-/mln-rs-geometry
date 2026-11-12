@@ -1,3 +1,4 @@
 {"name":"mln-rs-geometry","vers":"0.0.8","deps":[],"cksum":"9da5fd6d6f2e9a97671a9518f68fcd5d7b1d0d4382a9ae55c980163f17d0a1b4","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T19:42:48Z"}
 {"name":"mln-rs-geometry","vers":"0.0.9","deps":[],"cksum":"1f04c507c9c660c52e88010a51ed9050079d975f2449661fc1df3905e7199d04","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T21:56:33Z"}
 {"name":"mln-rs-geometry","vers":"0.0.10","deps":[],"cksum":"ec85f71e03a7c0bba12c2e4aafecf062a4cf1554f89e6ddc41283694caa02dcf","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T23:28:33Z"}
+{"name":"mln-rs-geometry","vers":"0.0.11","deps":[{"name":"serde","req":"^1.0.229","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21684166e2c5c6ac49ad2406ad84b3ba4ea42df24c6bd40a72f9f67f6bd72f9a","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-12T23:06:42Z"}
