@@ -1,1 +1,2 @@
 {"name":"knowledge-architect-mutate","vers":"0.0.0","deps":[],"cksum":"4c8fe19cbc49f7f3eeddaec27eb06e9bf44911953f3d934fd1d3df0a16d5118a","features":{},"yanked":false,"pubtime":"2026-11-12T17:58:20Z"}
+{"name":"knowledge-architect-mutate","vers":"0.10.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c2ae07612052e673a1e9fd634c1b288b758712af7bf73bec74e4da83eda2983","features":{},"yanked":false,"pubtime":"2026-11-12T22:00:59Z"}
