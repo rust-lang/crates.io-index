@@ -2,3 +2,4 @@
 {"name":"mln-rs-pmtiles","vers":"0.0.8","deps":[],"cksum":"d4fd17b80de85c942c5e9f3419343b1888620b2a38c869cd9b61f290ade2ad43","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T19:42:49Z"}
 {"name":"mln-rs-pmtiles","vers":"0.0.9","deps":[],"cksum":"7a8b7e63626547d39a027aeca3371c8efd5d1d7d4b795106eb5a047887fdad43","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T21:56:35Z"}
 {"name":"mln-rs-pmtiles","vers":"0.0.10","deps":[],"cksum":"1a51aefa46de39122999c3022c34649a8b05fe88f3dd574f195829b826fd8198","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-06T23:28:35Z"}
+{"name":"mln-rs-pmtiles","vers":"0.0.11","deps":[{"name":"thiserror","req":"^2.0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ca29ddbea11000380b0030dcad92c2e354f8609113b825857635fe56c4df535","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-12T23:06:44Z"}
