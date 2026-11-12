@@ -1,1 +1,2 @@
 {"name":"particle-traits","vers":"0.1.1","deps":[],"cksum":"83dac4822aa374fef9ed7973da318cb0a906256975f436c98cfae821b1c21360","features":{"alloc":[],"default":["alloc"],"doc-macros":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-10T23:31:48Z"}
+{"name":"particle-traits","vers":"0.1.2","deps":[],"cksum":"79bd5bdddf7ed5b78366c5e9cb0e39b18c389b2099c222cf8fd200244ff7cd8e","features":{"alloc":[],"default":["alloc"],"doc-macros":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-12T17:41:15Z"}
