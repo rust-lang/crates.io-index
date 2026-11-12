@@ -12,3 +12,4 @@
 {"name":"neogeo-memcard","vers":"0.7.1","deps":[],"cksum":"c2b64e31da14ae9000b95dc39b08c2f5e804e63fac9944e11b9fdc9f00154227","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-05T04:34:31Z"}
 {"name":"neogeo-memcard","vers":"0.8.0","deps":[],"cksum":"9c2b3729dcbad4cfec82cb856d4c662f543d811447d8ff4e9a49cefef39b29b7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T06:19:55Z"}
 {"name":"neogeo-memcard","vers":"0.8.1","deps":[],"cksum":"d15f1dc5534b68e2c87b3af38c7c69edff0336992eba579003a136a4a0c9670c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T19:01:44Z"}
+{"name":"neogeo-memcard","vers":"0.8.2","deps":[],"cksum":"66853f2ec07c3e5bc3a3747aa8877d5e398a8330adb8c8b9aec4ea9cd06d3c37","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T21:15:07Z"}
