@@ -1,0 +1,1 @@
+{"name":"walkit","vers":"0.10.0","deps":[{"name":"skrifa","req":"^0.40","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d2d293179ed08c8fe1f29d3a1a6bee825ae9730957dce26842b7f0a2b24ea5a","features":{},"features2":{"truetype":["dep:skrifa"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-12T09:15:52Z","v":2}
