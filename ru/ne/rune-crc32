@@ -1,2 +1,3 @@
 {"name":"rune-crc32","vers":"0.1.0","deps":[],"cksum":"0ff51d481e9e295a49a4711cc7643953d63cdff694a7a0c66706e4529081833b","features":{},"yanked":false,"pubtime":"2026-05-30T20:17:07Z"}
 {"name":"rune-crc32","vers":"0.2.0","deps":[],"cksum":"5ef4b4250de4d04a1b4624ea7ef5c0ee18c14259d30dd50fc2bb57c129f53c8c","features":{"cli":["std"],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T19:59:04Z"}
+{"name":"rune-crc32","vers":"0.2.1","deps":[],"cksum":"cd9bb91e5b044d99cf149477ebef83bcc8c60ee6be632a46a45c6971120e5bf9","features":{"cli":["std"],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T20:56:12Z"}
