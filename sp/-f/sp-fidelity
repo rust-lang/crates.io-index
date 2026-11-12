@@ -2,3 +2,4 @@
 {"name":"sp-fidelity","vers":"0.1.1","deps":[],"cksum":"7f7fb5e6806d76ac8e8b16cd663fba8169561d05a0c7a45546d5d4f9b1030516","features":{},"yanked":false,"pubtime":"2026-10-04T07:22:26Z"}
 {"name":"sp-fidelity","vers":"0.1.2","deps":[],"cksum":"4dc54023f31746c5dc91868ea919404aca1401bdc545445425fdc83269800c10","features":{},"yanked":false,"pubtime":"2026-10-05T07:40:35Z"}
 {"name":"sp-fidelity","vers":"0.2.0","deps":[],"cksum":"5a9e75045752d10ebd2f1c37debac276b4fdfeddf1f3cc420f2b79b742b67d3b","features":{},"yanked":false,"pubtime":"2026-10-06T00:59:15Z"}
+{"name":"sp-fidelity","vers":"0.3.0","deps":[],"cksum":"3367e4c763998ec5667061020dc967f245ca22cc78658187bec7591e8b6a515d","features":{"default":[],"frame-generation":[]},"yanked":false,"pubtime":"2026-11-12T08:54:58Z"}
