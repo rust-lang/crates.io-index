@@ -1,1 +1,2 @@
 {"name":"rune-tokenize","vers":"0.1.0","deps":[],"cksum":"a7339373a2b570fdf44690362baaa4b54f1fc86714623ef57e31489c8211c978","features":{},"yanked":false,"pubtime":"2026-05-10T19:55:24Z"}
+{"name":"rune-tokenize","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.7.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b3dfb19db325dbdecd6af89a17e643ed2d4c5c0613edb04f7caace22bc04e891","features":{"cli":["std"],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T19:18:44Z"}
