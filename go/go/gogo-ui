@@ -2,3 +2,4 @@
 {"name":"gogo-ui","vers":"0.2.0","deps":[],"cksum":"83d1db264f50a08baff6951ec23a1bab119f8dbbeb4dbd10983c8189a7d83e08","features":{},"yanked":false,"pubtime":"2026-11-10T06:57:01Z"}
 {"name":"gogo-ui","vers":"0.2.1","deps":[],"cksum":"7b7c649f3fe8d5e36810e0dd8901151351e2573f6dd6bbe0c5f67586e72c950d","features":{},"yanked":false,"pubtime":"2026-11-10T07:39:16Z"}
 {"name":"gogo-ui","vers":"0.4.0","deps":[],"cksum":"2982e26691586d640fd8f54eec2441c22136b2f9a1db624ecbf21d8e4cb5279f","features":{},"yanked":false,"pubtime":"2026-11-11T08:18:39Z"}
+{"name":"gogo-ui","vers":"0.5.0","deps":[],"cksum":"98377173ba91872936862305acec1f939ca843ad10a994bcc591c2f979e7eca2","features":{"hot-reload":[]},"yanked":false,"pubtime":"2026-11-12T07:33:13Z"}
