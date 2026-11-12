@@ -1,0 +1,1 @@
+{"name":"rune-geofence","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca361e6274a7afe1f398549357d64c4889c4913310fbaffa325807e01f08edbc","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T16:04:56Z","v":2}
