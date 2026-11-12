@@ -32,3 +32,4 @@
 {"name":"ui_layout","vers":"0.12.0","deps":[],"cksum":"c9ac0d4a9eedea837a6af9856b74376c5cc529498a5099fc5c9847a2110cbbec","features":{"layout-bench":[],"unstable":[]},"yanked":false,"pubtime":"2026-07-29T02:06:53Z"}
 {"name":"ui_layout","vers":"0.12.1","deps":[],"cksum":"8271773c153b5d6539260e8bf62559003ea830d7049cd643b77bcfcbdba1829a","features":{"layout-bench":[],"unstable":[]},"yanked":false,"pubtime":"2026-08-01T06:49:20Z"}
 {"name":"ui_layout","vers":"0.13.0","deps":[],"cksum":"afbdfab90b0052416a13fa78be0f151f5bb6480242601b97e76207f58e8761b0","features":{"layout-bench":[]},"yanked":false,"pubtime":"2026-11-08T10:46:04Z"}
+{"name":"ui_layout","vers":"0.13.1","deps":[],"cksum":"058ca5add0b77b34805ef0491904f585d37c680cb3c8a089c8833456f9e069da","features":{"layout-bench":[]},"yanked":false,"pubtime":"2026-11-12T12:57:48Z"}
