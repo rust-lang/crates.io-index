@@ -1,0 +1,1 @@
+{"name":"dpma-bytes","vers":"0.1.1","deps":[{"name":"bstr","req":"^1.13","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"78827f2f0bc3ccdc6e8b221a3917a8fbb77dac031fddd20bdaadaee5cb4b2614","features":{},"yanked":false,"pubtime":"2026-11-12T04:53:26Z"}
