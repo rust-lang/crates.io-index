@@ -2,3 +2,4 @@
 {"name":"thruput-rv32-runtime","vers":"0.59.0","deps":[],"cksum":"297f52b27206c3afa10fd8d5a471ae61e57b24025c3a9612257fc3996a5ee71e","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-11-05T17:11:11Z"}
 {"name":"thruput-rv32-runtime","vers":"0.60.0","deps":[],"cksum":"0e0d4967d3edef01288fa8caff7c57f3cc719d1750b82f26418510cb4d647f56","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-11-05T23:04:14Z"}
 {"name":"thruput-rv32-runtime","vers":"0.60.1","deps":[],"cksum":"47c1a6916e1c93e3ff6650dded8dcfb8d99048f7997290aae0947c4fa318cbdb","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-11-09T21:13:03Z"}
+{"name":"thruput-rv32-runtime","vers":"0.61.0","deps":[],"cksum":"83df03733eef2bfb5db850dc2b7efb6f531f3d4f8e2f2529fe5f226e4df40566","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-11-12T23:45:35Z"}
