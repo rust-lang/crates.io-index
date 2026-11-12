@@ -2,3 +2,4 @@
 {"name":"step_link","vers":"0.2.0","deps":[],"cksum":"5ce3b7a50ddfd5ae5bf57443fef2e9bd4429d79f1d36036c7b079e27b64d893b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T13:41:00Z"}
 {"name":"step_link","vers":"0.2.1","deps":[],"cksum":"1f22369e799adf83d3d68de3ebf20218dd46ad32ec2db9f83250805d7382cb75","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T18:56:41Z"}
 {"name":"step_link","vers":"0.3.0","deps":[],"cksum":"c6daba199906c0e352b691f5bd6e769125d04c316174a18afa19f9a615fa7968","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T21:22:25Z"}
+{"name":"step_link","vers":"0.4.0","deps":[{"name":"spade","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c50a5fb74ffbf147e9e2177ba725a4069b837d75fb77cc15160b94896749a9d4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T22:00:05Z"}
