@@ -1,1 +1,2 @@
 {"name":"rstypes","vers":"0.1.0-alpha.1","deps":[],"cksum":"4205951702cf8726ff2690a245d95ee2efbe0b8bfd44345736dc8da10c691698","features":{},"yanked":false,"pubtime":"2026-11-05T01:22:48Z"}
+{"name":"rstypes","vers":"0.1.0-alpha.2","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":false,"target":"cfg(loom)","kind":"dev"}],"cksum":"84124ec6ddf6cab39532f2780de6af83d9136aa2f183cc5295b4364e61842cd8","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-11-12T05:23:09Z"}
