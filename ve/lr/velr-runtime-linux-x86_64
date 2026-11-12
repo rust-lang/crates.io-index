@@ -36,3 +36,4 @@
 {"name":"velr-runtime-linux-x86_64","vers":"0.2.55","deps":[],"cksum":"af58639a39fc147212265257d87f46889da14b3f302e5baaa79278c0e611f0e7","features":{},"yanked":false,"pubtime":"2026-10-23T12:57:06Z"}
 {"name":"velr-runtime-linux-x86_64","vers":"0.2.56","deps":[],"cksum":"ac72808e16ea2d92d1806d89dcfe25a49fc3bbb528baf1a41e72225def43a097","features":{},"yanked":false,"pubtime":"2026-10-26T09:40:19Z"}
 {"name":"velr-runtime-linux-x86_64","vers":"0.2.57","deps":[],"cksum":"b62e86d6bdbd53f7ba3079cdde86e7c14fc8cc95620a0b84bd1ae940976079c6","features":{},"yanked":false,"pubtime":"2026-11-05T11:52:27Z"}
+{"name":"velr-runtime-linux-x86_64","vers":"0.2.59","deps":[{"name":"zstd","req":"^0.13","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"f42af31dcc89d76e679223205bfc4f1c4c06973fc365a0511cbea318be5d825e","features":{},"yanked":false,"pubtime":"2026-11-12T19:01:39Z"}
