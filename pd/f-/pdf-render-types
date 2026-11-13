@@ -1,0 +1,1 @@
+{"name":"pdf-render-types","vers":"1.0.0","deps":[{"name":"phf","req":"^0.13.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85810eae0324cda4ca27da626d5ea398531e572c6927314550c8d0187138c44b","features":{"default":["embed-fonts"],"embed-fonts":[]},"yanked":false,"pubtime":"2026-11-13T06:17:46Z"}
