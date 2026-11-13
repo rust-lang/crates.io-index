@@ -1,0 +1,1 @@
+{"name":"network-emulation-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be1b221b9cd01efa451dec2a7cd7d7356b3f7116d09c8998a3326574e4576920","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T05:42:29Z"}
