@@ -1,0 +1,1 @@
+{"name":"xrack-syntax","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d37216bfa52d6b75be0e28b8e570337f9e1ca99df1d99cdde5be7336777fd826","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-13T20:13:25Z"}
