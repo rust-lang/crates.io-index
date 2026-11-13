@@ -2,3 +2,4 @@
 {"name":"lease-machines","vers":"0.2.2","deps":[],"cksum":"fb04693acaf4e6eb54454e658272fc6e99f5f21575be7cf375fc455944b06a8e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T16:47:57Z"}
 {"name":"lease-machines","vers":"0.3.0","deps":[],"cksum":"f07f1f97747a36855fb9d72752082c62759e7b5d4354e9ca359b24e0d72814d9","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T17:41:31Z"}
 {"name":"lease-machines","vers":"0.3.1","deps":[],"cksum":"791bd35500a8792e2f4dc13a2b368988fae7219992c4f706b16597937b728bc3","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T20:24:22Z"}
+{"name":"lease-machines","vers":"0.4.0","deps":[{"name":"periscope-machines","req":">=0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ace40b477898c7b4b3c77c8da96069f5da1a8cbe94c8717fefe87bb141bf00e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T22:45:17Z"}
