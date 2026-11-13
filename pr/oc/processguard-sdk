@@ -1,0 +1,1 @@
+{"name":"processguard-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d03e23536de8ad2ef21c4d42e366ccef39b8730288ab4ef279701fd6ea2c1c7","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T04:53:59Z"}
