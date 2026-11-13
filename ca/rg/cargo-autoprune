@@ -1,1 +1,2 @@
 {"name":"cargo-autoprune","vers":"0.1.0","deps":[],"cksum":"909decab68713ea912c4e000a00f54e799ac94894743b7b23d784dc7bb5af1c9","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-10T12:59:50Z"}
+{"name":"cargo-autoprune","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.12.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"32a806258799ab2ef1bc715b1a04981cf5bd6e98e4b20eea7b1782305c52a24d","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-13T20:02:14Z"}
