@@ -10,3 +10,4 @@
 {"name":"pagesift-compress","vers":"1.2.6","deps":[],"cksum":"cfe4036813580ab52673f3e650ee4f0bfe9f0764dae65e10a1768c2fdbc7b52c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T08:11:36Z"}
 {"name":"pagesift-compress","vers":"1.2.7","deps":[],"cksum":"5631dba02570ac864435ed8a1a965b189d4ac629187e6580a00351e48794d1ba","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T19:03:57Z"}
 {"name":"pagesift-compress","vers":"1.3.0","deps":[],"cksum":"eefd68d864861fdf8d1e7f76a73c5c57a30f5c16d3fcf592d85b76babc8351bb","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-12T07:43:18Z"}
+{"name":"pagesift-compress","vers":"1.4.0","deps":[{"name":"yolowzstd","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaf507b7e3db0cfb124af682c6c607c600eff002509835a349066f4b854dd43f","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-13T21:22:42Z"}
