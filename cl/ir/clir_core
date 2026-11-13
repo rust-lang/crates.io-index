@@ -1,1 +1,2 @@
 {"name":"clir_core","vers":"0.1.0","deps":[],"cksum":"31d7182f6a723bb29c57e08b6ccb718c27f3be3a4e74bc809dbcbc4972f5bc24","features":{},"yanked":false,"pubtime":"2026-11-08T18:21:45Z"}
+{"name":"clir_core","vers":"0.1.1","deps":[{"name":"colored","req":"^3.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15c6bbe9fee702e8664a0a17cf7fd7dd7007f1ae1f1975ea548fd68ace5adb52","features":{},"yanked":false,"pubtime":"2026-11-13T14:23:55Z"}
