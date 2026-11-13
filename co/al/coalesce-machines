@@ -2,3 +2,4 @@
 {"name":"coalesce-machines","vers":"0.3.0","deps":[],"cksum":"2653bcefc63870af2d889c7596150481786fcc221f11e3e58aed9abf272dc1e0","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T16:02:21Z"}
 {"name":"coalesce-machines","vers":"0.4.0","deps":[],"cksum":"e01ca36e605434e86e3bada43ff9311ddd5eac004443d1a4a6646a7e3b640504","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T16:26:00Z"}
 {"name":"coalesce-machines","vers":"0.5.0","deps":[],"cksum":"927e81e8d4c1235c63f6c086376375b7fbdf9c441cd0c1ecae65d7180b4cb5d7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T19:02:54Z"}
+{"name":"coalesce-machines","vers":"0.6.0","deps":[{"name":"periscope-machines","req":">=0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26f2c8d07f33c9f1c6d8c258a14ac1b9475084ded16659c303d37c7cd2354f33","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T20:36:59Z"}
