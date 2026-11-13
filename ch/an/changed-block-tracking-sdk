@@ -1,0 +1,1 @@
+{"name":"changed-block-tracking-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdd604eee9e39085395a81c12dcb8a44da1f45cef536c7b0b486be01563c0dc4","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T06:55:50Z"}
