@@ -1,0 +1,1 @@
+{"name":"idiomatic-sh-ryo-relations","vers":"0.1.4","deps":[{"name":"strum","req":"=0.27.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d452551f31bf87aa330ffab0fd786a535ee910b384c7538022a38647e42718b4","features":{"fixtures":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-13T14:20:00Z"}
