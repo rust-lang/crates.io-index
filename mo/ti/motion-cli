@@ -1,0 +1,1 @@
+{"name":"motion-cli","vers":"0.2.0","deps":[{"name":"motion","req":"^0.2.0","features":["declarative"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"motion-rs"}],"cksum":"4834b81ab295ce982ded9894970f860f5e3194d225c27b26aa4ee736e910cee7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T14:52:46Z"}
