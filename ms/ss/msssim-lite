@@ -1,1 +1,2 @@
 {"name":"msssim-lite","vers":"0.1.0","deps":[],"cksum":"21c97f7477f8415c8fa03561fbbeff1a016bc40f8760a65b38d9cb660cb9ccd1","features":{"avx":[],"default":["avx","neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-11-11T08:37:57Z"}
+{"name":"msssim-lite","vers":"0.1.1","deps":[],"cksum":"8d263eaaf8ffe950431edabf34ca3fdf9739f72c026b7fe5f6fb16ba75329d25","features":{"avx":[],"default":["avx","neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-11-13T03:56:51Z"}
