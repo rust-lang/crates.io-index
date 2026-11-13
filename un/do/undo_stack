@@ -14,3 +14,4 @@
 {"name":"undo_stack","vers":"0.2.3","deps":[],"cksum":"e52508cf591fbe83968b1a5922b35bf60a8d20ed2fd45f04b13333280ac85863","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2024-08-06T04:00:11Z"}
 {"name":"undo_stack","vers":"0.2.4","deps":[],"cksum":"9204715ebc4e7f5bfae5a7afcd98e49873d993e7b84b1e0d0e37727244308a9c","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2024-08-11T20:39:53Z"}
 {"name":"undo_stack","vers":"0.2.5","deps":[],"cksum":"b1d25e75b5b38af10f9c0386a145ff8d3542c5fa19faee430ef3448f9ed44696","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-11-12T22:16:20Z"}
+{"name":"undo_stack","vers":"0.3.0","deps":[],"cksum":"5960fe56c34ce69a7eed2889b2b03b5c98784192a8ec023d94d7d971fd79a18c","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-11-13T03:39:29Z"}
