@@ -1,1 +1,2 @@
 {"name":"mediax-core","vers":"0.0.0","deps":[],"cksum":"074eaa8850e1b7bb8e304ca35a4eb412b262d802cf29911aca474b0ba6206894","features":{},"yanked":false,"pubtime":"2026-11-03T03:14:56Z"}
+{"name":"mediax-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af06e7489d8b5068dfc3c38ab9158dafab97c12c7b239533535f18c1a1303c07","features":{},"yanked":false,"pubtime":"2026-11-13T22:46:28Z"}
