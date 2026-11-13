@@ -2,3 +2,4 @@
 {"name":"thruput-syscall","vers":"0.64.0","deps":[],"cksum":"1b3143969099aa92524a7eda227b0b43217534ababec96507f69a1267831d223","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-05T16:13:57Z"}
 {"name":"thruput-syscall","vers":"0.65.0","deps":[],"cksum":"ab27e61b2ad5ba96bc2add3aded753b9c8f330331be8595cd41fa71ea60985ad","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-05T22:30:05Z"}
 {"name":"thruput-syscall","vers":"0.66.0","deps":[],"cksum":"b6ab2c5fc8fc4f3e8404964c7068c5136b829214fe7cff75ba72b126d9f8783d","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-12T20:22:24Z"}
+{"name":"thruput-syscall","vers":"0.66.1","deps":[],"cksum":"1bf736fccd5abff3c3efe90d398d9e575360fc187247847c8fee9de7442c5511","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-13T13:32:24Z"}
