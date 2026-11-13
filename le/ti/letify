@@ -31,3 +31,4 @@
 {"name":"letify","vers":"3.0.2","deps":[],"cksum":"73853cc5502a72505362313bd57d979130ceaf5683e42f77e21a50e47a17b00d","features":{},"yanked":false,"pubtime":"2026-11-08T05:49:07Z"}
 {"name":"letify","vers":"3.0.3","deps":[],"cksum":"bb6cced65eda824bdf87ba7cfec942061e89d964f3982a071083380d324486dd","features":{},"yanked":false,"pubtime":"2026-11-08T06:21:17Z"}
 {"name":"letify","vers":"3.0.4","deps":[],"cksum":"88e641ecca222704b8777df6167c4e062a3b575dfbec306062072a177cbc118f","features":{},"yanked":false,"pubtime":"2026-11-13T00:01:14Z"}
+{"name":"letify","vers":"3.0.5","deps":[{"name":"letify-link","req":"=3.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0ec8d01881ef6bf2b2265596923ba85bd1cf2075866506f3f76fbfda03fcd75","features":{"relay":["letify-link/relay"]},"yanked":false,"pubtime":"2026-11-13T02:07:49Z"}
