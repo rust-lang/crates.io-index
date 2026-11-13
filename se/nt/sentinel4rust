@@ -1,1 +1,2 @@
 {"name":"sentinel4rust","vers":"0.0.1","deps":[],"cksum":"972f1f59c75212e6151227beab3cf197a376aedc832d8f90ee93a2605092637a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-23T15:42:14Z"}
+{"name":"sentinel4rust","vers":"0.1.0","deps":[{"name":"sentinel4rust-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51418455d6685e05586b1de4e7e0729703f83d3dfd46498c186a3d9f5404aff4","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-13T20:13:22Z"}
