@@ -15,3 +15,4 @@
 {"name":"kyaaa","vers":"0.2.2","deps":[],"cksum":"07bdaf953ecd41b5707716fd1f40a70b956e38f259688089d95285a6a7633205","features":{},"yanked":false,"pubtime":"2026-09-08T02:11:21Z"}
 {"name":"kyaaa","vers":"0.2.3","deps":[],"cksum":"3bd0648d6ab7c9ab7aa0b6d7afb12f2dc0656f065cd9aa42ae70db5ccbc2391b","features":{},"yanked":false,"pubtime":"2026-09-26T13:21:38Z"}
 {"name":"kyaaa","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"160068ca078594ade0b754e5b79b9805ca310cb2349a6ab191158e4abbc17233","features":{},"yanked":false,"pubtime":"2026-11-13T00:53:34Z"}
+{"name":"kyaaa","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_os = \"none\"))","kind":"dev"}],"cksum":"578a303e5228c5802ac8baecc634dba46e63ce3a3aac1cfc2cc6a57832487b55","features":{},"yanked":false,"pubtime":"2026-11-13T01:34:31Z"}
