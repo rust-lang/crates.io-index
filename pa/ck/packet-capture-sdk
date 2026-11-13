@@ -1,0 +1,1 @@
+{"name":"packet-capture-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6df853394ccafc4713d4f6a266836a2eff90ce9f69664533f1b73cd1a2259f77","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T05:52:40Z"}
