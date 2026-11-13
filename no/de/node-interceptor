@@ -1,0 +1,1 @@
+{"name":"node-interceptor","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c35f13531554f1a7efdb0ee0071e3ed4339dd05c4ebdbd869181668e4f6dff0c","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T07:52:39Z"}
