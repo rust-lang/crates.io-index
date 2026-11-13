@@ -1,0 +1,1 @@
+{"name":"virtual-network-adapter-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3d41ee68599440c44d06f954e05f4e7ad83d6c649a4b8e5e408bd363eeea351","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T06:12:30Z"}
