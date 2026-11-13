@@ -12,3 +12,4 @@
 {"name":"zeph-agent-tools","vers":"0.22.3","deps":[],"cksum":"5dd75d34c85c62ea7376b5fb747c430b11b0979117cb370cb604f2355450806e","features":{},"yanked":false,"pubtime":"2026-07-22T00:06:11Z"}
 {"name":"zeph-agent-tools","vers":"0.22.4","deps":[],"cksum":"41790768911e1077d12215298bffab7ba27ec57e28b15adf85da7a167074a9f9","features":{},"yanked":false,"pubtime":"2026-08-16T17:59:25Z"}
 {"name":"zeph-agent-tools","vers":"0.22.5","deps":[],"cksum":"4a6f36c7b5a5cbfbf3c99a7feac718c6578cc5aeee64f9bfc5286026793ec3ab","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-18T09:38:33Z"}
+{"name":"zeph-agent-tools","vers":"0.23.0","deps":[],"cksum":"731854fed52acdabdfd6438ca938dda4a4de9710f6977340eee6b5cf1241afb5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-13T19:02:49Z"}
