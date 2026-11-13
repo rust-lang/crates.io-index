@@ -1,0 +1,1 @@
+{"name":"vf_event","vers":"0.1.0","deps":[],"cksum":"15367e51192c97d70e1f6491868a87d571f5e00c1ef75e2b955da547f0cc0833","features":{"callback":[],"default":["callback","event","signal"],"event":["callback","subscription"],"signal":["callback","subscription"],"subscription":[]},"yanked":false,"pubtime":"2026-11-13T21:20:20Z"}
