@@ -1,1 +1,2 @@
 {"name":"jflib-rt","vers":"0.1.0","deps":[],"cksum":"c0a50e243a77c35e84fe4e2ce6e53e39b9455284d68458606ff6d2ff3172482f","features":{"std":[]},"yanked":false,"links":"jflib_rt","rust_version":"1.98","pubtime":"2026-11-08T11:29:02Z"}
+{"name":"jflib-rt","vers":"0.2.0","deps":[],"cksum":"690bc0bc489139de97588d9707d63be99205d660c7a696534db7f40db7ec1e53","features":{"std":[],"unwind":["std"]},"yanked":false,"links":"jflib_rt","rust_version":"1.98","pubtime":"2026-11-14T11:19:20Z"}
