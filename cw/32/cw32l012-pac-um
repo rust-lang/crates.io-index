@@ -1,0 +1,1 @@
+{"name":"cw32l012-pac-um","vers":"0.3.0","deps":[{"name":"cortex-m-rt","req":"^0.7","features":["device"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d557e7b0db819e0aa76789d8b877a60d79a3a5e402ee6dab88bca68df3e25f0e","features":{},"features2":{"rt":["dep:cortex-m-rt"]},"yanked":false,"rust_version":"1.60","pubtime":"2026-11-14T02:24:57Z","v":2}
