@@ -1,3 +1,4 @@
 {"name":"cache-machines","vers":"0.2.0","deps":[],"cksum":"a70cde4344c2da268efb1a0c85b00128a1ea1e1ad6d496d9214fc1096afb996b","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T14:56:58Z"}
 {"name":"cache-machines","vers":"0.2.2","deps":[],"cksum":"db65793de6ccab23dc1b735214efcd7e087c7bd9ccd9315eb721ade776fe03cf","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T16:47:30Z"}
 {"name":"cache-machines","vers":"0.3.0","deps":[],"cksum":"1d3d0412f5f1f2d9f4b52b9cffd4e2245af865869c65ef6d364742dee09cfa17","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:26:01Z"}
+{"name":"cache-machines","vers":"0.4.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"c736aa468024f6857b3890ff83127cd2eb5a4ee8747f5430038be13f3195298f","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:10:38Z"}
