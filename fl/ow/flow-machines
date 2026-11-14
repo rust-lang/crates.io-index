@@ -2,3 +2,4 @@
 {"name":"flow-machines","vers":"0.2.2","deps":[],"cksum":"9e4551eb1d0ea18d585036a0756f84d5dda9f594ee0900ca0f36bb2565cb90af","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T16:47:51Z"}
 {"name":"flow-machines","vers":"0.3.0","deps":[],"cksum":"f955d7e765324600022e831b334229c1e26006115179116f221258ccd1c5fc29","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T22:45:12Z"}
 {"name":"flow-machines","vers":"0.3.1","deps":[],"cksum":"2a9477114ea953ec6509e270c62b6a1611aca70e4dd59682f418588c2e6fff1a","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:25:35Z"}
+{"name":"flow-machines","vers":"0.4.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"1816984a832b3362d685d56c20a05536e8c6e93d3814f978384bf9e1c5c28b25","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:34Z"}
