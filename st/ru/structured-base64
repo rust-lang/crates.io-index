@@ -3,3 +3,4 @@
 {"name":"structured-base64","vers":"0.21.5","deps":[],"cksum":"114b3ffb84232703c49b50665214075042498002b49e34c4816a760e497dd6ab","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-13T19:31:42Z"}
 {"name":"structured-base64","vers":"0.22.0","deps":[],"cksum":"7546e427129ef88bb5439ad3ec7c5b1b91f490e4d3ffe6ea4fe0a72b52d020c9","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-13T22:51:44Z"}
 {"name":"structured-base64","vers":"0.22.1","deps":[],"cksum":"f2b75dfa5ff63de45e37c23ec6c1272a4e246b30ceef9598bcc8e8ee8aa210f2","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-14T08:39:51Z"}
+{"name":"structured-base64","vers":"0.22.2","deps":[],"cksum":"a4ccd48fd47af5252a8c34e797bd1da8a5c56f6a498299e97be7c6918ccaa598","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-14T13:39:36Z"}
