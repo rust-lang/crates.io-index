@@ -2,3 +2,4 @@
 {"name":"window-machines","vers":"0.2.2","deps":[],"cksum":"5d72c3a8aa15c190bfc0d96cc018835848d160230dc4c89be407004939a32e44","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T16:48:24Z"}
 {"name":"window-machines","vers":"0.3.0","deps":[],"cksum":"48677a5ca075a589d4e7943a8c51009dc1258e0b2802cd6f8e9b0d80a491eb47","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T22:44:53Z"}
 {"name":"window-machines","vers":"0.4.0","deps":[],"cksum":"6b8091d30fd91799ac2f2959b51ed2ac7b6ff6841e69996b580df9cc343d0bc1","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:26:01Z"}
+{"name":"window-machines","vers":"0.5.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"122f9ca8679273a535a65b511e6f3573ab7e9ff4055beecf26b6cf8df6a19aa8","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:57Z"}
