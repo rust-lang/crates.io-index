@@ -1,2 +1,3 @@
 {"name":"mahbot-rlx-gpu-dispatch","vers":"0.2.18-mahbot.1","deps":[],"cksum":"fb864ee101850d352b3f41c1626120e6f4e91629b2cd9eb462dcac71d9086ab2","features":{"backend-tests":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-04T12:07:11Z"}
 {"name":"mahbot-rlx-gpu-dispatch","vers":"0.2.18-mahbot.2","deps":[],"cksum":"ed30a9a3ad81d77160b44c3b673e110b0ef9f1a2e11c375f98c93d98b081e394","features":{"backend-tests":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-05T00:16:56Z"}
+{"name":"mahbot-rlx-gpu-dispatch","vers":"0.2.18-mahbot.3","deps":[],"cksum":"55266ebc5f93ca3c3183ce6682fae48204fcd21d9cf7bf22317347ba5222cde9","features":{"backend-tests":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T09:13:01Z"}
