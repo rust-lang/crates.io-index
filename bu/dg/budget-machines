@@ -2,3 +2,4 @@
 {"name":"budget-machines","vers":"0.3.0","deps":[],"cksum":"cbc7e7a13f6d32b91be2be4a48a5ed25dc23492a8e66e4f11348ea96eb83d821","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T16:25:55Z"}
 {"name":"budget-machines","vers":"0.4.0","deps":[],"cksum":"1c7a9aca8b17c1158723feace86441059d0eb8b1db14295ba7ca66d87634f787","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T19:03:13Z"}
 {"name":"budget-machines","vers":"0.5.0","deps":[],"cksum":"ebf39630ddfe8fb9e41154239af61471e4c6a36bf60c8742fe87dda6c9f883c9","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:25:34Z"}
+{"name":"budget-machines","vers":"0.6.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"9605208717004eb4b3cd0771cdb9af077dc8b4dcd46e4dac35da27a84d773f0a","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:57Z"}
