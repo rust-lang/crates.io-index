@@ -1,0 +1,1 @@
+{"name":"cascivo-tui","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30","features":["crossterm_0_29"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96f7239fc3118e1d1e18cbf24f91e01c62789c15f8187db4fb36e93fc8cdefdc","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-14T09:36:33Z"}
