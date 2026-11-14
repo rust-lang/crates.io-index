@@ -1,1 +1,2 @@
 {"name":"snapfire_i18n","vers":"0.1.0","deps":[],"cksum":"5c832fa31d9447cf2da9c7b06ea9c40ebea5f9f95242a35ca8b2f8c190bef76d","features":{},"yanked":false,"pubtime":"2026-11-06T14:02:33Z"}
+{"name":"snapfire_i18n","vers":"0.2.0","deps":[],"cksum":"bf40ee1cc96b8520dfa0e662c32f009127201a327f728a3961d7ec4007d3fa76","features":{"default":["embedded","display_names"],"display_names":["embedded"],"embedded":[]},"yanked":false,"pubtime":"2026-11-14T09:04:43Z"}
