@@ -2,3 +2,4 @@
 {"name":"quorum-machines","vers":"0.2.2","deps":[],"cksum":"107412013d89da06eb91764ae0b9f3c4b0c2e145a00054addf505f60868857c3","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T16:48:13Z"}
 {"name":"quorum-machines","vers":"0.3.0","deps":[],"cksum":"aa3bbc165ea7c12400186a1437fb4c9629ced370682ea4bfbdda0163a2394598","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T22:45:12Z"}
 {"name":"quorum-machines","vers":"0.3.1","deps":[],"cksum":"fb6bd842d2d82ffb039c7c94ef6ef723462061436504f6835bc528d4f9b40988","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:25:35Z"}
+{"name":"quorum-machines","vers":"0.4.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"81f0d1e5224d6f97bfa8ccf74378fc2457c80192f3e31a2f2f1a357b2564cf23","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:50Z"}
