@@ -1,0 +1,1 @@
+{"name":"paleo","vers":"0.1.0","deps":[{"name":"symphonia","req":"^0.6.1","features":["all-codecs","all-formats","opt-simd"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1a1c42883fc6f2bcd7b195ac0e12f7ec3493baa5289ed8df5430c45931977917","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-14T10:04:17Z"}
