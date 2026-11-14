@@ -2,3 +2,4 @@
 {"name":"causal-machines","vers":"0.3.0","deps":[],"cksum":"f818157de6d9759026b7b5f84116616c605cb6f698b1ca278ecd7ea57bf2d546","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T16:25:37Z"}
 {"name":"causal-machines","vers":"0.4.0","deps":[],"cksum":"8b2ceca7b44fc3d399dcf5be4061820926261dc7f1f70552d475de160812948a","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T19:02:54Z"}
 {"name":"causal-machines","vers":"0.5.0","deps":[],"cksum":"70871a5786e7da4e392a346805dd0ba52c50dac07404f15ba049f23012343aa8","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:25:35Z"}
+{"name":"causal-machines","vers":"0.6.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"86962322e3674e160f6b13fedf68730509547da27716b45ed1891dc71c2a5e02","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:30Z"}
