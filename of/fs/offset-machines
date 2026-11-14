@@ -1,3 +1,4 @@
 {"name":"offset-machines","vers":"0.2.0","deps":[],"cksum":"36d7b64817baac23af7557408a4b394ef825c3baad3ec2a85a3f4ea88d163787","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-12T19:39:53Z"}
 {"name":"offset-machines","vers":"0.3.0","deps":[],"cksum":"96c09da4ec020c8438f08b13112124909d350c0a2e95132225d9e48b5edc514e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T19:02:56Z"}
 {"name":"offset-machines","vers":"0.4.0","deps":[],"cksum":"7342b0289d2bc928359dd259b07f20d014521402e226f5cdb823da41ccfea4a7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T01:25:10Z"}
+{"name":"offset-machines","vers":"0.5.0","deps":[{"name":"matryona-machines","req":">=0.2","features":["testing"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b28aaf7bc10475338c4a4e2dd581bcf52567c787676855cc68092bf2f76c263b","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T11:09:33Z"}
