@@ -1,0 +1,1 @@
+{"name":"mlirbinary","vers":"0.2.0","deps":[{"name":"mlirformat","req":"^0.8.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"88998a94c39476b4a3c8c313e87339e2efc9d4be1b3364632bf80fd80c547cd9","features":{"default":["std","spirv"],"spirv":[],"std":["mlirformat/std"]},"yanked":false,"pubtime":"2026-11-16T20:57:44Z"}
