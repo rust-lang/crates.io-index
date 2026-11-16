@@ -12,3 +12,4 @@
 {"name":"sutegi-http","vers":"0.12.0","deps":[],"cksum":"5689a0bb64e3679f658aba7159aea569c3589d13252533cbe877101cac6f0e8c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-17T08:42:06Z"}
 {"name":"sutegi-http","vers":"0.13.0","deps":[],"cksum":"c87e8e254c958bc468d07ad2d266444c640f6735e26929c4f1ab4a7ce5e11b98","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-08T09:09:13Z"}
 {"name":"sutegi-http","vers":"0.14.0","deps":[],"cksum":"6228458f436dffe717d7c795ca84cf0a7072187d1021ba9d33887f020fbdaada","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-15T15:11:56Z"}
+{"name":"sutegi-http","vers":"0.15.0","deps":[],"cksum":"66871a2d44689b6fed2dba5205c2ff9fb9e55d25bcdefebeca6da0477442b8ac","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-16T15:40:18Z"}
