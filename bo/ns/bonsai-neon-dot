@@ -4,3 +4,4 @@
 {"name":"bonsai-neon-dot","vers":"0.1.3","deps":[],"cksum":"a97d60b4dbcbbbab0b3f840f35c14c7213cd73190fa5a50d4027ed6b30abfe96","features":{},"yanked":false,"rust_version":"1.101","pubtime":"2026-11-13T17:49:32Z"}
 {"name":"bonsai-neon-dot","vers":"0.1.4","deps":[],"cksum":"4ed1f04c0f8dad5272f0738ea9def44cf5abfd1030b1b68b69ea6e982d42e678","features":{},"yanked":false,"rust_version":"1.101","pubtime":"2026-11-14T08:53:47Z"}
 {"name":"bonsai-neon-dot","vers":"0.1.5","deps":[],"cksum":"eb88f7086bc2946a4a8059643105cdc92449d004fbb55892cbb3999e090843d5","features":{},"yanked":false,"rust_version":"1.101","pubtime":"2026-11-15T18:06:28Z"}
+{"name":"bonsai-neon-dot","vers":"0.1.6","deps":[{"name":"bonsai-ternary","req":"=0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e0a0891e6efade20e21ab528058aa9ebf851699dbc37f2a735f66e7efe3f644","features":{},"yanked":false,"rust_version":"1.101","pubtime":"2026-11-16T15:13:52Z"}
