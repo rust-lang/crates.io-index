@@ -1,1 +1,2 @@
 {"name":"fpeg-cli","vers":"0.0.0","deps":[],"cksum":"f9532194678ed8a2956cb7ac3cb203850db581bb9ecd061cef5e2d6434cef9f6","features":{},"yanked":false,"pubtime":"2026-11-16T08:56:54Z"}
+{"name":"fpeg-cli","vers":"0.1.0","deps":[{"name":"fpeg","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f5e9b888ea434bac9ccc65f0910ba56494af86758afa936b16a1f123b9c6139","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-16T14:10:37Z"}
