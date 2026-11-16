@@ -3,3 +3,4 @@
 {"name":"rustbcx","vers":"0.3.0","deps":[],"cksum":"b82655a112b35a68a09bef83ecd139f4c0a1bec0af998294e8420b37657d2ca0","features":{"nightly-simd":[]},"yanked":false,"pubtime":"2026-11-16T07:25:47Z"}
 {"name":"rustbcx","vers":"0.3.1","deps":[],"cksum":"5504bc0a832485395250dcca57875185e874ac2569e58bb5714cfd3d13eca8c7","features":{"nightly-simd":[]},"yanked":false,"pubtime":"2026-11-16T08:57:18Z"}
 {"name":"rustbcx","vers":"0.3.2","deps":[],"cksum":"ee574c7b395740374a4a9eaecf872e1100209d2cb641bef677b20079c2e77efd","features":{"nightly-simd":[]},"yanked":false,"pubtime":"2026-11-16T10:05:26Z"}
+{"name":"rustbcx","vers":"0.4.0","deps":[],"cksum":"803a8d0a3e02effb0914af2b9fa34d7fcf586141001320e9cc85a71bb380b3ba","features":{"nightly-simd":[]},"yanked":false,"pubtime":"2026-11-16T18:30:28Z"}
