@@ -1,0 +1,1 @@
+{"name":"era2m_wavedoc_core","vers":"0.2.1","deps":[{"name":"mermaid-rs-renderer","req":"^0.3.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8df58a77a3dde839031b4a96f6582fee6042aad2c73ad552d36671f90da97886","features":{},"features2":{"mermaid":["dep:mermaid-rs-renderer"]},"yanked":false,"pubtime":"2026-11-16T14:46:50Z","v":2}
