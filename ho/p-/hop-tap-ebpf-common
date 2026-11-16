@@ -1,0 +1,1 @@
+{"name":"hop-tap-ebpf-common","vers":"0.2.30","deps":[{"name":"aya","req":"^0.13","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"470cf960c1e2bc2cec91d6f807fd297fbdffee2087755bfea228d1abee7c4472","features":{"default":[],"user":[]},"yanked":false,"pubtime":"2026-09-05T16:28:00Z"}

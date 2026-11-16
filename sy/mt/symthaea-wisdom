@@ -1,0 +1,1 @@
+{"name":"symthaea-wisdom","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9be7dc7af8dd6353e687966c6e755f96329c82d45e1a4248811d6755d51abc5","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-13T15:43:05Z"}

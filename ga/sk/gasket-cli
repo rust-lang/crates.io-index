@@ -1,0 +1,1 @@
+{"name":"gasket-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7a1455a49f880433560977ca4cf46fdc26e3aa6b63eb3c98eb49e3d6e16b637","features":{},"yanked":false,"pubtime":"2026-10-26T05:45:53Z"}

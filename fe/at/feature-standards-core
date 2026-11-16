@@ -1,0 +1,1 @@
+{"name":"feature-standards-core","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d658356e7df94697925c7ff005d9346acf05a916fe247e424e90adc32c83d7b","features":{},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-11-06T10:20:20Z"}

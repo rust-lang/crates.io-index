@@ -1,0 +1,1 @@
+{"name":"cost-meter","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13e2ac05428f1a03bbfb3b94e3f8e1bff20e1975e39d74036f3765d257a23615","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-16T17:57:36Z","v":2}

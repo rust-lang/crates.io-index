@@ -1,0 +1,1 @@
+{"name":"coremark","vers":"1.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d53e4b2bd78a36a0b0ccf1e94d68643201b131c712621f8855be6538f6206f48","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"pubtime":"2026-10-12T15:41:30Z","v":2}

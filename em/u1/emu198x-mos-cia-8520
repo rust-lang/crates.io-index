@@ -1,0 +1,1 @@
+{"name":"emu198x-mos-cia-8520","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4181afad5c0bd5bc0bf701bdbe69066ea1b592a4be99bed749ab7652d38350b0","features":{},"yanked":false,"pubtime":"2026-10-26T11:49:53Z"}

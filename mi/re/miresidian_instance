@@ -1,0 +1,1 @@
+{"name":"miresidian_instance","vers":"0.17.0","deps":[{"name":"miresidian_codec","req":"=0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bcd230e01c11a9e556c76027554369dea3332a3ec9a1664e75f9d531ea5f029","features":{"default":[],"runtime":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T17:16:11Z"}

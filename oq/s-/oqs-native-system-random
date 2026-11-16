@@ -1,0 +1,1 @@
+{"name":"oqs-native-system-random","vers":"0.16.0","deps":[{"name":"oqs-native-domain","req":"^0.16.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d088fef4059be5224dc48fa6671b4e7ec61fdea2ec0e936fab5fb34ed526877c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-10T06:44:44Z"}

@@ -1,0 +1,1 @@
+{"name":"ethdate","vers":"0.1.0","deps":[{"name":"ethiopic-calendar","req":"^0.1.0","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"pagumie"}],"cksum":"fda9c260fe2143a053c22709d7d2eac662544cc8dfa390cca5f8e2a6f9863180","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-08T15:21:39Z"}

@@ -1,0 +1,1 @@
+{"name":"zingo-net-diag","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2f9f32ab3e36b3f54cf18066fcd62f982ab7ea04bc933053f841dcced46c73d","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-10-15T19:57:27Z","v":2}

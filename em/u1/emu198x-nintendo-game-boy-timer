@@ -1,0 +1,1 @@
+{"name":"emu198x-nintendo-game-boy-timer","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9f2fe2809ebb7bc76cdc71875896b9a8112475f50a29c1947b6a3b9064218a1","features":{},"yanked":false,"pubtime":"2026-10-26T14:32:01Z"}

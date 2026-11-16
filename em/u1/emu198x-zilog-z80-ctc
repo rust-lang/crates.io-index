@@ -1,0 +1,1 @@
+{"name":"emu198x-zilog-z80-ctc","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10b5ba59827897d41ba47ec269c29451cec76f29c5e2cf1a9eedfb3eb1bf7448","features":{},"yanked":false,"pubtime":"2026-10-26T18:04:14Z"}

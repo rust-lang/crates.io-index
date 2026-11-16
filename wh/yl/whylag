@@ -1,0 +1,1 @@
+{"name":"whylag","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30.2","features":["crossterm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"23f802c141725d5df5a4b58f625c990a81e4fafc5651512a53813bf8b462b07f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-06T20:49:33Z"}

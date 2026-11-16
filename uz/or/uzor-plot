@@ -1,0 +1,1 @@
+{"name":"uzor-plot","vers":"1.5.41","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c9b6bc7fffaceacbe6e38dfef4309e2fa27899c1b4a957c83ea77064d00df9c","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-11-12T18:30:08Z","v":2}

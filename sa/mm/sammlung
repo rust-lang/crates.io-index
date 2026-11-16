@@ -1,0 +1,1 @@
+{"name":"sammlung","vers":"0.1.0","deps":[{"name":"hibitset","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"59a80b0b48932e978bf6b27be53520e72dc5b0778af5c7d0562b8982124ce51c","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"pubtime":"2026-10-02T23:45:16Z"}

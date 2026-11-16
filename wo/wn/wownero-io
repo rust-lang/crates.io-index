@@ -1,0 +1,1 @@
+{"name":"wownero-io","vers":"0.1.0","deps":[{"name":"std-shims","req":"^0.1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"af00a4a51cfbe443962328cb96f5a4abe2857d0d9e1fae3ee47db5f8ad0ded90","features":{"default":["std"],"std":["std-shims/std"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-02-21T02:30:19Z"}

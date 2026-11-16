@@ -1,0 +1,1 @@
+{"name":"jflib-render2d","vers":"0.2.0","deps":[{"name":"gpu","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"jflib-gpu"}],"cksum":"a8a6b8ab1e4d55110a45d8afdd0f9d0ab190adf3aec5c83d000b5da46a843897","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-14T11:22:01Z"}

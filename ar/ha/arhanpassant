@@ -1,0 +1,1 @@
+{"name":"arhanpassant","vers":"0.13.0","deps":[{"name":"pyrrhic-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"8002e49d0801054ecc19cf0c2f9ebf0ec976aab6f5967c2dbde85bfdababf0cb","features":{},"yanked":false,"pubtime":"2026-10-07T11:19:49Z"}

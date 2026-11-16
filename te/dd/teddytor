@@ -1,0 +1,1 @@
+{"name":"teddytor","vers":"0.2.0","deps":[{"name":"rustix","req":"^1","features":["termios","event","stdio","std","fs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ba509b0fe90abba39d89200f90accdc897805b2b5bdfb39f3d3a3353c7d3f37f","features":{"perf":[]},"yanked":false,"pubtime":"2026-08-01T21:21:50Z"}

@@ -1,0 +1,1 @@
+{"name":"ph-color-bake","vers":"0.1.0","deps":[{"name":"ph-color","req":"^0.1.0","features":["oklab"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8ebde2c7d1f398437f93632f04b39d6fe929e817d5c009d94fd8c193bcb8e103","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-22T17:58:43Z"}

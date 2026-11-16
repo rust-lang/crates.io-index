@@ -1,0 +1,1 @@
+{"name":"quilt-topology","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10548308404d8672946cd241f79fe167b831ed5de93671aa77e6b4abb3efa1fb","features":{},"yanked":false,"pubtime":"2026-08-21T11:02:39Z"}

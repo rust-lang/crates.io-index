@@ -1,0 +1,4 @@
+{"name":"hozo_ir","vers":"0.1.0","deps":[],"cksum":"5a7eea29e45c3fbf40549502963a8ea5fc9c99c274c16d204463710925b4e50e","features":{},"yanked":false,"pubtime":"2026-09-15T06:44:00Z"}
+{"name":"hozo_ir","vers":"0.2.0","deps":[],"cksum":"7789fd98f1cae85340fee5dda4389ea2700845be9f9672f328df7ee293f61563","features":{},"yanked":false,"pubtime":"2026-10-05T12:52:22Z"}
+{"name":"hozo_ir","vers":"0.3.0","deps":[],"cksum":"2e979307b90121b83b59769802ad0c77ac0adb78472fe4d0ac0e10334471e497","features":{},"yanked":false,"pubtime":"2026-10-14T10:29:04Z"}
+{"name":"hozo_ir","vers":"0.4.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6801604d45c7f73175fe5d51d062d8b708dbfe3bbb4378be3725e8aa89ac24f","features":{},"yanked":false,"pubtime":"2026-11-04T07:40:35Z"}

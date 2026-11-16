@@ -1,0 +1,1 @@
+{"name":"kagen","vers":"0.0.2","deps":[{"name":"zenmai","req":"^0.0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7c39f870e8de7770f79e8080cffd69c98c48dfbc1ff685c75fceb8938fa6391","features":{"default":[]},"features2":{"zenmai":["dep:zenmai"]},"yanked":false,"pubtime":"2026-08-17T01:57:33Z","v":2}

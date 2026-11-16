@@ -1,0 +1,3 @@
+{"name":"rust-latex-parser","vers":"0.1.0","deps":[],"cksum":"30b0949524549f0f83d8a14c71e9b378c45307a77bb6ea6bb969d1399d5ae134","features":{},"yanked":false,"pubtime":"2026-03-28T00:03:54Z"}
+{"name":"rust-latex-parser","vers":"0.1.1","deps":[],"cksum":"4d8acd59feae81354fa3e31bb843418e76d83c49941f417ae5fbaa8a6c97fac5","features":{},"yanked":false,"pubtime":"2026-10-31T23:21:51Z"}
+{"name":"rust-latex-parser","vers":"0.2.0","deps":[],"cksum":"f8df072fb6725cee69fb2edf4aae54ec16d1ac28672a32e1d7f8c604f6c1afa0","features":{"default":["latex","mathml","unicode","svg"],"latex":[],"mathml":[],"svg":["unicode"],"unicode":[]},"yanked":false,"pubtime":"2026-10-31T23:22:05Z"}

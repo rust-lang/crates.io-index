@@ -1,0 +1,3 @@
+{"name":"belajar-say-hello-irfan","vers":"0.1.0","deps":[],"cksum":"81444cf821181b2c06f1bd19b52345e62d5c6cf2cc9fc48930bf561cb42a905a","features":{},"yanked":false,"pubtime":"2026-11-08T04:50:26Z"}
+{"name":"belajar-say-hello-irfan","vers":"0.2.0","deps":[],"cksum":"4b46e202cf1c61773b8976935ac596d5c930a567f3dad726d165e99ea61e4302","features":{},"yanked":false,"pubtime":"2026-11-08T04:59:01Z"}
+{"name":"belajar-say-hello-irfan","vers":"0.3.0","deps":[],"cksum":"541f786700d8078f6044ccbda44e0c404a33fc970dcefb5e09fe7e49f75e6dd9","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-11-08T05:08:17Z"}

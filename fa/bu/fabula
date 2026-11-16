@@ -1,0 +1,1 @@
+{"name":"fabula","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c6c27809a8fe074cb21fd6bb28b8b6be46ef8743327a5e264c4c3a4ce946865","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-04-14T23:11:55Z","v":2}

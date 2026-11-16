@@ -1,0 +1,1 @@
+{"name":"login-poweroff-reboot-zbus","vers":"0.4.8","deps":[{"name":"zbus","req":"^5.15.0","features":["tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ee15276c9d239083a74868335e0c28d3841e3499118bef30e3f568af4aa0ef9b","features":{},"yanked":false,"pubtime":"2026-10-04T14:06:12Z"}

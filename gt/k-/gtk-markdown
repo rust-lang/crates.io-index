@@ -1,0 +1,1 @@
+{"name":"gtk-markdown","vers":"0.2.0","deps":[{"name":"gtk","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"5a6cad489b1a4fc56e39844cf1c6c6b54d8e52402a28204a4ff27665d06a43b7","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-01T18:37:03Z"}

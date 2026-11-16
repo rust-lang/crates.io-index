@@ -1,0 +1,1 @@
+{"name":"protoview","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c87f576ba852cf0c360423395c57beb865019c04ea6b328530410e8148222f25","features":{},"features2":{"bytes":["dep:bytes"]},"yanked":false,"pubtime":"2026-11-01T20:19:51Z","v":2}

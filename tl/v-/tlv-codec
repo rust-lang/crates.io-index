@@ -1,0 +1,3 @@
+{"name":"tlv-codec","vers":"0.1.0","deps":[],"cksum":"3b89a5956475aaaa7b4d47be6be2953f4dfd6ab0fb47573397c3727c2b611a1d","features":{"ber-tag":[],"default":["std","endian-helpers"],"endian-helpers":[],"no_std":[],"std":[]},"yanked":false,"pubtime":"2026-07-16T11:15:40Z"}
+{"name":"tlv-codec","vers":"0.1.2","deps":[],"cksum":"f76e24dfff0a8eeb0d206bfa519598cb556f631cd4c97fdd76bc4d9966e978d7","features":{"ber-tag":[],"default":["std"],"no_std":[],"std":[]},"yanked":false,"pubtime":"2026-07-16T13:50:56Z"}
+{"name":"tlv-codec","vers":"0.2.3","deps":[],"cksum":"e5e9b864741e2d262612049c230bac9b5395cd32b912ae1e29fb9ef33ecb8ee4","features":{"ber-tag":[],"default":["std"],"no_std":[],"std":[]},"yanked":false,"pubtime":"2026-07-17T02:06:24Z"}

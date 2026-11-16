@@ -1,0 +1,1 @@
+{"name":"pbc-rs-ffi","vers":"0.1.0","deps":[{"name":"pbc-compat","req":"^0.1.0","features":["modern"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7661e7a3d448012c5f19fea94b0f9aa1d9c366c9d5a2a409589325876a96492a","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-25T16:11:50Z"}

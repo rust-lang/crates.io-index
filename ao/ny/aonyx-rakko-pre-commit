@@ -1,0 +1,2 @@
+{"name":"aonyx-rakko-pre-commit","vers":"0.0.0","deps":[],"cksum":"ede6485335dce5613d59d6a06a388871266407885ada7efe94896493ddc80f05","features":{},"yanked":false,"pubtime":"2026-11-15T14:59:45Z"}
+{"name":"aonyx-rakko-pre-commit","vers":"0.1.0","deps":[{"name":"rakko","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6896e8d878ff7b4942ec977f28ce1c5ed6a8da37433277ed8a3eb64fbfb3190","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-11-15T14:59:57Z"}

@@ -1,0 +1,1 @@
+{"name":"windows-virtual-devices","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a04e5b2384f9a38d29c5d355b0cbaf7e2425eed1026fcfda8d86da1098f317c6","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T03:52:29Z"}

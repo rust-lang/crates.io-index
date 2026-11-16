@@ -1,0 +1,1 @@
+{"name":"ps-rust_h264","vers":"0.4.0","deps":[{"name":"minifb","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"017f37b5a3a9aaf52f71bb1b71f9e2771c1dd92cde6fbd8990544e3905592e5c","features":{"dev-internals":[]},"yanked":false,"pubtime":"2026-10-13T05:32:54Z"}

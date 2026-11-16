@@ -1,0 +1,3 @@
+{"name":"to_segments","vers":"0.1.0","deps":[],"cksum":"544065c0f956078ee77b809e83f53865ee4628c579cb9c819df196412ad97a3d","features":{},"yanked":true,"pubtime":"2026-06-21T20:54:03Z"}
+{"name":"to_segments","vers":"0.1.1","deps":[],"cksum":"14695ff963c5594b141879e645877cb1df50fedcdd77e1a691f937e9646da902","features":{"char-segments":[]},"yanked":true,"pubtime":"2026-06-24T18:52:30Z"}
+{"name":"to_segments","vers":"0.1.2","deps":[],"cksum":"4a31b9217f3bf6330cc57fc844a853bfd0dd37c30572bccdfe236d193209ff91","features":{"char-segments":[]},"yanked":false,"pubtime":"2026-06-25T23:02:51Z"}

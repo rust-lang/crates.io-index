@@ -1,0 +1,1 @@
+{"name":"iana-comp-meth-ids","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"10def9ed631a8023a5c5b16dd7b6eec5803504130bd059370421e4285c689558","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T06:27:32Z"}

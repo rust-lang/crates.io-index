@@ -1,0 +1,1 @@
+{"name":"iana-rtsp-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"0fad8de8863a3ac1a6cbbd28b14c758706f383824abac66ec91d6b214884c941","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T01:57:33Z"}

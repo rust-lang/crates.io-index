@@ -1,0 +1,1 @@
+{"name":"tomlini","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fc76f087a1ad0c75023fdce4123634ad4cb3cb1ac67d70d8b5fa687beb0c0fe7","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-05T05:49:38Z"}

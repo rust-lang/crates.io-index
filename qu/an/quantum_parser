@@ -1,0 +1,1 @@
+{"name":"quantum_parser","vers":"0.0.1-alpha1","deps":[{"name":"quantum_lexer","req":"^0.0.1-alpha1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce0cf676a52120cb813d0106c1a0808a33ddeb6f358e1aa26a0bd8110f003167","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-04T10:22:22Z"}

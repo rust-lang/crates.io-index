@@ -1,0 +1,1 @@
+{"name":"mcp4728-driver","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffa1f1a0880e83e30a6b61fd1ea93175b450b3340f40d9364a61711f1940f380","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-02-28T13:07:21Z"}

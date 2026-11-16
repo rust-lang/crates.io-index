@@ -1,0 +1,3 @@
+{"name":"pyruve","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.75","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a633d83977db3642a8fd372f8e4bbfc7f891ba31452ca7489fe5d9f21409847","features":{},"yanked":false,"pubtime":"2023-12-08T22:03:02Z"}
+{"name":"pyruve","vers":"0.2.0-rc.1","deps":[],"cksum":"5edf0882a68158a3bc4fe66c984dc1638536ee9cd7cd0b57c1568d5c863f7a1c","features":{},"yanked":false,"pubtime":"2026-08-29T16:44:21Z"}
+{"name":"pyruve","vers":"0.2.0","deps":[],"cksum":"af81e33aa3eaa6442cff1813572d511f769d741df5a12da98c08ba9dfce75b26","features":{},"yanked":false,"pubtime":"2026-08-29T17:44:03Z"}

@@ -1,0 +1,1 @@
+{"name":"wings-abi","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c1323524a31fa22b8e4cad444b6519e47b655dda20316b0c2477a883f8c754b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-11T19:59:15Z"}

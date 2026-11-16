@@ -1,0 +1,1 @@
+{"name":"rallocator_telemetry","vers":"0.1.0","deps":[{"name":"rallocator_wire","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7193bf3b2860d9226227448a3f64ed00ccc59135e3eaff96f62b502691cebd32","features":{},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-08-13T17:42:09Z"}

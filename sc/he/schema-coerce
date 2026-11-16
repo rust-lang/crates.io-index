@@ -1,0 +1,1 @@
+{"name":"schema-coerce","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c564bba6407ee3e31d36cb344881bdd696f704f449b27ff88c77854df69c60ea","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-16T20:59:52Z"}

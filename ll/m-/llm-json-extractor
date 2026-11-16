@@ -1,0 +1,1 @@
+{"name":"llm-json-extractor","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eca6e65a04c8aada8477dc7d43f6e52315939d6d1f495043e70453d0a5cfa4a","features":{},"yanked":false,"pubtime":"2026-05-25T03:25:12Z"}

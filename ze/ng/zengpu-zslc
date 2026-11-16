@@ -1,0 +1,1 @@
+{"name":"zengpu-zslc","vers":"0.1.0","deps":[],"cksum":"1d65860870adda63979b0659e926f03715d57260e7118d7603cd8ba84ef51f16","features":{"cuda":[],"default":["spirv","hip","cuda","metal"],"dx":[],"hip":[],"metal":[],"spirv":[],"test-all-backends":["spirv","hip","cuda","metal"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-05T04:29:26Z"}

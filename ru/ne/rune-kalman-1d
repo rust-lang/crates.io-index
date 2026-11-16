@@ -1,0 +1,1 @@
+{"name":"rune-kalman-1d","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ca446d96273a1e20f1be77c211bf7ac0becff6b613f3389418ab4e3d40f3ad7","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T20:07:00Z","v":2}

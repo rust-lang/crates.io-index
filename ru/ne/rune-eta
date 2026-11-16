@@ -1,0 +1,1 @@
+{"name":"rune-eta","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9983ec1d081fc5c68c7ff650e93ac1bf5bbd6152954459dfb573e61b1a41961a","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T17:14:56Z","v":2}

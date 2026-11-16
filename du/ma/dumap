@@ -1,0 +1,1 @@
+{"name":"dumap","vers":"1.1.0","deps":[{"name":"dumap-cli","req":"^1.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9b52fc936aef62d5139815b92b81d53b0c5f704961fc194ec356aa7a8a57863a","features":{"default":["gui"],"gui":["dumap-cli/gui"]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-04-04T00:59:18Z"}

@@ -1,0 +1,3 @@
+{"name":"compute-sha256","vers":"0.0.2","deps":[],"cksum":"10feec48177d7afe6b7eed2b2dc50cdcfd46ddc2ba88a3dde4513702e4a66a4f","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T22:45:48Z"}
+{"name":"compute-sha256","vers":"0.0.3","deps":[],"cksum":"c705161f0b66b036b0be6535913338ca777457948ae59b4625fd0176a328768f","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T07:27:16Z"}
+{"name":"compute-sha256","vers":"0.0.4","deps":[],"cksum":"b61a6ec7f387e73e3960874e627d5fdd75ad60427c3216a6d044bab717751775","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T11:45:44Z"}

@@ -1,0 +1,1 @@
+{"name":"stripstream","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddc1344563770b3f3fb6447ccce48e5177ee4b1871f009c7508d443622d9c423","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-13T04:36:47Z","v":2}

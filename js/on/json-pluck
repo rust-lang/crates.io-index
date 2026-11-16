@@ -1,0 +1,1 @@
+{"name":"json-pluck","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e5a9f61b8cc7bf7c9a6dc2f276f8cbd3139ec5cf942ece49c2b000b2170cdec","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-16T20:48:42Z"}

@@ -1,0 +1,2 @@
+{"name":"itym_ts","vers":"0.1.0","deps":[],"cksum":"7c54f1284971112c0f8edc0b11ef8298cc65934efc503e9583a9b1ec2eb384ad","features":{"default":[],"f128":[],"f16":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-31T17:22:22Z"}
+{"name":"itym_ts","vers":"0.1.1","deps":[],"cksum":"ddc9f0f23bff75af6546c9b0e723366611ca095af3831147a2a1876fe250fd69","features":{"default":["size_common"],"f128":[],"f16":[],"size_big":["size_common"],"size_common":[]},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-04T13:07:53Z"}

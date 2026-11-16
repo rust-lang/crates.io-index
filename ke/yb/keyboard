@@ -1,0 +1,1 @@
+{"name":"keyboard","vers":"0.1.0","deps":[{"name":"windows","req":"^0.62.2","features":["Win32_UI_Input_KeyboardAndMouse"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5db22c7ce5644827c33c6e1a192483fab1455f56681c543fcc0c5fa9e42d646","features":{},"yanked":false,"pubtime":"2026-10-11T20:24:51Z"}

@@ -1,0 +1,1 @@
+{"name":"mahbot-rlx-libm","vers":"0.2.18-mahbot.3","deps":[],"cksum":"cc45cb026905238786ada97bb8e0df1d900db754995f33c3c9df95c6e936ab3b","features":{"default":["std"],"export-glibc":[],"libm":["std"],"std":[],"wasm-fma":[],"wasm-glibc":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T09:02:00Z"}

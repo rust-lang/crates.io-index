@@ -1,0 +1,1 @@
+{"name":"c6000-disassembler","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.57","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24068ba6f617b00a0de03e2a2fd6e6ac715a03db933d5400805ddd0007fe8941","features":{},"yanked":false,"pubtime":"2026-03-01T00:39:01Z"}

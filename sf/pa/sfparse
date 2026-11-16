@@ -1,0 +1,3 @@
+{"name":"sfparse","vers":"0.1.0","deps":[],"cksum":"c1a05e9d7bed52fceb211577b2f242b992fde4c89bb77838a5c6a8c03be387fa","features":{},"yanked":false,"pubtime":"2024-12-14T06:07:05Z"}
+{"name":"sfparse","vers":"0.1.1","deps":[],"cksum":"aa43026ed1c44ad75582cfce650e384c3d57168e2aa03f3a826580cc2fa30bf5","features":{},"yanked":false,"pubtime":"2024-12-14T06:23:07Z"}
+{"name":"sfparse","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"072f989a4ca54d5ac1a3ec58579412dc204185ead1396282759c8198734f86a1","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-09-02T11:52:45Z"}

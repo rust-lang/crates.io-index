@@ -1,0 +1,2 @@
+{"name":"rw-types","vers":"0.1.0","deps":[],"cksum":"ad9f8fd6e61925e5b1aeec0ed4f77f61fa36d9a49054110ec8745d283b961518","features":{},"yanked":false,"pubtime":"2026-07-01T12:05:55Z"}
+{"name":"rw-types","vers":"0.2.0","deps":[],"cksum":"6370506b30d2ce06db24b81007e588c28d3710b215f107fafed958aad2c49cca","features":{"default":["read","write"],"read":[],"write":[]},"yanked":false,"pubtime":"2026-07-01T13:45:18Z"}

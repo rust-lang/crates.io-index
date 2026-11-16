@@ -1,0 +1,1 @@
+{"name":"cuda-biology","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"946b9525e737a6e8b4bfc567ca331ecd0fb267abe954d2d71522a9d078f9ce08","features":{},"yanked":false,"pubtime":"2026-04-27T01:13:30Z"}

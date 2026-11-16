@@ -1,0 +1,1 @@
+{"name":"unmanaged","vers":"0.1.0","deps":[{"name":"allocator-api2","req":"^0.2","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"65167e67d35d0793ea8ec413432402c2a141cafe226ca6172c34825f62a9b32b","features":{},"yanked":false,"pubtime":"2026-10-20T00:53:46Z"}

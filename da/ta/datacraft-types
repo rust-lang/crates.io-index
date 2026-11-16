@@ -1,0 +1,1 @@
+{"name":"datacraft-types","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc2399301bc8f1dd0d4f13490a1ba06844eac92273c91530521d09d7ea592119","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-14T14:43:40Z"}

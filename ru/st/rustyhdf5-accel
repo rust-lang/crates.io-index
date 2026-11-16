@@ -1,0 +1,1 @@
+{"name":"rustyhdf5-accel","vers":"1.93.0","deps":[{"name":"half","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8802dbba6ac35c84ddeea4fb599e6408d6b8c72e0bdc6b3a4ee55ab784e389f","features":{"avx512":[],"default":[]},"features2":{"float16":["dep:half"]},"yanked":false,"pubtime":"2026-02-23T17:20:08Z","v":2}

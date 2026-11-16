@@ -1,0 +1,1 @@
+{"name":"llts_codegen","vers":"0.1.0","deps":[{"name":"inkwell","req":"^0.8.0","features":["llvm21-1"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7083a855606fdfe420308b240be6a51e0fa3d86d2c13aac3acae617dd3fd1575","features":{},"yanked":false,"pubtime":"2026-02-10T22:51:14Z"}

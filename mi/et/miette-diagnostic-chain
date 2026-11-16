@@ -1,0 +1,1 @@
+{"name":"miette-diagnostic-chain","vers":"0.1.0","deps":[{"name":"miette","req":"^7.6.0","features":["fancy"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c70c2c0ce23555c7d62e20a908132a1b95cd20ad7abd937f9953be8522a9b3cd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-22T18:56:39Z"}

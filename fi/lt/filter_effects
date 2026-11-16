@@ -1,0 +1,1 @@
+{"name":"filter_effects","vers":"0.1.0","deps":[{"name":"peniko","req":"^0.6.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e31e1fd5402b96a4092ad0cec91921389d20327e97f1f19e27cdaeb7e7d2e084","features":{"libm":["peniko/libm"],"std":["peniko/std"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-26T12:32:08Z"}

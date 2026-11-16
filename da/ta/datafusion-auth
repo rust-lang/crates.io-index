@@ -1,0 +1,1 @@
+{"name":"datafusion-auth","vers":"0.1.0","deps":[{"name":"tower-http","req":"^0.5.0","features":["auth"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c27ae7407f750aa2fdb4ffd468c3a45a462e9356d55f61005de9e94a0ead00c","features":{},"yanked":false,"pubtime":"2026-02-16T19:59:15Z"}

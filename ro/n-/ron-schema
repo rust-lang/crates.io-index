@@ -1,0 +1,11 @@
+{"name":"ron-schema","vers":"0.1.0","deps":[],"cksum":"5ef527e7aeb81099b0f152ec64c9f9b664c90f2e8ed970945f120c350d694586","features":{},"yanked":false,"pubtime":"2026-04-05T09:38:28Z"}
+{"name":"ron-schema","vers":"0.2.0","deps":[],"cksum":"d9cfb60c294092c09bfd4b93ef12b540e103c34170b2f531fc2db4b5a98f179a","features":{},"yanked":false,"pubtime":"2026-04-07T02:38:03Z"}
+{"name":"ron-schema","vers":"0.3.0","deps":[],"cksum":"e9858a4df9e715185c98409a76a3f821b3c2de25579d17395458d770f2978ffe","features":{},"yanked":false,"pubtime":"2026-04-07T21:01:02Z"}
+{"name":"ron-schema","vers":"0.4.0","deps":[],"cksum":"bc8a477b12a48071bacba62adefcf851532bcd02d8e31f024895d928299e122c","features":{},"yanked":false,"pubtime":"2026-04-08T00:04:24Z"}
+{"name":"ron-schema","vers":"0.5.0","deps":[],"cksum":"269f288a737ffa8f47a4f4d394d518a94f081d70cde88248929bcf9415b816f0","features":{},"yanked":false,"pubtime":"2026-04-09T17:24:36Z"}
+{"name":"ron-schema","vers":"0.6.0","deps":[],"cksum":"d8835cd853db5242fce066cb6fb03c770ee1fa1a2ebba8208948566744488c99","features":{},"yanked":false,"pubtime":"2026-04-12T06:27:12Z"}
+{"name":"ron-schema","vers":"0.7.0","deps":[],"cksum":"8e1179096d36b91496187ab369e6fe4c7743896b858647750ddae080391a577e","features":{},"yanked":false,"pubtime":"2026-04-15T02:54:41Z"}
+{"name":"ron-schema","vers":"0.8.0","deps":[],"cksum":"a692d3db45814990b4d8bb3b2a9d055230f830936e3b7e60ca68c73f6d9ccaad","features":{},"yanked":false,"pubtime":"2026-04-16T07:18:26Z"}
+{"name":"ron-schema","vers":"0.9.0","deps":[],"cksum":"c5c8ff38dc47aa57b249e274d3b7cfbe1a37a6849ea5cfbab9efd318bc508a58","features":{},"yanked":false,"pubtime":"2026-04-25T21:24:37Z"}
+{"name":"ron-schema","vers":"0.10.0","deps":[{"name":"regex","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9cef6d8b6475f847c7171057e6219a2cbb2a824d19a777014a87ae292df4856","features":{},"features2":{"regex":["dep:regex"]},"yanked":false,"pubtime":"2026-05-11T06:31:06Z","v":2}
+{"name":"ron-schema","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d960fa60eb3c5c8b5ce58fedbaa872050bc5a81b10d7f1c3142eb8079e8b61c7","features":{},"features2":{"regex":["dep:regex"]},"yanked":false,"pubtime":"2026-05-15T04:38:34Z","v":2}

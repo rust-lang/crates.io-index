@@ -1,0 +1,1 @@
+{"name":"iana-ntp-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"421d28be1b5ecd7249f7b9d8e1b5034a5c65add7077aa56da2f9e85493d070b1","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T02:37:33Z"}

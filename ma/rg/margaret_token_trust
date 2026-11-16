@@ -1,0 +1,1 @@
+{"name":"margaret_token_trust","vers":"0.5.0","deps":[{"name":"margaret_jwt_verification","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b5843d0b61bd011ff12303fec52ad584754fac452c0d51e42040a03564fa798","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-10-13T16:20:17Z"}

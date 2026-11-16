@@ -1,0 +1,1 @@
+{"name":"covguard-ports","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.43","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"407b38d4299984a2571d70ed22c4f942a2e7fba83f315abb7c8a8f7a635ab392","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-12T06:23:55Z"}

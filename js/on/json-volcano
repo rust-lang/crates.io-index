@@ -1,0 +1,1 @@
+{"name":"json-volcano","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae8b6db80fad4e6ff4f9d24a3d364225dab233737e1886c0aa400ba74561275d","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"pubtime":"2026-10-23T15:35:05Z","v":2}

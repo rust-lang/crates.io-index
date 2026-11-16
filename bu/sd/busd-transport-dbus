@@ -1,0 +1,1 @@
+{"name":"busd-transport-dbus","vers":"0.1.0","deps":[{"name":"zbus","req":"^5.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3647d47aaca2f4f8240c5b64e05c07e6f9bb954b150faf65b2adaf35e12ae6e6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T13:41:48Z"}

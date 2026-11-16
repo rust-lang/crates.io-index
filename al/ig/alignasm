@@ -1,0 +1,1 @@
+{"name":"alignasm","vers":"1.0.0","deps":[{"name":"clap","req":"^4.6.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5f954394d2cc4a94dd1449872f91646c5f80552280e74a83bce66f3b07acb78","features":{},"yanked":false,"pubtime":"2026-10-31T02:04:30Z"}
