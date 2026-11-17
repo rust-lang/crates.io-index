@@ -1,1 +1,2 @@
 {"name":"sk-vpx-sys","vers":"0.0.0","deps":[],"cksum":"95dd8ce3f35e8020aca1bc6d8f7e10213d7bf4460582025e94df8f6fb664475c","features":{},"yanked":false,"pubtime":"2026-11-16T21:17:47Z"}
+{"name":"sk-vpx-sys","vers":"0.3.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e11fb297e6e5fe04cdb97838a6e1112afaf6c1de9f22cba1931952700298a0f1","features":{"shim-stats":[]},"yanked":false,"links":"vpx","pubtime":"2026-11-17T02:49:41Z"}
