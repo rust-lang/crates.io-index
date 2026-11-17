@@ -4,3 +4,4 @@
 {"name":"sp-fidelity","vers":"0.2.0","deps":[],"cksum":"5a9e75045752d10ebd2f1c37debac276b4fdfeddf1f3cc420f2b79b742b67d3b","features":{},"yanked":false,"pubtime":"2026-10-06T00:59:15Z"}
 {"name":"sp-fidelity","vers":"0.3.0","deps":[],"cksum":"3367e4c763998ec5667061020dc967f245ca22cc78658187bec7591e8b6a515d","features":{"default":[],"frame-generation":[]},"yanked":false,"pubtime":"2026-11-12T08:54:58Z"}
 {"name":"sp-fidelity","vers":"0.3.1","deps":[],"cksum":"0a73530ded1abe52662e70e16886e7c0aef437d73c8977a5eec71a3c83db88e1","features":{"default":[],"frame-generation":[]},"yanked":false,"pubtime":"2026-11-17T07:25:27Z"}
+{"name":"sp-fidelity","vers":"0.3.2","deps":[],"cksum":"d916c7e8444a0299c5b503d134965490d94af35b1bd2ed1ab71574d4de6ad673","features":{"default":[],"frame-generation":[]},"yanked":false,"pubtime":"2026-11-17T09:28:21Z"}
