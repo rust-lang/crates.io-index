@@ -1,0 +1,1 @@
+{"name":"aurelia-steam-vent-proto-common","vers":"0.6.0","deps":[{"name":"protobuf","req":"=3.7.2","features":["with-bytes"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85c5392640035360a7b236104ebb58a91933c079a4b050d82314bbed45d95d97","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-11-17T22:24:05Z"}
