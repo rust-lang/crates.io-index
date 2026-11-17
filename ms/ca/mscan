@@ -1,0 +1,1 @@
+{"name":"mscan","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52f1706f8d4eb5ac62145ef58401b58ba6e92f806444ec65d87cac00cba560ce","features":{},"yanked":false,"pubtime":"2026-11-17T22:55:01Z"}
