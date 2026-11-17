@@ -1,1 +1,2 @@
 {"name":"cofferdb","vers":"0.1.0","deps":[],"cksum":"82e0fc8927cbd91dff950aa447071d90d2faacd77c53193a443474ca0a105da0","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-10-20T00:34:03Z"}
+{"name":"cofferdb","vers":"0.1.1","deps":[],"cksum":"b09c4b972162c2d073d788fd67df5db43148326ede48aebe925f34faa74dbc41","features":{"native-test-support":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-17T06:47:06Z"}
