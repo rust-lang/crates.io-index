@@ -1,0 +1,1 @@
+{"name":"igris","vers":"0.0.0","deps":[{"name":"clap","req":"=4.6.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba6004d769811f2873cd0d121680ebe2283c125aff68d76fec2eec97a35108e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-17T16:02:21Z"}
