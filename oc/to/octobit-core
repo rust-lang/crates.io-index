@@ -1,0 +1,1 @@
+{"name":"octobit-core","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.12","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"b4b616814ab5a85f25fbba2b531328e698e3e173792e9e06fc721cd7cee79a96","features":{},"yanked":false,"pubtime":"2026-11-17T21:56:56Z"}
