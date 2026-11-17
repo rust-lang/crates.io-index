@@ -1,0 +1,1 @@
+{"name":"misb","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51e4594166faa78f317d470a4f3ad8b568e13cadba313281fe47a3388a7a7a7a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-17T14:52:29Z"}
