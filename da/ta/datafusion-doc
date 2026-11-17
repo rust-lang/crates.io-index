@@ -26,3 +26,4 @@
 {"name":"datafusion-doc","vers":"55.0.0","deps":[],"cksum":"a88fd985bc0550c36f557db69543cc9d6393b1509783520b30e902f23c555da6","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-18T21:03:55Z"}
 {"name":"datafusion-doc","vers":"55.1.0","deps":[],"cksum":"d44c5919b560862dd1cb20a5c75b3e48c3d9e49719c91d78da5c38eaad5495c4","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-09-11T14:11:40Z"}
 {"name":"datafusion-doc","vers":"55.2.0","deps":[],"cksum":"0c2569c2e74a34fcae3a369ab3912d61e41a062592510f11e31b1dae2725ecdc","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-07T15:38:45Z"}
+{"name":"datafusion-doc","vers":"54.2.0","deps":[],"cksum":"fac247d54979aecd2741a12156741f66589420147959f013eb47358088875a13","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-11-17T17:34:47Z"}
