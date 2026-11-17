@@ -1,1 +1,2 @@
 {"name":"skathi-gpui-refineable","vers":"0.0.0","deps":[],"cksum":"c938e81848dc69b21dbcb468082a742c8107b81d2f750b66a6fbbe46751c133f","features":{},"yanked":false,"pubtime":"2026-11-16T17:37:34Z"}
+{"name":"skathi-gpui-refineable","vers":"0.3.0","deps":[{"name":"derive_refineable","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"skathi-gpui-derive-refineable"}],"cksum":"8136f6d51519fa0557725bf7792a27279b9702db52364ca8fe1b1106c3a8ab24","features":{},"yanked":false,"pubtime":"2026-11-17T02:44:43Z"}
