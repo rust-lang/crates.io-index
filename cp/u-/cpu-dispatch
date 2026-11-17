@@ -1,0 +1,1 @@
+{"name":"cpu-dispatch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dbd956d5dc7755cd869e49ab60182174bb0a918549631d3cc07c058d0ed0d5a7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.93","pubtime":"2026-11-17T06:41:20Z"}
