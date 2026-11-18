@@ -3,3 +3,4 @@
 {"name":"mcpdef-ratelimit","vers":"0.2.1","deps":[],"cksum":"a1ea791a55b9c57d98468a202ff52dd968424b45fa4dd1c6463b5b0d59a072a0","features":{},"yanked":false,"pubtime":"2026-09-24T09:54:52Z"}
 {"name":"mcpdef-ratelimit","vers":"0.2.2","deps":[],"cksum":"b994271245e538062041856d043e5a985f16699827db958478df4401460bf559","features":{},"yanked":false,"pubtime":"2026-09-28T11:51:42Z"}
 {"name":"mcpdef-ratelimit","vers":"0.4.0","deps":[],"cksum":"e6951cd4d0cab80d0fe28469d79dd18090d92754adfc078b046cec6757c78ddd","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-15T00:41:07Z"}
+{"name":"mcpdef-ratelimit","vers":"0.5.0","deps":[],"cksum":"24438e2d705ce39788c5168b8b83f083e6a21b366b0aae2f32729cae677b527a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-18T09:02:28Z"}
