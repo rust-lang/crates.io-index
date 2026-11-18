@@ -1,1 +1,2 @@
 {"name":"tvim","vers":"0.1.0","deps":[],"cksum":"7377ce021e0af3b3bae8c72b7bc5188fb3b39bace058492b0ba55ace256e95be","features":{},"yanked":false,"pubtime":"2026-11-16T21:27:15Z"}
+{"name":"tvim","vers":"1.0.0","deps":[{"name":"tinsel","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"400562865bb176754a354bb6442dfbb6a37c1933c9ff6228baeecd1361864090","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-18T00:09:09Z"}
