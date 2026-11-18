@@ -39,3 +39,4 @@
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.59","deps":[],"cksum":"4f742d92c169a865bd8e9bfc693d5f5cc1eb5772b5343daf1400608a986a7afc","features":{},"yanked":false,"pubtime":"2026-11-12T19:01:44Z"}
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.60","deps":[],"cksum":"21e7ae8d2aa847043d976d66c6939a289304393b786187d98626deb9e6f3c799","features":{},"yanked":false,"pubtime":"2026-11-15T01:03:50Z"}
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.61","deps":[],"cksum":"e01a44fa866a2235571750bf2753a028f136cf08cd4974d0dd221c287c7f00d5","features":{},"yanked":false,"pubtime":"2026-11-15T21:58:26Z"}
+{"name":"velr-runtime-linux-aarch64","vers":"0.2.62","deps":[{"name":"zstd","req":"^0.13","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"73f83a07a769da5a3704707bf2b852e2077bd851e6569c3daa3db090ef428676","features":{},"yanked":false,"pubtime":"2026-11-18T10:38:53Z"}
