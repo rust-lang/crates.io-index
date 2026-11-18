@@ -1,1 +1,2 @@
 {"name":"sanera","vers":"0.1.0","deps":[],"cksum":"a8fab1a0d429119f7ed63687d69f32aee9339b41c51eb26e034d42991cbafa8a","features":{},"yanked":true,"pubtime":"2026-11-18T07:10:07Z"}
+{"name":"sanera","vers":"0.1.0-alpha.1","deps":[],"cksum":"55f1c9e8a97da0470480f3a33ed1f644dff25433f0307b790bf272f09793dc88","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-18T10:52:16Z"}
