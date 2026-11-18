@@ -1,1 +1,2 @@
 {"name":"ffwd-render","vers":"0.0.1","deps":[],"cksum":"2ec8821482520b9e3bdaa3c2fad6e093b25edc3d2debb129f99a952b235efb21","features":{},"yanked":false,"pubtime":"2026-11-18T21:48:13Z"}
+{"name":"ffwd-render","vers":"0.1.0","deps":[{"name":"fontdue","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc6c4abdf8d464d576ab08d95c9f72e136c3734188a95ef27740e6e64ee33da2","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-18T21:52:49Z"}
