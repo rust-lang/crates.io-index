@@ -1,1 +1,2 @@
 {"name":"ffwd-ai","vers":"0.0.1","deps":[],"cksum":"c86ea9d15208bb5b2a5e97b2a63cfcfd6a3bab2f6dddcaddde75582de1378a25","features":{},"yanked":false,"pubtime":"2026-11-18T22:38:13Z"}
+{"name":"ffwd-ai","vers":"0.2.0-beta.11","deps":[{"name":"serde_json","req":"^1.0.154","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39cda6d3a9fd7f0c9e08dad55ec533a715e296205d7dc364dc5f0f2d915dc449","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-18T23:03:25Z"}
