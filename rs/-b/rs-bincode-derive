@@ -1,0 +1,1 @@
+{"name":"rs-bincode-derive","vers":"2.0.1","deps":[{"name":"virtue","req":"^0.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rs-virtue"}],"cksum":"91a90322b98c3141648ae0bc5b537811f16a98dc3786e5e47a14759a19da66a0","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-11-18T05:42:29Z"}
