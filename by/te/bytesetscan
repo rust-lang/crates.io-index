@@ -1,0 +1,1 @@
+{"name":"bytesetscan","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"dev"}],"cksum":"197041e1ca07e228c4281122c6ff130532151031891edd140cb6c8becd5368a7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-18T07:46:32Z"}
