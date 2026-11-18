@@ -1,2 +1,3 @@
 {"name":"libc-rs","vers":"0.0.1","deps":[],"cksum":"e98a687a16f6c8dbee5a7c2405c3ebf0b5008882fc77afb143ae3d58fc236031","features":{"alloc":[],"compiler-builtins":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-17T22:51:19Z"}
 {"name":"libc-rs","vers":"0.2.0","deps":[],"cksum":"461591f7fc75a9bede31905c659216fc6d684eb35c4bd538070ffd767685a19e","features":{"alloc":[],"default":["alloc"],"symbols":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-18T00:36:30Z"}
+{"name":"libc-rs","vers":"0.2.1","deps":[],"cksum":"1df38bf34accf9e042fe5b9e9aae748c8a9b39abbda547fe69f23705313153b1","features":{"alloc":[],"default":["alloc"],"symbols":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-18T00:43:20Z"}
