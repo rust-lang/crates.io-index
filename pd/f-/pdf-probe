@@ -1,3 +1,4 @@
 {"name":"pdf-probe","vers":"0.3.0","deps":[],"cksum":"0a616a5bac9012fe30fad3c9613ccbd8e599c358d74b8fbcac278700bd6c3f38","features":{"force-panic":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-17T14:42:09Z"}
 {"name":"pdf-probe","vers":"0.4.0","deps":[],"cksum":"920c58a3d8a076e3fff1253969fc3fd2f2d6d4713ad9a06f16aa86bd2a96b311","features":{"_force-panic":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-17T14:57:26Z"}
 {"name":"pdf-probe","vers":"0.5.1","deps":[],"cksum":"63cc0f2e8d525c591d18d05e8578e014b0e057e493324360ea0b3aec1371d5b7","features":{"_force-panic":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-17T20:39:45Z"}
+{"name":"pdf-probe","vers":"0.5.2","deps":[],"cksum":"675dd20b07ff34b08f580601645415ce92dfdcdd42cc11ec87ff883ea49c0a1b","features":{"_force-panic":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-18T03:20:31Z"}
