@@ -1,0 +1,1 @@
+{"name":"gradus-model","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17f0e962250ae380245703b0a02975368b53b8bdeca35612657753d2444d8120","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-18T06:30:37Z"}
