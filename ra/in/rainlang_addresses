@@ -1,0 +1,1 @@
+{"name":"rainlang_addresses","vers":"0.1.20","deps":[{"name":"alloy","req":"^1.0.9","features":["sol-types","json","json-abi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a31f930b5671d1305d5ddb91e0953c58c492de10a6b9458196110daffdc1a23","features":{},"yanked":false,"pubtime":"2026-11-18T23:25:58Z"}
