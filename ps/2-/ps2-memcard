@@ -15,3 +15,4 @@
 {"name":"ps2-memcard","vers":"0.8.1","deps":[],"cksum":"ec579c71177b99df7172ce88cac4302ef213de8bca803711e4322cff93bb8b1e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T19:01:47Z"}
 {"name":"ps2-memcard","vers":"0.8.2","deps":[],"cksum":"e5cc30f2e1f31695498a0e8d2a825e3ea6ee2d6b0f4b45e827238e77b363fff6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T21:15:12Z"}
 {"name":"ps2-memcard","vers":"0.10.1","deps":[],"cksum":"f989f2c0a62a37f06f645d3226da08ba5e68938144f128e7bc15efa556774c9f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-17T22:20:06Z"}
+{"name":"ps2-memcard","vers":"0.10.2","deps":[],"cksum":"b573684ce43ae5f496f8b63fc713e8d95091ec58cc78b3409cdab8edb3f9e19c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-18T17:31:21Z"}
