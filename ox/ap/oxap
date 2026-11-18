@@ -1,0 +1,1 @@
+{"name":"oxap","vers":"0.1.0-alpha.34","deps":[{"name":"oxap-sdk","req":"=0.1.0-alpha.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1388a0f358a22015d424ba69a516d46e2acbf80deef1689ad08d2381987b9e9c","features":{"default":[],"download":["oxap-sdk/download"]},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-18T15:36:30Z"}
