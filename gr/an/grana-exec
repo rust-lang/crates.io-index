@@ -1,1 +1,2 @@
 {"name":"grana-exec","vers":"0.2.0","deps":[],"cksum":"27e0fd500866c4b57cf6facfbfbb9f35452486c9c1bf3716e9c2181fb206622e","features":{},"yanked":false,"pubtime":"2026-11-17T16:54:03Z"}
+{"name":"grana-exec","vers":"0.2.1","deps":[{"name":"grana-log","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2b37d48724182aaa382ae5da8ac4b451f4299ef3e0868819045f200893beda8","features":{},"yanked":false,"pubtime":"2026-11-19T12:06:01Z"}
