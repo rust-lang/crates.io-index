@@ -1,0 +1,1 @@
+{"name":"incremental-client","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ab6c96d02eac284d2667415acba3047ea47f7f684b93933252b208a810f65d8","features":{},"yanked":false,"pubtime":"2026-11-19T18:38:07Z"}
