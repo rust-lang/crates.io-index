@@ -1,0 +1,1 @@
+{"name":"degenbot-primitives","vers":"0.6.0-alpha.19","deps":[{"name":"hashbrown","req":"^0.17","features":["default-hasher"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86e5aaefaccce23926b7a58329ec58df294de23a0c46ca62337001f130ca275c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-19T00:56:40Z"}
