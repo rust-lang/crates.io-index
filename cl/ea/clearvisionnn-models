@@ -1,0 +1,1 @@
+{"name":"clearvisionnn-models","vers":"0.1.0","deps":[{"name":"cvnn-runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"clearvisionnn-runtime"}],"cksum":"d830eb12a2ba5374e9a0b24d45d08652e428d7e5ed9eaed137722173ad04e8d7","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-19T13:47:18Z"}
