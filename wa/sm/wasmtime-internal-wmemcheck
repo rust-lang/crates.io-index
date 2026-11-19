@@ -92,3 +92,4 @@
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.22","deps":[],"cksum":"705ee91318fa43d3f267f744df1b741d1ebd9feee8a273996a52cdfd7ba70e0e","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-11-19T17:03:04Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"48.0.10","deps":[],"cksum":"7d987c629b151c1aee989944a5700bb9d51192cbfcc85b952b1f614452fb28ee","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-11-19T17:09:31Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"49.0.7","deps":[],"cksum":"2f9b9f5d9a14c626daacce47ebb4a22a90db2646600d8e253ecb32167339a1ad","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-11-19T17:11:05Z"}
+{"name":"wasmtime-internal-wmemcheck","vers":"50.0.3","deps":[],"cksum":"89599c4d01d2010a1b470c54a1bc966b65abf0328288187862694c3eed4e322f","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-11-19T17:14:55Z"}
