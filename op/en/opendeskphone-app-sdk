@@ -1,0 +1,1 @@
+{"name":"opendeskphone-app-sdk","vers":"0.0.0","deps":[{"name":"wit-bindgen","req":"^0.63","features":["macros","realloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f454a2c383ca084703a944cc8faacac19d8c7d8260f7aa4994d8588840169715","features":{},"yanked":false,"pubtime":"2026-11-19T03:14:56Z"}
