@@ -132,3 +132,4 @@
 {"name":"geiserx_ts_dns_wire","vers":"0.58.6","deps":[],"cksum":"a0d0108ba473af5bd40916875b99cbec7c00f744befcae23487102ad94190b2d","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-02T15:11:38Z"}
 {"name":"geiserx_ts_dns_wire","vers":"0.58.7","deps":[],"cksum":"fb684212da6438389d5a56e341b11b604c2773393e4a4e3186174dffea2c520e","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-06T20:09:07Z"}
 {"name":"geiserx_ts_dns_wire","vers":"0.58.8","deps":[],"cksum":"9b7b7682ac506082f2b84e7172f74bae624a0ce8478e25c7dbc7876138cfe31a","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-07T13:57:47Z"}
+{"name":"geiserx_ts_dns_wire","vers":"0.58.9","deps":[],"cksum":"ef2a640504ebbdff8e5a9ffb4537ad4369c0d2a0ac1c46f5fd284cc9b45dc4d4","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-19T13:50:32Z"}
