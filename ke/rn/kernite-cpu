@@ -3,3 +3,4 @@
 {"name":"kernite-cpu","vers":"0.3.0","deps":[],"cksum":"86ff898009fc9c3e474c4c3776d62227fac0cc92c78cda0f94260e0daf3c74af","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-05T05:28:04Z"}
 {"name":"kernite-cpu","vers":"0.3.1","deps":[],"cksum":"ca93a10d7517070bad09eb03f7e58e9b55277c5782505e780483159f4e5b07ec","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-05T07:59:19Z"}
 {"name":"kernite-cpu","vers":"0.3.2","deps":[],"cksum":"ec6f88f927b1604c0c6c227e310f10a5e16110ebd1b0a2d4e96e18f4147d9c87","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-05T08:38:09Z"}
+{"name":"kernite-cpu","vers":"0.4.0","deps":[],"cksum":"dfa6f32bcc1231db65cec78ff6da26c655b11e5ff3ece491bb9970a87084507b","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-19T14:48:07Z"}
