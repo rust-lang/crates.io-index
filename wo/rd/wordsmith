@@ -1,0 +1,1 @@
+{"name":"wordsmith","vers":"0.1.0","deps":[{"name":"wxdragon","req":"^0.9.25","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"76e12557df082d78de711489b02e97a722f203accb1bbd610d335df4129e42f6","features":{"completion":[],"default":["completion"]},"yanked":false,"pubtime":"2026-11-19T14:36:26Z"}
