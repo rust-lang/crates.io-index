@@ -18,3 +18,4 @@
 {"name":"pamoja-core","vers":"0.1.17","deps":[],"cksum":"fb9f3beb81db730fdd3a7aa217659659aef46e05355ef790a0d09e68fab28203","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-06T18:33:14Z"}
 {"name":"pamoja-core","vers":"0.1.18","deps":[],"cksum":"c6f60b0e9a6c45a77b437353c6e9aea87e489e308de46f271d5e8bc663673143","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-11T00:29:17Z"}
 {"name":"pamoja-core","vers":"0.2.0","deps":[],"cksum":"f513b2b4943ea55354ad3426868539323dc3d14d4afb935e6565ffc582ae9adc","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-24T21:12:48Z"}
+{"name":"pamoja-core","vers":"0.2.1","deps":[],"cksum":"5663b1664851d5cd87c0d06b974aa1935dd870d19af43246d3733eea12c69bcb","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-19T03:43:07Z"}
