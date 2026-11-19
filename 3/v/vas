@@ -1,2 +1,3 @@
 {"name":"vas","vers":"0.0.0","deps":[],"cksum":"b286981a45e7c72072c0a7a9b46e62f4305e381e583648ceb5405db28c1a4255","features":{},"yanked":false,"pubtime":"2026-11-15T00:45:02Z"}
 {"name":"vas","vers":"0.17.0","deps":[],"cksum":"8733e17a5a0a624d2c27474e0d8f6b83018726fa9d18e4ba0463f5c22579372d","features":{},"yanked":false,"pubtime":"2026-11-16T00:39:37Z"}
+{"name":"vas","vers":"0.31.0","deps":[],"cksum":"fde3e58eda0b370cc01aafdcf8856c0bb05e0ad9ceaa79e8a85339658fd9a363","features":{"alloc":[]},"yanked":false,"pubtime":"2026-11-19T00:24:49Z"}
