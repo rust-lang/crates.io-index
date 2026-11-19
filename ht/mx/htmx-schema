@@ -1,0 +1,1 @@
+{"name":"htmx-schema","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a77bb1a437cd1480d4dfd5426b243bf2c68f70ae812a3b748ea8508b756d3e63","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-19T11:55:24Z"}
