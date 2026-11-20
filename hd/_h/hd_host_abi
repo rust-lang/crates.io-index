@@ -1,0 +1,1 @@
+{"name":"hd_host_abi","vers":"0.0.1","deps":[{"name":"hd_base","req":"=0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5085e6473ced8268c9924743aa95dd9347c561e1202f1cb9a911a66e833305d","features":{"native-rust":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-20T07:33:49Z"}
