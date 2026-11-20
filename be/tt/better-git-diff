@@ -1,0 +1,1 @@
+{"name":"better-git-diff","vers":"0.1.0","deps":[{"name":"clap","req":"^4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27b42326f980f209e4c28df639f7c18c3a60313f1e54ed5e50ed593fe0cf0446","features":{},"yanked":false,"pubtime":"2026-11-20T11:11:46Z"}
