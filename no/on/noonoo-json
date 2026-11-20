@@ -1,0 +1,1 @@
+{"name":"noonoo-json","vers":"0.20.0","deps":[{"name":"noonoo-parse","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"005e7d84ec1519fb85f10ed984be41aff52f3b2e43b2b611fc17339f2087b55d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-20T12:08:57Z"}
