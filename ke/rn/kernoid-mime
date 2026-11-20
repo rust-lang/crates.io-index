@@ -1,1 +1,2 @@
 {"name":"kernoid-mime","vers":"0.0.0","deps":[],"cksum":"3738c81f0d94423ff03798a8616ddaf6102848573c5e1485a46dc15199c1ee3e","features":{},"yanked":false,"pubtime":"2026-11-20T19:53:49Z"}
+{"name":"kernoid-mime","vers":"0.6.0","deps":[{"name":"encoding_rs","req":"^0.8.42","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00a46564b33b566a47b1a3e0aed34618d1d1ec477539985684f3392e8a70b157","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-20T23:26:40Z"}
