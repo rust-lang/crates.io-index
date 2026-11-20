@@ -1,1 +1,2 @@
 {"name":"simoom-sys","vers":"0.1.0","deps":[],"cksum":"186509d46eaac603045959b205cd5c8c3592adb49f636be09a59a277ef34dd3b","features":{"io-uring":[],"sancov":[],"udp":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-12T13:21:28Z"}
+{"name":"simoom-sys","vers":"0.2.0","deps":[],"cksum":"c0b8f83bc658021d49bb26795f3a6baeee08e3a85bd025169d2b6628948465e5","features":{"io-uring":[],"sancov":[],"udp":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-20T06:39:48Z"}
