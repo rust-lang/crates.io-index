@@ -1,0 +1,1 @@
+{"name":"frenz-proto","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"45fd8c4eecd1d98dfdfed8c01ca249ff8175d87fcefd50bf7f6f9a2904910427","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-20T20:20:07Z"}
