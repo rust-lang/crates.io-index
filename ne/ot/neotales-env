@@ -1,0 +1,1 @@
+{"name":"neotales-env","vers":"0.0.0-alpha.0","deps":[{"name":"indexmap","req":"^2.12","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c09d2ebcf4707df0d5de40958faae3ba7578600f70f1dbf107d71a79bfc1545f","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-20T18:44:24Z"}
