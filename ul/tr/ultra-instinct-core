@@ -1,1 +1,2 @@
 {"name":"ultra-instinct-core","vers":"0.1.0","deps":[],"cksum":"9fd5d71960d0c4410c0462aa6a8c9945b8a168039ee3e72566fef4262f66aa4e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-18T08:16:05Z"}
+{"name":"ultra-instinct-core","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f676f2730e6149d1b3b574f7ceeb6e6c874a5945c35af9841e2be02bc4365a8c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-20T20:17:19Z"}
