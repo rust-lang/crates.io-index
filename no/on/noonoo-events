@@ -1,0 +1,1 @@
+{"name":"noonoo-events","vers":"0.20.0","deps":[{"name":"noonoo-dom","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a73d2742d6a88b603b2d3b6486e80872b5cb1c5011b032fcac62be50db98b52","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-20T13:00:02Z"}
