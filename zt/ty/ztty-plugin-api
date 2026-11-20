@@ -1,0 +1,1 @@
+{"name":"ztty-plugin-api","vers":"0.1.0","deps":[{"name":"zplugin","req":"=0.3.1","features":["macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e00adc5df1eefa237ea1ccd8d837ceecabef1976141b78918901d95cb8e9d4a6","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-20T01:22:36Z"}
