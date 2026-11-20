@@ -1,0 +1,1 @@
+{"name":"taim-raster","vers":"0.15.0-rc.1","deps":[{"name":"bytemuck","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad1149ccd3f801dad7783bcfefd3ffc1f30c505847f097f709630349f4ca5e47","features":{},"yanked":false,"pubtime":"2026-11-20T19:55:05Z"}
