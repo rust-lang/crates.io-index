@@ -1,3 +1,4 @@
 {"name":"clarity-formats","vers":"0.1.0","deps":[],"cksum":"e6df90c8a863e673527dfb903e32253b9df5858acb15d91ace32aed14df81872","features":{},"yanked":false,"pubtime":"2026-11-10T23:13:13Z"}
 {"name":"clarity-formats","vers":"0.2.0","deps":[],"cksum":"b8b0692ebe768b1b25260861431ddac575706f590d035779b73e6fb97375ef91","features":{},"yanked":false,"pubtime":"2026-11-11T10:44:59Z"}
 {"name":"clarity-formats","vers":"0.3.0","deps":[],"cksum":"1ee46084436068a9e5e4f74851833af2c872ddc6ecf8719114e5e9024ffd97f2","features":{},"yanked":false,"pubtime":"2026-11-18T21:44:21Z"}
+{"name":"clarity-formats","vers":"0.4.0","deps":[{"name":"clarity-data","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa10f71d91be57ff556746d876ec791310c767b41b00b2a79dd739e62b420d4e","features":{},"yanked":false,"pubtime":"2026-11-20T12:13:58Z"}
