@@ -1,1 +1,2 @@
 {"name":"zgpui","vers":"0.1.0","deps":[],"cksum":"9943673fb607eade54661ff65243c4441a537f75188e361160a97344570bff90","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-19T21:56:44Z"}
+{"name":"zgpui","vers":"0.1.1","deps":[],"cksum":"75d0c780f8139a6d8db1b7c9d0de64c51c55b2feb4a6973f743380799df7fcea","features":{"default":[],"linux-software":["native"],"native":["std"],"std":[]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-20T06:10:09Z"}
