@@ -14,3 +14,4 @@
 {"name":"virtio-accel-cleanroom","vers":"0.3.11","deps":[],"cksum":"745ed1c0138d96b3d53cdd659aee81d383333a847fdfab3706f8028b1a649d12","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-20T00:14:42Z"}
 {"name":"virtio-accel-cleanroom","vers":"0.4.0","deps":[],"cksum":"ab62cff07b6f09279ca69a45ba18ee1fd6c982bab8ad36b6e05c27b22439e2de","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-20T01:15:20Z"}
 {"name":"virtio-accel-cleanroom","vers":"0.4.1","deps":[],"cksum":"b8abc00bfe50ae22c51113bd7d41868374386b363e4463e510411aeb939fee1c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-23T22:42:38Z"}
+{"name":"virtio-accel-cleanroom","vers":"0.5.0","deps":[],"cksum":"45059a9dafdf42e927a208e93bf1074c6b51640ac48f3881f97a1b771d460955","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-20T10:18:48Z"}
