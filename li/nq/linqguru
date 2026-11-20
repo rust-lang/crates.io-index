@@ -1,1 +1,2 @@
 {"name":"linqguru","vers":"0.1.0","deps":[],"cksum":"c7f27fa1af9ea079cdb46c222c8704196588065f5a2b257596f4c76ce88c11cf","features":{},"yanked":false,"pubtime":"2026-11-18T09:22:19Z"}
+{"name":"linqguru","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a21880175230fab6be2c061e77a7bcc12ff6b8d674edd051a5b7c7748e112e89","features":{},"yanked":false,"pubtime":"2026-11-20T06:59:23Z"}
