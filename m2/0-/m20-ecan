@@ -1,0 +1,1 @@
+{"name":"m20-ecan","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"333613e48bd96c3fffad377746c59bf45d92c5f2c3b93b9a3cc90128a8220733","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-20T05:44:02Z"}
