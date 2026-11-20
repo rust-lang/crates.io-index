@@ -11,3 +11,4 @@
 {"name":"befli","vers":"2.4.2","deps":[],"cksum":"68373631c5359a2f3a1432f99fafa86a2a98bec640e4815b9116038e332d7259","features":{},"yanked":false,"pubtime":"2026-11-17T14:44:26Z"}
 {"name":"befli","vers":"2.5.2","deps":[],"cksum":"d521b5a14a93cf06a832de82a43ff9664d50c8af02c759f385216ff524de7af9","features":{},"yanked":false,"pubtime":"2026-11-17T18:45:24Z"}
 {"name":"befli","vers":"2.6.2","deps":[],"cksum":"e1c755f515addb120dd20fe0b7ca989d85458bad0e2154ac84564f64bb63e63a","features":{},"yanked":false,"pubtime":"2026-11-19T22:43:07Z"}
+{"name":"befli","vers":"2.7.0","deps":[{"name":"color-print","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d42e85fd20090d437889e03e7cc0af88208a7c7eefc983410c7532e462074a7","features":{},"yanked":false,"pubtime":"2026-11-20T12:09:22Z"}
