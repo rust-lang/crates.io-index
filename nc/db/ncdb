@@ -1,1 +1,2 @@
 {"name":"ncdb","vers":"0.0.0","deps":[],"cksum":"f4f4a60bfb17b0b957c3555edb31988f165adcc5d235d08a29dd8fda19bc2371","features":{},"yanked":false,"pubtime":"2026-10-31T13:36:09Z"}
+{"name":"ncdb","vers":"0.1.0-beta.1","deps":[{"name":"ncdb-core","req":"=0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbd9494e59a255eaf4fc04d6621780ff694c6254c4ab551149f164013ad284f5","features":{},"yanked":false,"pubtime":"2026-11-21T07:02:40Z"}
