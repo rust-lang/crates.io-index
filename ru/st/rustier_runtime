@@ -1,0 +1,1 @@
+{"name":"rustier_runtime","vers":"0.0.1","deps":[{"name":"napi-sys","req":"^3","features":["napi10"],"optional":false,"default_features":false,"target":"cfg(not(target_family = \"wasm\"))","kind":"normal"}],"cksum":"623c565298f925aa994e5e5f07139230c42baeff2c5e4082cc66c54421eeef03","features":{},"yanked":false,"pubtime":"2026-11-21T12:31:39Z"}
