@@ -205,3 +205,4 @@
 {"name":"http-constant","vers":"22.6.0","deps":[],"cksum":"6039a0a1198775e57baffd936fd35d492e5c0a17d867a72b2337c0b8f1562a4c","features":{},"yanked":false,"pubtime":"2026-11-19T14:22:08Z"}
 {"name":"http-constant","vers":"22.6.9","deps":[],"cksum":"f298058e69145558a6b2e9fd0f5df1978c207de457742ee68b4cb6ec35e43ca8","features":{},"yanked":false,"pubtime":"2026-11-21T08:37:22Z"}
 {"name":"http-constant","vers":"22.6.10","deps":[],"cksum":"a126d42ef906ed899ec03ac1378dd4ccb9a1eba6f21155ff63a4f9c78d4edbb8","features":{},"yanked":false,"pubtime":"2026-11-21T09:54:32Z"}
+{"name":"http-constant","vers":"22.7.0","deps":[],"cksum":"51cea6cb5a1369f392e7d1acabba7e0d090d62fe04aec2b0a3d964de0dd6f2a0","features":{},"yanked":false,"pubtime":"2026-11-21T10:10:36Z"}
