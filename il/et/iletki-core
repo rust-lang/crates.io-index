@@ -1,0 +1,1 @@
+{"name":"iletki-core","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.12","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a1d5e28b60395e3ec28c3d6b1ecfee540ad284e5f41688da1023724afc120fbd","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-21T14:56:57Z"}
