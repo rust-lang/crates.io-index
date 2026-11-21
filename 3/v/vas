@@ -2,3 +2,4 @@
 {"name":"vas","vers":"0.17.0","deps":[],"cksum":"8733e17a5a0a624d2c27474e0d8f6b83018726fa9d18e4ba0463f5c22579372d","features":{},"yanked":false,"pubtime":"2026-11-16T00:39:37Z"}
 {"name":"vas","vers":"0.31.0","deps":[],"cksum":"fde3e58eda0b370cc01aafdcf8856c0bb05e0ad9ceaa79e8a85339658fd9a363","features":{"alloc":[]},"yanked":false,"pubtime":"2026-11-19T00:24:49Z"}
 {"name":"vas","vers":"0.42.0","deps":[],"cksum":"d648e35d4841492360299a284a61c0914bd9baa9742a1ea5daaa7e87d8a64236","features":{"alloc":[]},"yanked":false,"pubtime":"2026-11-19T20:32:33Z"}
+{"name":"vas","vers":"0.47.0","deps":[],"cksum":"d96efb417fb8be0cd69cee1fec4f6d428702734c672757b877543aa3e7d2b545","features":{"alloc":[]},"yanked":false,"pubtime":"2026-11-21T13:57:46Z"}
