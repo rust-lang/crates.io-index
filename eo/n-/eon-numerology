@@ -1,0 +1,1 @@
+{"name":"eon-numerology","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80bb4eae4ec6e4083ff9f60f432b515486b516b5f431db0f44d87f2422944fa2","features":{},"yanked":false,"pubtime":"2026-11-21T00:12:29Z"}
