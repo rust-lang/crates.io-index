@@ -1,1 +1,2 @@
 {"name":"pddl-runtime","vers":"0.0.0","deps":[],"cksum":"0c5804b3d0bd3755f1827fe7fc9b39f369e490592d99bbee8f993eb62ae3bfec","features":{},"yanked":false,"pubtime":"2026-11-21T00:43:46Z"}
+{"name":"pddl-runtime","vers":"0.1.0","deps":[],"cksum":"65cef5bc284ce593869649d9068f95fca7a3e8d44982990352127e679cc3d83c","features":{"search":[]},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-11-21T00:48:27Z"}
