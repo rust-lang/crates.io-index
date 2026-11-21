@@ -1,1 +1,2 @@
 {"name":"omni-tick","vers":"0.1.0","deps":[],"cksum":"13c00d163462014ce4b3e7a6e09760fbeedf232ff0229d39661adb64c221e0b7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T02:19:22Z"}
+{"name":"omni-tick","vers":"0.2.0","deps":[{"name":"crc32fast","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4d5d747240d10497fb0381408edd2128c25e38bb5cde14e551efd8d850b6acc2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T05:44:19Z"}
