@@ -1,1 +1,2 @@
 {"name":"compono-desktop","vers":"1.0.0-rc","deps":[],"cksum":"fdd98cf015e236d619656042424969ffb7a915539eb4d9c4bfe0ca36134d0ecb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-13T14:41:41Z"}
+{"name":"compono-desktop","vers":"1.0.0-rc.2","deps":[{"name":"compono","req":"^1.0.0-rc.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"666e06ee337cd179cd0460a38e7a80b763f530c58b56e4b52004b8a8df5c6998","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-21T12:43:11Z"}
