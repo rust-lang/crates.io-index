@@ -1,0 +1,1 @@
+{"name":"tg-rcore-sync","vers":"0.1.0-preview.1","deps":[{"name":"tg-sbi","req":"^0.4.8","features":["nobios"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tg-rcore-tutorial-sbi"}],"cksum":"a87cdb161f9a450ce6cfe422cd2de15b0dff12586aa6fc83557e0e563b957f8b","features":{},"yanked":false,"pubtime":"2026-03-27T10:36:23Z"}

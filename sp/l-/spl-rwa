@@ -1,0 +1,1 @@
+{"name":"spl-rwa","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"095ef885f539a46907d5ef90503175c46574530d523356d278973bd16d700236","features":{"default":[]},"yanked":false,"pubtime":"2026-06-01T19:26:25Z"}

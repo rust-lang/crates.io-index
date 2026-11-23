@@ -1,0 +1,3 @@
+{"name":"say-hello-raihan","vers":"0.1.0","deps":[],"cksum":"7c84ef27c858caea1cb0c16a9a95c03a5b569b4a779fafae81aa54e9346657f5","features":{},"yanked":false,"pubtime":"2026-10-17T13:57:50Z"}
+{"name":"say-hello-raihan","vers":"0.2.0","deps":[],"cksum":"0374816fe6efc51a249427ba41de76767bdd2f9116ba3ee75040df2e4cfdf5a6","features":{},"yanked":false,"pubtime":"2026-10-17T14:26:46Z"}
+{"name":"say-hello-raihan","vers":"0.3.0","deps":[],"cksum":"ff6bcebc3505c9b2efaffefae3bc47bdc48ad25c822bc6abe86249ab6a9266d5","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-10-17T14:50:28Z"}

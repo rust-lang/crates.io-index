@@ -1,0 +1,1 @@
+{"name":"fpgad_proxies","vers":"0.5.1","deps":[{"name":"zbus","req":"^5.9.0","features":["tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5e67c7f8a959566f9908bdbaa5cd9e2d09709798defa85fe4f53bcd136c1b7d2","features":{},"yanked":false,"pubtime":"2026-08-10T10:35:57Z"}

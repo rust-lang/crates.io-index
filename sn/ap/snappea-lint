@@ -1,0 +1,2 @@
+{"name":"snappea-lint","vers":"0.0.0","deps":[],"cksum":"1db4d6214eb57dd3afdc5578c506d5c13b9c8bfe066b2a1a9f193b9f89b92ffc","features":{},"yanked":false,"pubtime":"2026-11-02T14:31:17Z"}
+{"name":"snappea-lint","vers":"0.2.0","deps":[{"name":"snappea-syntax","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"319792e45ee5cf49d2913423992292b2ef1bbddfc545f08e60855f9f1e8d8ba3","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-11-02T14:36:59Z"}

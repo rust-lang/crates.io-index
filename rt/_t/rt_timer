@@ -1,0 +1,1 @@
+{"name":"rt_timer","vers":"0.1.0","deps":[{"name":"spin_sleep","req":"^1.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a11809cc1ec9a992cda010904f4a8c251b66b57544d1780c8ddba30634887655","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-14T13:36:58Z"}

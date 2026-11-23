@@ -1,0 +1,2 @@
+{"name":"oxur-smap","vers":"0.1.0","deps":[],"cksum":"c1d0042c6a4828c00dff03b3c3def36993922a9fe0972183b62d239ce032353c","features":{},"yanked":false,"pubtime":"2026-01-05T16:47:37Z"}
+{"name":"oxur-smap","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb614a98289291a38c531d2541231394355d17e8bcc6807051ab32e32d887c82","features":{},"yanked":false,"pubtime":"2026-01-17T00:17:27Z"}

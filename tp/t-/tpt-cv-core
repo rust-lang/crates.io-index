@@ -1,0 +1,1 @@
+{"name":"tpt-cv-core","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e042c772975256977ff47328b07eb7afad3e728a1bf3c2b5d09ac7f450a3ddec","features":{"alloc":[],"default":["std","alloc"],"portable-simd":[],"std":[]},"yanked":false,"pubtime":"2026-08-25T12:24:02Z"}

@@ -1,0 +1,3 @@
+{"name":"wyze00-say_hello","vers":"0.1.0","deps":[],"cksum":"2624fe7fe6b3f7e4cf421eb9e6f03803118f9c6c71b8865bef24bb2ad4c8593c","features":{},"yanked":false,"pubtime":"2026-08-07T05:30:11Z"}
+{"name":"wyze00-say_hello","vers":"0.2.0","deps":[],"cksum":"11e11a468fa5c401e34b33ba85730c21a1a55400597c3f310d1960093245f2ff","features":{},"yanked":false,"pubtime":"2026-08-10T16:27:49Z"}
+{"name":"wyze00-say_hello","vers":"0.3.0","deps":[],"cksum":"34d943ac1b1c30deeb12230cf5c6c85dd9792cf8f4e372cc258ce72d3dd1809f","features":{"all":["hello","bye"],"bye":[],"default":["hello"],"hello":[]},"yanked":false,"pubtime":"2026-08-10T16:45:00Z"}

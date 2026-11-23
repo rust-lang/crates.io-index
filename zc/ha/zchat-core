@@ -1,0 +1,1 @@
+{"name":"zchat-core","vers":"0.1.4","deps":[{"name":"zconv","req":"=0.4.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5144617c497764f0e67bf064111a011d7398c56bdc7e88e0868af59673fba6f2","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T20:26:55Z"}

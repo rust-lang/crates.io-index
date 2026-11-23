@@ -1,0 +1,1 @@
+{"name":"wolftpm2-src","vers":"0.3.2","deps":[{"name":"cc","req":"^1.2.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3836cb774c2ccdcc850cbcda9779a01bfde2eabb29dc91f09aa9314253c74fce","features":{"linux-dev":[],"swtpm":[]},"yanked":false,"links":"wolftpm2_src","rust_version":"1.88","pubtime":"2026-11-13T05:13:30Z"}

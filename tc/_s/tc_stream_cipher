@@ -1,0 +1,1 @@
+{"name":"tc_stream_cipher","vers":"0.1.0","deps":[{"name":"tc_zeroize","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a460a4a240dee7ffd827185d8e3e966e20a3e9fb4a9fb9377fc93b33045723b","features":{"alloc":["tc_zeroize/alloc"],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-24T09:20:20Z"}

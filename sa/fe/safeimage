@@ -1,0 +1,1 @@
+{"name":"safeimage","vers":"0.3.30","deps":[{"name":"libm","req":"^0.2.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be6802a26b697164a20b46ccd11304dad6c4f26ca849bf9cb1f5e4e36897bdfd","features":{"reference-support":[]},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-24T04:29:02Z"}

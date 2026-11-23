@@ -1,0 +1,1 @@
+{"name":"austen-honggfuzz","vers":"0.0.1","deps":[{"name":"austen-lib","req":"^0.0.1","features":["driver"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99627a6c71261334ba1aedf3929fc515543eb81a8dd23ae8aeeffbee9d36464d","features":{"vendored":[]},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-10-30T10:42:40Z"}

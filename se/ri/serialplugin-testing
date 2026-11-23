@@ -1,0 +1,2 @@
+{"name":"serialplugin-testing","vers":"0.0.0","deps":[],"cksum":"5485ff28116bd7b590e1015cc909b8bc7fe54a307b437c5f09de8cd9ba40d2b5","features":{},"yanked":false,"pubtime":"2026-11-22T05:58:24Z"}
+{"name":"serialplugin-testing","vers":"0.1.0","deps":[{"name":"serialport","req":"^4.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7944a76e5b3f936362c3eef2f7c5a8ebfa4b2a576f5bbec96c7039543cbc805a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T08:27:19Z"}

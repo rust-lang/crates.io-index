@@ -1,0 +1,3 @@
+{"name":"bparser","vers":"0.1.0","deps":[],"cksum":"7c220da11177d2ce2192cbc96bd05ee86edca82e557cbaffd554b541e34415d3","features":{},"yanked":false,"pubtime":"2026-06-05T11:59:59Z"}
+{"name":"bparser","vers":"0.2.0","deps":[],"cksum":"b06f1ea46760fa7da0a3b8b96a3853d85c20af8dc1c95baf32cf6054b255af56","features":{},"yanked":false,"pubtime":"2026-06-17T08:48:33Z"}
+{"name":"bparser","vers":"0.3.0","deps":[{"name":"heapless","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61c5e26a69a900a618667db2e5a42e110779b563c9bccd80b56f7f6a0b9fd895","features":{},"yanked":false,"pubtime":"2026-10-24T10:06:05Z"}

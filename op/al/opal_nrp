@@ -1,0 +1,2 @@
+{"name":"opal_nrp","vers":"0.1.0","deps":[],"cksum":"18ab4afb2d00d0174c227d0f376c5f72a387c049331b2c2c84b096e8e6ee3577","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-19T11:01:20Z"}
+{"name":"opal_nrp","vers":"0.2.0","deps":[{"name":"miniz_nrp","req":"^0.3.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"43a45682f8e094bc8e2e7529636b967fbb8fafc9e0e168e9a5e3e0a5c10698b1","features":{},"features2":{"vgz":["dep:miniz_nrp"]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T18:43:04Z","v":2}

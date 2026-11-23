@@ -1,0 +1,1 @@
+{"name":"metro-tui","vers":"0.1.0","deps":[{"name":"metro-core","req":"=0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fa73bf9618a381af17e181209d8097d51b5ad009d0fc0cd324da76bb320a96f","features":{"test-utils":["metro-core/test-utils"]},"yanked":false,"pubtime":"2026-11-22T15:24:18Z"}

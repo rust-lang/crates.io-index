@@ -1,0 +1,1 @@
+{"name":"rs-strings2set2sqlite","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.40.2","features":["bundled","wasm32-wasi-vfs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b0986ecb8f02ed9f0c76b8934dac98f1bf880d6ee3fb9c68aa4f59981a58338b","features":{},"yanked":false,"pubtime":"2026-10-22T22:46:24Z"}

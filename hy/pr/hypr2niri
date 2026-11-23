@@ -1,0 +1,1 @@
+{"name":"hypr2niri","vers":"0.5.0","deps":[{"name":"mlua","req":"=0.12.2","features":["lua55","vendored"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2cc6b1498d91e7943a8781e419cc0bfafc8a73c9d1c3a62fd1e2255ebb7eaa2","features":{},"features2":{"default":["lua"],"lua":["dep:mlua"]},"yanked":false,"pubtime":"2026-11-16T08:46:19Z","v":2}

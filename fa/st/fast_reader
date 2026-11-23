@@ -1,0 +1,1 @@
+{"name":"fast_reader","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0fa14d69ee56a571f60087a5423060bc4843262261289447f019b33f4ee003b","features":{"default":["rand"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-08-17T16:57:27Z"}

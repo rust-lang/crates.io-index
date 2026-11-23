@@ -1,0 +1,4 @@
+{"name":"sokr","vers":"0.1.0","deps":[],"cksum":"c98b56e309c4c3608a1a8d7b35fcc0ef3de9fa20984c06dbe01f46cb57e6773e","features":{},"yanked":false,"pubtime":"2026-04-16T05:00:51Z"}
+{"name":"sokr","vers":"0.1.1","deps":[],"cksum":"7ef64a7ff0d987b70c6328dcef17c0756952f379185ce2ed3a8610452708f901","features":{"default":[],"ffi":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-04-22T14:51:27Z"}
+{"name":"sokr","vers":"0.2.0","deps":[],"cksum":"7a9ecc89f85edcbb539da1fd023fe98ebef4aee6d4fcafb5e45e92c30f5970f0","features":{"default":[],"ffi":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-05-18T07:28:14Z"}
+{"name":"sokr","vers":"0.3.0","deps":[],"cksum":"dd394df0010b4b20b7228d9283cc112320c5e3affbea1760b3fb4ae8670264a9","features":{"default":["std"],"ffi":[],"std":[]},"yanked":false,"rust_version":"1.78","pubtime":"2026-05-21T22:23:56Z"}

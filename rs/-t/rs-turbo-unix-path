@@ -1,0 +1,1 @@
+{"name":"rs-turbo-unix-path","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.15.1","features":["const_generics","union","const_new"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d1d9e00f735fc24cd240777ceba30352c81406e956a58e662fa79c4c16e5c38","features":{},"yanked":false,"pubtime":"2026-11-18T05:18:18Z"}

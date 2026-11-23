@@ -1,0 +1,1 @@
+{"name":"herdr-dispatcher","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.48.0","features":["macros","rt-multi-thread","sync"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5398a9998f2c57d8b36c8d185eb1f1d7532b6a151d0df5d9ad952e352892748c","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-07-07T11:20:02Z"}

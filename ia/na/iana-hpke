@@ -1,0 +1,1 @@
+{"name":"iana-hpke","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"a61b889580958406944b92d508c63c15694bfed8e3b9e9c46d4c439dce47be85","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T03:57:32Z"}

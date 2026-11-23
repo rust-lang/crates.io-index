@@ -1,0 +1,2 @@
+{"name":"symbi-invis-strip","vers":"0.2.0","deps":[],"cksum":"be6ac75e0097144b55bb8e293fcba27cf853e6b83d7f9eb3fb7e9bb0aa4816ce","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-05-07T22:13:45Z"}
+{"name":"symbi-invis-strip","vers":"0.3.0","deps":[{"name":"unicode-normalization","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e336bc3ce5d244e9d3ee91a229df41bf1b0009ee6015ff1e69d26cceadcc885","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-05-18T22:23:01Z"}

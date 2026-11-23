@@ -1,0 +1,5 @@
+{"name":"rx-rs","vers":"0.0.1","deps":[],"cksum":"f94e3ff55f9c1b57fbff5d5d1c6cd7a144d25431e44359e858d11401854b7204","features":{},"yanked":false,"pubtime":"2026-04-15T21:18:17Z"}
+{"name":"rx-rs","vers":"0.1.0","deps":[],"cksum":"a3624b3d111fb368089a2af37391d5af8be15a58e2a88cb99baa81e29656c4a1","features":{},"yanked":false,"pubtime":"2026-04-16T22:21:11Z"}
+{"name":"rx-rs","vers":"0.1.1","deps":[],"cksum":"f2561c2b1838972601240a546c733423fa6c2292995415bbeba75c3a70047420","features":{},"yanked":false,"pubtime":"2026-04-17T20:03:15Z"}
+{"name":"rx-rs","vers":"0.1.2","deps":[],"cksum":"88acaf59191e66570ad7a28da9f337eef2acdb669fddf45f0ecc4b24a4726c6c","features":{},"yanked":false,"pubtime":"2026-04-17T21:19:31Z"}
+{"name":"rx-rs","vers":"0.1.3","deps":[{"name":"tracing","req":"^0.1.44","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86bc670ce8d6a79d8982adc3d7ac3311c863f9ee82a3bce1b1ac8bf203b03417","features":{"debug":["tracing"]},"yanked":false,"pubtime":"2026-04-19T08:55:17Z"}

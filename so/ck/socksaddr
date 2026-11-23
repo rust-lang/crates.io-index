@@ -1,0 +1,2 @@
+{"name":"socksaddr","vers":"0.0.4","deps":[],"cksum":"86e7db52af5ece6472ef442195478265655488f65a0a0b7e7bd0ff23592af08d","features":{},"yanked":false,"pubtime":"2026-10-23T09:02:37Z"}
+{"name":"socksaddr","vers":"0.0.5","deps":[{"name":"thiserror","req":"^2.0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2192ed0bbc633f39cce0e2171bdb3aec031825243457dfacbbccc96c586b4d28","features":{},"yanked":false,"pubtime":"2026-11-14T19:37:36Z"}

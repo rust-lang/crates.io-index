@@ -1,0 +1,1 @@
+{"name":"rs-lines2zstd-seekable","vers":"0.1.0","deps":[{"name":"zrip","req":"^0.8.17","features":["frame","ldm","simd","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02a68b7376c6b71c172a548457d40b3d696528a2207aa8d252ad2ba761df1f51","features":{},"yanked":false,"pubtime":"2026-11-22T23:33:52Z"}

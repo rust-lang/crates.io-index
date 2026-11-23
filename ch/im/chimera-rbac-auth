@@ -1,0 +1,1 @@
+{"name":"chimera-rbac-auth","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c3444d8ebd29bc5c323572e46a0de248106ce1dab7ff42d03df795b2c7af9cc","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-07T23:12:32Z"}

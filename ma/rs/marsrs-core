@@ -1,0 +1,1 @@
+{"name":"marsrs-core","vers":"0.1.0-alpha.3","deps":[{"name":"chrono","req":"^0.4","features":["clock","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e14016e500c9ac08af5c301d23e27610af352b894b605821c9bcfe1a39cb56df","features":{},"yanked":false,"pubtime":"2026-09-28T11:33:26Z"}

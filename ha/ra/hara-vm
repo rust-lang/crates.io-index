@@ -1,0 +1,1 @@
+{"name":"hara-vm","vers":"0.1.0","deps":[{"name":"hara-wasm","req":"^0.1.1","features":["bytecode-vm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c8beec32ae5cfff1d9e9117a33c3245c64a86abbb772bbf7ef91d59aff0a01d2","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-08-03T13:18:54Z"}

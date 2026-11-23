@@ -1,0 +1,1 @@
+{"name":"arm-dsp","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e555ab485c2adc945355903266464bfe1673473e1aa70315e0155b58b40644f4","features":{"default":[],"nightly":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-06T14:38:45Z"}

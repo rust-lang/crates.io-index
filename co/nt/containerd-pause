@@ -1,0 +1,1 @@
+{"name":"containerd-pause","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5c7fa9071553ccfbfc596d1e23c5f15d6bb8caab41e71fd349c3a8cf386557b0","features":{},"yanked":false,"pubtime":"2026-11-15T21:16:04Z"}

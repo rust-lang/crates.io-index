@@ -1,0 +1,1 @@
+{"name":"iana-oauth-parameters","vers":"0.1.0","deps":[{"name":"iana","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"iana-gen-shared"}],"cksum":"bfdb5143d4d51f6368c8a8647c36c82913456b4c243bc50be1f2d5afff1e3422","features":{"default":[],"metadata":["iana/metadata"]},"yanked":false,"pubtime":"2026-09-28T04:37:32Z"}

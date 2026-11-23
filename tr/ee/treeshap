@@ -1,0 +1,1 @@
+{"name":"treeshap","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8404029ddc002f80225fd6d6a8964a18e5faa63e03d047e606431fbcf1bf95e3","features":{"default":["std"],"oracle":[],"std":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-23T11:37:16Z"}

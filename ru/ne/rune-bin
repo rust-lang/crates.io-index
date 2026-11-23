@@ -1,0 +1,1 @@
+{"name":"rune-bin","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a8292f8a2929b41c6e2061ee1377c6ef6aa175e8f70ba10cf8d3aa817055db","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T15:16:13Z","v":2}

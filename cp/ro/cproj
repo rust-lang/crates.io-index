@@ -1,0 +1,1 @@
+{"name":"cproj","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15fb33a8bc042f9e08a925d4d8303655f310a90cc261ec7ea3ca22abd9635202","features":{},"features2":{"silly_stuff":["dep:rand"]},"yanked":false,"pubtime":"2026-06-30T02:42:34Z","v":2}

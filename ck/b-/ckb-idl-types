@@ -1,0 +1,1 @@
+{"name":"ckb-idl-types","vers":"0.1.0","deps":[{"name":"ckb-std","req":"^1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a14a2330e94d46a61d3751d10ee472bbb930301876729c47b6449d9743dba4d8","features":{},"features2":{"ckb-contract":["dep:ckb-std"]},"yanked":false,"pubtime":"2026-09-29T21:15:37Z","v":2}

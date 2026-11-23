@@ -1,0 +1,1 @@
+{"name":"apsis","vers":"0.2.0","deps":[],"cksum":"486aaed5492ccb2599351008e4f53d5b6970f3827fadd32beb4e148d9e4a3c61","features":{"default":[],"foundation":[],"full":["sim"],"network":["rf"],"ops":["network"],"orbit":["physics"],"physics":["foundation"],"rf":["orbit"],"sim":["ops"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-15T09:17:21Z"}

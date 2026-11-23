@@ -1,0 +1,1 @@
+{"name":"tryx-core","vers":"0.1.0","deps":[{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4659c54578fc3390519a78464b136106d9a4a2b54633bf10adf7824cdb6e090a","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-05-16T02:35:52Z"}

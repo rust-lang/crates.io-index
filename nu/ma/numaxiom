@@ -1,0 +1,2 @@
+{"name":"numaxiom","vers":"0.0.1","deps":[],"cksum":"ef86d7defa60892576eef688d00df69bb39988674775d479e39516b7fe6e6e7e","features":{},"yanked":false,"pubtime":"2025-12-21T11:48:58Z"}
+{"name":"numaxiom","vers":"0.0.2","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"658d3ac5349218305fff402b033c21f7e1a73528d368520e71b8925bdaf9f041","features":{"default":["std"],"std":[]},"features2":{"libm":["dep:libm"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-02T07:04:57Z","v":2}

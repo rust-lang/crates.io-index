@@ -1,0 +1,1 @@
+{"name":"mothwing","vers":"1.0.0","deps":[{"name":"crossterm","req":"^0.29.0","features":["events","windows"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"434bd0167da83939cf0d765abb125681a3f814c5936aa42152bea010f219a987","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-07T19:18:26Z"}

@@ -1,0 +1,1 @@
+{"name":"fexun","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.20.1","features":["2d","ui","audio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7b1b19ea0a71242483d2d9fdc80a8ca76abcc1b397ac041ea5b8dcac81970718","features":{},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-08T14:11:42Z"}

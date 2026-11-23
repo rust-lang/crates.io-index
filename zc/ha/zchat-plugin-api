@@ -1,0 +1,1 @@
+{"name":"zchat-plugin-api","vers":"0.1.4","deps":[{"name":"zplugin","req":"=0.3.1","features":["alloc","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"81b50ee317909c8e90a173d48920b2e5dd5cc49e2d2293ced29a5d579e25e59a","features":{"default":[],"std":["zplugin/std"]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T20:27:00Z"}

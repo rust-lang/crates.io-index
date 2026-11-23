@@ -1,0 +1,1 @@
+{"name":"helixr-window","vers":"0.1.0","deps":[{"name":"raylib","req":"^6.0","features":["wayland","GLFW_BUILD_WAYLAND"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"935136d6e0d7f6e5d326b41e3f4f60df29d08a6a3c83a9631b01323e65b16b4e","features":{},"yanked":false,"pubtime":"2026-08-12T13:54:26Z"}

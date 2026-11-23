@@ -1,0 +1,1 @@
+{"name":"teo-column-type","vers":"0.4.0-alpha.0","deps":[],"cksum":"2f7625e859bef47b9046b4e2f656f6ffe8a570c248da68f7b5381b294708dcfe","features":{"default":["mongo","mysql","postgres","sqlite"],"mongo":[],"mysql":[],"postgres":[],"sqlite":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-02-09T11:51:53Z"}

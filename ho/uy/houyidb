@@ -1,0 +1,2 @@
+{"name":"houyidb","vers":"0.1.0","deps":[],"cksum":"bdf712085d508ac548a34378f11172130e8e588d7a0f3215ad245299eef51b2f","features":{},"yanked":true,"pubtime":"2026-08-13T11:23:54Z"}
+{"name":"houyidb","vers":"0.2.0-beta.9","deps":[{"name":"houyidb-client","req":"^0.2.0-beta.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729de18a8d9c9589b1994fec19d8ab509fa57ef02c77cd1928891fcf228f739b","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-11-22T12:21:34Z"}

@@ -1,0 +1,2 @@
+{"name":"ironflowx-core","vers":"0.0.1","deps":[],"cksum":"1fb127298fd0967f9721457fdbf19516f627995ba44cf3c499e43eb49a85740d","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-17T05:37:36Z"}
+{"name":"ironflowx-core","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.29.3","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ccd48b1b05143c07ca8542721b8c5e3c4031d4b3d8cccf3f8b6b4a610561db0a","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T22:28:41Z"}

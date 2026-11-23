@@ -1,0 +1,1 @@
+{"name":"hid-access-control","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"778a1fe839f71584eb050a816aaa681f7d09827b40879706e85065b01e5fbc74","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T06:56:08Z"}

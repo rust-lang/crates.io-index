@@ -1,0 +1,1 @@
+{"name":"rusty-memory-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6943d12bcc641d35d352520ff609d8a97c1a998c65314057becddd2c33ea65cc","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-26T21:00:57Z"}

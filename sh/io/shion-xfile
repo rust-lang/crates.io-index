@@ -1,0 +1,1 @@
+{"name":"shion-xfile","vers":"0.1.0","deps":[{"name":"flate2","req":"^1","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fa839d3b35709199c6bda356a8fb58984faa5fa6d0244cbbd55874ff1707467a","features":{},"yanked":false,"pubtime":"2026-10-08T05:27:57Z"}

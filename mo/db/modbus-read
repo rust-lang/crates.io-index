@@ -1,0 +1,1 @@
+{"name":"modbus-read","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"317d7adcc444eea8cd2d5659131e78230694bac0c559c556a6bbf21f3c4523bb","features":{"test-server":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-20T03:04:53Z"}

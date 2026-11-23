@@ -1,0 +1,1 @@
+{"name":"sigmask","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e008a16ae39d256eb6faa12862d6a23560eb99bee97b110fa020e0ff15e8057","features":{},"features2":{"cli":["dep:clap"],"default":["cli"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T08:45:56Z","v":2}

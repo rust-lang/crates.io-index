@@ -1,0 +1,1 @@
+{"name":"usb-over-ip-sdk","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e3786646515567cc7efd8f3593463065cd4e2b9eb128eaa27a080b747f20202","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-13T07:02:48Z"}

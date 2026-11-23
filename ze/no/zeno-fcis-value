@@ -1,0 +1,3 @@
+{"name":"zeno-fcis-value","vers":"1.0.0-rc.3","deps":[],"cksum":"0ce3678eb1faff67880a65d7cc55d1d9e742cbc3a634079373def312eece1729","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-30T16:21:05Z"}
+{"name":"zeno-fcis-value","vers":"1.0.0","deps":[],"cksum":"5a4b111c5036e6a847e28037ff695677e5e7c20217c1caee1479bc74c1ffdcb6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-13T07:06:29Z"}
+{"name":"zeno-fcis-value","vers":"1.1.0","deps":[],"cksum":"8f0482c29b0800288251858c98e615ab98a65e75b7995f5c4ddc9607b3592972","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-09-13T22:30:08Z"}

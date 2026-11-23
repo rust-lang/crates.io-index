@@ -1,0 +1,1 @@
+{"name":"datalove-datafun-intrinsics","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b7452d00d8028680e16a6f567fb634c76f967a8cb9f47ed9a39527e578c37c1","features":{"index-64":[]},"yanked":false,"pubtime":"2026-10-01T18:20:01Z"}

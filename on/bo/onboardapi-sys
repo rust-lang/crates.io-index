@@ -1,0 +1,1 @@
+{"name":"onboardapi-sys","vers":"9.10.0","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"185062a2a77cea3d640ad9ad498adbdb0d01d14f0e96df9546d99cc786e66164","features":{},"yanked":false,"links":"onboardapi","rust_version":"1.88","pubtime":"2026-11-20T20:38:51Z"}

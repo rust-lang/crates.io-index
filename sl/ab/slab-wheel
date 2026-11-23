@@ -1,0 +1,1 @@
+{"name":"slab-wheel","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.8.2","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"816d8ae4a29cfa75fb2db6ad13f20f7b774e637b94c31c0570f0d4ad4ef4c846","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-14T07:17:02Z"}

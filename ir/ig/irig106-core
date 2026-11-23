@@ -1,0 +1,2 @@
+{"name":"irig106-core","vers":"0.0.1","deps":[],"cksum":"0d532861736df546570291e7d9494869f27cd4e9cd75448d74563373804e73b3","features":{},"yanked":false,"pubtime":"2026-03-20T13:29:21Z"}
+{"name":"irig106-core","vers":"0.1.0","deps":[{"name":"irig106-types","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c346cc1310f2966f3adbd9552f95a26664af73f43b89c665a3984c3b4d58c728","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-23T06:16:10Z"}

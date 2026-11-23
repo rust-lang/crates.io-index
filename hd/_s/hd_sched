@@ -1,0 +1,1 @@
+{"name":"hd_sched","vers":"0.0.1","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"451d45ff2dd567d21c5f309a32644a12bed8318d97ec940f0b2125fa41a389d8","features":{},"features2":{"threads":["dep:rayon"]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-20T08:34:16Z","v":2}

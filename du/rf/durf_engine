@@ -1,0 +1,1 @@
+{"name":"durf_engine","vers":"0.0.1","deps":[{"name":"tracing-subscriber","req":"^0.3.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64ebe8c0e19b283d69d3a10669c9577287be3466f3ddfe80858673da7dd4fad0","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-01-30T19:38:48Z"}

@@ -1,0 +1,1 @@
+{"name":"tmd-core-ffi","vers":"0.1.0","deps":[{"name":"tmd-core","req":"^0.1.0","features":["ffi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"740b49a6f0a617682493047c75c497bb0eb0e6b7dd99f194679f30de40d2848d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-22T03:06:21Z"}

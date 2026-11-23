@@ -1,0 +1,1 @@
+{"name":"uptrakit-build-info","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4536112b052b5a4281b7394048ea3c7967f0d37b4a0b88c0a295cd491357d1e7","features":{},"yanked":false,"pubtime":"2026-06-09T15:18:47Z"}

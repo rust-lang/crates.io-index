@@ -1,0 +1,1 @@
+{"name":"hd_cache","vers":"0.0.1","deps":[{"name":"hd_base","req":"=0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c208e7b3a5f54168faafa138dab19c4f46a62ed70793848525649699c79de902","features":{"disk":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-20T06:13:15Z"}

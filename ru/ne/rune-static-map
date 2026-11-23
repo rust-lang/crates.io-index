@@ -1,0 +1,1 @@
+{"name":"rune-static-map","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e26cd3fe6bd14ea47014a9b0151e78bb9f82ba94b1f44f1aff09b5548ece8541","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-12T18:14:56Z","v":2}

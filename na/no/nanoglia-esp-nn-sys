@@ -1,0 +1,1 @@
+{"name":"nanoglia-esp-nn-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"05690207a63d9563a60b8d20bc3f6b730166112b508a9113a5b32dcf067e4198","features":{},"yanked":false,"links":"esp_nn","rust_version":"1.89","pubtime":"2026-11-04T13:53:06Z"}

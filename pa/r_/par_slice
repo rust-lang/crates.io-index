@@ -1,0 +1,7 @@
+{"name":"par_slice","vers":"0.1.0","deps":[],"cksum":"7ee14ff93374e71d9774cde3c3da93f74cc7f5bdf8f5ad66b88ad38000869048","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2024-12-11T21:32:41Z"}
+{"name":"par_slice","vers":"0.1.1","deps":[],"cksum":"452fa90a2d602df1e3d8351abb5524859948f779168255f427fb7a0729d47e14","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2024-12-12T00:29:09Z"}
+{"name":"par_slice","vers":"0.2.0","deps":[],"cksum":"3bbf8d69c925288e0bd797e70bdd6f4f8692da07121e81ed47eecf2399a90c7f","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2025-01-23T23:30:09Z"}
+{"name":"par_slice","vers":"0.3.0","deps":[],"cksum":"8883fd20fce9c3c11f80a27caf377da78cd037cf8121f31066f4fdce0f5c43f8","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2025-03-18T22:02:18Z"}
+{"name":"par_slice","vers":"1.0.0","deps":[],"cksum":"3d0d7b9764c8601f50977f752854f6f222a158dfc9caef3b7965342fa4e57a58","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2025-08-10T23:42:25Z"}
+{"name":"par_slice","vers":"2.0.0","deps":[],"cksum":"71a77c4b36a75e7660804eb8b165ea059f0f66f2d483bcf7186bf75428fea474","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.84","pubtime":"2026-01-04T03:14:19Z"}
+{"name":"par_slice","vers":"2.0.1","deps":[],"cksum":"beedf000885c8f6510e9da7d64d83e5766a64baa637724c554ca8251334617f9","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.84","pubtime":"2026-01-04T03:47:55Z"}

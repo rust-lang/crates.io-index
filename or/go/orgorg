@@ -1,0 +1,3 @@
+{"name":"orgorg","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0050fe2812209eee91c074c6574ff09351d17ffccac654bc5ff400ffee31bc2f","features":{},"yanked":false,"pubtime":"2025-12-31T11:32:28Z"}
+{"name":"orgorg","vers":"0.2.0","deps":[],"cksum":"8472e5f04e593007c4222163dae7f386d8f8918bacb83a38f476e22b2a62b5d6","features":{"f32smp":[],"fma":[],"fma-nightly":[]},"yanked":false,"pubtime":"2026-06-22T13:01:06Z"}
+{"name":"orgorg","vers":"0.2.1","deps":[],"cksum":"3061d51b1732a215cd8bc3de1d9b0e2dbca0b65be2036c4722932bddae3dbfcb","features":{"f32smp":[],"fma":[],"fma-nightly":[]},"yanked":false,"pubtime":"2026-06-22T13:10:02Z"}

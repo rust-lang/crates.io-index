@@ -1,0 +1,1 @@
+{"name":"candle-kernels-fathomdb","vers":"0.13.0","deps":[{"name":"cudaforge","req":"=0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b51dd9c1d22e2c176da122c08e9c674c9548a6d9fdf17834cc5318636cdc8a3f","features":{"cutile":[]},"yanked":false,"pubtime":"2026-11-21T02:52:20Z"}

@@ -1,0 +1,12 @@
+{"name":"i18n_os","vers":"0.2.106","deps":[],"cksum":"190013d012e622da4c4f9de048b946deb5ca3b84f6e90e51505ba23076df5096","features":{},"yanked":false,"pubtime":"2026-11-12T07:07:42Z"}
+{"name":"i18n_os","vers":"0.2.107","deps":[],"cksum":"557d357d960461197a0ed6cc9c5b83daad43b46d55eb63395e1fabbb14290fc9","features":{},"yanked":false,"pubtime":"2026-11-12T07:51:47Z"}
+{"name":"i18n_os","vers":"0.2.108","deps":[],"cksum":"59b6903ff5cd40847a174d823855ec04dd104d424c06bf4faeec3f5c304b7b02","features":{},"yanked":false,"pubtime":"2026-11-12T08:54:50Z"}
+{"name":"i18n_os","vers":"0.2.109","deps":[],"cksum":"db7a5fb5af34c4ad2a38b447c0478c47bc5cf7412203b295179f716494638050","features":{},"yanked":false,"pubtime":"2026-11-12T09:32:19Z"}
+{"name":"i18n_os","vers":"0.2.110","deps":[],"cksum":"a2a4a5fadcc7bd0a52aa80fd3fe32ad92377332356647ad1a1c8c57f1a0247e2","features":{},"yanked":false,"pubtime":"2026-11-12T10:05:13Z"}
+{"name":"i18n_os","vers":"0.2.112","deps":[],"cksum":"178cebccd48f0d0d80fd1231f69ab6c0b378fc7d4fea9d552da4929a5494e84e","features":{},"yanked":false,"pubtime":"2026-11-12T10:30:51Z"}
+{"name":"i18n_os","vers":"0.2.113","deps":[],"cksum":"9b8af9dd8b7897239667593b97cfbec627c0060d913303fbb916f38302f53200","features":{},"yanked":false,"pubtime":"2026-11-12T10:40:00Z"}
+{"name":"i18n_os","vers":"0.2.114","deps":[],"cksum":"03dbd096aabb06bccab4d47142b25281c493d4e46bd83dae2d2f1c23c8c3a678","features":{},"yanked":false,"pubtime":"2026-11-12T12:39:39Z"}
+{"name":"i18n_os","vers":"0.2.115","deps":[],"cksum":"a585afae03e53632e43893238236689ac2fee054ff7c0cb8e60d57a571788cb2","features":{},"yanked":false,"pubtime":"2026-11-12T13:16:36Z"}
+{"name":"i18n_os","vers":"0.2.123","deps":[],"cksum":"4aafbc919e70972251be2849c6ddb1d5e5879ddb49defb052b002e9728731a4c","features":{},"yanked":false,"pubtime":"2026-11-12T17:28:28Z"}
+{"name":"i18n_os","vers":"0.2.124","deps":[],"cksum":"62c3cfacd79809e1b6a373c6f182e016b1eeb8bfbfed65be7202a15239dd34f9","features":{},"yanked":false,"pubtime":"2026-11-12T19:22:01Z"}
+{"name":"i18n_os","vers":"0.2.125","deps":[{"name":"tempfile","req":"^3.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ea136f43158b9f9cfdfe743decbdc6a160ad864c1be73e0a6f66dd496dd89ef8","features":{},"yanked":false,"pubtime":"2026-11-16T00:12:04Z"}

@@ -1,0 +1,1 @@
+{"name":"chimera-inference-engine","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d629bee74d80b3faa9f0759dcb2432d80826e5a25d54e0ab454e6163dee96a69","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-07T23:22:36Z"}

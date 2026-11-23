@@ -1,0 +1,1 @@
+{"name":"gamelan-kernel","vers":"0.0.9","deps":[{"name":"serde","req":"^1","features":["derive","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dab71dd691725e82198dd71f86392b52c8f60375aa337e2d6a7735b5246604c1","features":{},"yanked":false,"pubtime":"2026-04-22T01:45:12Z"}

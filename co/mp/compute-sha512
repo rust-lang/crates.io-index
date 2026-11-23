@@ -1,0 +1,3 @@
+{"name":"compute-sha512","vers":"0.0.2","deps":[],"cksum":"fa12646dad9f0a56fc50073753ba24354fafb096e4d8c6dec1dd7e859d030413","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-04T23:04:20Z"}
+{"name":"compute-sha512","vers":"0.0.3","deps":[],"cksum":"ebd3bc5467c956c09eedf8f30a4523680f1cd06e21073f27de44ff750a84a68d","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T07:27:16Z"}
+{"name":"compute-sha512","vers":"0.0.4","deps":[],"cksum":"3cd048a003f67843addb471c8c179149173ee27e1a844d035f6ed84ab8ba8a16","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-05T11:45:45Z"}

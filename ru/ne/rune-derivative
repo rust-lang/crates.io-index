@@ -1,0 +1,1 @@
+{"name":"rune-derivative","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a15eb901f958eb766abca63966eee7b76a5db47da4874b3a29351b0559b25352","features":{},"features2":{"cli":["dep:clap"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-11T20:38:24Z","v":2}

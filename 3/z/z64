@@ -1,0 +1,1 @@
+{"name":"z64","vers":"0.1.2","deps":[],"cksum":"0ccc3887095be912cf1f99f655f49a5c9be993fa8873f4478c1784e4f7f15193","features":{"default":[],"force-scalar":[],"no-avx512":[],"no-runtime-detect":[],"no-short-path":[],"reference":["force-scalar"]},"yanked":false,"rust_version":"1.99.1","pubtime":"2026-11-11T03:00:26Z"}

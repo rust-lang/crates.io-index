@@ -1,0 +1,1 @@
+{"name":"ternary-mud","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47545cf0acc0dc6473ec79a404d7035afab98c8f5e038dc67623141deb446994","features":{},"yanked":false,"pubtime":"2026-06-06T23:23:41Z"}

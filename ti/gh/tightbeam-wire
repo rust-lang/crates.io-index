@@ -1,0 +1,1 @@
+{"name":"tightbeam-wire","vers":"0.1.0","deps":[{"name":"tightbeam-rs","req":"^0.20.0","features":["std","async-transport","transport-hpke"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e2c50ac1466a14a8cc3a241925dbac252f677d1894aacaf31bc3bf9e0921d325","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-11-17T01:15:19Z"}

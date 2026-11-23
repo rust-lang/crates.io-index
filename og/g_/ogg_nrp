@@ -1,0 +1,2 @@
+{"name":"ogg_nrp","vers":"0.1.0","deps":[],"cksum":"c24a75d1f259a31feac9f799469490fac2d2537ec56572237bc35b7e1b564b47","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T00:28:53Z"}
+{"name":"ogg_nrp","vers":"0.2.0","deps":[],"cksum":"0290dbcd52b9a5c181daa5e701592843be9b147dcb813a1af606b5cc5da59d6e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T18:34:37Z"}

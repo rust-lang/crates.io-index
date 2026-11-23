@@ -1,0 +1,2 @@
+{"name":"relix","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7bdd6abe70a85a07ce42771b209ade8db7ffa4af54867a4c3d956b0a179f689","features":{},"yanked":true,"pubtime":"2026-06-19T06:29:57Z"}
+{"name":"relix","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83c8160908842e44b841b239c35912fe7346fa2d57b4512f3972410e85ddff44","features":{},"yanked":false,"pubtime":"2026-06-19T06:41:19Z"}

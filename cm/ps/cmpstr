@@ -1,0 +1,1 @@
+{"name":"cmpstr","vers":"0.0.1","deps":[{"name":"clap","req":"^4.6.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d87cc6146ea99b4c1e803fc590644897fad287dd4c46480f3c514914c9dbb7","features":{},"yanked":false,"pubtime":"2026-03-26T04:47:37Z"}

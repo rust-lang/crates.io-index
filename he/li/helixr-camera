@@ -1,0 +1,1 @@
+{"name":"helixr-camera","vers":"0.1.0","deps":[{"name":"raylib","req":"^6.0","features":["wayland","GLFW_BUILD_WAYLAND"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"775a1bc93cb4ebb6167c481aeea9046802e7b13717f776e4d21fec740aeb20c9","features":{},"yanked":false,"pubtime":"2026-08-12T14:10:40Z"}

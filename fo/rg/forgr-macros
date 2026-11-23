@@ -1,0 +1,1 @@
+{"name":"forgr-macros","vers":"0.1.0","deps":[{"name":"forgr-schema","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb38d775df0e0664c3833eaf95a06441e22c2e688ec93dcdb02f44981def019f","features":{"fake":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T23:19:08Z"}

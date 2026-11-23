@@ -1,0 +1,1 @@
+{"name":"nibkeep-bonjour","vers":"0.1.0","deps":[{"name":"libc","req":"=0.2.189","features":[],"optional":false,"default_features":true,"target":"cfg(any(target_os = \"macos\", target_os = \"ios\"))","kind":"normal"}],"cksum":"f40a90e025d9558de0ea1d090cf246900769bc96162f1bbe4103ded44036b2a8","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-23T00:10:14Z"}

@@ -1,0 +1,1 @@
+{"name":"runic-dialect-ub","vers":"0.1.0","deps":[{"name":"runic-ir","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4a2cd7f70298e2676ee394a3bc0153d0b4e3b7ef8bce335d4291b6f5df84451","features":{"default":["std"],"std":["runic-ir/std"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-16T06:58:20Z"}

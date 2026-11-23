@@ -1,0 +1,11 @@
+{"name":"MatiOS-SDK-Rust","vers":"0.1.0","deps":[],"cksum":"b7e3a3a3c37fbaec58a8276483cb1eb0c6b631cafcc17d270a64e82c00e2996e","features":{},"yanked":false,"pubtime":"2026-06-22T14:07:02Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.1","deps":[],"cksum":"a33107ff2aac6888dbb11f2dd1606159c669664af0731a4c2c314622a2d9fb88","features":{},"yanked":false,"pubtime":"2026-06-22T14:40:56Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.2","deps":[],"cksum":"b6131b3ca5707fc8e24f8d46456e1df9aa0927869ff4ea5e79458bf96b8e14e0","features":{},"yanked":false,"pubtime":"2026-06-22T19:37:46Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.3","deps":[],"cksum":"a415164645c9a174474a38bf8f7e442135dc44b25d121c543ce79f4aa78cd908","features":{},"yanked":false,"pubtime":"2026-06-22T19:40:16Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.4","deps":[],"cksum":"6ea85b66698b6c69436c9fdce69289baea0563dae4b68235c1797c932c804256","features":{},"yanked":false,"pubtime":"2026-06-22T19:42:38Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.5","deps":[],"cksum":"e26fb936d60ffb6d79fa81716a52ae0402ac253e41dd737a8c950be7a135e273","features":{},"yanked":false,"pubtime":"2026-06-22T19:46:47Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.6","deps":[],"cksum":"816b2d53244f430752f7083058e09039995c3b473d26524fe825db99a8d25432","features":{},"yanked":false,"pubtime":"2026-06-22T20:48:55Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.7","deps":[],"cksum":"e1784d55433ed1f4ec5c7a4f6355acdf8cd5dc821cc5168455157da6f6aaf348","features":{},"yanked":false,"pubtime":"2026-06-22T22:48:12Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.8","deps":[],"cksum":"58d4a3e10bcb5fed798161cade9cc5cd2e30f28e5641db993f03c171dc62efd1","features":{},"yanked":false,"pubtime":"2026-06-22T22:52:00Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.10","deps":[{"name":"once_cell","req":"^1.21.4","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"78f77c8f0c5e4383f3e5ec48834625f778c9a1e3de1fc2d92eb621b9ee46fb8c","features":{},"yanked":false,"pubtime":"2026-06-22T23:22:46Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.11","deps":[{"name":"once_cell","req":"^1.21.4","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f607daca7dc43921fb9e3061d61798852e3f722ed57743cc2424376b0d1aafcf","features":{},"yanked":false,"pubtime":"2026-06-27T14:41:27Z"}

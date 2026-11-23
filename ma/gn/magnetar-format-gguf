@@ -1,0 +1,1 @@
+{"name":"magnetar-format-gguf","vers":"1.0.0-RC0","deps":[{"name":"magnetar-runtime","req":"^1.0.0-RC0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d1a36f33e887246a07d3cd9b32d7f97e343023e4f711039b0e4db42fb08927a","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-15T10:02:24Z"}

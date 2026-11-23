@@ -1,0 +1,1 @@
+{"name":"rusty-rules-experiment","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":["float_roundtrip"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fe554bdf02f59e6c43a22c3efff52f32283eeccf17e7785e25068549f0ddeb5","features":{},"yanked":false,"pubtime":"2026-10-15T02:28:56Z"}

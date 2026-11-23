@@ -1,0 +1,5 @@
+{"name":"noop-allocator","vers":"0.1.0","deps":[],"cksum":"d144e25b2197549f50274b3b95093b832d3c2c0a6cd860d82d1f19ff23497dda","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2024-05-30T06:47:22Z"}
+{"name":"noop-allocator","vers":"0.1.1","deps":[],"cksum":"92c044b322c14bcb59326656ad6eab8ca934ab152507e5d1b2b8b84dc0037a68","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2024-09-16T20:57:38Z"}
+{"name":"noop-allocator","vers":"0.1.2","deps":[],"cksum":"f485a662c54bd7cee899c731f9f0d6f0d6f7d9b8b13b9b3c77be3e87ae787cc3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2025-08-10T00:10:38Z"}
+{"name":"noop-allocator","vers":"0.1.3","deps":[],"cksum":"cec0c7b0b63f4206de4f316b6ef34448ff56fe4c58da4dd586e7af75954bd8a3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2025-10-06T02:44:03Z"}
+{"name":"noop-allocator","vers":"0.1.4","deps":[],"cksum":"f5400e5c06c9e635e5d91194eecba6e357f1b026d7b68d127a4659d9bfd00284","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-01-26T00:01:44Z"}

@@ -1,0 +1,1 @@
+{"name":"trustlist-badge","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e46dadd35da647cf8b9bcab6f73c42d6ee8c498c34ee103a7564e3cc04e1279","features":{},"yanked":false,"rust_version":"1.60","pubtime":"2026-10-14T20:05:52Z"}

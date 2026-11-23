@@ -1,0 +1,1 @@
+{"name":"realtime_port_instrument","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"f8e4b3f8ce82b32ab9228aba43bdb21355768dc43e09d89b6b9f1ca17697e7b4","features":{"count":[],"trace":["count"]},"yanked":false,"pubtime":"2026-07-28T04:37:07Z"}

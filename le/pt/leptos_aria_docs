@@ -1,0 +1,1 @@
+{"name":"leptos_aria_docs","vers":"0.0.1","deps":[{"name":"pulldown-cmark","req":"^0.13","features":["html"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"21aaffc73c64e4a29f5d961b029919626e01b32018090376f769c78af309d7c9","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T17:10:01Z"}

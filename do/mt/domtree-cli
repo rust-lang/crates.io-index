@@ -1,0 +1,1 @@
+{"name":"domtree-cli","vers":"0.3.0","deps":[{"name":"dom-tree-rs","req":"^0.3","features":["json","query","markdown","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c87a620489c437ad592f7a6acd507f9a78056d2479b6ba449fd0a19e89adca91","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-21T13:15:54Z"}

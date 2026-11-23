@@ -1,0 +1,1 @@
+{"name":"dlr-wasm-interpreter-interop","vers":"0.2.0","deps":[{"name":"dlr-wasm-interpreter","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63241af17218c4dd98d0f6b8abfbaa5d3c63c148baf7b6c44728df6a1e98b1e7","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-07-22T10:41:58Z"}
