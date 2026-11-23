@@ -44,3 +44,4 @@
 {"name":"denise","vers":"0.31.0","deps":[],"cksum":"cc371abbd4d008a4224ff5947961711998f01bedb3311ae785c6e909c18ef410","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-18T08:45:23Z"}
 {"name":"denise","vers":"0.32.0","deps":[],"cksum":"a51b91c7174fdc279c63b94a114c7e692f7b2b584b98e63e081b271bda80c541","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-30T09:48:45Z"}
 {"name":"denise","vers":"0.32.1","deps":[],"cksum":"1648018e6dae5736fc64e2e5560b14d6b8fe87f943a961bb6ce298b348ec2e46","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-30T12:05:22Z"}
+{"name":"denise","vers":"0.33.0","deps":[],"cksum":"b85fc2d571c54ac506af44a1a5029b00367aff5bea9b5e2de5c4c8e82b7f6d0a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-23T15:44:42Z"}
