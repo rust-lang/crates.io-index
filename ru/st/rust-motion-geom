@@ -1,0 +1,1 @@
+{"name":"rust-motion-geom","vers":"1.1.0","deps":[{"name":"serde","req":"^1","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd4a4af927ffa6d5c16c8bf078dec936e50967f9275ec8a11611870aa199164c","features":{},"yanked":false,"pubtime":"2026-11-23T12:07:22Z"}
