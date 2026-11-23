@@ -1,0 +1,1 @@
+{"name":"easyfs-inspect","vers":"0.4.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f23502a6beacaeca21f84f616a50234b420760a6ea135f838e4172a78b13e364","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-23T13:17:23Z"}
