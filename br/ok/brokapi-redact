@@ -1,0 +1,1 @@
+{"name":"brokapi-redact","vers":"0.1.0-beta.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30a0bf6b92d6188b299fe684d14b7a7c18a8bffa40a07eaeb4c9bfc30b97a78d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-23T09:05:05Z"}
