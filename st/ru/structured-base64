@@ -7,3 +7,4 @@
 {"name":"structured-base64","vers":"0.23.0","deps":[],"cksum":"debe94ce9c4169318371d962dd6b3719a648520813cad2fb29c94ed6e87a4072","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-14T16:12:17Z"}
 {"name":"structured-base64","vers":"0.23.1","deps":[],"cksum":"d9fa110d5f2b8cb5ec37568561764809b6eed5158e1ac2a3a05c086e133a687f","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-15T12:38:34Z"}
 {"name":"structured-base64","vers":"0.23.2","deps":[],"cksum":"3c4ecebe9786e957f58b32a75cdb38f487c380d037f9bcc2c8a025c520865a90","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-21T18:12:57Z"}
+{"name":"structured-base64","vers":"0.24.0","deps":[],"cksum":"cb350fed001d4235badcfc73748b7d333489bbdf84567ea661e87e0858b61251","features":{"alloc":[]},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-23T09:01:55Z"}
