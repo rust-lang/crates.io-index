@@ -1,0 +1,1 @@
+{"name":"dsd2pcm-cli","vers":"0.1.0","deps":[{"name":"dsd2pcm","req":"=0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7756109d980c0aeb112f5805d7a4e137b5347e2f41405055991699b2f2b4dec3","features":{"default":["flac"],"flac":["dsd2pcm/flac"]},"yanked":false,"rust_version":"1.83","pubtime":"2026-11-23T12:15:56Z"}
