@@ -1,0 +1,1 @@
+{"name":"sip-header-diagnostics","vers":"1.0.0","deps":[{"name":"sip-uri-diagnostics","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29750d3b47f396c123540108c81d56400a305280563d40bbf5de5ec43b549e04","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-23T16:23:04Z"}
