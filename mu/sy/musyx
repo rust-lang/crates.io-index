@@ -1,1 +1,2 @@
 {"name":"musyx","vers":"0.1.0","deps":[],"cksum":"9795fd03a5b887a110da4f3acfbe4b99a50ac7dd1b81c370d0bf52554e174a57","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-23T18:59:14Z"}
+{"name":"musyx","vers":"0.1.1","deps":[],"cksum":"468fb728837de57de43fb6cf3cd4ac8a129e41c16338089bc8a8cc3d326a2975","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-23T22:56:05Z"}
