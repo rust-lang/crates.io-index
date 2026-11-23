@@ -1,2 +1,3 @@
 {"name":"antsy","vers":"1.0.0","deps":[],"cksum":"b54ff1c7ff27db4e7d2a972f4d76f77ec28ef92c136d16aff47702eb5cbd9463","features":{},"yanked":false,"pubtime":"2023-10-08T00:20:10Z"}
 {"name":"antsy","vers":"1.1.0","deps":[],"cksum":"3c477d8a98c228b2f166baebdd1cb2cabc34e9c7ccecd0d451f0bd1d7a7980c6","features":{},"yanked":false,"pubtime":"2023-10-08T02:45:27Z"}
+{"name":"antsy","vers":"2.0.0","deps":[{"name":"pretty_assertions","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0589b6356df8509cdb92ccd87daa347859d4e9c0dd40bf5a06ea903bf39b891","features":{},"yanked":false,"pubtime":"2026-11-23T15:11:10Z"}
