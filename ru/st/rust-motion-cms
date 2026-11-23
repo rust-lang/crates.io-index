@@ -1,0 +1,1 @@
+{"name":"rust-motion-cms","vers":"1.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5268635906922f787496d5e15a2c8aeb7a49f88814d099af0c327093af2f1ba1","features":{"moxcms":[]},"features2":{"default":["threads"],"threads":["dep:rayon"]},"yanked":false,"pubtime":"2026-11-23T11:50:26Z","v":2}
