@@ -13,3 +13,4 @@
 {"name":"alibi-schema-registry","vers":"0.11.0","deps":[],"cksum":"e1a7156c4d4b937bca06f86dfed8953b8e912fd554e5e1763e6b45c319b6472e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-25T17:01:09Z"}
 {"name":"alibi-schema-registry","vers":"0.12.0","deps":[],"cksum":"5eb4123965043a5bc142f014b1d8e967151d5b0cb3c4533e14fdbbf376d19b6c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T14:35:33Z"}
 {"name":"alibi-schema-registry","vers":"0.12.1","deps":[],"cksum":"be3fe80d09ac149127149d73951affc9906d565ca2a01bb84317eaf47b9873b1","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-07T10:00:25Z"}
+{"name":"alibi-schema-registry","vers":"0.13.0","deps":[],"cksum":"2fc2df1a4a0e437cfb52ae95e9d62941add3c88119824c52ef5f698a680a3780","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-23T14:45:24Z"}
