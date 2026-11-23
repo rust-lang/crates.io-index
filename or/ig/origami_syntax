@@ -1,0 +1,1 @@
+{"name":"origami_syntax","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd85e18b09f12c82c0534e7a78254f12d96ea54687b289abe1c13f586c852859","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-23T16:15:53Z"}
