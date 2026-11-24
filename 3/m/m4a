@@ -1,1 +1,2 @@
 {"name":"m4a","vers":"0.1.0","deps":[],"cksum":"5eeeb621c2d4c9edf4e3f855175fcf18a63193fa771268c7881b179944b615bf","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-23T23:57:49Z"}
+{"name":"m4a","vers":"0.1.1","deps":[],"cksum":"d1d9da02c9641505f7efd77e6c14d148c605cb9a07b8533505aff7b8b3c6be58","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:31:47Z"}
