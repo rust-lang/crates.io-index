@@ -1,0 +1,1 @@
+{"name":"ringbuf-nostd","vers":"0.1.0","deps":[{"name":"portable-atomic","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8d372a2daa42da23c262540fab98960bc246a63c44f3d5636617405c7b2a7d1c","features":{},"yanked":false,"pubtime":"2026-11-24T08:41:51Z"}
