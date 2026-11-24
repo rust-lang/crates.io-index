@@ -1,0 +1,1 @@
+{"name":"libakao","vers":"0.1.0","deps":[{"name":"libspu2","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5a13b76ac92efc621e9841e91097eb372b4bf1b31d98d2f93b0cd69596b6dcf6","features":{"alloc":[],"default":["std"],"std":["alloc","libspu2/std"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-24T04:16:19Z"}
