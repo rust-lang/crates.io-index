@@ -1,1 +1,2 @@
 {"name":"bare-stow-host","vers":"0.0.0","deps":[],"cksum":"7f4732745038433a421043a11ec1b42a924e5190cfb0b21d03ceb58fe7eceeec","features":{},"yanked":false,"pubtime":"2026-11-02T12:13:32Z"}
+{"name":"bare-stow-host","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183405df7f0815f2ce8baf28c9bbff6df22cd3fd9e5b1ba519621273cac9c2e0","features":{},"yanked":false,"pubtime":"2026-11-24T14:20:14Z"}
