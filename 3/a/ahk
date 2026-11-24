@@ -11,3 +11,4 @@
 {"name":"ahk","vers":"0.6.3","deps":[],"cksum":"73e92187e886fa5c022340e32fafffdc3c76101e46d3c9c20c1478ebabcde02f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T20:48:38Z"}
 {"name":"ahk","vers":"0.6.4","deps":[],"cksum":"29f6a0776d50db8379cf514bb8dcb3965e2754c1f05577e297566f4b7cbaf1b8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-23T11:27:38Z"}
 {"name":"ahk","vers":"0.6.5","deps":[],"cksum":"a0460000a9697cbd6951ff6b190bfa19061c206d94c929b537df398321e5f7ac","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-23T16:42:05Z"}
+{"name":"ahk","vers":"0.6.6","deps":[],"cksum":"66e5cf9fb75bf29f7bde8943b1ee722167bb635b01895a5e1922b0e50920e7c8","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-24T02:53:24Z"}
