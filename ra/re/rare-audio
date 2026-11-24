@@ -1,1 +1,2 @@
 {"name":"rare-audio","vers":"0.1.0","deps":[],"cksum":"7fdda2ba749ab3e0f1635277c76c8c9aff8880548b915958aec1d764540bcad3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T01:39:53Z"}
+{"name":"rare-audio","vers":"0.1.1","deps":[],"cksum":"cdcda9886e61454e93f1b18838fdb848ce8c3dc9c1f7e953b61988d8cb55aa29","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:32:00Z"}
