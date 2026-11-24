@@ -1,1 +1,2 @@
 {"name":"libmdec","vers":"0.1.0","deps":[],"cksum":"98402b7a5a63ba732442804e8adefd0f47e7a7f8141f130fe63a561c9e88891c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-24T01:51:02Z"}
+{"name":"libmdec","vers":"0.1.1","deps":[],"cksum":"1637028511dcc6a4fc69275ebcb724655e45508917fc01e68000b1bf547ecf2b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-24T01:52:09Z"}
