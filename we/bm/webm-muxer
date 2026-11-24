@@ -1,0 +1,1 @@
+{"name":"webm-muxer","vers":"0.1.0","deps":[{"name":"vp8-encoder","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee07b04fe593573d34152c7146d748911650e9517368f528a21ea4edce32977e","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-24T04:33:39Z"}
