@@ -1,0 +1,1 @@
+{"name":"agentscope-durable-objects","vers":"0.2.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43dddbe6129a6e2d5cf160d5dfef2bb31a531d177254877f174c7c7dd1cc6a22","features":{"default":[],"s3":[]},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-11-24T15:05:38Z"}
