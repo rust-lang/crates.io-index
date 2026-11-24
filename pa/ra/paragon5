@@ -1,1 +1,2 @@
 {"name":"paragon5","vers":"0.1.0","deps":[],"cksum":"db6eaa54d797ed481a7a3737ad9253c06fcacfbb68b95f36f7df63ff5f1c9777","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T01:40:54Z"}
+{"name":"paragon5","vers":"0.1.1","deps":[],"cksum":"bd5e965664f9c21f397ed94f863aec20cd9289de1b9fa70fcacc9a4b88446c86","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:32:17Z"}
