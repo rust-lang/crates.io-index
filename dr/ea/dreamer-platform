@@ -1,0 +1,1 @@
+{"name":"dreamer-platform","vers":"0.10.0","deps":[{"name":"rustix","req":"^1.1.6","features":["process"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e040cb2516bf78d9a63bccbf542fde670ace94db0557cdef2b5ca84c12ba13f3","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-24T20:25:51Z"}
