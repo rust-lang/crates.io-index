@@ -9,3 +9,4 @@
 {"name":"hash-db","vers":"0.15.1","deps":[],"cksum":"f1c58b6c17c21f7b9611bc119630ebc124df48257c9f1dce28b306bbe29e913a","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2019-08-19T12:14:55Z"}
 {"name":"hash-db","vers":"0.15.2","deps":[],"cksum":"d23bd4e7b5eda0d0f3a307e8b381fdc8ba9000f26fbe912250c0a4cc3956364a","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2019-08-19T12:57:13Z"}
 {"name":"hash-db","vers":"0.16.0","deps":[],"cksum":"8e7d7786361d7425ae2fe4f9e407eb0efaa0840f5212d109cc018c40c35c6ab4","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2023-03-14T15:22:50Z"}
+{"name":"hash-db","vers":"0.17.0","deps":[],"cksum":"b8f310bc3dffea73a56cd6d9e0cf9dab130e6f117d47903f382b962eb96886da","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-11-24T14:41:05Z"}
