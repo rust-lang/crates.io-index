@@ -1,1 +1,2 @@
 {"name":"rd1-kaede","vers":"0.1.0","deps":[],"cksum":"aa6954df65c595dda99919260835f649a6d506f6ba0062dfc2df0c0acd0a5be3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T01:40:40Z"}
+{"name":"rd1-kaede","vers":"0.1.1","deps":[],"cksum":"9ecf8165379dd0c2cc273149c6811e4dd7c5d8c2b5afca27a95486d5c4864fe7","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:32:13Z"}
