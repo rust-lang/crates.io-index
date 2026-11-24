@@ -10,3 +10,4 @@
 {"name":"vla-lang","vers":"0.12.0","deps":[],"cksum":"7e83f2f148db88db662a568c46f304559195fb5b79684d964d62252e8c2868af","features":{"c-abi":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-30T05:44:29Z"}
 {"name":"vla-lang","vers":"0.13.0","deps":[],"cksum":"6096b0f98c82bba10ace1ab57a576ccd689d3f84399d51a68f9df258a42c4d26","features":{"c-abi":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-15T07:40:43Z"}
 {"name":"vla-lang","vers":"0.14.0","deps":[],"cksum":"21af335ea8503bc3c7a9c3cb96848ef3db208cf61a89307b3c69d5bda47eebe2","features":{"c-abi":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-17T19:25:51Z"}
+{"name":"vla-lang","vers":"0.15.0","deps":[],"cksum":"a08a78a50fd1b5e8ef1ab6f80da994fc69d1cafce960bd8751d1e57a435dd085","features":{"c-abi":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-24T22:30:04Z"}
