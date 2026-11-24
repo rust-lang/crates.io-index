@@ -1,1 +1,2 @@
 {"name":"krawall","vers":"0.1.0","deps":[],"cksum":"79d9e96d130d585141b509c3033cd01ae8d8fb475ed1c74203bf0edeb855b59d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T00:01:50Z"}
+{"name":"krawall","vers":"0.1.1","deps":[],"cksum":"8a21ddb12e2c5a28ea1b22769d08585774df30d71087f175c3f22d97701794e0","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:31:51Z"}
