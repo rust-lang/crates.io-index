@@ -1,0 +1,1 @@
+{"name":"rust_robotics_optimization","vers":"0.3.0","deps":[{"name":"nalgebra","req":"^0.33","features":["alloc","libm","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"287c3870ce3dba332917593e7befb0906ed42360b7f67e511361197d680954b9","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-24T03:15:32Z"}
