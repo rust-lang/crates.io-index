@@ -1,1 +1,2 @@
 {"name":"logik-state","vers":"0.1.0","deps":[],"cksum":"e691feedd5a83963c9df4162d0ad7bc474f2c8f20f81fe17d80525d6c3241ab7","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T01:40:08Z"}
+{"name":"logik-state","vers":"0.1.1","deps":[],"cksum":"969f88188b14443512b0fecff8cda604774f9ccf159923be7d9ed24bc86c228d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:32:04Z"}
