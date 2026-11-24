@@ -1,0 +1,1 @@
+{"name":"libkdt","vers":"0.1.0","deps":[{"name":"libspu2","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"158f48fb623dc92e4a2f6d47a18b05d0c0803c0318ed66093b34b2a369747e33","features":{"alloc":[],"default":["std"],"std":["alloc","libspu2/std"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-24T04:26:23Z"}
