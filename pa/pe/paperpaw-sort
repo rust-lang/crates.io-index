@@ -1,0 +1,1 @@
+{"name":"paperpaw-sort","vers":"0.6.0-beta.4","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"917b0d7b9994161b190c6e65e568cedc60486cfdb2165e6bb6786a59c45dfe92","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-24T18:05:23Z"}
