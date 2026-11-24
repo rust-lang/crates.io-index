@@ -1,0 +1,1 @@
+{"name":"rc-pmmu","vers":"0.1.0","deps":[{"name":"m68k","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rc-m68k"}],"cksum":"2a39c313fbc0e05a13f4ecf9a05633ad74085d27dfff0f60eecb7a9e197156fd","features":{},"yanked":false,"pubtime":"2026-11-24T02:02:49Z"}
