@@ -6,3 +6,4 @@
 {"name":"thruput-syscall","vers":"0.66.2","deps":[],"cksum":"ecd39ca6e76e3a5ba9c7ffba01200a179c8acc9c067b52b0a5d83711780c2115","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-14T04:22:25Z"}
 {"name":"thruput-syscall","vers":"0.67.0","deps":[],"cksum":"e7e2ca9ee4f01132b152a33319bd21b172593999005b4d55bbc34b8acc6a5c4b","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-20T00:52:34Z"}
 {"name":"thruput-syscall","vers":"0.68.0","deps":[],"cksum":"462b32882c5989a3437633591490f9df5a2ef6602704e1bbbda05df1c456cb8d","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-22T18:39:39Z"}
+{"name":"thruput-syscall","vers":"0.69.0","deps":[],"cksum":"56605d3b46a5818322ca8885420489c5044590cabac6545c1a9a2466766cc551","features":{"default":[],"syscalls_mock":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-24T13:38:52Z"}
