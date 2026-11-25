@@ -1,0 +1,1 @@
+{"name":"atlas-dc42","vers":"26.0.1-a","deps":[{"name":"atlas-fs-core","req":"^26.0.1-a","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee045b353f5555c62465c10ae3b1804802df38268aaeefab2ee68cde8cb62749","features":{"test-util":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-25T15:34:02Z"}
