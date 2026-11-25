@@ -1,0 +1,1 @@
+{"name":"tokeira-clock","vers":"0.8.0","deps":[{"name":"time","req":"^0.3","features":["serde","macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79618bf96bf689f9701bc97d2af5fe94e783fab656859b8593c9580b45aac6ca","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-25T01:02:42Z"}
