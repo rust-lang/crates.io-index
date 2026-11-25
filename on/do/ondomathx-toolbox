@@ -1,0 +1,1 @@
+{"name":"ondomathx-toolbox","vers":"0.1.0","deps":[{"name":"ondomathx-mesh","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"050e7011a728d256ea5ea77d591364eda59c3a420e3ec39ce7426afb671e6301","features":{},"features2":{"mesh":["dep:ondomathx-mesh"]},"yanked":false,"pubtime":"2026-11-25T11:16:40Z","v":2}
