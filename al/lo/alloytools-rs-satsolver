@@ -1,0 +1,1 @@
+{"name":"alloytools-rs-satsolver","vers":"0.0.2","deps":[{"name":"batsat","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"alloytools-rs-batsat"}],"cksum":"cef50f77eb1a6f046feab2530505dabefa5af06d9fd3002aac7e6c2e8d15cbe1","features":{},"yanked":false,"pubtime":"2026-11-25T12:32:43Z"}
