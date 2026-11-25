@@ -1,1 +1,2 @@
 {"name":"yuktai","vers":"0.1.0","deps":[],"cksum":"08ebd5e8f204940fe8c55c2705ef8a114e99113e20b4bbc12424b542eec25c31","features":{"ask":[],"default":["ask","grid","rag"],"grid":[],"rag":[]},"yanked":false,"rust_version":"1.73","pubtime":"2026-11-25T01:26:26Z"}
+{"name":"yuktai","vers":"0.1.1","deps":[],"cksum":"b204b9c9aa7365ff566df994ee233968d5c7612b495250d3e203f0b6ad17d3df","features":{"ask":[],"default":["ask","grid","rag"],"grid":[],"rag":[]},"yanked":false,"rust_version":"1.73","pubtime":"2026-11-25T01:39:51Z"}
