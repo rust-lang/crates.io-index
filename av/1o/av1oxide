@@ -2,3 +2,4 @@
 {"name":"av1oxide","vers":"0.2.0","deps":[],"cksum":"0fbd4fe97be5f70efdcf88f88874c5c3b661b3e369a97c12e3cc521de52b6313","features":{"capi":[],"msac-trace":[],"profil":[]},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-25T16:19:24Z"}
 {"name":"av1oxide","vers":"0.3.0","deps":[],"cksum":"8e15b09edf0aca21d70aa2d0a504e70573e9b56b18da5eab425f77eb4c92e704","features":{"capi":[],"msac-trace":[],"profil":[]},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-25T16:42:34Z"}
 {"name":"av1oxide","vers":"0.3.1","deps":[],"cksum":"44b6e30ba861495798e8c2256808123fe909c8e0d354673ef28d43feb52c4405","features":{"capi":[],"msac-trace":[],"profil":[]},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-25T17:23:22Z"}
+{"name":"av1oxide","vers":"0.3.2","deps":[],"cksum":"b77d305b57f5df3a03cf604688e6a3774c9476f66fbe0894e578b0ce404907b3","features":{"capi":[],"msac-trace":[],"profil":[]},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-25T17:51:16Z"}
