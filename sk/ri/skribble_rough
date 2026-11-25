@@ -1,1 +1,2 @@
 {"name":"skribble_rough","vers":"0.0.0","deps":[],"cksum":"481781fe55ead6ddd5cea13c63d7b0b9569991c490c5c7b771562f423521536c","features":{},"yanked":false,"pubtime":"2026-11-07T20:01:27Z"}
+{"name":"skribble_rough","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1","features":["float_roundtrip"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f450e46eecf05d9f7c1dc4c672b8e6ed27f3f9d4877e225c2aff31883020e8b","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-11-25T20:38:13Z"}
