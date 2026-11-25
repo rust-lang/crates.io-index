@@ -1,0 +1,1 @@
+{"name":"evalsuite-core","vers":"0.8.0","deps":[{"name":"rayon","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4369d9950cb91de78f5b6e4894fde7af250b3121bf536c0b6e8db119d90b9584","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-25T07:45:35Z"}
