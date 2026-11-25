@@ -1,0 +1,1 @@
+{"name":"tilo-words","vers":"0.5.0","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"4a03a5912beccde302f9cca13eb6f458cdc9bda58c6dfc719ceab8d493d787c1","features":{},"yanked":false,"pubtime":"2026-11-25T17:18:54Z"}
