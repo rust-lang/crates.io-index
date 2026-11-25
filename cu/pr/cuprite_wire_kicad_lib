@@ -1,3 +1,4 @@
 {"name":"cuprite_wire_kicad_lib","vers":"0.1.0","deps":[],"cksum":"6a690a335daa97f4853e74410928efddd5deef1dcdeac0d66fbb5c134193bd6b","features":{},"yanked":false,"pubtime":"2026-11-19T13:17:43Z"}
 {"name":"cuprite_wire_kicad_lib","vers":"0.2.0","deps":[],"cksum":"46a86f9de9fc519330fa05deb93e5ebea8626bc79f527f6b3554e1badb530e93","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-21T08:37:31Z"}
 {"name":"cuprite_wire_kicad_lib","vers":"0.3.0","deps":[],"cksum":"77c3a473635c270ea3d428de967099f14785cc7df4a2f1ee73927167433f5492","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-22T07:29:52Z"}
+{"name":"cuprite_wire_kicad_lib","vers":"0.4.0","deps":[{"name":"cuprite_wire_ibis","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"553aee2bf7f2e705ce1d97eb4f87302b405ce54d9b0366a4b244b64f418167ba","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-25T11:32:41Z"}
