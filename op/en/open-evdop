@@ -1,1 +1,2 @@
 {"name":"open-evdop","vers":"0.1.0","deps":[],"cksum":"40458ccaa5c2901ebc68abb1fb4fd2c83df90c70e38f7f6772cf769115a914ee","features":{},"yanked":false,"pubtime":"2026-11-24T23:19:31Z"}
+{"name":"open-evdop","vers":"0.2.0","deps":[{"name":"x87-extended","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e83c05265d8aa744c5cfa543e11baaf072c6e28e7408d0df8898a573c481f577","features":{},"yanked":false,"pubtime":"2026-11-25T06:17:51Z"}
