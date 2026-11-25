@@ -1,0 +1,1 @@
+{"name":"atlas-partition","vers":"26.0.1-a","deps":[{"name":"atlas-fs-core","req":"^26.0.1-a","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d4213a103ca989deecf82733893e43648847d6c75f039b43af85b7f970b090","features":{"test-util":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-25T15:45:21Z"}
