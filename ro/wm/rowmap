@@ -1,0 +1,1 @@
+{"name":"rowmap","vers":"0.1.0","deps":[{"name":"toml","req":"^1.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84e2b2a8eca22d367ce018b9a3ba5629d2848ae84778c95ee541865043e7f00a","features":{"profile":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-25T12:13:13Z"}
