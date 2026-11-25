@@ -6,3 +6,4 @@
 {"name":"shiguredo_rtmp","vers":"2026.1.0-canary.5","deps":[],"cksum":"d4142bac693153ac233ed799c74043412cd01c6ecaaad62a2d3e94f2e00681e1","features":{"pbt":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-02-02T01:10:44Z"}
 {"name":"shiguredo_rtmp","vers":"2026.1.0-canary.6","deps":[],"cksum":"44a3ddf3112e8cfd27e5fd69f8b34d58dc4b7d62291a314a43cb1212b88a68bb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-17T02:44:09Z"}
 {"name":"shiguredo_rtmp","vers":"2026.1.0-canary.7","deps":[],"cksum":"14fe58beb32d13b21e41c4fad1513b31d5a798aa118b23a952ef74799efa32fc","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-21T09:24:52Z"}
+{"name":"shiguredo_rtmp","vers":"2026.1.0-canary.8","deps":[],"cksum":"59aa2b31efbf22a5ad1ea43d07ab702527f7c09aa958145c46c0a4baa2267b2f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-25T06:49:40Z"}
