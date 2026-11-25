@@ -1,0 +1,1 @@
+{"name":"tilo-component-scan","vers":"0.5.0","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"a1d433bd66e112ab43d0a05382247a071cce41343a06defc2772108e5d659b4f","features":{},"yanked":false,"pubtime":"2026-11-25T16:47:02Z"}
