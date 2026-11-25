@@ -1,0 +1,1 @@
+{"name":"tilo-platform-caps","vers":"0.5.0","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"7f00e14fbf94261fb421baa4de1aaec3c8b5a2cb6f6f9aff49e29e333d459ec2","features":{},"yanked":false,"pubtime":"2026-11-25T16:48:54Z"}
