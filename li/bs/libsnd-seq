@@ -1,0 +1,1 @@
+{"name":"libsnd-seq","vers":"0.1.0","deps":[{"name":"libspu2","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4dd2d2ee246598d3196d6cfceaea6d537e15eef85f44f9252e17729792281f58","features":{"alloc":[],"default":["std"],"std":["alloc","libspu2/std"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-25T03:27:02Z"}
