@@ -1,0 +1,1 @@
+{"name":"kintsugi-harness","vers":"3.1.1","deps":[],"cksum":"806e6e27ec419a24d7fa904a36eb8e3306c31d73c68858b9db35de29c4bbf7b7","features":{"audit":[],"default":["audit","rule-ir","logforge","sarif"],"lab-tools":["audit"],"logforge":[],"rule-ir":[],"sarif":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-26T13:56:14Z"}
