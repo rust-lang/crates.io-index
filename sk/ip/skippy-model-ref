@@ -1,0 +1,1 @@
+{"name":"skippy-model-ref","vers":"0.80.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2765d2c740ec6bd524ea7dc324f7ce6facc9b58dfea38af28238a9d4fe6203ec","features":{},"yanked":false,"pubtime":"2026-11-26T11:50:47Z"}
