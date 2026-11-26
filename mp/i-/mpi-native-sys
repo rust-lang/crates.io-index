@@ -1,0 +1,1 @@
+{"name":"mpi-native-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"48dd3f6e85b88d2c6ebfe2a4faa7841adc81367d2fafa80d5de580f9e30ae67b","features":{},"yanked":false,"pubtime":"2026-11-26T22:00:07Z"}
