@@ -1,0 +1,1 @@
+{"name":"c14zz-zstd","vers":"0.1.0","deps":[{"name":"zstd","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"acb83068c9cc1525c7d439df592821dee31d17ac001cc2f78f6605022f6860a7","features":{"prof":[],"unsafe":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T13:03:40Z"}
