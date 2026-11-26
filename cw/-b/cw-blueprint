@@ -1,0 +1,1 @@
+{"name":"cw-blueprint","vers":"0.3.0","deps":[{"name":"cw-protocol","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc1cc2d54dca636d30e1758ea1933d0fcf6137e4e434056e5bd571016dedb0f9","features":{"reference-world":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T00:07:26Z"}
