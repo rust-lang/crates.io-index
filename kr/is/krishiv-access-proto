@@ -1,0 +1,1 @@
+{"name":"krishiv-access-proto","vers":"0.3.0","deps":[{"name":"prost","req":"^0.14.4","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5a122c957fbf33e83c85e857c1451af9f18ebabde0921cbf2fb831048cde29cb","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-26T00:13:26Z"}
