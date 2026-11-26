@@ -1,0 +1,1 @@
+{"name":"arus-domain","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c13a417f2d70a22ce818e98b29c304f05d8a7f87621ef60657b0b82c5415733d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-26T10:45:02Z"}
