@@ -1,0 +1,1 @@
+{"name":"character-retargeting","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec6a251c8a133e30d581305b83363039643bc64d6a535782bf0d8128682aaa89","features":{},"features2":{"default":["gltf"],"gltf":["dep:serde_json"]},"yanked":false,"pubtime":"2026-11-26T13:09:50Z","v":2}
