@@ -1,2 +1,3 @@
 {"name":"pkix-truststore-pkcs11","vers":"0.1.0","deps":[],"cksum":"6679a17a11efa3468c0e0e8c3926e91e2e60dcc1aa02c8949981af0d9d27abce","features":{},"yanked":false,"rust_version":"1.73","pubtime":"2026-05-11T17:00:46Z"}
 {"name":"pkix-truststore-pkcs11","vers":"0.1.1","deps":[],"cksum":"810d5accd684d26bf38cb1fcc4acc27148571949944924c139a57fa3220f0653","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T05:40:02Z"}
+{"name":"pkix-truststore-pkcs11","vers":"0.1.2","deps":[],"cksum":"41992387ce1689845d7d7dd4f99161bab02c34c62d6b1339d4d2be2d5297e52f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T18:43:41Z"}
