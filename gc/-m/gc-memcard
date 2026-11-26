@@ -18,3 +18,4 @@
 {"name":"gc-memcard","vers":"0.10.3","deps":[],"cksum":"442cda50b2f21703356a1a5a5c1f588455bbde59d3e96f5e8537e0819459ded6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-18T20:35:36Z"}
 {"name":"gc-memcard","vers":"0.10.4","deps":[],"cksum":"79373f6a55f4116646ff2a7dbd75b580418c84fdc4d1682c6ff9291150de2a51","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-20T18:58:17Z"}
 {"name":"gc-memcard","vers":"0.10.5","deps":[],"cksum":"8df4114ae9ba24f418f27c2dabb196f777ad4e869e8fbad6f7d6f6547f456de6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T00:23:26Z"}
+{"name":"gc-memcard","vers":"0.11.0","deps":[],"cksum":"7e68cf1dc54c07a0b3d9c65203cae453b317ed70123820abbb667723a7e0658e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T06:57:10Z"}
