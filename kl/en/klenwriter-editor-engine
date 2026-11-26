@@ -1,0 +1,1 @@
+{"name":"klenwriter-editor-engine","vers":"1.0.0","deps":[{"name":"editor_core","req":"=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"klenwriter-editor-core"}],"cksum":"b22da670607130a32c5286f72447027f1ddb91a1e4221b635f65a8c1f57bf170","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-26T23:46:26Z"}
