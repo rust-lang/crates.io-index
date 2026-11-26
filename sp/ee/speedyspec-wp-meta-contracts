@@ -1,0 +1,1 @@
+{"name":"speedyspec-wp-meta-contracts","vers":"0.2.0","deps":[{"name":"speedyspec-php-serialize","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f5e4fcf2f68679db5b944c3997ac25d28383348a5b39bc326525773ffe9fdc","features":{"conformance":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-26T16:27:35Z"}
