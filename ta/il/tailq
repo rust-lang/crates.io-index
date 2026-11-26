@@ -1,0 +1,1 @@
+{"name":"tailq","vers":"0.1.0","deps":[{"name":"criterion","req":"=0.8.2","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"bcef784e9cde9f15351dc6ed3c7373ed005d0cb3d697ff20ea430d9be1840106","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-26T23:42:46Z"}
