@@ -1,0 +1,1 @@
+{"name":"windowgate","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.5","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"68506e8372152fa981993387d92ffa1775cccf2f9cfb883b88c1c0b070c786d0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-26T11:55:15Z"}
