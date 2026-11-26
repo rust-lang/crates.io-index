@@ -1,0 +1,1 @@
+{"name":"opendeskphone-svg","vers":"3.1.0","deps":[{"name":"resvg","req":"^0.48","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eeef7f97b66040bc08f75eed686f35bc0f921882dd80894eeac769e02ac2f732","features":{"text":["resvg/text"]},"yanked":false,"pubtime":"2026-11-26T01:12:15Z"}
