@@ -1,0 +1,1 @@
+{"name":"speedyspec-data","vers":"0.3.0","deps":[{"name":"sqlparser","req":"^0.64","features":["visitor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6e7a64bd5f306bd08ada78041791c23d1fd8e63efe7090239fbf6470aa6f768","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-26T12:47:35Z"}
