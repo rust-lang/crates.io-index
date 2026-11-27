@@ -5,3 +5,4 @@
 {"name":"subspace-client-test-support","vers":"0.5.0","deps":[],"cksum":"a49c80f51a6509930ac7dd3aa0824239cb64c8aa956ec173cade0c9bf061e2e2","features":{"test-support":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-25T11:49:22Z"}
 {"name":"subspace-client-test-support","vers":"0.6.0","deps":[],"cksum":"8a9b2af95d1dd3fde16619ebf785df7718aba8234b6dbb5ad1e3f64a0e947f3a","features":{"test-support":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-26T11:26:46Z"}
 {"name":"subspace-client-test-support","vers":"0.7.0","deps":[],"cksum":"ae6a63dfd9ae12261337b318884f50219a808f9aad5aa260d6f6cacabeb70da7","features":{"test-support":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-26T21:46:24Z"}
+{"name":"subspace-client-test-support","vers":"0.8.0","deps":[],"cksum":"abd4489f9d2cb623b0a46027f577a9cb7cbe92a5ba0748d3c7654d0d16ac40f4","features":{"test-support":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-27T11:20:30Z"}
