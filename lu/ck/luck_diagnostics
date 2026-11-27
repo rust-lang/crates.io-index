@@ -1,1 +1,2 @@
 {"name":"luck_diagnostics","vers":"0.0.0","deps":[],"cksum":"15b6103549123513850a76d6b71090ac106bd97ddafce7f724a099e75a801de6","features":{},"yanked":false,"pubtime":"2026-11-27T02:42:02Z"}
+{"name":"luck_diagnostics","vers":"0.7.0","deps":[{"name":"luck_token","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f0dc26cb96a4295bedec9d8a3a4907e201f619ae8cd8c69cba0b2d9d17d8e9","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-27T03:34:47Z"}
