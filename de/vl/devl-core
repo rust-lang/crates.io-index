@@ -1,0 +1,1 @@
+{"name":"devl-core","vers":"0.1.0-alpha.1","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e16282f375c1bcfa86b7a1ba194021ee3d8bf0baf5e236b0bdafb2e561cff72","features":{"default":[],"test-utils":[]},"yanked":false,"pubtime":"2026-11-27T00:24:59Z"}
