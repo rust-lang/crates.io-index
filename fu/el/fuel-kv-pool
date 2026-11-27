@@ -19,3 +19,4 @@
 {"name":"fuel-kv-pool","vers":"0.58.0","deps":[],"cksum":"2a5edf15cc28ff10949f443b7bfc61ce5a59ab8f76eb7d01af339d912bc59542","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T03:37:24Z"}
 {"name":"fuel-kv-pool","vers":"0.58.3","deps":[],"cksum":"4c85f15492b536411ae0ba6c849d55a60e896c556bb494d37f93ec0c77d5ab57","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T05:48:13Z"}
 {"name":"fuel-kv-pool","vers":"0.58.4","deps":[],"cksum":"b8cce8636ad34e0c2e9a28a453ac97b973b3b4f4d3373119a24cd72cabb47ee3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T06:44:58Z"}
+{"name":"fuel-kv-pool","vers":"0.59.0","deps":[],"cksum":"c36eee6ab7a67bc5e60ce6edaba7ea87b7b29d5b39263848f89559150efd0c42","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T10:14:43Z"}
