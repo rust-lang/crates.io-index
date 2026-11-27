@@ -84,3 +84,4 @@
 {"name":"truce-aax-bridge","vers":"6.2.1","deps":[],"cksum":"1926d1d1583a21ead102efc0e3f8975fd8a29bef75cb7f56f1d2b5832dfd3774","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-17T23:14:57Z"}
 {"name":"truce-aax-bridge","vers":"6.3.0","deps":[],"cksum":"daff143e1baf44634d69c4d030c420f737c20d5fbcff8fc962537161a1a143e9","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-18T15:33:32Z"}
 {"name":"truce-aax-bridge","vers":"7.0.0","deps":[],"cksum":"02acc9310fae7511f5cc2025359a2431611b90d350c3504b1e222a40772a6019","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T03:43:17Z"}
+{"name":"truce-aax-bridge","vers":"7.0.1","deps":[],"cksum":"219cb1f33300150640fbab4028973ffbebf2db44d05203f27a6ae1ed3bd2ca6c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T10:22:34Z"}
