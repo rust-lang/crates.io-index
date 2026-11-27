@@ -15,3 +15,4 @@
 {"name":"net-lattice-core","vers":"1.0.3","deps":[],"cksum":"324b7e4c6edd6c9168fb73d8163228af0a7723f4d4a958c9dadaf605b2dedae0","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-02T13:06:44Z"}
 {"name":"net-lattice-core","vers":"1.0.4","deps":[],"cksum":"1052e4ba51216bcdf869702ec0d78bead7f118c4cf48ad59f499e547aabd23da","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-03T07:26:08Z"}
 {"name":"net-lattice-core","vers":"1.1.0","deps":[],"cksum":"6879dca3a7302019c9cf19c11f32a0db56df3ed5657d648937a83b68282ef365","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-18T15:42:53Z"}
+{"name":"net-lattice-core","vers":"2.0.0","deps":[],"cksum":"7ef71ec8b299b5b2bde7a9027e818ccc980471d25af42c73cd3e1238662f3a51","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-27T08:13:08Z"}
