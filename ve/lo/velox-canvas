@@ -1,0 +1,1 @@
+{"name":"velox-canvas","vers":"0.4.0","deps":[{"name":"velox-engine","req":"^0.4.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c59bd8d3a879e80763174a7725ca69b924f828d886b5c3b19bef191dee14b28d","features":{"custom-shader":["velox-engine/custom-shader"],"default":[]},"yanked":false,"pubtime":"2026-11-27T10:18:51Z"}
