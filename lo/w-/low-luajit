@@ -4,3 +4,4 @@
 {"name":"low-luajit","vers":"0.3.1","deps":[],"cksum":"f76e8fa6459b1b82e8eb7b7d940848bdd908d6afda223b19035c5b919585c419","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-09-23T12:55:06Z"}
 {"name":"low-luajit","vers":"0.4.0","deps":[],"cksum":"e631be2a52a772d24607d19464fc5ba900c60de7d6e8da57309a3a164aff9442","features":{"no_msrv":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-03T15:53:41Z"}
 {"name":"low-luajit","vers":"0.5.0","deps":[],"cksum":"aaa8ba6ee833d2cd6769fd7df9017a9fea9304bf7b64567417953530ddac325b","features":{"no_msrv":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-25T00:53:25Z"}
+{"name":"low-luajit","vers":"0.6.0","deps":[],"cksum":"02fc7e8bcec48e089206f38c261a7b9516ffbe59f7fb2c3d474af6f51505b092","features":{"no_msrv":[],"no_panic":[],"tag_top":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-11-27T17:35:57Z"}
