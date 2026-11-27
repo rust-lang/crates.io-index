@@ -1,0 +1,1 @@
+{"name":"xlcalc-stack","vers":"0.6.2","deps":[{"name":"stacker","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(not(windows))","kind":"normal"}],"cksum":"79f6e86d362aeb420bd3921647df189ebde37d27e7e14449bc04bd49afd9f99a","features":{},"yanked":false,"pubtime":"2026-11-27T13:54:38Z"}
