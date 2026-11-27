@@ -1,0 +1,1 @@
+{"name":"nanocodec-rtp","vers":"0.8.0","deps":[{"name":"nc-common","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"nanocodec-common"}],"cksum":"72048e173b1c8a1ea5a51720a50f6d5141cbff9629fbe35af5f2e1b8b8b1ac48","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-27T22:04:43Z"}
