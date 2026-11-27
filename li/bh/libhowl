@@ -1,0 +1,1 @@
+{"name":"libhowl","vers":"0.1.0","deps":[{"name":"libspu2","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"53d341673f14a8637de11b42592847dc6369fe56d2bcdaf1e38a6b6c10074aa6","features":{"alloc":[],"default":["std"],"std":["alloc","libspu2/std"]},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-27T00:59:53Z"}
