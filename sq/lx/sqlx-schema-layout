@@ -1,0 +1,1 @@
+{"name":"sqlx-schema-layout","vers":"0.1.0","deps":[{"name":"toml_edit","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2e20854eec8ed9d29c2d3c2e4e2cec86fc4b3ce015afd5007f18291c79e592a","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-27T13:47:01Z"}
