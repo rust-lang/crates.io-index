@@ -3,3 +3,4 @@
 {"name":"codeindex","vers":"0.2.1","deps":[],"cksum":"be6da6751ffffc3327fec568b27b24989bfac068db5ac55aa385bb305183881d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-24T15:32:50Z"}
 {"name":"codeindex","vers":"0.2.2","deps":[],"cksum":"22a0dfe3cf540e580478fc58bb277e6c7da3c27c14b97b755fce5830a1911ac3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-25T14:42:58Z"}
 {"name":"codeindex","vers":"0.2.3","deps":[],"cksum":"aac4facce19d2a191c1323d6525e305636921e4cb3648abb564ab1404c13ceee","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-25T15:12:51Z"}
+{"name":"codeindex","vers":"0.2.4","deps":[{"name":"clap","req":"^4","features":["std","error-context"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"033955eb72c3d536b825c6efa2e168c769e5771ffc243708d953ed1cf32eced6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T10:59:55Z"}
