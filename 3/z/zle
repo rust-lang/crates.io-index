@@ -1,0 +1,1 @@
+{"name":"zle","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8.2","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"121b025c5af15ad64bc21110fea6220067df7204984c09fcfe87b1f64cd93aed","features":{"internals":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-27T16:28:37Z"}
