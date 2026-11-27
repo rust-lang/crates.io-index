@@ -1,3 +1,4 @@
 {"name":"gax","vers":"0.1.0","deps":[],"cksum":"4c3801dc963f8ae7c993fd007df982e0066216019d7e8870bf481ee33cc94704","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-23T18:59:09Z"}
 {"name":"gax","vers":"0.1.1","deps":[],"cksum":"c3e6aa2e37f03dac70f4980b8615bb075fb82912920a6f901ba8b97158599186","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-23T22:55:55Z"}
 {"name":"gax","vers":"0.1.2","deps":[],"cksum":"f36adc7051c25b36916cb386f5f9efbc6d26ee0ee58162e1c72fbcc60672bf30","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-24T04:31:39Z"}
+{"name":"gax","vers":"0.1.3","deps":[],"cksum":"0d71b4b370053d220f51219367036b5b291847bc4795c23a0f4e9168f3d1c341","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"pubtime":"2026-11-27T03:13:51Z"}
