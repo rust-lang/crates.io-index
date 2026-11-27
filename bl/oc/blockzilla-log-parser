@@ -1,0 +1,1 @@
+{"name":"blockzilla-log-parser","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb6c5b4ef33aada518942a9d6cf4cf16fe25d5938349822fb7770ce643fc633b","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-27T12:21:35Z"}
