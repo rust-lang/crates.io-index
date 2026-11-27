@@ -1,1 +1,2 @@
 {"name":"rustfront","vers":"0.0.1","deps":[],"cksum":"089bf7a898e4b9cd21859185991eb24401473a9c2cc42bf3e4545cb090416804","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-27T18:40:53Z"}
+{"name":"rustfront","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d77ad912f630002b602582bc7cd74890af8ab930da946175db4900448427ca03","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T22:00:39Z"}
