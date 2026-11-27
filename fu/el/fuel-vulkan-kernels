@@ -17,3 +17,4 @@
 {"name":"fuel-vulkan-kernels","vers":"0.47.32","deps":[],"cksum":"dd1ca034df1c679ae653f118bc09167a0a1a282d6823fcf5fa64218cd33586cd","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T00:51:48Z"}
 {"name":"fuel-vulkan-kernels","vers":"0.56.1","deps":[],"cksum":"d59f0053262daf9f3a6e37fb4e82fe11b7594b33f20ed5b51fbd638432f738eb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T16:21:35Z"}
 {"name":"fuel-vulkan-kernels","vers":"0.57.0","deps":[],"cksum":"14c1cda38a436e091aeb0f728a69db50cd77785431f30a8d7f1cce226179e722","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-26T22:35:50Z"}
+{"name":"fuel-vulkan-kernels","vers":"0.58.0","deps":[],"cksum":"1495cde16a7fe79cd1065942a629b89cb7171440e2b6c2266aa387a44f3964fd","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T03:37:27Z"}
