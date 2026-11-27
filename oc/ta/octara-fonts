@@ -4,3 +4,4 @@
 {"name":"octara-fonts","vers":"0.0.4","deps":[],"cksum":"4eaa9fee18dbdda362464f6074f32ce5155cbadff3e6590c12df689c0c801a24","features":{"cjk":[],"default":["cjk"]},"yanked":true,"rust_version":"1.100","pubtime":"2026-11-27T01:51:52Z"}
 {"name":"octara-fonts","vers":"0.0.5","deps":[],"cksum":"71372c9a36d70b2a54719d79d5b8e53b52d04df6d5581622f05e023c23443aec","features":{"cjk":[],"default":["cjk"]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-27T04:47:42Z"}
 {"name":"octara-fonts","vers":"0.0.6","deps":[],"cksum":"834c0421c9f63b13441dd0ed2cad5b78f8da8f8227f886db994da0edd1ef7928","features":{"cjk":[],"default":["cjk"]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-27T07:01:26Z"}
+{"name":"octara-fonts","vers":"0.0.7","deps":[],"cksum":"3e3862c1851a7d60a9bd0e2d06d8d165ed2fcd09e4809f1107ab46d4f3bea04c","features":{"cjk":[],"default":["cjk"]},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-27T09:08:26Z"}
