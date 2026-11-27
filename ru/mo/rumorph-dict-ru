@@ -5,3 +5,4 @@
 {"name":"rumorph-dict-ru","vers":"0.5.0","deps":[],"cksum":"20081ff889f37d4a3ed609a500bd8b082e0cb69bd8036de5d9d3105c2f85f059","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-02T23:40:42Z"}
 {"name":"rumorph-dict-ru","vers":"0.6.0","deps":[],"cksum":"1de6767c5c748665a1c1f7e76d1674a4b93433974d31f8fa23bd058cd8dcd5ba","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-17T02:47:31Z"}
 {"name":"rumorph-dict-ru","vers":"0.7.0","deps":[],"cksum":"9c6490e174f97ce77a322cd437b045fe146c0dae9d781989a05b671e931def3f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T04:43:38Z"}
+{"name":"rumorph-dict-ru","vers":"0.8.0","deps":[{"name":"ruzstd","req":"^0.9.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"1f8de4e61f5500ab810a26db35799a5949724018a128350a803d1a5a4bf94f0e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-27T23:39:48Z"}
