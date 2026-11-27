@@ -1,3 +1,4 @@
 {"name":"log-fft","vers":"0.1.0","deps":[],"cksum":"6869997e20b0d58165933851d9cfef275eed7f16e64be6ea855607f188d06977","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-27T02:25:08Z"}
 {"name":"log-fft","vers":"0.1.1","deps":[],"cksum":"4db3ff7fda0917dd2b71baf93cd5fd8dd2830f33ced1b397186ac8bec20cc569","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-27T02:34:51Z"}
 {"name":"log-fft","vers":"0.1.2","deps":[],"cksum":"77d8ab84eb1f6946996b11622441ed9d7bd238645c6c7c68f14effa52088b893","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-27T03:22:30Z"}
+{"name":"log-fft","vers":"0.1.3","deps":[],"cksum":"425f6a621f84a620b5d1b929885517c4ab63134814c972db84505553683cfb62","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-27T04:32:37Z"}
