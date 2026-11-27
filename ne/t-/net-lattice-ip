@@ -13,3 +13,4 @@
 {"name":"net-lattice-ip","vers":"1.0.3","deps":[],"cksum":"55c986bb05bf56823cf9a5c67e817b8828c9791f6305abc51a7de73576131971","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-02T13:06:47Z"}
 {"name":"net-lattice-ip","vers":"1.0.4","deps":[],"cksum":"04a6af71f4a13158be54a7e4374633c73c214916740ec86572cdec39998634af","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-03T07:26:13Z"}
 {"name":"net-lattice-ip","vers":"1.1.0","deps":[],"cksum":"3c35c0db74203575e82ba68e2b528967f8f80eb59236c2d9ac5ec7bb81737aba","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-18T15:42:58Z"}
+{"name":"net-lattice-ip","vers":"2.0.0","deps":[],"cksum":"aff28ce02edfd8055d68607635c0e777c4d2af6c798048e935629d474e3d403f","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-27T08:13:11Z"}
