@@ -1,0 +1,1 @@
+{"name":"rg-ir","vers":"1.5.0","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93ddaa80b93c7210bfdbb87569bee604664836b869815853abb44cb861f9eff8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T12:40:52Z"}
