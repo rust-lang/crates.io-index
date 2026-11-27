@@ -1,0 +1,1 @@
+{"name":"mt32-rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"d8180fb4b5030651f8e640e9a19d8febd284a2d3946a4acdb2dab33ec494c511","features":{},"features2":{"oracle":["dep:cc"]},"yanked":false,"rust_version":"1.93","pubtime":"2026-11-27T10:12:33Z","v":2}
