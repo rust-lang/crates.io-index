@@ -1,0 +1,1 @@
+{"name":"simee-debug","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50aa165e95ff4ed0098969a0282c2c4ff2b4054fa5c0ed8ce2f9f90ab088fd74","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-27T14:53:48Z"}
