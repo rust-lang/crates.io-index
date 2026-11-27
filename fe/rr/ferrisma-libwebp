@@ -1,0 +1,1 @@
+{"name":"ferrisma-libwebp","vers":"0.1.0","deps":[{"name":"ferrisma-sharpyuv","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"898e2413b07b60edbb78e71c4817ead229ae85c9173dd9a2518b7611b050d95d","features":{"default":["simd"],"oracle":[],"simd":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T22:11:25Z"}
