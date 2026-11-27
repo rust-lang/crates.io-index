@@ -2,3 +2,4 @@
 {"name":"gptp","vers":"0.2.0","deps":[],"cksum":"54a135d78e91887574b20b2bab724f024709a75505ec54f0f59bf4eab5504bad","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-11T23:33:03Z"}
 {"name":"gptp","vers":"0.2.1","deps":[],"cksum":"9e293391bc11f13c70bfd3e5123342a21aff5c2b94cc229d4e20a952790be715","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-24T06:23:27Z"}
 {"name":"gptp","vers":"0.2.2","deps":[],"cksum":"5fcdbdd3fcfa0438ab4d32dd09a73bf48bea325a8fded12c4a8fdc5aa0ded0df","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-24T06:35:34Z"}
+{"name":"gptp","vers":"0.3.0","deps":[],"cksum":"bec299fb0ed734e519d1b004d67a7a7946e33090e2cc65b383987154909e94e1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-27T01:59:30Z"}
