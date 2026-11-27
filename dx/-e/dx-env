@@ -1,0 +1,1 @@
+{"name":"dx-env","vers":"0.8.0-alpha.4","deps":[{"name":"wasm-bindgen","req":"^0.2.127","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4cfb31cdf47ea9b44c72f782091b933bb8bd7f885210846f80d1d459898b106","features":{},"features2":{"web":["dep:wasm-bindgen"]},"yanked":false,"pubtime":"2026-11-27T00:26:23Z","v":2}
