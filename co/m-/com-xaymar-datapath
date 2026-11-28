@@ -1,0 +1,1 @@
+{"name":"com-xaymar-datapath","vers":"1.0.1","deps":[{"name":"sys","req":"=1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"com-xaymar-datapath-sys"}],"cksum":"7d23fbef0ac4720a75c7d1043414c7d740d7dd807f9431e1848b5ee4eb64c367","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-28T12:52:16Z"}
