@@ -1,0 +1,1 @@
+{"name":"gnu2-tls","vers":"0.1.0","deps":[{"name":"gnu2-tls-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0d5e61cfc6bad844985949ef409b32768a3a7d793ac6c5222773522dcde6e75","features":{"glibc-gnu2-tls-fix":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-28T01:19:12Z"}
