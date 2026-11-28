@@ -1,0 +1,1 @@
+{"name":"sqlite-doctor","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f7245136140a9a80825c8022b86fae4ee19b8934190c2892f61ae6321eefd47","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-28T14:15:43Z"}
