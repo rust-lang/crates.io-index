@@ -1,1 +1,2 @@
 {"name":"maybe_send_sync","vers":"0.1.0","deps":[],"cksum":"0f59215b396d7cecd2fe732dbb733a17423d07625f7eabe063efdfd5a02bb41a","features":{"not_send":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-11-28T04:15:39Z"}
+{"name":"maybe_send_sync","vers":"0.1.1","deps":[],"cksum":"6475500fb609d99beaf3ad12e6f3775d45eca91e2b2cf1cc9819dec014e8168a","features":{"not_send":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-11-28T04:26:29Z"}
