@@ -1,0 +1,1 @@
+{"name":"egraph-spatial-fft","vers":"6.0.0-beta.2","deps":[{"name":"egraph-core","req":"^6.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44b0dea2b025a98b8aa315f70b64a692fc2c42acf66dab1f9b1764465c84a440","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-28T12:07:09Z"}
