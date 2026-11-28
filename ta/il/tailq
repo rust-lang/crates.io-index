@@ -2,3 +2,4 @@
 {"name":"tailq","vers":"0.1.1","deps":[{"name":"criterion","req":"=0.8.2","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"5d26fd020ee54dff0eed395addcbf0193463d831b653c9a876129febc56f906f","features":{},"yanked":true,"rust_version":"1.99","pubtime":"2026-11-26T23:49:37Z"}
 {"name":"tailq","vers":"0.2.0","deps":[],"cksum":"66a04e76e56b8254b2dd20bd6c0d0459a68db5eb952a889e2bfd6d5a01871151","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-27T23:58:33Z"}
 {"name":"tailq","vers":"0.3.0","deps":[],"cksum":"658d79f67f25335d1e4eb75600b0cbd4d947c7c0b8890a6b2149e15371629447","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-28T01:59:27Z"}
+{"name":"tailq","vers":"0.3.1","deps":[],"cksum":"50d3a654856c0d68ccc832b120d1e68685fe13feca7b3cc65368946069145fe7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-28T11:56:46Z"}
