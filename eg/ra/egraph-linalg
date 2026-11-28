@@ -1,0 +1,1 @@
+{"name":"egraph-linalg","vers":"6.0.0-beta.2","deps":[{"name":"egraph-core","req":"^6.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d577e767a416881ab7e265078846952bfe88cc8f087fc9bb14e4ac7d7f32a8bc","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-28T11:55:51Z"}
