@@ -1,0 +1,1 @@
+{"name":"bitrouter-build","vers":"1.0.0-beta.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67b385abd8c68bd03375c2ae9ff363eb5dbadc021e71b17b6888f040c382f8fc","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-11-28T13:46:13Z"}
