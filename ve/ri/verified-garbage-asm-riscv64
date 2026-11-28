@@ -1,0 +1,1 @@
+{"name":"verified-garbage-asm-riscv64","vers":"0.1.0","deps":[{"name":"verified-garbage-cpu","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba619406194c679134e034946067ce923db0dd720b3d6e04692fa8910d09f11e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-28T14:46:50Z"}
