@@ -25,5 +25,5 @@
 {"name":"amivuln-version","vers":"1.2.2","deps":[],"cksum":"739b4cc09b464c2e95e9a5c248e4c1386cd4d4cf87348bd95a0246130121c754","features":{},"yanked":true,"rust_version":"1.97","pubtime":"2026-11-26T16:42:17Z"}
 {"name":"amivuln-version","vers":"1.2.3","deps":[],"cksum":"66deee16a932ceb5b3ef272eb4023a8eec480cb03bd0fb8600ebf1a4b18a5cdc","features":{},"yanked":true,"rust_version":"1.97","pubtime":"2026-11-26T19:28:17Z"}
 {"name":"amivuln-version","vers":"1.2.4","deps":[],"cksum":"7d1d6ef743bc5fa0dec7578a52a1898a3435f6fe4d98f9b3b41c8961c1c312c5","features":{},"yanked":true,"rust_version":"1.97","pubtime":"2026-11-26T23:33:13Z"}
-{"name":"amivuln-version","vers":"1.2.5","deps":[],"cksum":"edbeffcf689b9494d4a58726798e895fd0de3d0e1be47d9f5895ad79278f0dfd","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-27T15:43:22Z"}
+{"name":"amivuln-version","vers":"1.2.5","deps":[],"cksum":"edbeffcf689b9494d4a58726798e895fd0de3d0e1be47d9f5895ad79278f0dfd","features":{},"yanked":true,"rust_version":"1.97","pubtime":"2026-11-27T15:43:22Z"}
 {"name":"amivuln-version","vers":"1.3.0","deps":[],"cksum":"cbdc1fbd3f6e31414d2ece97908e5dca90bfc19b6ba508a0d36bf03af5966819","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-28T00:09:08Z"}
