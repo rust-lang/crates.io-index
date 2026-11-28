@@ -2,3 +2,4 @@
 {"name":"TerimalRtdm","vers":"0.0.2","deps":[],"cksum":"f9e942e067201fec8298ef4d9a0f2b31c2f59ae308e1fece9469a46d4e1376b7","features":{},"yanked":false,"pubtime":"2025-02-04T21:25:49Z"}
 {"name":"TerimalRtdm","vers":"0.0.3","deps":[],"cksum":"287f038dcf10eb30142c4662ac3701b7031be15b760d604e6c85ef6dc7e5dea3","features":{},"yanked":false,"pubtime":"2025-06-05T03:51:05Z"}
 {"name":"TerimalRtdm","vers":"0.0.4","deps":[],"cksum":"b0b7dda43a4139ebea9e10d66fab7367629c5f7893de432a89aab504dfd5c0b4","features":{},"yanked":false,"pubtime":"2025-06-27T21:44:16Z"}
+{"name":"TerimalRtdm","vers":"0.0.5","deps":[{"name":"minifb","req":"^0.29","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e24fff84a79cc32007729007e0d206577974ba1f134904af7d579d92bc81e147","features":{"default":[]},"features2":{"minifb":["dep:minifb"]},"yanked":false,"pubtime":"2026-11-28T09:12:46Z","v":2}
