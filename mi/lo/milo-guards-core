@@ -5,3 +5,4 @@
 {"name":"milo-guards-core","vers":"0.1.4","deps":[],"cksum":"d835d0611e8d0aa557ed4ea23cabbd223888b0aa669a222d87a8521df31d7629","features":{"testing":[]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-22T14:43:19Z"}
 {"name":"milo-guards-core","vers":"0.2.0","deps":[],"cksum":"3934fe9477145f7203c870915788a1f6758733bb5cb8b2a1c791d9a1d0e1e332","features":{"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-26T17:20:28Z"}
 {"name":"milo-guards-core","vers":"0.2.1","deps":[],"cksum":"a57594dd5d5bdbcc4ab361829402ccb8c05457444754c4491d4c54af1d6a3a72","features":{"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-28T09:39:41Z"}
+{"name":"milo-guards-core","vers":"0.2.2","deps":[],"cksum":"fe5768629e1e1e9f1d3ed3c10101bd4e61dcd08c787eebc29bf8fa51d6afe533","features":{"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-28T12:30:57Z"}
