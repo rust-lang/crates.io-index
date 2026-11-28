@@ -1,0 +1,1 @@
+{"name":"tilo-os-release","vers":"0.5.3","deps":[{"name":"workspace-hack","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"c2b4fc119af1cade0b7a701a087a68c2d85f4cae8606c3ee920a572f43fd4fd4","features":{},"yanked":false,"pubtime":"2026-11-28T07:34:02Z"}
