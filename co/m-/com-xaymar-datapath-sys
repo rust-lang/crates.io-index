@@ -1,0 +1,1 @@
+{"name":"com-xaymar-datapath-sys","vers":"1.0.1","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"34b8d615bf73d119a00539e5d34593084e2df17b43bfe7c067a82a7e9a273257","features":{},"yanked":false,"links":"datapath","rust_version":"1.70","pubtime":"2026-11-28T12:52:15Z"}
